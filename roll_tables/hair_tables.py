@@ -65,5 +65,5 @@ hair = MultiRoll(
     hair_length
 )
 
-def gen_hair():
+def gen_hair(race):
     return hair.roll()
