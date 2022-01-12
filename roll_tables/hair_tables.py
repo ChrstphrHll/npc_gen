@@ -65,5 +65,34 @@ hair = MultiRoll(
     hair_length
 )
 
+metalic_table = Table(
+    ("gold", 1),
+    ("silver", 1),
+    ("bronze", 1),
+    ("brass", 1),
+    ("copper", 1)
+)
+gemstones = Table(
+    ("ruby", 1),
+    ("topaz", 1),
+    ("sapphire", 1),
+    ("garnet", 1),
+    ("amethyst", 1),
+    ("quartz", 1),
+    ("diamond", 1),
+    ("onyx", 1),
+    ("emerald", 1)
+)
+
+warforged_inset = MultiRoll(
+    "smooth {} guilded with {}",
+    metalic_table,
+    Table((metalic_table, 5), (gemstones, 1))
+)
+
 def gen_hair(race):
+    if race == "Warforged":
+        return warforged_inset.roll()
+    elif race == "Dragonborn":
+        pass
     return hair.roll()

@@ -26,6 +26,6 @@ rare  = [
 ]
 
 def get_race():
-    race_list = random.choices([common, uncommon, rare], [70, 25, 5])[0]
+    race_list = random.choices([common, uncommon, rare], [50, 35, 10])[0]
     race = random.choice(race_list)
     return race
