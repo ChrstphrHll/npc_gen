@@ -8,13 +8,14 @@ def load_data(file_name):
 
 traits = load_data("data/traits.txt")
 flaws = load_data("data/flaws.txt")
-ideals = load_data("data/ideals.txt")
+ideals = load_data("data/ideals_alt.txt")
 bonds = load_data("data/bonds.txt")
-interacts = load_data("data/interact.txt")
+positive_traits = load_data("data/positive_interact.txt")
+neutral_traits = load_data("data/neutral_interact.txt")
+negative_traits = load_data("data/negative_interact.txt")
 
 def get_element(list):
-    random.shuffle(list)
-    return list[0]
+    return random.choice(list)
 
 def get_trait():
     return get_element(traits)
@@ -28,5 +29,8 @@ def get_ideal():
 def get_bond():
     return get_element(bonds)
 
-def get_interact():
-    return get_element(interacts)
+def get_interact(trait_type):
+    if trait_type == "positive":
+        return get_element(positive_traits + neutral_traits)
+    if trait_type == "negative":
+        return get_element(negative_traits + neutral_traits)
