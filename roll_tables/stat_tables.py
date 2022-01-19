@@ -71,7 +71,6 @@ def get_stats(spec):
     stats_to_be_processed.remove(best_stat)
     random.shuffle(stats_to_be_processed)
 
-    print("process", stats_to_be_processed)
     if not best_stat_first:
         selected_stat_name = stats_to_be_processed.pop()
         selected_stat_num = raw_stats.pop()
