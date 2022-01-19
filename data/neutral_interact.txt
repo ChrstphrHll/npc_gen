@@ -4,7 +4,6 @@ Ambitious
 Amusing
 Animated
 Artful
-Ascetic
 Authoritarian
 Bashful
 Big-thinking
@@ -16,7 +15,6 @@ Busy
 Candid
 Carefree
 Casual
-Cerebral
 Chummy
 Circumspect
 Competitive
