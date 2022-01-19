@@ -12,8 +12,9 @@ class Person:
         else:
             self.name = name_gen.create_names(1)[0]
         
-        #Generate Race
+        #Generate Race and Spec
         self.race = race_gen.get_race()
+        self.spec = stat_gen.get_spec()
 
         #Generate Appearence
         self.hair = look_gen.get_hair(self.race)
