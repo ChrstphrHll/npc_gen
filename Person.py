@@ -2,6 +2,7 @@ import names.names_utility as name_gen
 import roll_tables.look_tables as look_gen
 import roll_tables.personality_tables as person_gen
 import roll_tables.race_tables as race_gen
+import roll_tables.stat_tables as stat_gen
 
 class Person:
     def __init__(self, presets = {}):
@@ -27,6 +28,9 @@ class Person:
         self.trait = person_gen.get_trait()
         self.flaw = person_gen.get_flaw()
         self.bond = person_gen.get_bond()
+
+        #Generate Stats
+        self.stats = stat_gen.get_stats(self.spec)
     
     def get_description(self):
         current_character_description = ""

@@ -1,6 +1,7 @@
 import random
 
 specs = [
+    "Artificer",
     "Barbarian",
     "Bard",
     "Cleric",
