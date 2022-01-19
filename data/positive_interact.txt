@@ -7,7 +7,6 @@ Affable
 Affectionate
 Agreeable
 Alert
-Allocentric
 Altruistic
 Amiable
 Anticipative
@@ -22,17 +21,14 @@ Authentic
 Balanced
 Benevolent
 Bold
-Brainy
 Brave
 Bright
-Brilliant
 Calm
 Capable
 Captivating
 Caring
 Challenging
 Characterful
-Charismatic
 Charitable
 Charming
 Cheerful
@@ -42,7 +38,6 @@ Clear-headed
 Clever
 Colorful
 Communicative
-Companionly
 Compassionate
 Competent
 Concerned
@@ -51,7 +46,6 @@ Confident
 Conscientious
 Considerate
 Consistent
-Constant
 Contemplative
 Contented
 Cooperative
@@ -62,7 +56,6 @@ Cultured
 Curious
 Dainty
 Daring
-Dauntless
 Debonair
 Decent
 Decisive
@@ -78,13 +71,11 @@ Directed
 Discerning
 Disciplined
 Discreet
-Dispassionate
 Dreamer
 Dutiful
 Dynamic
 Earnest
 Easygoing
-Ebullient
 Educated
 Effective
 Efficient
@@ -134,7 +125,6 @@ Healthy
 Hearty
 Helpful
 Heroic
-High-minded
 Honest
 Honorable
 Hopeful
@@ -152,15 +142,12 @@ Independent
 Individualistic
 Industrious
 Infallible
-Initiative
 Innovative
 Inoffensive
 Insightful
 Insistent
 Insouciant
-Intelligent
 Intrepid
-Intuitive
 Inventive
 Invulnerable
 Jolly
@@ -170,7 +157,6 @@ Just
 Keen
 Kind
 Knowledgeable
-Languid
 Leader
 Leisurely
 Liberal
@@ -208,7 +194,6 @@ Optimistic
 Orderly
 Organised
 Original
-Painstaking
 Passionate
 Patient
 Patriotic
@@ -231,9 +216,7 @@ Precise
 Principled
 Profound
 Proper
-Protean
 Protective
-Providential
 Prudent
 Pruposeful
 Punctual
@@ -256,7 +239,6 @@ Righteous
 Romantic
 Rustic
 Sage
-Sane
 Scholarly
 Scrupulous
 Secure
@@ -280,8 +262,6 @@ Silent
 Simple
 Sincere
 Skillful
-Smart
-Sober
 Sociable
 Solid
 Sophisticated
@@ -289,7 +269,6 @@ Spontaneous
 Sporting
 Stable
 Steadfast
-Strong
 Strong-willed
 Studious
 Suave
