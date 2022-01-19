@@ -38,7 +38,7 @@ medium_hair = Table(
     ("done up in a top knot", 5),
     (MultiRoll("braided with {} ribbon (med)", hair_uncommon), 5),
     ("put back in a short pony tail", 5),
-    ("loose around the shoulders", 5),
+    ("loose around the shoulders", 10),
     ("parted to the side, slightly obscuring an eye", 5),
     ("pulled to the side and buzzed on the right", 2),
     ("pulled to the side and buzzed on the left", 2),
@@ -121,11 +121,20 @@ dragonborn_hair = Table(
     ("long spines", 1)
 )
 
+kenku_hair = Table(
+    ("sleek", 1),
+    ("ruffled", 1),
+    ("speckled", 1),
+    ("striped", 1),
+)
+
 def get_hair(race):
     if race == "Warforged":
         return warforged_inset.roll()
     elif race == "Dragonborn":
         return dragonborn_hair.roll()
+    elif race == "Kenku":
+        return kenku_hair.roll()
     return hair.roll()
 
 eye_colors = [
@@ -182,6 +191,13 @@ def get_skin(race):
         selection_list = [
             "Pale Brown",
             "Pale Blue",
+            "Pale Green",
+            "Pale Gray"
+        ]
+    elif race == "Half-Orc":
+        selection_list = [
+            "Green Blue",
+            "Deep Green",
             "Pale Green",
             "Pale Gray"
         ]
