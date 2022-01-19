@@ -13,12 +13,8 @@ class Person:
         else:
             self.name = name_gen.create_names(1)[0]
         
-        #Generate Race and Spec
+        #Generate Race
         self.race = race_gen.get_race()
-        self.spec = stat_gen.get_spec()
-
-        #Generate Stats
-        self.stats = stat_gen.get_stats(self.spec)
 
         #Generate Appearence
         self.hair = look_gen.get_hair(self.race)
@@ -39,6 +35,7 @@ class Person:
 
         #Initialize placeholders
         self.relationships = []
+        self.organizations = []
     
     def get_description(self):
         current_character_description = ""
