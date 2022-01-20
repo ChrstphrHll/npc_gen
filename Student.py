@@ -18,7 +18,7 @@ class Student(Person):
         self.year = None
         self.guild = None
         self.partyID = None
-
+        
     def set_partyID(self, partyID):
         self.partyID = partyID
 

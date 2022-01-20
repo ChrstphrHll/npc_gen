@@ -1,7 +1,7 @@
 import json, random 
 from Student import Student
 
-def create_students():
+def create_students(visualized = False):
     ##Read in list of finalized names
     with open("names/final_list.json") as f:
         names = json.load(f)['names']
@@ -48,7 +48,8 @@ def create_students():
     for element in students_processed:
         guild = random.choice(list(guilds.keys()))
         for student in element:
-            student.guild = guild
+            print(student.name, "should be in", guild)
+            student.set_guild(guild)
         guilds[guild].append(element)
 
     ##Assign years to parties
@@ -65,10 +66,19 @@ def create_students():
         print("parties:", len(value), "kids:", total)
 
     ##Some visualization for looking at the generated results
-    for name, parties in guilds.items():
-        l = [0,0,0,0,0,0,0,0,0]
-        for party in parties:
-            l[party[0].year - 1] += 1
+    if visualized:
+        for name, parties in guilds.items():
+            l = [0,0,0,0,0,0,0,0,0]
+            for party in parties:
+                l[party[0].year - 1] += 1
 
-        print(name[:3], l)
+            print(name[:3], l)
+    
+    finalized_roster = []
+    for parties in guilds.values():
+        for party in parties:
+            for student in party:
+                finalized_roster.append(student)
+
+    return finalized_roster
         
