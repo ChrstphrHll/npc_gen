@@ -1,54 +1,54 @@
 ---
 birthday:
-  numeric: 7/32
-  written: 32nd of Korent
-bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
-eyes: Deep Blue
-flaw: I let my need to win arguments overshadow friendships and harmony.
-guild: Fiesn
-hair: curly lighter blonde hair that's kept back by a green headband
-ideal: Effectiveness
+  numeric: 3/26
+  written: 26th of Melorent
+bond: Nothing is more important than the other members of my family.
+eyes: Pale Green
+flaw: It's not stealing if I need it more than someone else.
+guild: Burk
+hair: wavy dark red hair that's parted to the left
+ideal: Leadership
 name: Abryia Rubrae
 organizations: []
-partyID: 23
-race: Triton
+partyID: 93
+race: Halfling
 relationships:
-- name: Wulfe Galan
+- name: Yan Sorsasta
   type: partymate
-- name: Hanna Arkhun
+- name: Violetta Coldsprinter
   type: partymate
-- name: Melcyn Taeral
+- name: Nicholus Morthil
   type: partymate
-skin: Spring Green
-spec: Artificer
+skin: Light
+spec: Monk
 stats:
-  cha: 16
-  con: 11
-  dex: 6
+  cha: 8
+  con: 14
+  dex: 13
   int: 12
   str: 12
-  wis: 9
-track: Protection
-trait: I've spent so long in the temple that I have little practical experience dealing
-  with people in the outside world.
-trait1: Sensitive
-trait2: Unreligious
-year: 4
+  wis: 10
+track: Exploration
+trait: I keep multiple holy symbols on me and invoke whatever deity might come in
+  useful at any given moment.
+trait1: Dreamer
+trait2: Scheming
+year: 2
 ---
 # Abryia Rubrae
 ---
 ### Description
-- 4th year Triton Artificer in Fiesn
-- curly lighter blonde hair that's kept back by a green headband, Deep Blue eyes, and Spring Green skin
-- Is Sensitive and Unreligious, and has Effectiveness as their ideal
+- 2nd year Halfling Monk in Burk
+- wavy dark red hair that's parted to the left, Pale Green eyes, and Light skin
+- Is Dreamer and Scheming, and has Leadership as their ideal
 
 ### Organizations
 ### Relationships
-[[Wulfe Galan]]: partymate
-[[Hanna Arkhun]]: partymate
-[[Melcyn Taeral]]: partymate
+[[Yan Sorsasta]]: partymate
+[[Violetta Coldsprinter]]: partymate
+[[Nicholus Morthil]]: partymate
 ### Stats
 ```statblock
 name: Abryia Rubrae
-stats: [12, 6, 11, 12, 9, 16]
+stats: [12, 13, 14, 12, 10, 8]
 ```

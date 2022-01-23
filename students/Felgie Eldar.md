@@ -1,56 +1,54 @@
 ---
 birthday:
-  numeric: 5/26
-  written: 26th of Iounent
-bond: Those who fight beside me are those worth dying for.
+  numeric: 4/12
+  written: 12th of Moradent
+bond: Nothing is more important than the other members of my hermitage, order, or
+  association.
 eyes: Gray
-flaw: I'll do anything to win fame and renown.
-guild: Burk
-hair: straight auburn hair that's loose around the shoulders
-ideal: Adventure
+flaw: People who can't take care of themselves get what they deserve.
+guild: Fiesn
+hair: wavy dirty blonde hair that's put back in a long pony tail
+ideal: Spiritualism
 name: Felgie Eldar
 organizations: []
-partyID: 57
-race: Aasimar
+partyID: 60
+race: Goliath
 relationships:
-- name: Taanyth Seeker
+- name: Selina Bellas
   type: partymate
-- name: Jaris Amlaruil
+- name: Mateos Elanil
   type: partymate
-- name: Tyego Sinaht
+- name: Brianna Kosunten
   type: partymate
-- name: Tisette Bender
-  type: partymate
-skin: Fair
-spec: Rouge
+skin: Light Tan
+spec: Druid
 stats:
-  cha: 14
-  con: 13
+  cha: 13
+  con: 8
   dex: 14
   int: 16
-  str: 12
-  wis: 9
+  str: 13
+  wis: 15
 track: Protection
-trait: I express affection or contempt in ways that are unfamiliar to others.
-trait1: Entrepreneurial
-trait2: Emotional
-year: 1
+trait: I have a strong code of honor or sense of propriety that others don't comprehend.
+trait1: Dreamer
+trait2: Profligate
+year: 2
 ---
 # Felgie Eldar
 ---
 ### Description
-- 1st year Aasimar Rouge in Burk
-- straight auburn hair that's loose around the shoulders, Gray eyes, and Fair skin
-- Is Entrepreneurial and Emotional, and has Adventure as their ideal
+- 2nd year Goliath Druid in Fiesn
+- wavy dirty blonde hair that's put back in a long pony tail, Gray eyes, and Light Tan skin
+- Is Dreamer and Profligate, and has Spiritualism as their ideal
 
 ### Organizations
 ### Relationships
-[[Taanyth Seeker]]: partymate
-[[Jaris Amlaruil]]: partymate
-[[Tyego Sinaht]]: partymate
-[[Tisette Bender]]: partymate
+[[Selina Bellas]]: partymate
+[[Mateos Elanil]]: partymate
+[[Brianna Kosunten]]: partymate
 ### Stats
 ```statblock
 name: Felgie Eldar
-stats: [12, 14, 13, 16, 9, 14]
+stats: [13, 14, 8, 16, 15, 13]
 ```

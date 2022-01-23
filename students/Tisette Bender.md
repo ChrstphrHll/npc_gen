@@ -1,57 +1,53 @@
 ---
 birthday:
-  numeric: 3/7
-  written: 7th of Melorent
+  numeric: 1/23
+  written: 23rd of Avanent
 bond: Someone stole my precious instrument, and someday I'll get it back.
 eyes: Brown
-flaw: I too often hear veiled insults and threats in every word addressed to me, and
-  I'm quick to anger.
+flaw: I overlook obvious solutions in favor of complicated ones.
 guild: Burk
-hair: wavy black hair that's done up in a top knot
-ideal: Humor
+hair: frizzy green hair that's parted to the right
+ideal: Logic
 name: Tisette Bender
 organizations: []
-partyID: 57
-race: Elf
+partyID: 95
+race: Gnome
 relationships:
-- name: Taanyth Seeker
+- name: Brinna Muerlara
   type: partymate
-- name: Jaris Amlaruil
+- name: Pynelope Valhein
   type: partymate
-- name: Tyego Sinaht
+- name: Rosherren Haladavar
   type: partymate
-- name: Felgie Eldar
-  type: partymate
-skin: Light Tan
-spec: Cleric
+skin: Brown
+spec: Paladin
 stats:
-  cha: 11
-  con: 8
-  dex: 11
-  int: 12
-  str: 10
+  cha: 12
+  con: 10
+  dex: 10
+  int: 15
+  str: 17
   wis: 13
-track: Exploration
-trait: I know a story relevant to almost every situation.
-trait1: Supportive
-trait2: Fixed
+track: Assault
+trait: I would rather make a new friend than a new enemy.
+trait1: Profound
+trait2: Plain
 year: 1
 ---
 # Tisette Bender
 ---
 ### Description
-- 1st year Elf Cleric in Burk
-- wavy black hair that's done up in a top knot, Brown eyes, and Light Tan skin
-- Is Supportive and Fixed, and has Humor as their ideal
+- 1st year Gnome Paladin in Burk
+- frizzy green hair that's parted to the right, Brown eyes, and Brown skin
+- Is Profound and Plain, and has Logic as their ideal
 
 ### Organizations
 ### Relationships
-[[Taanyth Seeker]]: partymate
-[[Jaris Amlaruil]]: partymate
-[[Tyego Sinaht]]: partymate
-[[Felgie Eldar]]: partymate
+[[Brinna Muerlara]]: partymate
+[[Pynelope Valhein]]: partymate
+[[Rosherren Haladavar]]: partymate
 ### Stats
 ```statblock
 name: Tisette Bender
-stats: [10, 11, 8, 12, 13, 11]
+stats: [17, 10, 10, 15, 13, 12]
 ```

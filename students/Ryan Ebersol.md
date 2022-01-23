@@ -1,57 +1,53 @@
 ---
 birthday:
-  numeric: 3/30
-  written: 30th of Melorent
-bond: I was cheated out of my fair share of the profits, and I want to get my due.
-eyes: Green
-flaw: An innocent person is in prison for a crime that I committed. I'm okay with
-  that.
-guild: Jettenia
-hair: wavy lighter blonde hair that's put up in a large bun
-ideal: Perseverance
+  numeric: 4/8
+  written: 8th of Moradent
+bond: My isolation gave me great insight into a great evil that only I can destroy.
+eyes: Hazel
+flaw: It's not stealing if I need it more than someone else.
+guild: Fiesn
+hair: frills
+ideal: Intuition
 name: Ryan Ebersol
 organizations: []
-partyID: 91
-race: Triton
+partyID: 89
+race: Dragonborn
 relationships:
-- name: Harperia Winchell
+- name: Pinna Vanius
   type: partymate
-- name: Velmona Elway
+- name: Delos Ehlark
   type: partymate
-- name: Braidyn Kemetra
+- name: Kaeli Khiiral
   type: partymate
-- name: Eune Eldratha
-  type: partymate
-skin: Pale Gray
+skin: green
 spec: Sorcerer
 stats:
-  cha: 17
-  con: 10
+  cha: 13
+  con: 7
   dex: 12
-  int: 10
-  str: 9
-  wis: 10
-track: Diplomacy
-trait: I bluntly say what other people are hinting at or hiding.
-trait1: Private
-trait2: Finicky
-year: 3
+  int: 11
+  str: 13
+  wis: 11
+track: Assault
+trait: I stretch the truth for the sake of a good story.
+trait1: Plain
+trait2: Immature
+year: 7
 ---
 # Ryan Ebersol
 ---
 ### Description
-- 3rd year Triton Sorcerer in Jettenia
-- wavy lighter blonde hair that's put up in a large bun, Green eyes, and Pale Gray skin
-- Is Private and Finicky, and has Perseverance as their ideal
+- 7th year Dragonborn Sorcerer in Fiesn
+- frills, Hazel eyes, and green skin
+- Is Plain and Immature, and has Intuition as their ideal
 
 ### Organizations
 ### Relationships
-[[Harperia Winchell]]: partymate
-[[Velmona Elway]]: partymate
-[[Braidyn Kemetra]]: partymate
-[[Eune Eldratha]]: partymate
+[[Pinna Vanius]]: partymate
+[[Delos Ehlark]]: partymate
+[[Kaeli Khiiral]]: partymate
 ### Stats
 ```statblock
 name: Ryan Ebersol
-stats: [9, 12, 10, 10, 10, 17]
+stats: [13, 12, 7, 11, 11, 13]
 ```

@@ -1,52 +1,51 @@
 ---
 birthday:
-  numeric: 4/2
-  written: 2nd of Moradent
-bond: I would do anything for the other members of my old troupe.
-eyes: Gray
-flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
-  to quell.
+  numeric: 4/14
+  written: 14th of Moradent
+bond: I protect those who cannot protect themselves.
+eyes: Pale Green
+flaw: I don't take kindly to some of the actions and motivations of the people of
+  this land, because these folk are different from me.
 guild: Jettenia
-hair: curly grey hair that's braided with green ribbon (long)
-ideal: Caring
+hair: curly platinum hair that's a tousled bed head
+ideal: Nature
 name: Gavyn Sadalymn
 organizations: []
-partyID: 4
-race: Tiefling
+partyID: 97
+race: Human
 relationships:
-- name: Milae Ditka
+- name: Kloya Kershaw
   type: partymate
-- name: Brynn Opalul
+- name: Natylie Rathal
   type: partymate
-skin: Olive
-spec: Sorcerer
+skin: Light Tan
+spec: Ranger
 stats:
-  cha: 17
-  con: 8
-  dex: 10
-  int: 10
-  str: 14
+  cha: 12
+  con: 7
+  dex: 14
+  int: 9
+  str: 13
   wis: 13
-track: Assault
-trait: I idolize a particular hero of my faith, and constantly refer to that person's
-  deeds and example.
-trait1: Natty
-trait2: Monstrous
-year: 1
+track: Diplomacy
+trait: I'm oblivious to etiquette and social expectations.
+trait1: Efficient
+trait2: Retiring
+year: 5
 ---
 # Gavyn Sadalymn
 ---
 ### Description
-- 1st year Tiefling Sorcerer in Jettenia
-- curly grey hair that's braided with green ribbon (long), Gray eyes, and Olive skin
-- Is Natty and Monstrous, and has Caring as their ideal
+- 5th year Human Ranger in Jettenia
+- curly platinum hair that's a tousled bed head, Pale Green eyes, and Light Tan skin
+- Is Efficient and Retiring, and has Nature as their ideal
 
 ### Organizations
 ### Relationships
-[[Milae Ditka]]: partymate
-[[Brynn Opalul]]: partymate
+[[Kloya Kershaw]]: partymate
+[[Natylie Rathal]]: partymate
 ### Stats
 ```statblock
 name: Gavyn Sadalymn
-stats: [14, 10, 8, 10, 13, 17]
+stats: [13, 14, 7, 9, 13, 12]
 ```

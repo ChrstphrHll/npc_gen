@@ -1,51 +1,53 @@
 ---
 birthday:
-  numeric: 1/26
-  written: 26th of Avanent
-bond: I owe my guild a great debt for forging me into the person I am today.
-eyes: Pale Blue
-flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
-  trouble.
-guild: Elkenval
-hair: straight platinum hair that's geled back
-ideal: Charisma
+  numeric: 2/21
+  written: 21st of Corelent
+bond: Everything I do is for the common people.
+eyes: Blue
+flaw: I have a weakness for the exotic beauty of the people of these lands.
+guild: Fiesn
+hair: frills
+ideal: Family
 name: Delos Ehlark
 organizations: []
-partyID: 13
-race: Halfling
+partyID: 89
+race: Dragonborn
 relationships:
-- name: Cirvlon Elpaerae
+- name: Pinna Vanius
   type: partymate
-- name: Eligio Nevarth
+- name: Ryan Ebersol
   type: partymate
-skin: Light Tan
-spec: Bard
+- name: Kaeli Khiiral
+  type: partymate
+skin: silver
+spec: Ranger
 stats:
   cha: 15
   con: 9
-  dex: 11
-  int: 10
-  str: 11
-  wis: 12
-track: Assault
-trait: I like to squeeze into small places where no one else can get to me.
-trait1: Neutral
-trait2: Brutal
-year: 1
+  dex: 17
+  int: 11
+  str: 10
+  wis: 15
+track: Protection
+trait: I change my mood or my mind as quickly as I change key in a song.
+trait1: Precise
+trait2: Condemnatory
+year: 7
 ---
 # Delos Ehlark
 ---
 ### Description
-- 1st year Halfling Bard in Elkenval
-- straight platinum hair that's geled back, Pale Blue eyes, and Light Tan skin
-- Is Neutral and Brutal, and has Charisma as their ideal
+- 7th year Dragonborn Ranger in Fiesn
+- frills, Blue eyes, and silver skin
+- Is Precise and Condemnatory, and has Family as their ideal
 
 ### Organizations
 ### Relationships
-[[Cirvlon Elpaerae]]: partymate
-[[Eligio Nevarth]]: partymate
+[[Pinna Vanius]]: partymate
+[[Ryan Ebersol]]: partymate
+[[Kaeli Khiiral]]: partymate
 ### Stats
 ```statblock
 name: Delos Ehlark
-stats: [11, 11, 9, 10, 12, 15]
+stats: [10, 17, 9, 11, 15, 15]
 ```

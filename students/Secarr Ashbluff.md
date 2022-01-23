@@ -1,50 +1,48 @@
 ---
 birthday:
-  numeric: 7/2
-  written: 2nd of Korent
-bond: I owe my life to the priest who took me in when my parents died.
-eyes: Hazel
-flaw: In fact, the world does revolve around me.
-guild: Jettenia
-hair: smooth gold guilded with onyx
-ideal: Knowledge
+  numeric: 4/14
+  written: 14th of Moradent
+bond: I seek to preserve a sacred text that my enemies consider heretical and seek
+  to destroy.
+eyes: Blue
+flaw: I have an insatiable desire for carnal pleasures.
+guild: Burk
+hair: 3 straight horns
+ideal: Compassion
 name: Secarr Ashbluff
 organizations: []
-partyID: 17
-race: Warforged
+partyID: 1
+race: Dragonborn
 relationships:
-- name: Violetta Coldsprinter
+- name: Thenol Shialaevar
   type: partymate
-- name: Brianna Kosunten
-  type: partymate
-skin: bronze
-spec: Paladin
+skin: blue
+spec: Barbarian
 stats:
-  cha: 17
-  con: 11
-  dex: 14
-  int: 12
-  str: 18
-  wis: 8
-track: Protection
-trait: I watch over my friends as if they were a litter of newborn pups.
-trait1: Feisty
-trait2: Solacious
-year: 2
+  cha: 11
+  con: 13
+  dex: 12
+  int: 11
+  str: 17
+  wis: 12
+track: Exploration
+trait: I can stare down a hell hound without flinching.
+trait1: Relaxed
+trait2: Liar
+year: 6
 ---
 # Secarr Ashbluff
 ---
 ### Description
-- 2nd year Warforged Paladin in Jettenia
-- smooth gold guilded with onyx, Hazel eyes, and bronze skin
-- Is Feisty and Solacious, and has Knowledge as their ideal
+- 6th year Dragonborn Barbarian in Burk
+- 3 straight horns, Blue eyes, and blue skin
+- Is Relaxed and Liar, and has Compassion as their ideal
 
 ### Organizations
 ### Relationships
-[[Violetta Coldsprinter]]: partymate
-[[Brianna Kosunten]]: partymate
+[[Thenol Shialaevar]]: partymate
 ### Stats
 ```statblock
 name: Secarr Ashbluff
-stats: [18, 14, 11, 12, 8, 17]
+stats: [17, 12, 13, 11, 12, 11]
 ```

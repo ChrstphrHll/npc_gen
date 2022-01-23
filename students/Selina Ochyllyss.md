@@ -1,57 +1,57 @@
 ---
 birthday:
-  numeric: 2/31
-  written: 31st of Corelent
-bond: I owe a debt I can never repay to the person who took pity on me.
-eyes: Brown
-flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
-  trouble.
+  numeric: 3/20
+  written: 20th of Melorent
+bond: I created a great work for someone, and then found them unworthy to receive
+  it. I'm still looking for someone worthy.
+eyes: Blue
+flaw: I have a weakness for the new intoxicants and other pleasures of this land.
 guild: Jettenia
-hair: long spines
-ideal: Respect
+hair: straight lighter blonde hair that's loose around the shoulders
+ideal: Logic
 name: Selina Ochyllyss
 organizations: []
-partyID: 29
-race: Dragonborn
+partyID: 35
+race: Dwarf
 relationships:
-- name: Savanna Ildilyntra
+- name: Matos Mektal
   type: partymate
-- name: Hodus Belt
+- name: Adros Tolthe
   type: partymate
-- name: Allyson Vindinglag
+- name: Yorala Tiatha
   type: partymate
-- name: Gabrila Retra
+- name: Ivistra Stockton
   type: partymate
-skin: white
-spec: Fighter
+skin: Light Tan
+spec: Monk
 stats:
-  cha: 8
+  cha: 13
   con: 15
-  dex: 11
-  int: 9
-  str: 14
-  wis: 12
+  dex: 16
+  int: 12
+  str: 16
+  wis: 13
 track: Exploration
-trait: I have a joke for every occasion, especially occasions where humor is inappropriate.
-trait1: Upright
-trait2: Graceless
-year: 3
+trait: I'm a snob who looks down on those who can't appreciate fine art.
+trait1: Droll
+trait2: Restrained
+year: 5
 ---
 # Selina Ochyllyss
 ---
 ### Description
-- 3rd year Dragonborn Fighter in Jettenia
-- long spines, Brown eyes, and white skin
-- Is Upright and Graceless, and has Respect as their ideal
+- 5th year Dwarf Monk in Jettenia
+- straight lighter blonde hair that's loose around the shoulders, Blue eyes, and Light Tan skin
+- Is Droll and Restrained, and has Logic as their ideal
 
 ### Organizations
 ### Relationships
-[[Savanna Ildilyntra]]: partymate
-[[Hodus Belt]]: partymate
-[[Allyson Vindinglag]]: partymate
-[[Gabrila Retra]]: partymate
+[[Matos Mektal]]: partymate
+[[Adros Tolthe]]: partymate
+[[Yorala Tiatha]]: partymate
+[[Ivistra Stockton]]: partymate
 ### Stats
 ```statblock
 name: Selina Ochyllyss
-stats: [14, 11, 15, 9, 12, 8]
+stats: [16, 16, 15, 12, 13, 13]
 ```

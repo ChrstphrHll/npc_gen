@@ -1,55 +1,51 @@
 ---
 birthday:
-  numeric: 5/3
-  written: 3rd of Iounent
-bond: I will do anything to prove myself superior to my hated rival.
-eyes: Pale Blue
-flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
-  own hide if the going gets tough.
-guild: Elkenval
-hair: straight auburn hair that's braided with pink ribbon (long)
-ideal: Professionalism
+  numeric: 1/25
+  written: 25th of Avanent
+bond: I fight for those who cannot fight for themselves.
+eyes: Gray
+flaw: If I'm outnumbered, I will run away from a fight.
+guild: Fiesn
+hair: straight auburn hair that's braided with violet ribbon (long)
+ideal: Patience
 name: Scarletta Elora
 organizations: []
-partyID: 62
+partyID: 27
 race: Gnome
 relationships:
-- name: Gorlas Vhoadan
+- name: Terek Nushala
   type: partymate
-- name: Adresin Ilbryn
+- name: Barak Felaern
   type: partymate
-- name: Lea Nuvian
-  type: partymate
-skin: Dark Brown
-spec: Rouge
+skin: Dark Tan
+spec: Cleric
 stats:
-  cha: 14
-  con: 13
-  dex: 17
-  int: 6
-  str: 16
-  wis: 9
-track: Exploration
-trait: I've read every book in the world's greatest libraries - or I like to boast
-  that I have.
-trait1: Disciplined
-trait2: Scatty
-year: 4
+  cha: 12
+  con: 14
+  dex: 12
+  int: 8
+  str: 13
+  wis: 14
+track: Protection
+trait: I keep multiple holy symbols on me and invoke whatever deity might come in
+  useful at any given moment.
+trait1: Cooperative
+trait2: Devious
+year: 2
 ---
 # Scarletta Elora
 ---
 ### Description
-- 4th year Gnome Rouge in Elkenval
-- straight auburn hair that's braided with pink ribbon (long), Pale Blue eyes, and Dark Brown skin
-- Is Disciplined and Scatty, and has Professionalism as their ideal
+- 2nd year Gnome Cleric in Fiesn
+- straight auburn hair that's braided with violet ribbon (long), Gray eyes, and Dark Tan skin
+- Is Cooperative and Devious, and has Patience as their ideal
 
 ### Organizations
 ### Relationships
-[[Gorlas Vhoadan]]: partymate
-[[Adresin Ilbryn]]: partymate
-[[Lea Nuvian]]: partymate
+[[Terek Nushala]]: partymate
+[[Barak Felaern]]: partymate
 ### Stats
 ```statblock
 name: Scarletta Elora
-stats: [16, 17, 13, 6, 9, 14]
+stats: [13, 12, 14, 8, 14, 12]
 ```

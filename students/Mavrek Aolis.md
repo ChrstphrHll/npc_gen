@@ -1,50 +1,53 @@
 ---
 birthday:
-  numeric: 5/26
-  written: 26th of Iounent
-bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
-eyes: Brown
-flaw: I can't keep a secret to save my life, or anyone else's.
+  numeric: 6/25
+  written: 25th of Pelent
+bond: I pursue wealth to secure someone's love.
+eyes: Pale Blue
+flaw: I'd rather kill someone in their sleep then fight fair.
 guild: Elkenval
-hair: curly strawberry blond hair that's loose around the shoulders
-ideal: Harmony
+hair: short spines
+ideal: Connection
 name: Mavrek Aolis
 organizations: []
-partyID: 6
-race: Tiefling
+partyID: 47
+race: Dragonborn
 relationships:
-- name: Tez Bialaer
+- name: Julyo Agassi
   type: partymate
-- name: Volkos Halaema
+- name: Goshwa Khiipaera
   type: partymate
-skin: Deep Blue
-spec: Rouge
+- name: Vila Tassarion
+  type: partymate
+skin: gold
+spec: Sorcerer
 stats:
-  cha: 10
-  con: 11
+  cha: 16
+  con: 15
   dex: 15
-  int: 17
-  str: 9
-  wis: 13
-track: Protection
-trait: I'm rude to people who lack my commitment to hard work and fair play.
-trait1: Stubborn
-trait2: Rude
-year: 3
+  int: 15
+  str: 11
+  wis: 4
+track: Assault
+trait: I don't like to bathe.
+trait1: Realistic
+trait2: Predatory
+year: 5
 ---
 # Mavrek Aolis
 ---
 ### Description
-- 3rd year Tiefling Rouge in Elkenval
-- curly strawberry blond hair that's loose around the shoulders, Brown eyes, and Deep Blue skin
-- Is Stubborn and Rude, and has Harmony as their ideal
+- 5th year Dragonborn Sorcerer in Elkenval
+- short spines, Pale Blue eyes, and gold skin
+- Is Realistic and Predatory, and has Connection as their ideal
 
 ### Organizations
 ### Relationships
-[[Tez Bialaer]]: partymate
-[[Volkos Halaema]]: partymate
+[[Julyo Agassi]]: partymate
+[[Goshwa Khiipaera]]: partymate
+[[Vila Tassarion]]: partymate
 ### Stats
 ```statblock
 name: Mavrek Aolis
-stats: [9, 15, 11, 17, 13, 10]
+stats: [11, 15, 15, 15, 4, 16]
 ```

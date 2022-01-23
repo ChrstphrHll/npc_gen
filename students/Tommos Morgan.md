@@ -1,54 +1,50 @@
 ---
 birthday:
-  numeric: 4/26
-  written: 26th of Moradent
-bond: I want to be famous, whatever it takes.
-eyes: Hazel
-flaw: I have a "tell" that reveals when I'm lying.
-guild: Treskal
-hair: curly auburn hair that's put back in a long pony tail
-ideal: Respect
+  numeric: 6/23
+  written: 23rd of Pelent
+bond: Everything I do is for the common people.
+eyes: Blue
+flaw: I have little respect for anyone who is not a proven warrior.
+guild: Alderden
+hair: curly auburn hair that's parted to the left
+ideal: Commonality
 name: Tommos Morgan
 organizations: []
-partyID: 69
-race: Half-Elf
+partyID: 11
+race: Elf
 relationships:
-- name: Leonus Triktappic
+- name: Alinea Hellsturn
   type: partymate
-- name: Helera Urkensvall
+- name: Jacomo Jacaranda
   type: partymate
-- name: Avaery Klaern
-  type: partymate
-skin: Light
-spec: Monk
+skin: Dark Brown
+spec: Sorcerer
 stats:
-  cha: 9
-  con: 12
-  dex: 14
-  int: 14
-  str: 12
-  wis: 13
-track: Assault
-trait: The first thing I do in a new place is note the locations of everything valuable-
-  or where such things could be hidden.
-trait1: Dependable
-trait2: Complaining
-year: 1
+  cha: 16
+  con: 14
+  dex: 5
+  int: 17
+  str: 9
+  wis: 16
+track: Exploration
+trait: I lie about almost everything, even when there's no good reason to.
+trait1: Undemanding
+trait2: Tough
+year: 5
 ---
 # Tommos Morgan
 ---
 ### Description
-- 1st year Half-Elf Monk in Treskal
-- curly auburn hair that's put back in a long pony tail, Hazel eyes, and Light skin
-- Is Dependable and Complaining, and has Respect as their ideal
+- 5th year Elf Sorcerer in Alderden
+- curly auburn hair that's parted to the left, Blue eyes, and Dark Brown skin
+- Is Undemanding and Tough, and has Commonality as their ideal
 
 ### Organizations
 ### Relationships
-[[Leonus Triktappic]]: partymate
-[[Helera Urkensvall]]: partymate
-[[Avaery Klaern]]: partymate
+[[Alinea Hellsturn]]: partymate
+[[Jacomo Jacaranda]]: partymate
 ### Stats
 ```statblock
 name: Tommos Morgan
-stats: [12, 14, 12, 14, 13, 9]
+stats: [9, 5, 14, 17, 16, 16]
 ```

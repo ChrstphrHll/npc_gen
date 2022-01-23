@@ -1,57 +1,53 @@
 ---
 birthday:
-  numeric: 6/28
-  written: 28th of Pelent
-bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
-eyes: Pale Brown
-flaw: I have a "tell" that reveals when I'm lying.
-guild: Fiesn
-hair: wavy auburn hair that's put up in a large bun
-ideal: Teamwork
+  numeric: 4/8
+  written: 8th of Moradent
+bond: I'm loyal to my captain first, everything else second.
+eyes: Pale Blue
+flaw: People who can't take care of themselves get what they deserve.
+guild: Elkenval
+hair: wavy grey hair that's parted to the side, slightly obscuring an eye
+ideal: Success
 name: Delila Felaern
 organizations: []
-partyID: 24
-race: Half-Elf
+partyID: 20
+race: Gnome
 relationships:
-- name: Ian Averescu
+- name: Dylan Usunaar
   type: partymate
-- name: Jothen Elway
+- name: Aurikallos Biafyndar
   type: partymate
-- name: Jareth Tanseril
+- name: Grace Festus
   type: partymate
-- name: Gianesia Onvyr
-  type: partymate
-skin: Dark Tan
-spec: Bard
+skin: Pale
+spec: Druid
 stats:
-  cha: 16
-  con: 7
-  dex: 14
-  int: 8
-  str: 14
-  wis: 7
-track: Assault
-trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
-  bundle in my arms.
-trait1: Clean
-trait2: Imprudent
-year: 3
+  cha: 12
+  con: 9
+  dex: 15
+  int: 10
+  str: 9
+  wis: 14
+track: Diplomacy
+trait: I like a job well done, especially if I can convince someone else to do it.
+trait1: Ordinary
+trait2: Insulting
+year: 5
 ---
 # Delila Felaern
 ---
 ### Description
-- 3rd year Half-Elf Bard in Fiesn
-- wavy auburn hair that's put up in a large bun, Pale Brown eyes, and Dark Tan skin
-- Is Clean and Imprudent, and has Teamwork as their ideal
+- 5th year Gnome Druid in Elkenval
+- wavy grey hair that's parted to the side, slightly obscuring an eye, Pale Blue eyes, and Pale skin
+- Is Ordinary and Insulting, and has Success as their ideal
 
 ### Organizations
 ### Relationships
-[[Ian Averescu]]: partymate
-[[Jothen Elway]]: partymate
-[[Jareth Tanseril]]: partymate
-[[Gianesia Onvyr]]: partymate
+[[Dylan Usunaar]]: partymate
+[[Aurikallos Biafyndar]]: partymate
+[[Grace Festus]]: partymate
 ### Stats
 ```statblock
 name: Delila Felaern
-stats: [14, 14, 7, 8, 7, 16]
+stats: [9, 15, 9, 10, 14, 12]
 ```

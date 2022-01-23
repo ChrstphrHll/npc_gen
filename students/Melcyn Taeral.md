@@ -1,53 +1,54 @@
 ---
 birthday:
-  numeric: 6/21
-  written: 21st of Pelent
-bond: Everything I do is for the common people.
-eyes: Pale Brown
-flaw: I have a weakness for the exotic beauty of the people of these lands.
-guild: Fiesn
-hair: curly red hair that's a tousled bed head
-ideal: Honor
+  numeric: 7/31
+  written: 31st of Korent
+bond: I pursue wealth to secure someone's love.
+eyes: Pale Green
+flaw: I'm convinced that no one could ever fool me the way I fool others.
+guild: Treskal
+hair: wavy brunette hair that's braided with green ribbon (long)
+ideal: Finesse
 name: Melcyn Taeral
 organizations: []
-partyID: 23
+partyID: 7
 race: Firbolg
 relationships:
-- name: Wulfe Galan
+- name: Tadita Edraele
   type: partymate
-- name: Hanna Arkhun
+- name: Estyn Rhangyl
   type: partymate
-- name: Abryia Rubrae
+- name: Robbos Kalaerede
   type: partymate
 skin: Pale Gray
-spec: Rouge
+spec: Sorcerer
 stats:
-  cha: 12
-  con: 13
-  dex: 16
-  int: 10
-  str: 16
-  wis: 18
-track: Assault
-trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
-trait1: Sharing
-trait2: Impressionable
+  cha: 17
+  con: 8
+  dex: 9
+  int: 13
+  str: 14
+  wis: 11
+track: Diplomacy
+trait: I often get lost in my own thoughts and contemplation, becoming oblivious to
+  my surroundings.
+trait1: Devoted
+trait2: Lazy
 year: 4
 ---
 # Melcyn Taeral
 ---
 ### Description
-- 4th year Firbolg Rouge in Fiesn
-- curly red hair that's a tousled bed head, Pale Brown eyes, and Pale Gray skin
-- Is Sharing and Impressionable, and has Honor as their ideal
+- 4th year Firbolg Sorcerer in Treskal
+- wavy brunette hair that's braided with green ribbon (long), Pale Green eyes, and Pale Gray skin
+- Is Devoted and Lazy, and has Finesse as their ideal
 
 ### Organizations
 ### Relationships
-[[Wulfe Galan]]: partymate
-[[Hanna Arkhun]]: partymate
-[[Abryia Rubrae]]: partymate
+[[Tadita Edraele]]: partymate
+[[Estyn Rhangyl]]: partymate
+[[Robbos Kalaerede]]: partymate
 ### Stats
 ```statblock
 name: Melcyn Taeral
-stats: [16, 16, 13, 10, 18, 12]
+stats: [14, 9, 8, 13, 11, 17]
 ```

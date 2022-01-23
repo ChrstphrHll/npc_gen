@@ -1,50 +1,57 @@
 ---
 birthday:
-  numeric: 8/12
-  written: 12th of Ravenent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Green
-flaw: I have an insatiable desire for carnal pleasures.
-guild: Elkenval
-hair: straight brunette hair that's pulled to the side and buzzed on the right
-ideal: Harmony
+  numeric: 2/1
+  written: 1st of Corelent
+bond: An injury to the unspoiled wilderness of my home is an injury to me.
+eyes: Gray
+flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
+  own hide if the going gets tough.
+guild: Jettenia
+hair: sleek
+ideal: Generosity
 name: Matos Mektal
 organizations: []
-partyID: 48
-race: Halfling
+partyID: 35
+race: Kenku
 relationships:
-- name: Sammen Axilya
+- name: Adros Tolthe
   type: partymate
-- name: Q Yulmanda
+- name: Selina Ochyllyss
   type: partymate
-skin: Fair
-spec: Bard
+- name: Yorala Tiatha
+  type: partymate
+- name: Ivistra Stockton
+  type: partymate
+skin: Dark Blue
+spec: Barbarian
 stats:
   cha: 15
-  con: 15
-  dex: 7
-  int: 12
-  str: 6
-  wis: 13
-track: Exploration
-trait: I pocket anything I see that might have some value.
-trait1: Sentimental
-trait2: Sly
-year: 3
+  con: 9
+  dex: 12
+  int: 11
+  str: 17
+  wis: 10
+track: Diplomacy
+trait: The common folk love me for my kindness and generosity.
+trait1: Meek
+trait2: Treacherous
+year: 5
 ---
 # Matos Mektal
 ---
 ### Description
-- 3rd year Halfling Bard in Elkenval
-- straight brunette hair that's pulled to the side and buzzed on the right, Green eyes, and Fair skin
-- Is Sentimental and Sly, and has Harmony as their ideal
+- 5th year Kenku Barbarian in Jettenia
+- sleek, Gray eyes, and Dark Blue skin
+- Is Meek and Treacherous, and has Generosity as their ideal
 
 ### Organizations
 ### Relationships
-[[Sammen Axilya]]: partymate
-[[Q Yulmanda]]: partymate
+[[Adros Tolthe]]: partymate
+[[Selina Ochyllyss]]: partymate
+[[Yorala Tiatha]]: partymate
+[[Ivistra Stockton]]: partymate
 ### Stats
 ```statblock
 name: Matos Mektal
-stats: [6, 7, 15, 12, 13, 15]
+stats: [17, 12, 9, 11, 10, 15]
 ```

@@ -1,51 +1,57 @@
 ---
 birthday:
-  numeric: 8/5
-  written: 5th of Ravenent
-bond: I've been searching my whole life for the answer to a certain question.
+  numeric: 4/21
+  written: 21st of Moradent
+bond: I will do anything to protect the temple where I served.
 eyes: Pale Green
-flaw: I made a terrible mistake in battle cost many lives- and I would do anything
-  to keep that mistake secret.
-guild: Alderden
-hair: frizzy strawberry blond hair that's hanging down to their legs
-ideal: Beauty
+flaw: I don't take kindly to some of the actions and motivations of the people of
+  this land, because these folk are different from me.
+guild: Fiesn
+hair: wavy black hair that's geled back
+ideal: Honesty
 name: Zylphan Molostroi
 organizations: []
-partyID: 16
+partyID: 79
 race: Firbolg
 relationships:
-- name: Favroe Kythaela
+- name: Romen Uldreiyn
   type: partymate
-- name: Auzerais Venali
+- name: Brahm Delmuth
   type: partymate
-skin: Pale Green
-spec: Paladin
+- name: Rianna Belt
+  type: partymate
+- name: Tez Bialaer
+  type: partymate
+skin: Pale Brown
+spec: Rouge
 stats:
-  cha: 7
-  con: 8
-  dex: 11
-  int: 8
-  str: 13
-  wis: 13
-track: Protection
-trait: I hide scraps of food and trinkets away in my pockets.
-trait1: Zealous
-trait2: Insolent
-year: 1
+  cha: 14
+  con: 12
+  dex: 15
+  int: 13
+  str: 12
+  wis: 10
+track: Diplomacy
+trait: I'm a hopeless romantic, always searching for that "special someone."
+trait1: Firm
+trait2: Hateful
+year: 8
 ---
 # Zylphan Molostroi
 ---
 ### Description
-- 1st year Firbolg Paladin in Alderden
-- frizzy strawberry blond hair that's hanging down to their legs, Pale Green eyes, and Pale Green skin
-- Is Zealous and Insolent, and has Beauty as their ideal
+- 8th year Firbolg Rouge in Fiesn
+- wavy black hair that's geled back, Pale Green eyes, and Pale Brown skin
+- Is Firm and Hateful, and has Honesty as their ideal
 
 ### Organizations
 ### Relationships
-[[Favroe Kythaela]]: partymate
-[[Auzerais Venali]]: partymate
+[[Romen Uldreiyn]]: partymate
+[[Brahm Delmuth]]: partymate
+[[Rianna Belt]]: partymate
+[[Tez Bialaer]]: partymate
 ### Stats
 ```statblock
 name: Zylphan Molostroi
-stats: [13, 11, 8, 8, 13, 7]
+stats: [12, 15, 12, 13, 10, 14]
 ```

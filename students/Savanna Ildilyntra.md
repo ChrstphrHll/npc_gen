@@ -1,56 +1,55 @@
 ---
 birthday:
-  numeric: 6/21
-  written: 21st of Pelent
-bond: I work to preserve a library, university, scriptorium, or monastery.
-eyes: Gray
-flaw: I can't resist swindling people who are more powerful than me.
-guild: Jettenia
-hair: wavy white hair that's put up in a large bun
-ideal: Kindness
+  numeric: 7/15
+  written: 15th of Korent
+bond: I want to be famous, whatever it takes.
+eyes: Hazel
+flaw: Once someone questions my courage, I never back down no matter how dangerous
+  the situation.
+guild: Treskal
+hair: straight brunette hair that's hanging down to their legs
+ideal: Indulgence
 name: Savanna Ildilyntra
 organizations: []
-partyID: 29
-race: Human
+partyID: 46
+race: Halfling
 relationships:
-- name: Selina Ochyllyss
+- name: Lenn Schimae
   type: partymate
-- name: Hodus Belt
+- name: Robett Grell
   type: partymate
-- name: Allyson Vindinglag
+- name: Gifre Edyrm
   type: partymate
-- name: Gabrila Retra
-  type: partymate
-skin: Brown
-spec: Sorcerer
+skin: Dark Brown
+spec: Cleric
 stats:
-  cha: 15
+  cha: 13
   con: 15
-  dex: 13
-  int: 10
-  str: 9
-  wis: 15
-track: Protection
-trait: I get bored easily. When am I going to get on with my destiny?
-trait1: Immaculate
-trait2: Irascible
-year: 3
+  dex: 15
+  int: 12
+  str: 18
+  wis: 18
+track: Diplomacy
+trait: The first thing I do in a new place is note the locations of everything valuable-
+  or where such things could be hidden.
+trait1: Practical
+trait2: Uncreative
+year: 6
 ---
 # Savanna Ildilyntra
 ---
 ### Description
-- 3rd year Human Sorcerer in Jettenia
-- wavy white hair that's put up in a large bun, Gray eyes, and Brown skin
-- Is Immaculate and Irascible, and has Kindness as their ideal
+- 6th year Halfling Cleric in Treskal
+- straight brunette hair that's hanging down to their legs, Hazel eyes, and Dark Brown skin
+- Is Practical and Uncreative, and has Indulgence as their ideal
 
 ### Organizations
 ### Relationships
-[[Selina Ochyllyss]]: partymate
-[[Hodus Belt]]: partymate
-[[Allyson Vindinglag]]: partymate
-[[Gabrila Retra]]: partymate
+[[Lenn Schimae]]: partymate
+[[Robett Grell]]: partymate
+[[Gifre Edyrm]]: partymate
 ### Stats
 ```statblock
 name: Savanna Ildilyntra
-stats: [9, 13, 15, 10, 15, 15]
+stats: [18, 15, 15, 12, 18, 13]
 ```

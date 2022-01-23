@@ -1,53 +1,50 @@
 ---
 birthday:
-  numeric: 1/15
-  written: 15th of Avanent
-bond: I am in love with the heir of a family that my family despises.
-eyes: Brown
-flaw: The tyrant who rules my land will stop at nothing to see me killed.
+  numeric: 4/1
+  written: 1st of Moradent
+bond: I owe my life to the priest who took me in when my parents died.
+eyes: Blue
+flaw: I'll do anything to get my hands on something rare or priceless.
 guild: Fiesn
-hair: straight lighter blonde hair that's geled back
-ideal: Peace
+hair: curly dirty blonde hair that's hanging down to their legs
+ideal: Gratitude
 name: Everen Malfoy
 organizations: []
-partyID: 18
-race: Half-Orc
+partyID: 61
+race: Halfling
 relationships:
-- name: Angel Nushala
+- name: Iaen Dannyd
   type: partymate
-- name: Ragnar Illitran
+- name: Taewen Llamryl
   type: partymate
-- name: Jasjen Nlossae
-  type: partymate
-skin: Pale Green
-spec: Wizard
+skin: Dark Brown
+spec: Fighter
 stats:
-  cha: 10
-  con: 11
-  dex: 10
-  int: 17
-  str: 16
+  cha: 8
+  con: 17
+  dex: 17
+  int: 10
+  str: 8
   wis: 12
-track: Protection
-trait: I've lost too many friends, and I'm slow to make new ones.
-trait1: Impassive
-trait2: Sloppy
+track: Exploration
+trait: Whenever I come to a new place, I collect local rumors and spread gossip.
+trait1: Scholarly
+trait2: Subjective
 year: 2
 ---
 # Everen Malfoy
 ---
 ### Description
-- 2nd year Half-Orc Wizard in Fiesn
-- straight lighter blonde hair that's geled back, Brown eyes, and Pale Green skin
-- Is Impassive and Sloppy, and has Peace as their ideal
+- 2nd year Halfling Fighter in Fiesn
+- curly dirty blonde hair that's hanging down to their legs, Blue eyes, and Dark Brown skin
+- Is Scholarly and Subjective, and has Gratitude as their ideal
 
 ### Organizations
 ### Relationships
-[[Angel Nushala]]: partymate
-[[Ragnar Illitran]]: partymate
-[[Jasjen Nlossae]]: partymate
+[[Iaen Dannyd]]: partymate
+[[Taewen Llamryl]]: partymate
 ### Stats
 ```statblock
 name: Everen Malfoy
-stats: [16, 10, 11, 17, 12, 10]
+stats: [8, 17, 17, 10, 12, 8]
 ```

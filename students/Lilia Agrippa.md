@@ -1,51 +1,51 @@
 ---
 birthday:
-  numeric: 4/15
-  written: 15th of Moradent
-bond: I suffer awful visions of a coming disaster and will do anything to prevent
-  it.
-eyes: Sea Green
-flaw: In fact, the world does revolve around me.
-guild: Treskal
-hair: straight violet hair that's parted to the left
-ideal: Faith
+  numeric: 8/13
+  written: 13th of Ravenent
+bond: I pursue wealth to secure someone's love.
+eyes: Deep Blue
+flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
+  involved.
+guild: Fiesn
+hair: wavy lighter blonde hair that's a tousled bed head
+ideal: Appreciation
 name: Lilia Agrippa
 organizations: []
-partyID: 49
+partyID: 94
 race: Tiefling
 relationships:
-- name: Jess Beebe
+- name: Maarika Oncith
   type: partymate
-- name: Gifre Edyrm
+- name: Braddeus Jacaranda
   type: partymate
-skin: Deep Blue
-spec: Paladin
+skin: Purple
+spec: Barbarian
 stats:
-  cha: 11
-  con: 11
-  dex: 9
+  cha: 8
+  con: 12
+  dex: 17
   int: 12
-  str: 15
+  str: 18
   wis: 10
-track: Exploration
-trait: I'm full of witty aphorisms and have a proverb for every occasion.
-trait1: Adaptable
-trait2: Authoritarian
-year: 2
+track: Assault
+trait: To me, a tavern brawl is a nice way to get to know a new city.
+trait1: Efficient
+trait2: Lackadaisical
+year: 3
 ---
 # Lilia Agrippa
 ---
 ### Description
-- 2nd year Tiefling Paladin in Treskal
-- straight violet hair that's parted to the left, Sea Green eyes, and Deep Blue skin
-- Is Adaptable and Authoritarian, and has Faith as their ideal
+- 3rd year Tiefling Barbarian in Fiesn
+- wavy lighter blonde hair that's a tousled bed head, Deep Blue eyes, and Purple skin
+- Is Efficient and Lackadaisical, and has Appreciation as their ideal
 
 ### Organizations
 ### Relationships
-[[Jess Beebe]]: partymate
-[[Gifre Edyrm]]: partymate
+[[Maarika Oncith]]: partymate
+[[Braddeus Jacaranda]]: partymate
 ### Stats
 ```statblock
 name: Lilia Agrippa
-stats: [15, 9, 11, 12, 10, 11]
+stats: [18, 17, 12, 12, 10, 8]
 ```

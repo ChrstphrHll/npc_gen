@@ -1,54 +1,48 @@
 ---
 birthday:
-  numeric: 4/23
-  written: 23rd of Moradent
-bond: I sponsor an orphanage to keep others from enduring what I was forced to endure.
+  numeric: 8/4
+  written: 4th of Ravenent
+bond: I would do anything for the other members of my old troupe.
 eyes: Amber
-flaw: Once someone questions my courage, I never back down no matter how dangerous
-  the situation.
+flaw: I have little respect for anyone who is not a proven warrior.
 guild: Elkenval
-hair: curly lighter blonde hair that's geled back
-ideal: Freedom
+hair: frizzy platinum hair that's a tousled bed head
+ideal: Conformity
 name: Gorlas Vhoadan
 organizations: []
-partyID: 62
-race: Firbolg
+partyID: 50
+race: Gnome
 relationships:
-- name: Scarletta Elora
+- name: Sulivan Wylchyr
   type: partymate
-- name: Adresin Ilbryn
-  type: partymate
-- name: Lea Nuvian
-  type: partymate
-skin: Pale Green
-spec: Rouge
+skin: Fair
+spec: Barbarian
 stats:
-  cha: 8
-  con: 11
-  dex: 16
-  int: 7
+  cha: 10
+  con: 9
+  dex: 14
+  int: 11
   str: 15
-  wis: 11
-track: Diplomacy
-trait: I get bored easily. When am I going to get on with my destiny?
-trait1: Effective
-trait2: Deceptive
-year: 4
+  wis: 12
+track: Exploration
+trait: I'm haunted by memories of war. I can't get the images of violence out of my
+  mind.
+trait1: Placid
+trait2: Animated
+year: 2
 ---
 # Gorlas Vhoadan
 ---
 ### Description
-- 4th year Firbolg Rouge in Elkenval
-- curly lighter blonde hair that's geled back, Amber eyes, and Pale Green skin
-- Is Effective and Deceptive, and has Freedom as their ideal
+- 2nd year Gnome Barbarian in Elkenval
+- frizzy platinum hair that's a tousled bed head, Amber eyes, and Fair skin
+- Is Placid and Animated, and has Conformity as their ideal
 
 ### Organizations
 ### Relationships
-[[Scarletta Elora]]: partymate
-[[Adresin Ilbryn]]: partymate
-[[Lea Nuvian]]: partymate
+[[Sulivan Wylchyr]]: partymate
 ### Stats
 ```statblock
 name: Gorlas Vhoadan
-stats: [15, 16, 11, 7, 11, 8]
+stats: [15, 14, 9, 11, 12, 10]
 ```

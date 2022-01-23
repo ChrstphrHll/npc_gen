@@ -1,55 +1,54 @@
 ---
 birthday:
-  numeric: 1/9
-  written: 9th of Avanent
-bond: One day I will return to my guild and prove that I am the greatest artisan of
-  them all.
-eyes: Pale Gray
-flaw: I am dogmatic in my thoughts and philosophy.
-guild: Treskal
-hair: straight red hair that's hanging down to their legs
-ideal: Might
+  numeric: 6/25
+  written: 25th of Pelent
+bond: I owe my survival to another urchin who taught me tolive on the streets.
+eyes: Pale Green
+flaw: By my words and actions, I often bring shame to my family.By my words and actions,
+  I often bring shame to my family.
+guild: Alderden
+hair: wavy grey hair that's done up in a top knot
+ideal: Righteous
 name: Leya Escobar
 organizations: []
-partyID: 81
-race: Half-Elf
+partyID: 24
+race: Human
 relationships:
-- name: Gerrimar Vulkor
+- name: Gina Grandius
   type: partymate
-- name: Lucoe Lorelei
+- name: Ramona Saida
   type: partymate
-- name: Aryana Ahrendue
+- name: Hanna Estelar
   type: partymate
-skin: Light Tan
-spec: Artificer
+skin: Dark Brown
+spec: Fighter
 stats:
-  cha: 10
-  con: 10
-  dex: 11
-  int: 16
-  str: 9
-  wis: 10
-track: Exploration
-trait: I can find common ground between the fiercest enemies, empathizing with them
-  and always working toward peace.
-trait1: Gentle
-trait2: Reserved
-year: 1
+  cha: 18
+  con: 12
+  dex: 12
+  int: 11
+  str: 13
+  wis: 13
+track: Assault
+trait: I bluntly say what other people are hinting at or hiding.
+trait1: Self-disciplined
+trait2: Mawkish
+year: 3
 ---
 # Leya Escobar
 ---
 ### Description
-- 1st year Half-Elf Artificer in Treskal
-- straight red hair that's hanging down to their legs, Pale Gray eyes, and Light Tan skin
-- Is Gentle and Reserved, and has Might as their ideal
+- 3rd year Human Fighter in Alderden
+- wavy grey hair that's done up in a top knot, Pale Green eyes, and Dark Brown skin
+- Is Self-disciplined and Mawkish, and has Righteous as their ideal
 
 ### Organizations
 ### Relationships
-[[Gerrimar Vulkor]]: partymate
-[[Lucoe Lorelei]]: partymate
-[[Aryana Ahrendue]]: partymate
+[[Gina Grandius]]: partymate
+[[Ramona Saida]]: partymate
+[[Hanna Estelar]]: partymate
 ### Stats
 ```statblock
 name: Leya Escobar
-stats: [9, 11, 10, 16, 10, 10]
+stats: [13, 12, 12, 11, 13, 18]
 ```

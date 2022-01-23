@@ -1,50 +1,49 @@
 ---
 birthday:
-  numeric: 7/3
-  written: 3rd of Korent
-bond: I'll always remember my first ship.
-eyes: Pale Green
-flaw: No one must ever learn that I once stole money from guild coffers.
-guild: Treskal
-hair: wavy grey hair that's put back in a long pony tail
-ideal: Pessimism
+  numeric: 3/16
+  written: 16th of Melorent
+bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, and
+  left me to die. Vengeance will be mine.
+eyes: Brown
+flaw: I'd risk too much to uncover a lost bit of knowledge.
+guild: Fiesn
+hair: curly strawberry blond hair that's put up in a large bun
+ideal: Effectiveness
 name: Asralyn Rhangyl
 organizations: []
-partyID: 5
+partyID: 71
 race: Elf
 relationships:
-- name: Josius Iliphar
+- name: Eljana Jian
   type: partymate
-- name: Themistoklea Nevarth
-  type: partymate
-skin: Fair
+skin: Brown
 spec: Ranger
 stats:
-  cha: 11
-  con: 14
+  cha: 8
+  con: 13
   dex: 15
-  int: 8
-  str: 11
-  wis: 15
-track: Diplomacy
-trait: I'm oblivious to etiquette and social expectations.
-trait1: Political
-trait2: Ambitious
+  int: 7
+  str: 13
+  wis: 13
+track: Assault
+trait: I often get lost in my own thoughts and contemplation, becoming oblivious to
+  my surroundings.
+trait1: Magnanimous
+trait2: Quiet
 year: 5
 ---
 # Asralyn Rhangyl
 ---
 ### Description
-- 5th year Elf Ranger in Treskal
-- wavy grey hair that's put back in a long pony tail, Pale Green eyes, and Fair skin
-- Is Political and Ambitious, and has Pessimism as their ideal
+- 5th year Elf Ranger in Fiesn
+- curly strawberry blond hair that's put up in a large bun, Brown eyes, and Brown skin
+- Is Magnanimous and Quiet, and has Effectiveness as their ideal
 
 ### Organizations
 ### Relationships
-[[Josius Iliphar]]: partymate
-[[Themistoklea Nevarth]]: partymate
+[[Eljana Jian]]: partymate
 ### Stats
 ```statblock
 name: Asralyn Rhangyl
-stats: [11, 15, 14, 8, 15, 11]
+stats: [13, 15, 13, 7, 13, 8]
 ```

@@ -1,54 +1,48 @@
 ---
 birthday:
-  numeric: 3/1
-  written: 1st of Melorent
-bond: I have a family, but I have no idea where they are. One day, I hope to see them
-  again.
-eyes: Deep Blue
-flaw: I will never fully trust anyone other than myself.
+  numeric: 8/4
+  written: 4th of Ravenent
+bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
+  somewhere.
+eyes: Pale Gray
+flaw: Once I start drinking, it's hard for me to stop.
 guild: Fiesn
-hair: 2 straight horns
-ideal: Logic
+hair: curly red hair that's hanging down to their legs
+ideal: Wisdom
 name: Olivus Ondabrar
 organizations: []
-partyID: 64
-race: Dragonborn
+partyID: 85
+race: Halfling
 relationships:
-- name: Ungris Riluaneth
+- name: Nom Remington
   type: partymate
-- name: Julyo Agassi
-  type: partymate
-- name: Kymber Korrigash
-  type: partymate
-skin: gold
-spec: Bard
+skin: Tan
+spec: Wizard
 stats:
-  cha: 13
-  con: 12
-  dex: 10
-  int: 13
-  str: 10
-  wis: 14
-track: Exploration
-trait: I like to talk at length about my profession.
-trait1: Colorful
-trait2: High-spirited
-year: 4
+  cha: 14
+  con: 14
+  dex: 14
+  int: 18
+  str: 12
+  wis: 12
+track: Assault
+trait: I feel far more comfortable around animals than people.
+trait1: Prudent
+trait2: Dirty
+year: 3
 ---
 # Olivus Ondabrar
 ---
 ### Description
-- 4th year Dragonborn Bard in Fiesn
-- 2 straight horns, Deep Blue eyes, and gold skin
-- Is Colorful and High-spirited, and has Logic as their ideal
+- 3rd year Halfling Wizard in Fiesn
+- curly red hair that's hanging down to their legs, Pale Gray eyes, and Tan skin
+- Is Prudent and Dirty, and has Wisdom as their ideal
 
 ### Organizations
 ### Relationships
-[[Ungris Riluaneth]]: partymate
-[[Julyo Agassi]]: partymate
-[[Kymber Korrigash]]: partymate
+[[Nom Remington]]: partymate
 ### Stats
 ```statblock
 name: Olivus Ondabrar
-stats: [10, 10, 12, 13, 14, 13]
+stats: [12, 14, 14, 18, 12, 14]
 ```

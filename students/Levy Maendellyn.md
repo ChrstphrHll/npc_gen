@@ -1,50 +1,50 @@
 ---
 birthday:
-  numeric: 8/21
-  written: 21st of Ravenent
-bond: Should my discovery come to light, it could bring ruin to the world.
-eyes: Green
-flaw: I can't help but pocket loose coins and other trinkets I come across.
-guild: Treskal
-hair: curly strawberry blond hair that's parted to the right
-ideal: Clarity
+  numeric: 8/8
+  written: 8th of Ravenent
+bond: I would still lay down my life for the people I served with.
+eyes: Pale Blue
+flaw: I'm a sucker for a pretty face.
+guild: Burk
+hair: curly auburn hair that's parted to the left
+ideal: Righteous
 name: Levy Maendellyn
 organizations: []
-partyID: 78
-race: Firbolg
+partyID: 36
+race: Gnome
 relationships:
-- name: Wenge Usunaar
+- name: Isaias Vaalyun
   type: partymate
-- name: Efjan Andrathath
+- name: Jacoby Maeraddyth
   type: partymate
-skin: Pale Green
-spec: Rouge
+skin: Brown
+spec: Fighter
 stats:
-  cha: 10
-  con: 16
-  dex: 18
-  int: 14
+  cha: 6
+  con: 18
+  dex: 11
+  int: 12
   str: 16
-  wis: 9
-track: Diplomacy
-trait: The common folk love me for my kindness and generosity.
-trait1: Authentic
-trait2: Escapist
+  wis: 15
+track: Assault
+trait: I work hard so that I can play hard when the work is done.
+trait1: Hospitable
+trait2: Sly
 year: 2
 ---
 # Levy Maendellyn
 ---
 ### Description
-- 2nd year Firbolg Rouge in Treskal
-- curly strawberry blond hair that's parted to the right, Green eyes, and Pale Green skin
-- Is Authentic and Escapist, and has Clarity as their ideal
+- 2nd year Gnome Fighter in Burk
+- curly auburn hair that's parted to the left, Pale Blue eyes, and Brown skin
+- Is Hospitable and Sly, and has Righteous as their ideal
 
 ### Organizations
 ### Relationships
-[[Wenge Usunaar]]: partymate
-[[Efjan Andrathath]]: partymate
+[[Isaias Vaalyun]]: partymate
+[[Jacoby Maeraddyth]]: partymate
 ### Stats
 ```statblock
 name: Levy Maendellyn
-stats: [16, 18, 16, 14, 9, 10]
+stats: [16, 11, 18, 12, 15, 6]
 ```

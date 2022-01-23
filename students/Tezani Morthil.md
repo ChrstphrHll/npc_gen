@@ -1,55 +1,52 @@
 ---
 birthday:
-  numeric: 5/14
-  written: 14th of Iounent
-bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
-  to see them again one day.
-eyes: Hazel
-flaw: I am dogmatic in my thoughts and philosophy.
+  numeric: 8/24
+  written: 24th of Ravenent
+bond: My ill-gotten gains go to support my family.
+eyes: Pale Brown
+flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
+  own hide if the going gets tough.
 guild: Elkenval
-hair: curly white hair that's parted to the right
-ideal: Responsibility
+hair: straight auburn hair that's put up in a large bun
+ideal: Generosity
 name: Tezani Morthil
 organizations: []
-partyID: 59
-race: Firbolg
+partyID: 34
+race: Elf
 relationships:
-- name: Valerya Haldreithen
+- name: Eune Eldratha
   type: partymate
-- name: Goshwa Khiipaera
+- name: Evyn Fenton
   type: partymate
-- name: Vaellyn Esyae
-  type: partymate
-skin: Pale Green
-spec: Bard
+skin: Light Tan
+spec: Wizard
 stats:
-  cha: 16
+  cha: 13
   con: 12
-  dex: 10
+  dex: 12
   int: 15
   str: 10
-  wis: 9
-track: Protection
-trait: I've been isolated for so long that I rarely speak, preferring gestures and
-  the occasional grunt.
-trait1: Obliging
-trait2: Impolite
-year: 1
+  wis: 6
+track: Assault
+trait: I'm haunted by memories of war. I can't get the images of violence out of my
+  mind.
+trait1: Deceptive
+trait2: Extreme
+year: 2
 ---
 # Tezani Morthil
 ---
 ### Description
-- 1st year Firbolg Bard in Elkenval
-- curly white hair that's parted to the right, Hazel eyes, and Pale Green skin
-- Is Obliging and Impolite, and has Responsibility as their ideal
+- 2nd year Elf Wizard in Elkenval
+- straight auburn hair that's put up in a large bun, Pale Brown eyes, and Light Tan skin
+- Is Deceptive and Extreme, and has Generosity as their ideal
 
 ### Organizations
 ### Relationships
-[[Valerya Haldreithen]]: partymate
-[[Goshwa Khiipaera]]: partymate
-[[Vaellyn Esyae]]: partymate
+[[Eune Eldratha]]: partymate
+[[Evyn Fenton]]: partymate
 ### Stats
 ```statblock
 name: Tezani Morthil
-stats: [10, 10, 12, 15, 9, 16]
+stats: [10, 12, 12, 15, 6, 13]
 ```

@@ -1,57 +1,53 @@
 ---
 birthday:
-  numeric: 6/7
-  written: 7th of Pelent
-bond: My isolation gave me great insight into a great evil that only I can destroy.
-eyes: Pale Green
-flaw: When faced with a choice between money and my friends, I usually choose the
-  money.
+  numeric: 7/10
+  written: 10th of Korent
+bond: I've been searching my whole life for the answer to a certain question.
+eyes: Hazel
+flaw: If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
 guild: Burk
-hair: curly auburn hair that's braided with pink ribbon (med)
-ideal: Teamwork
+hair: straight strawberry blond hair that's loose around the shoulders
+ideal: Cooperation
 name: Nicholus Morthil
 organizations: []
-partyID: 55
-race: Half-Orc
+partyID: 93
+race: Firbolg
 relationships:
-- name: Allisa Iahalae
+- name: Abryia Rubrae
   type: partymate
-- name: Iaen Dannyd
+- name: Yan Sorsasta
   type: partymate
-- name: Roman Erolith
+- name: Violetta Coldsprinter
   type: partymate
-- name: Kanoi Xharlion
-  type: partymate
-skin: Green Blue
-spec: Bard
+skin: Pale Green
+spec: Paladin
 stats:
-  cha: 17
-  con: 11
-  dex: 10
-  int: 9
-  str: 13
-  wis: 9
-track: Assault
-trait: I was, in fact, raised by wolves.
-trait1: Articulate
-trait2: Steely
-year: 3
+  cha: 16
+  con: 17
+  dex: 13
+  int: 13
+  str: 18
+  wis: 10
+track: Exploration
+trait: I like a job well done, especially if I can convince someone else to do it.
+trait1: Heroic
+trait2: Noncompetitive
+year: 2
 ---
 # Nicholus Morthil
 ---
 ### Description
-- 3rd year Half-Orc Bard in Burk
-- curly auburn hair that's braided with pink ribbon (med), Pale Green eyes, and Green Blue skin
-- Is Articulate and Steely, and has Teamwork as their ideal
+- 2nd year Firbolg Paladin in Burk
+- straight strawberry blond hair that's loose around the shoulders, Hazel eyes, and Pale Green skin
+- Is Heroic and Noncompetitive, and has Cooperation as their ideal
 
 ### Organizations
 ### Relationships
-[[Allisa Iahalae]]: partymate
-[[Iaen Dannyd]]: partymate
-[[Roman Erolith]]: partymate
-[[Kanoi Xharlion]]: partymate
+[[Abryia Rubrae]]: partymate
+[[Yan Sorsasta]]: partymate
+[[Violetta Coldsprinter]]: partymate
 ### Stats
 ```statblock
 name: Nicholus Morthil
-stats: [13, 10, 11, 9, 9, 17]
+stats: [18, 13, 17, 13, 10, 16]
 ```

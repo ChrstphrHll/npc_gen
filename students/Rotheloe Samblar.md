@@ -1,47 +1,54 @@
 ---
 birthday:
-  numeric: 6/9
-  written: 9th of Pelent
-bond: I entered seclusion because I loved someone I could not have.
-eyes: Green
-flaw: I am inflexible in my thinking.
+  numeric: 8/19
+  written: 19th of Ravenent
+bond: I wish my childhood sweetheart had come with me to pursue my destiny.
+eyes: Pale Gray
+flaw: Once I pick a goal, I become obsessed with it to the detriment of everything
+  else in my life.
 guild: Burk
-hair: curly green hair that's geled back
-ideal: Renewal
+hair: curly red hair that's loose around the shoulders
+ideal: Entertain
 name: Rotheloe Samblar
 organizations: []
-partyID: 39
-race: Half-Elf
+partyID: 9
+race: Firbolg
 relationships:
-- name: Aksel Strohm
+- name: Aelisabeth Soliania
   type: partymate
-skin: Light Tan
-spec: Wizard
+- name: Elia Veluthil
+  type: partymate
+- name: Helera Urkensvall
+  type: partymate
+skin: Pale Brown
+spec: Barbarian
 stats:
-  cha: 12
+  cha: 16
   con: 10
-  dex: 9
+  dex: 16
   int: 13
-  str: 11
-  wis: 13
+  str: 17
+  wis: 11
 track: Protection
-trait: I'm a hopeless romantic, always searching for that "special someone."
-trait1: Busy
-trait2: Opinionated
-year: 4
+trait: I feel far more comfortable around animals than people.
+trait1: Naughty
+trait2: Skeptical
+year: 3
 ---
 # Rotheloe Samblar
 ---
 ### Description
-- 4th year Half-Elf Wizard in Burk
-- curly green hair that's geled back, Green eyes, and Light Tan skin
-- Is Busy and Opinionated, and has Renewal as their ideal
+- 3rd year Firbolg Barbarian in Burk
+- curly red hair that's loose around the shoulders, Pale Gray eyes, and Pale Brown skin
+- Is Naughty and Skeptical, and has Entertain as their ideal
 
 ### Organizations
 ### Relationships
-[[Aksel Strohm]]: partymate
+[[Aelisabeth Soliania]]: partymate
+[[Elia Veluthil]]: partymate
+[[Helera Urkensvall]]: partymate
 ### Stats
 ```statblock
 name: Rotheloe Samblar
-stats: [11, 9, 10, 13, 13, 12]
+stats: [17, 16, 10, 13, 11, 16]
 ```

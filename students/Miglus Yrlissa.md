@@ -1,53 +1,53 @@
 ---
 birthday:
-  numeric: 5/19
-  written: 19th of Iounent
-bond: I'm loyal to my captain first, everything else second.
-eyes: Blue
-flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
-guild: Alderden
-hair: straight brunette hair that's kept back by a green headband
-ideal: Order
+  numeric: 1/21
+  written: 21st of Avanent
+bond: I owe my guild a great debt for forging me into the person I am today.
+eyes: Amber
+flaw: I can't resist a pretty face.
+guild: Jettenia
+hair: wavy blonde hair that's loose around the shoulders
+ideal: Generosity
 name: Miglus Yrlissa
 organizations: []
-partyID: 43
-race: Firbolg
+partyID: 4
+race: Triton
 relationships:
-- name: Moki Aelynthi
+- name: Skalanis Kobayashi
   type: partymate
-- name: Shoulree Letryal
+- name: Pippi Langston
   type: partymate
-- name: Nathan Laeroth
+- name: Jerrick Yarbrough
   type: partymate
-skin: Pale Green
-spec: Sorcerer
+skin: Aqua
+spec: Fighter
 stats:
-  cha: 18
-  con: 15
+  cha: 16
+  con: 9
   dex: 17
-  int: 16
-  str: 9
+  int: 8
+  str: 14
   wis: 13
 track: Assault
-trait: I fall in and out of love easily, and am always pursuing someone.
-trait1: Frugal
-trait2: Neglectful
-year: 1
+trait: Sarcasm and insults are my weapons of choice.
+trait1: Objective
+trait2: Sensual
+year: 6
 ---
 # Miglus Yrlissa
 ---
 ### Description
-- 1st year Firbolg Sorcerer in Alderden
-- straight brunette hair that's kept back by a green headband, Blue eyes, and Pale Green skin
-- Is Frugal and Neglectful, and has Order as their ideal
+- 6th year Triton Fighter in Jettenia
+- wavy blonde hair that's loose around the shoulders, Amber eyes, and Aqua skin
+- Is Objective and Sensual, and has Generosity as their ideal
 
 ### Organizations
 ### Relationships
-[[Moki Aelynthi]]: partymate
-[[Shoulree Letryal]]: partymate
-[[Nathan Laeroth]]: partymate
+[[Skalanis Kobayashi]]: partymate
+[[Pippi Langston]]: partymate
+[[Jerrick Yarbrough]]: partymate
 ### Stats
 ```statblock
 name: Miglus Yrlissa
-stats: [9, 17, 15, 16, 13, 18]
+stats: [14, 17, 9, 8, 13, 16]
 ```

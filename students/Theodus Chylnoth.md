@@ -1,55 +1,52 @@
 ---
 birthday:
-  numeric: 8/16
-  written: 16th of Ravenent
-bond: Someone saved my life on the battlefield. To this day, I will never leave a
-  friend behind.
-eyes: Hazel
-flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
-  own hide if the going gets tough.
+  numeric: 3/8
+  written: 8th of Melorent
+bond: I will someday get revenge on the corrupt temple hierarchy who branded me a
+  heretic.
+eyes: Pale Blue
+flaw: I consider the adherents of other gods to be deluded innocents at best, or ignorant
+  fools at worst.
 guild: Elkenval
-hair: straight platinum hair that's geled back
-ideal: Leadership
+hair: curly auburn hair that's braided with violet ribbon (long)
+ideal: Beauty
 name: Theodus Chylnoth
 organizations: []
-partyID: 65
-race: Aasimar
+partyID: 40
+race: Half-Elf
 relationships:
-- name: Eadyth Lora
+- name: Velmona Elway
   type: partymate
-- name: Alkindus Llamryl
+- name: Athyn Urddusk
   type: partymate
-- name: Vyctor Willow
-  type: partymate
-skin: Dark Brown
-spec: Fighter
+skin: Light
+spec: Monk
 stats:
-  cha: 10
-  con: 9
-  dex: 14
-  int: 9
-  str: 12
-  wis: 12
-track: Exploration
-trait: To me, a tavern brawl is a nice way to get to know a new city.
-trait1: Colorful
-trait2: Moody
-year: 4
+  cha: 11
+  con: 7
+  dex: 16
+  int: 14
+  str: 14
+  wis: 9
+track: Assault
+trait: I get bored easily. When am I going to get on with my destiny?
+trait1: Benevolent
+trait2: Pharissical
+year: 1
 ---
 # Theodus Chylnoth
 ---
 ### Description
-- 4th year Aasimar Fighter in Elkenval
-- straight platinum hair that's geled back, Hazel eyes, and Dark Brown skin
-- Is Colorful and Moody, and has Leadership as their ideal
+- 1st year Half-Elf Monk in Elkenval
+- curly auburn hair that's braided with violet ribbon (long), Pale Blue eyes, and Light skin
+- Is Benevolent and Pharissical, and has Beauty as their ideal
 
 ### Organizations
 ### Relationships
-[[Eadyth Lora]]: partymate
-[[Alkindus Llamryl]]: partymate
-[[Vyctor Willow]]: partymate
+[[Velmona Elway]]: partymate
+[[Athyn Urddusk]]: partymate
 ### Stats
 ```statblock
 name: Theodus Chylnoth
-stats: [12, 14, 9, 9, 12, 10]
+stats: [14, 16, 7, 14, 9, 11]
 ```

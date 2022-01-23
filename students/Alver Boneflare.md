@@ -1,52 +1,58 @@
 ---
 birthday:
-  numeric: 4/29
-  written: 29th of Moradent
-bond: I owe a debt I can never repay to the person who took pity on me.
-eyes: Pale Blue
-flaw: I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go,
-  I'm surrounded by rivals.
-guild: Burk
-hair: straight black hair that's geled back
-ideal: Uncaring
+  numeric: 3/27
+  written: 27th of Melorent
+bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
+  somewhere.
+eyes: Blue
+flaw: I made a terrible mistake in battle cost many lives- and I would do anything
+  to keep that mistake secret.
+guild: Jettenia
+hair: curly brunette hair that's hanging down to their back
+ideal: Creativity
 name: Alver Boneflare
 organizations: []
-partyID: 15
-race: Dwarf
+partyID: 68
+race: Goliath
 relationships:
-- name: Noam Shields
+- name: Matto Divya
   type: partymate
-- name: Kendel Shael
+- name: Ysak Llewellenar
   type: partymate
-skin: Brown
-spec: Paladin
+- name: Garan Mirthal
+  type: partymate
+- name: Iasono Ynshael
+  type: partymate
+skin: Light Tan
+spec: Cleric
 stats:
-  cha: 11
-  con: 10
-  dex: 13
-  int: 8
-  str: 15
-  wis: 10
-track: Exploration
-trait: I have a strong sense of fair play and always try to find the most equitable
-  solution to arguments.
-trait1: Excellent
-trait2: 'False'
-year: 7
+  cha: 9
+  con: 7
+  dex: 16
+  int: 16
+  str: 11
+  wis: 18
+track: Protection
+trait: I'm oblivious to etiquette and social expectations.
+trait1: Reflective
+trait2: Cold-hearted
+year: 1
 ---
 # Alver Boneflare
 ---
 ### Description
-- 7th year Dwarf Paladin in Burk
-- straight black hair that's geled back, Pale Blue eyes, and Brown skin
-- Is Excellent and False, and has Uncaring as their ideal
+- 1st year Goliath Cleric in Jettenia
+- curly brunette hair that's hanging down to their back, Blue eyes, and Light Tan skin
+- Is Reflective and Cold-hearted, and has Creativity as their ideal
 
 ### Organizations
 ### Relationships
-[[Noam Shields]]: partymate
-[[Kendel Shael]]: partymate
+[[Matto Divya]]: partymate
+[[Ysak Llewellenar]]: partymate
+[[Garan Mirthal]]: partymate
+[[Iasono Ynshael]]: partymate
 ### Stats
 ```statblock
 name: Alver Boneflare
-stats: [15, 13, 10, 8, 10, 11]
+stats: [11, 16, 7, 16, 18, 9]
 ```

@@ -1,51 +1,53 @@
 ---
 birthday:
-  numeric: 1/26
-  written: 26th of Avanent
-bond: I will bring terrible wrath down on the evildoers who destroyed my homeland.
-eyes: Pale Brown
-flaw: I remember every insult I've received and nurse a silent resentment toward anyone
-  who's ever wronged me.
+  numeric: 8/10
+  written: 10th of Ravenent
+bond: I work to preserve a library, university, scriptorium, or monastery.
+eyes: Brown
+flaw: In fact, the world does revolve around me.
 guild: Burk
-hair: curly strawberry blond hair that's geled back
-ideal: Hard Work
+hair: frills
+ideal: Responsibility
 name: Pynelope Valhein
 organizations: []
-partyID: 71
-race: Half-Orc
+partyID: 95
+race: Dragonborn
 relationships:
-- name: Barak Felaern
+- name: Brinna Muerlara
   type: partymate
-- name: Terek Nushala
+- name: Rosherren Haladavar
   type: partymate
-skin: Pale Green
+- name: Tisette Bender
+  type: partymate
+skin: black
 spec: Rouge
 stats:
   cha: 14
-  con: 15
-  dex: 14
-  int: 7
-  str: 12
-  wis: 8
-track: Diplomacy
-trait: My friends know they can rely on me, no matter what.
-trait1: Heroic
-trait2: Picky
-year: 2
+  con: 9
+  dex: 16
+  int: 13
+  str: 16
+  wis: 5
+track: Exploration
+trait: I can stare down a hell hound without flinching.
+trait1: Unreligious
+trait2: Impassive
+year: 1
 ---
 # Pynelope Valhein
 ---
 ### Description
-- 2nd year Half-Orc Rouge in Burk
-- curly strawberry blond hair that's geled back, Pale Brown eyes, and Pale Green skin
-- Is Heroic and Picky, and has Hard Work as their ideal
+- 1st year Dragonborn Rouge in Burk
+- frills, Brown eyes, and black skin
+- Is Unreligious and Impassive, and has Responsibility as their ideal
 
 ### Organizations
 ### Relationships
-[[Barak Felaern]]: partymate
-[[Terek Nushala]]: partymate
+[[Brinna Muerlara]]: partymate
+[[Rosherren Haladavar]]: partymate
+[[Tisette Bender]]: partymate
 ### Stats
 ```statblock
 name: Pynelope Valhein
-stats: [12, 14, 15, 7, 8, 14]
+stats: [16, 16, 9, 13, 5, 14]
 ```

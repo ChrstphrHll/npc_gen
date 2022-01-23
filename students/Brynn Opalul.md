@@ -1,51 +1,49 @@
 ---
 birthday:
-  numeric: 2/33
-  written: 33rd of Corelent
-bond: My family, clan, or tribe is the most important thing in my life, even when
-  they are far from me.
-eyes: Sea Green
-flaw: Unlocking an ancient mystery is worth the price of a civilization.
-guild: Jettenia
-hair: frills
-ideal: Faith
+  numeric: 4/28
+  written: 28th of Moradent
+bond: I entered seclusion because I loved someone I could not have.
+eyes: Green
+flaw: Don't expect me to save those who can't save themselves. It is nature's way
+  that the strong thrive and the weak perish.
+guild: Burk
+hair: wavy dark red hair that's loose around the shoulders
+ideal: Charisma
 name: Brynn Opalul
 organizations: []
-partyID: 4
-race: Dragonborn
+partyID: 39
+race: Tiefling
 relationships:
-- name: Milae Ditka
+- name: Alys Ylyndar
   type: partymate
-- name: Gavyn Sadalymn
-  type: partymate
-skin: blue
-spec: Fighter
+skin: Pale Yellow
+spec: Paladin
 stats:
   cha: 12
-  con: 8
-  dex: 8
+  con: 10
+  dex: 9
   int: 14
-  str: 12
-  wis: 7
+  str: 14
+  wis: 6
 track: Exploration
-trait: Thinking is for other people. I prefer action.
-trait1: Gallant
-trait2: Ferocious
-year: 1
+trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
+  breaking them.
+trait1: Devoted
+trait2: Odd
+year: 3
 ---
 # Brynn Opalul
 ---
 ### Description
-- 1st year Dragonborn Fighter in Jettenia
-- frills, Sea Green eyes, and blue skin
-- Is Gallant and Ferocious, and has Faith as their ideal
+- 3rd year Tiefling Paladin in Burk
+- wavy dark red hair that's loose around the shoulders, Green eyes, and Pale Yellow skin
+- Is Devoted and Odd, and has Charisma as their ideal
 
 ### Organizations
 ### Relationships
-[[Milae Ditka]]: partymate
-[[Gavyn Sadalymn]]: partymate
+[[Alys Ylyndar]]: partymate
 ### Stats
 ```statblock
 name: Brynn Opalul
-stats: [12, 8, 8, 14, 7, 12]
+stats: [14, 9, 10, 14, 6, 12]
 ```

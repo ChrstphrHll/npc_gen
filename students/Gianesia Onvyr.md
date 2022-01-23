@@ -1,57 +1,50 @@
 ---
 birthday:
-  numeric: 5/14
-  written: 14th of Iounent
-bond: No one else should have to endure the hardships I've been through.
-eyes: Pale Gray
-flaw: A scandal prevents me from ever going home again. That kind of trouble seems
-  to follow me around.
-guild: Fiesn
-hair: long spines
-ideal: Cruelty
+  numeric: 1/25
+  written: 25th of Avanent
+bond: I wish my childhood sweetheart had come with me to pursue my destiny.
+eyes: Amber
+flaw: I turn tail and run when things look bad.
+guild: Burk
+hair: straight blonde hair that's loose around the shoulders
+ideal: Competition
 name: Gianesia Onvyr
 organizations: []
-partyID: 24
-race: Dragonborn
+partyID: 29
+race: Dwarf
 relationships:
-- name: Ian Averescu
+- name: Moki Aelynthi
   type: partymate
-- name: Jothen Elway
+- name: Ezekius Chalsarda
   type: partymate
-- name: Jareth Tanseril
-  type: partymate
-- name: Delila Felaern
-  type: partymate
-skin: green
-spec: Wizard
+skin: Light
+spec: Monk
 stats:
-  cha: 9
-  con: 11
-  dex: 10
-  int: 14
-  str: 11
+  cha: 13
+  con: 15
+  dex: 13
+  int: 10
+  str: 7
   wis: 8
-track: Assault
-trait: I'm a born gambler who can't resist taking a risk for a potential payoff.
-trait1: Healthy
-trait2: Dominating
-year: 3
+track: Protection
+trait: If someone is in trouble, I'm always ready to lend help.
+trait1: Humorous
+trait2: Opportunistic
+year: 6
 ---
 # Gianesia Onvyr
 ---
 ### Description
-- 3rd year Dragonborn Wizard in Fiesn
-- long spines, Pale Gray eyes, and green skin
-- Is Healthy and Dominating, and has Cruelty as their ideal
+- 6th year Dwarf Monk in Burk
+- straight blonde hair that's loose around the shoulders, Amber eyes, and Light skin
+- Is Humorous and Opportunistic, and has Competition as their ideal
 
 ### Organizations
 ### Relationships
-[[Ian Averescu]]: partymate
-[[Jothen Elway]]: partymate
-[[Jareth Tanseril]]: partymate
-[[Delila Felaern]]: partymate
+[[Moki Aelynthi]]: partymate
+[[Ezekius Chalsarda]]: partymate
 ### Stats
 ```statblock
 name: Gianesia Onvyr
-stats: [11, 10, 11, 14, 8, 9]
+stats: [7, 13, 15, 10, 8, 13]
 ```

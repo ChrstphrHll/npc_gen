@@ -1,50 +1,52 @@
 ---
 birthday:
-  numeric: 8/11
-  written: 11th of Ravenent
-bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
-eyes: Blue
-flaw: I let my need to win arguments overshadow friendships and harmony.
+  numeric: 6/19
+  written: 19th of Pelent
+bond: So long as I have this token from my homeland, I can face any adversity in this
+  strange land.
+eyes: Pale Blue
+flaw: My piety sometimes leads me to blindly trust those that profess faith in my
+  god.
 guild: Fiesn
-hair: smooth bronze guilded with garnet
-ideal: Affection
+hair: curly platinum hair that's kept back by a turquoise headband
+ideal: Appreciation
 name: Braddeus Jacaranda
 organizations: []
-partyID: 14
-race: Warforged
+partyID: 94
+race: Halfling
 relationships:
-- name: Ezekius Chalsarda
+- name: Maarika Oncith
   type: partymate
-- name: Levi Kicklighter
+- name: Lilia Agrippa
   type: partymate
-skin: silver
-spec: Druid
+skin: Pale
+spec: Paladin
 stats:
-  cha: 11
-  con: 10
-  dex: 9
-  int: 10
-  str: 9
-  wis: 12
-track: Assault
-trait: I like a job well done, especially if I can convince someone else to do it.
-trait1: Colorful
-trait2: Meretricious
-year: 4
+  cha: 16
+  con: 9
+  dex: 6
+  int: 9
+  str: 16
+  wis: 14
+track: Diplomacy
+trait: I'm a hopeless romantic, always searching for that "special someone."
+trait1: Strong-willed
+trait2: Pretentious
+year: 3
 ---
 # Braddeus Jacaranda
 ---
 ### Description
-- 4th year Warforged Druid in Fiesn
-- smooth bronze guilded with garnet, Blue eyes, and silver skin
-- Is Colorful and Meretricious, and has Affection as their ideal
+- 3rd year Halfling Paladin in Fiesn
+- curly platinum hair that's kept back by a turquoise headband, Pale Blue eyes, and Pale skin
+- Is Strong-willed and Pretentious, and has Appreciation as their ideal
 
 ### Organizations
 ### Relationships
-[[Ezekius Chalsarda]]: partymate
-[[Levi Kicklighter]]: partymate
+[[Maarika Oncith]]: partymate
+[[Lilia Agrippa]]: partymate
 ### Stats
 ```statblock
 name: Braddeus Jacaranda
-stats: [9, 9, 10, 10, 12, 11]
+stats: [16, 6, 9, 9, 14, 16]
 ```

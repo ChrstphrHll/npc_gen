@@ -1,51 +1,47 @@
 ---
 birthday:
-  numeric: 2/1
-  written: 1st of Corelent
-bond: Someone stole my precious instrument, and someday I'll get it back.
-eyes: Pale Blue
-flaw: I remember every insult I've received and nurse a silent resentment toward anyone
-  who's ever wronged me.
+  numeric: 5/13
+  written: 13th of Iounent
+bond: My loyalty to my sovereign is unwavering.
+eyes: Purple
+flaw: Once I start drinking, it's hard for me to stop.
 guild: Treskal
-hair: straight dark red hair that's parted to the right
-ideal: Nature
+hair: wavy auburn hair that's put back in a short pony tail
+ideal: Hard Work
 name: Saccaros Anaharae
 organizations: []
-partyID: 60
+partyID: 70
 race: Tiefling
 relationships:
-- name: Nycola Eroan
+- name: Kazoan Windward
   type: partymate
-- name: Edyrm Iolas
-  type: partymate
-skin: Pale Brown
-spec: Sorcerer
+skin: Aqua
+spec: Ranger
 stats:
   cha: 12
-  con: 11
-  dex: 14
-  int: 12
+  con: 3
+  dex: 16
+  int: 13
   str: 11
-  wis: 10
-track: Exploration
-trait: Sarcasm and insults are my weapons of choice.
-trait1: Self-conscious
-trait2: Stern
-year: 1
+  wis: 12
+track: Diplomacy
+trait: I have a crude sense of humor.
+trait1: Confident
+trait2: "Na\xEFve"
+year: 2
 ---
 # Saccaros Anaharae
 ---
 ### Description
-- 1st year Tiefling Sorcerer in Treskal
-- straight dark red hair that's parted to the right, Pale Blue eyes, and Pale Brown skin
-- Is Self-conscious and Stern, and has Nature as their ideal
+- 2nd year Tiefling Ranger in Treskal
+- wavy auburn hair that's put back in a short pony tail, Purple eyes, and Aqua skin
+- Is Confident and Naïve, and has Hard Work as their ideal
 
 ### Organizations
 ### Relationships
-[[Nycola Eroan]]: partymate
-[[Edyrm Iolas]]: partymate
+[[Kazoan Windward]]: partymate
 ### Stats
 ```statblock
 name: Saccaros Anaharae
-stats: [11, 14, 11, 12, 10, 12]
+stats: [11, 16, 3, 13, 12, 12]
 ```

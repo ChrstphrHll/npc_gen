@@ -1,55 +1,48 @@
 ---
 birthday:
-  numeric: 7/17
-  written: 17th of Korent
-bond: Someone saved my life on the battlefield. To this day, I will never leave a
-  friend behind.
-eyes: Hazel
-flaw: I have little respect for anyone who is not a proven warrior.
-guild: Jettenia
-hair: long spines
-ideal: Tradition
+  numeric: 1/13
+  written: 13th of Avanent
+bond: I fleeced the wrong person and must work to ensure that this individual never
+  crosses paths with me or those I care about.
+eyes: Gray
+flaw: I turn tail and run when things look bad.
+guild: Burk
+hair: curly grey hair that's put back in a long pony tail
+ideal: Prosperity
 name: Leja Talila
 organizations: []
-partyID: 8
-race: Dragonborn
+partyID: 83
+race: Elf
 relationships:
-- name: Jamye Napraeleon
+- name: Natalia Endo
   type: partymate
-- name: Brannos Bellas
-  type: partymate
-- name: Thenol Shialaevar
-  type: partymate
-skin: green
-spec: Wizard
+skin: Fair
+spec: Sorcerer
 stats:
-  cha: 12
-  con: 16
-  dex: 13
-  int: 16
-  str: 10
-  wis: 6
-track: Protection
-trait: I keep multiple holy symbols on me and invoke whatever deity might come in
-  useful at any given moment.
-trait1: Natty
-trait2: Indolent
-year: 1
+  cha: 14
+  con: 12
+  dex: 9
+  int: 12
+  str: 12
+  wis: 11
+track: Diplomacy
+trait: My friends know they can rely on me, no matter what.
+trait1: Upright
+trait2: Monstrous
+year: 3
 ---
 # Leja Talila
 ---
 ### Description
-- 1st year Dragonborn Wizard in Jettenia
-- long spines, Hazel eyes, and green skin
-- Is Natty and Indolent, and has Tradition as their ideal
+- 3rd year Elf Sorcerer in Burk
+- curly grey hair that's put back in a long pony tail, Gray eyes, and Fair skin
+- Is Upright and Monstrous, and has Prosperity as their ideal
 
 ### Organizations
 ### Relationships
-[[Jamye Napraeleon]]: partymate
-[[Brannos Bellas]]: partymate
-[[Thenol Shialaevar]]: partymate
+[[Natalia Endo]]: partymate
 ### Stats
 ```statblock
 name: Leja Talila
-stats: [10, 13, 16, 16, 6, 12]
+stats: [12, 9, 12, 12, 11, 14]
 ```

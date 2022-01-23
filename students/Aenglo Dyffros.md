@@ -1,50 +1,50 @@
 ---
 birthday:
-  numeric: 2/24
-  written: 24th of Corelent
-bond: My isolation gave me great insight into a great evil that only I can destroy.
-eyes: Violet Red
-flaw: I have trouble trusting in my allies.
-guild: Treskal
-hair: wavy dirty blonde hair that's parted to the left
-ideal: Order
+  numeric: 6/27
+  written: 27th of Pelent
+bond: I fight for those who cannot fight for themselves.
+eyes: Gray
+flaw: I am suspicious of strangers and expect the worst of them.
+guild: Burk
+hair: straight red hair that's pulled to the side and buzzed on the left
+ideal: Happiness
 name: Aenglo Dyffros
 organizations: []
-partyID: 52
-race: Genasi
+partyID: 72
+race: Elf
 relationships:
-- name: Yathlanae Arkhun
+- name: Lynx Galather
   type: partymate
-- name: Vaervenshalice Eloen
+- name: Corliss Akkar
   type: partymate
-skin: earth
-spec: Bard
+skin: Light Tan
+spec: Cleric
 stats:
-  cha: 14
-  con: 13
-  dex: 11
-  int: 8
-  str: 13
-  wis: 14
+  cha: 15
+  con: 17
+  dex: 12
+  int: 12
+  str: 14
+  wis: 18
 track: Diplomacy
-trait: I can stare down a hell hound without flinching.
-trait1: Leader
-trait2: Reactive
-year: 3
+trait: I'm willing to listen to every side of an argument before I make my own judgment.
+trait1: Deferential
+trait2: Dissonant
+year: 1
 ---
 # Aenglo Dyffros
 ---
 ### Description
-- 3rd year Genasi Bard in Treskal
-- wavy dirty blonde hair that's parted to the left, Violet Red eyes, and earth skin
-- Is Leader and Reactive, and has Order as their ideal
+- 1st year Elf Cleric in Burk
+- straight red hair that's pulled to the side and buzzed on the left, Gray eyes, and Light Tan skin
+- Is Deferential and Dissonant, and has Happiness as their ideal
 
 ### Organizations
 ### Relationships
-[[Yathlanae Arkhun]]: partymate
-[[Vaervenshalice Eloen]]: partymate
+[[Lynx Galather]]: partymate
+[[Corliss Akkar]]: partymate
 ### Stats
 ```statblock
 name: Aenglo Dyffros
-stats: [13, 11, 13, 8, 14, 14]
+stats: [14, 12, 17, 12, 18, 15]
 ```

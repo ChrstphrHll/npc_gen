@@ -1,55 +1,53 @@
 ---
 birthday:
-  numeric: 7/12
-  written: 12th of Korent
-bond: I seek to preserve a sacred text that my enemies consider heretical and seek
-  to destroy.
-eyes: Brown
-flaw: I have little respect for anyone who is not a proven warrior.
-guild: Burk
-hair: wavy dark red hair that's braided with blue ribbon (med)
-ideal: Wisdom
+  numeric: 4/4
+  written: 4th of Moradent
+bond: I owe my survival to another urchin who taught me tolive on the streets.
+eyes: Blue
+flaw: I have a "tell" that reveals when I'm lying.
+guild: Treskal
+hair: curly black hair that's put back in a short pony tail
+ideal: Success
 name: Hudsen Elandorr
 organizations: []
-partyID: 32
-race: Human
+partyID: 45
+race: Half-Orc
 relationships:
-- name: Matto Divya
+- name: Brooka Whesker
   type: partymate
-- name: Pippi Langston
+- name: Jacob Jorildyn
   type: partymate
-- name: Ilksal Immianthe
+- name: Gabrila Retra
   type: partymate
-skin: Fair
-spec: Bard
+skin: Green Blue
+spec: Druid
 stats:
-  cha: 16
-  con: 11
-  dex: 15
+  cha: 10
+  con: 17
+  dex: 8
   int: 10
-  str: 14
-  wis: 7
-track: Diplomacy
-trait: I've spent so long in the temple that I have little practical experience dealing
-  with people in the outside world.
-trait1: Agreeable
-trait2: Thoughtless
-year: 8
+  str: 11
+  wis: 16
+track: Assault
+trait: I can stare down a hell hound without flinching.
+trait1: Cooperative
+trait2: Venomous
+year: 3
 ---
 # Hudsen Elandorr
 ---
 ### Description
-- 8th year Human Bard in Burk
-- wavy dark red hair that's braided with blue ribbon (med), Brown eyes, and Fair skin
-- Is Agreeable and Thoughtless, and has Wisdom as their ideal
+- 3rd year Half-Orc Druid in Treskal
+- curly black hair that's put back in a short pony tail, Blue eyes, and Green Blue skin
+- Is Cooperative and Venomous, and has Success as their ideal
 
 ### Organizations
 ### Relationships
-[[Matto Divya]]: partymate
-[[Pippi Langston]]: partymate
-[[Ilksal Immianthe]]: partymate
+[[Brooka Whesker]]: partymate
+[[Jacob Jorildyn]]: partymate
+[[Gabrila Retra]]: partymate
 ### Stats
 ```statblock
 name: Hudsen Elandorr
-stats: [14, 15, 11, 10, 7, 16]
+stats: [11, 8, 17, 10, 16, 10]
 ```

@@ -1,54 +1,54 @@
 ---
 birthday:
-  numeric: 7/27
-  written: 27th of Korent
-bond: Someone saved my life on the battlefield. To this day, I will never leave a
-  friend behind.
-eyes: Hazel
-flaw: There's no room for caution in a life lived to the fullest.
-guild: Elkenval
-hair: curly black hair that's hanging down to their legs
-ideal: Teamwork
+  numeric: 4/26
+  written: 26th of Moradent
+bond: I will face any challenge to win the approval of my family.
+eyes: Spring Green
+flaw: I'll do anything to get my hands on something rare or priceless.
+guild: Fiesn
+hair: straight brunette hair that's put back in a long pony tail
+ideal: Courage
 name: Valerya Haldreithen
 organizations: []
-partyID: 59
-race: Dwarf
+partyID: 18
+race: Triton
 relationships:
-- name: Goshwa Khiipaera
+- name: Shinare Bersa
   type: partymate
-- name: Tezani Morthil
+- name: Ezros Laerdya
   type: partymate
-- name: Vaellyn Esyae
+- name: Rjanna Eroan
   type: partymate
-skin: Fair
-spec: Sorcerer
+skin: Spring Green
+spec: Druid
 stats:
-  cha: 15
-  con: 14
-  dex: 8
-  int: 6
-  str: 6
+  cha: 8
+  con: 13
+  dex: 14
+  int: 10
+  str: 13
   wis: 15
 track: Assault
-trait: I express affection or contempt in ways that are unfamiliar to others.
-trait1: Humble
-trait2: Smooth
+trait: I begin or end my day with small traditional rituals that are unfamiliar to
+  those around me.
+trait1: Fair
+trait2: Mechanical
 year: 1
 ---
 # Valerya Haldreithen
 ---
 ### Description
-- 1st year Dwarf Sorcerer in Elkenval
-- curly black hair that's hanging down to their legs, Hazel eyes, and Fair skin
-- Is Humble and Smooth, and has Teamwork as their ideal
+- 1st year Triton Druid in Fiesn
+- straight brunette hair that's put back in a long pony tail, Spring Green eyes, and Spring Green skin
+- Is Fair and Mechanical, and has Courage as their ideal
 
 ### Organizations
 ### Relationships
-[[Goshwa Khiipaera]]: partymate
-[[Tezani Morthil]]: partymate
-[[Vaellyn Esyae]]: partymate
+[[Shinare Bersa]]: partymate
+[[Ezros Laerdya]]: partymate
+[[Rjanna Eroan]]: partymate
 ### Stats
 ```statblock
 name: Valerya Haldreithen
-stats: [6, 8, 14, 6, 15, 15]
+stats: [13, 14, 13, 10, 15, 8]
 ```

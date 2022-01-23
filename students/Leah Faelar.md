@@ -1,52 +1,54 @@
 ---
 birthday:
-  numeric: 4/8
-  written: 8th of Moradent
-bond: I come from a noble family, and one day I'll reclaim my lands and title from
-  those who stole them from me.
-eyes: Gray
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Alderden
-hair: wavy platinum hair that's a tousled bed head
-ideal: Dishonesty
+  numeric: 4/7
+  written: 7th of Moradent
+bond: So long as I have this token from my homeland, I can face any adversity in this
+  strange land.
+eyes: Pale Blue
+flaw: I am slow to trust members of other races, tribes, and societies.
+guild: Treskal
+hair: wavy auburn hair that's braided with blue ribbon (med)
+ideal: Justice
 name: Leah Faelar
 organizations: []
-partyID: 72
-race: Elf
+partyID: 17
+race: Human
 relationships:
-- name: Holys Hachaam
+- name: Branus Shadegrove
   type: partymate
-- name: Genesys Mhaenal
+- name: Tilo Connak
   type: partymate
-skin: Pale
+- name: Angel Nushala
+  type: partymate
+skin: Light Tan
 spec: Bard
 stats:
   cha: 14
-  con: 5
-  dex: 14
-  int: 9
-  str: 15
-  wis: 11
-track: Assault
-trait: I connect everything that happens to me to a grand, cosmic plan.
-trait1: Wise
-trait2: Religious
+  con: 11
+  dex: 8
+  int: 11
+  str: 13
+  wis: 12
+track: Exploration
+trait: I've lost too many friends, and I'm slow to make new ones.
+trait1: Intense
+trait2: Assertive
 year: 1
 ---
 # Leah Faelar
 ---
 ### Description
-- 1st year Elf Bard in Alderden
-- wavy platinum hair that's a tousled bed head, Gray eyes, and Pale skin
-- Is Wise and Religious, and has Dishonesty as their ideal
+- 1st year Human Bard in Treskal
+- wavy auburn hair that's braided with blue ribbon (med), Pale Blue eyes, and Light Tan skin
+- Is Intense and Assertive, and has Justice as their ideal
 
 ### Organizations
 ### Relationships
-[[Holys Hachaam]]: partymate
-[[Genesys Mhaenal]]: partymate
+[[Branus Shadegrove]]: partymate
+[[Tilo Connak]]: partymate
+[[Angel Nushala]]: partymate
 ### Stats
 ```statblock
 name: Leah Faelar
-stats: [15, 14, 5, 9, 11, 14]
+stats: [13, 8, 11, 11, 12, 14]
 ```

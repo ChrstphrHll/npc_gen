@@ -1,58 +1,50 @@
 ---
 birthday:
-  numeric: 5/7
-  written: 7th of Iounent
-bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
-  somewhere.
-eyes: Brown
-flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
-  involved.
-guild: Alderden
-hair: wavy blonde hair that's parted to the left
-ideal: Affection
+  numeric: 3/17
+  written: 17th of Melorent
+bond: Something important was taken from me, and I aim to steal it back.
+eyes: Pale Gray
+flaw: People who can't take care of themselves get what they deserve.
+guild: Fiesn
+hair: curly brunette hair that's put up in a large bun
+ideal: Balance
 name: Ahtye Elhieardacil
 organizations: []
-partyID: 33
-race: Human
+partyID: 81
+race: Elf
 relationships:
-- name: Jandar Pleufan
+- name: Santyeg Kuskyn
   type: partymate
-- name: Natalia Endo
+- name: Malchor Tenyajn
   type: partymate
-- name: Hudsen Aluendalee
-  type: partymate
-- name: Ezros Laerdya
-  type: partymate
-skin: Fair
-spec: Ranger
+skin: Light Tan
+spec: Druid
 stats:
-  cha: 13
-  con: 11
-  dex: 17
-  int: 13
-  str: 15
-  wis: 14
-track: Exploration
-trait: I have a lesson for every situation, drawn from observing nature.
-trait1: Placid
-trait2: Regretful
-year: 2
+  cha: 10
+  con: 9
+  dex: 13
+  int: 12
+  str: 11
+  wis: 12
+track: Diplomacy
+trait: I have a crude sense of humor.
+trait1: Sentimental
+trait2: Immature
+year: 1
 ---
 # Ahtye Elhieardacil
 ---
 ### Description
-- 2nd year Human Ranger in Alderden
-- wavy blonde hair that's parted to the left, Brown eyes, and Fair skin
-- Is Placid and Regretful, and has Affection as their ideal
+- 1st year Elf Druid in Fiesn
+- curly brunette hair that's put up in a large bun, Pale Gray eyes, and Light Tan skin
+- Is Sentimental and Immature, and has Balance as their ideal
 
 ### Organizations
 ### Relationships
-[[Jandar Pleufan]]: partymate
-[[Natalia Endo]]: partymate
-[[Hudsen Aluendalee]]: partymate
-[[Ezros Laerdya]]: partymate
+[[Santyeg Kuskyn]]: partymate
+[[Malchor Tenyajn]]: partymate
 ### Stats
 ```statblock
 name: Ahtye Elhieardacil
-stats: [15, 17, 11, 13, 14, 13]
+stats: [11, 13, 9, 12, 12, 10]
 ```

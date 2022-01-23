@@ -1,57 +1,53 @@
 ---
 birthday:
-  numeric: 5/5
-  written: 5th of Iounent
-bond: I would do anything for the other members of my old troupe.
-eyes: Pale Gray
-flaw: When faced with a choice between money and my friends, I usually choose the
-  money.
+  numeric: 3/32
+  written: 32nd of Melorent
+bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, and
+  left me to die. Vengeance will be mine.
+eyes: Pale Green
+flaw: When I see something valuable, I can't think about anything but how to steal
+  it.
 guild: Jettenia
-hair: straight brunette hair that's loose around the shoulders
-ideal: Fun
+hair: curly strawberry blond hair that's loose around the shoulders
+ideal: Charisma
 name: Juppar Kershaw
 organizations: []
-partyID: 74
-race: Dwarf
+partyID: 66
+race: Human
 relationships:
-- name: Ysaac Aelrue
+- name: Milae Ditka
   type: partymate
-- name: Tilo Connak
+- name: Avaery Klaern
   type: partymate
-- name: Hagar Sakrattars
-  type: partymate
-- name: Grace Festus
-  type: partymate
-skin: Tan
-spec: Wizard
+skin: Fair
+spec: Druid
 stats:
   cha: 11
-  con: 12
-  dex: 16
+  con: 17
+  dex: 14
   int: 15
-  str: 11
-  wis: 12
+  str: 10
+  wis: 18
 track: Diplomacy
-trait: I quote (or misquote) sacred texts and proverbs in almost every situation.
-trait1: Effective
-trait2: Disconcerting
-year: 3
+trait: I have a strong sense of fair play and always try to find the most equitable
+  solution to arguments.
+trait1: Playful
+trait2: Fanciful
+year: 1
 ---
 # Juppar Kershaw
 ---
 ### Description
-- 3rd year Dwarf Wizard in Jettenia
-- straight brunette hair that's loose around the shoulders, Pale Gray eyes, and Tan skin
-- Is Effective and Disconcerting, and has Fun as their ideal
+- 1st year Human Druid in Jettenia
+- curly strawberry blond hair that's loose around the shoulders, Pale Green eyes, and Fair skin
+- Is Playful and Fanciful, and has Charisma as their ideal
 
 ### Organizations
 ### Relationships
-[[Ysaac Aelrue]]: partymate
-[[Tilo Connak]]: partymate
-[[Hagar Sakrattars]]: partymate
-[[Grace Festus]]: partymate
+[[Milae Ditka]]: partymate
+[[Avaery Klaern]]: partymate
 ### Stats
 ```statblock
 name: Juppar Kershaw
-stats: [11, 16, 12, 15, 12, 11]
+stats: [10, 14, 17, 15, 18, 11]
 ```

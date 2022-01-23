@@ -1,50 +1,50 @@
 ---
 birthday:
-  numeric: 6/8
-  written: 8th of Pelent
-bond: I will do anything to protect the temple where I served.
-eyes: Amber
-flaw: I have a "tell" that reveals when I'm lying.
-guild: Treskal
-hair: curly dirty blonde hair that's kept back by a turquoise headband
-ideal: Learning
+  numeric: 6/20
+  written: 20th of Pelent
+bond: Someone stole my precious instrument, and someday I'll get it back.
+eyes: Green
+flaw: I have a weakness for the vices of the city, especially hard drink.
+guild: Jettenia
+hair: curly red hair that's done up in a top knot
+ideal: Finesse
 name: Celaeno Amkissra
 organizations: []
-partyID: 27
-race: Half-Elf
+partyID: 80
+race: Half-Orc
 relationships:
-- name: Guliemos Nym
+- name: Kembley Ralnor
   type: partymate
-- name: Jerrick Yarbrough
+- name: Wenge Usunaar
   type: partymate
-skin: Light Tan
-spec: Ranger
+skin: Pale Gray
+spec: Artificer
 stats:
-  cha: 15
-  con: 7
-  dex: 17
-  int: 16
-  str: 12
-  wis: 16
+  cha: 10
+  con: 13
+  dex: 10
+  int: 15
+  str: 13
+  wis: 15
 track: Assault
-trait: The common folk love me for my kindness and generosity.
-trait1: Forgiving
-trait2: Moralistic
-year: 5
+trait: I get bored easily. When am I going to get on with my destiny?
+trait1: Persuasive
+trait2: Timid
+year: 8
 ---
 # Celaeno Amkissra
 ---
 ### Description
-- 5th year Half-Elf Ranger in Treskal
-- curly dirty blonde hair that's kept back by a turquoise headband, Amber eyes, and Light Tan skin
-- Is Forgiving and Moralistic, and has Learning as their ideal
+- 8th year Half-Orc Artificer in Jettenia
+- curly red hair that's done up in a top knot, Green eyes, and Pale Gray skin
+- Is Persuasive and Timid, and has Finesse as their ideal
 
 ### Organizations
 ### Relationships
-[[Guliemos Nym]]: partymate
-[[Jerrick Yarbrough]]: partymate
+[[Kembley Ralnor]]: partymate
+[[Wenge Usunaar]]: partymate
 ### Stats
 ```statblock
 name: Celaeno Amkissra
-stats: [12, 17, 7, 16, 16, 15]
+stats: [13, 10, 13, 15, 15, 10]
 ```

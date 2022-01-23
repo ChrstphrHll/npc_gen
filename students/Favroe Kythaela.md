@@ -1,51 +1,47 @@
 ---
 birthday:
-  numeric: 1/21
-  written: 21st of Avanent
-bond: I'm trying to pay off an old debt I owe to a generous benefactor.
-eyes: Gray
-flaw: I have a weakness for the new intoxicants and other pleasures of this land.
-guild: Alderden
-hair: wavy black hair that's parted to the side, slightly obscuring an eye
-ideal: Honor
+  numeric: 5/13
+  written: 13th of Iounent
+bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
+eyes: Pale Gray
+flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
+guild: Treskal
+hair: curly grey hair that's geled back
+ideal: Live and Let Live
 name: Favroe Kythaela
 organizations: []
-partyID: 16
-race: Elf
+partyID: 19
+race: Gnome
 relationships:
-- name: Zylphan Molostroi
+- name: Verssek Nese
   type: partymate
-- name: Auzerais Venali
-  type: partymate
-skin: Fair
-spec: Cleric
+skin: Pale
+spec: Ranger
 stats:
-  cha: 14
-  con: 12
-  dex: 10
-  int: 15
-  str: 15
-  wis: 17
+  cha: 10
+  con: 9
+  dex: 14
+  int: 10
+  str: 12
+  wis: 10
 track: Exploration
-trait: No one could doubt by looking at my regal bearing that I am a cut above the
-  unwashed masses.
-trait1: Intrepid
-trait2: Pedantic
-year: 1
+trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
+trait1: Tough
+trait2: Meretricious
+year: 3
 ---
 # Favroe Kythaela
 ---
 ### Description
-- 1st year Elf Cleric in Alderden
-- wavy black hair that's parted to the side, slightly obscuring an eye, Gray eyes, and Fair skin
-- Is Intrepid and Pedantic, and has Honor as their ideal
+- 3rd year Gnome Ranger in Treskal
+- curly grey hair that's geled back, Pale Gray eyes, and Pale skin
+- Is Tough and Meretricious, and has Live and Let Live as their ideal
 
 ### Organizations
 ### Relationships
-[[Zylphan Molostroi]]: partymate
-[[Auzerais Venali]]: partymate
+[[Verssek Nese]]: partymate
 ### Stats
 ```statblock
 name: Favroe Kythaela
-stats: [15, 10, 12, 15, 17, 14]
+stats: [12, 14, 9, 10, 10, 10]
 ```

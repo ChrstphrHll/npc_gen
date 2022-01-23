@@ -1,51 +1,50 @@
 ---
 birthday:
-  numeric: 1/31
-  written: 31st of Avanent
-bond: I'll never forget the crushing defeat my company suffered or the enemies who
-  dealt it.
-eyes: Blue
-flaw: I judge others harshly, and myself even more severely.
+  numeric: 5/10
+  written: 10th of Iounent
+bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
+eyes: Pale Gray
+flaw: The tyrant who rules my land will stop at nothing to see me killed.
 guild: Treskal
-hair: straight dirty blonde hair that's put up in a large bun
-ideal: Charisma
+hair: straight black hair that's put back in a long pony tail
+ideal: Conformity
 name: Bela Qwey
 organizations: []
-partyID: 88
-race: Aasimar
+partyID: 67
+race: Human
 relationships:
-- name: Alinea Hellsturn
+- name: Rossan Jonik
   type: partymate
-- name: Es'beth Yesheln
+- name: Lanalia Belt
   type: partymate
-skin: Light Tan
-spec: Fighter
+skin: Dark Brown
+spec: Druid
 stats:
-  cha: 14
-  con: 12
-  dex: 11
-  int: 13
+  cha: 15
+  con: 15
+  dex: 13
+  int: 11
   str: 15
-  wis: 14
-track: Diplomacy
-trait: I have a lesson for every situation, drawn from observing nature.
-trait1: Confidential
-trait2: Oppressed
-year: 4
+  wis: 16
+track: Assault
+trait: To me, a tavern brawl is a nice way to get to know a new city.
+trait1: Conciliatory
+trait2: Modern
+year: 3
 ---
 # Bela Qwey
 ---
 ### Description
-- 4th year Aasimar Fighter in Treskal
-- straight dirty blonde hair that's put up in a large bun, Blue eyes, and Light Tan skin
-- Is Confidential and Oppressed, and has Charisma as their ideal
+- 3rd year Human Druid in Treskal
+- straight black hair that's put back in a long pony tail, Pale Gray eyes, and Dark Brown skin
+- Is Conciliatory and Modern, and has Conformity as their ideal
 
 ### Organizations
 ### Relationships
-[[Alinea Hellsturn]]: partymate
-[[Es'beth Yesheln]]: partymate
+[[Rossan Jonik]]: partymate
+[[Lanalia Belt]]: partymate
 ### Stats
 ```statblock
 name: Bela Qwey
-stats: [15, 11, 12, 13, 14, 14]
+stats: [15, 13, 15, 11, 16, 15]
 ```

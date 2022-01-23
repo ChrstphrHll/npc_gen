@@ -1,53 +1,52 @@
 ---
 birthday:
-  numeric: 2/14
-  written: 14th of Corelent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Pale Green
-flaw: I have a weakness for the exotic beauty of the people of these lands.
-guild: Treskal
-hair: straight brunette hair that's loose around the shoulders
-ideal: Openness
+  numeric: 7/16
+  written: 16th of Korent
+bond: I fleeced the wrong person and must work to ensure that this individual never
+  crosses paths with me or those I care about.
+eyes: Gray
+flaw: I too often hear veiled insults and threats in every word addressed to me, and
+  I'm quick to anger.
+guild: Burk
+hair: wavy dirty blonde hair that's a tousled bed head
+ideal: Pessimism
 name: Shenai Inqoul
 organizations: []
-partyID: 89
-race: Firbolg
+partyID: 57
+race: Tiefling
 relationships:
-- name: Uxwy Lazziar
+- name: Edyrm Iolas
   type: partymate
-- name: Garan Mirthal
+- name: Jacus Kosunten
   type: partymate
-- name: Murunay Illfate
-  type: partymate
-skin: Pale Gray
+skin: Olive
 spec: Monk
 stats:
-  cha: 11
-  con: 17
-  dex: 16
+  cha: 12
+  con: 8
+  dex: 14
   int: 14
-  str: 11
-  wis: 16
+  str: 13
+  wis: 12
 track: Assault
-trait: I use polysyllabic words that convey the impression of great erudition.
-trait1: Dry
-trait2: Self-conscious
-year: 1
+trait: I have a joke for every occasion, especially occasions where humor is inappropriate.
+trait1: Intrepid
+trait2: Immature
+year: 2
 ---
 # Shenai Inqoul
 ---
 ### Description
-- 1st year Firbolg Monk in Treskal
-- straight brunette hair that's loose around the shoulders, Pale Green eyes, and Pale Gray skin
-- Is Dry and Self-conscious, and has Openness as their ideal
+- 2nd year Tiefling Monk in Burk
+- wavy dirty blonde hair that's a tousled bed head, Gray eyes, and Olive skin
+- Is Intrepid and Immature, and has Pessimism as their ideal
 
 ### Organizations
 ### Relationships
-[[Uxwy Lazziar]]: partymate
-[[Garan Mirthal]]: partymate
-[[Murunay Illfate]]: partymate
+[[Edyrm Iolas]]: partymate
+[[Jacus Kosunten]]: partymate
 ### Stats
 ```statblock
 name: Shenai Inqoul
-stats: [11, 16, 17, 14, 16, 11]
+stats: [13, 14, 8, 14, 12, 12]
 ```

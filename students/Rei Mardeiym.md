@@ -1,49 +1,52 @@
 ---
 birthday:
-  numeric: 8/26
-  written: 26th of Ravenent
-bond: I come from a noble family, and one day I'll reclaim my lands and title from
-  those who stole them from me.
-eyes: Pale Green
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Fiesn
-hair: wavy platinum hair that's kept back by a pink headband
-ideal: Courage
+  numeric: 5/24
+  written: 24th of Iounent
+bond: I entered seclusion to hide from the ones who might still be hunting me. I must
+  someday confront them.
+eyes: Gray
+flaw: Most people scream and run when they see a demon. I stop and take notes on its
+  anatomy.
+guild: Alderden
+hair: straight pink hair that's put back in a short pony tail
+ideal: Grace
 name: Rei Mardeiym
 organizations: []
-partyID: 61
-race: Half-Orc
+partyID: 6
+race: Firbolg
 relationships:
-- name: Olbern Uldreiyn
+- name: Cam Lazziar
   type: partymate
-skin: Pale Gray
-spec: Barbarian
+- name: Jofan Elignoir
+  type: partymate
+skin: Pale Green
+spec: Sorcerer
 stats:
-  cha: 10
-  con: 11
-  dex: 12
-  int: 9
-  str: 14
-  wis: 9
+  cha: 14
+  con: 13
+  dex: 13
+  int: 13
+  str: 11
+  wis: 11
 track: Protection
-trait: I misuse long words in an attempt to sound smarter.
-trait1: Thrilling
-trait2: Dishonest
-year: 2
+trait: If someone is in trouble, I'm always ready to lend help.
+trait1: Patient
+trait2: Narrow-minded
+year: 7
 ---
 # Rei Mardeiym
 ---
 ### Description
-- 2nd year Half-Orc Barbarian in Fiesn
-- wavy platinum hair that's kept back by a pink headband, Pale Green eyes, and Pale Gray skin
-- Is Thrilling and Dishonest, and has Courage as their ideal
+- 7th year Firbolg Sorcerer in Alderden
+- straight pink hair that's put back in a short pony tail, Gray eyes, and Pale Green skin
+- Is Patient and Narrow-minded, and has Grace as their ideal
 
 ### Organizations
 ### Relationships
-[[Olbern Uldreiyn]]: partymate
+[[Cam Lazziar]]: partymate
+[[Jofan Elignoir]]: partymate
 ### Stats
 ```statblock
 name: Rei Mardeiym
-stats: [14, 12, 11, 9, 9, 10]
+stats: [11, 13, 13, 13, 11, 14]
 ```

@@ -1,50 +1,53 @@
 ---
 birthday:
-  numeric: 8/10
-  written: 10th of Ravenent
-bond: An injury to the unspoiled wilderness of my home is an injury to me.
-eyes: Purple
-flaw: I'm a sucker for a pretty face.
-guild: Jettenia
-hair: straight black hair that's loose around the shoulders
-ideal: Goodness
+  numeric: 3/17
+  written: 17th of Melorent
+bond: Should my discovery come to light, it could bring ruin to the world.
+eyes: Pale Green
+flaw: I follow orders, even if I think they're wrong.
+guild: Fiesn
+hair: frizzy dirty blonde hair that's put back in a long pony tail
+ideal: Security
 name: Brianna Kosunten
 organizations: []
-partyID: 17
-race: Triton
+partyID: 60
+race: Dwarf
 relationships:
-- name: Secarr Ashbluff
+- name: Selina Bellas
   type: partymate
-- name: Violetta Coldsprinter
+- name: Mateos Elanil
   type: partymate
-skin: Spring Green
-spec: Druid
+- name: Felgie Eldar
+  type: partymate
+skin: Dark Brown
+spec: Fighter
 stats:
-  cha: 12
-  con: 11
-  dex: 9
-  int: 6
-  str: 12
-  wis: 17
-track: Diplomacy
-trait: Nothing can shake my optimistic attitude.
-trait1: Graceful
-trait2: Disconcerting
+  cha: 10
+  con: 9
+  dex: 17
+  int: 13
+  str: 13
+  wis: 13
+track: Assault
+trait: I connect everything that happens to me to a grand, cosmic plan.
+trait1: Secure
+trait2: Sedentary
 year: 2
 ---
 # Brianna Kosunten
 ---
 ### Description
-- 2nd year Triton Druid in Jettenia
-- straight black hair that's loose around the shoulders, Purple eyes, and Spring Green skin
-- Is Graceful and Disconcerting, and has Goodness as their ideal
+- 2nd year Dwarf Fighter in Fiesn
+- frizzy dirty blonde hair that's put back in a long pony tail, Pale Green eyes, and Dark Brown skin
+- Is Secure and Sedentary, and has Security as their ideal
 
 ### Organizations
 ### Relationships
-[[Secarr Ashbluff]]: partymate
-[[Violetta Coldsprinter]]: partymate
+[[Selina Bellas]]: partymate
+[[Mateos Elanil]]: partymate
+[[Felgie Eldar]]: partymate
 ### Stats
 ```statblock
 name: Brianna Kosunten
-stats: [12, 9, 11, 6, 17, 12]
+stats: [13, 17, 9, 13, 13, 10]
 ```

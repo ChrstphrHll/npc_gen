@@ -1,53 +1,53 @@
 ---
 birthday:
-  numeric: 4/1
-  written: 1st of Moradent
-bond: I will become the greatest thief that ever lived.
-eyes: Pale Gray
-flaw: I have a "tell" that reveals when I'm lying.
-guild: Jettenia
-hair: curly dirty blonde hair that's put back in a short pony tail
-ideal: Innovation
+  numeric: 6/26
+  written: 26th of Pelent
+bond: The ship is most important- crewmates and captains come and go.
+eyes: Pale Green
+flaw: I have a weakness for the vices of the city, especially hard drink.
+guild: Burk
+hair: straight brunette hair that's pulled to the side and buzzed on the right
+ideal: Openness
 name: Brinna Muerlara
 organizations: []
-partyID: 46
-race: Dwarf
+partyID: 95
+race: Halfling
 relationships:
-- name: Maarika Oncith
+- name: Pynelope Valhein
   type: partymate
-- name: Alys Ylyndar
+- name: Rosherren Haladavar
   type: partymate
-- name: Jovos Seldanna
+- name: Tisette Bender
   type: partymate
-skin: Light
-spec: Paladin
+skin: Brown
+spec: Barbarian
 stats:
-  cha: 14
-  con: 13
-  dex: 11
-  int: 15
+  cha: 13
+  con: 12
+  dex: 9
+  int: 12
   str: 18
-  wis: 14
-track: Assault
-trait: I can stare down a hell hound without flinching.
-trait1: Caring
-trait2: Impassive
-year: 2
+  wis: 9
+track: Exploration
+trait: I lie about almost everything, even when there's no good reason to.
+trait1: Athletic
+trait2: Reserved
+year: 1
 ---
 # Brinna Muerlara
 ---
 ### Description
-- 2nd year Dwarf Paladin in Jettenia
-- curly dirty blonde hair that's put back in a short pony tail, Pale Gray eyes, and Light skin
-- Is Caring and Impassive, and has Innovation as their ideal
+- 1st year Halfling Barbarian in Burk
+- straight brunette hair that's pulled to the side and buzzed on the right, Pale Green eyes, and Brown skin
+- Is Athletic and Reserved, and has Openness as their ideal
 
 ### Organizations
 ### Relationships
-[[Maarika Oncith]]: partymate
-[[Alys Ylyndar]]: partymate
-[[Jovos Seldanna]]: partymate
+[[Pynelope Valhein]]: partymate
+[[Rosherren Haladavar]]: partymate
+[[Tisette Bender]]: partymate
 ### Stats
 ```statblock
 name: Brinna Muerlara
-stats: [18, 11, 13, 15, 14, 14]
+stats: [18, 9, 12, 12, 9, 13]
 ```

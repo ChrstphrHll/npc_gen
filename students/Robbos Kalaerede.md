@@ -1,50 +1,54 @@
 ---
 birthday:
-  numeric: 8/15
-  written: 15th of Ravenent
-bond: My loyalty to my sovereign is unwavering.
-eyes: Pale Brown
-flaw: I am dogmatic in my thoughts and philosophy.
+  numeric: 6/17
+  written: 17th of Pelent
+bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
+  eludes me.
+eyes: Brown
+flaw: I like keeping secrets and won't share them with anyone.
 guild: Treskal
-hair: curly brunette hair that's a tousled bed head
-ideal: Enjoyment
+hair: wavy lighter blonde hair that's parted to the left
+ideal: Spontaneity
 name: Robbos Kalaerede
 organizations: []
-partyID: 75
-race: Dwarf
+partyID: 7
+race: Half-Elf
 relationships:
-- name: Branus Shadegrove
+- name: Tadita Edraele
   type: partymate
-- name: Romen Uldreiyn
+- name: Estyn Rhangyl
   type: partymate
-skin: Light Tan
-spec: Ranger
+- name: Melcyn Taeral
+  type: partymate
+skin: Tan
+spec: Artificer
 stats:
-  cha: 9
-  con: 7
-  dex: 14
-  int: 10
-  str: 9
-  wis: 13
-track: Assault
-trait: Nothing can shake my optimistic attitude.
-trait1: Carefree
-trait2: Unfriendly
-year: 3
+  cha: 10
+  con: 13
+  dex: 11
+  int: 14
+  str: 11
+  wis: 6
+track: Protection
+trait: I quote (or misquote) sacred texts and proverbs in almost every situation.
+trait1: Graceful
+trait2: Driving
+year: 4
 ---
 # Robbos Kalaerede
 ---
 ### Description
-- 3rd year Dwarf Ranger in Treskal
-- curly brunette hair that's a tousled bed head, Pale Brown eyes, and Light Tan skin
-- Is Carefree and Unfriendly, and has Enjoyment as their ideal
+- 4th year Half-Elf Artificer in Treskal
+- wavy lighter blonde hair that's parted to the left, Brown eyes, and Tan skin
+- Is Graceful and Driving, and has Spontaneity as their ideal
 
 ### Organizations
 ### Relationships
-[[Branus Shadegrove]]: partymate
-[[Romen Uldreiyn]]: partymate
+[[Tadita Edraele]]: partymate
+[[Estyn Rhangyl]]: partymate
+[[Melcyn Taeral]]: partymate
 ### Stats
 ```statblock
 name: Robbos Kalaerede
-stats: [9, 14, 7, 10, 13, 9]
+stats: [11, 11, 13, 14, 6, 10]
 ```

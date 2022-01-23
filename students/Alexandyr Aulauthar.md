@@ -1,53 +1,50 @@
 ---
 birthday:
-  numeric: 2/16
-  written: 16th of Corelent
-bond: I suffer awful visions of a coming disaster and will do anything to prevent
-  it.
-eyes: Yellow
-flaw: When faced with a choice between money and my friends, I usually choose the
-  money.
-guild: Alderden
-hair: straight strawberry blond hair that's put back in a short pony tail
-ideal: Conformity
+  numeric: 3/20
+  written: 20th of Melorent
+bond: I owe my survival to another urchin who taught me tolive on the streets.
+eyes: Gray
+flaw: I hide a truly scandalous secret that could ruin my family forever.
+guild: Fiesn
+hair: wavy red hair that's geled back
+ideal: Home
 name: Alexandyr Aulauthar
 organizations: []
-partyID: 2
-race: Triton
+partyID: 53
+race: Firbolg
 relationships:
-- name: Liris Bhyrindaar
+- name: Coriss Biafyndar
   type: partymate
-- name: Gormoth Shyrrik
+- name: Adamos Taehr
   type: partymate
-skin: Emerald Green
+skin: Pale Blue
 spec: Wizard
 stats:
   cha: 14
-  con: 15
-  dex: 14
+  con: 14
+  dex: 8
   int: 15
-  str: 13
-  wis: 9
-track: Protection
-trait: I . . . speak . . . slowly . . . when talking . . . to idiots, . . . which
-  . . . almost . . . everyone . . . is . . . compared . . . to me.
-trait1: Confidential
-trait2: Crazy
-year: 3
+  str: 10
+  wis: 12
+track: Diplomacy
+trait: I ask a lot of questions.
+trait1: Communicative
+trait2: Ungrateful
+year: 5
 ---
 # Alexandyr Aulauthar
 ---
 ### Description
-- 3rd year Triton Wizard in Alderden
-- straight strawberry blond hair that's put back in a short pony tail, Yellow eyes, and Emerald Green skin
-- Is Confidential and Crazy, and has Conformity as their ideal
+- 5th year Firbolg Wizard in Fiesn
+- wavy red hair that's geled back, Gray eyes, and Pale Blue skin
+- Is Communicative and Ungrateful, and has Home as their ideal
 
 ### Organizations
 ### Relationships
-[[Liris Bhyrindaar]]: partymate
-[[Gormoth Shyrrik]]: partymate
+[[Coriss Biafyndar]]: partymate
+[[Adamos Taehr]]: partymate
 ### Stats
 ```statblock
 name: Alexandyr Aulauthar
-stats: [13, 14, 15, 15, 9, 14]
+stats: [10, 8, 14, 15, 12, 14]
 ```

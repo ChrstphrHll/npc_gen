@@ -1,54 +1,49 @@
 ---
 birthday:
-  numeric: 2/3
-  written: 3rd of Corelent
-bond: I'm loyal to my captain first, everything else second.
-eyes: Green
-flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
-  to quell.
-guild: Burk
-hair: wavy platinum hair that's parted to the left
-ideal: Goodness
+  numeric: 3/32
+  written: 32nd of Melorent
+bond: I have a family, but I have no idea where they are. One day, I hope to see them
+  again.
+eyes: Orange
+flaw: I'll do anything to win fame and renown.
+guild: Elkenval
+hair: wavy white hair that's parted to the right
+ideal: Humanity
 name: Rivik Connak
 organizations: []
-partyID: 45
-race: Half-Orc
+partyID: 30
+race: Triton
 relationships:
-- name: Jendrellian Webb
+- name: Kessa Keller
   type: partymate
-- name: Aelisabeth Soliania
-  type: partymate
-- name: Eva Reluvethel
-  type: partymate
-skin: Green Blue
-spec: Artificer
+skin: Olive
+spec: Monk
 stats:
-  cha: 10
-  con: 10
-  dex: 11
-  int: 16
-  str: 11
+  cha: 9
+  con: 8
+  dex: 15
+  int: 10
+  str: 15
   wis: 13
 track: Assault
-trait: I know a story relevant to almost every situation.
-trait1: Conservative
-trait2: Unrealistic
-year: 4
+trait: I don't part with my money easily and will haggle tirelessly to get the best
+  deal possible.
+trait1: Hearty
+trait2: Neutral
+year: 3
 ---
 # Rivik Connak
 ---
 ### Description
-- 4th year Half-Orc Artificer in Burk
-- wavy platinum hair that's parted to the left, Green eyes, and Green Blue skin
-- Is Conservative and Unrealistic, and has Goodness as their ideal
+- 3rd year Triton Monk in Elkenval
+- wavy white hair that's parted to the right, Orange eyes, and Olive skin
+- Is Hearty and Neutral, and has Humanity as their ideal
 
 ### Organizations
 ### Relationships
-[[Jendrellian Webb]]: partymate
-[[Aelisabeth Soliania]]: partymate
-[[Eva Reluvethel]]: partymate
+[[Kessa Keller]]: partymate
 ### Stats
 ```statblock
 name: Rivik Connak
-stats: [11, 11, 10, 16, 13, 10]
+stats: [15, 15, 8, 10, 13, 9]
 ```

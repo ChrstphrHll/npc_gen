@@ -1,53 +1,50 @@
 ---
 birthday:
-  numeric: 3/2
-  written: 2nd of Melorent
-bond: I work to preserve a library, university, scriptorium, or monastery.
-eyes: Pale Blue
-flaw: I put too much trust in those who wield power within my temple's hierarchy.
-guild: Fiesn
-hair: straight platinum hair that's braided with pink ribbon (long)
-ideal: Respect
+  numeric: 1/8
+  written: 8th of Avanent
+bond: It is my duty to protect my students.
+eyes: Deep Blue
+flaw: In fact, the world does revolve around me.
+guild: Burk
+hair: long spines
+ideal: Caring
 name: Jasjen Nlossae
 organizations: []
-partyID: 18
-race: Aasimar
+partyID: 65
+race: Dragonborn
 relationships:
-- name: Angel Nushala
+- name: Eligio Nevarth
   type: partymate
-- name: Ragnar Illitran
+- name: Q Yulmanda
   type: partymate
-- name: Everen Malfoy
-  type: partymate
-skin: Dark Tan
-spec: Artificer
+skin: blue
+spec: Bard
 stats:
-  cha: 11
-  con: 11
-  dex: 11
-  int: 15
-  str: 14
-  wis: 12
-track: Protection
-trait: My favor, once lost, is lost forever.
-trait1: Physical
-trait2: 'False'
+  cha: 16
+  con: 12
+  dex: 10
+  int: 14
+  str: 8
+  wis: 10
+track: Diplomacy
+trait: I feel far more comfortable around animals than people.
+trait1: Solitary
+trait2: Muddle-headed
 year: 2
 ---
 # Jasjen Nlossae
 ---
 ### Description
-- 2nd year Aasimar Artificer in Fiesn
-- straight platinum hair that's braided with pink ribbon (long), Pale Blue eyes, and Dark Tan skin
-- Is Physical and False, and has Respect as their ideal
+- 2nd year Dragonborn Bard in Burk
+- long spines, Deep Blue eyes, and blue skin
+- Is Solitary and Muddle-headed, and has Caring as their ideal
 
 ### Organizations
 ### Relationships
-[[Angel Nushala]]: partymate
-[[Ragnar Illitran]]: partymate
-[[Everen Malfoy]]: partymate
+[[Eligio Nevarth]]: partymate
+[[Q Yulmanda]]: partymate
 ### Stats
 ```statblock
 name: Jasjen Nlossae
-stats: [14, 11, 11, 15, 12, 11]
+stats: [8, 10, 12, 14, 10, 16]
 ```

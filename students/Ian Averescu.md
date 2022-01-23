@@ -1,57 +1,47 @@
 ---
 birthday:
-  numeric: 6/12
-  written: 12th of Pelent
-bond: My freedom is my most precious possession. I'll never let anyone take it from
-  me again.
-eyes: Pale Green
-flaw: I like keeping secrets and won't share them with anyone.
-guild: Fiesn
-hair: straight white hair that's put up in a large bun
-ideal: Friendship
+  numeric: 5/7
+  written: 7th of Iounent
+bond: I would still lay down my life for the people I served with.
+eyes: Blue
+flaw: I'm quick to assume that someone is trying to cheat me.
+guild: Alderden
+hair: short spines
+ideal: Loyalty
 name: Ian Averescu
 organizations: []
-partyID: 24
-race: Half-Elf
+partyID: 52
+race: Dragonborn
 relationships:
-- name: Jothen Elway
+- name: Hartwen Galaeron
   type: partymate
-- name: Jareth Tanseril
-  type: partymate
-- name: Gianesia Onvyr
-  type: partymate
-- name: Delila Felaern
-  type: partymate
-skin: Light
-spec: Bard
+skin: black
+spec: Sorcerer
 stats:
-  cha: 14
-  con: 14
-  dex: 14
-  int: 13
+  cha: 13
+  con: 10
+  dex: 10
+  int: 14
   str: 11
-  wis: 12
+  wis: 11
 track: Assault
-trait: I honor my deities through practices that are foreign to this land.
-trait1: Prudent
-trait2: One-sided
-year: 3
+trait: I like to squeeze into small places where no one else can get to me.
+trait1: Imaginative
+trait2: Extreme
+year: 2
 ---
 # Ian Averescu
 ---
 ### Description
-- 3rd year Half-Elf Bard in Fiesn
-- straight white hair that's put up in a large bun, Pale Green eyes, and Light skin
-- Is Prudent and One-sided, and has Friendship as their ideal
+- 2nd year Dragonborn Sorcerer in Alderden
+- short spines, Blue eyes, and black skin
+- Is Imaginative and Extreme, and has Loyalty as their ideal
 
 ### Organizations
 ### Relationships
-[[Jothen Elway]]: partymate
-[[Jareth Tanseril]]: partymate
-[[Gianesia Onvyr]]: partymate
-[[Delila Felaern]]: partymate
+[[Hartwen Galaeron]]: partymate
 ### Stats
 ```statblock
 name: Ian Averescu
-stats: [11, 14, 14, 13, 12, 14]
+stats: [11, 10, 10, 14, 11, 13]
 ```

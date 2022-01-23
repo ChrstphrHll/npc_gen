@@ -1,51 +1,50 @@
 ---
 birthday:
-  numeric: 5/22
-  written: 22nd of Iounent
-bond: My tools are symbols of my past life, and I carry them so that I will never
-  forget my roots.
-eyes: Pale Brown
-flaw: I put too much trust in those who wield power within my temple's hierarchy.
-guild: Alderden
-hair: straight strawberry blond hair that's braided with turquoise ribbon (long)
-ideal: Fun
+  numeric: 6/13
+  written: 13th of Pelent
+bond: I have an ancient text that holds terrible secrets that must not fall into the
+  wrong hands.
+eyes: Hazel
+flaw: Secretly, I believe that things would be better if I were a tyrant lording over
+  the land.
+guild: Treskal
+hair: wavy dirty blonde hair that's hanging down to their back
+ideal: Logic
 name: Verssek Nese
 organizations: []
-partyID: 87
+partyID: 19
 race: Half-Elf
 relationships:
-- name: Giacomo Edraele
+- name: Favroe Kythaela
   type: partymate
-- name: Myddin Hastos
-  type: partymate
-skin: Tan
-spec: Cleric
+skin: Light
+spec: Artificer
 stats:
-  cha: 8
-  con: 10
-  dex: 12
-  int: 5
-  str: 13
-  wis: 15
-track: Exploration
-trait: I was, in fact, raised by wolves.
-trait1: Ordinary
-trait2: Scruffy
-year: 5
+  cha: 10
+  con: 13
+  dex: 9
+  int: 14
+  str: 15
+  wis: 11
+track: Protection
+trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
+  living grates on me.
+trait1: Gentle
+trait2: Impassive
+year: 3
 ---
 # Verssek Nese
 ---
 ### Description
-- 5th year Half-Elf Cleric in Alderden
-- straight strawberry blond hair that's braided with turquoise ribbon (long), Pale Brown eyes, and Tan skin
-- Is Ordinary and Scruffy, and has Fun as their ideal
+- 3rd year Half-Elf Artificer in Treskal
+- wavy dirty blonde hair that's hanging down to their back, Hazel eyes, and Light skin
+- Is Gentle and Impassive, and has Logic as their ideal
 
 ### Organizations
 ### Relationships
-[[Giacomo Edraele]]: partymate
-[[Myddin Hastos]]: partymate
+[[Favroe Kythaela]]: partymate
 ### Stats
 ```statblock
 name: Verssek Nese
-stats: [13, 12, 10, 5, 15, 8]
+stats: [15, 9, 13, 14, 11, 10]
 ```

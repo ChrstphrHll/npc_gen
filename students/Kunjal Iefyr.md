@@ -1,52 +1,53 @@
 ---
 birthday:
-  numeric: 1/25
-  written: 25th of Avanent
-bond: My family, clan, or tribe is the most important thing in my life, even when
-  they are far from me.
-eyes: Pale Blue
-flaw: The tyrant who rules my land will stop at nothing to see me killed.
+  numeric: 6/6
+  written: 6th of Pelent
+bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
+  somewhere.
+eyes: Brown
+flaw: Once someone questions my courage, I never back down no matter how dangerous
+  the situation.
 guild: Fiesn
-hair: wavy strawberry blond hair that's parted to the left
-ideal: Balance
+hair: curly lighter blonde hair that's done up in a top knot
+ideal: Faith
 name: Kunjal Iefyr
 organizations: []
-partyID: 31
-race: Human
+partyID: 13
+race: Halfling
 relationships:
-- name: Kayla Kaminsky
+- name: Guliemos Nym
   type: partymate
-- name: Audree Dixon
+- name: Turi Chandrelle
   type: partymate
-skin: Fair
-spec: Sorcerer
+skin: Light Tan
+spec: Cleric
 stats:
-  cha: 16
-  con: 16
+  cha: 15
+  con: 14
   dex: 12
-  int: 6
-  str: 16
-  wis: 10
-track: Assault
-trait: I have a strong sense of fair play and always try to find the most equitable
-  solution to arguments.
-trait1: Immaculate
-trait2: Uncreative
-year: 8
+  int: 12
+  str: 6
+  wis: 16
+track: Protection
+trait: I've read every book in the world's greatest libraries - or I like to boast
+  that I have.
+trait1: Carefree
+trait2: Mannerless
+year: 4
 ---
 # Kunjal Iefyr
 ---
 ### Description
-- 8th year Human Sorcerer in Fiesn
-- wavy strawberry blond hair that's parted to the left, Pale Blue eyes, and Fair skin
-- Is Immaculate and Uncreative, and has Balance as their ideal
+- 4th year Halfling Cleric in Fiesn
+- curly lighter blonde hair that's done up in a top knot, Brown eyes, and Light Tan skin
+- Is Carefree and Mannerless, and has Faith as their ideal
 
 ### Organizations
 ### Relationships
-[[Kayla Kaminsky]]: partymate
-[[Audree Dixon]]: partymate
+[[Guliemos Nym]]: partymate
+[[Turi Chandrelle]]: partymate
 ### Stats
 ```statblock
 name: Kunjal Iefyr
-stats: [16, 12, 16, 6, 10, 16]
+stats: [6, 12, 14, 12, 16, 15]
 ```

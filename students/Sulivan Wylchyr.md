@@ -1,56 +1,48 @@
 ---
 birthday:
-  numeric: 5/18
-  written: 18th of Iounent
-bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, and
-  left me to die. Vengeance will be mine.
-eyes: Pale Blue
-flaw: Once I pick a goal, I become obsessed with it to the detriment of everything
-  else in my life.
-guild: Alderden
-hair: wavy dirty blonde hair that's parted to the side, slightly obscuring an eye
-ideal: Dishonesty
+  numeric: 7/12
+  written: 12th of Korent
+bond: The ship is most important- crewmates and captains come and go.
+eyes: Red
+flaw: I too often hear veiled insults and threats in every word addressed to me, and
+  I'm quick to anger.
+guild: Elkenval
+hair: short spines
+ideal: Forgiveness
 name: Sulivan Wylchyr
 organizations: []
-partyID: 7
-race: Gnome
+partyID: 50
+race: Dragonborn
 relationships:
-- name: Adros Tolthe
+- name: Gorlas Vhoadan
   type: partymate
-- name: Surge Fayd
-  type: partymate
-- name: Ljuk Vulkor
-  type: partymate
-skin: Brown
-spec: Barbarian
+skin: blue
+spec: Monk
 stats:
   cha: 12
-  con: 14
-  dex: 11
-  int: 6
-  str: 14
-  wis: 9
+  con: 6
+  dex: 15
+  int: 10
+  str: 8
+  wis: 11
 track: Exploration
-trait: I don't part with my money easily and will haggle tirelessly to get the best
-  deal possible.
-trait1: Discerning
-trait2: Expedient
-year: 1
+trait: I hide scraps of food and trinkets away in my pockets.
+trait1: Joyful
+trait2: Pure
+year: 2
 ---
 # Sulivan Wylchyr
 ---
 ### Description
-- 1st year Gnome Barbarian in Alderden
-- wavy dirty blonde hair that's parted to the side, slightly obscuring an eye, Pale Blue eyes, and Brown skin
-- Is Discerning and Expedient, and has Dishonesty as their ideal
+- 2nd year Dragonborn Monk in Elkenval
+- short spines, Red eyes, and blue skin
+- Is Joyful and Pure, and has Forgiveness as their ideal
 
 ### Organizations
 ### Relationships
-[[Adros Tolthe]]: partymate
-[[Surge Fayd]]: partymate
-[[Ljuk Vulkor]]: partymate
+[[Gorlas Vhoadan]]: partymate
 ### Stats
 ```statblock
 name: Sulivan Wylchyr
-stats: [14, 11, 14, 6, 9, 12]
+stats: [8, 15, 6, 10, 11, 12]
 ```

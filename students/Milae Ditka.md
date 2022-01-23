@@ -1,50 +1,51 @@
 ---
 birthday:
-  numeric: 4/26
-  written: 26th of Moradent
-bond: An injury to the unspoiled wilderness of my home is an injury to me.
-eyes: Pale Blue
-flaw: I am easily distracted by the promise of information.
+  numeric: 2/19
+  written: 19th of Corelent
+bond: I would still lay down my life for the people I served with.
+eyes: Emerald Green
+flaw: Most people scream and run when they see a demon. I stop and take notes on its
+  anatomy.
 guild: Jettenia
-hair: straight blonde hair that's a tousled bed head
-ideal: Spontaneity
+hair: 5 curled horns
+ideal: Self-Respect
 name: Milae Ditka
 organizations: []
-partyID: 4
-race: Halfling
+partyID: 66
+race: Dragonborn
 relationships:
-- name: Gavyn Sadalymn
+- name: Juppar Kershaw
   type: partymate
-- name: Brynn Opalul
+- name: Avaery Klaern
   type: partymate
-skin: Pale
-spec: Artificer
+skin: blue
+spec: Sorcerer
 stats:
-  cha: 12
-  con: 13
-  dex: 15
-  int: 15
-  str: 14
-  wis: 13
+  cha: 9
+  con: 5
+  dex: 8
+  int: 6
+  str: 7
+  wis: 9
 track: Protection
-trait: The best way to get me to do something is to tell me I can't do it.
-trait1: Private
-trait2: Messy
+trait: I have a joke for every occasion, especially occasions where humor is inappropriate.
+trait1: Undemanding
+trait2: Cruel
 year: 1
 ---
 # Milae Ditka
 ---
 ### Description
-- 1st year Halfling Artificer in Jettenia
-- straight blonde hair that's a tousled bed head, Pale Blue eyes, and Pale skin
-- Is Private and Messy, and has Spontaneity as their ideal
+- 1st year Dragonborn Sorcerer in Jettenia
+- 5 curled horns, Emerald Green eyes, and blue skin
+- Is Undemanding and Cruel, and has Self-Respect as their ideal
 
 ### Organizations
 ### Relationships
-[[Gavyn Sadalymn]]: partymate
-[[Brynn Opalul]]: partymate
+[[Juppar Kershaw]]: partymate
+[[Avaery Klaern]]: partymate
 ### Stats
 ```statblock
 name: Milae Ditka
-stats: [14, 15, 13, 15, 13, 12]
+stats: [7, 8, 5, 6, 9, 9]
 ```

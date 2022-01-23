@@ -1,51 +1,51 @@
 ---
 birthday:
-  numeric: 8/8
-  written: 8th of Ravenent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Green
-flaw: Violence is my answer to almost any challenge.
-guild: Burk
-hair: wavy grey hair that's parted to the right
-ideal: Involvement
+  numeric: 1/5
+  written: 5th of Avanent
+bond: I'll always remember my first ship.
+eyes: Spring Green
+flaw: Most people scream and run when they see a demon. I stop and take notes on its
+  anatomy.
+guild: Fiesn
+hair: curly red hair that's braided with turquoise ribbon (long)
+ideal: Humanity
 name: Malchor Tenyajn
 organizations: []
-partyID: 63
-race: Tiefling
+partyID: 81
+race: Genasi
 relationships:
-- name: Jacoby Maeraddyth
+- name: Santyeg Kuskyn
   type: partymate
-- name: Pike Tethir
+- name: Ahtye Elhieardacil
   type: partymate
-skin: Aqua
-spec: Artificer
+skin: water
+spec: Rouge
 stats:
-  cha: 13
-  con: 10
-  dex: 12
-  int: 13
-  str: 13
-  wis: 14
-track: Assault
-trait: I've been isolated for so long that I rarely speak, preferring gestures and
-  the occasional grunt.
-trait1: Amiable
-trait2: Fatalistic
+  cha: 11
+  con: 11
+  dex: 15
+  int: 10
+  str: 5
+  wis: 7
+track: Exploration
+trait: I express affection or contempt in ways that are unfamiliar to others.
+trait1: Affable
+trait2: Regimental
 year: 1
 ---
 # Malchor Tenyajn
 ---
 ### Description
-- 1st year Tiefling Artificer in Burk
-- wavy grey hair that's parted to the right, Green eyes, and Aqua skin
-- Is Amiable and Fatalistic, and has Involvement as their ideal
+- 1st year Genasi Rouge in Fiesn
+- curly red hair that's braided with turquoise ribbon (long), Spring Green eyes, and water skin
+- Is Affable and Regimental, and has Humanity as their ideal
 
 ### Organizations
 ### Relationships
-[[Jacoby Maeraddyth]]: partymate
-[[Pike Tethir]]: partymate
+[[Santyeg Kuskyn]]: partymate
+[[Ahtye Elhieardacil]]: partymate
 ### Stats
 ```statblock
 name: Malchor Tenyajn
-stats: [13, 12, 10, 13, 14, 13]
+stats: [5, 15, 11, 10, 7, 11]
 ```

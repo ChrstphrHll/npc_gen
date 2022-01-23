@@ -1,49 +1,56 @@
 ---
 birthday:
-  numeric: 5/29
-  written: 29th of Iounent
-bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
-  somewhere.
-eyes: Orange
-flaw: Despite my best efforts, I am unreliable to my friends.
-guild: Elkenval
-hair: many straight horns
-ideal: Affection
+  numeric: 3/1
+  written: 1st of Melorent
+bond: I will bring terrible wrath down on the evildoers who destroyed my homeland.
+eyes: Hazel
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+guild: Treskal
+hair: wavy lighter blonde hair that's braided with violet ribbon (med)
+ideal: Flexibility
 name: Tadita Edraele
 organizations: []
-partyID: 47
-race: Dragonborn
+partyID: 7
+race: Gnome
 relationships:
-- name: Halia Dominguez
+- name: Estyn Rhangyl
   type: partymate
-skin: brass
+- name: Melcyn Taeral
+  type: partymate
+- name: Robbos Kalaerede
+  type: partymate
+skin: Light
 spec: Paladin
 stats:
-  cha: 15
-  con: 13
-  dex: 15
-  int: 7
-  str: 17
-  wis: 6
-track: Diplomacy
-trait: I am tolerant (or intolerant) of other faiths and respect (or condemn) the
-  worship of other gods.
-trait1: Captivating
-trait2: Impractical
+  cha: 12
+  con: 10
+  dex: 7
+  int: 9
+  str: 14
+  wis: 14
+track: Assault
+trait: I have different assumptions from those around me concerning personal space,
+  blithely invading others' space in innocence, or reacting to ignorant invasion of
+  my own.
+trait1: Thoughtful
+trait2: Invisible
 year: 4
 ---
 # Tadita Edraele
 ---
 ### Description
-- 4th year Dragonborn Paladin in Elkenval
-- many straight horns, Orange eyes, and brass skin
-- Is Captivating and Impractical, and has Affection as their ideal
+- 4th year Gnome Paladin in Treskal
+- wavy lighter blonde hair that's braided with violet ribbon (med), Hazel eyes, and Light skin
+- Is Thoughtful and Invisible, and has Flexibility as their ideal
 
 ### Organizations
 ### Relationships
-[[Halia Dominguez]]: partymate
+[[Estyn Rhangyl]]: partymate
+[[Melcyn Taeral]]: partymate
+[[Robbos Kalaerede]]: partymate
 ### Stats
 ```statblock
 name: Tadita Edraele
-stats: [17, 15, 13, 7, 6, 15]
+stats: [14, 7, 10, 9, 14, 12]
 ```

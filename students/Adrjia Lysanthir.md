@@ -1,51 +1,58 @@
 ---
 birthday:
-  numeric: 5/14
-  written: 14th of Iounent
-bond: Those who fight beside me are those worth dying for.
-eyes: Blue
-flaw: I secretly believe that everyone is beneath me.
-guild: Fiesn
-hair: wavy grey hair that's parted to the right
-ideal: Loyalty
+  numeric: 4/15
+  written: 15th of Moradent
+bond: An injury to the unspoiled wilderness of my home is an injury to me.
+eyes: Gray
+flaw: A scandal prevents me from ever going home again. That kind of trouble seems
+  to follow me around.
+guild: Treskal
+hair: straight grey hair that's kept back by a pink headband
+ideal: Compassion
 name: Adrjia Lysanthir
 organizations: []
-partyID: 50
-race: Half-Orc
+partyID: 69
+race: Triton
 relationships:
-- name: Caeleb Embrae
+- name: Kova Tamara
   type: partymate
-- name: Estyn Rhangyl
+- name: Es'beth Yesheln
   type: partymate
-skin: Pale Green
-spec: Cleric
+- name: Jaedyn Arbane
+  type: partymate
+- name: Evylen Nese
+  type: partymate
+skin: Aqua
+spec: Ranger
 stats:
-  cha: 11
-  con: 8
-  dex: 12
-  int: 12
+  cha: 14
+  con: 13
+  dex: 16
+  int: 7
   str: 13
-  wis: 17
-track: Protection
-trait: I'm used to helping out those who aren't as smart as I am, and I patiently
-  explain anything and everything to others.
-trait1: Admirable
-trait2: Dissonant
-year: 3
+  wis: 14
+track: Assault
+trait: Nobody stays angry at me or around me for long, since I can defuse any amount
+  of tension.
+trait1: Invisible
+trait2: Circumspect
+year: 1
 ---
 # Adrjia Lysanthir
 ---
 ### Description
-- 3rd year Half-Orc Cleric in Fiesn
-- wavy grey hair that's parted to the right, Blue eyes, and Pale Green skin
-- Is Admirable and Dissonant, and has Loyalty as their ideal
+- 1st year Triton Ranger in Treskal
+- straight grey hair that's kept back by a pink headband, Gray eyes, and Aqua skin
+- Is Invisible and Circumspect, and has Compassion as their ideal
 
 ### Organizations
 ### Relationships
-[[Caeleb Embrae]]: partymate
-[[Estyn Rhangyl]]: partymate
+[[Kova Tamara]]: partymate
+[[Es'beth Yesheln]]: partymate
+[[Jaedyn Arbane]]: partymate
+[[Evylen Nese]]: partymate
 ### Stats
 ```statblock
 name: Adrjia Lysanthir
-stats: [13, 12, 8, 12, 17, 11]
+stats: [13, 16, 13, 7, 14, 14]
 ```

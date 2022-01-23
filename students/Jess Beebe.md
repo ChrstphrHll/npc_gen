@@ -1,52 +1,50 @@
 ---
 birthday:
-  numeric: 1/2
-  written: 2nd of Avanent
-bond: I was cheated out of my fair share of the profits, and I want to get my due.
-eyes: Brown
-flaw: An innocent person is in prison for a crime that I committed. I'm okay with
-  that.
-guild: Treskal
-hair: wavy strawberry blond hair that's put back in a long pony tail
-ideal: Contentment
+  numeric: 5/1
+  written: 1st of Iounent
+bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
+eyes: Hazel
+flaw: In fact, the world does revolve around me.
+guild: Fiesn
+hair: straight dirty blonde hair that's done up in a top knot
+ideal: Finesse
 name: Jess Beebe
 organizations: []
-partyID: 49
-race: Gnome
+partyID: 98
+race: Firbolg
 relationships:
-- name: Gifre Edyrm
+- name: Tyego Sinaht
   type: partymate
-- name: Lilia Agrippa
+- name: Halia Dominguez
   type: partymate
-skin: Brown
-spec: Wizard
+skin: Pale Gray
+spec: Cleric
 stats:
-  cha: 11
-  con: 11
-  dex: 11
-  int: 14
+  cha: 14
+  con: 15
+  dex: 15
+  int: 13
   str: 15
-  wis: 11
-track: Protection
-trait: I keep multiple holy symbols on me and invoke whatever deity might come in
-  useful at any given moment.
-trait1: Scrupulous
-trait2: Competitive
-year: 2
+  wis: 15
+track: Diplomacy
+trait: I get bored easily. When am I going to get on with my destiny?
+trait1: Impressive
+trait2: Unkind
+year: 3
 ---
 # Jess Beebe
 ---
 ### Description
-- 2nd year Gnome Wizard in Treskal
-- wavy strawberry blond hair that's put back in a long pony tail, Brown eyes, and Brown skin
-- Is Scrupulous and Competitive, and has Contentment as their ideal
+- 3rd year Firbolg Cleric in Fiesn
+- straight dirty blonde hair that's done up in a top knot, Hazel eyes, and Pale Gray skin
+- Is Impressive and Unkind, and has Finesse as their ideal
 
 ### Organizations
 ### Relationships
-[[Gifre Edyrm]]: partymate
-[[Lilia Agrippa]]: partymate
+[[Tyego Sinaht]]: partymate
+[[Halia Dominguez]]: partymate
 ### Stats
 ```statblock
 name: Jess Beebe
-stats: [15, 11, 11, 14, 11, 11]
+stats: [15, 15, 15, 13, 15, 14]
 ```

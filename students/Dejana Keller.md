@@ -1,50 +1,55 @@
 ---
 birthday:
-  numeric: 4/27
-  written: 27th of Moradent
-bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
-eyes: Red
-flaw: Once I start drinking, it's hard for me to stop.
-guild: Fiesn
-hair: wavy brunette hair that's pulled to the side and buzzed on the right
-ideal: Lead by example
+  numeric: 4/28
+  written: 28th of Moradent
+bond: I want to be famous, whatever it takes.
+eyes: Gray
+flaw: I made a terrible mistake in battle cost many lives- and I would do anything
+  to keep that mistake secret.
+guild: Treskal
+hair: curly brunette hair that's hanging down to their back
+ideal: Clarity
 name: Dejana Keller
 organizations: []
-partyID: 1
-race: Triton
+partyID: 51
+race: Firbolg
 relationships:
-- name: Coriss Biafyndar
+- name: Ysaac Aelrue
   type: partymate
-- name: Jacob Jorildyn
+- name: Nolyn Viska
   type: partymate
-skin: Spring Green
-spec: Sorcerer
+- name: Vaervenshalice Eloen
+  type: partymate
+skin: Pale Blue
+spec: Cleric
 stats:
-  cha: 17
-  con: 10
-  dex: 16
-  int: 9
-  str: 8
-  wis: 10
-track: Assault
-trait: I have a joke for every occasion, especially occasions where humor is inappropriate.
-trait1: Loving
-trait2: Moralistic
-year: 5
+  cha: 15
+  con: 11
+  dex: 11
+  int: 13
+  str: 14
+  wis: 14
+track: Exploration
+trait: I am always calm, no matter what the situation. I never raise my voice or let
+  emotions control me.
+trait1: Zealous
+trait2: Angry
+year: 1
 ---
 # Dejana Keller
 ---
 ### Description
-- 5th year Triton Sorcerer in Fiesn
-- wavy brunette hair that's pulled to the side and buzzed on the right, Red eyes, and Spring Green skin
-- Is Loving and Moralistic, and has Lead by example as their ideal
+- 1st year Firbolg Cleric in Treskal
+- curly brunette hair that's hanging down to their back, Gray eyes, and Pale Blue skin
+- Is Zealous and Angry, and has Clarity as their ideal
 
 ### Organizations
 ### Relationships
-[[Coriss Biafyndar]]: partymate
-[[Jacob Jorildyn]]: partymate
+[[Ysaac Aelrue]]: partymate
+[[Nolyn Viska]]: partymate
+[[Vaervenshalice Eloen]]: partymate
 ### Stats
 ```statblock
 name: Dejana Keller
-stats: [8, 16, 10, 9, 10, 17]
+stats: [14, 11, 11, 13, 14, 15]
 ```

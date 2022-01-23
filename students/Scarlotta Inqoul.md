@@ -1,54 +1,48 @@
 ---
 birthday:
-  numeric: 6/15
-  written: 15th of Pelent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Gray
-flaw: I pretend not to understand the local language in order to avoid interactions
-  I would rather not have.
-guild: Elkenval
-hair: wavy blonde hair that's hanging down to their legs
-ideal: Appreciation
+  numeric: 2/26
+  written: 26th of Corelent
+bond: No one else should have to endure the hardships I've been through.
+eyes: Hazel
+flaw: I have a "tell" that reveals when I'm lying.
+guild: Burk
+hair: curly blonde hair that's parted to the side, slightly obscuring an eye
+ideal: Innovation
 name: Scarlotta Inqoul
 organizations: []
-partyID: 58
-race: Half-Orc
+partyID: 49
+race: Dwarf
 relationships:
-- name: Wulfe Fulcrux
+- name: Senna Tryton
   type: partymate
-- name: Diegon Verrona
-  type: partymate
-- name: Lyonus Ioelena
-  type: partymate
-skin: Pale Gray
-spec: Monk
+skin: Brown
+spec: Paladin
 stats:
-  cha: 11
-  con: 11
-  dex: 13
-  int: 10
-  str: 11
-  wis: 9
-track: Assault
-trait: I like to squeeze into small places where no one else can get to me.
-trait1: Passionate
-trait2: Stern
-year: 1
+  cha: 15
+  con: 14
+  dex: 12
+  int: 15
+  str: 16
+  wis: 8
+track: Diplomacy
+trait: I am always calm, no matter what the situation. I never raise my voice or let
+  emotions control me.
+trait1: Iconoclastic
+trait2: Puritanical
+year: 4
 ---
 # Scarlotta Inqoul
 ---
 ### Description
-- 1st year Half-Orc Monk in Elkenval
-- wavy blonde hair that's hanging down to their legs, Gray eyes, and Pale Gray skin
-- Is Passionate and Stern, and has Appreciation as their ideal
+- 4th year Dwarf Paladin in Burk
+- curly blonde hair that's parted to the side, slightly obscuring an eye, Hazel eyes, and Brown skin
+- Is Iconoclastic and Puritanical, and has Innovation as their ideal
 
 ### Organizations
 ### Relationships
-[[Wulfe Fulcrux]]: partymate
-[[Diegon Verrona]]: partymate
-[[Lyonus Ioelena]]: partymate
+[[Senna Tryton]]: partymate
 ### Stats
 ```statblock
 name: Scarlotta Inqoul
-stats: [11, 13, 11, 10, 9, 11]
+stats: [16, 12, 14, 15, 8, 15]
 ```

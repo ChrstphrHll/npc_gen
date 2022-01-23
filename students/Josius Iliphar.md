@@ -1,52 +1,51 @@
 ---
 birthday:
-  numeric: 1/21
-  written: 21st of Avanent
-bond: I'm trying to pay off an old debt I owe to a generous benefactor.
-eyes: Hazel
-flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
-  involved.
-guild: Treskal
-hair: wavy lighter blonde hair that's put back in a long pony tail
-ideal: Justice
+  numeric: 4/9
+  written: 9th of Moradent
+bond: I come from a noble family, and one day I'll reclaim my lands and title from
+  those who stole them from me.
+eyes: Violet Red
+flaw: I can't resist a pretty face.
+guild: Fiesn
+hair: curly brunette hair that's parted to the left
+ideal: Kindness
 name: Josius Iliphar
 organizations: []
-partyID: 5
-race: Tiefling
+partyID: 15
+race: Genasi
 relationships:
-- name: Themistoklea Nevarth
+- name: Surge Fayd
   type: partymate
-- name: Asralyn Rhangyl
+- name: Delsenora Strohm
   type: partymate
-skin: Pale Blue
-spec: Cleric
+skin: air
+spec: Rouge
 stats:
-  cha: 14
-  con: 9
-  dex: 10
-  int: 11
-  str: 14
-  wis: 15
-track: Diplomacy
-trait: I have a strong sense of fair play and always try to find the most equitable
-  solution to arguments.
-trait1: Sophisticated
-trait2: Glamorous
-year: 5
+  cha: 12
+  con: 12
+  dex: 17
+  int: 14
+  str: 10
+  wis: 13
+track: Assault
+trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
+trait1: Iconoclastic
+trait2: Shallow
+year: 7
 ---
 # Josius Iliphar
 ---
 ### Description
-- 5th year Tiefling Cleric in Treskal
-- wavy lighter blonde hair that's put back in a long pony tail, Hazel eyes, and Pale Blue skin
-- Is Sophisticated and Glamorous, and has Justice as their ideal
+- 7th year Genasi Rouge in Fiesn
+- curly brunette hair that's parted to the left, Violet Red eyes, and air skin
+- Is Iconoclastic and Shallow, and has Kindness as their ideal
 
 ### Organizations
 ### Relationships
-[[Themistoklea Nevarth]]: partymate
-[[Asralyn Rhangyl]]: partymate
+[[Surge Fayd]]: partymate
+[[Delsenora Strohm]]: partymate
 ### Stats
 ```statblock
 name: Josius Iliphar
-stats: [14, 10, 9, 11, 15, 14]
+stats: [10, 17, 12, 14, 13, 12]
 ```

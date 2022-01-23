@@ -1,56 +1,50 @@
 ---
 birthday:
-  numeric: 6/27
-  written: 27th of Pelent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Pale Gray
-flaw: If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
-guild: Fiesn
-hair: straight grey hair that's parted to the left
-ideal: Logic
+  numeric: 5/14
+  written: 14th of Iounent
+bond: I was cheated out of my fair share of the profits, and I want to get my due.
+eyes: Gray
+flaw: I am suspicious of strangers and expect the worst of them.
+guild: Burk
+hair: straight lighter blonde hair that's put back in a long pony tail
+ideal: Compassion
 name: Meira Nuvian
 organizations: []
-partyID: 25
-race: Human
+partyID: 5
+race: Half-Elf
 relationships:
-- name: Hanro Fieryat
+- name: Thongar Fairchild
   type: partymate
-- name: Rossan Jonik
+- name: Roman Erolith
   type: partymate
-- name: Nicolle Shandalar
-  type: partymate
-- name: Kova Tamara
-  type: partymate
-skin: Light Tan
-spec: Monk
+skin: Dark Tan
+spec: Ranger
 stats:
-  cha: 13
-  con: 16
-  dex: 17
-  int: 9
-  str: 14
-  wis: 16
-track: Diplomacy
-trait: I'm always polite and respectful.
-trait1: Emotionally stable
-trait2: Preoccupied
-year: 4
+  cha: 9
+  con: 7
+  dex: 13
+  int: 11
+  str: 7
+  wis: 9
+track: Assault
+trait: I like to squeeze into small places where no one else can get to me.
+trait1: Well-bred
+trait2: Disconcerting
+year: 3
 ---
 # Meira Nuvian
 ---
 ### Description
-- 4th year Human Monk in Fiesn
-- straight grey hair that's parted to the left, Pale Gray eyes, and Light Tan skin
-- Is Emotionally stable and Preoccupied, and has Logic as their ideal
+- 3rd year Half-Elf Ranger in Burk
+- straight lighter blonde hair that's put back in a long pony tail, Gray eyes, and Dark Tan skin
+- Is Well-bred and Disconcerting, and has Compassion as their ideal
 
 ### Organizations
 ### Relationships
-[[Hanro Fieryat]]: partymate
-[[Rossan Jonik]]: partymate
-[[Nicolle Shandalar]]: partymate
-[[Kova Tamara]]: partymate
+[[Thongar Fairchild]]: partymate
+[[Roman Erolith]]: partymate
 ### Stats
 ```statblock
 name: Meira Nuvian
-stats: [14, 17, 16, 9, 16, 13]
+stats: [7, 13, 7, 11, 9, 9]
 ```

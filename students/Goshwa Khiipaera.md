@@ -1,54 +1,55 @@
 ---
 birthday:
-  numeric: 1/31
-  written: 31st of Avanent
-bond: My instrument is my most treasured possession, and it reminds me of someone
-  I love.
-eyes: Hazel
-flaw: I'd risk too much to uncover a lost bit of knowledge.
+  numeric: 6/25
+  written: 25th of Pelent
+bond: I created a great work for someone, and then found them unworthy to receive
+  it. I'm still looking for someone worthy.
+eyes: Pale Green
+flaw: I'm quick to assume that someone is trying to cheat me.
 guild: Elkenval
-hair: wavy auburn hair that's parted to the side, slightly obscuring an eye
-ideal: Impartiality
+hair: wavy platinum hair that's parted to the left
+ideal: Forgiveness
 name: Goshwa Khiipaera
 organizations: []
-partyID: 59
-race: Gnome
+partyID: 47
+race: Firbolg
 relationships:
-- name: Valerya Haldreithen
+- name: Julyo Agassi
   type: partymate
-- name: Tezani Morthil
+- name: Vila Tassarion
   type: partymate
-- name: Vaellyn Esyae
+- name: Mavrek Aolis
   type: partymate
-skin: Brown
-spec: Bard
+skin: Pale Brown
+spec: Fighter
 stats:
-  cha: 17
-  con: 11
-  dex: 8
-  int: 11
-  str: 11
-  wis: 13
-track: Protection
-trait: I always want to know how things work and what makes people tick.
-trait1: Intrepid
-trait2: Undisciplined
-year: 1
+  cha: 8
+  con: 14
+  dex: 14
+  int: 13
+  str: 17
+  wis: 17
+track: Exploration
+trait: I believe that anything worth doing is worth doing right. I can't help it-
+  I'm a perfectionist.
+trait1: Proper
+trait2: Airy
+year: 5
 ---
 # Goshwa Khiipaera
 ---
 ### Description
-- 1st year Gnome Bard in Elkenval
-- wavy auburn hair that's parted to the side, slightly obscuring an eye, Hazel eyes, and Brown skin
-- Is Intrepid and Undisciplined, and has Impartiality as their ideal
+- 5th year Firbolg Fighter in Elkenval
+- wavy platinum hair that's parted to the left, Pale Green eyes, and Pale Brown skin
+- Is Proper and Airy, and has Forgiveness as their ideal
 
 ### Organizations
 ### Relationships
-[[Valerya Haldreithen]]: partymate
-[[Tezani Morthil]]: partymate
-[[Vaellyn Esyae]]: partymate
+[[Julyo Agassi]]: partymate
+[[Vila Tassarion]]: partymate
+[[Mavrek Aolis]]: partymate
 ### Stats
 ```statblock
 name: Goshwa Khiipaera
-stats: [11, 8, 11, 11, 13, 17]
+stats: [17, 14, 14, 13, 17, 8]
 ```

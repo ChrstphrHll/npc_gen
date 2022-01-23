@@ -1,53 +1,54 @@
 ---
 birthday:
-  numeric: 3/26
-  written: 26th of Melorent
-bond: I entered seclusion because I loved someone I could not have.
-eyes: Pale Brown
-flaw: I have trouble trusting in my allies.
-guild: Elkenval
-hair: wavy lighter blonde hair that's a tousled bed head
-ideal: Forgiveness
+  numeric: 4/19
+  written: 19th of Moradent
+bond: I want to be famous, whatever it takes.
+eyes: Gray
+flaw: I don't take kindly to some of the actions and motivations of the people of
+  this land, because these folk are different from me.
+guild: Alderden
+hair: wavy blonde hair that's braided with green ribbon (long)
+ideal: Order
 name: Alkindus Llamryl
 organizations: []
-partyID: 65
-race: Dwarf
+partyID: 56
+race: Half-Elf
 relationships:
-- name: Eadyth Lora
+- name: Audree Dixon
   type: partymate
-- name: Vyctor Willow
+- name: Aryana Ahrendue
   type: partymate
-- name: Theodus Chylnoth
+- name: Lea Nuvian
   type: partymate
-skin: Brown
-spec: Paladin
+skin: Light
+spec: Sorcerer
 stats:
-  cha: 12
-  con: 15
-  dex: 10
-  int: 11
+  cha: 15
+  con: 13
+  dex: 11
+  int: 9
   str: 13
   wis: 11
-track: Exploration
-trait: I have a crude sense of humor.
-trait1: Alert
-trait2: Vague
-year: 4
+track: Assault
+trait: I am utterly serene, even in the face of disaster.
+trait1: Rustic
+trait2: Pessimistic
+year: 1
 ---
 # Alkindus Llamryl
 ---
 ### Description
-- 4th year Dwarf Paladin in Elkenval
-- wavy lighter blonde hair that's a tousled bed head, Pale Brown eyes, and Brown skin
-- Is Alert and Vague, and has Forgiveness as their ideal
+- 1st year Half-Elf Sorcerer in Alderden
+- wavy blonde hair that's braided with green ribbon (long), Gray eyes, and Light skin
+- Is Rustic and Pessimistic, and has Order as their ideal
 
 ### Organizations
 ### Relationships
-[[Eadyth Lora]]: partymate
-[[Vyctor Willow]]: partymate
-[[Theodus Chylnoth]]: partymate
+[[Audree Dixon]]: partymate
+[[Aryana Ahrendue]]: partymate
+[[Lea Nuvian]]: partymate
 ### Stats
 ```statblock
 name: Alkindus Llamryl
-stats: [13, 10, 15, 11, 11, 12]
+stats: [13, 11, 13, 9, 11, 15]
 ```

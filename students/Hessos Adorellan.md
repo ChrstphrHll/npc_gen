@@ -1,55 +1,51 @@
 ---
 birthday:
-  numeric: 4/3
-  written: 3rd of Moradent
-bond: My honor is my life.
-eyes: Pale Blue
-flaw: By my words and actions, I often bring shame to my family.By my words and actions,
-  I often bring shame to my family.
-guild: Burk
-hair: wavy strawberry blond hair that's loose around the shoulders
-ideal: Friendship
+  numeric: 4/11
+  written: 11th of Moradent
+bond: The gods of my people are a comfort to me so far from home.
+eyes: Gray
+flaw: My piety sometimes leads me to blindly trust those that profess faith in my
+  god.
+guild: Alderden
+hair: wavy blue hair that's geled back
+ideal: Optimism
 name: Hessos Adorellan
 organizations: []
-partyID: 22
-race: Elf
+partyID: 43
+race: Gnome
 relationships:
-- name: Lenn Schimae
+- name: Kendel Shael
   type: partymate
-- name: Valia Esyae
+- name: Asmiak Seirye
   type: partymate
-- name: Lynx Galather
-  type: partymate
-skin: Brown
-spec: Rouge
+skin: Tan
+spec: Wizard
 stats:
   cha: 13
-  con: 13
-  dex: 17
-  int: 12
-  str: 13
-  wis: 10
-track: Assault
-trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
-  bundle in my arms.
-trait1: Absentminded
-trait2: Solitary
-year: 7
+  con: 12
+  dex: 14
+  int: 14
+  str: 8
+  wis: 12
+track: Exploration
+trait: I'm oblivious to etiquette and social expectations.
+trait1: Punctual
+trait2: Pharissical
+year: 1
 ---
 # Hessos Adorellan
 ---
 ### Description
-- 7th year Elf Rouge in Burk
-- wavy strawberry blond hair that's loose around the shoulders, Pale Blue eyes, and Brown skin
-- Is Absentminded and Solitary, and has Friendship as their ideal
+- 1st year Gnome Wizard in Alderden
+- wavy blue hair that's geled back, Gray eyes, and Tan skin
+- Is Punctual and Pharissical, and has Optimism as their ideal
 
 ### Organizations
 ### Relationships
-[[Lenn Schimae]]: partymate
-[[Valia Esyae]]: partymate
-[[Lynx Galather]]: partymate
+[[Kendel Shael]]: partymate
+[[Asmiak Seirye]]: partymate
 ### Stats
 ```statblock
 name: Hessos Adorellan
-stats: [13, 17, 13, 12, 10, 13]
+stats: [8, 14, 12, 14, 12, 13]
 ```

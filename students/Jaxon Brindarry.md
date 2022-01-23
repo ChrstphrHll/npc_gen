@@ -1,47 +1,54 @@
 ---
 birthday:
-  numeric: 4/24
-  written: 24th of Moradent
-bond: I entered seclusion because I loved someone I could not have.
-eyes: Pale Blue
-flaw: I have a weakness for the vices of the city, especially hard drink.
+  numeric: 4/17
+  written: 17th of Moradent
+bond: The gods of my people are a comfort to me so far from home.
+eyes: Amber
+flaw: Once someone questions my courage, I never back down no matter how dangerous
+  the situation.
 guild: Jettenia
-hair: smooth gold guilded with emerald
-ideal: Renewal
+hair: curly turquoise hair that's done up in a top knot
+ideal: Wisdom
 name: Jaxon Brindarry
 organizations: []
-partyID: 38
-race: Warforged
+partyID: 28
+race: Elf
 relationships:
-- name: Aniari Arlayna
+- name: Railyn Retenia
   type: partymate
-skin: copper
-spec: Bard
+- name: Cartyr Tamsin
+  type: partymate
+- name: Jovos Seldanna
+  type: partymate
+skin: Brown
+spec: Artificer
 stats:
-  cha: 16
-  con: 11
-  dex: 13
-  int: 13
-  str: 15
-  wis: 14
-track: Exploration
-trait: I know a story relevant to almost every situation.
-trait1: Lucky
-trait2: Hot-tempered
-year: 1
+  cha: 9
+  con: 9
+  dex: 10
+  int: 15
+  str: 14
+  wis: 13
+track: Assault
+trait: There's nothing I like more than a good mystery.
+trait1: Dreamy
+trait2: Naive
+year: 3
 ---
 # Jaxon Brindarry
 ---
 ### Description
-- 1st year Warforged Bard in Jettenia
-- smooth gold guilded with emerald, Pale Blue eyes, and copper skin
-- Is Lucky and Hot-tempered, and has Renewal as their ideal
+- 3rd year Elf Artificer in Jettenia
+- curly turquoise hair that's done up in a top knot, Amber eyes, and Brown skin
+- Is Dreamy and Naive, and has Wisdom as their ideal
 
 ### Organizations
 ### Relationships
-[[Aniari Arlayna]]: partymate
+[[Railyn Retenia]]: partymate
+[[Cartyr Tamsin]]: partymate
+[[Jovos Seldanna]]: partymate
 ### Stats
 ```statblock
 name: Jaxon Brindarry
-stats: [15, 13, 11, 13, 14, 16]
+stats: [14, 10, 9, 15, 13, 9]
 ```

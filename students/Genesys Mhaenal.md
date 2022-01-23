@@ -1,50 +1,54 @@
 ---
 birthday:
-  numeric: 1/32
-  written: 32nd of Avanent
-bond: It is my duty to protect my students.
-eyes: Hazel
-flaw: I'm convinced that no one could ever fool me the way I fool others.
-guild: Alderden
-hair: frizzy brunette hair that's put up in a large bun
-ideal: Cruelty
+  numeric: 4/26
+  written: 26th of Moradent
+bond: The gods of my people are a comfort to me so far from home.
+eyes: Pale Green
+flaw: I'd rather kill someone in their sleep then fight fair.
+guild: Burk
+hair: straight black hair that's put back in a short pony tail
+ideal: Prosperity
 name: Genesys Mhaenal
 organizations: []
-partyID: 72
-race: Half-Orc
+partyID: 38
+race: Gnome
 relationships:
-- name: Holys Hachaam
+- name: Hodus Belt
   type: partymate
-- name: Leah Faelar
+- name: Shike Thalaera
   type: partymate
-skin: Pale Green
-spec: Wizard
+- name: Delja Iefyr
+  type: partymate
+skin: Dark Brown
+spec: Monk
 stats:
-  cha: 12
-  con: 14
-  dex: 10
-  int: 16
-  str: 14
-  wis: 13
-track: Diplomacy
-trait: I enjoy being strong and like breaking things.
-trait1: Punctual
-trait2: Breezy
+  cha: 13
+  con: 10
+  dex: 16
+  int: 13
+  str: 13
+  wis: 12
+track: Assault
+trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
+  living grates on me.
+trait1: Unchanging
+trait2: Indecisive
 year: 1
 ---
 # Genesys Mhaenal
 ---
 ### Description
-- 1st year Half-Orc Wizard in Alderden
-- frizzy brunette hair that's put up in a large bun, Hazel eyes, and Pale Green skin
-- Is Punctual and Breezy, and has Cruelty as their ideal
+- 1st year Gnome Monk in Burk
+- straight black hair that's put back in a short pony tail, Pale Green eyes, and Dark Brown skin
+- Is Unchanging and Indecisive, and has Prosperity as their ideal
 
 ### Organizations
 ### Relationships
-[[Holys Hachaam]]: partymate
-[[Leah Faelar]]: partymate
+[[Hodus Belt]]: partymate
+[[Shike Thalaera]]: partymate
+[[Delja Iefyr]]: partymate
 ### Stats
 ```statblock
 name: Genesys Mhaenal
-stats: [14, 10, 14, 16, 13, 12]
+stats: [13, 16, 10, 13, 12, 13]
 ```

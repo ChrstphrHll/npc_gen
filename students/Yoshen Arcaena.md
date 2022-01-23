@@ -1,53 +1,54 @@
 ---
 birthday:
-  numeric: 2/5
-  written: 5th of Corelent
-bond: I'm trying to pay off an old debt I owe to a generous benefactor.
-eyes: Hazel
-flaw: I will never fully trust anyone other than myself.
-guild: Fiesn
-hair: smooth silver guilded with silver
-ideal: Redemption
+  numeric: 6/2
+  written: 2nd of Pelent
+bond: The ship is most important- crewmates and captains come and go.
+eyes: Deep Blue
+flaw: People who can't take care of themselves get what they deserve.
+guild: Treskal
+hair: long spines
+ideal: Malice
 name: Yoshen Arcaena
 organizations: []
-partyID: 41
-race: Warforged
+partyID: 3
+race: Dragonborn
 relationships:
-- name: Bera Cauladra
+- name: Giacomo Edraele
   type: partymate
-- name: Hazel Winters
+- name: Matrell Halafarin
   type: partymate
-- name: Ysak Llewellenar
+- name: Santaegus Etter
   type: partymate
-skin: gold
-spec: Monk
+skin: black
+spec: Ranger
 stats:
   cha: 15
-  con: 10
-  dex: 17
-  int: 12
+  con: 11
+  dex: 16
+  int: 15
   str: 14
-  wis: 14
+  wis: 13
 track: Exploration
-trait: I stretch the truth for the sake of a good story.
-trait1: Wise
-trait2: Bashful
-year: 1
+trait: Despite my noble birth, I do not place myself above other folk. We all have
+  the same blood.
+trait1: Well-bred
+trait2: Superstitious
+year: 2
 ---
 # Yoshen Arcaena
 ---
 ### Description
-- 1st year Warforged Monk in Fiesn
-- smooth silver guilded with silver, Hazel eyes, and gold skin
-- Is Wise and Bashful, and has Redemption as their ideal
+- 2nd year Dragonborn Ranger in Treskal
+- long spines, Deep Blue eyes, and black skin
+- Is Well-bred and Superstitious, and has Malice as their ideal
 
 ### Organizations
 ### Relationships
-[[Bera Cauladra]]: partymate
-[[Hazel Winters]]: partymate
-[[Ysak Llewellenar]]: partymate
+[[Giacomo Edraele]]: partymate
+[[Matrell Halafarin]]: partymate
+[[Santaegus Etter]]: partymate
 ### Stats
 ```statblock
 name: Yoshen Arcaena
-stats: [14, 17, 10, 12, 14, 15]
+stats: [14, 16, 11, 15, 13, 15]
 ```

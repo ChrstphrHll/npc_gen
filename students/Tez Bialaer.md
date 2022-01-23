@@ -1,50 +1,56 @@
 ---
 birthday:
-  numeric: 1/11
-  written: 11th of Avanent
-bond: I work to preserve a library, university, scriptorium, or monastery.
+  numeric: 5/14
+  written: 14th of Iounent
+bond: I entered seclusion because I loved someone I could not have.
 eyes: Hazel
-flaw: In fact, the world does revolve around me.
-guild: Elkenval
-hair: wavy black hair that's put back in a long pony tail
-ideal: Variety
+flaw: I'm never satisfied with what I have- I always want more.
+guild: Fiesn
+hair: straight grey hair that's parted to the left
+ideal: Austerity
 name: Tez Bialaer
 organizations: []
-partyID: 6
-race: Halfling
+partyID: 79
+race: Aasimar
 relationships:
-- name: Volkos Halaema
+- name: Romen Uldreiyn
   type: partymate
-- name: Mavrek Aolis
+- name: Brahm Delmuth
   type: partymate
-skin: Tan
-spec: Barbarian
+- name: Rianna Belt
+  type: partymate
+- name: Zylphan Molostroi
+  type: partymate
+skin: Pale
+spec: Fighter
 stats:
-  cha: 11
-  con: 12
-  dex: 10
-  int: 8
-  str: 18
+  cha: 12
+  con: 14
+  dex: 12
+  int: 9
+  str: 17
   wis: 10
-track: Assault
-trait: I change my mood or my mind as quickly as I change key in a song.
-trait1: Tasteful
-trait2: Picky
-year: 3
+track: Protection
+trait: Thinking is for other people. I prefer action.
+trait1: Sharing
+trait2: Modern
+year: 8
 ---
 # Tez Bialaer
 ---
 ### Description
-- 3rd year Halfling Barbarian in Elkenval
-- wavy black hair that's put back in a long pony tail, Hazel eyes, and Tan skin
-- Is Tasteful and Picky, and has Variety as their ideal
+- 8th year Aasimar Fighter in Fiesn
+- straight grey hair that's parted to the left, Hazel eyes, and Pale skin
+- Is Sharing and Modern, and has Austerity as their ideal
 
 ### Organizations
 ### Relationships
-[[Volkos Halaema]]: partymate
-[[Mavrek Aolis]]: partymate
+[[Romen Uldreiyn]]: partymate
+[[Brahm Delmuth]]: partymate
+[[Rianna Belt]]: partymate
+[[Zylphan Molostroi]]: partymate
 ### Stats
 ```statblock
 name: Tez Bialaer
-stats: [18, 10, 12, 8, 10, 11]
+stats: [17, 12, 14, 9, 10, 12]
 ```

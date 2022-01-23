@@ -1,57 +1,50 @@
 ---
 birthday:
-  numeric: 2/8
-  written: 8th of Corelent
-bond: My house's alliance with another noble family must be sustained at all costs.
+  numeric: 1/28
+  written: 28th of Avanent
+bond: I owe my survival to another urchin who taught me tolive on the streets.
 eyes: Red
-flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
-  trouble.
-guild: Jettenia
-hair: frills
-ideal: Vengful
+flaw: Now that I've returned to the world, I enjoy its delights a little too much.
+guild: Elkenval
+hair: curly white hair that's braided with blue ribbon (long)
+ideal: Forgiveness
 name: Eune Eldratha
 organizations: []
-partyID: 91
-race: Dragonborn
+partyID: 34
+race: Triton
 relationships:
-- name: Harperia Winchell
+- name: Evyn Fenton
   type: partymate
-- name: Velmona Elway
+- name: Tezani Morthil
   type: partymate
-- name: Braidyn Kemetra
-  type: partymate
-- name: Ryan Ebersol
-  type: partymate
-skin: black
-spec: Paladin
+skin: Emerald Green
+spec: Druid
 stats:
-  cha: 14
-  con: 16
-  dex: 15
-  int: 15
-  str: 18
-  wis: 9
-track: Assault
-trait: I think anyone who's nice to me is hiding evil intent.
-trait1: Physical
-trait2: Subjective
-year: 3
+  cha: 8
+  con: 9
+  dex: 12
+  int: 9
+  str: 10
+  wis: 16
+track: Protection
+trait: I lie about almost everything, even when there's no good reason to.
+trait1: Unreligious
+trait2: Libidinous
+year: 2
 ---
 # Eune Eldratha
 ---
 ### Description
-- 3rd year Dragonborn Paladin in Jettenia
-- frills, Red eyes, and black skin
-- Is Physical and Subjective, and has Vengful as their ideal
+- 2nd year Triton Druid in Elkenval
+- curly white hair that's braided with blue ribbon (long), Red eyes, and Emerald Green skin
+- Is Unreligious and Libidinous, and has Forgiveness as their ideal
 
 ### Organizations
 ### Relationships
-[[Harperia Winchell]]: partymate
-[[Velmona Elway]]: partymate
-[[Braidyn Kemetra]]: partymate
-[[Ryan Ebersol]]: partymate
+[[Evyn Fenton]]: partymate
+[[Tezani Morthil]]: partymate
 ### Stats
 ```statblock
 name: Eune Eldratha
-stats: [18, 15, 16, 15, 9, 14]
+stats: [10, 12, 9, 9, 16, 8]
 ```

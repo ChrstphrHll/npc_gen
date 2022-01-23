@@ -1,58 +1,57 @@
 ---
 birthday:
-  numeric: 8/17
-  written: 17th of Ravenent
-bond: So long as I have this token from my homeland, I can face any adversity in this
-  strange land.
-eyes: Hazel
-flaw: I am inflexible in my thinking.
-guild: Jettenia
-hair: wavy brunette hair that's braided with blue ribbon (long)
-ideal: Honesty
+  numeric: 1/32
+  written: 32nd of Avanent
+bond: I pursue wealth to secure someone's love.
+eyes: Amber
+flaw: I'm convinced of the significance of my destiny, and blind to my shortcomings
+  and the risk of failure.
+guild: Elkenval
+hair: frizzy auburn hair that's geled back
+ideal: Reciprocity
 name: Allyson Vindinglag
 organizations: []
-partyID: 29
-race: Gnome
+partyID: 91
+race: Aasimar
 relationships:
-- name: Savanna Ildilyntra
+- name: Jandar Pleufan
   type: partymate
-- name: Selina Ochyllyss
+- name: Kimbera Alerathla
   type: partymate
-- name: Hodus Belt
+- name: Emilanus Shields
   type: partymate
-- name: Gabrila Retra
+- name: Andrey Rauthomyr
   type: partymate
-skin: Pale
-spec: Druid
+skin: Dark Brown
+spec: Cleric
 stats:
-  cha: 7
-  con: 14
+  cha: 14
+  con: 9
   dex: 12
-  int: 11
-  str: 10
+  int: 9
+  str: 16
   wis: 18
 track: Protection
-trait: My eloquent flattery makes everyone I talk to feel like the most wonderful
-  and important person in the world.
-trait1: Authoritarian
-trait2: Sedentary
-year: 3
+trait: The common folk love me for my kindness and generosity.
+trait1: Forceful
+trait2: Stif
+year: 1
 ---
 # Allyson Vindinglag
 ---
 ### Description
-- 3rd year Gnome Druid in Jettenia
-- wavy brunette hair that's braided with blue ribbon (long), Hazel eyes, and Pale skin
-- Is Authoritarian and Sedentary, and has Honesty as their ideal
+- 1st year Aasimar Cleric in Elkenval
+- frizzy auburn hair that's geled back, Amber eyes, and Dark Brown skin
+- Is Forceful and Stif, and has Reciprocity as their ideal
 
 ### Organizations
 ### Relationships
-[[Savanna Ildilyntra]]: partymate
-[[Selina Ochyllyss]]: partymate
-[[Hodus Belt]]: partymate
-[[Gabrila Retra]]: partymate
+[[Jandar Pleufan]]: partymate
+[[Kimbera Alerathla]]: partymate
+[[Emilanus Shields]]: partymate
+[[Andrey Rauthomyr]]: partymate
 ### Stats
 ```statblock
 name: Allyson Vindinglag
-stats: [10, 12, 14, 11, 18, 7]
+stats: [16, 12, 9, 9, 18, 14]
 ```

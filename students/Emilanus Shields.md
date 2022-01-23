@@ -1,54 +1,59 @@
 ---
 birthday:
-  numeric: 3/28
-  written: 28th of Melorent
-bond: I'm fascinated by the beauty and wonder of this new land.
-eyes: Hazel
-flaw: Violence is my answer to almost any challenge.
-guild: Burk
-hair: straight dirty blonde hair that's braided with pink ribbon (med)
-ideal: Connection
+  numeric: 5/3
+  written: 3rd of Iounent
+bond: My instrument is my most treasured possession, and it reminds me of someone
+  I love.
+eyes: Green
+flaw: I made a terrible mistake in battle cost many lives- and I would do anything
+  to keep that mistake secret.
+guild: Elkenval
+hair: smooth bronze guilded with brass
+ideal: Speed
 name: Emilanus Shields
 organizations: []
-partyID: 26
-race: Halfling
+partyID: 91
+race: Warforged
 relationships:
+- name: Jandar Pleufan
+  type: partymate
+- name: Kimbera Alerathla
+  type: partymate
+- name: Allyson Vindinglag
+  type: partymate
 - name: Andrey Rauthomyr
   type: partymate
-- name: Averra Taleisin
-  type: partymate
-- name: Senna Tryton
-  type: partymate
-skin: Light
-spec: Barbarian
+skin: bronze
+spec: Paladin
 stats:
-  cha: 14
-  con: 10
-  dex: 15
-  int: 15
-  str: 16
-  wis: 17
-track: Protection
-trait: I have my own ideas about what is and is not food, and I find the eating habits
-  of those around me fascinating, confusing, or revolting.
-trait1: Admirable
-trait2: Repentant
-year: 8
+  cha: 8
+  con: 11
+  dex: 13
+  int: 11
+  str: 17
+  wis: 14
+track: Exploration
+trait: I'm full of inspiring and cautionary tales from my military experience relevant
+  to almost every combat situation.
+trait1: Idealistic
+trait2: Dirty
+year: 1
 ---
 # Emilanus Shields
 ---
 ### Description
-- 8th year Halfling Barbarian in Burk
-- straight dirty blonde hair that's braided with pink ribbon (med), Hazel eyes, and Light skin
-- Is Admirable and Repentant, and has Connection as their ideal
+- 1st year Warforged Paladin in Elkenval
+- smooth bronze guilded with brass, Green eyes, and bronze skin
+- Is Idealistic and Dirty, and has Speed as their ideal
 
 ### Organizations
 ### Relationships
+[[Jandar Pleufan]]: partymate
+[[Kimbera Alerathla]]: partymate
+[[Allyson Vindinglag]]: partymate
 [[Andrey Rauthomyr]]: partymate
-[[Averra Taleisin]]: partymate
-[[Senna Tryton]]: partymate
 ### Stats
 ```statblock
 name: Emilanus Shields
-stats: [16, 15, 10, 15, 17, 14]
+stats: [17, 13, 11, 11, 14, 8]
 ```

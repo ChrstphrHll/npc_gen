@@ -1,53 +1,53 @@
 ---
 birthday:
-  numeric: 3/31
-  written: 31st of Melorent
-bond: I will face any challenge to win the approval of my family.
-eyes: Brown
-flaw: I have a "tell" that reveals when I'm lying.
+  numeric: 5/27
+  written: 27th of Iounent
+bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
+eyes: Pale Gray
+flaw: I obey the law, even if the law causes misery.
 guild: Treskal
-hair: curly grey hair that's loose around the shoulders
-ideal: Might
+hair: straight dark red hair that's geled back
+ideal: Encouragement
 name: Graisen Thalanil
 organizations: []
-partyID: 53
-race: Dwarf
+partyID: 44
+race: Half-Orc
 relationships:
-- name: Kloya Kershaw
+- name: Willam Ardryll
   type: partymate
-- name: Tylus Ytharra
+- name: Themistoklea Nevarth
   type: partymate
-- name: Athyn Urddusk
+- name: Lucoe Lorelei
   type: partymate
-skin: Tan
-spec: Ranger
+skin: Deep Green
+spec: Cleric
 stats:
-  cha: 11
-  con: 7
-  dex: 15
-  int: 11
-  str: 13
-  wis: 12
+  cha: 15
+  con: 11
+  dex: 13
+  int: 9
+  str: 15
+  wis: 16
 track: Assault
-trait: I was, in fact, raised by wolves.
-trait1: Busy
-trait2: Crass
+trait: I connect everything that happens to me to a grand, cosmic plan.
+trait1: Intense
+trait2: Envious
 year: 2
 ---
 # Graisen Thalanil
 ---
 ### Description
-- 2nd year Dwarf Ranger in Treskal
-- curly grey hair that's loose around the shoulders, Brown eyes, and Tan skin
-- Is Busy and Crass, and has Might as their ideal
+- 2nd year Half-Orc Cleric in Treskal
+- straight dark red hair that's geled back, Pale Gray eyes, and Deep Green skin
+- Is Intense and Envious, and has Encouragement as their ideal
 
 ### Organizations
 ### Relationships
-[[Kloya Kershaw]]: partymate
-[[Tylus Ytharra]]: partymate
-[[Athyn Urddusk]]: partymate
+[[Willam Ardryll]]: partymate
+[[Themistoklea Nevarth]]: partymate
+[[Lucoe Lorelei]]: partymate
 ### Stats
 ```statblock
 name: Graisen Thalanil
-stats: [13, 15, 7, 11, 12, 11]
+stats: [15, 13, 11, 9, 16, 15]
 ```

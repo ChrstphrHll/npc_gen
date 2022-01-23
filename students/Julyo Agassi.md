@@ -1,54 +1,54 @@
 ---
 birthday:
-  numeric: 6/14
-  written: 14th of Pelent
-bond: It is my duty to protect my students.
-eyes: Blue
-flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
-  involved.
-guild: Fiesn
-hair: wavy black hair that's hanging down to their back
-ideal: Finesse
+  numeric: 4/11
+  written: 11th of Moradent
+bond: My life's work is a series of tomes related to a specific field of lore.
+eyes: Pale Green
+flaw: I'll say anything to avoid having to do extra work.
+guild: Elkenval
+hair: wavy dark red hair that's braided with blue ribbon (long)
+ideal: Peace
 name: Julyo Agassi
 organizations: []
-partyID: 64
-race: Elf
+partyID: 47
+race: Dwarf
 relationships:
-- name: Ungris Riluaneth
+- name: Goshwa Khiipaera
   type: partymate
-- name: Olivus Ondabrar
+- name: Vila Tassarion
   type: partymate
-- name: Kymber Korrigash
+- name: Mavrek Aolis
   type: partymate
-skin: Brown
-spec: Fighter
+skin: Dark Brown
+spec: Sorcerer
 stats:
-  cha: 9
-  con: 16
-  dex: 17
-  int: 11
-  str: 16
-  wis: 8
-track: Diplomacy
-trait: I'll settle for nothing less than perfection.
-trait1: Just
-trait2: Immature
-year: 4
+  cha: 12
+  con: 11
+  dex: 12
+  int: 9
+  str: 13
+  wis: 10
+track: Assault
+trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
+  bundle in my arms.
+trait1: Stable
+trait2: Harsh
+year: 5
 ---
 # Julyo Agassi
 ---
 ### Description
-- 4th year Elf Fighter in Fiesn
-- wavy black hair that's hanging down to their back, Blue eyes, and Brown skin
-- Is Just and Immature, and has Finesse as their ideal
+- 5th year Dwarf Sorcerer in Elkenval
+- wavy dark red hair that's braided with blue ribbon (long), Pale Green eyes, and Dark Brown skin
+- Is Stable and Harsh, and has Peace as their ideal
 
 ### Organizations
 ### Relationships
-[[Ungris Riluaneth]]: partymate
-[[Olivus Ondabrar]]: partymate
-[[Kymber Korrigash]]: partymate
+[[Goshwa Khiipaera]]: partymate
+[[Vila Tassarion]]: partymate
+[[Mavrek Aolis]]: partymate
 ### Stats
 ```statblock
 name: Julyo Agassi
-stats: [16, 17, 16, 11, 8, 9]
+stats: [13, 12, 11, 9, 10, 12]
 ```

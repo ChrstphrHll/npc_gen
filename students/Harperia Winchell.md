@@ -1,56 +1,49 @@
 ---
 birthday:
-  numeric: 1/34
-  written: 34th of Avanent
-bond: I will face any challenge to win the approval of my family.
-eyes: Violet Red
-flaw: I'll do anything to win fame and renown.
-guild: Jettenia
-hair: straight auburn hair that's put back in a short pony tail
-ideal: Forgiveness
+  numeric: 7/33
+  written: 33rd of Korent
+bond: The workshop where I learned my trade is the most important place in the world
+  to me.
+eyes: Blue
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+guild: Elkenval
+hair: curly platinum hair that's put back in a long pony tail
+ideal: Involvement
 name: Harperia Winchell
 organizations: []
-partyID: 91
-race: Triton
+partyID: 14
+race: Human
 relationships:
-- name: Velmona Elway
+- name: Wren Urmicca
   type: partymate
-- name: Braidyn Kemetra
-  type: partymate
-- name: Eune Eldratha
-  type: partymate
-- name: Ryan Ebersol
-  type: partymate
-skin: Deep Blue
-spec: Wizard
+skin: Fair
+spec: Barbarian
 stats:
-  cha: 13
-  con: 13
+  cha: 17
+  con: 9
   dex: 13
-  int: 16
-  str: 12
-  wis: 8
-track: Assault
-trait: Sarcasm and insults are my weapons of choice.
-trait1: Imaginative
-trait2: Neglectful
-year: 3
+  int: 13
+  str: 14
+  wis: 11
+track: Protection
+trait: Flattery is my preferred trick for getting what I want.
+trait1: Unfathomable
+trait2: Dishonest
+year: 1
 ---
 # Harperia Winchell
 ---
 ### Description
-- 3rd year Triton Wizard in Jettenia
-- straight auburn hair that's put back in a short pony tail, Violet Red eyes, and Deep Blue skin
-- Is Imaginative and Neglectful, and has Forgiveness as their ideal
+- 1st year Human Barbarian in Elkenval
+- curly platinum hair that's put back in a long pony tail, Blue eyes, and Fair skin
+- Is Unfathomable and Dishonest, and has Involvement as their ideal
 
 ### Organizations
 ### Relationships
-[[Velmona Elway]]: partymate
-[[Braidyn Kemetra]]: partymate
-[[Eune Eldratha]]: partymate
-[[Ryan Ebersol]]: partymate
+[[Wren Urmicca]]: partymate
 ### Stats
 ```statblock
 name: Harperia Winchell
-stats: [12, 13, 13, 16, 8, 13]
+stats: [14, 13, 9, 13, 11, 17]
 ```

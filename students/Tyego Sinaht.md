@@ -1,57 +1,50 @@
 ---
 birthday:
-  numeric: 4/10
-  written: 10th of Moradent
-bond: I'm trying to pay off an old debt I owe to a generous benefactor.
-eyes: Pale Gray
-flaw: I don't take kindly to some of the actions and motivations of the people of
-  this land, because these folk are different from me.
-guild: Burk
-hair: wavy brunette hair that's loose around the shoulders
-ideal: Variety
+  numeric: 7/29
+  written: 29th of Korent
+bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
+eyes: Hazel
+flaw: I'll do anything to win fame and renown.
+guild: Fiesn
+hair: curly platinum hair that's hanging down to their back
+ideal: Power
 name: Tyego Sinaht
 organizations: []
-partyID: 57
-race: Half-Elf
+partyID: 98
+race: Elf
 relationships:
-- name: Taanyth Seeker
+- name: Jess Beebe
   type: partymate
-- name: Jaris Amlaruil
+- name: Halia Dominguez
   type: partymate
-- name: Felgie Eldar
-  type: partymate
-- name: Tisette Bender
-  type: partymate
-skin: Brown
-spec: Ranger
+skin: Light
+spec: Monk
 stats:
-  cha: 10
-  con: 8
-  dex: 14
-  int: 16
-  str: 11
-  wis: 8
-track: Assault
-trait: I like to squeeze into small places where no one else can get to me.
-trait1: Smooth
-trait2: Sordid
-year: 1
+  cha: 12
+  con: 9
+  dex: 13
+  int: 17
+  str: 13
+  wis: 13
+track: Protection
+trait: I bluntly say what other people are hinting at or hiding.
+trait1: Friendly
+trait2: Experimental
+year: 3
 ---
 # Tyego Sinaht
 ---
 ### Description
-- 1st year Half-Elf Ranger in Burk
-- wavy brunette hair that's loose around the shoulders, Pale Gray eyes, and Brown skin
-- Is Smooth and Sordid, and has Variety as their ideal
+- 3rd year Elf Monk in Fiesn
+- curly platinum hair that's hanging down to their back, Hazel eyes, and Light skin
+- Is Friendly and Experimental, and has Power as their ideal
 
 ### Organizations
 ### Relationships
-[[Taanyth Seeker]]: partymate
-[[Jaris Amlaruil]]: partymate
-[[Felgie Eldar]]: partymate
-[[Tisette Bender]]: partymate
+[[Jess Beebe]]: partymate
+[[Halia Dominguez]]: partymate
 ### Stats
 ```statblock
 name: Tyego Sinaht
-stats: [11, 14, 8, 16, 8, 10]
+stats: [13, 13, 9, 17, 13, 12]
 ```

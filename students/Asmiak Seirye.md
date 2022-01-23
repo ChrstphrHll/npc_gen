@@ -1,53 +1,51 @@
 ---
 birthday:
-  numeric: 8/20
-  written: 20th of Ravenent
-bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
-  somewhere.
-eyes: Brown
-flaw: I am secretly (or not so secretly) convinced of the superiority of my own culture
-  over that of this foreign land.
-guild: Burk
-hair: straight black hair that's hanging down to their legs
-ideal: Appreciation
+  numeric: 3/28
+  written: 28th of Melorent
+bond: I will get revenge on the evil forces that destroyed my place of business and
+  ruined my livelihood.
+eyes: Amber
+flaw: I am slow to trust members of other races, tribes, and societies.
+guild: Alderden
+hair: wavy violet hair that's parted to the right
+ideal: Anti-Authority
 name: Asmiak Seirye
 organizations: []
-partyID: 83
-race: Half-Elf
+partyID: 43
+race: Human
 relationships:
-- name: Lanalia Belt
+- name: Kendel Shael
   type: partymate
-- name: Santaegus Etter
+- name: Hessos Adorellan
   type: partymate
-skin: Dark Tan
-spec: Artificer
+skin: Fair
+spec: Paladin
 stats:
-  cha: 12
-  con: 6
-  dex: 11
-  int: 15
-  str: 14
-  wis: 8
+  cha: 14
+  con: 5
+  dex: 13
+  int: 14
+  str: 15
+  wis: 11
 track: Exploration
-trait: No one could doubt by looking at my regal bearing that I am a cut above the
-  unwashed masses.
-trait1: Self-disciplined
-trait2: Amoral
-year: 2
+trait: I face problems head-on. A simple, direct solution is the best path to success.
+trait1: Masculine
+trait2: Impractical
+year: 1
 ---
 # Asmiak Seirye
 ---
 ### Description
-- 2nd year Half-Elf Artificer in Burk
-- straight black hair that's hanging down to their legs, Brown eyes, and Dark Tan skin
-- Is Self-disciplined and Amoral, and has Appreciation as their ideal
+- 1st year Human Paladin in Alderden
+- wavy violet hair that's parted to the right, Amber eyes, and Fair skin
+- Is Masculine and Impractical, and has Anti-Authority as their ideal
 
 ### Organizations
 ### Relationships
-[[Lanalia Belt]]: partymate
-[[Santaegus Etter]]: partymate
+[[Kendel Shael]]: partymate
+[[Hessos Adorellan]]: partymate
 ### Stats
 ```statblock
 name: Asmiak Seirye
-stats: [14, 11, 6, 15, 8, 12]
+stats: [15, 13, 5, 14, 11, 14]
 ```

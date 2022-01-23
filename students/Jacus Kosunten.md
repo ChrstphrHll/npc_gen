@@ -1,52 +1,51 @@
 ---
 birthday:
-  numeric: 2/32
-  written: 32nd of Corelent
-bond: I will get revenge on the evil forces that destroyed my place of business and
-  ruined my livelihood.
-eyes: Pale Blue
-flaw: I pretend not to understand the local language in order to avoid interactions
-  I would rather not have.
-guild: Treskal
-hair: curly blonde hair that's hanging down to their back
-ideal: Entertain
+  numeric: 3/23
+  written: 23rd of Melorent
+bond: I come from a noble family, and one day I'll reclaim my lands and title from
+  those who stole them from me.
+eyes: Green
+flaw: I would kill to acquire a noble title.
+guild: Burk
+hair: wavy platinum hair that's a tousled bed head
+ideal: Strength
 name: Jacus Kosunten
 organizations: []
-partyID: 56
-race: Half-Orc
+partyID: 57
+race: Human
 relationships:
-- name: Yorala Tiatha
+- name: Edyrm Iolas
   type: partymate
-- name: Wren Urmicca
+- name: Shenai Inqoul
   type: partymate
-skin: Pale Gray
-spec: Barbarian
+skin: Brown
+spec: Monk
 stats:
   cha: 13
-  con: 12
-  dex: 11
-  int: 5
-  str: 16
-  wis: 9
-track: Protection
-trait: I'm always polite and respectful.
-trait1: Admirable
-trait2: Charmless
-year: 1
+  con: 13
+  dex: 17
+  int: 17
+  str: 14
+  wis: 11
+track: Exploration
+trait: I always have a plan for what to do when things go wrong.
+trait1: Risk-taking
+trait2: Pure
+year: 2
 ---
 # Jacus Kosunten
 ---
 ### Description
-- 1st year Half-Orc Barbarian in Treskal
-- curly blonde hair that's hanging down to their back, Pale Blue eyes, and Pale Gray skin
-- Is Admirable and Charmless, and has Entertain as their ideal
+- 2nd year Human Monk in Burk
+- wavy platinum hair that's a tousled bed head, Green eyes, and Brown skin
+- Is Risk-taking and Pure, and has Strength as their ideal
 
 ### Organizations
 ### Relationships
-[[Yorala Tiatha]]: partymate
-[[Wren Urmicca]]: partymate
+[[Edyrm Iolas]]: partymate
+[[Shenai Inqoul]]: partymate
 ### Stats
 ```statblock
 name: Jacus Kosunten
-stats: [16, 11, 12, 5, 9, 13]
+stats: [14, 17, 13, 17, 11, 13]
 ```

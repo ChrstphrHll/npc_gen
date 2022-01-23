@@ -1,53 +1,54 @@
 ---
 birthday:
-  numeric: 8/26
-  written: 26th of Ravenent
-bond: My town or city is my home, and I'll fight to defend it.
-eyes: Pale Brown
-flaw: I'll say anything to avoid having to do extra work.
-guild: Jettenia
-hair: straight brunette hair that's braided with green ribbon (long)
-ideal: Balance
+  numeric: 4/8
+  written: 8th of Moradent
+bond: I have an ancient text that holds terrible secrets that must not fall into the
+  wrong hands.
+eyes: Pale Gray
+flaw: I follow orders, even if I think they're wrong.
+guild: Fiesn
+hair: wavy black hair that's pulled to the side and buzzed on the left
+ideal: Redemption
 name: Pinna Vanius
 organizations: []
-partyID: 19
-race: Half-Elf
+partyID: 89
+race: Elf
 relationships:
-- name: Brithmaur Decker
+- name: Delos Ehlark
   type: partymate
-- name: Hartwen Galaeron
+- name: Ryan Ebersol
   type: partymate
-- name: Eliana Saevel
+- name: Kaeli Khiiral
   type: partymate
-skin: Tan
-spec: Druid
+skin: Fair
+spec: Bard
 stats:
   cha: 17
-  con: 13
-  dex: 8
-  int: 5
-  str: 11
-  wis: 16
-track: Exploration
-trait: I hide scraps of food and trinkets away in my pockets.
-trait1: Dominating
-trait2: Uncritical
-year: 3
+  con: 12
+  dex: 12
+  int: 11
+  str: 13
+  wis: 11
+track: Assault
+trait: I have a strong code of honor or sense of propriety that others don't comprehend.
+trait1: Original
+trait2: Impractical
+year: 7
 ---
 # Pinna Vanius
 ---
 ### Description
-- 3rd year Half-Elf Druid in Jettenia
-- straight brunette hair that's braided with green ribbon (long), Pale Brown eyes, and Tan skin
-- Is Dominating and Uncritical, and has Balance as their ideal
+- 7th year Elf Bard in Fiesn
+- wavy black hair that's pulled to the side and buzzed on the left, Pale Gray eyes, and Fair skin
+- Is Original and Impractical, and has Redemption as their ideal
 
 ### Organizations
 ### Relationships
-[[Brithmaur Decker]]: partymate
-[[Hartwen Galaeron]]: partymate
-[[Eliana Saevel]]: partymate
+[[Delos Ehlark]]: partymate
+[[Ryan Ebersol]]: partymate
+[[Kaeli Khiiral]]: partymate
 ### Stats
 ```statblock
 name: Pinna Vanius
-stats: [11, 8, 13, 5, 16, 17]
+stats: [13, 12, 12, 11, 11, 17]
 ```

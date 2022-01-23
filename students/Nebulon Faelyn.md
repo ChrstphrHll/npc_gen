@@ -1,55 +1,49 @@
 ---
 birthday:
-  numeric: 8/14
-  written: 14th of Ravenent
-bond: I sponsor an orphanage to keep others from enduring what I was forced to endure.
-eyes: Brown
-flaw: I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster
-  than I bring them in.
+  numeric: 8/2
+  written: 2nd of Ravenent
+bond: I owe my life to the priest who took me in when my parents died.
+eyes: Amber
+flaw: Gold seems like a lot of money to me, and I'll do just about anything for more
+  of it.
 guild: Treskal
-hair: wavy strawberry blond hair that's braided with pink ribbon (long)
-ideal: Greed
+hair: wavy brunette hair that's loose around the shoulders
+ideal: People
 name: Nebulon Faelyn
 organizations: []
-partyID: 20
-race: Genasi
+partyID: 74
+race: Gnome
 relationships:
-- name: Halya Jian
+- name: Iamus Aneirin
   type: partymate
-- name: Iasono Ynshael
-  type: partymate
-- name: Jofan Elignoir
-  type: partymate
-skin: water
-spec: Artificer
+skin: Pale
+spec: Ranger
 stats:
-  cha: 12
-  con: 12
-  dex: 13
-  int: 16
-  str: 9
-  wis: 13
-track: Diplomacy
-trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
-  living grates on me.
-trait1: Farsighted
-trait2: Irascible
+  cha: 14
+  con: 9
+  dex: 15
+  int: 12
+  str: 14
+  wis: 14
+track: Assault
+trait: I've read every book in the world's greatest libraries - or I like to boast
+  that I have.
+trait1: Impassive
+trait2: Contradictory
 year: 1
 ---
 # Nebulon Faelyn
 ---
 ### Description
-- 1st year Genasi Artificer in Treskal
-- wavy strawberry blond hair that's braided with pink ribbon (long), Brown eyes, and water skin
-- Is Farsighted and Irascible, and has Greed as their ideal
+- 1st year Gnome Ranger in Treskal
+- wavy brunette hair that's loose around the shoulders, Amber eyes, and Pale skin
+- Is Impassive and Contradictory, and has People as their ideal
 
 ### Organizations
 ### Relationships
-[[Halya Jian]]: partymate
-[[Iasono Ynshael]]: partymate
-[[Jofan Elignoir]]: partymate
+[[Iamus Aneirin]]: partymate
 ### Stats
 ```statblock
 name: Nebulon Faelyn
-stats: [9, 13, 12, 16, 13, 12]
+stats: [14, 15, 9, 12, 14, 14]
 ```

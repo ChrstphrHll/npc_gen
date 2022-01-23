@@ -1,50 +1,53 @@
 ---
 birthday:
-  numeric: 5/2
-  written: 2nd of Iounent
-bond: I idolize a hero of the old tales and measure my deeds against that person's.
-eyes: Red
-flaw: I speak without really thinking through my words, invariably insulting others.
-guild: Burk
-hair: wavy brunette hair that's put back in a long pony tail
-ideal: Greed
+  numeric: 2/2
+  written: 2nd of Corelent
+bond: I've been searching my whole life for the answer to a certain question.
+eyes: Pale Brown
+flaw: I'm never satisfied with what I have- I always want more.
+guild: Elkenval
+hair: wavy auburn hair that's pulled to the side and buzzed on the left
+ideal: Enjoyment
 name: Dylan Usunaar
 organizations: []
-partyID: 85
-race: Tiefling
+partyID: 20
+race: Half-Orc
 relationships:
-- name: Delsenora Strohm
+- name: Delila Felaern
   type: partymate
-- name: Whit Remington
+- name: Aurikallos Biafyndar
   type: partymate
-skin: Orange
-spec: Barbarian
+- name: Grace Festus
+  type: partymate
+skin: Deep Green
+spec: Rouge
 stats:
-  cha: 13
-  con: 11
-  dex: 10
-  int: 14
-  str: 16
-  wis: 10
-track: Protection
-trait: I feel far more comfortable around animals than people.
-trait1: Challenging
-trait2: Scruffy
-year: 7
+  cha: 8
+  con: 10
+  dex: 14
+  int: 11
+  str: 15
+  wis: 12
+track: Diplomacy
+trait: I use polysyllabic words that convey the impression of great erudition.
+trait1: Focused
+trait2: Naughty
+year: 5
 ---
 # Dylan Usunaar
 ---
 ### Description
-- 7th year Tiefling Barbarian in Burk
-- wavy brunette hair that's put back in a long pony tail, Red eyes, and Orange skin
-- Is Challenging and Scruffy, and has Greed as their ideal
+- 5th year Half-Orc Rouge in Elkenval
+- wavy auburn hair that's pulled to the side and buzzed on the left, Pale Brown eyes, and Deep Green skin
+- Is Focused and Naughty, and has Enjoyment as their ideal
 
 ### Organizations
 ### Relationships
-[[Delsenora Strohm]]: partymate
-[[Whit Remington]]: partymate
+[[Delila Felaern]]: partymate
+[[Aurikallos Biafyndar]]: partymate
+[[Grace Festus]]: partymate
 ### Stats
 ```statblock
 name: Dylan Usunaar
-stats: [16, 10, 11, 14, 10, 13]
+stats: [15, 14, 10, 11, 12, 8]
 ```

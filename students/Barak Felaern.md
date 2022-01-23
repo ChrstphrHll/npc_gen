@@ -1,51 +1,51 @@
 ---
 birthday:
-  numeric: 3/23
-  written: 23rd of Melorent
-bond: I protect those who cannot protect themselves.
-eyes: Green
-flaw: Violence is my answer to almost any challenge.
-guild: Burk
-hair: curly pink hair that's kept back by a turquoise headband
-ideal: Teamwork
+  numeric: 6/19
+  written: 19th of Pelent
+bond: My instrument is my most treasured possession, and it reminds me of someone
+  I love.
+eyes: Pale Green
+flaw: I'd rather kill someone in their sleep then fight fair.
+guild: Fiesn
+hair: striped
+ideal: Order
 name: Barak Felaern
 organizations: []
-partyID: 71
-race: Triton
+partyID: 27
+race: Kenku
 relationships:
-- name: Pynelope Valhein
-  type: partymate
 - name: Terek Nushala
   type: partymate
-skin: Sea Green
-spec: Paladin
+- name: Scarletta Elora
+  type: partymate
+skin: Dark Blue
+spec: Monk
 stats:
-  cha: 14
-  con: 12
-  dex: 14
-  int: 11
-  str: 16
-  wis: 13
+  cha: 8
+  con: 9
+  dex: 12
+  int: 9
+  str: 12
+  wis: 11
 track: Protection
-trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
-  accommodations.
-trait1: Risk-taking
-trait2: Hot-tempered
+trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
+trait1: Playful
+trait2: Noncommittal
 year: 2
 ---
 # Barak Felaern
 ---
 ### Description
-- 2nd year Triton Paladin in Burk
-- curly pink hair that's kept back by a turquoise headband, Green eyes, and Sea Green skin
-- Is Risk-taking and Hot-tempered, and has Teamwork as their ideal
+- 2nd year Kenku Monk in Fiesn
+- striped, Pale Green eyes, and Dark Blue skin
+- Is Playful and Noncommittal, and has Order as their ideal
 
 ### Organizations
 ### Relationships
-[[Pynelope Valhein]]: partymate
 [[Terek Nushala]]: partymate
+[[Scarletta Elora]]: partymate
 ### Stats
 ```statblock
 name: Barak Felaern
-stats: [16, 14, 12, 11, 13, 14]
+stats: [12, 12, 9, 9, 11, 8]
 ```

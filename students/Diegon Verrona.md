@@ -1,55 +1,55 @@
 ---
 birthday:
-  numeric: 2/9
-  written: 9th of Corelent
-bond: The workshop where I learned my trade is the most important place in the world
-  to me.
-eyes: Pale Green
-flaw: I too often hear veiled insults and threats in every word addressed to me, and
-  I'm quick to anger.
+  numeric: 5/2
+  written: 2nd of Iounent
+bond: I will get revenge on the evil forces that destroyed my place of business and
+  ruined my livelihood.
+eyes: Blue
+flaw: I remember every insult I've received and nurse a silent resentment toward anyone
+  who's ever wronged me.
 guild: Elkenval
-hair: wavy platinum hair that's braided with turquoise ribbon (long)
-ideal: Harmony
+hair: frills
+ideal: Loyalty
 name: Diegon Verrona
 organizations: []
-partyID: 58
-race: Gnome
+partyID: 90
+race: Dragonborn
 relationships:
-- name: Wulfe Fulcrux
+- name: Adresin Ilbryn
   type: partymate
-- name: Scarlotta Inqoul
+- name: Kayla Kaminsky
   type: partymate
-- name: Lyonus Ioelena
+- name: Holys Hachaam
   type: partymate
-skin: Light
-spec: Druid
+skin: bronze
+spec: Rouge
 stats:
-  cha: 12
-  con: 7
-  dex: 15
-  int: 14
-  str: 14
-  wis: 15
-track: Exploration
-trait: I'm rude to people who lack my commitment to hard work and fair play.
-trait1: Directed
-trait2: Domineering
+  cha: 10
+  con: 10
+  dex: 16
+  int: 13
+  str: 12
+  wis: 16
+track: Diplomacy
+trait: My friends know they can rely on me, no matter what.
+trait1: Trustworthy
+trait2: Weak
 year: 1
 ---
 # Diegon Verrona
 ---
 ### Description
-- 1st year Gnome Druid in Elkenval
-- wavy platinum hair that's braided with turquoise ribbon (long), Pale Green eyes, and Light skin
-- Is Directed and Domineering, and has Harmony as their ideal
+- 1st year Dragonborn Rouge in Elkenval
+- frills, Blue eyes, and bronze skin
+- Is Trustworthy and Weak, and has Loyalty as their ideal
 
 ### Organizations
 ### Relationships
-[[Wulfe Fulcrux]]: partymate
-[[Scarlotta Inqoul]]: partymate
-[[Lyonus Ioelena]]: partymate
+[[Adresin Ilbryn]]: partymate
+[[Kayla Kaminsky]]: partymate
+[[Holys Hachaam]]: partymate
 ### Stats
 ```statblock
 name: Diegon Verrona
-stats: [14, 15, 7, 14, 15, 12]
+stats: [12, 16, 10, 13, 16, 10]
 ```

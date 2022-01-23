@@ -1,53 +1,54 @@
 ---
 birthday:
-  numeric: 7/28
-  written: 28th of Korent
-bond: I will face any challenge to win the approval of my family.
-eyes: Pale Brown
-flaw: I can't resist swindling people who are more powerful than me.
-guild: Treskal
-hair: straight black hair that's parted to the left
-ideal: Adventure
+  numeric: 7/27
+  written: 27th of Korent
+bond: I'm trying to pay off an old debt I owe to a generous benefactor.
+eyes: Brown
+flaw: A scandal prevents me from ever going home again. That kind of trouble seems
+  to follow me around.
+guild: Burk
+hair: straight strawberry blond hair that's parted to the left
+ideal: Change
 name: Helera Urkensvall
 organizations: []
-partyID: 69
-race: Elf
+partyID: 9
+race: Halfling
 relationships:
-- name: Leonus Triktappic
+- name: Aelisabeth Soliania
   type: partymate
-- name: Tommos Morgan
+- name: Elia Veluthil
   type: partymate
-- name: Avaery Klaern
+- name: Rotheloe Samblar
   type: partymate
-skin: Dark Brown
-spec: Rouge
+skin: Brown
+spec: Barbarian
 stats:
-  cha: 5
-  con: 14
-  dex: 15
-  int: 13
-  str: 15
-  wis: 11
+  cha: 17
+  con: 16
+  dex: 9
+  int: 11
+  str: 16
+  wis: 15
 track: Exploration
-trait: I connect everything that happens to me to a grand, cosmic plan.
-trait1: Breezy
-trait2: Petty
-year: 1
+trait: I love a good insult, even one directed at me.
+trait1: Sociable
+trait2: Cantankerous
+year: 3
 ---
 # Helera Urkensvall
 ---
 ### Description
-- 1st year Elf Rouge in Treskal
-- straight black hair that's parted to the left, Pale Brown eyes, and Dark Brown skin
-- Is Breezy and Petty, and has Adventure as their ideal
+- 3rd year Halfling Barbarian in Burk
+- straight strawberry blond hair that's parted to the left, Brown eyes, and Brown skin
+- Is Sociable and Cantankerous, and has Change as their ideal
 
 ### Organizations
 ### Relationships
-[[Leonus Triktappic]]: partymate
-[[Tommos Morgan]]: partymate
-[[Avaery Klaern]]: partymate
+[[Aelisabeth Soliania]]: partymate
+[[Elia Veluthil]]: partymate
+[[Rotheloe Samblar]]: partymate
 ### Stats
 ```statblock
 name: Helera Urkensvall
-stats: [15, 15, 14, 13, 11, 5]
+stats: [16, 9, 16, 11, 15, 17]
 ```

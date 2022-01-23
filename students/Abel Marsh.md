@@ -1,54 +1,50 @@
 ---
 birthday:
-  numeric: 4/10
-  written: 10th of Moradent
-bond: I've been searching my whole life for the answer to a certain question.
-eyes: Yellow
-flaw: I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster
-  than I bring them in.
-guild: Burk
-hair: wavy auburn hair that's geled back
-ideal: Malice
+  numeric: 4/19
+  written: 19th of Moradent
+bond: It is my duty to protect my students.
+eyes: Amber
+flaw: I follow orders, even if I think they're wrong.
+guild: Fiesn
+hair: smooth copper guilded with silver
+ideal: Wealth
 name: Abel Marsh
 organizations: []
-partyID: 42
-race: Genasi
+partyID: 48
+race: Warforged
 relationships:
-- name: Faliah Oluevaera
+- name: Uxwy Lazziar
   type: partymate
-- name: Tylor Llewellenar
+- name: Leonus Triktappic
   type: partymate
-- name: Elia Veluthil
-  type: partymate
-skin: fire
-spec: Bard
+skin: silver
+spec: Paladin
 stats:
   cha: 15
   con: 12
-  dex: 13
-  int: 13
-  str: 13
-  wis: 15
-track: Diplomacy
-trait: I eat like a pig and have bad manners.
-trait1: Intrepid
-trait2: Obvious
-year: 7
+  dex: 10
+  int: 14
+  str: 15
+  wis: 11
+track: Exploration
+trait: I can stare down a hell hound without flinching.
+trait1: Equitable
+trait2: Hesitant
+year: 5
 ---
 # Abel Marsh
 ---
 ### Description
-- 7th year Genasi Bard in Burk
-- wavy auburn hair that's geled back, Yellow eyes, and fire skin
-- Is Intrepid and Obvious, and has Malice as their ideal
+- 5th year Warforged Paladin in Fiesn
+- smooth copper guilded with silver, Amber eyes, and silver skin
+- Is Equitable and Hesitant, and has Wealth as their ideal
 
 ### Organizations
 ### Relationships
-[[Faliah Oluevaera]]: partymate
-[[Tylor Llewellenar]]: partymate
-[[Elia Veluthil]]: partymate
+[[Uxwy Lazziar]]: partymate
+[[Leonus Triktappic]]: partymate
 ### Stats
 ```statblock
 name: Abel Marsh
-stats: [13, 13, 12, 13, 15, 15]
+stats: [15, 10, 12, 14, 11, 15]
 ```

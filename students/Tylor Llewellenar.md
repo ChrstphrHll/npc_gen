@@ -1,56 +1,51 @@
 ---
 birthday:
-  numeric: 6/26
-  written: 26th of Pelent
-bond: One day I will return to my guild and prove that I am the greatest artisan of
-  them all.
-eyes: Green
-flaw: I am slow to trust members of other races, tribes, and societies.
-guild: Burk
-hair: curly black hair that's loose around the shoulders
-ideal: Openness
+  numeric: 8/20
+  written: 20th of Ravenent
+bond: The common folk must see me as a hero of the people.
+eyes: Pale Gray
+flaw: I'm quick to assume that someone is trying to cheat me.
+guild: Fiesn
+hair: smooth brass guilded with garnet
+ideal: Abundance
 name: Tylor Llewellenar
 organizations: []
 partyID: 42
-race: Half-Elf
+race: Warforged
 relationships:
-- name: Faliah Oluevaera
+- name: Brannos Bellas
   type: partymate
-- name: Elia Veluthil
+- name: Ragnar Illitran
   type: partymate
-- name: Abel Marsh
-  type: partymate
-skin: Light Tan
-spec: Rouge
+skin: gold
+spec: Sorcerer
 stats:
-  cha: 12
-  con: 12
-  dex: 16
-  int: 13
-  str: 14
-  wis: 6
+  cha: 13
+  con: 9
+  dex: 11
+  int: 8
+  str: 11
+  wis: 13
 track: Assault
-trait: I have different assumptions from those around me concerning personal space,
-  blithely invading others' space in innocence, or reacting to ignorant invasion of
-  my own.
-trait1: Prudent
-trait2: Nagging
-year: 7
+trait: My eloquent flattery makes everyone I talk to feel like the most wonderful
+  and important person in the world.
+trait1: Disciplined
+trait2: Naive
+year: 6
 ---
 # Tylor Llewellenar
 ---
 ### Description
-- 7th year Half-Elf Rouge in Burk
-- curly black hair that's loose around the shoulders, Green eyes, and Light Tan skin
-- Is Prudent and Nagging, and has Openness as their ideal
+- 6th year Warforged Sorcerer in Fiesn
+- smooth brass guilded with garnet, Pale Gray eyes, and gold skin
+- Is Disciplined and Naive, and has Abundance as their ideal
 
 ### Organizations
 ### Relationships
-[[Faliah Oluevaera]]: partymate
-[[Elia Veluthil]]: partymate
-[[Abel Marsh]]: partymate
+[[Brannos Bellas]]: partymate
+[[Ragnar Illitran]]: partymate
 ### Stats
 ```statblock
 name: Tylor Llewellenar
-stats: [14, 16, 12, 13, 6, 12]
+stats: [11, 11, 9, 8, 13, 13]
 ```

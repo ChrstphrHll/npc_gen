@@ -1,54 +1,56 @@
 ---
 birthday:
-  numeric: 6/5
-  written: 5th of Pelent
-bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
-  eludes me.
-eyes: Pale Brown
-flaw: I would kill to acquire a noble title.
-guild: Fiesn
-hair: straight brunette hair that's loose around the shoulders
-ideal: Family
+  numeric: 4/10
+  written: 10th of Moradent
+bond: Nothing is more important than the other members of my hermitage, order, or
+  association.
+eyes: Red
+flaw: I don't take kindly to some of the actions and motivations of the people of
+  this land, because these folk are different from me.
+guild: Treskal
+hair: short spines
+ideal: Caring
 name: Angel Nushala
 organizations: []
-partyID: 18
-race: Elf
+partyID: 17
+race: Dragonborn
 relationships:
-- name: Ragnar Illitran
+- name: Leah Faelar
   type: partymate
-- name: Everen Malfoy
+- name: Branus Shadegrove
   type: partymate
-- name: Jasjen Nlossae
+- name: Tilo Connak
   type: partymate
-skin: Tan
-spec: Druid
+skin: brass
+spec: Artificer
 stats:
   cha: 10
-  con: 12
-  dex: 13
-  int: 13
-  str: 15
-  wis: 14
+  con: 13
+  dex: 6
+  int: 16
+  str: 9
+  wis: 8
 track: Diplomacy
-trait: I fall in and out of love easily, and am always pursuing someone.
-trait1: Persuasive
-trait2: Whimsical
-year: 2
+trait: I have a strong sense of fair play and always try to find the most equitable
+  solution to arguments.
+trait1: Self-conscious
+trait2: Anxious
+year: 1
 ---
 # Angel Nushala
 ---
 ### Description
-- 2nd year Elf Druid in Fiesn
-- straight brunette hair that's loose around the shoulders, Pale Brown eyes, and Tan skin
-- Is Persuasive and Whimsical, and has Family as their ideal
+- 1st year Dragonborn Artificer in Treskal
+- short spines, Red eyes, and brass skin
+- Is Self-conscious and Anxious, and has Caring as their ideal
 
 ### Organizations
 ### Relationships
-[[Ragnar Illitran]]: partymate
-[[Everen Malfoy]]: partymate
-[[Jasjen Nlossae]]: partymate
+[[Leah Faelar]]: partymate
+[[Branus Shadegrove]]: partymate
+[[Tilo Connak]]: partymate
 ### Stats
 ```statblock
 name: Angel Nushala
-stats: [15, 13, 12, 13, 14, 10]
+stats: [9, 6, 13, 16, 8, 10]
 ```

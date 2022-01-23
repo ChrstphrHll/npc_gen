@@ -1,51 +1,52 @@
 ---
 birthday:
-  numeric: 4/17
-  written: 17th of Moradent
-bond: I'm trying to pay off an old debt I owe to a generous benefactor.
-eyes: Pale Brown
-flaw: If I'm outnumbered, I will run away from a fight.
-guild: Alderden
-hair: smooth bronze guilded with copper
-ideal: Order
+  numeric: 1/18
+  written: 18th of Avanent
+bond: I fleeced the wrong person and must work to ensure that this individual never
+  crosses paths with me or those I care about.
+eyes: Amber
+flaw: By my words and actions, I often bring shame to my family.By my words and actions,
+  I often bring shame to my family.
+guild: Fiesn
+hair: wavy red hair that's loose around the shoulders
+ideal: Connection
 name: Liris Bhyrindaar
 organizations: []
-partyID: 2
-race: Warforged
+partyID: 54
+race: Goliath
 relationships:
-- name: Gormoth Shyrrik
+- name: Caeleb Embrae
   type: partymate
-- name: Alexandyr Aulauthar
+- name: Eva Reluvethel
   type: partymate
-skin: bronze
-spec: Wizard
+skin: Dark Brown
+spec: Paladin
 stats:
-  cha: 15
-  con: 6
-  dex: 12
-  int: 14
-  str: 13
-  wis: 12
-track: Assault
-trait: I'm used to helping out those who aren't as smart as I am, and I patiently
-  explain anything and everything to others.
-trait1: Neat
-trait2: Silly
-year: 3
+  cha: 12
+  con: 13
+  dex: 14
+  int: 8
+  str: 17
+  wis: 13
+track: Protection
+trait: I've lost too many friends, and I'm slow to make new ones.
+trait1: Emotional
+trait2: Troublesome
+year: 2
 ---
 # Liris Bhyrindaar
 ---
 ### Description
-- 3rd year Warforged Wizard in Alderden
-- smooth bronze guilded with copper, Pale Brown eyes, and bronze skin
-- Is Neat and Silly, and has Order as their ideal
+- 2nd year Goliath Paladin in Fiesn
+- wavy red hair that's loose around the shoulders, Amber eyes, and Dark Brown skin
+- Is Emotional and Troublesome, and has Connection as their ideal
 
 ### Organizations
 ### Relationships
-[[Gormoth Shyrrik]]: partymate
-[[Alexandyr Aulauthar]]: partymate
+[[Caeleb Embrae]]: partymate
+[[Eva Reluvethel]]: partymate
 ### Stats
 ```statblock
 name: Liris Bhyrindaar
-stats: [13, 12, 6, 14, 12, 15]
+stats: [17, 14, 13, 8, 13, 12]
 ```

@@ -1,50 +1,54 @@
 ---
 birthday:
-  numeric: 8/3
-  written: 3rd of Ravenent
-bond: My honor is my life.
+  numeric: 8/2
+  written: 2nd of Ravenent
+bond: I was cheated out of my fair share of the profits, and I want to get my due.
 eyes: Pale Brown
-flaw: I'll do anything to win fame and renown.
+flaw: Unlocking an ancient mystery is worth the price of a civilization.
 guild: Treskal
-hair: wavy dirty blonde hair that's parted to the side, slightly obscuring an eye
-ideal: Change
+hair: straight auburn hair that's parted to the side, slightly obscuring an eye
+ideal: Charity
 name: Branus Shadegrove
 organizations: []
-partyID: 75
-race: Human
+partyID: 17
+race: Gnome
 relationships:
-- name: Robbos Kalaerede
+- name: Leah Faelar
   type: partymate
-- name: Romen Uldreiyn
+- name: Tilo Connak
   type: partymate
-skin: Light
-spec: Rouge
+- name: Angel Nushala
+  type: partymate
+skin: Light Tan
+spec: Barbarian
 stats:
   cha: 10
-  con: 9
+  con: 12
   dex: 14
-  int: 11
-  str: 13
+  int: 10
+  str: 15
   wis: 11
 track: Diplomacy
-trait: I face problems head-on. A simple, direct solution is the best path to success.
-trait1: Tasteful
-trait2: Approval-seeking
-year: 3
+trait: I am always calm, no matter what the situation. I never raise my voice or let
+  emotions control me.
+trait1: Sophisticated
+trait2: Vague
+year: 1
 ---
 # Branus Shadegrove
 ---
 ### Description
-- 3rd year Human Rouge in Treskal
-- wavy dirty blonde hair that's parted to the side, slightly obscuring an eye, Pale Brown eyes, and Light skin
-- Is Tasteful and Approval-seeking, and has Change as their ideal
+- 1st year Gnome Barbarian in Treskal
+- straight auburn hair that's parted to the side, slightly obscuring an eye, Pale Brown eyes, and Light Tan skin
+- Is Sophisticated and Vague, and has Charity as their ideal
 
 ### Organizations
 ### Relationships
-[[Robbos Kalaerede]]: partymate
-[[Romen Uldreiyn]]: partymate
+[[Leah Faelar]]: partymate
+[[Tilo Connak]]: partymate
+[[Angel Nushala]]: partymate
 ### Stats
 ```statblock
 name: Branus Shadegrove
-stats: [13, 14, 9, 11, 11, 10]
+stats: [15, 14, 12, 10, 11, 10]
 ```

@@ -1,58 +1,50 @@
 ---
 birthday:
-  numeric: 1/27
-  written: 27th of Avanent
-bond: I escaped my life of poverty by robbing an important person, and I'm wanted
-  for it.
-eyes: Orange
-flaw: I once satirized a noble who still wants my head. It was a mistake that I will
-  likely repeat.
-guild: Burk
-hair: curly red hair that's put back in a long pony tail
-ideal: Honesty
+  numeric: 1/11
+  written: 11th of Avanent
+bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
+eyes: Aqua
+flaw: I'm never satisfied with what I have- I always want more.
+guild: Fiesn
+hair: many straight horns
+ideal: Wellness
 name: Iaen Dannyd
 organizations: []
-partyID: 55
-race: Tiefling
+partyID: 61
+race: Dragonborn
 relationships:
-- name: Allisa Iahalae
+- name: Everen Malfoy
   type: partymate
-- name: Roman Erolith
+- name: Taewen Llamryl
   type: partymate
-- name: Kanoi Xharlion
-  type: partymate
-- name: Nicholus Morthil
-  type: partymate
-skin: Pale Yellow
-spec: Bard
+skin: copper
+spec: Rouge
 stats:
-  cha: 12
+  cha: 14
   con: 9
-  dex: 11
+  dex: 14
   int: 9
   str: 12
-  wis: 5
+  wis: 8
 track: Protection
-trait: I ask a lot of questions.
-trait1: Felicific
-trait2: Reserved
-year: 3
+trait: Flattery is my preferred trick for getting what I want.
+trait1: Trusting
+trait2: Determined
+year: 2
 ---
 # Iaen Dannyd
 ---
 ### Description
-- 3rd year Tiefling Bard in Burk
-- curly red hair that's put back in a long pony tail, Orange eyes, and Pale Yellow skin
-- Is Felicific and Reserved, and has Honesty as their ideal
+- 2nd year Dragonborn Rouge in Fiesn
+- many straight horns, Aqua eyes, and copper skin
+- Is Trusting and Determined, and has Wellness as their ideal
 
 ### Organizations
 ### Relationships
-[[Allisa Iahalae]]: partymate
-[[Roman Erolith]]: partymate
-[[Kanoi Xharlion]]: partymate
-[[Nicholus Morthil]]: partymate
+[[Everen Malfoy]]: partymate
+[[Taewen Llamryl]]: partymate
 ### Stats
 ```statblock
 name: Iaen Dannyd
-stats: [12, 11, 9, 9, 5, 12]
+stats: [12, 14, 9, 9, 8, 14]
 ```

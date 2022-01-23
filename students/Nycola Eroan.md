@@ -1,51 +1,53 @@
 ---
 birthday:
-  numeric: 6/9
-  written: 9th of Pelent
-bond: My isolation gave me great insight into a great evil that only I can destroy.
-eyes: Spring Green
-flaw: In fact, the world does revolve around me.
-guild: Treskal
-hair: wavy black hair that's braided with violet ribbon (long)
-ideal: Adventure
+  numeric: 6/32
+  written: 32nd of Pelent
+bond: One day I will return to my guild and prove that I am the greatest artisan of
+  them all.
+eyes: Sea Green
+flaw: It's not stealing if I need it more than someone else.
+guild: Elkenval
+hair: long spines
+ideal: Creativity
 name: Nycola Eroan
 organizations: []
-partyID: 60
-race: Genasi
+partyID: 77
+race: Dragonborn
 relationships:
-- name: Edyrm Iolas
+- name: Aniari Arlayna
   type: partymate
-- name: Saccaros Anaharae
+- name: Eliana Saevel
   type: partymate
-skin: air
-spec: Fighter
+skin: copper
+spec: Bard
 stats:
-  cha: 12
-  con: 12
-  dex: 12
-  int: 8
-  str: 15
-  wis: 13
+  cha: 18
+  con: 9
+  dex: 17
+  int: 14
+  str: 12
+  wis: 17
 track: Protection
-trait: I'm full of inspiring and cautionary tales from my military experience relevant
-  to almost every combat situation.
-trait1: Disciplined
-trait2: Disturbing
+trait: I have different assumptions from those around me concerning personal space,
+  blithely invading others' space in innocence, or reacting to ignorant invasion of
+  my own.
+trait1: Frank
+trait2: Cruel
 year: 1
 ---
 # Nycola Eroan
 ---
 ### Description
-- 1st year Genasi Fighter in Treskal
-- wavy black hair that's braided with violet ribbon (long), Spring Green eyes, and air skin
-- Is Disciplined and Disturbing, and has Adventure as their ideal
+- 1st year Dragonborn Bard in Elkenval
+- long spines, Sea Green eyes, and copper skin
+- Is Frank and Cruel, and has Creativity as their ideal
 
 ### Organizations
 ### Relationships
-[[Edyrm Iolas]]: partymate
-[[Saccaros Anaharae]]: partymate
+[[Aniari Arlayna]]: partymate
+[[Eliana Saevel]]: partymate
 ### Stats
 ```statblock
 name: Nycola Eroan
-stats: [15, 12, 12, 8, 13, 12]
+stats: [12, 17, 9, 14, 17, 18]
 ```

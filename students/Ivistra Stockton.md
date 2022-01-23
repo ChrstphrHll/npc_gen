@@ -1,54 +1,57 @@
 ---
 birthday:
-  numeric: 4/18
-  written: 18th of Moradent
-bond: I swindled and ruined a person who didn't deserve it. I seek to atone for my
-  misdeeds but might never be able to forgive myself.
-eyes: Red
-flaw: I would kill to acquire a noble title.
-guild: Treskal
-hair: short spines
-ideal: Wellness
+  numeric: 1/25
+  written: 25th of Avanent
+bond: My instrument is my most treasured possession, and it reminds me of someone
+  I love.
+eyes: Blue
+flaw: My pride will probably lead to my destruction.
+guild: Jettenia
+hair: wavy grey hair that's put back in a long pony tail
+ideal: Exceptionalism
 name: Ivistra Stockton
 organizations: []
-partyID: 66
-race: Dragonborn
+partyID: 35
+race: Tiefling
 relationships:
-- name: Turi Chandrelle
+- name: Matos Mektal
   type: partymate
-- name: Theriss Deularla
+- name: Adros Tolthe
   type: partymate
-- name: Marl Ahrendaaria
+- name: Selina Ochyllyss
   type: partymate
-skin: red
-spec: Monk
+- name: Yorala Tiatha
+  type: partymate
+skin: Pale Yellow
+spec: Wizard
 stats:
-  cha: 10
-  con: 14
-  dex: 16
-  int: 13
-  str: 16
-  wis: 13
-track: Protection
-trait: I fall in and out of love easily, and am always pursuing someone.
-trait1: Practical
-trait2: Grumpy
-year: 4
+  cha: 8
+  con: 15
+  dex: 14
+  int: 18
+  str: 14
+  wis: 10
+track: Diplomacy
+trait: There's nothing I like more than a good mystery.
+trait1: Mellow
+trait2: Single-minded
+year: 5
 ---
 # Ivistra Stockton
 ---
 ### Description
-- 4th year Dragonborn Monk in Treskal
-- short spines, Red eyes, and red skin
-- Is Practical and Grumpy, and has Wellness as their ideal
+- 5th year Tiefling Wizard in Jettenia
+- wavy grey hair that's put back in a long pony tail, Blue eyes, and Pale Yellow skin
+- Is Mellow and Single-minded, and has Exceptionalism as their ideal
 
 ### Organizations
 ### Relationships
-[[Turi Chandrelle]]: partymate
-[[Theriss Deularla]]: partymate
-[[Marl Ahrendaaria]]: partymate
+[[Matos Mektal]]: partymate
+[[Adros Tolthe]]: partymate
+[[Selina Ochyllyss]]: partymate
+[[Yorala Tiatha]]: partymate
 ### Stats
 ```statblock
 name: Ivistra Stockton
-stats: [16, 16, 14, 13, 13, 10]
+stats: [14, 14, 15, 18, 10, 8]
 ```

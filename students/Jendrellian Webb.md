@@ -1,53 +1,50 @@
 ---
 birthday:
-  numeric: 4/19
-  written: 19th of Moradent
-bond: I would still lay down my life for the people I served with.
-eyes: Pale Brown
-flaw: I am too enamored of ale, wine, and other intoxicants.
-guild: Burk
-hair: straight lighter blonde hair that's braided with turquoise ribbon (med)
-ideal: Nature
+  numeric: 2/22
+  written: 22nd of Corelent
+bond: I'm loyal to my captain first, everything else second.
+eyes: Green
+flaw: I would kill to acquire a noble title.
+guild: Elkenval
+hair: wavy lighter blonde hair that's hanging down to their legs
+ideal: Goodness
 name: Jendrellian Webb
 organizations: []
-partyID: 45
+partyID: 64
 race: Dwarf
 relationships:
-- name: Aelisabeth Soliania
+- name: Nathan Laeroth
   type: partymate
-- name: Rivik Connak
+- name: Pike Tethir
   type: partymate
-- name: Eva Reluvethel
-  type: partymate
-skin: Light
-spec: Wizard
+skin: Brown
+spec: Barbarian
 stats:
-  cha: 10
+  cha: 11
   con: 11
-  dex: 11
-  int: 14
-  str: 12
-  wis: 10
-track: Exploration
-trait: Whenever I come to a new place, I collect local rumors and spread gossip.
-trait1: Sweet
-trait2: Zany
-year: 4
+  dex: 7
+  int: 7
+  str: 13
+  wis: 15
+track: Assault
+trait: I'm a hopeless romantic, always searching for that "special someone."
+trait1: Plain
+trait2: Competitive
+year: 1
 ---
 # Jendrellian Webb
 ---
 ### Description
-- 4th year Dwarf Wizard in Burk
-- straight lighter blonde hair that's braided with turquoise ribbon (med), Pale Brown eyes, and Light skin
-- Is Sweet and Zany, and has Nature as their ideal
+- 1st year Dwarf Barbarian in Elkenval
+- wavy lighter blonde hair that's hanging down to their legs, Green eyes, and Brown skin
+- Is Plain and Competitive, and has Goodness as their ideal
 
 ### Organizations
 ### Relationships
-[[Aelisabeth Soliania]]: partymate
-[[Rivik Connak]]: partymate
-[[Eva Reluvethel]]: partymate
+[[Nathan Laeroth]]: partymate
+[[Pike Tethir]]: partymate
 ### Stats
 ```statblock
 name: Jendrellian Webb
-stats: [12, 11, 11, 14, 10, 10]
+stats: [13, 7, 11, 7, 15, 11]
 ```

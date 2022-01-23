@@ -1,54 +1,53 @@
 ---
 birthday:
-  numeric: 4/7
-  written: 7th of Moradent
-bond: I escaped my life of poverty by robbing an important person, and I'm wanted
-  for it.
-eyes: Pale Green
-flaw: I'll do anything to win fame and renown.
-guild: Burk
-hair: wavy brunette hair that's put back in a short pony tail
-ideal: Family
+  numeric: 7/1
+  written: 1st of Korent
+bond: I wish my childhood sweetheart had come with me to pursue my destiny.
+eyes: Amber
+flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
+guild: Treskal
+hair: curly auburn hair that's put back in a long pony tail
+ideal: Creativity
 name: Lenn Schimae
 organizations: []
-partyID: 22
-race: Firbolg
+partyID: 46
+race: Human
 relationships:
-- name: Hessos Adorellan
+- name: Robett Grell
   type: partymate
-- name: Valia Esyae
+- name: Savanna Ildilyntra
   type: partymate
-- name: Lynx Galather
+- name: Gifre Edyrm
   type: partymate
-skin: Pale Blue
-spec: Ranger
+skin: Dark Tan
+spec: Barbarian
 stats:
-  cha: 14
-  con: 12
-  dex: 18
-  int: 12
-  str: 11
-  wis: 10
-track: Diplomacy
-trait: I'll settle for nothing less than perfection.
-trait1: Invulnerable
-trait2: Contradictory
-year: 7
+  cha: 13
+  con: 14
+  dex: 8
+  int: 14
+  str: 14
+  wis: 7
+track: Assault
+trait: I ask a lot of questions.
+trait1: Inventive
+trait2: Ignorant
+year: 6
 ---
 # Lenn Schimae
 ---
 ### Description
-- 7th year Firbolg Ranger in Burk
-- wavy brunette hair that's put back in a short pony tail, Pale Green eyes, and Pale Blue skin
-- Is Invulnerable and Contradictory, and has Family as their ideal
+- 6th year Human Barbarian in Treskal
+- curly auburn hair that's put back in a long pony tail, Amber eyes, and Dark Tan skin
+- Is Inventive and Ignorant, and has Creativity as their ideal
 
 ### Organizations
 ### Relationships
-[[Hessos Adorellan]]: partymate
-[[Valia Esyae]]: partymate
-[[Lynx Galather]]: partymate
+[[Robett Grell]]: partymate
+[[Savanna Ildilyntra]]: partymate
+[[Gifre Edyrm]]: partymate
 ### Stats
 ```statblock
 name: Lenn Schimae
-stats: [11, 18, 12, 12, 10, 14]
+stats: [14, 8, 14, 14, 7, 13]
 ```

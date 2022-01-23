@@ -1,51 +1,48 @@
 ---
 birthday:
-  numeric: 5/27
-  written: 27th of Iounent
-bond: My instrument is my most treasured possession, and it reminds me of someone
-  I love.
-eyes: Green
-flaw: I put too much trust in those who wield power within my temple's hierarchy.
-guild: Fiesn
-hair: curly blonde hair that's put up in a large bun
-ideal: Humane
+  numeric: 7/12
+  written: 12th of Korent
+bond: The gods of my people are a comfort to me so far from home.
+eyes: Sea Green
+flaw: I don't take kindly to some of the actions and motivations of the people of
+  this land, because these folk are different from me.
+guild: Burk
+hair: curly grey hair that's put up in a large bun
+ideal: Caring
 name: Hazel Traeliorn
 organizations: []
-partyID: 84
-race: Half-Orc
+partyID: 41
+race: Tiefling
 relationships:
-- name: Oyara Faoraar
+- name: Whit Remington
   type: partymate
-- name: Shinare Bersa
-  type: partymate
-skin: Pale Green
-spec: Paladin
+skin: Blue
+spec: Monk
 stats:
-  cha: 13
-  con: 13
-  dex: 17
-  int: 15
-  str: 17
-  wis: 12
-track: Assault
+  cha: 16
+  con: 14
+  dex: 16
+  int: 12
+  str: 14
+  wis: 14
+track: Diplomacy
 trait: I feel tremendous empathy for all who suffer.
-trait1: Observant
-trait2: Effeminate
-year: 3
+trait1: Adventurous
+trait2: Unctuous
+year: 1
 ---
 # Hazel Traeliorn
 ---
 ### Description
-- 3rd year Half-Orc Paladin in Fiesn
-- curly blonde hair that's put up in a large bun, Green eyes, and Pale Green skin
-- Is Observant and Effeminate, and has Humane as their ideal
+- 1st year Tiefling Monk in Burk
+- curly grey hair that's put up in a large bun, Sea Green eyes, and Blue skin
+- Is Adventurous and Unctuous, and has Caring as their ideal
 
 ### Organizations
 ### Relationships
-[[Oyara Faoraar]]: partymate
-[[Shinare Bersa]]: partymate
+[[Whit Remington]]: partymate
 ### Stats
 ```statblock
 name: Hazel Traeliorn
-stats: [17, 17, 13, 15, 12, 13]
+stats: [14, 16, 14, 12, 14, 16]
 ```

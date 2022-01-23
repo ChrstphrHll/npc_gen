@@ -1,53 +1,51 @@
 ---
 birthday:
-  numeric: 5/15
-  written: 15th of Iounent
-bond: I'm fascinated by the beauty and wonder of this new land.
-eyes: Pale Green
-flaw: I am inflexible in my thinking.
+  numeric: 7/15
+  written: 15th of Korent
+bond: I will do anything to protect the temple where I served.
+eyes: Green
+flaw: In fact, the world does revolve around me.
 guild: Burk
-hair: straight lighter blonde hair that's done up in a top knot
-ideal: Connection
+hair: wavy brunette hair that's put up in a large bun
+ideal: Cruelty
 name: Averra Taleisin
 organizations: []
-partyID: 26
-race: Human
+partyID: 31
+race: Elf
 relationships:
-- name: Emilanus Shields
+- name: Efjan Andrathath
   type: partymate
-- name: Andrey Rauthomyr
+- name: Taanyth Seeker
   type: partymate
-- name: Senna Tryton
-  type: partymate
-skin: Light Tan
-spec: Barbarian
+skin: Dark Tan
+spec: Druid
 stats:
-  cha: 9
-  con: 14
-  dex: 14
-  int: 15
-  str: 15
-  wis: 10
+  cha: 13
+  con: 13
+  dex: 8
+  int: 13
+  str: 7
+  wis: 16
 track: Assault
-trait: I like a job well done, especially if I can convince someone else to do it.
-trait1: Crisp
-trait2: Airy
-year: 8
+trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
+  living grates on me.
+trait1: Lucky
+trait2: Hedonistic
+year: 1
 ---
 # Averra Taleisin
 ---
 ### Description
-- 8th year Human Barbarian in Burk
-- straight lighter blonde hair that's done up in a top knot, Pale Green eyes, and Light Tan skin
-- Is Crisp and Airy, and has Connection as their ideal
+- 1st year Elf Druid in Burk
+- wavy brunette hair that's put up in a large bun, Green eyes, and Dark Tan skin
+- Is Lucky and Hedonistic, and has Cruelty as their ideal
 
 ### Organizations
 ### Relationships
-[[Emilanus Shields]]: partymate
-[[Andrey Rauthomyr]]: partymate
-[[Senna Tryton]]: partymate
+[[Efjan Andrathath]]: partymate
+[[Taanyth Seeker]]: partymate
 ### Stats
 ```statblock
 name: Averra Taleisin
-stats: [15, 14, 14, 15, 10, 9]
+stats: [7, 8, 13, 13, 16, 13]
 ```

@@ -1,52 +1,50 @@
 ---
 birthday:
-  numeric: 7/28
-  written: 28th of Korent
-bond: I swindled and ruined a person who didn't deserve it. I seek to atone for my
-  misdeeds but might never be able to forgive myself.
-eyes: Pale Green
-flaw: I have a weakness for the new intoxicants and other pleasures of this land.
-guild: Jettenia
-hair: straight brunette hair that's put back in a short pony tail
-ideal: Exceptionalism
+  numeric: 2/1
+  written: 1st of Corelent
+bond: I was cheated out of my fair share of the profits, and I want to get my due.
+eyes: Hazel
+flaw: People who can't take care of themselves get what they deserve.
+guild: Treskal
+hair: frizzy dark red hair that's parted to the left
+ideal: Religion
 name: Maia Ashsorrow
 organizations: []
-partyID: 86
-race: Tiefling
+partyID: 78
+race: Halfling
 relationships:
-- name: Lichie Halliwell
+- name: Hanna Arkhun
   type: partymate
-- name: Connovar Kaminsky
+- name: Joyce Helartha
   type: partymate
-skin: Purple
-spec: Cleric
+skin: Fair
+spec: Rouge
 stats:
-  cha: 10
-  con: 12
-  dex: 14
-  int: 11
-  str: 16
-  wis: 17
-track: Exploration
-trait: I am tolerant (or intolerant) of other faiths and respect (or condemn) the
-  worship of other gods.
-trait1: Focused
-trait2: Unreliable
+  cha: 13
+  con: 11
+  dex: 16
+  int: 16
+  str: 10
+  wis: 10
+track: Assault
+trait: I judge people by their actions, not their words.
+trait1: Idiosyncratic
+trait2: Overimaginative
 year: 1
 ---
 # Maia Ashsorrow
 ---
 ### Description
-- 1st year Tiefling Cleric in Jettenia
-- straight brunette hair that's put back in a short pony tail, Pale Green eyes, and Purple skin
-- Is Focused and Unreliable, and has Exceptionalism as their ideal
+- 1st year Halfling Rouge in Treskal
+- frizzy dark red hair that's parted to the left, Hazel eyes, and Fair skin
+- Is Idiosyncratic and Overimaginative, and has Religion as their ideal
 
 ### Organizations
 ### Relationships
-[[Lichie Halliwell]]: partymate
-[[Connovar Kaminsky]]: partymate
+[[Hanna Arkhun]]: partymate
+[[Joyce Helartha]]: partymate
 ### Stats
 ```statblock
 name: Maia Ashsorrow
-stats: [16, 14, 12, 11, 17, 10]
+stats: [10, 16, 11, 16, 10, 13]
 ```

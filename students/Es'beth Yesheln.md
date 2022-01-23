@@ -1,51 +1,56 @@
 ---
 birthday:
-  numeric: 5/1
-  written: 1st of Iounent
-bond: I owe my life to the priest who took me in when my parents died.
-eyes: Hazel
-flaw: I remember every insult I've received and nurse a silent resentment toward anyone
-  who's ever wronged me.
+  numeric: 7/3
+  written: 3rd of Korent
+bond: My life's work is a series of tomes related to a specific field of lore.
+eyes: Pale Brown
+flaw: I secretly believe that everyone is beneath me.
 guild: Treskal
-hair: curly lighter blonde hair that's parted to the right
-ideal: Contributing
+hair: curly dirty blonde hair that's loose around the shoulders
+ideal: Simplicity
 name: Es'beth Yesheln
 organizations: []
-partyID: 88
-race: Aasimar
+partyID: 69
+race: Elf
 relationships:
-- name: Alinea Hellsturn
+- name: Kova Tamara
   type: partymate
-- name: Bela Qwey
+- name: Adrjia Lysanthir
   type: partymate
-skin: Tan
-spec: Bard
+- name: Jaedyn Arbane
+  type: partymate
+- name: Evylen Nese
+  type: partymate
+skin: Light
+spec: Monk
 stats:
-  cha: 14
-  con: 12
-  dex: 8
-  int: 10
-  str: 16
-  wis: 7
-track: Assault
-trait: I'm convinced that people are always trying to steal my secrets.
-trait1: Dainty
-trait2: "Na\xEFve"
-year: 4
+  cha: 5
+  con: 7
+  dex: 15
+  int: 5
+  str: 12
+  wis: 8
+track: Exploration
+trait: My favor, once lost, is lost forever.
+trait1: Stylish
+trait2: Neurotic
+year: 1
 ---
 # Es'beth Yesheln
 ---
 ### Description
-- 4th year Aasimar Bard in Treskal
-- curly lighter blonde hair that's parted to the right, Hazel eyes, and Tan skin
-- Is Dainty and Naïve, and has Contributing as their ideal
+- 1st year Elf Monk in Treskal
+- curly dirty blonde hair that's loose around the shoulders, Pale Brown eyes, and Light skin
+- Is Stylish and Neurotic, and has Simplicity as their ideal
 
 ### Organizations
 ### Relationships
-[[Alinea Hellsturn]]: partymate
-[[Bela Qwey]]: partymate
+[[Kova Tamara]]: partymate
+[[Adrjia Lysanthir]]: partymate
+[[Jaedyn Arbane]]: partymate
+[[Evylen Nese]]: partymate
 ### Stats
 ```statblock
 name: Es'beth Yesheln
-stats: [16, 8, 12, 10, 7, 14]
+stats: [12, 15, 7, 5, 8, 5]
 ```

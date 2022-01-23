@@ -1,54 +1,50 @@
 ---
 birthday:
-  numeric: 3/6
-  written: 6th of Melorent
-bond: I protect those who cannot protect themselves.
-eyes: Hazel
-flaw: I have a weakness for the new intoxicants and other pleasures of this land.
-guild: Treskal
-hair: smooth copper guilded with bronze
-ideal: Patience
+  numeric: 4/20
+  written: 20th of Moradent
+bond: I'm fascinated by the beauty and wonder of this new land.
+eyes: Amber
+flaw: Despite my best efforts, I am unreliable to my friends.
+guild: Fiesn
+hair: straight white hair that's braided with violet ribbon (long)
+ideal: Indulgence
 name: Turi Chandrelle
 organizations: []
-partyID: 66
-race: Warforged
+partyID: 13
+race: Gnome
 relationships:
-- name: Theriss Deularla
+- name: Kunjal Iefyr
   type: partymate
-- name: Ivistra Stockton
+- name: Guliemos Nym
   type: partymate
-- name: Marl Ahrendaaria
-  type: partymate
-skin: brass
-spec: Ranger
+skin: Fair
+spec: Rouge
 stats:
-  cha: 11
-  con: 12
-  dex: 17
-  int: 10
-  str: 8
-  wis: 8
-track: Exploration
-trait: I'm haunted by memories of war. I can't get the images of violence out of my
-  mind.
-trait1: Alert
-trait2: Blunt
+  cha: 13
+  con: 14
+  dex: 14
+  int: 11
+  str: 17
+  wis: 6
+track: Protection
+trait: Nothing can shake my optimistic attitude.
+trait1: Mature
+trait2: Enigmatic
 year: 4
 ---
 # Turi Chandrelle
 ---
 ### Description
-- 4th year Warforged Ranger in Treskal
-- smooth copper guilded with bronze, Hazel eyes, and brass skin
-- Is Alert and Blunt, and has Patience as their ideal
+- 4th year Gnome Rouge in Fiesn
+- straight white hair that's braided with violet ribbon (long), Amber eyes, and Fair skin
+- Is Mature and Enigmatic, and has Indulgence as their ideal
 
 ### Organizations
 ### Relationships
-[[Theriss Deularla]]: partymate
-[[Ivistra Stockton]]: partymate
-[[Marl Ahrendaaria]]: partymate
+[[Kunjal Iefyr]]: partymate
+[[Guliemos Nym]]: partymate
 ### Stats
 ```statblock
 name: Turi Chandrelle
-stats: [8, 17, 12, 10, 8, 11]
+stats: [17, 14, 14, 11, 6, 13]
 ```

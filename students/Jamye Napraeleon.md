@@ -1,53 +1,51 @@
 ---
 birthday:
-  numeric: 2/18
-  written: 18th of Corelent
-bond: I've been searching my whole life for the answer to a certain question.
-eyes: Blue
-flaw: I am inflexible in my thinking.
-guild: Jettenia
-hair: wavy red hair that's hanging down to their back
-ideal: Charity
+  numeric: 5/20
+  written: 20th of Iounent
+bond: I created a great work for someone, and then found them unworthy to receive
+  it. I'm still looking for someone worthy.
+eyes: Red
+flaw: My pride will probably lead to my destruction.
+guild: Alderden
+hair: frills
+ideal: Cunning
 name: Jamye Napraeleon
 organizations: []
-partyID: 8
-race: Half-Elf
+partyID: 73
+race: Dragonborn
 relationships:
-- name: Brannos Bellas
+- name: Cirvlon Elpaerae
   type: partymate
-- name: Leja Talila
+- name: Gianna Rhistel
   type: partymate
-- name: Thenol Shialaevar
-  type: partymate
-skin: Light Tan
-spec: Sorcerer
+skin: red
+spec: Wizard
 stats:
-  cha: 16
+  cha: 11
   con: 13
-  dex: 14
-  int: 13
-  str: 11
+  dex: 10
+  int: 16
+  str: 10
   wis: 12
-track: Protection
-trait: I always want to know how things work and what makes people tick.
-trait1: Trusting
-trait2: Ill-bred
-year: 1
+track: Assault
+trait: I always have a plan for what to do when things go wrong.
+trait1: Experimental
+trait2: Rigid
+year: 2
 ---
 # Jamye Napraeleon
 ---
 ### Description
-- 1st year Half-Elf Sorcerer in Jettenia
-- wavy red hair that's hanging down to their back, Blue eyes, and Light Tan skin
-- Is Trusting and Ill-bred, and has Charity as their ideal
+- 2nd year Dragonborn Wizard in Alderden
+- frills, Red eyes, and red skin
+- Is Experimental and Rigid, and has Cunning as their ideal
 
 ### Organizations
 ### Relationships
-[[Brannos Bellas]]: partymate
-[[Leja Talila]]: partymate
-[[Thenol Shialaevar]]: partymate
+[[Cirvlon Elpaerae]]: partymate
+[[Gianna Rhistel]]: partymate
 ### Stats
 ```statblock
 name: Jamye Napraeleon
-stats: [11, 14, 13, 13, 12, 16]
+stats: [10, 10, 13, 16, 12, 11]
 ```

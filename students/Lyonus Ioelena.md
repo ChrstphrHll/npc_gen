@@ -1,54 +1,51 @@
 ---
 birthday:
-  numeric: 4/1
-  written: 1st of Moradent
-bond: The gods of my people are a comfort to me so far from home.
-eyes: Blue
-flaw: Gold seems like a lot of money to me, and I'll do just about anything for more
-  of it.
-guild: Elkenval
-hair: straight strawberry blond hair that's parted to the left
-ideal: Redemption
+  numeric: 2/18
+  written: 18th of Corelent
+bond: It is my duty to provide children to sustain my tribe.
+eyes: Hazel
+flaw: I made a terrible mistake in battle cost many lives- and I would do anything
+  to keep that mistake secret.
+guild: Burk
+hair: long spines
+ideal: Wealth
 name: Lyonus Ioelena
 organizations: []
-partyID: 58
-race: Tiefling
+partyID: 86
+race: Dragonborn
 relationships:
-- name: Wulfe Fulcrux
+- name: Valygar Lyklor
   type: partymate
-- name: Diegon Verrona
+- name: Hagar Sakrattars
   type: partymate
-- name: Scarlotta Inqoul
-  type: partymate
-skin: Spring Green
-spec: Cleric
+skin: silver
+spec: Fighter
 stats:
-  cha: 12
+  cha: 8
   con: 10
-  dex: 11
-  int: 9
-  str: 13
-  wis: 14
-track: Diplomacy
-trait: I watch over my friends as if they were a litter of newborn pups.
-trait1: Practical
-trait2: Weak
-year: 1
+  dex: 14
+  int: 13
+  str: 14
+  wis: 11
+track: Assault
+trait: I change my mood or my mind as quickly as I change key in a song.
+trait1: Courteous
+trait2: Repressed
+year: 2
 ---
 # Lyonus Ioelena
 ---
 ### Description
-- 1st year Tiefling Cleric in Elkenval
-- straight strawberry blond hair that's parted to the left, Blue eyes, and Spring Green skin
-- Is Practical and Weak, and has Redemption as their ideal
+- 2nd year Dragonborn Fighter in Burk
+- long spines, Hazel eyes, and silver skin
+- Is Courteous and Repressed, and has Wealth as their ideal
 
 ### Organizations
 ### Relationships
-[[Wulfe Fulcrux]]: partymate
-[[Diegon Verrona]]: partymate
-[[Scarlotta Inqoul]]: partymate
+[[Valygar Lyklor]]: partymate
+[[Hagar Sakrattars]]: partymate
 ### Stats
 ```statblock
 name: Lyonus Ioelena
-stats: [13, 11, 10, 9, 14, 12]
+stats: [14, 14, 10, 13, 11, 8]
 ```

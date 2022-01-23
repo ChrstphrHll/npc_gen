@@ -1,47 +1,55 @@
 ---
 birthday:
-  numeric: 6/28
-  written: 28th of Pelent
-bond: My honor is my life.
-eyes: Blue
-flaw: People who can't take care of themselves get what they deserve.
-guild: Elkenval
-hair: wavy black hair that's parted to the right
-ideal: Wealth
+  numeric: 4/22
+  written: 22nd of Moradent
+bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
+  somewhere.
+eyes: Gray
+flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
+guild: Treskal
+hair: speckled
+ideal: Redemption
 name: Willam Ardryll
 organizations: []
-partyID: 9
-race: Dwarf
+partyID: 44
+race: Kenku
 relationships:
-- name: Rjanna Eroan
+- name: Graisen Thalanil
   type: partymate
-skin: Dark Tan
-spec: Druid
+- name: Themistoklea Nevarth
+  type: partymate
+- name: Lucoe Lorelei
+  type: partymate
+skin: Dark Blue
+spec: Wizard
 stats:
-  cha: 16
-  con: 12
-  dex: 13
-  int: 14
-  str: 16
-  wis: 17
-track: Protection
-trait: I'm full of witty aphorisms and have a proverb for every occasion.
-trait1: Sympathetic
-trait2: Self-indulgent
-year: 6
+  cha: 10
+  con: 11
+  dex: 18
+  int: 15
+  str: 10
+  wis: 12
+track: Assault
+trait: I'm used to helping out those who aren't as smart as I am, and I patiently
+  explain anything and everything to others.
+trait1: Resourceful
+trait2: Arrogant
+year: 2
 ---
 # Willam Ardryll
 ---
 ### Description
-- 6th year Dwarf Druid in Elkenval
-- wavy black hair that's parted to the right, Blue eyes, and Dark Tan skin
-- Is Sympathetic and Self-indulgent, and has Wealth as their ideal
+- 2nd year Kenku Wizard in Treskal
+- speckled, Gray eyes, and Dark Blue skin
+- Is Resourceful and Arrogant, and has Redemption as their ideal
 
 ### Organizations
 ### Relationships
-[[Rjanna Eroan]]: partymate
+[[Graisen Thalanil]]: partymate
+[[Themistoklea Nevarth]]: partymate
+[[Lucoe Lorelei]]: partymate
 ### Stats
 ```statblock
 name: Willam Ardryll
-stats: [16, 13, 12, 14, 17, 16]
+stats: [10, 18, 11, 15, 12, 10]
 ```

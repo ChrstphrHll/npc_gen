@@ -1,57 +1,55 @@
 ---
 birthday:
-  numeric: 1/4
-  written: 4th of Avanent
-bond: I come from a noble family, and one day I'll reclaim my lands and title from
-  those who stole them from me.
-eyes: Pale Brown
-flaw: I can't resist swindling people who are more powerful than me.
-guild: Jettenia
-hair: straight grey hair that's done up in a top knot
-ideal: Speed
+  numeric: 4/16
+  written: 16th of Moradent
+bond: I idolize a hero of the old tales and measure my deeds against that person's.
+eyes: Blue
+flaw: I remember every insult I've received and nurse a silent resentment toward anyone
+  who's ever wronged me.
+guild: Elkenval
+hair: wavy auburn hair that's pulled to the side and buzzed on the left
+ideal: Charity
 name: Grace Festus
 organizations: []
-partyID: 74
+partyID: 20
 race: Human
 relationships:
-- name: Ysaac Aelrue
+- name: Dylan Usunaar
   type: partymate
-- name: Tilo Connak
+- name: Delila Felaern
   type: partymate
-- name: Hagar Sakrattars
+- name: Aurikallos Biafyndar
   type: partymate
-- name: Juppar Kershaw
-  type: partymate
-skin: Light Tan
-spec: Fighter
+skin: Pale
+spec: Cleric
 stats:
-  cha: 14
-  con: 13
-  dex: 13
-  int: 8
-  str: 15
-  wis: 15
-track: Assault
-trait: I am horribly, horribly awkward in social situations.
-trait1: Emotional
-trait2: Aimless
-year: 3
+  cha: 9
+  con: 10
+  dex: 15
+  int: 14
+  str: 6
+  wis: 14
+track: Diplomacy
+trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
+  accommodations.
+trait1: Anticipative
+trait2: Rigid
+year: 5
 ---
 # Grace Festus
 ---
 ### Description
-- 3rd year Human Fighter in Jettenia
-- straight grey hair that's done up in a top knot, Pale Brown eyes, and Light Tan skin
-- Is Emotional and Aimless, and has Speed as their ideal
+- 5th year Human Cleric in Elkenval
+- wavy auburn hair that's pulled to the side and buzzed on the left, Blue eyes, and Pale skin
+- Is Anticipative and Rigid, and has Charity as their ideal
 
 ### Organizations
 ### Relationships
-[[Ysaac Aelrue]]: partymate
-[[Tilo Connak]]: partymate
-[[Hagar Sakrattars]]: partymate
-[[Juppar Kershaw]]: partymate
+[[Dylan Usunaar]]: partymate
+[[Delila Felaern]]: partymate
+[[Aurikallos Biafyndar]]: partymate
 ### Stats
 ```statblock
 name: Grace Festus
-stats: [15, 13, 13, 8, 15, 14]
+stats: [6, 15, 10, 14, 14, 9]
 ```

@@ -1,51 +1,57 @@
 ---
 birthday:
-  numeric: 5/8
-  written: 8th of Iounent
-bond: I will become the greatest thief that ever lived.
-eyes: Amber
-flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
-  to quell.
-guild: Burk
-hair: straight black hair that's braided with green ribbon (long)
-ideal: Justice
+  numeric: 1/22
+  written: 22nd of Avanent
+bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
+  to see them again one day.
+eyes: Brown
+flaw: I have little respect for anyone who is not a proven warrior.
+guild: Fiesn
+hair: curly lighter blonde hair that's kept back by a green headband
+ideal: Stoicism
 name: Brahm Delmuth
 organizations: []
-partyID: 44
-race: Elf
+partyID: 79
+race: Half-Orc
 relationships:
-- name: Matrell Halafarin
+- name: Romen Uldreiyn
   type: partymate
-- name: Cam Lazziar
+- name: Rianna Belt
   type: partymate
-skin: Pale
-spec: Sorcerer
+- name: Tez Bialaer
+  type: partymate
+- name: Zylphan Molostroi
+  type: partymate
+skin: Pale Green
+spec: Paladin
 stats:
-  cha: 17
-  con: 10
-  dex: 14
-  int: 6
-  str: 17
-  wis: 11
-track: Diplomacy
-trait: I get bitter if I'm not the center of attention.
-trait1: Intrepid
-trait2: Unimaginative
-year: 5
+  cha: 13
+  con: 11
+  dex: 16
+  int: 14
+  str: 15
+  wis: 14
+track: Exploration
+trait: I'm rude to people who lack my commitment to hard work and fair play.
+trait1: Exuberant
+trait2: Conservative
+year: 8
 ---
 # Brahm Delmuth
 ---
 ### Description
-- 5th year Elf Sorcerer in Burk
-- straight black hair that's braided with green ribbon (long), Amber eyes, and Pale skin
-- Is Intrepid and Unimaginative, and has Justice as their ideal
+- 8th year Half-Orc Paladin in Fiesn
+- curly lighter blonde hair that's kept back by a green headband, Brown eyes, and Pale Green skin
+- Is Exuberant and Conservative, and has Stoicism as their ideal
 
 ### Organizations
 ### Relationships
-[[Matrell Halafarin]]: partymate
-[[Cam Lazziar]]: partymate
+[[Romen Uldreiyn]]: partymate
+[[Rianna Belt]]: partymate
+[[Tez Bialaer]]: partymate
+[[Zylphan Molostroi]]: partymate
 ### Stats
 ```statblock
 name: Brahm Delmuth
-stats: [17, 14, 10, 6, 11, 17]
+stats: [15, 16, 11, 14, 14, 13]
 ```

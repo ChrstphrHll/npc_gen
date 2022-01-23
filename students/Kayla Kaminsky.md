@@ -1,50 +1,54 @@
 ---
 birthday:
-  numeric: 6/15
-  written: 15th of Pelent
-bond: Someone stole my precious instrument, and someday I'll get it back.
-eyes: Spring Green
-flaw: I will never fully trust anyone other than myself.
-guild: Fiesn
-hair: straight red hair that's put up in a large bun
-ideal: Flexibility
+  numeric: 4/8
+  written: 8th of Moradent
+bond: I seek to preserve a sacred text that my enemies consider heretical and seek
+  to destroy.
+eyes: Hazel
+flaw: I hide a truly scandalous secret that could ruin my family forever.
+guild: Elkenval
+hair: straight lighter blonde hair that's braided with green ribbon (long)
+ideal: Patience
 name: Kayla Kaminsky
 organizations: []
-partyID: 31
-race: Tiefling
+partyID: 90
+race: Gnome
 relationships:
-- name: Audree Dixon
+- name: Diegon Verrona
   type: partymate
-- name: Kunjal Iefyr
+- name: Adresin Ilbryn
   type: partymate
-skin: Emerald Green
-spec: Sorcerer
+- name: Holys Hachaam
+  type: partymate
+skin: Tan
+spec: Artificer
 stats:
-  cha: 15
-  con: 5
-  dex: 13
-  int: 10
-  str: 11
-  wis: 12
-track: Exploration
-trait: I have a strong code of honor or sense of propriety that others don't comprehend.
-trait1: Deferential
-trait2: Careless
-year: 8
+  cha: 16
+  con: 10
+  dex: 11
+  int: 17
+  str: 15
+  wis: 15
+track: Diplomacy
+trait: I like a job well done, especially if I can convince someone else to do it.
+trait1: Uninhibited
+trait2: Difficult
+year: 1
 ---
 # Kayla Kaminsky
 ---
 ### Description
-- 8th year Tiefling Sorcerer in Fiesn
-- straight red hair that's put up in a large bun, Spring Green eyes, and Emerald Green skin
-- Is Deferential and Careless, and has Flexibility as their ideal
+- 1st year Gnome Artificer in Elkenval
+- straight lighter blonde hair that's braided with green ribbon (long), Hazel eyes, and Tan skin
+- Is Uninhibited and Difficult, and has Patience as their ideal
 
 ### Organizations
 ### Relationships
-[[Audree Dixon]]: partymate
-[[Kunjal Iefyr]]: partymate
+[[Diegon Verrona]]: partymate
+[[Adresin Ilbryn]]: partymate
+[[Holys Hachaam]]: partymate
 ### Stats
 ```statblock
 name: Kayla Kaminsky
-stats: [11, 13, 5, 10, 12, 15]
+stats: [15, 11, 10, 17, 15, 16]
 ```

@@ -1,58 +1,57 @@
 ---
 birthday:
-  numeric: 6/23
-  written: 23rd of Pelent
-bond: I am in love with the heir of a family that my family despises.
-eyes: Sea Green
-flaw: A scandal prevents me from ever going home again. That kind of trouble seems
-  to follow me around.
-guild: Fiesn
-hair: short spines
-ideal: Peace
+  numeric: 4/3
+  written: 3rd of Moradent
+bond: Should my discovery come to light, it could bring ruin to the world.
+eyes: Green
+flaw: Despite my best efforts, I am unreliable to my friends.
+guild: Treskal
+hair: straight black hair that's put up in a large bun
+ideal: Competition
 name: Kova Tamara
 organizations: []
-partyID: 25
-race: Dragonborn
+partyID: 69
+race: Firbolg
 relationships:
-- name: Hanro Fieryat
+- name: Adrjia Lysanthir
   type: partymate
-- name: Rossan Jonik
+- name: Es'beth Yesheln
   type: partymate
-- name: Nicolle Shandalar
+- name: Jaedyn Arbane
   type: partymate
-- name: Meira Nuvian
+- name: Evylen Nese
   type: partymate
-skin: copper
-spec: Barbarian
+skin: Pale Brown
+spec: Fighter
 stats:
-  cha: 17
-  con: 14
-  dex: 6
+  cha: 11
+  con: 11
+  dex: 15
   int: 8
-  str: 17
-  wis: 15
+  str: 15
+  wis: 11
 track: Assault
-trait: I believe that anything worth doing is worth doing right. I can't help it-
-  I'm a perfectionist.
-trait1: Incorruptible
-trait2: Flamboyant
-year: 4
+trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
+  bundle in my arms.
+trait1: Dynamic
+trait2: Modern
+year: 1
 ---
 # Kova Tamara
 ---
 ### Description
-- 4th year Dragonborn Barbarian in Fiesn
-- short spines, Sea Green eyes, and copper skin
-- Is Incorruptible and Flamboyant, and has Peace as their ideal
+- 1st year Firbolg Fighter in Treskal
+- straight black hair that's put up in a large bun, Green eyes, and Pale Brown skin
+- Is Dynamic and Modern, and has Competition as their ideal
 
 ### Organizations
 ### Relationships
-[[Hanro Fieryat]]: partymate
-[[Rossan Jonik]]: partymate
-[[Nicolle Shandalar]]: partymate
-[[Meira Nuvian]]: partymate
+[[Adrjia Lysanthir]]: partymate
+[[Es'beth Yesheln]]: partymate
+[[Jaedyn Arbane]]: partymate
+[[Evylen Nese]]: partymate
 ### Stats
 ```statblock
 name: Kova Tamara
-stats: [17, 6, 14, 8, 15, 17]
+stats: [15, 15, 11, 8, 11, 11]
 ```

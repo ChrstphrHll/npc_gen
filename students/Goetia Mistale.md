@@ -1,54 +1,54 @@
 ---
 birthday:
-  numeric: 7/13
-  written: 13th of Korent
-bond: I idolize a hero of the old tales and measure my deeds against that person's.
-eyes: Hazel
-flaw: I made a terrible mistake in battle cost many lives- and I would do anything
-  to keep that mistake secret.
-guild: Elkenval
-hair: straight auburn hair that's put up in a large bun
-ideal: Respect
+  numeric: 4/28
+  written: 28th of Moradent
+bond: I want to be famous, whatever it takes.
+eyes: Gray
+flaw: I speak without really thinking through my words, invariably insulting others.
+guild: Fiesn
+hair: straight white hair that's hanging down to their back
+ideal: Invention
 name: Goetia Mistale
 organizations: []
-partyID: 80
-race: Firbolg
+partyID: 96
+race: Human
 relationships:
+- name: Halya Jian
+  type: partymate
 - name: Victor Gaelira
   type: partymate
-- name: Yan Sorsasta
+- name: Handyr Letryal
   type: partymate
-- name: Halja Dwyer
-  type: partymate
-skin: Pale Brown
-spec: Cleric
+skin: Light
+spec: Druid
 stats:
-  cha: 8
-  con: 7
-  dex: 14
-  int: 9
-  str: 13
-  wis: 17
+  cha: 12
+  con: 13
+  dex: 10
+  int: 10
+  str: 9
+  wis: 15
 track: Diplomacy
-trait: I feel tremendous empathy for all who suffer.
-trait1: Sincere
-trait2: Shy
-year: 2
+trait: I'm used to helping out those who aren't as smart as I am, and I patiently
+  explain anything and everything to others.
+trait1: Tough
+trait2: Mechanical
+year: 1
 ---
 # Goetia Mistale
 ---
 ### Description
-- 2nd year Firbolg Cleric in Elkenval
-- straight auburn hair that's put up in a large bun, Hazel eyes, and Pale Brown skin
-- Is Sincere and Shy, and has Respect as their ideal
+- 1st year Human Druid in Fiesn
+- straight white hair that's hanging down to their back, Gray eyes, and Light skin
+- Is Tough and Mechanical, and has Invention as their ideal
 
 ### Organizations
 ### Relationships
+[[Halya Jian]]: partymate
 [[Victor Gaelira]]: partymate
-[[Yan Sorsasta]]: partymate
-[[Halja Dwyer]]: partymate
+[[Handyr Letryal]]: partymate
 ### Stats
 ```statblock
 name: Goetia Mistale
-stats: [13, 14, 7, 9, 17, 8]
+stats: [9, 10, 13, 10, 15, 12]
 ```

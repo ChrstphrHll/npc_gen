@@ -1,53 +1,54 @@
 ---
 birthday:
-  numeric: 6/23
-  written: 23rd of Pelent
-bond: I escaped my life of poverty by robbing an important person, and I'm wanted
-  for it.
-eyes: Deep Blue
-flaw: I secretly believe that everyone is beneath me.
-guild: Alderden
-hair: curly strawberry blond hair that's parted to the side, slightly obscuring an
-  eye
-ideal: Redemption
+  numeric: 8/13
+  written: 13th of Ravenent
+bond: I will become the greatest thief that ever lived.
+eyes: Violet Red
+flaw: I am too enamored of ale, wine, and other intoxicants.
+guild: Jettenia
+hair: short spines
+ideal: Caring
 name: Cartyr Tamsin
 organizations: []
-partyID: 77
-race: Triton
+partyID: 28
+race: Dragonborn
 relationships:
-- name: Astinus Sythaeryn
+- name: Railyn Retenia
   type: partymate
-- name: Kaeli Khiiral
+- name: Jovos Seldanna
   type: partymate
-skin: Pale Blue
-spec: Fighter
+- name: Jaxon Brindarry
+  type: partymate
+skin: silver
+spec: Druid
 stats:
   cha: 11
-  con: 10
-  dex: 14
-  int: 8
-  str: 10
-  wis: 10
-track: Protection
-trait: I believe that anything worth doing is worth doing right. I can't help it-
-  I'm a perfectionist.
-trait1: Obliging
-trait2: Reckless
+  con: 9
+  dex: 8
+  int: 12
+  str: 9
+  wis: 13
+track: Assault
+trait: I've spent so long in the temple that I have little practical experience dealing
+  with people in the outside world.
+trait1: Logical
+trait2: Critical
 year: 3
 ---
 # Cartyr Tamsin
 ---
 ### Description
-- 3rd year Triton Fighter in Alderden
-- curly strawberry blond hair that's parted to the side, slightly obscuring an eye, Deep Blue eyes, and Pale Blue skin
-- Is Obliging and Reckless, and has Redemption as their ideal
+- 3rd year Dragonborn Druid in Jettenia
+- short spines, Violet Red eyes, and silver skin
+- Is Logical and Critical, and has Caring as their ideal
 
 ### Organizations
 ### Relationships
-[[Astinus Sythaeryn]]: partymate
-[[Kaeli Khiiral]]: partymate
+[[Railyn Retenia]]: partymate
+[[Jovos Seldanna]]: partymate
+[[Jaxon Brindarry]]: partymate
 ### Stats
 ```statblock
 name: Cartyr Tamsin
-stats: [10, 14, 10, 8, 10, 11]
+stats: [9, 8, 9, 12, 13, 11]
 ```

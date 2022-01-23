@@ -1,49 +1,53 @@
 ---
 birthday:
-  numeric: 6/23
-  written: 23rd of Pelent
-bond: Nothing is more important than the other members of my family.
-eyes: Amber
-flaw: A scandal prevents me from ever going home again. That kind of trouble seems
-  to follow me around.
-guild: Treskal
-hair: straight lighter blonde hair that's a tousled bed head
-ideal: Stoicism
+  numeric: 3/32
+  written: 32nd of Melorent
+bond: I owe my guild a great debt for forging me into the person I am today.
+eyes: Violet Red
+flaw: I will never fully trust anyone other than myself.
+guild: Elkenval
+hair: frills
+ideal: Fitness
 name: Yakob Lydialeera
 organizations: []
-partyID: 79
-race: Goliath
+partyID: 82
+race: Dragonborn
 relationships:
-- name: Jaedyn Arbane
+- name: Wulfe Galan
   type: partymate
-skin: Fair
-spec: Rouge
+- name: Nicolle Shandalar
+  type: partymate
+- name: Lichie Halliwell
+  type: partymate
+skin: blue
+spec: Fighter
 stats:
-  cha: 14
-  con: 12
-  dex: 16
-  int: 16
-  str: 8
-  wis: 9
+  cha: 17
+  con: 9
+  dex: 17
+  int: 9
+  str: 14
+  wis: 14
 track: Protection
-trait: My eloquent flattery makes everyone I talk to feel like the most wonderful
-  and important person in the world.
-trait1: Selfless
-trait2: Conservative
-year: 8
+trait: I don't pay attention to the risks in a situation. Never tell me the odds.
+trait1: Chummy
+trait2: Ambitious
+year: 1
 ---
 # Yakob Lydialeera
 ---
 ### Description
-- 8th year Goliath Rouge in Treskal
-- straight lighter blonde hair that's a tousled bed head, Amber eyes, and Fair skin
-- Is Selfless and Conservative, and has Stoicism as their ideal
+- 1st year Dragonborn Fighter in Elkenval
+- frills, Violet Red eyes, and blue skin
+- Is Chummy and Ambitious, and has Fitness as their ideal
 
 ### Organizations
 ### Relationships
-[[Jaedyn Arbane]]: partymate
+[[Wulfe Galan]]: partymate
+[[Nicolle Shandalar]]: partymate
+[[Lichie Halliwell]]: partymate
 ### Stats
 ```statblock
 name: Yakob Lydialeera
-stats: [8, 16, 12, 16, 9, 14]
+stats: [14, 17, 9, 9, 14, 17]
 ```

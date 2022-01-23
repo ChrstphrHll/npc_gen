@@ -1,56 +1,50 @@
 ---
 birthday:
-  numeric: 8/20
-  written: 20th of Ravenent
-bond: Should my discovery come to light, it could bring ruin to the world.
-eyes: Blue
-flaw: I can't resist swindling people who are more powerful than me.
-guild: Jettenia
-hair: curly dark red hair that's braided with blue ribbon (long)
-ideal: Excitement
+  numeric: 3/2
+  written: 2nd of Melorent
+bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
+eyes: Brown
+flaw: I can't keep a secret to save my life, or anyone else's.
+guild: Fiesn
+hair: wavy blonde hair that's braided with blue ribbon (long)
+ideal: Fitness
 name: Braidyn Kemetra
 organizations: []
-partyID: 91
-race: Gnome
+partyID: 25
+race: Dwarf
 relationships:
-- name: Harperia Winchell
+- name: Grassa Ashbluff
   type: partymate
-- name: Velmona Elway
+- name: Brithmaur Decker
   type: partymate
-- name: Eune Eldratha
-  type: partymate
-- name: Ryan Ebersol
-  type: partymate
-skin: Fair
-spec: Cleric
+skin: Light
+spec: Monk
 stats:
-  cha: 14
-  con: 8
-  dex: 8
-  int: 6
-  str: 7
-  wis: 17
-track: Protection
-trait: I'm a born gambler who can't resist taking a risk for a potential payoff.
-trait1: Discreet
-trait2: Solitary
-year: 3
+  cha: 10
+  con: 4
+  dex: 12
+  int: 16
+  str: 8
+  wis: 11
+track: Exploration
+trait: If someone is in trouble, I'm always ready to lend help.
+trait1: Soft
+trait2: Subjective
+year: 7
 ---
 # Braidyn Kemetra
 ---
 ### Description
-- 3rd year Gnome Cleric in Jettenia
-- curly dark red hair that's braided with blue ribbon (long), Blue eyes, and Fair skin
-- Is Discreet and Solitary, and has Excitement as their ideal
+- 7th year Dwarf Monk in Fiesn
+- wavy blonde hair that's braided with blue ribbon (long), Brown eyes, and Light skin
+- Is Soft and Subjective, and has Fitness as their ideal
 
 ### Organizations
 ### Relationships
-[[Harperia Winchell]]: partymate
-[[Velmona Elway]]: partymate
-[[Eune Eldratha]]: partymate
-[[Ryan Ebersol]]: partymate
+[[Grassa Ashbluff]]: partymate
+[[Brithmaur Decker]]: partymate
 ### Stats
 ```statblock
 name: Braidyn Kemetra
-stats: [7, 8, 8, 6, 17, 14]
+stats: [8, 12, 4, 16, 11, 10]
 ```

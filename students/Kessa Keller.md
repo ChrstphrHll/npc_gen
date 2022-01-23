@@ -1,50 +1,48 @@
 ---
 birthday:
-  numeric: 6/24
-  written: 24th of Pelent
-bond: My loyalty to my sovereign is unwavering.
-eyes: Aqua
-flaw: My hatred of my enemies is blind and unreasoning.
-guild: Jettenia
-hair: straight grey hair that's parted to the left
-ideal: Entertain
+  numeric: 3/32
+  written: 32nd of Melorent
+bond: I will become the greatest thief that ever lived.
+eyes: Amber
+flaw: I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster
+  than I bring them in.
+guild: Elkenval
+hair: wavy white hair that's kept back by a blue headband
+ideal: Integrity
 name: Kessa Keller
 organizations: []
-partyID: 37
-race: Triton
+partyID: 30
+race: Human
 relationships:
-- name: Sybasten Simimar
+- name: Rivik Connak
   type: partymate
-- name: Puorlaas Anklos
-  type: partymate
-skin: Pale Blue
-spec: Wizard
+skin: Tan
+spec: Ranger
 stats:
-  cha: 11
+  cha: 13
   con: 14
-  dex: 9
-  int: 15
-  str: 7
-  wis: 12
-track: Protection
-trait: I have a strong code of honor or sense of propriety that others don't comprehend.
-trait1: Understanding
-trait2: Indolent
-year: 2
+  dex: 17
+  int: 11
+  str: 9
+  wis: 17
+track: Assault
+trait: I quote (or misquote) sacred texts and proverbs in almost every situation.
+trait1: Enigmatic
+trait2: Regretful
+year: 3
 ---
 # Kessa Keller
 ---
 ### Description
-- 2nd year Triton Wizard in Jettenia
-- straight grey hair that's parted to the left, Aqua eyes, and Pale Blue skin
-- Is Understanding and Indolent, and has Entertain as their ideal
+- 3rd year Human Ranger in Elkenval
+- wavy white hair that's kept back by a blue headband, Amber eyes, and Tan skin
+- Is Enigmatic and Regretful, and has Integrity as their ideal
 
 ### Organizations
 ### Relationships
-[[Sybasten Simimar]]: partymate
-[[Puorlaas Anklos]]: partymate
+[[Rivik Connak]]: partymate
 ### Stats
 ```statblock
 name: Kessa Keller
-stats: [7, 9, 14, 15, 12, 11]
+stats: [9, 17, 14, 11, 17, 13]
 ```

@@ -1,56 +1,48 @@
 ---
 birthday:
-  numeric: 4/20
-  written: 20th of Moradent
-bond: A proud noble once gave me a horrible beating, and I will take my revenge on
-  any bully I encounter.
-eyes: Amber
-flaw: A scandal prevents me from ever going home again. That kind of trouble seems
-  to follow me around.
-guild: Jettenia
-hair: frizzy blonde hair that's parted to the left
-ideal: Uncaring
+  numeric: 4/8
+  written: 8th of Moradent
+bond: The ship is most important- crewmates and captains come and go.
+eyes: Pale Gray
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+guild: Alderden
+hair: wavy auburn hair that's geled back
+ideal: Involvement
 name: Hartwen Galaeron
 organizations: []
-partyID: 19
-race: Half-Orc
+partyID: 52
+race: Human
 relationships:
-- name: Brithmaur Decker
+- name: Ian Averescu
   type: partymate
-- name: Pinna Vanius
-  type: partymate
-- name: Eliana Saevel
-  type: partymate
-skin: Pale Green
-spec: Barbarian
+skin: Fair
+spec: Cleric
 stats:
-  cha: 13
-  con: 14
-  dex: 13
-  int: 15
-  str: 17
-  wis: 14
+  cha: 10
+  con: 15
+  dex: 14
+  int: 14
+  str: 9
+  wis: 18
 track: Diplomacy
-trait: I've read every book in the world's greatest libraries - or I like to boast
-  that I have.
-trait1: Exuberant
-trait2: Scheming
-year: 3
+trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
+trait1: Plain
+trait2: Childish
+year: 2
 ---
 # Hartwen Galaeron
 ---
 ### Description
-- 3rd year Half-Orc Barbarian in Jettenia
-- frizzy blonde hair that's parted to the left, Amber eyes, and Pale Green skin
-- Is Exuberant and Scheming, and has Uncaring as their ideal
+- 2nd year Human Cleric in Alderden
+- wavy auburn hair that's geled back, Pale Gray eyes, and Fair skin
+- Is Plain and Childish, and has Involvement as their ideal
 
 ### Organizations
 ### Relationships
-[[Brithmaur Decker]]: partymate
-[[Pinna Vanius]]: partymate
-[[Eliana Saevel]]: partymate
+[[Ian Averescu]]: partymate
 ### Stats
 ```statblock
 name: Hartwen Galaeron
-stats: [17, 13, 14, 15, 14, 13]
+stats: [9, 14, 15, 14, 18, 10]
 ```

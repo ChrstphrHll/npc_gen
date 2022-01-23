@@ -1,51 +1,51 @@
 ---
 birthday:
-  numeric: 2/17
-  written: 17th of Corelent
-bond: I will face any challenge to win the approval of my family.
+  numeric: 7/26
+  written: 26th of Korent
+bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
 eyes: Brown
-flaw: I remember every insult I've received and nurse a silent resentment toward anyone
-  who's ever wronged me.
-guild: Burk
-hair: wavy brunette hair that's loose around the shoulders
-ideal: Forgiveness
+flaw: The people who knew me when I was young know my shameful secret, so I can never
+  go home again.
+guild: Alderden
+hair: frizzy lighter blonde hair that's loose around the shoulders
+ideal: Finesse
 name: Kendel Shael
 organizations: []
-partyID: 15
-race: Half-Elf
+partyID: 43
+race: Firbolg
 relationships:
-- name: Alver Boneflare
+- name: Hessos Adorellan
   type: partymate
-- name: Noam Shields
+- name: Asmiak Seirye
   type: partymate
-skin: Dark Brown
-spec: Barbarian
+skin: Pale Blue
+spec: Rouge
 stats:
-  cha: 13
+  cha: 14
   con: 14
-  dex: 14
-  int: 6
-  str: 15
-  wis: 15
-track: Diplomacy
-trait: If someone is in trouble, I'm always ready to lend help.
-trait1: Self-critical
-trait2: High-spirited
-year: 7
+  dex: 18
+  int: 16
+  str: 11
+  wis: 7
+track: Exploration
+trait: Whenever I come to a new place, I collect local rumors and spread gossip.
+trait1: Concerned
+trait2: Muddle-headed
+year: 1
 ---
 # Kendel Shael
 ---
 ### Description
-- 7th year Half-Elf Barbarian in Burk
-- wavy brunette hair that's loose around the shoulders, Brown eyes, and Dark Brown skin
-- Is Self-critical and High-spirited, and has Forgiveness as their ideal
+- 1st year Firbolg Rouge in Alderden
+- frizzy lighter blonde hair that's loose around the shoulders, Brown eyes, and Pale Blue skin
+- Is Concerned and Muddle-headed, and has Finesse as their ideal
 
 ### Organizations
 ### Relationships
-[[Alver Boneflare]]: partymate
-[[Noam Shields]]: partymate
+[[Hessos Adorellan]]: partymate
+[[Asmiak Seirye]]: partymate
 ### Stats
 ```statblock
 name: Kendel Shael
-stats: [15, 14, 14, 6, 15, 13]
+stats: [11, 18, 14, 16, 7, 14]
 ```

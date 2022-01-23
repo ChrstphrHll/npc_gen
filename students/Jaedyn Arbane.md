@@ -1,47 +1,57 @@
 ---
 birthday:
-  numeric: 1/25
-  written: 25th of Avanent
-bond: I'll always remember my first ship.
-eyes: Amber
-flaw: I can't keep a secret to save my life, or anyone else's.
+  numeric: 3/17
+  written: 17th of Melorent
+bond: I hold no greater cause than my service to my people.
+eyes: Pale Blue
+flaw: I secretly believe that everyone is beneath me.
 guild: Treskal
-hair: wavy grey hair that's put back in a short pony tail
-ideal: Code
+hair: straight platinum hair that's a buzz cut
+ideal: Invention
 name: Jaedyn Arbane
 organizations: []
-partyID: 79
-race: Halfling
+partyID: 69
+race: Half-Elf
 relationships:
-- name: Yakob Lydialeera
+- name: Kova Tamara
   type: partymate
-skin: Light
-spec: Monk
+- name: Adrjia Lysanthir
+  type: partymate
+- name: Es'beth Yesheln
+  type: partymate
+- name: Evylen Nese
+  type: partymate
+skin: Dark Tan
+spec: Paladin
 stats:
-  cha: 16
-  con: 11
-  dex: 16
-  int: 12
+  cha: 13
+  con: 13
+  dex: 10
+  int: 6
   str: 13
-  wis: 15
-track: Diplomacy
-trait: I am working on a grand philosophical theory and love sharing my ideas.
-trait1: Authentic
-trait2: Demanding
-year: 8
+  wis: 10
+track: Exploration
+trait: I can find common ground between the fiercest enemies, empathizing with them
+  and always working toward peace.
+trait1: Private
+trait2: Picky
+year: 1
 ---
 # Jaedyn Arbane
 ---
 ### Description
-- 8th year Halfling Monk in Treskal
-- wavy grey hair that's put back in a short pony tail, Amber eyes, and Light skin
-- Is Authentic and Demanding, and has Code as their ideal
+- 1st year Half-Elf Paladin in Treskal
+- straight platinum hair that's a buzz cut, Pale Blue eyes, and Dark Tan skin
+- Is Private and Picky, and has Invention as their ideal
 
 ### Organizations
 ### Relationships
-[[Yakob Lydialeera]]: partymate
+[[Kova Tamara]]: partymate
+[[Adrjia Lysanthir]]: partymate
+[[Es'beth Yesheln]]: partymate
+[[Evylen Nese]]: partymate
 ### Stats
 ```statblock
 name: Jaedyn Arbane
-stats: [13, 16, 11, 12, 15, 16]
+stats: [13, 10, 13, 6, 10, 13]
 ```

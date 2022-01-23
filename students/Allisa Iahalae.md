@@ -1,58 +1,51 @@
 ---
 birthday:
-  numeric: 7/12
-  written: 12th of Korent
-bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
-  somewhere.
-eyes: Pale Brown
-flaw: No one must ever learn that I once stole money from guild coffers.
-guild: Burk
-hair: curly grey hair that's loose around the shoulders
-ideal: Openness
+  numeric: 6/24
+  written: 24th of Pelent
+bond: My tools are symbols of my past life, and I carry them so that I will never
+  forget my roots.
+eyes: Gray
+flaw: I am suspicious of strangers and expect the worst of them.
+guild: Elkenval
+hair: straight blonde hair that's put back in a long pony tail
+ideal: Patience
 name: Allisa Iahalae
 organizations: []
-partyID: 55
-race: Gnome
+partyID: 2
+race: Half-Elf
 relationships:
-- name: Iaen Dannyd
+- name: Aidyn Glynnii
   type: partymate
-- name: Roman Erolith
+- name: Jothen Elway
   type: partymate
-- name: Kanoi Xharlion
-  type: partymate
-- name: Nicholus Morthil
-  type: partymate
-skin: Fair
-spec: Barbarian
+skin: Tan
+spec: Sorcerer
 stats:
-  cha: 12
-  con: 11
-  dex: 16
-  int: 13
-  str: 18
-  wis: 9
-track: Diplomacy
-trait: I'm confident in my own abilities and do what I can to instill confidence in
-  others.
-trait1: Earthy
-trait2: Frank
-year: 3
+  cha: 16
+  con: 10
+  dex: 11
+  int: 16
+  str: 8
+  wis: 8
+track: Protection
+trait: I eat like a pig and have bad manners.
+trait1: Considerate
+trait2: Delicate
+year: 1
 ---
 # Allisa Iahalae
 ---
 ### Description
-- 3rd year Gnome Barbarian in Burk
-- curly grey hair that's loose around the shoulders, Pale Brown eyes, and Fair skin
-- Is Earthy and Frank, and has Openness as their ideal
+- 1st year Half-Elf Sorcerer in Elkenval
+- straight blonde hair that's put back in a long pony tail, Gray eyes, and Tan skin
+- Is Considerate and Delicate, and has Patience as their ideal
 
 ### Organizations
 ### Relationships
-[[Iaen Dannyd]]: partymate
-[[Roman Erolith]]: partymate
-[[Kanoi Xharlion]]: partymate
-[[Nicholus Morthil]]: partymate
+[[Aidyn Glynnii]]: partymate
+[[Jothen Elway]]: partymate
 ### Stats
 ```statblock
 name: Allisa Iahalae
-stats: [18, 16, 11, 13, 9, 12]
+stats: [8, 11, 10, 16, 8, 16]
 ```

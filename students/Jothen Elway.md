@@ -1,58 +1,50 @@
 ---
 birthday:
-  numeric: 3/16
-  written: 16th of Melorent
-bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
-eyes: Green
-flaw: By my words and actions, I often bring shame to my family.By my words and actions,
-  I often bring shame to my family.
-guild: Fiesn
-hair: wavy auburn hair that's parted to the right
-ideal: Loyalty
+  numeric: 6/24
+  written: 24th of Pelent
+bond: I will become the greatest thief that ever lived.
+eyes: Pale Blue
+flaw: Once I start drinking, it's hard for me to stop.
+guild: Elkenval
+hair: curly blonde hair that's braided with turquoise ribbon (long)
+ideal: Cruelty
 name: Jothen Elway
 organizations: []
-partyID: 24
-race: Elf
+partyID: 2
+race: Human
 relationships:
-- name: Ian Averescu
+- name: Aidyn Glynnii
   type: partymate
-- name: Jareth Tanseril
+- name: Allisa Iahalae
   type: partymate
-- name: Gianesia Onvyr
-  type: partymate
-- name: Delila Felaern
-  type: partymate
-skin: Dark Brown
-spec: Fighter
+skin: Tan
+spec: Rouge
 stats:
-  cha: 10
-  con: 15
-  dex: 18
-  int: 17
-  str: 14
+  cha: 14
+  con: 10
+  dex: 15
+  int: 13
+  str: 13
   wis: 13
-track: Protection
-trait: I'm full of inspiring and cautionary tales from my military experience relevant
-  to almost every combat situation.
-trait1: Proud
-trait2: Scruffy
-year: 3
+track: Exploration
+trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
+trait1: Freewheeling
+trait2: Dreamy
+year: 1
 ---
 # Jothen Elway
 ---
 ### Description
-- 3rd year Elf Fighter in Fiesn
-- wavy auburn hair that's parted to the right, Green eyes, and Dark Brown skin
-- Is Proud and Scruffy, and has Loyalty as their ideal
+- 1st year Human Rouge in Elkenval
+- curly blonde hair that's braided with turquoise ribbon (long), Pale Blue eyes, and Tan skin
+- Is Freewheeling and Dreamy, and has Cruelty as their ideal
 
 ### Organizations
 ### Relationships
-[[Ian Averescu]]: partymate
-[[Jareth Tanseril]]: partymate
-[[Gianesia Onvyr]]: partymate
-[[Delila Felaern]]: partymate
+[[Aidyn Glynnii]]: partymate
+[[Allisa Iahalae]]: partymate
 ### Stats
 ```statblock
 name: Jothen Elway
-stats: [14, 18, 15, 17, 13, 10]
+stats: [13, 15, 10, 13, 13, 14]
 ```

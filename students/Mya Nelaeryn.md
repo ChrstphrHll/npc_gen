@@ -1,51 +1,56 @@
 ---
 birthday:
-  numeric: 6/7
-  written: 7th of Pelent
-bond: My ill-gotten gains go to support my family.
-eyes: Hazel
-flaw: I too often hear veiled insults and threats in every word addressed to me, and
-  I'm quick to anger.
-guild: Fiesn
-hair: straight auburn hair that's braided with turquoise ribbon (med)
-ideal: Reciprocity
+  numeric: 1/22
+  written: 22nd of Avanent
+bond: I owe my life to the priest who took me in when my parents died.
+eyes: Green
+flaw: I have a "tell" that reveals when I'm lying.
+guild: Elkenval
+hair: straight auburn hair that's braided with pink ribbon (long)
+ideal: Creativity
 name: Mya Nelaeryn
 organizations: []
-partyID: 51
-race: Dwarf
+partyID: 22
+race: Human
 relationships:
-- name: Rosherren Haladavar
+- name: Gabrilo Kulo
   type: partymate
-- name: Ramona Saida
+- name: Levio Evindal
   type: partymate
-skin: Light
-spec: Artificer
+- name: Myddin Hastos
+  type: partymate
+- name: Tylus Ytharra
+  type: partymate
+skin: Fair
+spec: Barbarian
 stats:
-  cha: 12
-  con: 13
-  dex: 8
-  int: 16
-  str: 6
+  cha: 17
+  con: 9
+  dex: 13
+  int: 9
+  str: 17
   wis: 10
-track: Exploration
+track: Protection
 trait: There's nothing I like more than a good mystery.
-trait1: Physical
-trait2: Bewildered
-year: 3
+trait1: Folksy
+trait2: Evil
+year: 2
 ---
 # Mya Nelaeryn
 ---
 ### Description
-- 3rd year Dwarf Artificer in Fiesn
-- straight auburn hair that's braided with turquoise ribbon (med), Hazel eyes, and Light skin
-- Is Physical and Bewildered, and has Reciprocity as their ideal
+- 2nd year Human Barbarian in Elkenval
+- straight auburn hair that's braided with pink ribbon (long), Green eyes, and Fair skin
+- Is Folksy and Evil, and has Creativity as their ideal
 
 ### Organizations
 ### Relationships
-[[Rosherren Haladavar]]: partymate
-[[Ramona Saida]]: partymate
+[[Gabrilo Kulo]]: partymate
+[[Levio Evindal]]: partymate
+[[Myddin Hastos]]: partymate
+[[Tylus Ytharra]]: partymate
 ### Stats
 ```statblock
 name: Mya Nelaeryn
-stats: [6, 8, 13, 16, 10, 12]
+stats: [17, 13, 9, 9, 10, 17]
 ```

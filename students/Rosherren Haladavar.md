@@ -1,52 +1,54 @@
 ---
 birthday:
-  numeric: 8/20
-  written: 20th of Ravenent
-bond: I've been searching my whole life for the answer to a certain question.
-eyes: Pale Green
-flaw: I remember every insult I've received and nurse a silent resentment toward anyone
-  who's ever wronged me.
-guild: Fiesn
-hair: curly lighter blonde hair that's hanging down to their back
-ideal: Optimism
+  numeric: 6/31
+  written: 31st of Pelent
+bond: I'm trying to pay off an old debt I owe to a generous benefactor.
+eyes: Red
+flaw: The people who knew me when I was young know my shameful secret, so I can never
+  go home again.
+guild: Burk
+hair: wavy platinum hair that's loose around the shoulders
+ideal: Excitement
 name: Rosherren Haladavar
 organizations: []
-partyID: 51
-race: Elf
+partyID: 95
+race: Genasi
 relationships:
-- name: Mya Nelaeryn
+- name: Brinna Muerlara
   type: partymate
-- name: Ramona Saida
+- name: Pynelope Valhein
   type: partymate
-skin: Light
-spec: Druid
+- name: Tisette Bender
+  type: partymate
+skin: earth
+spec: Fighter
 stats:
   cha: 10
-  con: 12
-  dex: 14
-  int: 13
-  str: 12
-  wis: 15
-track: Exploration
-trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
-  breaking them.
-trait1: Attractive
-trait2: Foul
-year: 3
+  con: 10
+  dex: 10
+  int: 12
+  str: 13
+  wis: 12
+track: Protection
+trait: I don't pay attention to the risks in a situation. Never tell me the odds.
+trait1: Discerning
+trait2: Artificial
+year: 1
 ---
 # Rosherren Haladavar
 ---
 ### Description
-- 3rd year Elf Druid in Fiesn
-- curly lighter blonde hair that's hanging down to their back, Pale Green eyes, and Light skin
-- Is Attractive and Foul, and has Optimism as their ideal
+- 1st year Genasi Fighter in Burk
+- wavy platinum hair that's loose around the shoulders, Red eyes, and earth skin
+- Is Discerning and Artificial, and has Excitement as their ideal
 
 ### Organizations
 ### Relationships
-[[Mya Nelaeryn]]: partymate
-[[Ramona Saida]]: partymate
+[[Brinna Muerlara]]: partymate
+[[Pynelope Valhein]]: partymate
+[[Tisette Bender]]: partymate
 ### Stats
 ```statblock
 name: Rosherren Haladavar
-stats: [12, 14, 12, 13, 15, 10]
+stats: [13, 10, 10, 12, 12, 10]
 ```

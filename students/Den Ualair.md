@@ -1,51 +1,47 @@
 ---
 birthday:
-  numeric: 2/11
-  written: 11th of Corelent
-bond: I entered seclusion because I loved someone I could not have.
-eyes: Red
-flaw: I have a "tell" that reveals when I'm lying.
-guild: Burk
-hair: straight dark red hair that's braided with violet ribbon (long)
-ideal: Knowledge
+  numeric: 1/18
+  written: 18th of Avanent
+bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
+eyes: Pale Blue
+flaw: I am inflexible in my thinking.
+guild: Treskal
+hair: straight strawberry blond hair that's hanging down to their back
+ideal: Vengful
 name: Den Ualair
 organizations: []
-partyID: 3
-race: Tiefling
+partyID: 8
+race: Half-Orc
 relationships:
-- name: Gabrilo Kulo
+- name: Ilksal Immianthe
   type: partymate
-- name: Thongar Fairchild
-  type: partymate
-skin: Amber
-spec: Cleric
+skin: Green Blue
+spec: Artificer
 stats:
   cha: 13
-  con: 15
+  con: 9
   dex: 13
-  int: 14
-  str: 10
-  wis: 16
-track: Assault
-trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
-  accommodations.
-trait1: Eloquent
-trait2: Cruel
+  int: 13
+  str: 17
+  wis: 13
+track: Diplomacy
+trait: I watch over my friends as if they were a litter of newborn pups.
+trait1: Impressive
+trait2: Faithless
 year: 3
 ---
 # Den Ualair
 ---
 ### Description
-- 3rd year Tiefling Cleric in Burk
-- straight dark red hair that's braided with violet ribbon (long), Red eyes, and Amber skin
-- Is Eloquent and Cruel, and has Knowledge as their ideal
+- 3rd year Half-Orc Artificer in Treskal
+- straight strawberry blond hair that's hanging down to their back, Pale Blue eyes, and Green Blue skin
+- Is Impressive and Faithless, and has Vengful as their ideal
 
 ### Organizations
 ### Relationships
-[[Gabrilo Kulo]]: partymate
-[[Thongar Fairchild]]: partymate
+[[Ilksal Immianthe]]: partymate
 ### Stats
 ```statblock
 name: Den Ualair
-stats: [10, 13, 15, 14, 16, 13]
+stats: [17, 13, 9, 13, 13, 13]
 ```

@@ -1,50 +1,50 @@
 ---
 birthday:
-  numeric: 6/2
-  written: 2nd of Pelent
-bond: Everything I do is for the common people.
-eyes: Gray
-flaw: No one must ever learn that I once stole money from guild coffers.
-guild: Elkenval
-hair: wavy black hair that's done up in a top knot
-ideal: Happiness
+  numeric: 4/1
+  written: 1st of Moradent
+bond: Nothing is more important than the other members of my family.
+eyes: Yellow
+flaw: I would kill to acquire a noble title.
+guild: Burk
+hair: short spines
+ideal: Lead by example
 name: Eligio Nevarth
 organizations: []
-partyID: 13
-race: Elf
+partyID: 65
+race: Dragonborn
 relationships:
-- name: Cirvlon Elpaerae
+- name: Q Yulmanda
   type: partymate
-- name: Delos Ehlark
+- name: Jasjen Nlossae
   type: partymate
-skin: Brown
-spec: Cleric
+skin: brass
+spec: Ranger
 stats:
-  cha: 14
-  con: 11
-  dex: 13
-  int: 9
-  str: 7
-  wis: 17
-track: Assault
-trait: I stretch the truth for the sake of a good story.
-trait1: Undogmatic
-trait2: Decadent
-year: 1
+  cha: 12
+  con: 9
+  dex: 16
+  int: 14
+  str: 15
+  wis: 11
+track: Diplomacy
+trait: I'm driven by a wanderlust that led me away from home.
+trait1: Neat
+trait2: Troublesome
+year: 2
 ---
 # Eligio Nevarth
 ---
 ### Description
-- 1st year Elf Cleric in Elkenval
-- wavy black hair that's done up in a top knot, Gray eyes, and Brown skin
-- Is Undogmatic and Decadent, and has Happiness as their ideal
+- 2nd year Dragonborn Ranger in Burk
+- short spines, Yellow eyes, and brass skin
+- Is Neat and Troublesome, and has Lead by example as their ideal
 
 ### Organizations
 ### Relationships
-[[Cirvlon Elpaerae]]: partymate
-[[Delos Ehlark]]: partymate
+[[Q Yulmanda]]: partymate
+[[Jasjen Nlossae]]: partymate
 ### Stats
 ```statblock
 name: Eligio Nevarth
-stats: [7, 13, 11, 9, 17, 14]
+stats: [15, 16, 9, 14, 11, 12]
 ```

@@ -1,52 +1,48 @@
 ---
 birthday:
-  numeric: 7/29
-  written: 29th of Korent
-bond: I have a family, but I have no idea where they are. One day, I hope to see them
-  again.
-eyes: Pale Green
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
+  numeric: 7/23
+  written: 23rd of Korent
+bond: I escaped my life of poverty by robbing an important person, and I'm wanted
+  for it.
+eyes: Red
+flaw: I overlook obvious solutions in favor of complicated ones.
 guild: Burk
-hair: short spines
-ideal: Balance
+hair: straight brunette hair that's braided with green ribbon (long)
+ideal: Greed
 name: Whit Remington
 organizations: []
-partyID: 85
-race: Dragonborn
+partyID: 41
+race: Triton
 relationships:
-- name: Dylan Usunaar
+- name: Hazel Traeliorn
   type: partymate
-- name: Delsenora Strohm
-  type: partymate
-skin: blue
-spec: Barbarian
+skin: Emerald Green
+spec: Wizard
 stats:
-  cha: 10
-  con: 14
-  dex: 15
-  int: 12
-  str: 15
+  cha: 11
+  con: 15
+  dex: 13
+  int: 16
+  str: 9
   wis: 16
-track: Diplomacy
-trait: I was, in fact, raised by wolves.
-trait1: Solitary
-trait2: Secretive
-year: 7
+track: Protection
+trait: I'm always polite and respectful.
+trait1: Risk-taking
+trait2: Irresponsible
+year: 1
 ---
 # Whit Remington
 ---
 ### Description
-- 7th year Dragonborn Barbarian in Burk
-- short spines, Pale Green eyes, and blue skin
-- Is Solitary and Secretive, and has Balance as their ideal
+- 1st year Triton Wizard in Burk
+- straight brunette hair that's braided with green ribbon (long), Red eyes, and Emerald Green skin
+- Is Risk-taking and Irresponsible, and has Greed as their ideal
 
 ### Organizations
 ### Relationships
-[[Dylan Usunaar]]: partymate
-[[Delsenora Strohm]]: partymate
+[[Hazel Traeliorn]]: partymate
 ### Stats
 ```statblock
 name: Whit Remington
-stats: [15, 15, 14, 12, 16, 10]
+stats: [9, 13, 15, 16, 16, 11]
 ```

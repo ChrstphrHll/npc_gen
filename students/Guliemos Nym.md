@@ -1,51 +1,52 @@
 ---
 birthday:
-  numeric: 5/14
-  written: 14th of Iounent
-bond: I'll never forget the crushing defeat my company suffered or the enemies who
-  dealt it.
-eyes: Pale Blue
-flaw: I am too enamored of ale, wine, and other intoxicants.
-guild: Treskal
-hair: straight blonde hair that's braided with green ribbon (long)
-ideal: Tolerance
+  numeric: 6/9
+  written: 9th of Pelent
+bond: I created a great work for someone, and then found them unworthy to receive
+  it. I'm still looking for someone worthy.
+eyes: Gray
+flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
+guild: Fiesn
+hair: curly white hair that's done up in a top knot
+ideal: Affection
 name: Guliemos Nym
 organizations: []
-partyID: 27
-race: Dwarf
+partyID: 13
+race: Half-Elf
 relationships:
-- name: Celaeno Amkissra
+- name: Kunjal Iefyr
   type: partymate
-- name: Jerrick Yarbrough
+- name: Turi Chandrelle
   type: partymate
-skin: Light Tan
-spec: Druid
+skin: Dark Tan
+spec: Fighter
 stats:
-  cha: 13
-  con: 11
-  dex: 12
-  int: 16
-  str: 12
-  wis: 16
-track: Exploration
-trait: I work hard so that I can play hard when the work is done.
-trait1: Self-confident
-trait2: Unpredictable
-year: 5
+  cha: 7
+  con: 10
+  dex: 9
+  int: 15
+  str: 16
+  wis: 6
+track: Diplomacy
+trait: No one could doubt by looking at my regal bearing that I am a cut above the
+  unwashed masses.
+trait1: Solemn
+trait2: Critical
+year: 4
 ---
 # Guliemos Nym
 ---
 ### Description
-- 5th year Dwarf Druid in Treskal
-- straight blonde hair that's braided with green ribbon (long), Pale Blue eyes, and Light Tan skin
-- Is Self-confident and Unpredictable, and has Tolerance as their ideal
+- 4th year Half-Elf Fighter in Fiesn
+- curly white hair that's done up in a top knot, Gray eyes, and Dark Tan skin
+- Is Solemn and Critical, and has Affection as their ideal
 
 ### Organizations
 ### Relationships
-[[Celaeno Amkissra]]: partymate
-[[Jerrick Yarbrough]]: partymate
+[[Kunjal Iefyr]]: partymate
+[[Turi Chandrelle]]: partymate
 ### Stats
 ```statblock
 name: Guliemos Nym
-stats: [12, 12, 11, 16, 16, 13]
+stats: [16, 9, 10, 15, 6, 7]
 ```

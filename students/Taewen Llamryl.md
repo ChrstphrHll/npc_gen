@@ -1,49 +1,53 @@
 ---
 birthday:
-  numeric: 2/30
-  written: 30th of Corelent
-bond: The workshop where I learned my trade is the most important place in the world
-  to me.
-eyes: Hazel
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Alderden
-hair: straight black hair that's geled back
-ideal: Encouragement
+  numeric: 5/25
+  written: 25th of Iounent
+bond: Somewhere out there, I have a child who doesn't know me. I'm making the world
+  better for him or her.
+eyes: Amber
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+guild: Fiesn
+hair: straight lighter blonde hair that's parted to the side, slightly obscuring an
+  eye
+ideal: Renewal
 name: Taewen Llamryl
 organizations: []
-partyID: 90
+partyID: 61
 race: Human
 relationships:
-- name: Jamie Kesefehon
+- name: Everen Malfoy
   type: partymate
-skin: Light
-spec: Ranger
+- name: Iaen Dannyd
+  type: partymate
+skin: Tan
+spec: Artificer
 stats:
   cha: 16
-  con: 17
-  dex: 17
-  int: 10
-  str: 13
-  wis: 15
-track: Protection
-trait: If someone is in trouble, I'm always ready to lend help.
-trait1: Studious
-trait2: Conformist
-year: 1
+  con: 10
+  dex: 14
+  int: 15
+  str: 8
+  wis: 8
+track: Assault
+trait: I can stare down a hell hound without flinching.
+trait1: Fearless
+trait2: High-spirited
+year: 2
 ---
 # Taewen Llamryl
 ---
 ### Description
-- 1st year Human Ranger in Alderden
-- straight black hair that's geled back, Hazel eyes, and Light skin
-- Is Studious and Conformist, and has Encouragement as their ideal
+- 2nd year Human Artificer in Fiesn
+- straight lighter blonde hair that's parted to the side, slightly obscuring an eye, Amber eyes, and Tan skin
+- Is Fearless and High-spirited, and has Renewal as their ideal
 
 ### Organizations
 ### Relationships
-[[Jamie Kesefehon]]: partymate
+[[Everen Malfoy]]: partymate
+[[Iaen Dannyd]]: partymate
 ### Stats
 ```statblock
 name: Taewen Llamryl
-stats: [13, 17, 17, 10, 15, 16]
+stats: [8, 14, 10, 15, 8, 16]
 ```

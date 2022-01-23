@@ -1,55 +1,51 @@
 ---
 birthday:
-  numeric: 5/9
-  written: 9th of Iounent
-bond: I will someday get revenge on the corrupt temple hierarchy who branded me a
-  heretic.
-eyes: Gray
-flaw: I like keeping secrets and won't share them with anyone.
-guild: Fiesn
-hair: frizzy white hair that's parted to the right
-ideal: Teamwork
+  numeric: 8/19
+  written: 19th of Ravenent
+bond: Somewhere out there, I have a child who doesn't know me. I'm making the world
+  better for him or her.
+eyes: Pale Blue
+flaw: I'd risk too much to uncover a lost bit of knowledge.
+guild: Treskal
+hair: frills
+ideal: Beauty
 name: Ungris Riluaneth
 organizations: []
-partyID: 64
-race: Elf
+partyID: 63
+race: Dragonborn
 relationships:
-- name: Julyo Agassi
+- name: Gerrimar Vulkor
   type: partymate
-- name: Olivus Ondabrar
+- name: Cerridwen Durothil
   type: partymate
-- name: Kymber Korrigash
-  type: partymate
-skin: Brown
-spec: Rouge
+skin: red
+spec: Cleric
 stats:
-  cha: 9
+  cha: 12
   con: 13
-  dex: 17
-  int: 13
-  str: 15
-  wis: 9
-track: Assault
-trait: I often get lost in my own thoughts and contemplation, becoming oblivious to
-  my surroundings.
-trait1: Methodical
-trait2: Presumptuous
-year: 4
+  dex: 9
+  int: 12
+  str: 12
+  wis: 13
+track: Diplomacy
+trait: The common folk love me for my kindness and generosity.
+trait1: Sincere
+trait2: Cruel
+year: 5
 ---
 # Ungris Riluaneth
 ---
 ### Description
-- 4th year Elf Rouge in Fiesn
-- frizzy white hair that's parted to the right, Gray eyes, and Brown skin
-- Is Methodical and Presumptuous, and has Teamwork as their ideal
+- 5th year Dragonborn Cleric in Treskal
+- frills, Pale Blue eyes, and red skin
+- Is Sincere and Cruel, and has Beauty as their ideal
 
 ### Organizations
 ### Relationships
-[[Julyo Agassi]]: partymate
-[[Olivus Ondabrar]]: partymate
-[[Kymber Korrigash]]: partymate
+[[Gerrimar Vulkor]]: partymate
+[[Cerridwen Durothil]]: partymate
 ### Stats
 ```statblock
 name: Ungris Riluaneth
-stats: [15, 17, 13, 13, 9, 9]
+stats: [12, 9, 13, 12, 13, 12]
 ```

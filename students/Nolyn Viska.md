@@ -1,51 +1,54 @@
 ---
 birthday:
-  numeric: 3/9
-  written: 9th of Melorent
-bond: Something important was taken from me, and I aim to steal it back.
-eyes: Blue
+  numeric: 4/10
+  written: 10th of Moradent
+bond: My house's alliance with another noble family must be sustained at all costs.
+eyes: Pale Green
 flaw: By my words and actions, I often bring shame to my family.By my words and actions,
   I often bring shame to my family.
 guild: Treskal
-hair: many curled horns
-ideal: Family
+hair: wavy white hair that's pulled to the side and buzzed on the left
+ideal: Security
 name: Nolyn Viska
 organizations: []
-partyID: 73
-race: Dragonborn
+partyID: 51
+race: Elf
 relationships:
-- name: Handyr Letryal
+- name: Ysaac Aelrue
   type: partymate
-- name: Vila Tassarion
+- name: Vaervenshalice Eloen
   type: partymate
-skin: black
+- name: Dejana Keller
+  type: partymate
+skin: Brown
 spec: Wizard
 stats:
-  cha: 15
-  con: 6
-  dex: 13
-  int: 16
-  str: 12
-  wis: 9
-track: Diplomacy
-trait: I misuse long words in an attempt to sound smarter.
-trait1: Adaptable
-trait2: Repulsive
-year: 4
+  cha: 7
+  con: 11
+  dex: 12
+  int: 13
+  str: 6
+  wis: 13
+track: Exploration
+trait: I pocket anything I see that might have some value.
+trait1: Jovial
+trait2: Political
+year: 1
 ---
 # Nolyn Viska
 ---
 ### Description
-- 4th year Dragonborn Wizard in Treskal
-- many curled horns, Blue eyes, and black skin
-- Is Adaptable and Repulsive, and has Family as their ideal
+- 1st year Elf Wizard in Treskal
+- wavy white hair that's pulled to the side and buzzed on the left, Pale Green eyes, and Brown skin
+- Is Jovial and Political, and has Security as their ideal
 
 ### Organizations
 ### Relationships
-[[Handyr Letryal]]: partymate
-[[Vila Tassarion]]: partymate
+[[Ysaac Aelrue]]: partymate
+[[Vaervenshalice Eloen]]: partymate
+[[Dejana Keller]]: partymate
 ### Stats
 ```statblock
 name: Nolyn Viska
-stats: [12, 13, 6, 16, 9, 15]
+stats: [6, 12, 11, 13, 13, 7]
 ```

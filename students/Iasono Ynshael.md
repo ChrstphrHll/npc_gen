@@ -1,54 +1,57 @@
 ---
 birthday:
-  numeric: 4/28
-  written: 28th of Moradent
-bond: I'm fascinated by the beauty and wonder of this new land.
-eyes: Blue
-flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
-  own hide if the going gets tough.
-guild: Treskal
-hair: curly auburn hair that's braided with blue ribbon (long)
-ideal: Loyalty
+  numeric: 5/14
+  written: 14th of Iounent
+bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
+eyes: Pale Brown
+flaw: I'm quick to assume that someone is trying to cheat me.
+guild: Jettenia
+hair: frizzy grey hair that's put up in a large bun
+ideal: Live and Let Live
 name: Iasono Ynshael
 organizations: []
-partyID: 20
-race: Halfling
+partyID: 68
+race: Gnome
 relationships:
-- name: Halya Jian
+- name: Matto Divya
   type: partymate
-- name: Nebulon Faelyn
+- name: Ysak Llewellenar
   type: partymate
-- name: Jofan Elignoir
+- name: Alver Boneflare
   type: partymate
-skin: Dark Brown
-spec: Paladin
+- name: Garan Mirthal
+  type: partymate
+skin: Brown
+spec: Druid
 stats:
-  cha: 14
-  con: 5
-  dex: 7
-  int: 6
-  str: 14
-  wis: 6
-track: Exploration
-trait: I'm always polite and respectful.
-trait1: Rustic
-trait2: Neglectful
+  cha: 10
+  con: 8
+  dex: 11
+  int: 11
+  str: 12
+  wis: 12
+track: Protection
+trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
+  living grates on me.
+trait1: Self-sufficent
+trait2: Unrealistic
 year: 1
 ---
 # Iasono Ynshael
 ---
 ### Description
-- 1st year Halfling Paladin in Treskal
-- curly auburn hair that's braided with blue ribbon (long), Blue eyes, and Dark Brown skin
-- Is Rustic and Neglectful, and has Loyalty as their ideal
+- 1st year Gnome Druid in Jettenia
+- frizzy grey hair that's put up in a large bun, Pale Brown eyes, and Brown skin
+- Is Self-sufficent and Unrealistic, and has Live and Let Live as their ideal
 
 ### Organizations
 ### Relationships
-[[Halya Jian]]: partymate
-[[Nebulon Faelyn]]: partymate
-[[Jofan Elignoir]]: partymate
+[[Matto Divya]]: partymate
+[[Ysak Llewellenar]]: partymate
+[[Alver Boneflare]]: partymate
+[[Garan Mirthal]]: partymate
 ### Stats
 ```statblock
 name: Iasono Ynshael
-stats: [14, 7, 5, 6, 6, 14]
+stats: [12, 11, 8, 11, 12, 10]
 ```

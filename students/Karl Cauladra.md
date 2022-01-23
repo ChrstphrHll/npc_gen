@@ -1,55 +1,57 @@
 ---
 birthday:
-  numeric: 4/17
-  written: 17th of Moradent
-bond: I come from a noble family, and one day I'll reclaim my lands and title from
-  those who stole them from me.
-eyes: Green
-flaw: I will never fully trust anyone other than myself.
-guild: Jettenia
-hair: wavy brunette hair that's a tousled bed head
-ideal: Prosperity
+  numeric: 2/3
+  written: 3rd of Corelent
+bond: I was cheated out of my fair share of the profits, and I want to get my due.
+eyes: Brown
+flaw: I judge others harshly, and myself even more severely.
+guild: Treskal
+hair: straight lighter blonde hair that's parted to the right
+ideal: Teamwork
 name: Karl Cauladra
 organizations: []
-partyID: 36
-race: Half-Elf
+partyID: 58
+race: Gnome
 relationships:
-- name: Evyn Fenton
+- name: Vyctor Willow
   type: partymate
-- name: Gianna Rhistel
+- name: Varlae Voron
   type: partymate
-- name: Evylen Nese
+- name: Dree Nuala
   type: partymate
-skin: Light Tan
+- name: Theriss Deularla
+  type: partymate
+skin: Pale
 spec: Rouge
 stats:
-  cha: 10
-  con: 12
-  dex: 15
-  int: 10
-  str: 16
-  wis: 13
-track: Exploration
-trait: I am incredibly slow to trust. Those who seem the fairest often have the most
-  to hide.
-trait1: Friendly
-trait2: Extravagant
-year: 4
+  cha: 16
+  con: 11
+  dex: 17
+  int: 14
+  str: 17
+  wis: 16
+track: Protection
+trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
+  bundle in my arms.
+trait1: Incorruptible
+trait2: Self-centered
+year: 6
 ---
 # Karl Cauladra
 ---
 ### Description
-- 4th year Half-Elf Rouge in Jettenia
-- wavy brunette hair that's a tousled bed head, Green eyes, and Light Tan skin
-- Is Friendly and Extravagant, and has Prosperity as their ideal
+- 6th year Gnome Rouge in Treskal
+- straight lighter blonde hair that's parted to the right, Brown eyes, and Pale skin
+- Is Incorruptible and Self-centered, and has Teamwork as their ideal
 
 ### Organizations
 ### Relationships
-[[Evyn Fenton]]: partymate
-[[Gianna Rhistel]]: partymate
-[[Evylen Nese]]: partymate
+[[Vyctor Willow]]: partymate
+[[Varlae Voron]]: partymate
+[[Dree Nuala]]: partymate
+[[Theriss Deularla]]: partymate
 ### Stats
 ```statblock
 name: Karl Cauladra
-stats: [16, 15, 12, 10, 13, 10]
+stats: [17, 17, 11, 14, 16, 16]
 ```

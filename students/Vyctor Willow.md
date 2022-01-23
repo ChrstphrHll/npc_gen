@@ -1,53 +1,57 @@
 ---
 birthday:
-  numeric: 5/15
-  written: 15th of Iounent
-bond: An injury to the unspoiled wilderness of my home is an injury to me.
-eyes: Purple
-flaw: I obey the law, even if the law causes misery.
-guild: Elkenval
-hair: frills
-ideal: Justice
+  numeric: 3/11
+  written: 11th of Melorent
+bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
+  somewhere.
+eyes: Pale Brown
+flaw: I turn tail and run when things look bad.
+guild: Treskal
+hair: wavy auburn hair that's braided with violet ribbon (med)
+ideal: Responsibility
 name: Vyctor Willow
 organizations: []
-partyID: 65
-race: Dragonborn
+partyID: 58
+race: Elf
 relationships:
-- name: Eadyth Lora
+- name: Karl Cauladra
   type: partymate
-- name: Alkindus Llamryl
+- name: Varlae Voron
   type: partymate
-- name: Theodus Chylnoth
+- name: Dree Nuala
   type: partymate
-skin: blue
-spec: Rouge
+- name: Theriss Deularla
+  type: partymate
+skin: Fair
+spec: Bard
 stats:
-  cha: 16
-  con: 13
-  dex: 16
-  int: 14
-  str: 12
-  wis: 16
-track: Exploration
-trait: My favor, once lost, is lost forever.
-trait1: Obliging
-trait2: Narcissistic
-year: 4
+  cha: 17
+  con: 15
+  dex: 11
+  int: 11
+  str: 13
+  wis: 12
+track: Assault
+trait: I hide scraps of food and trinkets away in my pockets.
+trait1: Wise
+trait2: Inhibited
+year: 6
 ---
 # Vyctor Willow
 ---
 ### Description
-- 4th year Dragonborn Rouge in Elkenval
-- frills, Purple eyes, and blue skin
-- Is Obliging and Narcissistic, and has Justice as their ideal
+- 6th year Elf Bard in Treskal
+- wavy auburn hair that's braided with violet ribbon (med), Pale Brown eyes, and Fair skin
+- Is Wise and Inhibited, and has Responsibility as their ideal
 
 ### Organizations
 ### Relationships
-[[Eadyth Lora]]: partymate
-[[Alkindus Llamryl]]: partymate
-[[Theodus Chylnoth]]: partymate
+[[Karl Cauladra]]: partymate
+[[Varlae Voron]]: partymate
+[[Dree Nuala]]: partymate
+[[Theriss Deularla]]: partymate
 ### Stats
 ```statblock
 name: Vyctor Willow
-stats: [12, 16, 13, 14, 16, 16]
+stats: [13, 11, 15, 11, 12, 17]
 ```

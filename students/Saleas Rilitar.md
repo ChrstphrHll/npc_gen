@@ -1,55 +1,54 @@
 ---
 birthday:
-  numeric: 7/10
-  written: 10th of Korent
-bond: I'll never forget the crushing defeat my company suffered or the enemies who
-  dealt it.
-eyes: Red
-flaw: By my words and actions, I often bring shame to my family.By my words and actions,
-  I often bring shame to my family.
-guild: Jettenia
-hair: curly brunette hair that's pulled to the side and buzzed on the left
-ideal: Malice
+  numeric: 6/6
+  written: 6th of Pelent
+bond: I'm loyal to my captain first, everything else second.
+eyes: Aqua
+flaw: Secretly, I believe that things would be better if I were a tyrant lording over
+  the land.
+guild: Burk
+hair: straight dark red hair that's hanging down to their legs
+ideal: Righteous
 name: Saleas Rilitar
 organizations: []
-partyID: 54
+partyID: 59
 race: Triton
 relationships:
-- name: Hanna Estelar
+- name: Noam Shields
   type: partymate
-- name: Brooka Whesker
+- name: Gunnar Ordayius
   type: partymate
-- name: Nom Remington
+- name: Remus Manchul
   type: partymate
 skin: Aqua
-spec: Ranger
+spec: Wizard
 stats:
-  cha: 17
-  con: 12
-  dex: 17
-  int: 14
+  cha: 15
+  con: 15
+  dex: 14
+  int: 16
   str: 9
-  wis: 11
-track: Assault
-trait: I'm oblivious to etiquette and social expectations.
-trait1: Courteous
-trait2: Outrageous
-year: 1
+  wis: 16
+track: Protection
+trait: I like to talk at length about my profession.
+trait1: Self-sufficent
+trait2: Boisterous
+year: 4
 ---
 # Saleas Rilitar
 ---
 ### Description
-- 1st year Triton Ranger in Jettenia
-- curly brunette hair that's pulled to the side and buzzed on the left, Red eyes, and Aqua skin
-- Is Courteous and Outrageous, and has Malice as their ideal
+- 4th year Triton Wizard in Burk
+- straight dark red hair that's hanging down to their legs, Aqua eyes, and Aqua skin
+- Is Self-sufficent and Boisterous, and has Righteous as their ideal
 
 ### Organizations
 ### Relationships
-[[Hanna Estelar]]: partymate
-[[Brooka Whesker]]: partymate
-[[Nom Remington]]: partymate
+[[Noam Shields]]: partymate
+[[Gunnar Ordayius]]: partymate
+[[Remus Manchul]]: partymate
 ### Stats
 ```statblock
 name: Saleas Rilitar
-stats: [9, 17, 12, 14, 11, 17]
+stats: [9, 14, 15, 16, 16, 15]
 ```

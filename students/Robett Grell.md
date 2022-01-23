@@ -1,50 +1,54 @@
 ---
 birthday:
-  numeric: 2/27
-  written: 27th of Corelent
-bond: Everything I do is for the common people.
-eyes: Green
-flaw: I can't resist swindling people who are more powerful than me.
-guild: Elkenval
-hair: wavy lighter blonde hair that's loose around the shoulders
-ideal: People
+  numeric: 1/4
+  written: 4th of Avanent
+bond: One day I will return to my guild and prove that I am the greatest artisan of
+  them all.
+eyes: Blue
+flaw: I can't help but pocket loose coins and other trinkets I come across.
+guild: Treskal
+hair: wavy red hair that's done up in a top knot
+ideal: Forgiveness
 name: Robett Grell
 organizations: []
-partyID: 40
-race: Half-Elf
+partyID: 46
+race: Dwarf
 relationships:
-- name: Abramo Sudryl
+- name: Lenn Schimae
   type: partymate
-- name: Gina Grandius
+- name: Savanna Ildilyntra
   type: partymate
-skin: Brown
-spec: Druid
+- name: Gifre Edyrm
+  type: partymate
+skin: Dark Brown
+spec: Monk
 stats:
-  cha: 12
-  con: 10
-  dex: 13
-  int: 11
-  str: 8
-  wis: 17
-track: Protection
-trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
-trait1: Unaggressive
-trait2: Opinionated
-year: 1
+  cha: 8
+  con: 16
+  dex: 15
+  int: 14
+  str: 10
+  wis: 15
+track: Assault
+trait: My language is as foul as an otyugh nest.
+trait1: Solitary
+trait2: Impolite
+year: 6
 ---
 # Robett Grell
 ---
 ### Description
-- 1st year Half-Elf Druid in Elkenval
-- wavy lighter blonde hair that's loose around the shoulders, Green eyes, and Brown skin
-- Is Unaggressive and Opinionated, and has People as their ideal
+- 6th year Dwarf Monk in Treskal
+- wavy red hair that's done up in a top knot, Blue eyes, and Dark Brown skin
+- Is Solitary and Impolite, and has Forgiveness as their ideal
 
 ### Organizations
 ### Relationships
-[[Abramo Sudryl]]: partymate
-[[Gina Grandius]]: partymate
+[[Lenn Schimae]]: partymate
+[[Savanna Ildilyntra]]: partymate
+[[Gifre Edyrm]]: partymate
 ### Stats
 ```statblock
 name: Robett Grell
-stats: [8, 13, 10, 11, 17, 12]
+stats: [10, 15, 16, 14, 15, 8]
 ```

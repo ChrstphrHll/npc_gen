@@ -1,51 +1,53 @@
 ---
 birthday:
-  numeric: 1/21
-  written: 21st of Avanent
-bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
-eyes: Spring Green
-flaw: I'd risk too much to uncover a lost bit of knowledge.
-guild: Burk
-hair: curly blonde hair that's done up in a top knot
-ideal: Gratitude
+  numeric: 7/6
+  written: 6th of Korent
+bond: The workshop where I learned my trade is the most important place in the world
+  to me.
+eyes: Green
+flaw: By my words and actions, I often bring shame to my family.By my words and actions,
+  I often bring shame to my family.
+guild: Treskal
+hair: straight strawberry blond hair that's hanging down to their back
+ideal: Hard Work
 name: Lanalia Belt
 organizations: []
-partyID: 83
-race: Tiefling
+partyID: 67
+race: Elf
 relationships:
-- name: Asmiak Seirye
+- name: Bela Qwey
   type: partymate
-- name: Santaegus Etter
+- name: Rossan Jonik
   type: partymate
-skin: Red
-spec: Sorcerer
+skin: Light Tan
+spec: Paladin
 stats:
-  cha: 15
-  con: 11
-  dex: 13
-  int: 14
-  str: 12
-  wis: 13
-track: Assault
-trait: I have a strong sense of fair play and always try to find the most equitable
-  solution to arguments.
-trait1: Touchy
-trait2: Egocentric
-year: 2
+  cha: 12
+  con: 7
+  dex: 7
+  int: 10
+  str: 17
+  wis: 10
+track: Diplomacy
+trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
+  accommodations.
+trait1: Organised
+trait2: Insecure
+year: 3
 ---
 # Lanalia Belt
 ---
 ### Description
-- 2nd year Tiefling Sorcerer in Burk
-- curly blonde hair that's done up in a top knot, Spring Green eyes, and Red skin
-- Is Touchy and Egocentric, and has Gratitude as their ideal
+- 3rd year Elf Paladin in Treskal
+- straight strawberry blond hair that's hanging down to their back, Green eyes, and Light Tan skin
+- Is Organised and Insecure, and has Hard Work as their ideal
 
 ### Organizations
 ### Relationships
-[[Asmiak Seirye]]: partymate
-[[Santaegus Etter]]: partymate
+[[Bela Qwey]]: partymate
+[[Rossan Jonik]]: partymate
 ### Stats
 ```statblock
 name: Lanalia Belt
-stats: [12, 13, 11, 14, 13, 15]
+stats: [17, 7, 7, 10, 10, 12]
 ```

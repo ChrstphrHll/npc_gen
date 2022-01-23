@@ -1,52 +1,52 @@
 ---
 birthday:
-  numeric: 6/9
-  written: 9th of Pelent
-bond: One day I will return to my guild and prove that I am the greatest artisan of
-  them all.
+  numeric: 2/24
+  written: 24th of Corelent
+bond: Nothing is more important than the other members of my hermitage, order, or
+  association.
 eyes: Green
-flaw: I have a "tell" that reveals when I'm lying.
-guild: Burk
-hair: wavy platinum hair that's hanging down to their back
-ideal: Austerity
+flaw: I too often hear veiled insults and threats in every word addressed to me, and
+  I'm quick to anger.
+guild: Elkenval
+hair: curly lighter blonde hair that's braided with blue ribbon (med)
+ideal: Cooperation
 name: Pike Tethir
 organizations: []
-partyID: 63
-race: Halfling
+partyID: 64
+race: Human
 relationships:
-- name: Jacoby Maeraddyth
+- name: Nathan Laeroth
   type: partymate
-- name: Malchor Tenyajn
+- name: Jendrellian Webb
   type: partymate
-skin: Pale
-spec: Paladin
+skin: Brown
+spec: Barbarian
 stats:
-  cha: 13
-  con: 15
-  dex: 12
-  int: 13
-  str: 16
-  wis: 15
-track: Exploration
-trait: I can find common ground between the fiercest enemies, empathizing with them
-  and always working toward peace.
-trait1: Perservering
-trait2: Hypnotic
+  cha: 11
+  con: 14
+  dex: 4
+  int: 10
+  str: 15
+  wis: 11
+track: Diplomacy
+trait: I connect everything that happens to me to a grand, cosmic plan.
+trait1: Seraphic
+trait2: Boisterous
 year: 1
 ---
 # Pike Tethir
 ---
 ### Description
-- 1st year Halfling Paladin in Burk
-- wavy platinum hair that's hanging down to their back, Green eyes, and Pale skin
-- Is Perservering and Hypnotic, and has Austerity as their ideal
+- 1st year Human Barbarian in Elkenval
+- curly lighter blonde hair that's braided with blue ribbon (med), Green eyes, and Brown skin
+- Is Seraphic and Boisterous, and has Cooperation as their ideal
 
 ### Organizations
 ### Relationships
-[[Jacoby Maeraddyth]]: partymate
-[[Malchor Tenyajn]]: partymate
+[[Nathan Laeroth]]: partymate
+[[Jendrellian Webb]]: partymate
 ### Stats
 ```statblock
 name: Pike Tethir
-stats: [16, 12, 15, 13, 15, 13]
+stats: [15, 4, 14, 10, 11, 11]
 ```

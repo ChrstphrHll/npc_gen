@@ -1,50 +1,49 @@
 ---
 birthday:
-  numeric: 7/32
-  written: 32nd of Korent
-bond: The gods of my people are a comfort to me so far from home.
-eyes: Green
-flaw: I'm convinced that no one could ever fool me the way I fool others.
-guild: Alderden
-hair: curly auburn hair that's braided with green ribbon (med)
-ideal: Wellness
+  numeric: 1/2
+  written: 2nd of Avanent
+bond: My family, clan, or tribe is the most important thing in my life, even when
+  they are far from me.
+eyes: Pale Blue
+flaw: I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go,
+  I'm surrounded by rivals.
+guild: Fiesn
+hair: straight dark red hair that's put up in a large bun
+ideal: Independence
 name: Astinus Sythaeryn
 organizations: []
-partyID: 77
+partyID: 37
 race: Human
 relationships:
-- name: Kaeli Khiiral
+- name: Hudsen Aluendalee
   type: partymate
-- name: Cartyr Tamsin
-  type: partymate
-skin: Fair
-spec: Cleric
+skin: Brown
+spec: Bard
 stats:
-  cha: 14
-  con: 11
-  dex: 17
-  int: 11
-  str: 11
+  cha: 17
+  con: 14
+  dex: 11
+  int: 9
+  str: 10
   wis: 15
 track: Protection
-trait: I hide scraps of food and trinkets away in my pockets.
-trait1: Polished
-trait2: Wicked
-year: 3
+trait: My favor, once lost, is lost forever.
+trait1: Thrifty
+trait2: Aimless
+year: 4
 ---
 # Astinus Sythaeryn
 ---
 ### Description
-- 3rd year Human Cleric in Alderden
-- curly auburn hair that's braided with green ribbon (med), Green eyes, and Fair skin
-- Is Polished and Wicked, and has Wellness as their ideal
+- 4th year Human Bard in Fiesn
+- straight dark red hair that's put up in a large bun, Pale Blue eyes, and Brown skin
+- Is Thrifty and Aimless, and has Independence as their ideal
 
 ### Organizations
 ### Relationships
-[[Kaeli Khiiral]]: partymate
-[[Cartyr Tamsin]]: partymate
+[[Hudsen Aluendalee]]: partymate
 ### Stats
 ```statblock
 name: Astinus Sythaeryn
-stats: [11, 17, 11, 11, 15, 14]
+stats: [10, 11, 14, 9, 15, 17]
 ```

@@ -1,56 +1,51 @@
 ---
 birthday:
-  numeric: 8/10
-  written: 10th of Ravenent
-bond: I am in love with the heir of a family that my family despises.
-eyes: Pale Gray
-flaw: I will never fully trust anyone other than myself.
-guild: Burk
-hair: straight red hair that's done up in a top knot
-ideal: Caring
+  numeric: 1/1
+  written: 1st of Avanent
+bond: I hold no greater cause than my service to my people.
+eyes: Deep Blue
+flaw: Now that I've returned to the world, I enjoy its delights a little too much.
+guild: Jettenia
+hair: wavy pink hair that's done up in a top knot
+ideal: Wealth
 name: Jaris Amlaruil
 organizations: []
-partyID: 57
-race: Halfling
+partyID: 10
+race: Triton
 relationships:
-- name: Taanyth Seeker
+- name: Jareth Tanseril
   type: partymate
-- name: Tyego Sinaht
+- name: Aksel Strohm
   type: partymate
-- name: Felgie Eldar
-  type: partymate
-- name: Tisette Bender
-  type: partymate
-skin: Dark Tan
-spec: Barbarian
+skin: Aqua
+spec: Fighter
 stats:
   cha: 11
-  con: 8
-  dex: 12
-  int: 13
-  str: 18
-  wis: 12
-track: Exploration
-trait: I don't like to bathe.
-trait1: Authentic
-trait2: Suspicious
-year: 1
+  con: 11
+  dex: 14
+  int: 17
+  str: 14
+  wis: 3
+track: Protection
+trait: I keep multiple holy symbols on me and invoke whatever deity might come in
+  useful at any given moment.
+trait1: Resourceful
+trait2: Bland
+year: 7
 ---
 # Jaris Amlaruil
 ---
 ### Description
-- 1st year Halfling Barbarian in Burk
-- straight red hair that's done up in a top knot, Pale Gray eyes, and Dark Tan skin
-- Is Authentic and Suspicious, and has Caring as their ideal
+- 7th year Triton Fighter in Jettenia
+- wavy pink hair that's done up in a top knot, Deep Blue eyes, and Aqua skin
+- Is Resourceful and Bland, and has Wealth as their ideal
 
 ### Organizations
 ### Relationships
-[[Taanyth Seeker]]: partymate
-[[Tyego Sinaht]]: partymate
-[[Felgie Eldar]]: partymate
-[[Tisette Bender]]: partymate
+[[Jareth Tanseril]]: partymate
+[[Aksel Strohm]]: partymate
 ### Stats
 ```statblock
 name: Jaris Amlaruil
-stats: [18, 12, 8, 13, 12, 11]
+stats: [14, 14, 11, 17, 3, 11]
 ```

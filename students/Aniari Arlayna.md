@@ -1,49 +1,51 @@
 ---
 birthday:
-  numeric: 7/27
-  written: 27th of Korent
-bond: I come from a noble family, and one day I'll reclaim my lands and title from
-  those who stole them from me.
-eyes: Gray
-flaw: I have a weakness for the new intoxicants and other pleasures of this land.
-guild: Jettenia
-hair: wavy auburn hair that's geled back
-ideal: Tolerance
+  numeric: 3/3
+  written: 3rd of Melorent
+bond: I'm trying to pay off an old debt I owe to a generous benefactor.
+eyes: Brown
+flaw: I pretend not to understand the local language in order to avoid interactions
+  I would rather not have.
+guild: Elkenval
+hair: wavy dark red hair that's put back in a short pony tail
+ideal: Courage
 name: Aniari Arlayna
 organizations: []
-partyID: 38
-race: Half-Elf
+partyID: 77
+race: Elf
 relationships:
-- name: Jaxon Brindarry
+- name: Nycola Eroan
   type: partymate
-skin: Dark Tan
-spec: Bard
+- name: Eliana Saevel
+  type: partymate
+skin: Light
+spec: Barbarian
 stats:
-  cha: 13
-  con: 8
-  dex: 17
-  int: 13
+  cha: 8
+  con: 10
+  dex: 11
+  int: 10
   str: 13
-  wis: 10
-track: Diplomacy
-trait: I often get lost in my own thoughts and contemplation, becoming oblivious to
-  my surroundings.
-trait1: Exciting
-trait2: Resentful
+  wis: 12
+track: Assault
+trait: I always want to know how things work and what makes people tick.
+trait1: Knowledgeable
+trait2: Dishonest
 year: 1
 ---
 # Aniari Arlayna
 ---
 ### Description
-- 1st year Half-Elf Bard in Jettenia
-- wavy auburn hair that's geled back, Gray eyes, and Dark Tan skin
-- Is Exciting and Resentful, and has Tolerance as their ideal
+- 1st year Elf Barbarian in Elkenval
+- wavy dark red hair that's put back in a short pony tail, Brown eyes, and Light skin
+- Is Knowledgeable and Dishonest, and has Courage as their ideal
 
 ### Organizations
 ### Relationships
-[[Jaxon Brindarry]]: partymate
+[[Nycola Eroan]]: partymate
+[[Eliana Saevel]]: partymate
 ### Stats
 ```statblock
 name: Aniari Arlayna
-stats: [13, 17, 8, 13, 10, 13]
+stats: [13, 11, 10, 10, 12, 8]
 ```

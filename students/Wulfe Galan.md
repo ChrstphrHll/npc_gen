@@ -1,53 +1,56 @@
 ---
 birthday:
-  numeric: 6/21
-  written: 21st of Pelent
-bond: Something important was taken from me, and I aim to steal it back.
+  numeric: 3/17
+  written: 17th of Melorent
+bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
+  to see them again one day.
 eyes: Green
-flaw: I am suspicious of strangers and expect the worst of them.
-guild: Fiesn
-hair: curly black hair that's parted to the side, slightly obscuring an eye
-ideal: Adventure
+flaw: I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster
+  than I bring them in.
+guild: Elkenval
+hair: curly black hair that's hanging down to their back
+ideal: Vengful
 name: Wulfe Galan
 organizations: []
-partyID: 23
-race: Half-Elf
+partyID: 82
+race: Genasi
 relationships:
-- name: Hanna Arkhun
+- name: Yakob Lydialeera
   type: partymate
-- name: Melcyn Taeral
+- name: Nicolle Shandalar
   type: partymate
-- name: Abryia Rubrae
+- name: Lichie Halliwell
   type: partymate
-skin: Brown
-spec: Sorcerer
+skin: fire
+spec: Paladin
 stats:
   cha: 13
-  con: 13
+  con: 10
   dex: 11
-  int: 9
-  str: 12
-  wis: 13
+  int: 10
+  str: 16
+  wis: 12
 track: Assault
-trait: I get bored easily. When am I going to get on with my destiny?
-trait1: Needy
-trait2: Unfriendly
-year: 4
+trait: I once ran twenty-five miles without stopping to warn to my clan of an approaching
+  orc horde. I'd do it again if I had to.
+trait1: Steadfast
+trait2: Mellow
+year: 1
 ---
 # Wulfe Galan
 ---
 ### Description
-- 4th year Half-Elf Sorcerer in Fiesn
-- curly black hair that's parted to the side, slightly obscuring an eye, Green eyes, and Brown skin
-- Is Needy and Unfriendly, and has Adventure as their ideal
+- 1st year Genasi Paladin in Elkenval
+- curly black hair that's hanging down to their back, Green eyes, and fire skin
+- Is Steadfast and Mellow, and has Vengful as their ideal
 
 ### Organizations
 ### Relationships
-[[Hanna Arkhun]]: partymate
-[[Melcyn Taeral]]: partymate
-[[Abryia Rubrae]]: partymate
+[[Yakob Lydialeera]]: partymate
+[[Nicolle Shandalar]]: partymate
+[[Lichie Halliwell]]: partymate
 ### Stats
 ```statblock
 name: Wulfe Galan
-stats: [12, 11, 13, 9, 13, 13]
+stats: [16, 11, 10, 10, 12, 13]
 ```

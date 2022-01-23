@@ -1,54 +1,57 @@
 ---
 birthday:
-  numeric: 7/28
-  written: 28th of Korent
-bond: The common folk must see me as a hero of the people.
-eyes: Pale Green
-flaw: I speak without really thinking through my words, invariably insulting others.
+  numeric: 4/4
+  written: 4th of Moradent
+bond: So long as I have this token from my homeland, I can face any adversity in this
+  strange land.
+eyes: Brown
+flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
 guild: Treskal
-hair: curly strawberry blond hair that's parted to the side, slightly obscuring an
-  eye
-ideal: Conformity
+hair: straight brunette hair that's parted to the side, slightly obscuring an eye
+ideal: Knowledge
 name: Theriss Deularla
 organizations: []
-partyID: 66
-race: Human
+partyID: 58
+race: Gnome
 relationships:
-- name: Turi Chandrelle
+- name: Vyctor Willow
   type: partymate
-- name: Ivistra Stockton
+- name: Karl Cauladra
   type: partymate
-- name: Marl Ahrendaaria
+- name: Varlae Voron
   type: partymate
-skin: Dark Brown
-spec: Paladin
+- name: Dree Nuala
+  type: partymate
+skin: Dark Tan
+spec: Cleric
 stats:
-  cha: 11
-  con: 16
-  dex: 6
-  int: 14
-  str: 15
-  wis: 9
-track: Diplomacy
-trait: I would rather make a new friend than a new enemy.
-trait1: Stubborn
-trait2: Chummy
-year: 4
+  cha: 15
+  con: 11
+  dex: 14
+  int: 9
+  str: 17
+  wis: 17
+track: Protection
+trait: I watch over my friends as if they were a litter of newborn pups.
+trait1: Attentive
+trait2: Fraudulent
+year: 6
 ---
 # Theriss Deularla
 ---
 ### Description
-- 4th year Human Paladin in Treskal
-- curly strawberry blond hair that's parted to the side, slightly obscuring an eye, Pale Green eyes, and Dark Brown skin
-- Is Stubborn and Chummy, and has Conformity as their ideal
+- 6th year Gnome Cleric in Treskal
+- straight brunette hair that's parted to the side, slightly obscuring an eye, Brown eyes, and Dark Tan skin
+- Is Attentive and Fraudulent, and has Knowledge as their ideal
 
 ### Organizations
 ### Relationships
-[[Turi Chandrelle]]: partymate
-[[Ivistra Stockton]]: partymate
-[[Marl Ahrendaaria]]: partymate
+[[Vyctor Willow]]: partymate
+[[Karl Cauladra]]: partymate
+[[Varlae Voron]]: partymate
+[[Dree Nuala]]: partymate
 ### Stats
 ```statblock
 name: Theriss Deularla
-stats: [15, 6, 16, 14, 9, 11]
+stats: [17, 14, 11, 9, 17, 15]
 ```

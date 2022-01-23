@@ -1,56 +1,48 @@
 ---
 birthday:
-  numeric: 8/17
-  written: 17th of Ravenent
-bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
-eyes: Pale Gray
-flaw: I have a weakness for the exotic beauty of the people of these lands.
-guild: Burk
-hair: straight auburn hair that's geled back
-ideal: Dishonesty
+  numeric: 7/20
+  written: 20th of Korent
+bond: I would do anything for the other members of my old troupe.
+eyes: Pale Brown
+flaw: I secretly believe that everyone is beneath me.
+guild: Elkenval
+hair: straight brunette hair that's put up in a large bun
+ideal: Professionalism
 name: Kanoi Xharlion
 organizations: []
-partyID: 55
-race: Tiefling
+partyID: 84
+race: Dwarf
 relationships:
-- name: Allisa Iahalae
+- name: Ljuk Vulkor
   type: partymate
-- name: Iaen Dannyd
-  type: partymate
-- name: Roman Erolith
-  type: partymate
-- name: Nicholus Morthil
-  type: partymate
-skin: Red
-spec: Monk
+skin: Tan
+spec: Artificer
 stats:
-  cha: 13
-  con: 10
-  dex: 15
-  int: 13
-  str: 8
+  cha: 14
+  con: 14
+  dex: 17
+  int: 17
+  str: 12
   wis: 13
 track: Diplomacy
-trait: I always have a plan for what to do when things go wrong.
-trait1: Businesslike
-trait2: Faithless
-year: 3
+trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
+  bundle in my arms.
+trait1: Sarcastic
+trait2: Odd
+year: 2
 ---
 # Kanoi Xharlion
 ---
 ### Description
-- 3rd year Tiefling Monk in Burk
-- straight auburn hair that's geled back, Pale Gray eyes, and Red skin
-- Is Businesslike and Faithless, and has Dishonesty as their ideal
+- 2nd year Dwarf Artificer in Elkenval
+- straight brunette hair that's put up in a large bun, Pale Brown eyes, and Tan skin
+- Is Sarcastic and Odd, and has Professionalism as their ideal
 
 ### Organizations
 ### Relationships
-[[Allisa Iahalae]]: partymate
-[[Iaen Dannyd]]: partymate
-[[Roman Erolith]]: partymate
-[[Nicholus Morthil]]: partymate
+[[Ljuk Vulkor]]: partymate
 ### Stats
 ```statblock
 name: Kanoi Xharlion
-stats: [8, 15, 10, 13, 13, 13]
+stats: [12, 17, 14, 17, 13, 14]
 ```

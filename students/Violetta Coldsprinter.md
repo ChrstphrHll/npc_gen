@@ -1,52 +1,54 @@
 ---
 birthday:
-  numeric: 6/7
-  written: 7th of Pelent
-bond: Nothing is more important than the other members of my family.
-eyes: Pale Brown
-flaw: Once someone questions my courage, I never back down no matter how dangerous
-  the situation.
-guild: Jettenia
-hair: curly red hair that's parted to the right
-ideal: Patience
+  numeric: 1/9
+  written: 9th of Avanent
+bond: Something important was taken from me, and I aim to steal it back.
+eyes: Hazel
+flaw: I like keeping secrets and won't share them with anyone.
+guild: Burk
+hair: straight auburn hair that's put back in a long pony tail
+ideal: Creativity
 name: Violetta Coldsprinter
 organizations: []
-partyID: 17
-race: Human
+partyID: 93
+race: Half-Orc
 relationships:
-- name: Secarr Ashbluff
+- name: Abryia Rubrae
   type: partymate
-- name: Brianna Kosunten
+- name: Yan Sorsasta
   type: partymate
-skin: Dark Tan
-spec: Monk
+- name: Nicholus Morthil
+  type: partymate
+skin: Pale Gray
+spec: Fighter
 stats:
-  cha: 8
-  con: 10
-  dex: 14
-  int: 7
-  str: 9
+  cha: 13
+  con: 11
+  dex: 13
+  int: 9
+  str: 16
   wis: 13
 track: Assault
 trait: I have my own ideas about what is and is not food, and I find the eating habits
   of those around me fascinating, confusing, or revolting.
-trait1: Infallible
-trait2: Puritanical
+trait1: Original
+trait2: Naughty
 year: 2
 ---
 # Violetta Coldsprinter
 ---
 ### Description
-- 2nd year Human Monk in Jettenia
-- curly red hair that's parted to the right, Pale Brown eyes, and Dark Tan skin
-- Is Infallible and Puritanical, and has Patience as their ideal
+- 2nd year Half-Orc Fighter in Burk
+- straight auburn hair that's put back in a long pony tail, Hazel eyes, and Pale Gray skin
+- Is Original and Naughty, and has Creativity as their ideal
 
 ### Organizations
 ### Relationships
-[[Secarr Ashbluff]]: partymate
-[[Brianna Kosunten]]: partymate
+[[Abryia Rubrae]]: partymate
+[[Yan Sorsasta]]: partymate
+[[Nicholus Morthil]]: partymate
 ### Stats
 ```statblock
 name: Violetta Coldsprinter
-stats: [9, 14, 10, 7, 13, 8]
+stats: [16, 13, 11, 9, 13, 13]
 ```

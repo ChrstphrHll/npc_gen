@@ -1,55 +1,56 @@
 ---
 birthday:
-  numeric: 3/10
-  written: 10th of Melorent
+  numeric: 7/30
+  written: 30th of Korent
 bond: My freedom is my most precious possession. I'll never let anyone take it from
   me again.
 eyes: Amber
-flaw: Now that I've returned to the world, I enjoy its delights a little too much.
+flaw: I consider the adherents of other gods to be deluded innocents at best, or ignorant
+  fools at worst.
 guild: Burk
-hair: wavy brunette hair that's done up in a top knot
-ideal: Patience
+hair: curly lighter blonde hair that's braided with turquoise ribbon (med)
+ideal: Pessimism
 name: Aelisabeth Soliania
 organizations: []
-partyID: 45
-race: Dwarf
+partyID: 9
+race: Halfling
 relationships:
-- name: Jendrellian Webb
+- name: Elia Veluthil
   type: partymate
-- name: Rivik Connak
+- name: Rotheloe Samblar
   type: partymate
-- name: Eva Reluvethel
+- name: Helera Urkensvall
   type: partymate
-skin: Dark Tan
-spec: Artificer
+skin: Light Tan
+spec: Barbarian
 stats:
-  cha: 11
-  con: 11
-  dex: 15
-  int: 16
-  str: 15
-  wis: 9
-track: Exploration
-trait: Nobody stays angry at me or around me for long, since I can defuse any amount
-  of tension.
-trait1: Cute
-trait2: Ridiculous
-year: 4
+  cha: 16
+  con: 7
+  dex: 11
+  int: 11
+  str: 13
+  wis: 10
+track: Assault
+trait: I am always calm, no matter what the situation. I never raise my voice or let
+  emotions control me.
+trait1: Vivacious
+trait2: Artificial
+year: 3
 ---
 # Aelisabeth Soliania
 ---
 ### Description
-- 4th year Dwarf Artificer in Burk
-- wavy brunette hair that's done up in a top knot, Amber eyes, and Dark Tan skin
-- Is Cute and Ridiculous, and has Patience as their ideal
+- 3rd year Halfling Barbarian in Burk
+- curly lighter blonde hair that's braided with turquoise ribbon (med), Amber eyes, and Light Tan skin
+- Is Vivacious and Artificial, and has Pessimism as their ideal
 
 ### Organizations
 ### Relationships
-[[Jendrellian Webb]]: partymate
-[[Rivik Connak]]: partymate
-[[Eva Reluvethel]]: partymate
+[[Elia Veluthil]]: partymate
+[[Rotheloe Samblar]]: partymate
+[[Helera Urkensvall]]: partymate
 ### Stats
 ```statblock
 name: Aelisabeth Soliania
-stats: [15, 15, 11, 16, 9, 11]
+stats: [13, 11, 7, 11, 10, 16]
 ```

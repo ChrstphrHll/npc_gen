@@ -1,54 +1,51 @@
 ---
 birthday:
-  numeric: 1/32
-  written: 32nd of Avanent
-bond: So long as I have this token from my homeland, I can face any adversity in this
-  strange land.
-eyes: Brown
-flaw: I am too enamored of ale, wine, and other intoxicants.
-guild: Treskal
-hair: wavy strawberry blond hair that's done up in a top knot
-ideal: Respect
+  numeric: 5/26
+  written: 26th of Iounent
+bond: I entered seclusion because I loved someone I could not have.
+eyes: Gray
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+guild: Burk
+hair: frizzy white hair that's put back in a short pony tail
+ideal: Responsibility
 name: Valygar Lyklor
 organizations: []
-partyID: 34
-race: Human
+partyID: 86
+race: Firbolg
 relationships:
-- name: Iamus Aneirin
+- name: Lyonus Ioelena
   type: partymate
-- name: Natylie Rathal
+- name: Hagar Sakrattars
   type: partymate
-- name: Eljana Jian
-  type: partymate
-skin: Brown
-spec: Barbarian
+skin: Pale Green
+spec: Cleric
 stats:
-  cha: 12
-  con: 14
-  dex: 12
-  int: 18
-  str: 16
+  cha: 11
+  con: 11
+  dex: 14
+  int: 14
+  str: 13
   wis: 15
-track: Diplomacy
-trait: I have a crude sense of humor.
-trait1: Persistent
-trait2: Childish
-year: 5
+track: Protection
+trait: I know a story relevant to almost every situation.
+trait1: Invulnerable
+trait2: Assertive
+year: 2
 ---
 # Valygar Lyklor
 ---
 ### Description
-- 5th year Human Barbarian in Treskal
-- wavy strawberry blond hair that's done up in a top knot, Brown eyes, and Brown skin
-- Is Persistent and Childish, and has Respect as their ideal
+- 2nd year Firbolg Cleric in Burk
+- frizzy white hair that's put back in a short pony tail, Gray eyes, and Pale Green skin
+- Is Invulnerable and Assertive, and has Responsibility as their ideal
 
 ### Organizations
 ### Relationships
-[[Iamus Aneirin]]: partymate
-[[Natylie Rathal]]: partymate
-[[Eljana Jian]]: partymate
+[[Lyonus Ioelena]]: partymate
+[[Hagar Sakrattars]]: partymate
 ### Stats
 ```statblock
 name: Valygar Lyklor
-stats: [16, 12, 14, 18, 15, 12]
+stats: [13, 14, 11, 14, 15, 11]
 ```

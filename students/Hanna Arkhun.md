@@ -1,54 +1,50 @@
 ---
 birthday:
-  numeric: 6/2
-  written: 2nd of Pelent
-bond: I work to preserve a library, university, scriptorium, or monastery.
-eyes: Hazel
-flaw: I have a weakness for the exotic beauty of the people of these lands.
-guild: Fiesn
-hair: straight brunette hair that's loose around the shoulders
-ideal: Knowledge
+  numeric: 1/23
+  written: 23rd of Avanent
+bond: My town or city is my home, and I'll fight to defend it.
+eyes: Brown
+flaw: I speak without really thinking through my words, invariably insulting others.
+guild: Treskal
+hair: straight auburn hair that's parted to the side, slightly obscuring an eye
+ideal: Involvement
 name: Hanna Arkhun
 organizations: []
-partyID: 23
-race: Half-Orc
+partyID: 78
+race: Triton
 relationships:
-- name: Wulfe Galan
+- name: Maia Ashsorrow
   type: partymate
-- name: Melcyn Taeral
-  type: partymate
-- name: Abryia Rubrae
+- name: Joyce Helartha
   type: partymate
 skin: Pale Gray
 spec: Paladin
 stats:
-  cha: 13
-  con: 10
-  dex: 13
-  int: 11
-  str: 14
-  wis: 12
-track: Assault
-trait: I believe that anything worth doing is worth doing right. I can't help it-
-  I'm a perfectionist.
-trait1: Folksy
-trait2: Artificial
-year: 4
+  cha: 12
+  con: 14
+  dex: 11
+  int: 14
+  str: 17
+  wis: 10
+track: Protection
+trait: I have a joke for every occasion, especially occasions where humor is inappropriate.
+trait1: Dependable
+trait2: Enigmatic
+year: 1
 ---
 # Hanna Arkhun
 ---
 ### Description
-- 4th year Half-Orc Paladin in Fiesn
-- straight brunette hair that's loose around the shoulders, Hazel eyes, and Pale Gray skin
-- Is Folksy and Artificial, and has Knowledge as their ideal
+- 1st year Triton Paladin in Treskal
+- straight auburn hair that's parted to the side, slightly obscuring an eye, Brown eyes, and Pale Gray skin
+- Is Dependable and Enigmatic, and has Involvement as their ideal
 
 ### Organizations
 ### Relationships
-[[Wulfe Galan]]: partymate
-[[Melcyn Taeral]]: partymate
-[[Abryia Rubrae]]: partymate
+[[Maia Ashsorrow]]: partymate
+[[Joyce Helartha]]: partymate
 ### Stats
 ```statblock
 name: Hanna Arkhun
-stats: [14, 13, 10, 11, 12, 13]
+stats: [17, 11, 14, 14, 10, 12]
 ```

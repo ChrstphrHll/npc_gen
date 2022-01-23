@@ -1,53 +1,50 @@
 ---
 birthday:
-  numeric: 1/14
-  written: 14th of Avanent
-bond: I fight for those who cannot fight for themselves.
-eyes: Spring Green
-flaw: I will never fully trust anyone other than myself.
-guild: Jettenia
-hair: frills
-ideal: Integrity
+  numeric: 6/11
+  written: 11th of Pelent
+bond: I would do anything for the other members of my old troupe.
+eyes: Pale Gray
+flaw: Unlocking an ancient mystery is worth the price of a civilization.
+guild: Elkenval
+hair: curly platinum hair that's hanging down to their back
+ideal: Spiritualism
 name: Evyn Fenton
 organizations: []
-partyID: 36
-race: Dragonborn
+partyID: 34
+race: Half-Orc
 relationships:
-- name: Karl Cauladra
+- name: Eune Eldratha
   type: partymate
-- name: Gianna Rhistel
+- name: Tezani Morthil
   type: partymate
-- name: Evylen Nese
-  type: partymate
-skin: silver
-spec: Monk
+skin: Pale Green
+spec: Rouge
 stats:
   cha: 10
-  con: 13
-  dex: 15
-  int: 13
-  str: 12
-  wis: 10
-track: Diplomacy
-trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
-trait1: Friendly
-trait2: Complex
-year: 4
+  con: 9
+  dex: 13
+  int: 8
+  str: 8
+  wis: 8
+track: Protection
+trait: I hide scraps of food and trinkets away in my pockets.
+trait1: Well-rounded
+trait2: Perverse
+year: 2
 ---
 # Evyn Fenton
 ---
 ### Description
-- 4th year Dragonborn Monk in Jettenia
-- frills, Spring Green eyes, and silver skin
-- Is Friendly and Complex, and has Integrity as their ideal
+- 2nd year Half-Orc Rouge in Elkenval
+- curly platinum hair that's hanging down to their back, Pale Gray eyes, and Pale Green skin
+- Is Well-rounded and Perverse, and has Spiritualism as their ideal
 
 ### Organizations
 ### Relationships
-[[Karl Cauladra]]: partymate
-[[Gianna Rhistel]]: partymate
-[[Evylen Nese]]: partymate
+[[Eune Eldratha]]: partymate
+[[Tezani Morthil]]: partymate
 ### Stats
 ```statblock
 name: Evyn Fenton
-stats: [12, 15, 13, 13, 10, 10]
+stats: [8, 13, 9, 8, 8, 10]
 ```

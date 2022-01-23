@@ -1,50 +1,47 @@
 ---
 birthday:
-  numeric: 8/20
-  written: 20th of Ravenent
-bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
-eyes: Amber
-flaw: I speak without really thinking through my words, invariably insulting others.
-guild: Jettenia
-hair: wavy dark red hair that's put back in a long pony tail
-ideal: Beauty
+  numeric: 8/24
+  written: 24th of Ravenent
+bond: I'm fascinated by the beauty and wonder of this new land.
+eyes: Green
+flaw: There's no room for caution in a life lived to the fullest.
+guild: Fiesn
+hair: curly blue hair that's parted to the right
+ideal: Intelligence
 name: Alyx Nopos
 organizations: []
-partyID: 68
-race: Triton
+partyID: 87
+race: Tiefling
 relationships:
-- name: Levio Evindal
-  type: partymate
-- name: Selina Bellas
+- name: Asten Alavara
   type: partymate
 skin: Sea Green
-spec: Barbarian
+spec: Rouge
 stats:
   cha: 10
-  con: 12
-  dex: 10
-  int: 10
-  str: 15
-  wis: 15
+  con: 13
+  dex: 14
+  int: 16
+  str: 11
+  wis: 12
 track: Assault
-trait: I'm rude to people who lack my commitment to hard work and fair play.
-trait1: Industrious
-trait2: Wicked
-year: 2
+trait: I've lost too many friends, and I'm slow to make new ones.
+trait1: Maternal
+trait2: Freewheeling
+year: 6
 ---
 # Alyx Nopos
 ---
 ### Description
-- 2nd year Triton Barbarian in Jettenia
-- wavy dark red hair that's put back in a long pony tail, Amber eyes, and Sea Green skin
-- Is Industrious and Wicked, and has Beauty as their ideal
+- 6th year Tiefling Rouge in Fiesn
+- curly blue hair that's parted to the right, Green eyes, and Sea Green skin
+- Is Maternal and Freewheeling, and has Intelligence as their ideal
 
 ### Organizations
 ### Relationships
-[[Levio Evindal]]: partymate
-[[Selina Bellas]]: partymate
+[[Asten Alavara]]: partymate
 ### Stats
 ```statblock
 name: Alyx Nopos
-stats: [15, 10, 12, 10, 15, 10]
+stats: [11, 14, 13, 16, 12, 10]
 ```

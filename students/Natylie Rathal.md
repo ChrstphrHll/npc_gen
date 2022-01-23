@@ -1,55 +1,52 @@
 ---
 birthday:
-  numeric: 3/29
-  written: 29th of Melorent
-bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
-  somewhere.
-eyes: Pale Gray
-flaw: I have a weakness for the exotic beauty of the people of these lands.
-guild: Treskal
-hair: frizzy red hair that's put back in a long pony tail
-ideal: Family
+  numeric: 8/14
+  written: 14th of Ravenent
+bond: I will get revenge on the evil forces that destroyed my place of business and
+  ruined my livelihood.
+eyes: Pale Green
+flaw: I will never fully trust anyone other than myself.
+guild: Jettenia
+hair: wavy strawberry blond hair that's hanging down to their legs
+ideal: Speed
 name: Natylie Rathal
 organizations: []
-partyID: 34
-race: Gnome
+partyID: 97
+race: Elf
 relationships:
-- name: Valygar Lyklor
+- name: Kloya Kershaw
   type: partymate
-- name: Iamus Aneirin
+- name: Gavyn Sadalymn
   type: partymate
-- name: Eljana Jian
-  type: partymate
-skin: Light
-spec: Druid
+skin: Tan
+spec: Barbarian
 stats:
-  cha: 13
-  con: 15
-  dex: 15
-  int: 14
-  str: 11
-  wis: 15
-track: Protection
-trait: I once ran twenty-five miles without stopping to warn to my clan of an approaching
-  orc horde. I'd do it again if I had to.
-trait1: "Na\xEFve"
-trait2: Scatty
+  cha: 11
+  con: 14
+  dex: 10
+  int: 12
+  str: 16
+  wis: 16
+track: Assault
+trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
+  breaking them.
+trait1: Pleasant
+trait2: Emotional
 year: 5
 ---
 # Natylie Rathal
 ---
 ### Description
-- 5th year Gnome Druid in Treskal
-- frizzy red hair that's put back in a long pony tail, Pale Gray eyes, and Light skin
-- Is Naïve and Scatty, and has Family as their ideal
+- 5th year Elf Barbarian in Jettenia
+- wavy strawberry blond hair that's hanging down to their legs, Pale Green eyes, and Tan skin
+- Is Pleasant and Emotional, and has Speed as their ideal
 
 ### Organizations
 ### Relationships
-[[Valygar Lyklor]]: partymate
-[[Iamus Aneirin]]: partymate
-[[Eljana Jian]]: partymate
+[[Kloya Kershaw]]: partymate
+[[Gavyn Sadalymn]]: partymate
 ### Stats
 ```statblock
 name: Natylie Rathal
-stats: [11, 15, 15, 14, 15, 13]
+stats: [16, 10, 14, 12, 16, 11]
 ```

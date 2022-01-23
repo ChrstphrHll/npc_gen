@@ -1,53 +1,51 @@
 ---
 birthday:
-  numeric: 8/2
-  written: 2nd of Ravenent
-bond: I will become the greatest thief that ever lived.
-eyes: Pale Gray
-flaw: I speak without really thinking through my words, invariably insulting others.
-guild: Jettenia
-hair: wavy brunette hair that's parted to the side, slightly obscuring an eye
-ideal: Forgiveness
+  numeric: 7/33
+  written: 33rd of Korent
+bond: I'll never forget the crushing defeat my company suffered or the enemies who
+  dealt it.
+eyes: Blue
+flaw: I'll do anything to win fame and renown.
+guild: Fiesn
+hair: curly brunette hair that's put up in a large bun
+ideal: Independence
 name: Brithmaur Decker
 organizations: []
-partyID: 19
-race: Elf
+partyID: 25
+race: Half-Orc
 relationships:
-- name: Hartwen Galaeron
+- name: Grassa Ashbluff
   type: partymate
-- name: Pinna Vanius
+- name: Braidyn Kemetra
   type: partymate
-- name: Eliana Saevel
-  type: partymate
-skin: Dark Brown
-spec: Ranger
+skin: Green Blue
+spec: Druid
 stats:
-  cha: 15
-  con: 11
-  dex: 15
+  cha: 12
+  con: 13
+  dex: 14
   int: 12
   str: 13
-  wis: 14
-track: Exploration
-trait: I am working on a grand philosophical theory and love sharing my ideas.
-trait1: Joyful
-trait2: Apathetic
-year: 3
+  wis: 15
+track: Diplomacy
+trait: I always want to know how things work and what makes people tick.
+trait1: Strong-willed
+trait2: Boorish
+year: 7
 ---
 # Brithmaur Decker
 ---
 ### Description
-- 3rd year Elf Ranger in Jettenia
-- wavy brunette hair that's parted to the side, slightly obscuring an eye, Pale Gray eyes, and Dark Brown skin
-- Is Joyful and Apathetic, and has Forgiveness as their ideal
+- 7th year Half-Orc Druid in Fiesn
+- curly brunette hair that's put up in a large bun, Blue eyes, and Green Blue skin
+- Is Strong-willed and Boorish, and has Independence as their ideal
 
 ### Organizations
 ### Relationships
-[[Hartwen Galaeron]]: partymate
-[[Pinna Vanius]]: partymate
-[[Eliana Saevel]]: partymate
+[[Grassa Ashbluff]]: partymate
+[[Braidyn Kemetra]]: partymate
 ### Stats
 ```statblock
 name: Brithmaur Decker
-stats: [13, 15, 11, 12, 14, 15]
+stats: [13, 14, 13, 12, 15, 12]
 ```

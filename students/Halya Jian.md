@@ -1,55 +1,54 @@
 ---
 birthday:
-  numeric: 7/27
-  written: 27th of Korent
-bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
-  eludes me.
-eyes: Green
-flaw: I'm quick to assume that someone is trying to cheat me.
-guild: Treskal
-hair: straight auburn hair that's geled back
-ideal: Entertain
+  numeric: 8/24
+  written: 24th of Ravenent
+bond: I hold no greater cause than my service to my people.
+eyes: Spring Green
+flaw: Once I pick a goal, I become obsessed with it to the detriment of everything
+  else in my life.
+guild: Fiesn
+hair: curly white hair that's geled back
+ideal: Home
 name: Halya Jian
 organizations: []
-partyID: 20
-race: Dwarf
+partyID: 96
+race: Genasi
 relationships:
-- name: Iasono Ynshael
+- name: Victor Gaelira
   type: partymate
-- name: Nebulon Faelyn
+- name: Goetia Mistale
   type: partymate
-- name: Jofan Elignoir
+- name: Handyr Letryal
   type: partymate
-skin: Brown
-spec: Barbarian
+skin: fire
+spec: Druid
 stats:
-  cha: 6
-  con: 10
-  dex: 12
-  int: 10
-  str: 16
+  cha: 12
+  con: 13
+  dex: 11
+  int: 14
+  str: 13
   wis: 15
-track: Assault
-trait: I am incredibly slow to trust. Those who seem the fairest often have the most
-  to hide.
-trait1: Sexy
-trait2: Desperate
+track: Protection
+trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
+trait1: Farsighted
+trait2: Imprudent
 year: 1
 ---
 # Halya Jian
 ---
 ### Description
-- 1st year Dwarf Barbarian in Treskal
-- straight auburn hair that's geled back, Green eyes, and Brown skin
-- Is Sexy and Desperate, and has Entertain as their ideal
+- 1st year Genasi Druid in Fiesn
+- curly white hair that's geled back, Spring Green eyes, and fire skin
+- Is Farsighted and Imprudent, and has Home as their ideal
 
 ### Organizations
 ### Relationships
-[[Iasono Ynshael]]: partymate
-[[Nebulon Faelyn]]: partymate
-[[Jofan Elignoir]]: partymate
+[[Victor Gaelira]]: partymate
+[[Goetia Mistale]]: partymate
+[[Handyr Letryal]]: partymate
 ### Stats
 ```statblock
 name: Halya Jian
-stats: [16, 12, 10, 10, 15, 6]
+stats: [13, 11, 13, 14, 15, 12]
 ```

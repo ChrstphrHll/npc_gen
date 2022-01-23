@@ -169,6 +169,7 @@ def get_eyes(race):
         "Genasi",
         "Triton",
         "Dragonborn",
+        "Warforged"
     ]
 
     selection_list = eye_colors.copy()

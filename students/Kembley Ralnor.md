@@ -1,48 +1,51 @@
 ---
 birthday:
-  numeric: 6/32
-  written: 32nd of Pelent
-bond: My house's alliance with another noble family must be sustained at all costs.
-eyes: Amber
-flaw: I have trouble trusting in my allies.
-guild: Treskal
-hair: straight auburn hair that's parted to the side, slightly obscuring an eye
-ideal: Indulgence
+  numeric: 4/15
+  written: 15th of Moradent
+bond: I owe a debt I can never repay to the person who took pity on me.
+eyes: Gray
+flaw: An innocent person is in prison for a crime that I committed. I'm okay with
+  that.
+guild: Jettenia
+hair: curly strawberry blond hair that's put up in a large bun
+ideal: Entrepreneurial
 name: Kembley Ralnor
 organizations: []
-partyID: 35
-race: Human
+partyID: 80
+race: Half-Orc
 relationships:
-- name: Kimbera Alerathla
+- name: Celaeno Amkissra
   type: partymate
-skin: Dark Brown
-spec: Cleric
+- name: Wenge Usunaar
+  type: partymate
+skin: Pale Gray
+spec: Sorcerer
 stats:
-  cha: 9
-  con: 6
-  dex: 9
-  int: 14
-  str: 12
-  wis: 16
+  cha: 17
+  con: 7
+  dex: 11
+  int: 11
+  str: 13
+  wis: 7
 track: Protection
-trait: I keep multiple holy symbols on me and invoke whatever deity might come in
-  useful at any given moment.
-trait1: Temperate
-trait2: Disloyal
-year: 7
+trait: I work hard so that I can play hard when the work is done.
+trait1: Unaggressive
+trait2: Unimaginative
+year: 8
 ---
 # Kembley Ralnor
 ---
 ### Description
-- 7th year Human Cleric in Treskal
-- straight auburn hair that's parted to the side, slightly obscuring an eye, Amber eyes, and Dark Brown skin
-- Is Temperate and Disloyal, and has Indulgence as their ideal
+- 8th year Half-Orc Sorcerer in Jettenia
+- curly strawberry blond hair that's put up in a large bun, Gray eyes, and Pale Gray skin
+- Is Unaggressive and Unimaginative, and has Entrepreneurial as their ideal
 
 ### Organizations
 ### Relationships
-[[Kimbera Alerathla]]: partymate
+[[Celaeno Amkissra]]: partymate
+[[Wenge Usunaar]]: partymate
 ### Stats
 ```statblock
 name: Kembley Ralnor
-stats: [12, 9, 6, 14, 16, 9]
+stats: [13, 11, 7, 11, 7, 17]
 ```

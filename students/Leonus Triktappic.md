@@ -1,53 +1,51 @@
 ---
 birthday:
-  numeric: 4/12
-  written: 12th of Moradent
-bond: I fight for those who cannot fight for themselves.
-eyes: Purple
-flaw: I'm a sucker for a pretty face.
-guild: Treskal
-hair: wavy auburn hair that's braided with green ribbon (long)
-ideal: Wisdom
+  numeric: 5/29
+  written: 29th of Iounent
+bond: I seek to preserve a sacred text that my enemies consider heretical and seek
+  to destroy.
+eyes: Pale Green
+flaw: I'd rather eat my armor than admit when I'm wrong.
+guild: Fiesn
+hair: wavy grey hair that's loose around the shoulders
+ideal: Redemption
 name: Leonus Triktappic
 organizations: []
-partyID: 69
-race: Genasi
+partyID: 48
+race: Halfling
 relationships:
-- name: Helera Urkensvall
+- name: Abel Marsh
   type: partymate
-- name: Tommos Morgan
+- name: Uxwy Lazziar
   type: partymate
-- name: Avaery Klaern
-  type: partymate
-skin: water
-spec: Wizard
+skin: Fair
+spec: Barbarian
 stats:
-  cha: 13
-  con: 16
-  dex: 4
-  int: 14
-  str: 8
-  wis: 10
-track: Assault
-trait: I bluntly say what other people are hinting at or hiding.
-trait1: Big-thinking
-trait2: Desperate
-year: 1
+  cha: 6
+  con: 11
+  dex: 12
+  int: 10
+  str: 13
+  wis: 12
+track: Protection
+trait: I know a story relevant to almost every situation.
+trait1: Extraordinary
+trait2: Prejudiced
+year: 5
 ---
 # Leonus Triktappic
 ---
 ### Description
-- 1st year Genasi Wizard in Treskal
-- wavy auburn hair that's braided with green ribbon (long), Purple eyes, and water skin
-- Is Big-thinking and Desperate, and has Wisdom as their ideal
+- 5th year Halfling Barbarian in Fiesn
+- wavy grey hair that's loose around the shoulders, Pale Green eyes, and Fair skin
+- Is Extraordinary and Prejudiced, and has Redemption as their ideal
 
 ### Organizations
 ### Relationships
-[[Helera Urkensvall]]: partymate
-[[Tommos Morgan]]: partymate
-[[Avaery Klaern]]: partymate
+[[Abel Marsh]]: partymate
+[[Uxwy Lazziar]]: partymate
 ### Stats
 ```statblock
 name: Leonus Triktappic
-stats: [8, 4, 16, 14, 10, 13]
+stats: [13, 12, 11, 10, 12, 6]
 ```

@@ -1,51 +1,54 @@
 ---
 birthday:
-  numeric: 6/13
-  written: 13th of Pelent
-bond: I will become the greatest thief that ever lived.
+  numeric: 3/9
+  written: 9th of Melorent
+bond: I would still lay down my life for the people I served with.
 eyes: Pale Gray
-flaw: I consider the adherents of other gods to be deluded innocents at best, or ignorant
-  fools at worst.
-guild: Alderden
-hair: straight black hair that's a tousled bed head
-ideal: Freedom
+flaw: I am slow to trust members of other races, tribes, and societies.
+guild: Burk
+hair: short spines
+ideal: Fun
 name: Shike Thalaera
 organizations: []
-partyID: 67
-race: Half-Orc
+partyID: 38
+race: Dragonborn
 relationships:
-- name: Mateos Elanil
+- name: Hodus Belt
   type: partymate
-- name: Adamos Taehr
+- name: Delja Iefyr
   type: partymate
-skin: Green Blue
-spec: Druid
+- name: Genesys Mhaenal
+  type: partymate
+skin: black
+spec: Paladin
 stats:
-  cha: 6
-  con: 9
-  dex: 12
+  cha: 14
+  con: 14
+  dex: 10
   int: 10
-  str: 14
-  wis: 14
-track: Assault
-trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
-trait1: Irreligious
-trait2: Conforming
+  str: 15
+  wis: 12
+track: Protection
+trait: I've been isolated for so long that I rarely speak, preferring gestures and
+  the occasional grunt.
+trait1: Prudent
+trait2: Mechanical
 year: 1
 ---
 # Shike Thalaera
 ---
 ### Description
-- 1st year Half-Orc Druid in Alderden
-- straight black hair that's a tousled bed head, Pale Gray eyes, and Green Blue skin
-- Is Irreligious and Conforming, and has Freedom as their ideal
+- 1st year Dragonborn Paladin in Burk
+- short spines, Pale Gray eyes, and black skin
+- Is Prudent and Mechanical, and has Fun as their ideal
 
 ### Organizations
 ### Relationships
-[[Mateos Elanil]]: partymate
-[[Adamos Taehr]]: partymate
+[[Hodus Belt]]: partymate
+[[Delja Iefyr]]: partymate
+[[Genesys Mhaenal]]: partymate
 ### Stats
 ```statblock
 name: Shike Thalaera
-stats: [14, 12, 9, 10, 14, 6]
+stats: [15, 10, 14, 10, 12, 14]
 ```

@@ -1,51 +1,51 @@
 ---
 birthday:
-  numeric: 8/23
-  written: 23rd of Ravenent
-bond: My life's work is a series of tomes related to a specific field of lore.
-eyes: Pale Gray
-flaw: The tyrant who rules my land will stop at nothing to see me killed.
-guild: Fiesn
-hair: wavy blonde hair that's loose around the shoulders
-ideal: Forgiveness
+  numeric: 1/33
+  written: 33rd of Avanent
+bond: So long as I have this token from my homeland, I can face any adversity in this
+  strange land.
+eyes: Hazel
+flaw: If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
+guild: Elkenval
+hair: wavy dirty blonde hair that's hanging down to their back
+ideal: Dishonesty
 name: Aidyn Glynnii
 organizations: []
-partyID: 12
-race: Human
+partyID: 2
+race: Half-Orc
 relationships:
-- name: Dree Nuala
+- name: Jothen Elway
   type: partymate
-- name: Delja Iefyr
+- name: Allisa Iahalae
   type: partymate
-skin: Brown
-spec: Wizard
+skin: Deep Green
+spec: Monk
 stats:
-  cha: 9
-  con: 12
-  dex: 12
-  int: 14
-  str: 9
+  cha: 14
+  con: 14
+  dex: 15
+  int: 5
+  str: 10
   wis: 12
-track: Diplomacy
-trait: I have my own ideas about what is and is not food, and I find the eating habits
-  of those around me fascinating, confusing, or revolting.
-trait1: Patriotic
-trait2: Hateful
-year: 8
+track: Exploration
+trait: I am working on a grand philosophical theory and love sharing my ideas.
+trait1: Meticulous
+trait2: Bizarre
+year: 1
 ---
 # Aidyn Glynnii
 ---
 ### Description
-- 8th year Human Wizard in Fiesn
-- wavy blonde hair that's loose around the shoulders, Pale Gray eyes, and Brown skin
-- Is Patriotic and Hateful, and has Forgiveness as their ideal
+- 1st year Half-Orc Monk in Elkenval
+- wavy dirty blonde hair that's hanging down to their back, Hazel eyes, and Deep Green skin
+- Is Meticulous and Bizarre, and has Dishonesty as their ideal
 
 ### Organizations
 ### Relationships
-[[Dree Nuala]]: partymate
-[[Delja Iefyr]]: partymate
+[[Jothen Elway]]: partymate
+[[Allisa Iahalae]]: partymate
 ### Stats
 ```statblock
 name: Aidyn Glynnii
-stats: [9, 12, 12, 14, 12, 9]
+stats: [10, 15, 14, 5, 12, 14]
 ```

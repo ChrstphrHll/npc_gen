@@ -1,57 +1,55 @@
 ---
 birthday:
-  numeric: 2/18
-  written: 18th of Corelent
-bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
-  to see them again one day.
-eyes: Emerald Green
-flaw: The tyrant who rules my land will stop at nothing to see me killed.
-guild: Fiesn
-hair: 4 hooked horns
-ideal: Intuition
+  numeric: 4/3
+  written: 3rd of Moradent
+bond: I hold no greater cause than my service to my people.
+eyes: Violet Red
+flaw: Once someone questions my courage, I never back down no matter how dangerous
+  the situation.
+guild: Elkenval
+hair: wavy white hair that's parted to the right
+ideal: Contributing
 name: Nicolle Shandalar
 organizations: []
-partyID: 25
-race: Dragonborn
+partyID: 82
+race: Triton
 relationships:
-- name: Hanro Fieryat
+- name: Wulfe Galan
   type: partymate
-- name: Rossan Jonik
+- name: Yakob Lydialeera
   type: partymate
-- name: Meira Nuvian
+- name: Lichie Halliwell
   type: partymate
-- name: Kova Tamara
-  type: partymate
-skin: green
-spec: Rouge
+skin: Sea Green
+spec: Cleric
 stats:
-  cha: 15
-  con: 11
-  dex: 16
-  int: 13
-  str: 7
-  wis: 16
+  cha: 8
+  con: 18
+  dex: 11
+  int: 10
+  str: 11
+  wis: 12
 track: Assault
-trait: I take great pains to always look my best and follow the latest fashions.
-trait1: Attentive
-trait2: Hateful
-year: 4
+trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
+  breaking them.
+trait1: Upright
+trait2: Opinionated
+year: 1
 ---
 # Nicolle Shandalar
 ---
 ### Description
-- 4th year Dragonborn Rouge in Fiesn
-- 4 hooked horns, Emerald Green eyes, and green skin
-- Is Attentive and Hateful, and has Intuition as their ideal
+- 1st year Triton Cleric in Elkenval
+- wavy white hair that's parted to the right, Violet Red eyes, and Sea Green skin
+- Is Upright and Opinionated, and has Contributing as their ideal
 
 ### Organizations
 ### Relationships
-[[Hanro Fieryat]]: partymate
-[[Rossan Jonik]]: partymate
-[[Meira Nuvian]]: partymate
-[[Kova Tamara]]: partymate
+[[Wulfe Galan]]: partymate
+[[Yakob Lydialeera]]: partymate
+[[Lichie Halliwell]]: partymate
 ### Stats
 ```statblock
 name: Nicolle Shandalar
-stats: [7, 16, 11, 13, 16, 15]
+stats: [11, 11, 18, 10, 12, 8]
 ```

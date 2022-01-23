@@ -1,54 +1,49 @@
 ---
 birthday:
-  numeric: 5/25
-  written: 25th of Iounent
-bond: Somewhere out there, I have a child who doesn't know me. I'm making the world
-  better for him or her.
-eyes: Green
-flaw: It's not stealing if I need it more than someone else.
-guild: Jettenia
-hair: wavy lighter blonde hair that's a tousled bed head
-ideal: Code
+  numeric: 2/11
+  written: 11th of Corelent
+bond: My family, clan, or tribe is the most important thing in my life, even when
+  they are far from me.
+eyes: Pale Gray
+flaw: If I'm outnumbered, I will run away from a fight.
+guild: Burk
+hair: straight auburn hair that's braided with violet ribbon (med)
+ideal: Contributing
 name: Alys Ylyndar
 organizations: []
-partyID: 46
+partyID: 39
 race: Human
 relationships:
-- name: Maarika Oncith
+- name: Brynn Opalul
   type: partymate
-- name: Jovos Seldanna
-  type: partymate
-- name: Brinna Muerlara
-  type: partymate
-skin: Light
+skin: Fair
 spec: Monk
 stats:
-  cha: 11
-  con: 14
-  dex: 14
-  int: 11
-  str: 13
-  wis: 11
-track: Exploration
-trait: I feel tremendous empathy for all who suffer.
-trait1: Inventive
-trait2: Freewheeling
-year: 2
+  cha: 13
+  con: 11
+  dex: 16
+  int: 9
+  str: 14
+  wis: 14
+track: Diplomacy
+trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
+  living grates on me.
+trait1: Contented
+trait2: Licentious
+year: 3
 ---
 # Alys Ylyndar
 ---
 ### Description
-- 2nd year Human Monk in Jettenia
-- wavy lighter blonde hair that's a tousled bed head, Green eyes, and Light skin
-- Is Inventive and Freewheeling, and has Code as their ideal
+- 3rd year Human Monk in Burk
+- straight auburn hair that's braided with violet ribbon (med), Pale Gray eyes, and Fair skin
+- Is Contented and Licentious, and has Contributing as their ideal
 
 ### Organizations
 ### Relationships
-[[Maarika Oncith]]: partymate
-[[Jovos Seldanna]]: partymate
-[[Brinna Muerlara]]: partymate
+[[Brynn Opalul]]: partymate
 ### Stats
 ```statblock
 name: Alys Ylyndar
-stats: [13, 14, 14, 11, 11, 11]
+stats: [14, 16, 11, 9, 14, 13]
 ```

@@ -1,51 +1,54 @@
 ---
 birthday:
-  numeric: 4/7
-  written: 7th of Moradent
-bond: I entered seclusion because I loved someone I could not have.
-eyes: Blue
-flaw: I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go,
-  I'm surrounded by rivals.
+  numeric: 1/23
+  written: 23rd of Avanent
+bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
+eyes: Pale Brown
+flaw: My hatred of my enemies is blind and unreasoning.
 guild: Fiesn
-hair: curly dark red hair that's geled back
-ideal: Integrity
+hair: curly platinum hair that's put back in a long pony tail
+ideal: Uncaring
 name: Shinare Bersa
 organizations: []
-partyID: 84
-race: Half-Orc
+partyID: 18
+race: Tiefling
 relationships:
-- name: Oyara Faoraar
+- name: Ezros Laerdya
   type: partymate
-- name: Hazel Traeliorn
+- name: Rjanna Eroan
   type: partymate
-skin: Pale Green
-spec: Artificer
+- name: Valerya Haldreithen
+  type: partymate
+skin: Violet Red
+spec: Ranger
 stats:
-  cha: 8
-  con: 10
-  dex: 15
-  int: 16
-  str: 7
-  wis: 12
-track: Assault
-trait: I feel far more comfortable around animals than people.
-trait1: Temperate
-trait2: Stylish
-year: 3
+  cha: 17
+  con: 11
+  dex: 16
+  int: 8
+  str: 9
+  wis: 10
+track: Exploration
+trait: I keep multiple holy symbols on me and invoke whatever deity might come in
+  useful at any given moment.
+trait1: Admirable
+trait2: Invisible
+year: 1
 ---
 # Shinare Bersa
 ---
 ### Description
-- 3rd year Half-Orc Artificer in Fiesn
-- curly dark red hair that's geled back, Blue eyes, and Pale Green skin
-- Is Temperate and Stylish, and has Integrity as their ideal
+- 1st year Tiefling Ranger in Fiesn
+- curly platinum hair that's put back in a long pony tail, Pale Brown eyes, and Violet Red skin
+- Is Admirable and Invisible, and has Uncaring as their ideal
 
 ### Organizations
 ### Relationships
-[[Oyara Faoraar]]: partymate
-[[Hazel Traeliorn]]: partymate
+[[Ezros Laerdya]]: partymate
+[[Rjanna Eroan]]: partymate
+[[Valerya Haldreithen]]: partymate
 ### Stats
 ```statblock
 name: Shinare Bersa
-stats: [7, 15, 10, 16, 12, 8]
+stats: [9, 16, 11, 8, 10, 17]
 ```

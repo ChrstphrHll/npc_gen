@@ -1,50 +1,57 @@
 ---
 birthday:
-  numeric: 4/8
-  written: 8th of Moradent
-bond: No one else should have to endure the hardships I've been through.
-eyes: Blue
-flaw: I will never fully trust anyone other than myself.
-guild: Fiesn
-hair: wavy platinum hair that's kept back by a blue headband
-ideal: Personal Development
+  numeric: 1/16
+  written: 16th of Avanent
+bond: I will bring terrible wrath down on the evildoers who destroyed my homeland.
+eyes: Pale Brown
+flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
+  involved.
+guild: Treskal
+hair: curly lighter blonde hair that's braided with violet ribbon (long)
+ideal: Stoicism
 name: Dree Nuala
 organizations: []
-partyID: 12
-race: Half-Elf
+partyID: 58
+race: Gnome
 relationships:
-- name: Aidyn Glynnii
+- name: Vyctor Willow
   type: partymate
-- name: Delja Iefyr
+- name: Karl Cauladra
   type: partymate
-skin: Dark Tan
-spec: Fighter
+- name: Varlae Voron
+  type: partymate
+- name: Theriss Deularla
+  type: partymate
+skin: Brown
+spec: Rouge
 stats:
-  cha: 14
-  con: 13
-  dex: 17
-  int: 12
-  str: 12
-  wis: 12
-track: Exploration
-trait: I don't pay attention to the risks in a situation. Never tell me the odds.
-trait1: Meticulous
-trait2: Touchy
-year: 8
+  cha: 8
+  con: 12
+  dex: 13
+  int: 13
+  str: 10
+  wis: 7
+track: Diplomacy
+trait: I'm a snob who looks down on those who can't appreciate fine art.
+trait1: Unreligious
+trait2: Big-thinking
+year: 6
 ---
 # Dree Nuala
 ---
 ### Description
-- 8th year Half-Elf Fighter in Fiesn
-- wavy platinum hair that's kept back by a blue headband, Blue eyes, and Dark Tan skin
-- Is Meticulous and Touchy, and has Personal Development as their ideal
+- 6th year Gnome Rouge in Treskal
+- curly lighter blonde hair that's braided with violet ribbon (long), Pale Brown eyes, and Brown skin
+- Is Unreligious and Big-thinking, and has Stoicism as their ideal
 
 ### Organizations
 ### Relationships
-[[Aidyn Glynnii]]: partymate
-[[Delja Iefyr]]: partymate
+[[Vyctor Willow]]: partymate
+[[Karl Cauladra]]: partymate
+[[Varlae Voron]]: partymate
+[[Theriss Deularla]]: partymate
 ### Stats
 ```statblock
 name: Dree Nuala
-stats: [12, 17, 13, 12, 12, 14]
+stats: [10, 13, 12, 13, 7, 8]
 ```

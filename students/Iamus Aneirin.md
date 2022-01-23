@@ -1,53 +1,47 @@
 ---
 birthday:
-  numeric: 1/26
-  written: 26th of Avanent
-bond: My house's alliance with another noble family must be sustained at all costs.
-eyes: Pale Blue
-flaw: I'll do anything to get my hands on something rare or priceless.
+  numeric: 8/4
+  written: 4th of Ravenent
+bond: I pursue wealth to secure someone's love.
+eyes: Green
+flaw: I can't help but pocket loose coins and other trinkets I come across.
 guild: Treskal
-hair: curly brunette hair that's parted to the right
-ideal: Fun
+hair: straight turquoise hair that's parted to the left
+ideal: Harmony
 name: Iamus Aneirin
 organizations: []
-partyID: 34
+partyID: 74
 race: Dwarf
 relationships:
-- name: Valygar Lyklor
+- name: Nebulon Faelyn
   type: partymate
-- name: Natylie Rathal
-  type: partymate
-- name: Eljana Jian
-  type: partymate
-skin: Brown
-spec: Ranger
+skin: Light
+spec: Paladin
 stats:
-  cha: 10
-  con: 10
-  dex: 13
-  int: 11
-  str: 12
-  wis: 14
+  cha: 18
+  con: 16
+  dex: 16
+  int: 14
+  str: 17
+  wis: 11
 track: Diplomacy
 trait: I change my mood or my mind as quickly as I change key in a song.
-trait1: Challenging
-trait2: Affected
-year: 5
+trait1: Dynamic
+trait2: Obvious
+year: 1
 ---
 # Iamus Aneirin
 ---
 ### Description
-- 5th year Dwarf Ranger in Treskal
-- curly brunette hair that's parted to the right, Pale Blue eyes, and Brown skin
-- Is Challenging and Affected, and has Fun as their ideal
+- 1st year Dwarf Paladin in Treskal
+- straight turquoise hair that's parted to the left, Green eyes, and Light skin
+- Is Dynamic and Obvious, and has Harmony as their ideal
 
 ### Organizations
 ### Relationships
-[[Valygar Lyklor]]: partymate
-[[Natylie Rathal]]: partymate
-[[Eljana Jian]]: partymate
+[[Nebulon Faelyn]]: partymate
 ### Stats
 ```statblock
 name: Iamus Aneirin
-stats: [12, 13, 10, 11, 14, 10]
+stats: [17, 16, 16, 14, 11, 18]
 ```

@@ -1,53 +1,48 @@
 ---
 birthday:
-  numeric: 6/18
-  written: 18th of Pelent
-bond: Nothing is more important than the other members of my family.
-eyes: Amber
-flaw: I am inflexible in my thinking.
-guild: Burk
-hair: straight brunette hair that's braided with violet ribbon (med)
-ideal: Honor
+  numeric: 5/22
+  written: 22nd of Iounent
+bond: I will get revenge on the evil forces that destroyed my place of business and
+  ruined my livelihood.
+eyes: Yellow
+flaw: I'll do anything to win fame and renown.
+guild: Treskal
+hair: curly brunette hair that's put up in a large bun
+ideal: Spiritualism
 name: Ilksal Immianthe
 organizations: []
-partyID: 32
-race: Halfling
+partyID: 8
+race: Triton
 relationships:
-- name: Hudsen Elandorr
+- name: Den Ualair
   type: partymate
-- name: Matto Divya
-  type: partymate
-- name: Pippi Langston
-  type: partymate
-skin: Dark Tan
-spec: Cleric
+skin: Pale Green
+spec: Barbarian
 stats:
-  cha: 7
+  cha: 15
   con: 12
-  dex: 9
-  int: 13
-  str: 16
-  wis: 17
-track: Diplomacy
-trait: I don't like to bathe.
-trait1: Carefree
-trait2: Predictable
-year: 8
+  dex: 7
+  int: 9
+  str: 14
+  wis: 7
+track: Protection
+trait: To me, a tavern brawl is a nice way to get to know a new city.
+trait1: Friendly
+trait2: Shy
+year: 3
 ---
 # Ilksal Immianthe
 ---
 ### Description
-- 8th year Halfling Cleric in Burk
-- straight brunette hair that's braided with violet ribbon (med), Amber eyes, and Dark Tan skin
-- Is Carefree and Predictable, and has Honor as their ideal
+- 3rd year Triton Barbarian in Treskal
+- curly brunette hair that's put up in a large bun, Yellow eyes, and Pale Green skin
+- Is Friendly and Shy, and has Spiritualism as their ideal
 
 ### Organizations
 ### Relationships
-[[Hudsen Elandorr]]: partymate
-[[Matto Divya]]: partymate
-[[Pippi Langston]]: partymate
+[[Den Ualair]]: partymate
 ### Stats
 ```statblock
 name: Ilksal Immianthe
-stats: [16, 9, 12, 13, 17, 7]
+stats: [14, 7, 12, 9, 7, 15]
 ```

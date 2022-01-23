@@ -1,51 +1,48 @@
 ---
 birthday:
-  numeric: 7/22
-  written: 22nd of Korent
-bond: I'll never forget the crushing defeat my company suffered or the enemies who
-  dealt it.
-eyes: Pale Brown
-flaw: I overlook obvious solutions in favor of complicated ones.
-guild: Jettenia
-hair: straight brunette hair that's kept back by a pink headband
-ideal: Speed
+  numeric: 7/28
+  written: 28th of Korent
+bond: I want to be famous, whatever it takes.
+eyes: Gray
+flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
+  trouble.
+guild: Treskal
+hair: straight dark red hair that's put up in a large bun
+ideal: Creativity
 name: Connovar Kaminsky
 organizations: []
-partyID: 86
-race: Half-Elf
+partyID: 62
+race: Half-Orc
 relationships:
-- name: Lichie Halliwell
+- name: Olbern Uldreiyn
   type: partymate
-- name: Maia Ashsorrow
-  type: partymate
-skin: Fair
-spec: Cleric
+skin: Pale Green
+spec: Sorcerer
 stats:
-  cha: 10
-  con: 18
-  dex: 10
-  int: 9
-  str: 10
-  wis: 14
-track: Exploration
-trait: I was, in fact, raised by wolves.
-trait1: Earthy
-trait2: Rigid
-year: 1
+  cha: 15
+  con: 13
+  dex: 14
+  int: 14
+  str: 11
+  wis: 11
+track: Protection
+trait: I watch over my friends as if they were a litter of newborn pups.
+trait1: Helpful
+trait2: Plodding
+year: 4
 ---
 # Connovar Kaminsky
 ---
 ### Description
-- 1st year Half-Elf Cleric in Jettenia
-- straight brunette hair that's kept back by a pink headband, Pale Brown eyes, and Fair skin
-- Is Earthy and Rigid, and has Speed as their ideal
+- 4th year Half-Orc Sorcerer in Treskal
+- straight dark red hair that's put up in a large bun, Gray eyes, and Pale Green skin
+- Is Helpful and Plodding, and has Creativity as their ideal
 
 ### Organizations
 ### Relationships
-[[Lichie Halliwell]]: partymate
-[[Maia Ashsorrow]]: partymate
+[[Olbern Uldreiyn]]: partymate
 ### Stats
 ```statblock
 name: Connovar Kaminsky
-stats: [10, 10, 18, 9, 14, 10]
+stats: [11, 14, 13, 14, 11, 15]
 ```

@@ -1,48 +1,50 @@
 ---
 birthday:
-  numeric: 4/4
-  written: 4th of Moradent
-bond: I owe a debt I can never repay to the person who took pity on me.
-eyes: Blue
-flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
-  own hide if the going gets tough.
+  numeric: 8/18
+  written: 18th of Ravenent
+bond: Someone I loved died because of a mistake I made. That will never happen again.
+eyes: Amber
+flaw: I have an insatiable desire for carnal pleasures.
 guild: Alderden
-hair: curly auburn hair that's hanging down to their back
-ideal: Abundance
+hair: straight strawberry blond hair that's kept back by a blue headband
+ideal: Spiritualism
 name: Jamie Kesefehon
 organizations: []
-partyID: 90
-race: Human
+partyID: 16
+race: Gnome
 relationships:
-- name: Taewen Llamryl
+- name: Hanro Fieryat
   type: partymate
-skin: Dark Brown
-spec: Druid
+- name: Rasy Merlara
+  type: partymate
+skin: Fair
+spec: Sorcerer
 stats:
-  cha: 12
-  con: 14
-  dex: 11
-  int: 4
-  str: 9
-  wis: 17
-track: Protection
-trait: I would rather make a new friend than a new enemy.
-trait1: Inoffensive
-trait2: Possessive
+  cha: 17
+  con: 10
+  dex: 7
+  int: 15
+  str: 16
+  wis: 11
+track: Diplomacy
+trait: If someone is in trouble, I'm always ready to lend help.
+trait1: Simple
+trait2: Offhand
 year: 1
 ---
 # Jamie Kesefehon
 ---
 ### Description
-- 1st year Human Druid in Alderden
-- curly auburn hair that's hanging down to their back, Blue eyes, and Dark Brown skin
-- Is Inoffensive and Possessive, and has Abundance as their ideal
+- 1st year Gnome Sorcerer in Alderden
+- straight strawberry blond hair that's kept back by a blue headband, Amber eyes, and Fair skin
+- Is Simple and Offhand, and has Spiritualism as their ideal
 
 ### Organizations
 ### Relationships
-[[Taewen Llamryl]]: partymate
+[[Hanro Fieryat]]: partymate
+[[Rasy Merlara]]: partymate
 ### Stats
 ```statblock
 name: Jamie Kesefehon
-stats: [9, 11, 14, 4, 17, 12]
+stats: [16, 7, 10, 15, 11, 17]
 ```

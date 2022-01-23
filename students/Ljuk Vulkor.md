@@ -1,53 +1,47 @@
 ---
 birthday:
-  numeric: 1/2
-  written: 2nd of Avanent
-bond: I was cheated out of my fair share of the profits, and I want to get my due.
-eyes: Pale Gray
-flaw: I can't help but pocket loose coins and other trinkets I come across.
-guild: Alderden
-hair: ruffled
-ideal: Strength
+  numeric: 1/15
+  written: 15th of Avanent
+bond: The ship is most important- crewmates and captains come and go.
+eyes: Blue
+flaw: I have a weakness for the new intoxicants and other pleasures of this land.
+guild: Elkenval
+hair: curly lighter blonde hair that's loose around the shoulders
+ideal: Teamwork
 name: Ljuk Vulkor
 organizations: []
-partyID: 7
-race: Kenku
+partyID: 84
+race: Dwarf
 relationships:
-- name: Sulivan Wylchyr
+- name: Kanoi Xharlion
   type: partymate
-- name: Adros Tolthe
-  type: partymate
-- name: Surge Fayd
-  type: partymate
-skin: Dark Blue
-spec: Bard
+skin: Tan
+spec: Sorcerer
 stats:
-  cha: 14
-  con: 10
-  dex: 8
-  int: 14
+  cha: 16
+  con: 16
+  dex: 10
+  int: 13
   str: 11
-  wis: 11
+  wis: 7
 track: Assault
-trait: I like to talk at length about my profession.
-trait1: Simple
-trait2: Intense
-year: 1
+trait: I watch over my friends as if they were a litter of newborn pups.
+trait1: Mystical
+trait2: Negligent
+year: 2
 ---
 # Ljuk Vulkor
 ---
 ### Description
-- 1st year Kenku Bard in Alderden
-- ruffled, Pale Gray eyes, and Dark Blue skin
-- Is Simple and Intense, and has Strength as their ideal
+- 2nd year Dwarf Sorcerer in Elkenval
+- curly lighter blonde hair that's loose around the shoulders, Blue eyes, and Tan skin
+- Is Mystical and Negligent, and has Teamwork as their ideal
 
 ### Organizations
 ### Relationships
-[[Sulivan Wylchyr]]: partymate
-[[Adros Tolthe]]: partymate
-[[Surge Fayd]]: partymate
+[[Kanoi Xharlion]]: partymate
 ### Stats
 ```statblock
 name: Ljuk Vulkor
-stats: [11, 8, 10, 14, 11, 14]
+stats: [11, 10, 16, 13, 7, 16]
 ```

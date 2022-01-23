@@ -1,53 +1,56 @@
 ---
 birthday:
-  numeric: 3/8
-  written: 8th of Melorent
-bond: A proud noble once gave me a horrible beating, and I will take my revenge on
-  any bully I encounter.
-eyes: Green
-flaw: Secretly, I believe that things would be better if I were a tyrant lording over
-  the land.
-guild: Alderden
-hair: frizzy blonde hair that's braided with violet ribbon (med)
-ideal: Affection
+  numeric: 4/8
+  written: 8th of Moradent
+bond: Should my discovery come to light, it could bring ruin to the world.
+eyes: Amber
+flaw: Violence is my answer to almost any challenge.
+guild: Elkenval
+hair: wavy auburn hair that's parted to the left
+ideal: Patience
 name: Myddin Hastos
 organizations: []
-partyID: 87
-race: Gnome
+partyID: 22
+race: Half-Elf
 relationships:
-- name: Giacomo Edraele
+- name: Gabrilo Kulo
   type: partymate
-- name: Verssek Nese
+- name: Mya Nelaeryn
   type: partymate
-skin: Fair
-spec: Sorcerer
+- name: Levio Evindal
+  type: partymate
+- name: Tylus Ytharra
+  type: partymate
+skin: Dark Brown
+spec: Rouge
 stats:
-  cha: 17
-  con: 16
-  dex: 13
-  int: 5
+  cha: 12
+  con: 12
+  dex: 15
+  int: 13
   str: 14
   wis: 12
-track: Assault
-trait: I begin or end my day with small traditional rituals that are unfamiliar to
-  those around me.
-trait1: Kind
-trait2: Venomous
-year: 5
+track: Protection
+trait: I bluntly say what other people are hinting at or hiding.
+trait1: Challenging
+trait2: Disorganized
+year: 2
 ---
 # Myddin Hastos
 ---
 ### Description
-- 5th year Gnome Sorcerer in Alderden
-- frizzy blonde hair that's braided with violet ribbon (med), Green eyes, and Fair skin
-- Is Kind and Venomous, and has Affection as their ideal
+- 2nd year Half-Elf Rouge in Elkenval
+- wavy auburn hair that's parted to the left, Amber eyes, and Dark Brown skin
+- Is Challenging and Disorganized, and has Patience as their ideal
 
 ### Organizations
 ### Relationships
-[[Giacomo Edraele]]: partymate
-[[Verssek Nese]]: partymate
+[[Gabrilo Kulo]]: partymate
+[[Mya Nelaeryn]]: partymate
+[[Levio Evindal]]: partymate
+[[Tylus Ytharra]]: partymate
 ### Stats
 ```statblock
 name: Myddin Hastos
-stats: [14, 13, 16, 5, 12, 17]
+stats: [14, 15, 12, 13, 12, 12]
 ```

@@ -1,55 +1,49 @@
 ---
 birthday:
-  numeric: 3/27
-  written: 27th of Melorent
+  numeric: 4/25
+  written: 25th of Moradent
 bond: I entered seclusion to hide from the ones who might still be hunting me. I must
   someday confront them.
-eyes: Green
-flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
-  involved.
-guild: Fiesn
-hair: wavy dirty blonde hair that's hanging down to their legs
-ideal: Harmony
+eyes: Pale Brown
+flaw: I pretend not to understand the local language in order to avoid interactions
+  I would rather not have.
+guild: Elkenval
+hair: curly blonde hair that's parted to the right
+ideal: Clarity
 name: Bera Cauladra
 organizations: []
-partyID: 41
-race: Halfling
+partyID: 23
+race: Gnome
 relationships:
-- name: Hazel Winters
+- name: Auzerais Venali
   type: partymate
-- name: Ysak Llewellenar
-  type: partymate
-- name: Yoshen Arcaena
-  type: partymate
-skin: Fair
-spec: Paladin
+skin: Tan
+spec: Cleric
 stats:
-  cha: 13
-  con: 16
-  dex: 13
-  int: 11
-  str: 17
-  wis: 12
-track: Assault
-trait: The best way to get me to do something is to tell me I can't do it.
-trait1: Competitive
-trait2: Hurried
-year: 1
+  cha: 9
+  con: 10
+  dex: 11
+  int: 16
+  str: 13
+  wis: 17
+track: Diplomacy
+trait: I express affection or contempt in ways that are unfamiliar to others.
+trait1: Modern
+trait2: Destructive
+year: 4
 ---
 # Bera Cauladra
 ---
 ### Description
-- 1st year Halfling Paladin in Fiesn
-- wavy dirty blonde hair that's hanging down to their legs, Green eyes, and Fair skin
-- Is Competitive and Hurried, and has Harmony as their ideal
+- 4th year Gnome Cleric in Elkenval
+- curly blonde hair that's parted to the right, Pale Brown eyes, and Tan skin
+- Is Modern and Destructive, and has Clarity as their ideal
 
 ### Organizations
 ### Relationships
-[[Hazel Winters]]: partymate
-[[Ysak Llewellenar]]: partymate
-[[Yoshen Arcaena]]: partymate
+[[Auzerais Venali]]: partymate
 ### Stats
 ```statblock
 name: Bera Cauladra
-stats: [17, 13, 16, 11, 12, 13]
+stats: [13, 11, 10, 16, 17, 9]
 ```

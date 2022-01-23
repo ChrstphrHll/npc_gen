@@ -1,55 +1,51 @@
 ---
 birthday:
-  numeric: 6/26
-  written: 26th of Pelent
-bond: A proud noble once gave me a horrible beating, and I will take my revenge on
-  any bully I encounter.
-eyes: Amber
-flaw: I too often hear veiled insults and threats in every word addressed to me, and
-  I'm quick to anger.
-guild: Treskal
-hair: curly brunette hair that's put back in a short pony tail
-ideal: Freedom
+  numeric: 6/20
+  written: 20th of Pelent
+bond: Everything I do is for the common people.
+eyes: Green
+flaw: There's no room for caution in a life lived to the fullest.
+guild: Burk
+hair: curly dark red hair that's hanging down to their back
+ideal: Affection
 name: Murunay Illfate
 organizations: []
-partyID: 89
-race: Halfling
+partyID: 75
+race: Elf
 relationships:
-- name: Uxwy Lazziar
+- name: Hazel Winters
   type: partymate
-- name: Shenai Inqoul
+- name: Lincon Nylaathria
   type: partymate
-- name: Garan Mirthal
-  type: partymate
-skin: Dark Tan
-spec: Druid
+skin: Brown
+spec: Ranger
 stats:
-  cha: 13
-  con: 10
-  dex: 10
-  int: 12
-  str: 14
-  wis: 16
-track: Diplomacy
-trait: I'm always polite and respectful.
-trait1: Appreciative
-trait2: Noncommittal
-year: 1
+  cha: 10
+  con: 12
+  dex: 12
+  int: 8
+  str: 15
+  wis: 12
+track: Exploration
+trait: I've spent so long in the temple that I have little practical experience dealing
+  with people in the outside world.
+trait1: Restrained
+trait2: Immature
+year: 4
 ---
 # Murunay Illfate
 ---
 ### Description
-- 1st year Halfling Druid in Treskal
-- curly brunette hair that's put back in a short pony tail, Amber eyes, and Dark Tan skin
-- Is Appreciative and Noncommittal, and has Freedom as their ideal
+- 4th year Elf Ranger in Burk
+- curly dark red hair that's hanging down to their back, Green eyes, and Brown skin
+- Is Restrained and Immature, and has Affection as their ideal
 
 ### Organizations
 ### Relationships
-[[Uxwy Lazziar]]: partymate
-[[Shenai Inqoul]]: partymate
-[[Garan Mirthal]]: partymate
+[[Hazel Winters]]: partymate
+[[Lincon Nylaathria]]: partymate
 ### Stats
 ```statblock
 name: Murunay Illfate
-stats: [14, 10, 10, 12, 16, 13]
+stats: [15, 12, 12, 8, 12, 10]
 ```

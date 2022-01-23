@@ -1,55 +1,51 @@
 ---
 birthday:
-  numeric: 8/24
-  written: 24th of Ravenent
-bond: My freedom is my most precious possession. I'll never let anyone take it from
-  me again.
-eyes: Blue
-flaw: Most people scream and run when they see a demon. I stop and take notes on its
-  anatomy.
-guild: Fiesn
-hair: curly brunette hair that's parted to the right
-ideal: Personal Development
+  numeric: 4/7
+  written: 7th of Moradent
+bond: I owe a debt I can never repay to the person who took pity on me.
+eyes: Pale Brown
+flaw: My hatred of my enemies is blind and unreasoning.
+guild: Jettenia
+hair: wavy black hair that's parted to the side, slightly obscuring an eye
+ideal: Abundance
 name: Kymber Korrigash
 organizations: []
-partyID: 64
-race: Firbolg
+partyID: 33
+race: Elf
 relationships:
-- name: Ungris Riluaneth
+- name: Gormoth Shyrrik
   type: partymate
-- name: Julyo Agassi
+- name: Vaellyn Esyae
   type: partymate
-- name: Olivus Ondabrar
-  type: partymate
-skin: Pale Green
-spec: Cleric
+skin: Dark Brown
+spec: Paladin
 stats:
-  cha: 9
-  con: 15
-  dex: 9
-  int: 8
+  cha: 10
+  con: 11
+  dex: 12
+  int: 13
   str: 13
-  wis: 16
-track: Diplomacy
-trait: I bluntly say what other people are hinting at or hiding.
-trait1: Glamorous
-trait2: Scruffy
-year: 4
+  wis: 13
+track: Assault
+trait: I can find common ground between the fiercest enemies, empathizing with them
+  and always working toward peace.
+trait1: Just
+trait2: Physical
+year: 2
 ---
 # Kymber Korrigash
 ---
 ### Description
-- 4th year Firbolg Cleric in Fiesn
-- curly brunette hair that's parted to the right, Blue eyes, and Pale Green skin
-- Is Glamorous and Scruffy, and has Personal Development as their ideal
+- 2nd year Elf Paladin in Jettenia
+- wavy black hair that's parted to the side, slightly obscuring an eye, Pale Brown eyes, and Dark Brown skin
+- Is Just and Physical, and has Abundance as their ideal
 
 ### Organizations
 ### Relationships
-[[Ungris Riluaneth]]: partymate
-[[Julyo Agassi]]: partymate
-[[Olivus Ondabrar]]: partymate
+[[Gormoth Shyrrik]]: partymate
+[[Vaellyn Esyae]]: partymate
 ### Stats
 ```statblock
 name: Kymber Korrigash
-stats: [13, 9, 15, 8, 16, 9]
+stats: [13, 12, 11, 13, 13, 10]
 ```

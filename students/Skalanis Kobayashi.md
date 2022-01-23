@@ -1,48 +1,53 @@
 ---
 birthday:
-  numeric: 8/8
-  written: 8th of Ravenent
+  numeric: 2/30
+  written: 30th of Corelent
 bond: I fight for those who cannot fight for themselves.
 eyes: Pale Green
-flaw: I remember every insult I've received and nurse a silent resentment toward anyone
-  who's ever wronged me.
+flaw: I can't keep a secret to save my life, or anyone else's.
 guild: Jettenia
-hair: straight auburn hair that's put back in a long pony tail
-ideal: Patience
+hair: wavy brunette hair that's kept back by a turquoise headband
+ideal: Connection
 name: Skalanis Kobayashi
 organizations: []
-partyID: 30
-race: Aasimar
+partyID: 4
+race: Halfling
 relationships:
-- name: Remus Manchul
+- name: Pippi Langston
+  type: partymate
+- name: Jerrick Yarbrough
+  type: partymate
+- name: Miglus Yrlissa
   type: partymate
 skin: Dark Tan
-spec: Monk
+spec: Druid
 stats:
-  cha: 16
-  con: 14
-  dex: 14
-  int: 13
-  str: 12
-  wis: 10
+  cha: 7
+  con: 13
+  dex: 11
+  int: 15
+  str: 9
+  wis: 15
 track: Exploration
-trait: Thinking is for other people. I prefer action.
-trait1: Surprising
-trait2: Sedentary
-year: 1
+trait: The best way to get me to do something is to tell me I can't do it.
+trait1: Profound
+trait2: High-handed
+year: 6
 ---
 # Skalanis Kobayashi
 ---
 ### Description
-- 1st year Aasimar Monk in Jettenia
-- straight auburn hair that's put back in a long pony tail, Pale Green eyes, and Dark Tan skin
-- Is Surprising and Sedentary, and has Patience as their ideal
+- 6th year Halfling Druid in Jettenia
+- wavy brunette hair that's kept back by a turquoise headband, Pale Green eyes, and Dark Tan skin
+- Is Profound and High-handed, and has Connection as their ideal
 
 ### Organizations
 ### Relationships
-[[Remus Manchul]]: partymate
+[[Pippi Langston]]: partymate
+[[Jerrick Yarbrough]]: partymate
+[[Miglus Yrlissa]]: partymate
 ### Stats
 ```statblock
 name: Skalanis Kobayashi
-stats: [12, 14, 14, 13, 10, 16]
+stats: [9, 11, 13, 15, 15, 7]
 ```

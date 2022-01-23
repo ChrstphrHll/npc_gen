@@ -1,55 +1,51 @@
 ---
 birthday:
-  numeric: 5/26
-  written: 26th of Iounent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Spring Green
-flaw: An innocent person is in prison for a crime that I committed. I'm okay with
-  that.
-guild: Elkenval
-hair: curly red hair that's pulled to the side and buzzed on the right
-ideal: Involvement
+  numeric: 3/25
+  written: 25th of Melorent
+bond: I'm fascinated by the beauty and wonder of this new land.
+eyes: Amber
+flaw: I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go,
+  I'm surrounded by rivals.
+guild: Jettenia
+hair: curly auburn hair that's braided with violet ribbon (med)
+ideal: Contentment
 name: Eadyth Lora
 organizations: []
-partyID: 65
-race: Tiefling
+partyID: 26
+race: Goliath
 relationships:
-- name: Alkindus Llamryl
+- name: Ruby Kythaela
   type: partymate
-- name: Vyctor Willow
+- name: Sammen Axilya
   type: partymate
-- name: Theodus Chylnoth
-  type: partymate
-skin: Aqua
-spec: Sorcerer
+skin: Light
+spec: Rouge
 stats:
-  cha: 15
-  con: 14
-  dex: 14
-  int: 8
-  str: 11
-  wis: 15
-track: Exploration
-trait: I place no stock in wealthy or well-mannered folk. Money and manners won't
-  save you from a hungry owlbear.
-trait1: Diligent
-trait2: Reckless
-year: 4
+  cha: 17
+  con: 7
+  dex: 16
+  int: 11
+  str: 15
+  wis: 10
+track: Protection
+trait: I bluntly say what other people are hinting at or hiding.
+trait1: Feisty
+trait2: Iconoclastic
+year: 2
 ---
 # Eadyth Lora
 ---
 ### Description
-- 4th year Tiefling Sorcerer in Elkenval
-- curly red hair that's pulled to the side and buzzed on the right, Spring Green eyes, and Aqua skin
-- Is Diligent and Reckless, and has Involvement as their ideal
+- 2nd year Goliath Rouge in Jettenia
+- curly auburn hair that's braided with violet ribbon (med), Amber eyes, and Light skin
+- Is Feisty and Iconoclastic, and has Contentment as their ideal
 
 ### Organizations
 ### Relationships
-[[Alkindus Llamryl]]: partymate
-[[Vyctor Willow]]: partymate
-[[Theodus Chylnoth]]: partymate
+[[Ruby Kythaela]]: partymate
+[[Sammen Axilya]]: partymate
 ### Stats
 ```statblock
 name: Eadyth Lora
-stats: [11, 14, 14, 8, 15, 15]
+stats: [15, 16, 7, 11, 10, 17]
 ```

@@ -1,55 +1,56 @@
 ---
 birthday:
-  numeric: 8/11
-  written: 11th of Ravenent
-bond: I owe my life to the priest who took me in when my parents died.
-eyes: Pale Gray
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Jettenia
-hair: wavy dark red hair that's parted to the left
-ideal: Change
+  numeric: 7/14
+  written: 14th of Korent
+bond: I will face any challenge to win the approval of my family.
+eyes: Green
+flaw: I speak without really thinking through my words, invariably insulting others.
+guild: Treskal
+hair: curly platinum hair that's parted to the right
+ideal: Perseverance
 name: Evylen Nese
 organizations: []
-partyID: 36
+partyID: 69
 race: Gnome
 relationships:
-- name: Karl Cauladra
+- name: Kova Tamara
   type: partymate
-- name: Evyn Fenton
+- name: Adrjia Lysanthir
   type: partymate
-- name: Gianna Rhistel
+- name: Es'beth Yesheln
   type: partymate
-skin: Pale
-spec: Fighter
+- name: Jaedyn Arbane
+  type: partymate
+skin: Dark Brown
+spec: Rouge
 stats:
-  cha: 16
-  con: 13
-  dex: 18
-  int: 13
-  str: 10
-  wis: 14
+  cha: 13
+  con: 8
+  dex: 15
+  int: 9
+  str: 13
+  wis: 13
 track: Protection
-trait: I don't part with my money easily and will haggle tirelessly to get the best
-  deal possible.
-trait1: Trusting
-trait2: Obsessive
-year: 4
+trait: I am working on a grand philosophical theory and love sharing my ideas.
+trait1: Effeminate
+trait2: Dominating
+year: 1
 ---
 # Evylen Nese
 ---
 ### Description
-- 4th year Gnome Fighter in Jettenia
-- wavy dark red hair that's parted to the left, Pale Gray eyes, and Pale skin
-- Is Trusting and Obsessive, and has Change as their ideal
+- 1st year Gnome Rouge in Treskal
+- curly platinum hair that's parted to the right, Green eyes, and Dark Brown skin
+- Is Effeminate and Dominating, and has Perseverance as their ideal
 
 ### Organizations
 ### Relationships
-[[Karl Cauladra]]: partymate
-[[Evyn Fenton]]: partymate
-[[Gianna Rhistel]]: partymate
+[[Kova Tamara]]: partymate
+[[Adrjia Lysanthir]]: partymate
+[[Es'beth Yesheln]]: partymate
+[[Jaedyn Arbane]]: partymate
 ### Stats
 ```statblock
 name: Evylen Nese
-stats: [10, 18, 13, 13, 14, 16]
+stats: [13, 15, 8, 9, 13, 13]
 ```

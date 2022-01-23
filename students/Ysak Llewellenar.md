@@ -1,55 +1,56 @@
 ---
 birthday:
-  numeric: 5/25
-  written: 25th of Iounent
-bond: My ill-gotten gains go to support my family.
-eyes: Amber
-flaw: Don't expect me to save those who can't save themselves. It is nature's way
-  that the strong thrive and the weak perish.
-guild: Fiesn
-hair: straight brunette hair that's put back in a short pony tail
-ideal: Charity
+  numeric: 5/1
+  written: 1st of Iounent
+bond: I wish my childhood sweetheart had come with me to pursue my destiny.
+eyes: Orange
+flaw: Unlocking an ancient mystery is worth the price of a civilization.
+guild: Jettenia
+hair: short spines
+ideal: Renewal
 name: Ysak Llewellenar
 organizations: []
-partyID: 41
-race: Firbolg
+partyID: 68
+race: Dragonborn
 relationships:
-- name: Bera Cauladra
+- name: Matto Divya
   type: partymate
-- name: Hazel Winters
+- name: Alver Boneflare
   type: partymate
-- name: Yoshen Arcaena
+- name: Garan Mirthal
   type: partymate
-skin: Pale Gray
-spec: Ranger
+- name: Iasono Ynshael
+  type: partymate
+skin: silver
+spec: Paladin
 stats:
-  cha: 17
-  con: 11
-  dex: 17
-  int: 16
-  str: 14
-  wis: 14
-track: Diplomacy
-trait: I am tolerant (or intolerant) of other faiths and respect (or condemn) the
-  worship of other gods.
-trait1: Daring
-trait2: Glamorous
+  cha: 12
+  con: 12
+  dex: 9
+  int: 13
+  str: 16
+  wis: 10
+track: Assault
+trait: I like a job well done, especially if I can convince someone else to do it.
+trait1: Disciplined
+trait2: Narrow-minded
 year: 1
 ---
 # Ysak Llewellenar
 ---
 ### Description
-- 1st year Firbolg Ranger in Fiesn
-- straight brunette hair that's put back in a short pony tail, Amber eyes, and Pale Gray skin
-- Is Daring and Glamorous, and has Charity as their ideal
+- 1st year Dragonborn Paladin in Jettenia
+- short spines, Orange eyes, and silver skin
+- Is Disciplined and Narrow-minded, and has Renewal as their ideal
 
 ### Organizations
 ### Relationships
-[[Bera Cauladra]]: partymate
-[[Hazel Winters]]: partymate
-[[Yoshen Arcaena]]: partymate
+[[Matto Divya]]: partymate
+[[Alver Boneflare]]: partymate
+[[Garan Mirthal]]: partymate
+[[Iasono Ynshael]]: partymate
 ### Stats
 ```statblock
 name: Ysak Llewellenar
-stats: [14, 17, 11, 16, 14, 17]
+stats: [16, 9, 12, 13, 10, 12]
 ```

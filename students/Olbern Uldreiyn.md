@@ -1,49 +1,48 @@
 ---
 birthday:
-  numeric: 7/30
-  written: 30th of Korent
-bond: Something important was taken from me, and I aim to steal it back.
-eyes: Gray
-flaw: My piety sometimes leads me to blindly trust those that profess faith in my
-  god.
-guild: Fiesn
-hair: curly strawberry blond hair that's braided with blue ribbon (long)
-ideal: Appreciation
+  numeric: 6/32
+  written: 32nd of Pelent
+bond: I have a family, but I have no idea where they are. One day, I hope to see them
+  again.
+eyes: Pale Blue
+flaw: People who can't take care of themselves get what they deserve.
+guild: Treskal
+hair: curly lighter blonde hair that's loose around the shoulders
+ideal: Leadership
 name: Olbern Uldreiyn
 organizations: []
-partyID: 61
-race: Halfling
+partyID: 62
+race: Human
 relationships:
-- name: Rei Mardeiym
+- name: Connovar Kaminsky
   type: partymate
-skin: Light Tan
-spec: Cleric
+skin: Pale
+spec: Sorcerer
 stats:
-  cha: 10
+  cha: 14
   con: 9
-  dex: 13
-  int: 12
-  str: 13
-  wis: 14
+  dex: 16
+  int: 14
+  str: 12
+  wis: 7
 track: Assault
-trait: I begin or end my day with small traditional rituals that are unfamiliar to
-  those around me.
-trait1: Old-fashioned
-trait2: Critical
-year: 2
+trait: I take great pains to always look my best and follow the latest fashions.
+trait1: Merciful
+trait2: Stubborn
+year: 4
 ---
 # Olbern Uldreiyn
 ---
 ### Description
-- 2nd year Halfling Cleric in Fiesn
-- curly strawberry blond hair that's braided with blue ribbon (long), Gray eyes, and Light Tan skin
-- Is Old-fashioned and Critical, and has Appreciation as their ideal
+- 4th year Human Sorcerer in Treskal
+- curly lighter blonde hair that's loose around the shoulders, Pale Blue eyes, and Pale skin
+- Is Merciful and Stubborn, and has Leadership as their ideal
 
 ### Organizations
 ### Relationships
-[[Rei Mardeiym]]: partymate
+[[Connovar Kaminsky]]: partymate
 ### Stats
 ```statblock
 name: Olbern Uldreiyn
-stats: [13, 13, 9, 12, 14, 10]
+stats: [12, 16, 9, 14, 7, 14]
 ```

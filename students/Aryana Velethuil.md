@@ -1,53 +1,49 @@
 ---
 birthday:
-  numeric: 1/17
-  written: 17th of Avanent
-bond: I was cheated out of my fair share of the profits, and I want to get my due.
-eyes: Gray
-flaw: My pride will probably lead to my destruction.
-guild: Alderden
-hair: curly dark red hair that's hanging down to their back
-ideal: Dishonesty
+  numeric: 5/4
+  written: 4th of Iounent
+bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, and
+  left me to die. Vengeance will be mine.
+eyes: Blue
+flaw: By my words and actions, I often bring shame to my family.By my words and actions,
+  I often bring shame to my family.
+guild: Elkenval
+hair: speckled
+ideal: Fun
 name: Aryana Velethuil
 organizations: []
-partyID: 11
-race: Elf
+partyID: 32
+race: Kenku
 relationships:
-- name: Santyeg Kuskyn
+- name: Abramo Sudryl
   type: partymate
-- name: Asten Alavara
-  type: partymate
-- name: Joyce Helartha
-  type: partymate
-skin: Tan
+skin: Red
 spec: Wizard
 stats:
-  cha: 11
-  con: 8
-  dex: 13
-  int: 15
-  str: 13
-  wis: 10
-track: Exploration
-trait: I honor my deities through practices that are foreign to this land.
-trait1: Skillful
-trait2: Bizarre
-year: 1
+  cha: 13
+  con: 11
+  dex: 14
+  int: 14
+  str: 15
+  wis: 8
+track: Diplomacy
+trait: I blow up at the slightest insult.
+trait1: Clear-headed
+trait2: Fawning
+year: 4
 ---
 # Aryana Velethuil
 ---
 ### Description
-- 1st year Elf Wizard in Alderden
-- curly dark red hair that's hanging down to their back, Gray eyes, and Tan skin
-- Is Skillful and Bizarre, and has Dishonesty as their ideal
+- 4th year Kenku Wizard in Elkenval
+- speckled, Blue eyes, and Red skin
+- Is Clear-headed and Fawning, and has Fun as their ideal
 
 ### Organizations
 ### Relationships
-[[Santyeg Kuskyn]]: partymate
-[[Asten Alavara]]: partymate
-[[Joyce Helartha]]: partymate
+[[Abramo Sudryl]]: partymate
 ### Stats
 ```statblock
 name: Aryana Velethuil
-stats: [13, 13, 8, 15, 10, 11]
+stats: [15, 14, 11, 14, 8, 13]
 ```

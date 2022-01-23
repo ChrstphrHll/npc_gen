@@ -1,51 +1,55 @@
 ---
 birthday:
-  numeric: 7/10
-  written: 10th of Korent
-bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
-eyes: Pale Gray
-flaw: I too often hear veiled insults and threats in every word addressed to me, and
-  I'm quick to anger.
-guild: Treskal
-hair: wavy dirty blonde hair that's put up in a large bun
-ideal: Pessimism
+  numeric: 3/24
+  written: 24th of Melorent
+bond: I created a great work for someone, and then found them unworthy to receive
+  it. I'm still looking for someone worthy.
+eyes: Pale Brown
+flaw: I am dogmatic in my thoughts and philosophy.
+guild: Elkenval
+hair: curly pink hair that's hanging down to their legs
+ideal: Power
 name: Vila Tassarion
 organizations: []
-partyID: 73
-race: Half-Orc
+partyID: 47
+race: Human
 relationships:
-- name: Handyr Letryal
+- name: Julyo Agassi
   type: partymate
-- name: Nolyn Viska
+- name: Goshwa Khiipaera
   type: partymate
-skin: Green Blue
-spec: Fighter
+- name: Mavrek Aolis
+  type: partymate
+skin: Pale
+spec: Bard
 stats:
-  cha: 11
-  con: 16
+  cha: 16
+  con: 10
   dex: 13
-  int: 12
-  str: 14
-  wis: 11
-track: Assault
-trait: I'm willing to listen to every side of an argument before I make my own judgment.
-trait1: Perservering
-trait2: Enigmatic
-year: 4
+  int: 4
+  str: 9
+  wis: 14
+track: Diplomacy
+trait: I idolize a particular hero of my faith, and constantly refer to that person's
+  deeds and example.
+trait1: Educated
+trait2: Effeminate
+year: 5
 ---
 # Vila Tassarion
 ---
 ### Description
-- 4th year Half-Orc Fighter in Treskal
-- wavy dirty blonde hair that's put up in a large bun, Pale Gray eyes, and Green Blue skin
-- Is Perservering and Enigmatic, and has Pessimism as their ideal
+- 5th year Human Bard in Elkenval
+- curly pink hair that's hanging down to their legs, Pale Brown eyes, and Pale skin
+- Is Educated and Effeminate, and has Power as their ideal
 
 ### Organizations
 ### Relationships
-[[Handyr Letryal]]: partymate
-[[Nolyn Viska]]: partymate
+[[Julyo Agassi]]: partymate
+[[Goshwa Khiipaera]]: partymate
+[[Mavrek Aolis]]: partymate
 ### Stats
 ```statblock
 name: Vila Tassarion
-stats: [14, 13, 16, 12, 11, 11]
+stats: [9, 13, 10, 4, 14, 16]
 ```

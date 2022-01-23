@@ -1,48 +1,57 @@
 ---
 birthday:
-  numeric: 1/20
-  written: 20th of Avanent
-bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
-eyes: Red
-flaw: I turn tail and run when things look bad.
-guild: Elkenval
-hair: straight auburn hair that's put up in a large bun
-ideal: Live and Let Live
+  numeric: 6/17
+  written: 17th of Pelent
+bond: I hold no greater cause than my service to my people.
+eyes: Pale Green
+flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
+  own hide if the going gets tough.
+guild: Treskal
+hair: curly grey hair that's hanging down to their back
+ideal: Peace
 name: Varlae Voron
 organizations: []
-partyID: 10
-race: Tiefling
+partyID: 58
+race: Half-Orc
 relationships:
-- name: Kazoan Windward
+- name: Vyctor Willow
   type: partymate
-skin: Pale Blue
+- name: Karl Cauladra
+  type: partymate
+- name: Dree Nuala
+  type: partymate
+- name: Theriss Deularla
+  type: partymate
+skin: Pale Gray
 spec: Wizard
 stats:
-  cha: 14
-  con: 11
-  dex: 13
-  int: 16
-  str: 10
-  wis: 14
-track: Protection
-trait: When I set my mind to something, I follow through no matter what gets in my
-  way.
-trait1: Crisp
-trait2: Conventional
-year: 1
+  cha: 13
+  con: 17
+  dex: 12
+  int: 13
+  str: 8
+  wis: 7
+track: Exploration
+trait: I use polysyllabic words that convey the impression of great erudition.
+trait1: Friendly
+trait2: Foolish
+year: 6
 ---
 # Varlae Voron
 ---
 ### Description
-- 1st year Tiefling Wizard in Elkenval
-- straight auburn hair that's put up in a large bun, Red eyes, and Pale Blue skin
-- Is Crisp and Conventional, and has Live and Let Live as their ideal
+- 6th year Half-Orc Wizard in Treskal
+- curly grey hair that's hanging down to their back, Pale Green eyes, and Pale Gray skin
+- Is Friendly and Foolish, and has Peace as their ideal
 
 ### Organizations
 ### Relationships
-[[Kazoan Windward]]: partymate
+[[Vyctor Willow]]: partymate
+[[Karl Cauladra]]: partymate
+[[Dree Nuala]]: partymate
+[[Theriss Deularla]]: partymate
 ### Stats
 ```statblock
 name: Varlae Voron
-stats: [10, 13, 11, 16, 14, 14]
+stats: [8, 12, 17, 13, 7, 13]
 ```

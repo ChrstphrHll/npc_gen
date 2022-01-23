@@ -1,52 +1,53 @@
 ---
 birthday:
-  numeric: 5/1
-  written: 1st of Iounent
-bond: I fleeced the wrong person and must work to ensure that this individual never
-  crosses paths with me or those I care about.
-eyes: Pale Blue
-flaw: I am dogmatic in my thoughts and philosophy.
-guild: Treskal
-hair: straight brunette hair that's kept back by a blue headband
-ideal: Exceptionalism
+  numeric: 3/6
+  written: 6th of Melorent
+bond: No one else should have to endure the hardships I've been through.
+eyes: Hazel
+flaw: I secretly believe that everyone is beneath me.
+guild: Fiesn
+hair: frills
+ideal: Order
 name: Handyr Letryal
 organizations: []
-partyID: 73
-race: Elf
+partyID: 96
+race: Dragonborn
 relationships:
-- name: Nolyn Viska
+- name: Halya Jian
   type: partymate
-- name: Vila Tassarion
+- name: Victor Gaelira
   type: partymate
-skin: Light
-spec: Cleric
+- name: Goetia Mistale
+  type: partymate
+skin: red
+spec: Artificer
 stats:
-  cha: 15
-  con: 7
+  cha: 6
+  con: 12
   dex: 15
-  int: 13
-  str: 6
-  wis: 17
+  int: 16
+  str: 13
+  wis: 10
 track: Diplomacy
-trait: I'm haunted by memories of war. I can't get the images of violence out of my
-  mind.
-trait1: Resourceful
-trait2: Proud
-year: 4
+trait: I get bored easily. When am I going to get on with my destiny?
+trait1: Well-rounded
+trait2: Smooth
+year: 1
 ---
 # Handyr Letryal
 ---
 ### Description
-- 4th year Elf Cleric in Treskal
-- straight brunette hair that's kept back by a blue headband, Pale Blue eyes, and Light skin
-- Is Resourceful and Proud, and has Exceptionalism as their ideal
+- 1st year Dragonborn Artificer in Fiesn
+- frills, Hazel eyes, and red skin
+- Is Well-rounded and Smooth, and has Order as their ideal
 
 ### Organizations
 ### Relationships
-[[Nolyn Viska]]: partymate
-[[Vila Tassarion]]: partymate
+[[Halya Jian]]: partymate
+[[Victor Gaelira]]: partymate
+[[Goetia Mistale]]: partymate
 ### Stats
 ```statblock
 name: Handyr Letryal
-stats: [6, 15, 7, 13, 17, 15]
+stats: [13, 15, 12, 16, 10, 6]
 ```

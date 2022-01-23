@@ -1,51 +1,51 @@
 ---
 birthday:
-  numeric: 5/24
-  written: 24th of Iounent
-bond: My family, clan, or tribe is the most important thing in my life, even when
-  they are far from me.
-eyes: Blue
-flaw: I would kill to acquire a noble title.
+  numeric: 5/25
+  written: 25th of Iounent
+bond: I would do anything for the other members of my old troupe.
+eyes: Pale Gray
+flaw: I too often hear veiled insults and threats in every word addressed to me, and
+  I'm quick to anger.
 guild: Burk
-hair: wavy brunette hair that's put up in a large bun
-ideal: Learning
+hair: curly strawberry blond hair that's braided with pink ribbon (med)
+ideal: Integrity
 name: Jacoby Maeraddyth
 organizations: []
-partyID: 63
-race: Half-Elf
+partyID: 36
+race: Goliath
 relationships:
-- name: Pike Tethir
+- name: Levy Maendellyn
   type: partymate
-- name: Malchor Tenyajn
+- name: Isaias Vaalyun
   type: partymate
-skin: Brown
-spec: Druid
+skin: Light
+spec: Monk
 stats:
-  cha: 11
-  con: 12
-  dex: 13
-  int: 13
-  str: 11
-  wis: 16
-track: Diplomacy
-trait: I'll settle for nothing less than perfection.
-trait1: Innovative
-trait2: Mannerless
-year: 1
+  cha: 9
+  con: 13
+  dex: 14
+  int: 11
+  str: 10
+  wis: 8
+track: Assault
+trait: The common folk love me for my kindness and generosity.
+trait1: Conservative
+trait2: Invisible
+year: 2
 ---
 # Jacoby Maeraddyth
 ---
 ### Description
-- 1st year Half-Elf Druid in Burk
-- wavy brunette hair that's put up in a large bun, Blue eyes, and Brown skin
-- Is Innovative and Mannerless, and has Learning as their ideal
+- 2nd year Goliath Monk in Burk
+- curly strawberry blond hair that's braided with pink ribbon (med), Pale Gray eyes, and Light skin
+- Is Conservative and Invisible, and has Integrity as their ideal
 
 ### Organizations
 ### Relationships
-[[Pike Tethir]]: partymate
-[[Malchor Tenyajn]]: partymate
+[[Levy Maendellyn]]: partymate
+[[Isaias Vaalyun]]: partymate
 ### Stats
 ```statblock
 name: Jacoby Maeraddyth
-stats: [11, 13, 12, 13, 16, 11]
+stats: [10, 14, 13, 11, 8, 9]
 ```

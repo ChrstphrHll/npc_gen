@@ -1,52 +1,50 @@
 ---
 birthday:
-  numeric: 6/1
-  written: 1st of Pelent
-bond: I escaped my life of poverty by robbing an important person, and I'm wanted
-  for it.
-eyes: Blue
-flaw: People who can't take care of themselves get what they deserve.
-guild: Treskal
-hair: frizzy red hair that's kept back by a turquoise headband
-ideal: Code
+  numeric: 6/17
+  written: 17th of Pelent
+bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
+eyes: Pale Green
+flaw: I have little respect for anyone who is not a proven warrior.
+guild: Burk
+hair: wavy strawberry blond hair that's parted to the right
+ideal: Might
 name: Edyrm Iolas
 organizations: []
-partyID: 60
-race: Dwarf
+partyID: 57
+race: Half-Elf
 relationships:
-- name: Nycola Eroan
+- name: Jacus Kosunten
   type: partymate
-- name: Saccaros Anaharae
+- name: Shenai Inqoul
   type: partymate
-skin: Dark Tan
-spec: Paladin
+skin: Light Tan
+spec: Artificer
 stats:
-  cha: 11
-  con: 12
-  dex: 13
-  int: 4
-  str: 14
-  wis: 10
-track: Exploration
-trait: I . . . speak . . . slowly . . . when talking . . . to idiots, . . . which
-  . . . almost . . . everyone . . . is . . . compared . . . to me.
-trait1: Brave
-trait2: Pharissical
-year: 1
+  cha: 13
+  con: 6
+  dex: 10
+  int: 14
+  str: 10
+  wis: 11
+track: Diplomacy
+trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
+trait1: Seraphic
+trait2: Unpolished
+year: 2
 ---
 # Edyrm Iolas
 ---
 ### Description
-- 1st year Dwarf Paladin in Treskal
-- frizzy red hair that's kept back by a turquoise headband, Blue eyes, and Dark Tan skin
-- Is Brave and Pharissical, and has Code as their ideal
+- 2nd year Half-Elf Artificer in Burk
+- wavy strawberry blond hair that's parted to the right, Pale Green eyes, and Light Tan skin
+- Is Seraphic and Unpolished, and has Might as their ideal
 
 ### Organizations
 ### Relationships
-[[Nycola Eroan]]: partymate
-[[Saccaros Anaharae]]: partymate
+[[Jacus Kosunten]]: partymate
+[[Shenai Inqoul]]: partymate
 ### Stats
 ```statblock
 name: Edyrm Iolas
-stats: [14, 13, 12, 4, 10, 11]
+stats: [10, 10, 6, 14, 11, 13]
 ```

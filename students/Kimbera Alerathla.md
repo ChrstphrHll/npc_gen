@@ -1,48 +1,57 @@
 ---
 birthday:
-  numeric: 3/8
-  written: 8th of Melorent
-bond: I'm loyal to my captain first, everything else second.
-eyes: Brown
-flaw: I once satirized a noble who still wants my head. It was a mistake that I will
-  likely repeat.
-guild: Treskal
-hair: wavy strawberry blond hair that's hanging down to their back
-ideal: Innovation
+  numeric: 4/14
+  written: 14th of Moradent
+bond: I come from a noble family, and one day I'll reclaim my lands and title from
+  those who stole them from me.
+eyes: Pale Green
+flaw: I can't resist swindling people who are more powerful than me.
+guild: Elkenval
+hair: straight brunette hair that's geled back
+ideal: Independence
 name: Kimbera Alerathla
 organizations: []
-partyID: 35
-race: Halfling
+partyID: 91
+race: Human
 relationships:
-- name: Kembley Ralnor
+- name: Jandar Pleufan
   type: partymate
-skin: Brown
-spec: Cleric
+- name: Allyson Vindinglag
+  type: partymate
+- name: Emilanus Shields
+  type: partymate
+- name: Andrey Rauthomyr
+  type: partymate
+skin: Dark Tan
+spec: Druid
 stats:
-  cha: 15
-  con: 12
-  dex: 6
-  int: 12
-  str: 8
-  wis: 12
-track: Diplomacy
-trait: Sarcasm and insults are my weapons of choice.
-trait1: Bold
-trait2: Amusing
-year: 7
+  cha: 10
+  con: 14
+  dex: 13
+  int: 17
+  str: 12
+  wis: 15
+track: Assault
+trait: I never pass up a friendly wager.
+trait1: Objective
+trait2: Mannered
+year: 1
 ---
 # Kimbera Alerathla
 ---
 ### Description
-- 7th year Halfling Cleric in Treskal
-- wavy strawberry blond hair that's hanging down to their back, Brown eyes, and Brown skin
-- Is Bold and Amusing, and has Innovation as their ideal
+- 1st year Human Druid in Elkenval
+- straight brunette hair that's geled back, Pale Green eyes, and Dark Tan skin
+- Is Objective and Mannered, and has Independence as their ideal
 
 ### Organizations
 ### Relationships
-[[Kembley Ralnor]]: partymate
+[[Jandar Pleufan]]: partymate
+[[Allyson Vindinglag]]: partymate
+[[Emilanus Shields]]: partymate
+[[Andrey Rauthomyr]]: partymate
 ### Stats
 ```statblock
 name: Kimbera Alerathla
-stats: [8, 6, 12, 12, 12, 15]
+stats: [12, 13, 14, 17, 15, 10]
 ```

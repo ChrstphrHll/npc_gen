@@ -1,48 +1,51 @@
 ---
 birthday:
-  numeric: 8/4
-  written: 4th of Ravenent
-bond: The common folk must see me as a hero of the people.
-eyes: Hazel
-flaw: My hatred of my enemies is blind and unreasoning.
-guild: Treskal
-hair: straight blonde hair that's a tousled bed head
-ideal: Live and Let Live
+  numeric: 7/11
+  written: 11th of Korent
+bond: The ship is most important- crewmates and captains come and go.
+eyes: Brown
+flaw: I have a weakness for the vices of the city, especially hard drink.
+guild: Alderden
+hair: straight brunette hair that's loose around the shoulders
+ideal: Spiritualism
 name: Rasy Merlara
 organizations: []
-partyID: 82
-race: Elf
+partyID: 16
+race: Dwarf
 relationships:
-- name: Jacomo Jacaranda
+- name: Hanro Fieryat
   type: partymate
-skin: Dark Brown
-spec: Rouge
+- name: Jamie Kesefehon
+  type: partymate
+skin: Dark Tan
+spec: Wizard
 stats:
   cha: 10
-  con: 16
-  dex: 16
-  int: 10
-  str: 14
-  wis: 18
-track: Diplomacy
-trait: I am incredibly slow to trust. Those who seem the fairest often have the most
-  to hide.
-trait1: Lyrical
-trait2: Abrupt
-year: 2
+  con: 11
+  dex: 13
+  int: 15
+  str: 10
+  wis: 6
+track: Exploration
+trait: I'm well known for my work, and I want to make sure everyone appreciates it.
+  I'm always taken aback when people haven't heard of me.
+trait1: Reflective
+trait2: Ungrateful
+year: 1
 ---
 # Rasy Merlara
 ---
 ### Description
-- 2nd year Elf Rouge in Treskal
-- straight blonde hair that's a tousled bed head, Hazel eyes, and Dark Brown skin
-- Is Lyrical and Abrupt, and has Live and Let Live as their ideal
+- 1st year Dwarf Wizard in Alderden
+- straight brunette hair that's loose around the shoulders, Brown eyes, and Dark Tan skin
+- Is Reflective and Ungrateful, and has Spiritualism as their ideal
 
 ### Organizations
 ### Relationships
-[[Jacomo Jacaranda]]: partymate
+[[Hanro Fieryat]]: partymate
+[[Jamie Kesefehon]]: partymate
 ### Stats
 ```statblock
 name: Rasy Merlara
-stats: [14, 16, 16, 10, 18, 10]
+stats: [10, 13, 11, 15, 6, 10]
 ```

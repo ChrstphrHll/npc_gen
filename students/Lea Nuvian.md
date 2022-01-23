@@ -1,54 +1,54 @@
 ---
 birthday:
-  numeric: 2/17
-  written: 17th of Corelent
-bond: I protect those who cannot protect themselves.
-eyes: Pale Gray
-flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
-  to quell.
-guild: Elkenval
-hair: straight red hair that's loose around the shoulders
-ideal: Strength
+  numeric: 8/19
+  written: 19th of Ravenent
+bond: The workshop where I learned my trade is the most important place in the world
+  to me.
+eyes: Deep Blue
+flaw: The tyrant who rules my land will stop at nothing to see me killed.
+guild: Alderden
+hair: straight dark red hair that's hanging down to their legs
+ideal: Cruelty
 name: Lea Nuvian
 organizations: []
-partyID: 62
-race: Elf
+partyID: 56
+race: Triton
 relationships:
-- name: Gorlas Vhoadan
+- name: Audree Dixon
   type: partymate
-- name: Scarletta Elora
+- name: Aryana Ahrendue
   type: partymate
-- name: Adresin Ilbryn
+- name: Alkindus Llamryl
   type: partymate
-skin: Fair
-spec: Paladin
+skin: Pale Blue
+spec: Rouge
 stats:
-  cha: 10
-  con: 13
-  dex: 10
-  int: 11
+  cha: 9
+  con: 10
+  dex: 16
+  int: 14
   str: 15
-  wis: 14
-track: Diplomacy
-trait: I am utterly serene, even in the face of disaster.
-trait1: Supportive
-trait2: Tasteless
-year: 4
+  wis: 11
+track: Protection
+trait: Whenever I come to a new place, I collect local rumors and spread gossip.
+trait1: Ascetic
+trait2: Disputatious
+year: 1
 ---
 # Lea Nuvian
 ---
 ### Description
-- 4th year Elf Paladin in Elkenval
-- straight red hair that's loose around the shoulders, Pale Gray eyes, and Fair skin
-- Is Supportive and Tasteless, and has Strength as their ideal
+- 1st year Triton Rouge in Alderden
+- straight dark red hair that's hanging down to their legs, Deep Blue eyes, and Pale Blue skin
+- Is Ascetic and Disputatious, and has Cruelty as their ideal
 
 ### Organizations
 ### Relationships
-[[Gorlas Vhoadan]]: partymate
-[[Scarletta Elora]]: partymate
-[[Adresin Ilbryn]]: partymate
+[[Audree Dixon]]: partymate
+[[Aryana Ahrendue]]: partymate
+[[Alkindus Llamryl]]: partymate
 ### Stats
 ```statblock
 name: Lea Nuvian
-stats: [15, 10, 13, 11, 14, 10]
+stats: [15, 16, 10, 14, 11, 9]
 ```

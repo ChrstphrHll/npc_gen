@@ -1,55 +1,52 @@
 ---
 birthday:
-  numeric: 2/30
-  written: 30th of Corelent
-bond: I'm loyal to my captain first, everything else second.
-eyes: Green
-flaw: I consider the adherents of other gods to be deluded innocents at best, or ignorant
-  fools at worst.
-guild: Alderden
-hair: straight white hair that's a tousled bed head
-ideal: Logic
+  numeric: 7/16
+  written: 16th of Korent
+bond: I will do anything to protect the temple where I served.
+eyes: Pale Brown
+flaw: When I see something valuable, I can't think about anything but how to steal
+  it.
+guild: Elkenval
+hair: wavy violet hair that's parted to the side, slightly obscuring an eye
+ideal: Self-Fulfillment
 name: Shoulree Letryal
 organizations: []
-partyID: 43
-race: Human
+partyID: 88
+race: Tiefling
 relationships:
-- name: Miglus Yrlissa
+- name: Alonnos Xanotter
   type: partymate
-- name: Moki Aelynthi
+- name: Levi Kicklighter
   type: partymate
-- name: Nathan Laeroth
-  type: partymate
-skin: Light
-spec: Paladin
+skin: Olive
+spec: Monk
 stats:
-  cha: 10
-  con: 9
-  dex: 14
-  int: 12
-  str: 15
-  wis: 11
-track: Assault
-trait: I don't part with my money easily and will haggle tirelessly to get the best
-  deal possible.
-trait1: Directed
-trait2: "Blas\xE9"
+  cha: 7
+  con: 11
+  dex: 17
+  int: 11
+  str: 13
+  wis: 16
+track: Diplomacy
+trait: I'm haunted by memories of war. I can't get the images of violence out of my
+  mind.
+trait1: Insistent
+trait2: Solemn
 year: 1
 ---
 # Shoulree Letryal
 ---
 ### Description
-- 1st year Human Paladin in Alderden
-- straight white hair that's a tousled bed head, Green eyes, and Light skin
-- Is Directed and Blasé, and has Logic as their ideal
+- 1st year Tiefling Monk in Elkenval
+- wavy violet hair that's parted to the side, slightly obscuring an eye, Pale Brown eyes, and Olive skin
+- Is Insistent and Solemn, and has Self-Fulfillment as their ideal
 
 ### Organizations
 ### Relationships
-[[Miglus Yrlissa]]: partymate
-[[Moki Aelynthi]]: partymate
-[[Nathan Laeroth]]: partymate
+[[Alonnos Xanotter]]: partymate
+[[Levi Kicklighter]]: partymate
 ### Stats
 ```statblock
 name: Shoulree Letryal
-stats: [15, 14, 9, 12, 11, 10]
+stats: [13, 17, 11, 11, 16, 7]
 ```

@@ -1,54 +1,57 @@
 ---
 birthday:
-  numeric: 7/33
-  written: 33rd of Korent
-bond: I was cheated out of my fair share of the profits, and I want to get my due.
+  numeric: 7/21
+  written: 21st of Korent
+bond: I would still lay down my life for the people I served with.
 eyes: Pale Green
-flaw: I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go,
-  I'm surrounded by rivals.
-guild: Burk
-hair: frizzy strawberry blond hair that's parted to the right
+flaw: I have little respect for anyone who is not a proven warrior.
+guild: Jettenia
+hair: curly grey hair that's put back in a short pony tail
 ideal: Fitness
 name: Matto Divya
 organizations: []
-partyID: 32
-race: Firbolg
+partyID: 68
+race: Gnome
 relationships:
-- name: Hudsen Elandorr
+- name: Ysak Llewellenar
   type: partymate
-- name: Pippi Langston
+- name: Alver Boneflare
   type: partymate
-- name: Ilksal Immianthe
+- name: Garan Mirthal
   type: partymate
-skin: Pale Gray
-spec: Monk
+- name: Iasono Ynshael
+  type: partymate
+skin: Fair
+spec: Ranger
 stats:
-  cha: 6
-  con: 16
-  dex: 17
-  int: 13
-  str: 15
-  wis: 15
-track: Protection
-trait: I'm a hopeless romantic, always searching for that "special someone."
-trait1: Positive
-trait2: Obnoxious
-year: 8
+  cha: 14
+  con: 12
+  dex: 16
+  int: 14
+  str: 11
+  wis: 12
+track: Assault
+trait: I'm confident in my own abilities and do what I can to instill confidence in
+  others.
+trait1: Stern
+trait2: Lackadaisical
+year: 1
 ---
 # Matto Divya
 ---
 ### Description
-- 8th year Firbolg Monk in Burk
-- frizzy strawberry blond hair that's parted to the right, Pale Green eyes, and Pale Gray skin
-- Is Positive and Obnoxious, and has Fitness as their ideal
+- 1st year Gnome Ranger in Jettenia
+- curly grey hair that's put back in a short pony tail, Pale Green eyes, and Fair skin
+- Is Stern and Lackadaisical, and has Fitness as their ideal
 
 ### Organizations
 ### Relationships
-[[Hudsen Elandorr]]: partymate
-[[Pippi Langston]]: partymate
-[[Ilksal Immianthe]]: partymate
+[[Ysak Llewellenar]]: partymate
+[[Alver Boneflare]]: partymate
+[[Garan Mirthal]]: partymate
+[[Iasono Ynshael]]: partymate
 ### Stats
 ```statblock
 name: Matto Divya
-stats: [15, 17, 16, 13, 15, 6]
+stats: [11, 16, 12, 14, 12, 14]
 ```

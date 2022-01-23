@@ -1,54 +1,52 @@
 ---
 birthday:
-  numeric: 5/22
-  written: 22nd of Iounent
-bond: My honor is my life.
-eyes: Pale Green
-flaw: I am slow to trust members of other races, tribes, and societies.
-guild: Jettenia
-hair: straight auburn hair that's parted to the right
-ideal: People
+  numeric: 4/10
+  written: 10th of Moradent
+bond: Somewhere out there, I have a child who doesn't know me. I'm making the world
+  better for him or her.
+eyes: Pale Brown
+flaw: I'm convinced of the significance of my destiny, and blind to my shortcomings
+  and the risk of failure.
+guild: Alderden
+hair: wavy brunette hair that's parted to the left
+ideal: Speed
 name: Gianna Rhistel
 organizations: []
-partyID: 36
-race: Gnome
+partyID: 73
+race: Tiefling
 relationships:
-- name: Karl Cauladra
+- name: Jamye Napraeleon
   type: partymate
-- name: Evyn Fenton
+- name: Cirvlon Elpaerae
   type: partymate
-- name: Evylen Nese
-  type: partymate
-skin: Tan
+skin: Purple
 spec: Druid
 stats:
-  cha: 10
-  con: 13
-  dex: 5
-  int: 11
-  str: 13
-  wis: 17
-track: Diplomacy
-trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
-  bundle in my arms.
-trait1: Ambitious
-trait2: Busy
-year: 4
+  cha: 11
+  con: 12
+  dex: 6
+  int: 12
+  str: 6
+  wis: 13
+track: Protection
+trait: I bluntly say what other people are hinting at or hiding.
+trait1: Dynamic
+trait2: Shy
+year: 2
 ---
 # Gianna Rhistel
 ---
 ### Description
-- 4th year Gnome Druid in Jettenia
-- straight auburn hair that's parted to the right, Pale Green eyes, and Tan skin
-- Is Ambitious and Busy, and has People as their ideal
+- 2nd year Tiefling Druid in Alderden
+- wavy brunette hair that's parted to the left, Pale Brown eyes, and Purple skin
+- Is Dynamic and Shy, and has Speed as their ideal
 
 ### Organizations
 ### Relationships
-[[Karl Cauladra]]: partymate
-[[Evyn Fenton]]: partymate
-[[Evylen Nese]]: partymate
+[[Jamye Napraeleon]]: partymate
+[[Cirvlon Elpaerae]]: partymate
 ### Stats
 ```statblock
 name: Gianna Rhistel
-stats: [13, 5, 13, 11, 17, 10]
+stats: [6, 6, 12, 12, 13, 11]
 ```

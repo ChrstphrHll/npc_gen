@@ -1,52 +1,50 @@
 ---
 birthday:
-  numeric: 4/25
-  written: 25th of Moradent
-bond: My tools are symbols of my past life, and I carry them so that I will never
-  forget my roots.
-eyes: Sea Green
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Alderden
-hair: long spines
-ideal: Reciprocity
+  numeric: 4/7
+  written: 7th of Moradent
+bond: I'm trying to pay off an old debt I owe to a generous benefactor.
+eyes: Pale Gray
+flaw: I follow orders, even if I think they're wrong.
+guild: Fiesn
+hair: straight brunette hair that's loose around the shoulders
+ideal: People
 name: Adamos Taehr
 organizations: []
-partyID: 67
-race: Dragonborn
+partyID: 53
+race: Elf
 relationships:
-- name: Mateos Elanil
+- name: Alexandyr Aulauthar
   type: partymate
-- name: Shike Thalaera
+- name: Coriss Biafyndar
   type: partymate
-skin: red
+skin: Tan
 spec: Fighter
 stats:
-  cha: 11
-  con: 9
-  dex: 17
+  cha: 17
+  con: 13
+  dex: 8
   int: 12
-  str: 6
-  wis: 16
-track: Exploration
-trait: I'm a hopeless romantic, always searching for that "special someone."
-trait1: Stubborn
-trait2: Progressive
-year: 1
+  str: 14
+  wis: 9
+track: Diplomacy
+trait: I work hard so that I can play hard when the work is done.
+trait1: Attentive
+trait2: Sensual
+year: 5
 ---
 # Adamos Taehr
 ---
 ### Description
-- 1st year Dragonborn Fighter in Alderden
-- long spines, Sea Green eyes, and red skin
-- Is Stubborn and Progressive, and has Reciprocity as their ideal
+- 5th year Elf Fighter in Fiesn
+- straight brunette hair that's loose around the shoulders, Pale Gray eyes, and Tan skin
+- Is Attentive and Sensual, and has People as their ideal
 
 ### Organizations
 ### Relationships
-[[Mateos Elanil]]: partymate
-[[Shike Thalaera]]: partymate
+[[Alexandyr Aulauthar]]: partymate
+[[Coriss Biafyndar]]: partymate
 ### Stats
 ```statblock
 name: Adamos Taehr
-stats: [6, 17, 9, 12, 16, 11]
+stats: [14, 8, 13, 12, 9, 17]
 ```

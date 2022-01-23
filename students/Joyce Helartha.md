@@ -1,55 +1,50 @@
 ---
 birthday:
-  numeric: 7/33
-  written: 33rd of Korent
-bond: I escaped my life of poverty by robbing an important person, and I'm wanted
-  for it.
-eyes: Pale Brown
-flaw: I'll do anything to win fame and renown.
-guild: Alderden
-hair: curly grey hair that's parted to the right
-ideal: Respect
+  numeric: 2/21
+  written: 21st of Corelent
+bond: I was cheated out of my fair share of the profits, and I want to get my due.
+eyes: Pale Blue
+flaw: I'd risk too much to uncover a lost bit of knowledge.
+guild: Treskal
+hair: curly dark red hair that's a buzz cut
+ideal: Compassion
 name: Joyce Helartha
 organizations: []
-partyID: 11
-race: Triton
+partyID: 78
+race: Halfling
 relationships:
-- name: Aryana Velethuil
+- name: Maia Ashsorrow
   type: partymate
-- name: Santyeg Kuskyn
+- name: Hanna Arkhun
   type: partymate
-- name: Asten Alavara
-  type: partymate
-skin: Olive
-spec: Paladin
+skin: Dark Tan
+spec: Cleric
 stats:
-  cha: 12
-  con: 13
-  dex: 10
+  cha: 11
+  con: 12
+  dex: 16
   int: 12
-  str: 14
-  wis: 13
-track: Protection
-trait: I am always calm, no matter what the situation. I never raise my voice or let
-  emotions control me.
-trait1: Idiosyncratic
-trait2: Pitiful
+  str: 16
+  wis: 18
+track: Diplomacy
+trait: I express affection or contempt in ways that are unfamiliar to others.
+trait1: Innovative
+trait2: Abrasive
 year: 1
 ---
 # Joyce Helartha
 ---
 ### Description
-- 1st year Triton Paladin in Alderden
-- curly grey hair that's parted to the right, Pale Brown eyes, and Olive skin
-- Is Idiosyncratic and Pitiful, and has Respect as their ideal
+- 1st year Halfling Cleric in Treskal
+- curly dark red hair that's a buzz cut, Pale Blue eyes, and Dark Tan skin
+- Is Innovative and Abrasive, and has Compassion as their ideal
 
 ### Organizations
 ### Relationships
-[[Aryana Velethuil]]: partymate
-[[Santyeg Kuskyn]]: partymate
-[[Asten Alavara]]: partymate
+[[Maia Ashsorrow]]: partymate
+[[Hanna Arkhun]]: partymate
 ### Stats
 ```statblock
 name: Joyce Helartha
-stats: [14, 10, 13, 12, 13, 12]
+stats: [16, 16, 12, 12, 18, 11]
 ```

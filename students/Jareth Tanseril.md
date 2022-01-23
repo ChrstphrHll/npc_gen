@@ -1,58 +1,52 @@
 ---
 birthday:
-  numeric: 1/30
-  written: 30th of Avanent
-bond: A proud noble once gave me a horrible beating, and I will take my revenge on
-  any bully I encounter.
-eyes: Hazel
-flaw: Once I pick a goal, I become obsessed with it to the detriment of everything
-  else in my life.
-guild: Fiesn
-hair: sleek
-ideal: Kindness
+  numeric: 6/2
+  written: 2nd of Pelent
+bond: My family, clan, or tribe is the most important thing in my life, even when
+  they are far from me.
+eyes: Brown
+flaw: I remember every insult I've received and nurse a silent resentment toward anyone
+  who's ever wronged me.
+guild: Jettenia
+hair: wavy blue hair that's put back in a long pony tail
+ideal: Learning
 name: Jareth Tanseril
 organizations: []
-partyID: 24
-race: Kenku
+partyID: 10
+race: Gnome
 relationships:
-- name: Ian Averescu
+- name: Jaris Amlaruil
   type: partymate
-- name: Jothen Elway
+- name: Aksel Strohm
   type: partymate
-- name: Gianesia Onvyr
-  type: partymate
-- name: Delila Felaern
-  type: partymate
-skin: Dark Purple
-spec: Fighter
+skin: Light
+spec: Artificer
 stats:
-  cha: 13
+  cha: 15
   con: 10
   dex: 14
-  int: 13
-  str: 13
-  wis: 8
-track: Diplomacy
-trait: I have a strong code of honor or sense of propriety that others don't comprehend.
-trait1: Resourceful
-trait2: Contradictory
-year: 3
+  int: 16
+  str: 14
+  wis: 11
+track: Exploration
+trait: I watch over my friends as if they were a litter of newborn pups.
+trait1: Sage
+trait2: Unreliable
+year: 7
 ---
 # Jareth Tanseril
 ---
 ### Description
-- 3rd year Kenku Fighter in Fiesn
-- sleek, Hazel eyes, and Dark Purple skin
-- Is Resourceful and Contradictory, and has Kindness as their ideal
+- 7th year Gnome Artificer in Jettenia
+- wavy blue hair that's put back in a long pony tail, Brown eyes, and Light skin
+- Is Sage and Unreliable, and has Learning as their ideal
 
 ### Organizations
 ### Relationships
-[[Ian Averescu]]: partymate
-[[Jothen Elway]]: partymate
-[[Gianesia Onvyr]]: partymate
-[[Delila Felaern]]: partymate
+[[Jaris Amlaruil]]: partymate
+[[Aksel Strohm]]: partymate
 ### Stats
 ```statblock
 name: Jareth Tanseril
-stats: [13, 14, 10, 13, 8, 13]
+stats: [14, 14, 10, 16, 11, 15]
 ```

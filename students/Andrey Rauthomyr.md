@@ -1,54 +1,56 @@
 ---
 birthday:
-  numeric: 7/2
-  written: 2nd of Korent
-bond: I'll always remember my first ship.
-eyes: Hazel
-flaw: An innocent person is in prison for a crime that I committed. I'm okay with
-  that.
-guild: Burk
-hair: wavy dirty blonde hair that's loose around the shoulders
-ideal: Pride
+  numeric: 5/6
+  written: 6th of Iounent
+bond: I worked the land, I love the land, and I will protect the land.
+eyes: Blue
+flaw: I judge others harshly, and myself even more severely.
+guild: Elkenval
+hair: wavy red hair that's braided with blue ribbon (med)
+ideal: Compassion
 name: Andrey Rauthomyr
 organizations: []
-partyID: 26
-race: Dwarf
+partyID: 91
+race: Gnome
 relationships:
+- name: Jandar Pleufan
+  type: partymate
+- name: Kimbera Alerathla
+  type: partymate
+- name: Allyson Vindinglag
+  type: partymate
 - name: Emilanus Shields
   type: partymate
-- name: Averra Taleisin
-  type: partymate
-- name: Senna Tryton
-  type: partymate
 skin: Dark Tan
-spec: Barbarian
+spec: Artificer
 stats:
-  cha: 15
-  con: 14
-  dex: 15
-  int: 10
-  str: 16
-  wis: 16
-track: Exploration
-trait: I don't like to bathe.
-trait1: Daring
-trait2: Animated
-year: 8
+  cha: 13
+  con: 12
+  dex: 10
+  int: 15
+  str: 10
+  wis: 10
+track: Assault
+trait: I would rather make a new friend than a new enemy.
+trait1: Trusting
+trait2: Unrealistic
+year: 1
 ---
 # Andrey Rauthomyr
 ---
 ### Description
-- 8th year Dwarf Barbarian in Burk
-- wavy dirty blonde hair that's loose around the shoulders, Hazel eyes, and Dark Tan skin
-- Is Daring and Animated, and has Pride as their ideal
+- 1st year Gnome Artificer in Elkenval
+- wavy red hair that's braided with blue ribbon (med), Blue eyes, and Dark Tan skin
+- Is Trusting and Unrealistic, and has Compassion as their ideal
 
 ### Organizations
 ### Relationships
+[[Jandar Pleufan]]: partymate
+[[Kimbera Alerathla]]: partymate
+[[Allyson Vindinglag]]: partymate
 [[Emilanus Shields]]: partymate
-[[Averra Taleisin]]: partymate
-[[Senna Tryton]]: partymate
 ### Stats
 ```statblock
 name: Andrey Rauthomyr
-stats: [16, 15, 14, 10, 16, 15]
+stats: [10, 10, 12, 15, 10, 13]
 ```

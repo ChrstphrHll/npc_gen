@@ -1,50 +1,57 @@
 ---
 birthday:
-  numeric: 3/10
-  written: 10th of Melorent
-bond: I've been searching my whole life for the answer to a certain question.
-eyes: Gray
-flaw: It's not stealing if I need it more than someone else.
-guild: Treskal
-hair: wavy lighter blonde hair that's hanging down to their back
-ideal: Learning
+  numeric: 6/17
+  written: 17th of Pelent
+bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
+  eludes me.
+eyes: Pale Green
+flaw: I have an insatiable desire for carnal pleasures.
+guild: Fiesn
+hair: wavy white hair that's loose around the shoulders
+ideal: Fitness
 name: Romen Uldreiyn
 organizations: []
-partyID: 75
-race: Dwarf
+partyID: 79
+race: Goliath
 relationships:
-- name: Robbos Kalaerede
+- name: Brahm Delmuth
   type: partymate
-- name: Branus Shadegrove
+- name: Rianna Belt
   type: partymate
-skin: Dark Tan
-spec: Sorcerer
+- name: Tez Bialaer
+  type: partymate
+- name: Zylphan Molostroi
+  type: partymate
+skin: Light Tan
+spec: Druid
 stats:
-  cha: 17
-  con: 13
-  dex: 10
-  int: 15
-  str: 4
-  wis: 14
+  cha: 11
+  con: 15
+  dex: 12
+  int: 12
+  str: 11
+  wis: 17
 track: Protection
-trait: My language is as foul as an otyugh nest.
-trait1: Liberal
-trait2: Impersonal
-year: 3
+trait: I'm a born gambler who can't resist taking a risk for a potential payoff.
+trait1: Self-reliant
+trait2: Superficial
+year: 8
 ---
 # Romen Uldreiyn
 ---
 ### Description
-- 3rd year Dwarf Sorcerer in Treskal
-- wavy lighter blonde hair that's hanging down to their back, Gray eyes, and Dark Tan skin
-- Is Liberal and Impersonal, and has Learning as their ideal
+- 8th year Goliath Druid in Fiesn
+- wavy white hair that's loose around the shoulders, Pale Green eyes, and Light Tan skin
+- Is Self-reliant and Superficial, and has Fitness as their ideal
 
 ### Organizations
 ### Relationships
-[[Robbos Kalaerede]]: partymate
-[[Branus Shadegrove]]: partymate
+[[Brahm Delmuth]]: partymate
+[[Rianna Belt]]: partymate
+[[Tez Bialaer]]: partymate
+[[Zylphan Molostroi]]: partymate
 ### Stats
 ```statblock
 name: Romen Uldreiyn
-stats: [4, 10, 13, 15, 14, 17]
+stats: [11, 12, 15, 12, 17, 11]
 ```

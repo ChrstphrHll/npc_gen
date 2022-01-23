@@ -1,57 +1,57 @@
 ---
 birthday:
-  numeric: 8/2
-  written: 2nd of Ravenent
-bond: I owe my life to the priest who took me in when my parents died.
-eyes: Gray
-flaw: Violence is my answer to almost any challenge.
-guild: Alderden
-hair: wavy platinum hair that's braided with violet ribbon (long)
-ideal: Humane
+  numeric: 8/3
+  written: 3rd of Ravenent
+bond: Nothing is more important than the other members of my family.
+eyes: Green
+flaw: No one must ever learn that I once stole money from guild coffers.
+guild: Elkenval
+hair: straight dark red hair that's parted to the side, slightly obscuring an eye
+ideal: Family
 name: Jandar Pleufan
 organizations: []
-partyID: 33
+partyID: 91
 race: Gnome
 relationships:
-- name: Natalia Endo
+- name: Kimbera Alerathla
   type: partymate
-- name: Ahtye Elhieardacil
+- name: Allyson Vindinglag
   type: partymate
-- name: Hudsen Aluendalee
+- name: Emilanus Shields
   type: partymate
-- name: Ezros Laerdya
+- name: Andrey Rauthomyr
   type: partymate
-skin: Pale
-spec: Druid
+skin: Brown
+spec: Ranger
 stats:
-  cha: 10
-  con: 12
-  dex: 15
-  int: 14
-  str: 6
+  cha: 11
+  con: 15
+  dex: 16
+  int: 17
+  str: 8
   wis: 16
-track: Assault
+track: Protection
 trait: I'm full of inspiring and cautionary tales from my military experience relevant
   to almost every combat situation.
-trait1: Questioning
-trait2: Conforming
-year: 2
+trait1: Forgiving
+trait2: Domineering
+year: 1
 ---
 # Jandar Pleufan
 ---
 ### Description
-- 2nd year Gnome Druid in Alderden
-- wavy platinum hair that's braided with violet ribbon (long), Gray eyes, and Pale skin
-- Is Questioning and Conforming, and has Humane as their ideal
+- 1st year Gnome Ranger in Elkenval
+- straight dark red hair that's parted to the side, slightly obscuring an eye, Green eyes, and Brown skin
+- Is Forgiving and Domineering, and has Family as their ideal
 
 ### Organizations
 ### Relationships
-[[Natalia Endo]]: partymate
-[[Ahtye Elhieardacil]]: partymate
-[[Hudsen Aluendalee]]: partymate
-[[Ezros Laerdya]]: partymate
+[[Kimbera Alerathla]]: partymate
+[[Allyson Vindinglag]]: partymate
+[[Emilanus Shields]]: partymate
+[[Andrey Rauthomyr]]: partymate
 ### Stats
 ```statblock
 name: Jandar Pleufan
-stats: [6, 15, 12, 14, 16, 10]
+stats: [8, 16, 15, 17, 16, 11]
 ```

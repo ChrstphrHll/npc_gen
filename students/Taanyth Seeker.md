@@ -1,58 +1,52 @@
 ---
 birthday:
-  numeric: 3/18
-  written: 18th of Melorent
-bond: I'm trying to pay off an old debt I owe to a generous benefactor.
-eyes: Pale Blue
-flaw: I consider the adherents of other gods to be deluded innocents at best, or ignorant
-  fools at worst.
+  numeric: 8/28
+  written: 28th of Ravenent
+bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
+  somewhere.
+eyes: Green
+flaw: I like keeping secrets and won't share them with anyone.
 guild: Burk
-hair: straight auburn hair that's loose around the shoulders
-ideal: Charity
+hair: straight black hair that's parted to the side, slightly obscuring an eye
+ideal: Gratitude
 name: Taanyth Seeker
 organizations: []
-partyID: 57
-race: Firbolg
+partyID: 31
+race: Human
 relationships:
-- name: Jaris Amlaruil
+- name: Efjan Andrathath
   type: partymate
-- name: Tyego Sinaht
+- name: Averra Taleisin
   type: partymate
-- name: Felgie Eldar
-  type: partymate
-- name: Tisette Bender
-  type: partymate
-skin: Pale Green
-spec: Wizard
+skin: Tan
+spec: Monk
 stats:
-  cha: 14
-  con: 14
-  dex: 12
-  int: 17
-  str: 10
+  cha: 16
+  con: 11
+  dex: 16
+  int: 8
+  str: 11
   wis: 13
-track: Exploration
-trait: I have my own ideas about what is and is not food, and I find the eating habits
-  of those around me fascinating, confusing, or revolting.
-trait1: Witty
-trait2: Egocentric
+track: Assault
+trait: Despite my noble birth, I do not place myself above other folk. We all have
+  the same blood.
+trait1: Active
+trait2: Insolent
 year: 1
 ---
 # Taanyth Seeker
 ---
 ### Description
-- 1st year Firbolg Wizard in Burk
-- straight auburn hair that's loose around the shoulders, Pale Blue eyes, and Pale Green skin
-- Is Witty and Egocentric, and has Charity as their ideal
+- 1st year Human Monk in Burk
+- straight black hair that's parted to the side, slightly obscuring an eye, Green eyes, and Tan skin
+- Is Active and Insolent, and has Gratitude as their ideal
 
 ### Organizations
 ### Relationships
-[[Jaris Amlaruil]]: partymate
-[[Tyego Sinaht]]: partymate
-[[Felgie Eldar]]: partymate
-[[Tisette Bender]]: partymate
+[[Efjan Andrathath]]: partymate
+[[Averra Taleisin]]: partymate
 ### Stats
 ```statblock
 name: Taanyth Seeker
-stats: [10, 12, 14, 17, 13, 14]
+stats: [11, 16, 11, 8, 13, 16]
 ```

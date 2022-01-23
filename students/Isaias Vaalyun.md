@@ -1,51 +1,52 @@
 ---
 birthday:
-  numeric: 8/18
-  written: 18th of Ravenent
-bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, and
-  left me to die. Vengeance will be mine.
-eyes: Pale Gray
-flaw: I'll do anything to win fame and renown.
-guild: Alderden
-hair: wavy lighter blonde hair that's loose around the shoulders
-ideal: Harmony
+  numeric: 3/32
+  written: 32nd of Melorent
+bond: A proud noble once gave me a horrible beating, and I will take my revenge on
+  any bully I encounter.
+eyes: Pale Blue
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+guild: Burk
+hair: wavy lighter blonde hair that's braided with green ribbon (med)
+ideal: Logic
 name: Isaias Vaalyun
 organizations: []
-partyID: 21
-race: Half-Orc
+partyID: 36
+race: Dwarf
 relationships:
-- name: Corliss Akkar
+- name: Levy Maendellyn
   type: partymate
-- name: Aurikallos Biafyndar
+- name: Jacoby Maeraddyth
   type: partymate
-skin: Pale Green
-spec: Monk
+skin: Dark Brown
+spec: Cleric
 stats:
-  cha: 13
-  con: 11
-  dex: 18
-  int: 12
-  str: 8
-  wis: 11
+  cha: 10
+  con: 8
+  dex: 13
+  int: 14
+  str: 10
+  wis: 16
 track: Diplomacy
-trait: I'm full of witty aphorisms and have a proverb for every occasion.
-trait1: Preoccupied
-trait2: High-handed
-year: 3
+trait: I'm oblivious to etiquette and social expectations.
+trait1: Discerning
+trait2: Hidebound
+year: 2
 ---
 # Isaias Vaalyun
 ---
 ### Description
-- 3rd year Half-Orc Monk in Alderden
-- wavy lighter blonde hair that's loose around the shoulders, Pale Gray eyes, and Pale Green skin
-- Is Preoccupied and High-handed, and has Harmony as their ideal
+- 2nd year Dwarf Cleric in Burk
+- wavy lighter blonde hair that's braided with green ribbon (med), Pale Blue eyes, and Dark Brown skin
+- Is Discerning and Hidebound, and has Logic as their ideal
 
 ### Organizations
 ### Relationships
-[[Corliss Akkar]]: partymate
-[[Aurikallos Biafyndar]]: partymate
+[[Levy Maendellyn]]: partymate
+[[Jacoby Maeraddyth]]: partymate
 ### Stats
 ```statblock
 name: Isaias Vaalyun
-stats: [8, 18, 11, 12, 11, 13]
+stats: [10, 13, 8, 14, 16, 10]
 ```

@@ -1,53 +1,59 @@
 ---
 birthday:
-  numeric: 8/7
-  written: 7th of Ravenent
-bond: My house's alliance with another noble family must be sustained at all costs.
-eyes: Hazel
-flaw: If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
-guild: Treskal
-hair: frizzy lighter blonde hair that's put back in a long pony tail
-ideal: Caring
+  numeric: 2/33
+  written: 33rd of Corelent
+bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
+  to see them again one day.
+eyes: Pale Brown
+flaw: I am too enamored of ale, wine, and other intoxicants.
+guild: Jettenia
+hair: frizzy brunette hair that's put up in a large bun
+ideal: Friendship
 name: Garan Mirthal
 organizations: []
-partyID: 89
-race: Goliath
+partyID: 68
+race: Halfling
 relationships:
-- name: Uxwy Lazziar
+- name: Matto Divya
   type: partymate
-- name: Shenai Inqoul
+- name: Ysak Llewellenar
   type: partymate
-- name: Murunay Illfate
+- name: Alver Boneflare
   type: partymate
-skin: Fair
-spec: Barbarian
+- name: Iasono Ynshael
+  type: partymate
+skin: Pale
+spec: Ranger
 stats:
-  cha: 14
-  con: 11
-  dex: 12
-  int: 16
-  str: 16
-  wis: 11
-track: Diplomacy
-trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
-trait1: Cooperative
-trait2: One-dimensional
+  cha: 11
+  con: 9
+  dex: 15
+  int: 12
+  str: 14
+  wis: 12
+track: Exploration
+trait: I have different assumptions from those around me concerning personal space,
+  blithely invading others' space in innocence, or reacting to ignorant invasion of
+  my own.
+trait1: Neutral
+trait2: Bashful
 year: 1
 ---
 # Garan Mirthal
 ---
 ### Description
-- 1st year Goliath Barbarian in Treskal
-- frizzy lighter blonde hair that's put back in a long pony tail, Hazel eyes, and Fair skin
-- Is Cooperative and One-dimensional, and has Caring as their ideal
+- 1st year Halfling Ranger in Jettenia
+- frizzy brunette hair that's put up in a large bun, Pale Brown eyes, and Pale skin
+- Is Neutral and Bashful, and has Friendship as their ideal
 
 ### Organizations
 ### Relationships
-[[Uxwy Lazziar]]: partymate
-[[Shenai Inqoul]]: partymate
-[[Murunay Illfate]]: partymate
+[[Matto Divya]]: partymate
+[[Ysak Llewellenar]]: partymate
+[[Alver Boneflare]]: partymate
+[[Iasono Ynshael]]: partymate
 ### Stats
 ```statblock
 name: Garan Mirthal
-stats: [16, 12, 11, 16, 11, 14]
+stats: [14, 15, 9, 12, 12, 11]
 ```

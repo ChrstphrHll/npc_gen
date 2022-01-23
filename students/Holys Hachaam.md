@@ -1,51 +1,55 @@
 ---
 birthday:
-  numeric: 8/3
-  written: 3rd of Ravenent
-bond: I owe my survival to another urchin who taught me tolive on the streets.
-eyes: Aqua
-flaw: I'll say anything to avoid having to do extra work.
-guild: Alderden
-hair: 5 curled horns
-ideal: Fun
+  numeric: 8/26
+  written: 26th of Ravenent
+bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
+  to see them again one day.
+eyes: Green
+flaw: I'd rather kill someone in their sleep then fight fair.
+guild: Elkenval
+hair: straight white hair that's pulled to the side and buzzed on the left
+ideal: Hard Work
 name: Holys Hachaam
 organizations: []
-partyID: 72
-race: Dragonborn
+partyID: 90
+race: Half-Elf
 relationships:
-- name: Leah Faelar
+- name: Diegon Verrona
   type: partymate
-- name: Genesys Mhaenal
+- name: Adresin Ilbryn
   type: partymate
-skin: black
-spec: Bard
+- name: Kayla Kaminsky
+  type: partymate
+skin: Brown
+spec: Rouge
 stats:
-  cha: 18
-  con: 15
-  dex: 7
-  int: 12
-  str: 12
+  cha: 9
+  con: 10
+  dex: 16
+  int: 16
+  str: 15
   wis: 12
-track: Protection
-trait: I idolize a particular hero of my faith, and constantly refer to that person's
-  deeds and example.
+track: Assault
+trait: I'm well known for my work, and I want to make sure everyone appreciates it.
+  I'm always taken aback when people haven't heard of me.
 trait1: Eloquent
-trait2: Silly
+trait2: Wishy-washy
 year: 1
 ---
 # Holys Hachaam
 ---
 ### Description
-- 1st year Dragonborn Bard in Alderden
-- 5 curled horns, Aqua eyes, and black skin
-- Is Eloquent and Silly, and has Fun as their ideal
+- 1st year Half-Elf Rouge in Elkenval
+- straight white hair that's pulled to the side and buzzed on the left, Green eyes, and Brown skin
+- Is Eloquent and Wishy-washy, and has Hard Work as their ideal
 
 ### Organizations
 ### Relationships
-[[Leah Faelar]]: partymate
-[[Genesys Mhaenal]]: partymate
+[[Diegon Verrona]]: partymate
+[[Adresin Ilbryn]]: partymate
+[[Kayla Kaminsky]]: partymate
 ### Stats
 ```statblock
 name: Holys Hachaam
-stats: [12, 7, 15, 12, 12, 18]
+stats: [15, 16, 10, 16, 12, 9]
 ```

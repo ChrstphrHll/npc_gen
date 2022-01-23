@@ -1,54 +1,50 @@
 ---
 birthday:
-  numeric: 4/21
-  written: 21st of Moradent
-bond: I seek to preserve a sacred text that my enemies consider heretical and seek
-  to destroy.
-eyes: Pale Green
-flaw: I turn tail and run when things look bad.
-guild: Treskal
-hair: straight brunette hair that's put back in a long pony tail
-ideal: Knowledge
+  numeric: 8/20
+  written: 20th of Ravenent
+bond: I will do anything to protect the temple where I served.
+eyes: Pale Gray
+flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
+guild: Elkenval
+hair: curly red hair that's put back in a short pony tail
+ideal: Wisdom
 name: Athyn Urddusk
 organizations: []
-partyID: 53
-race: Dwarf
+partyID: 40
+race: Human
 relationships:
-- name: Kloya Kershaw
+- name: Theodus Chylnoth
   type: partymate
-- name: Tylus Ytharra
+- name: Velmona Elway
   type: partymate
-- name: Graisen Thalanil
-  type: partymate
-skin: Light Tan
-spec: Barbarian
+skin: Light
+spec: Artificer
 stats:
-  cha: 12
-  con: 16
-  dex: 7
-  int: 15
-  str: 16
-  wis: 14
-track: Diplomacy
-trait: To me, a tavern brawl is a nice way to get to know a new city.
-trait1: Meticulous
-trait2: Unappreciative
-year: 2
+  cha: 10
+  con: 12
+  dex: 12
+  int: 17
+  str: 13
+  wis: 13
+track: Assault
+trait: I fall in and out of love easily, and am always pursuing someone.
+trait1: Purposeful
+trait2: Ill-bred
+year: 1
 ---
 # Athyn Urddusk
 ---
 ### Description
-- 2nd year Dwarf Barbarian in Treskal
-- straight brunette hair that's put back in a long pony tail, Pale Green eyes, and Light Tan skin
-- Is Meticulous and Unappreciative, and has Knowledge as their ideal
+- 1st year Human Artificer in Elkenval
+- curly red hair that's put back in a short pony tail, Pale Gray eyes, and Light skin
+- Is Purposeful and Ill-bred, and has Wisdom as their ideal
 
 ### Organizations
 ### Relationships
-[[Kloya Kershaw]]: partymate
-[[Tylus Ytharra]]: partymate
-[[Graisen Thalanil]]: partymate
+[[Theodus Chylnoth]]: partymate
+[[Velmona Elway]]: partymate
 ### Stats
 ```statblock
 name: Athyn Urddusk
-stats: [16, 7, 16, 15, 14, 12]
+stats: [13, 12, 12, 17, 13, 10]
 ```

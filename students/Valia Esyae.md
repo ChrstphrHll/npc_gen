@@ -1,53 +1,47 @@
 ---
 birthday:
-  numeric: 4/29
-  written: 29th of Moradent
-bond: I work to preserve a library, university, scriptorium, or monastery.
-eyes: Blue
-flaw: I can't resist swindling people who are more powerful than me.
-guild: Burk
-hair: wavy grey hair that's kept back by a green headband
-ideal: Adventure
+  numeric: 1/6
+  written: 6th of Avanent
+bond: I fight for those who cannot fight for themselves.
+eyes: Green
+flaw: I have trouble trusting in my allies.
+guild: Alderden
+hair: straight auburn hair that's parted to the left
+ideal: Lead by example
 name: Valia Esyae
 organizations: []
-partyID: 22
-race: Halfling
+partyID: 21
+race: Elf
 relationships:
-- name: Lenn Schimae
+- name: Volkos Halaema
   type: partymate
-- name: Hessos Adorellan
-  type: partymate
-- name: Lynx Galather
-  type: partymate
-skin: Light Tan
-spec: Fighter
+skin: Tan
+spec: Monk
 stats:
-  cha: 14
-  con: 9
-  dex: 11
+  cha: 13
+  con: 13
+  dex: 18
   int: 12
-  str: 16
-  wis: 13
+  str: 13
+  wis: 11
 track: Assault
-trait: I quote (or misquote) sacred texts and proverbs in almost every situation.
-trait1: Unfathomable
-trait2: Money-minded
-year: 7
+trait: I get bitter if I'm not the center of attention.
+trait1: Captivating
+trait2: Unsentimental
+year: 4
 ---
 # Valia Esyae
 ---
 ### Description
-- 7th year Halfling Fighter in Burk
-- wavy grey hair that's kept back by a green headband, Blue eyes, and Light Tan skin
-- Is Unfathomable and Money-minded, and has Adventure as their ideal
+- 4th year Elf Monk in Alderden
+- straight auburn hair that's parted to the left, Green eyes, and Tan skin
+- Is Captivating and Unsentimental, and has Lead by example as their ideal
 
 ### Organizations
 ### Relationships
-[[Lenn Schimae]]: partymate
-[[Hessos Adorellan]]: partymate
-[[Lynx Galather]]: partymate
+[[Volkos Halaema]]: partymate
 ### Stats
 ```statblock
 name: Valia Esyae
-stats: [16, 11, 9, 12, 13, 14]
+stats: [13, 18, 13, 12, 11, 13]
 ```

@@ -1,53 +1,57 @@
 ---
 birthday:
-  numeric: 5/5
-  written: 5th of Iounent
-bond: I seek to preserve a sacred text that my enemies consider heretical and seek
-  to destroy.
-eyes: Pale Blue
-flaw: I don't take kindly to some of the actions and motivations of the people of
-  this land, because these folk are different from me.
-guild: Treskal
-hair: wavy platinum hair that's hanging down to their back
-ideal: Respect
+  numeric: 8/24
+  written: 24th of Ravenent
+bond: Someone I loved died because of a mistake I made. That will never happen again.
+eyes: Hazel
+flaw: Don't expect me to save those who can't save themselves. It is nature's way
+  that the strong thrive and the weak perish.
+guild: Jettenia
+hair: curly pink hair that's parted to the left
+ideal: Excitement
 name: Yorala Tiatha
 organizations: []
-partyID: 56
-race: Goliath
+partyID: 35
+race: Triton
 relationships:
-- name: Jacus Kosunten
+- name: Matos Mektal
   type: partymate
-- name: Wren Urmicca
+- name: Adros Tolthe
   type: partymate
-skin: Dark Tan
-spec: Cleric
+- name: Selina Ochyllyss
+  type: partymate
+- name: Ivistra Stockton
+  type: partymate
+skin: Emerald Green
+spec: Monk
 stats:
-  cha: 11
-  con: 9
-  dex: 12
-  int: 13
-  str: 15
-  wis: 15
-track: Diplomacy
-trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
-  bundle in my arms.
-trait1: Quality
-trait2: Negativistic
-year: 1
+  cha: 8
+  con: 14
+  dex: 15
+  int: 12
+  str: 12
+  wis: 13
+track: Protection
+trait: I hide scraps of food and trinkets away in my pockets.
+trait1: Educated
+trait2: 'False'
+year: 5
 ---
 # Yorala Tiatha
 ---
 ### Description
-- 1st year Goliath Cleric in Treskal
-- wavy platinum hair that's hanging down to their back, Pale Blue eyes, and Dark Tan skin
-- Is Quality and Negativistic, and has Respect as their ideal
+- 5th year Triton Monk in Jettenia
+- curly pink hair that's parted to the left, Hazel eyes, and Emerald Green skin
+- Is Educated and False, and has Excitement as their ideal
 
 ### Organizations
 ### Relationships
-[[Jacus Kosunten]]: partymate
-[[Wren Urmicca]]: partymate
+[[Matos Mektal]]: partymate
+[[Adros Tolthe]]: partymate
+[[Selina Ochyllyss]]: partymate
+[[Ivistra Stockton]]: partymate
 ### Stats
 ```statblock
 name: Yorala Tiatha
-stats: [15, 12, 9, 13, 15, 11]
+stats: [12, 15, 14, 12, 13, 8]
 ```

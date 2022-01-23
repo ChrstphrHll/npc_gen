@@ -1,54 +1,51 @@
 ---
 birthday:
-  numeric: 8/2
-  written: 2nd of Ravenent
-bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
+  numeric: 2/9
+  written: 9th of Corelent
+bond: I'm fascinated by the beauty and wonder of this new land.
 eyes: Hazel
-flaw: It's not stealing if I need it more than someone else.
+flaw: When faced with a choice between money and my friends, I usually choose the
+  money.
 guild: Fiesn
-hair: straight grey hair that's braided with violet ribbon (long)
-ideal: People
+hair: curly dark red hair that's done up in a top knot
+ideal: Reciprocity
 name: Ragnar Illitran
 organizations: []
-partyID: 18
-race: Half-Elf
+partyID: 42
+race: Halfling
 relationships:
-- name: Angel Nushala
+- name: Brannos Bellas
   type: partymate
-- name: Everen Malfoy
+- name: Tylor Llewellenar
   type: partymate
-- name: Jasjen Nlossae
-  type: partymate
-skin: Tan
-spec: Barbarian
+skin: Light
+spec: Artificer
 stats:
-  cha: 9
+  cha: 15
   con: 11
-  dex: 14
-  int: 7
-  str: 12
+  dex: 8
+  int: 15
+  str: 5
   wis: 9
-track: Exploration
-trait: The leader of my community had something wise to say on every topic, and I
-  am eager to share that wisdom.
-trait1: Directed
-trait2: Inefficient
-year: 2
+track: Diplomacy
+trait: I am utterly serene, even in the face of disaster.
+trait1: Logical
+trait2: Well-meaning
+year: 6
 ---
 # Ragnar Illitran
 ---
 ### Description
-- 2nd year Half-Elf Barbarian in Fiesn
-- straight grey hair that's braided with violet ribbon (long), Hazel eyes, and Tan skin
-- Is Directed and Inefficient, and has People as their ideal
+- 6th year Halfling Artificer in Fiesn
+- curly dark red hair that's done up in a top knot, Hazel eyes, and Light skin
+- Is Logical and Well-meaning, and has Reciprocity as their ideal
 
 ### Organizations
 ### Relationships
-[[Angel Nushala]]: partymate
-[[Everen Malfoy]]: partymate
-[[Jasjen Nlossae]]: partymate
+[[Brannos Bellas]]: partymate
+[[Tylor Llewellenar]]: partymate
 ### Stats
 ```statblock
 name: Ragnar Illitran
-stats: [12, 14, 11, 7, 9, 9]
+stats: [5, 8, 11, 15, 9, 15]
 ```

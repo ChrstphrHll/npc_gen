@@ -1,53 +1,49 @@
 ---
 birthday:
-  numeric: 5/21
-  written: 21st of Iounent
-bond: I fight for those who cannot fight for themselves.
-eyes: Pale Green
-flaw: I judge others harshly, and myself even more severely.
-guild: Jettenia
-hair: straight white hair that's put back in a long pony tail
-ideal: Love
+  numeric: 5/5
+  written: 5th of Iounent
+bond: Nothing is more important than the other members of my hermitage, order, or
+  association.
+eyes: Pale Brown
+flaw: Gold seems like a lot of money to me, and I'll do just about anything for more
+  of it.
+guild: Burk
+hair: wavy lighter blonde hair that's geled back
+ideal: Security
 name: Thenol Shialaevar
 organizations: []
-partyID: 8
-race: Goliath
+partyID: 1
+race: Half-Orc
 relationships:
-- name: Jamye Napraeleon
+- name: Secarr Ashbluff
   type: partymate
-- name: Brannos Bellas
-  type: partymate
-- name: Leja Talila
-  type: partymate
-skin: Fair
-spec: Bard
+skin: Pale Green
+spec: Barbarian
 stats:
-  cha: 14
-  con: 12
-  dex: 11
-  int: 14
-  str: 13
-  wis: 12
+  cha: 12
+  con: 14
+  dex: 13
+  int: 6
+  str: 15
+  wis: 10
 track: Exploration
-trait: I pocket anything I see that might have some value.
-trait1: Dominating
-trait2: Negative
-year: 1
+trait: I quote (or misquote) sacred texts and proverbs in almost every situation.
+trait1: Sensitive
+trait2: Indolent
+year: 6
 ---
 # Thenol Shialaevar
 ---
 ### Description
-- 1st year Goliath Bard in Jettenia
-- straight white hair that's put back in a long pony tail, Pale Green eyes, and Fair skin
-- Is Dominating and Negative, and has Love as their ideal
+- 6th year Half-Orc Barbarian in Burk
+- wavy lighter blonde hair that's geled back, Pale Brown eyes, and Pale Green skin
+- Is Sensitive and Indolent, and has Security as their ideal
 
 ### Organizations
 ### Relationships
-[[Jamye Napraeleon]]: partymate
-[[Brannos Bellas]]: partymate
-[[Leja Talila]]: partymate
+[[Secarr Ashbluff]]: partymate
 ### Stats
 ```statblock
 name: Thenol Shialaevar
-stats: [13, 11, 12, 14, 12, 14]
+stats: [15, 13, 14, 6, 10, 12]
 ```

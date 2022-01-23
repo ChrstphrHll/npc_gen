@@ -1,57 +1,54 @@
 ---
 birthday:
-  numeric: 4/19
-  written: 19th of Moradent
-bond: In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
-eyes: Pale Brown
-flaw: I have a weakness for the exotic beauty of the people of these lands.
-guild: Jettenia
-hair: curly strawberry blond hair that's put back in a short pony tail
-ideal: Loyalty
+  numeric: 5/26
+  written: 26th of Iounent
+bond: The common folk must see me as a hero of the people.
+eyes: Hazel
+flaw: When faced with a choice between money and my friends, I usually choose the
+  money.
+guild: Treskal
+hair: curly auburn hair that's loose around the shoulders
+ideal: Humane
 name: Tilo Connak
 organizations: []
-partyID: 74
-race: Human
+partyID: 17
+race: Tiefling
 relationships:
-- name: Ysaac Aelrue
+- name: Leah Faelar
   type: partymate
-- name: Hagar Sakrattars
+- name: Branus Shadegrove
   type: partymate
-- name: Grace Festus
+- name: Angel Nushala
   type: partymate
-- name: Juppar Kershaw
-  type: partymate
-skin: Dark Brown
-spec: Fighter
+skin: Olive
+spec: Ranger
 stats:
-  cha: 12
-  con: 16
-  dex: 18
+  cha: 11
+  con: 15
+  dex: 15
   int: 15
-  str: 16
-  wis: 10
-track: Assault
-trait: I once ran twenty-five miles without stopping to warn to my clan of an approaching
-  orc horde. I'd do it again if I had to.
-trait1: Undemanding
-trait2: Shortsighted
-year: 3
+  str: 8
+  wis: 11
+track: Diplomacy
+trait: I pocket anything I see that might have some value.
+trait1: Gritty
+trait2: Modern
+year: 1
 ---
 # Tilo Connak
 ---
 ### Description
-- 3rd year Human Fighter in Jettenia
-- curly strawberry blond hair that's put back in a short pony tail, Pale Brown eyes, and Dark Brown skin
-- Is Undemanding and Shortsighted, and has Loyalty as their ideal
+- 1st year Tiefling Ranger in Treskal
+- curly auburn hair that's loose around the shoulders, Hazel eyes, and Olive skin
+- Is Gritty and Modern, and has Humane as their ideal
 
 ### Organizations
 ### Relationships
-[[Ysaac Aelrue]]: partymate
-[[Hagar Sakrattars]]: partymate
-[[Grace Festus]]: partymate
-[[Juppar Kershaw]]: partymate
+[[Leah Faelar]]: partymate
+[[Branus Shadegrove]]: partymate
+[[Angel Nushala]]: partymate
 ### Stats
 ```statblock
 name: Tilo Connak
-stats: [16, 18, 16, 15, 10, 12]
+stats: [8, 15, 15, 15, 11, 11]
 ```

@@ -1,51 +1,51 @@
 ---
 birthday:
-  numeric: 2/21
-  written: 21st of Corelent
-bond: I owe my survival to another urchin who taught me tolive on the streets.
-eyes: Pale Blue
-flaw: I am suspicious of strangers and expect the worst of them.
-guild: Treskal
-hair: curly auburn hair that's braided with pink ribbon (med)
-ideal: Wisdom
+  numeric: 1/22
+  written: 22nd of Avanent
+bond: The gods of my people are a comfort to me so far from home.
+eyes: Brown
+flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
+  involved.
+guild: Alderden
+hair: straight brunette hair that's braided with violet ribbon (med)
+ideal: Renewal
 name: Alinea Hellsturn
 organizations: []
-partyID: 88
-race: Firbolg
+partyID: 11
+race: Elf
 relationships:
-- name: Es'beth Yesheln
+- name: Tommos Morgan
   type: partymate
-- name: Bela Qwey
+- name: Jacomo Jacaranda
   type: partymate
-skin: Pale Blue
-spec: Paladin
+skin: Tan
+spec: Ranger
 stats:
-  cha: 14
-  con: 9
-  dex: 14
-  int: 16
-  str: 18
-  wis: 13
-track: Diplomacy
-trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
-  living grates on me.
-trait1: Whimsical
-trait2: Unaggressive
-year: 4
+  cha: 13
+  con: 15
+  dex: 18
+  int: 15
+  str: 13
+  wis: 7
+track: Assault
+trait: I change my mood or my mind as quickly as I change key in a song.
+trait1: Merciful
+trait2: Sloppy
+year: 5
 ---
 # Alinea Hellsturn
 ---
 ### Description
-- 4th year Firbolg Paladin in Treskal
-- curly auburn hair that's braided with pink ribbon (med), Pale Blue eyes, and Pale Blue skin
-- Is Whimsical and Unaggressive, and has Wisdom as their ideal
+- 5th year Elf Ranger in Alderden
+- straight brunette hair that's braided with violet ribbon (med), Brown eyes, and Tan skin
+- Is Merciful and Sloppy, and has Renewal as their ideal
 
 ### Organizations
 ### Relationships
-[[Es'beth Yesheln]]: partymate
-[[Bela Qwey]]: partymate
+[[Tommos Morgan]]: partymate
+[[Jacomo Jacaranda]]: partymate
 ### Stats
 ```statblock
 name: Alinea Hellsturn
-stats: [18, 14, 9, 16, 13, 14]
+stats: [13, 18, 15, 15, 7, 13]
 ```

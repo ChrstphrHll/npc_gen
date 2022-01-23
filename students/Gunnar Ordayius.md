@@ -1,49 +1,55 @@
 ---
 birthday:
-  numeric: 8/26
-  written: 26th of Ravenent
-bond: I swindled and ruined a person who didn't deserve it. I seek to atone for my
-  misdeeds but might never be able to forgive myself.
-eyes: Pale Gray
-flaw: I can't keep a secret to save my life, or anyone else's.
-guild: Jettenia
-hair: curly grey hair that's put back in a short pony tail
-ideal: Adventure
+  numeric: 1/17
+  written: 17th of Avanent
+bond: I have a family, but I have no idea where they are. One day, I hope to see them
+  again.
+eyes: Brown
+flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
+  involved.
+guild: Burk
+hair: straight auburn hair that's a tousled bed head
+ideal: Enjoyment
 name: Gunnar Ordayius
 organizations: []
-partyID: 28
-race: Dwarf
+partyID: 59
+race: Human
 relationships:
-- name: Rianna Belt
+- name: Noam Shields
   type: partymate
-skin: Tan
-spec: Fighter
+- name: Saleas Rilitar
+  type: partymate
+- name: Remus Manchul
+  type: partymate
+skin: Light
+spec: Druid
 stats:
-  cha: 15
-  con: 13
-  dex: 17
-  int: 15
-  str: 11
-  wis: 15
-track: Protection
-trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
-  living grates on me.
-trait1: Resilient
-trait2: Greedy
-year: 2
+  cha: 9
+  con: 9
+  dex: 11
+  int: 10
+  str: 13
+  wis: 12
+track: Diplomacy
+trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
+trait1: Shrewd
+trait2: Mean
+year: 4
 ---
 # Gunnar Ordayius
 ---
 ### Description
-- 2nd year Dwarf Fighter in Jettenia
-- curly grey hair that's put back in a short pony tail, Pale Gray eyes, and Tan skin
-- Is Resilient and Greedy, and has Adventure as their ideal
+- 4th year Human Druid in Burk
+- straight auburn hair that's a tousled bed head, Brown eyes, and Light skin
+- Is Shrewd and Mean, and has Enjoyment as their ideal
 
 ### Organizations
 ### Relationships
-[[Rianna Belt]]: partymate
+[[Noam Shields]]: partymate
+[[Saleas Rilitar]]: partymate
+[[Remus Manchul]]: partymate
 ### Stats
 ```statblock
 name: Gunnar Ordayius
-stats: [11, 17, 13, 15, 15, 15]
+stats: [13, 11, 9, 10, 12, 9]
 ```

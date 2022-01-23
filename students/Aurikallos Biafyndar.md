@@ -1,50 +1,54 @@
 ---
 birthday:
-  numeric: 6/2
-  written: 2nd of Pelent
-bond: I idolize a hero of the old tales and measure my deeds against that person's.
-eyes: Amber
-flaw: In fact, the world does revolve around me.
-guild: Alderden
-hair: wavy dirty blonde hair that's parted to the side, slightly obscuring an eye
-ideal: Respect
+  numeric: 3/10
+  written: 10th of Melorent
+bond: The ship is most important- crewmates and captains come and go.
+eyes: Pale Gray
+flaw: I'm never satisfied with what I have- I always want more.
+guild: Elkenval
+hair: straight turquoise hair that's put up in a large bun
+ideal: Righteous
 name: Aurikallos Biafyndar
 organizations: []
-partyID: 21
-race: Halfling
+partyID: 20
+race: Gnome
 relationships:
-- name: Corliss Akkar
+- name: Dylan Usunaar
   type: partymate
-- name: Isaias Vaalyun
+- name: Delila Felaern
   type: partymate
-skin: Tan
-spec: Druid
+- name: Grace Festus
+  type: partymate
+skin: Pale
+spec: Monk
 stats:
-  cha: 10
-  con: 14
-  dex: 12
-  int: 9
-  str: 8
-  wis: 14
+  cha: 14
+  con: 9
+  dex: 17
+  int: 14
+  str: 14
+  wis: 8
 track: Protection
-trait: Nothing can shake my optimistic attitude.
-trait1: Sophisticated
-trait2: Negativistic
-year: 3
+trait: When I set my mind to something, I follow through no matter what gets in my
+  way.
+trait1: Placid
+trait2: Repugnant
+year: 5
 ---
 # Aurikallos Biafyndar
 ---
 ### Description
-- 3rd year Halfling Druid in Alderden
-- wavy dirty blonde hair that's parted to the side, slightly obscuring an eye, Amber eyes, and Tan skin
-- Is Sophisticated and Negativistic, and has Respect as their ideal
+- 5th year Gnome Monk in Elkenval
+- straight turquoise hair that's put up in a large bun, Pale Gray eyes, and Pale skin
+- Is Placid and Repugnant, and has Righteous as their ideal
 
 ### Organizations
 ### Relationships
-[[Corliss Akkar]]: partymate
-[[Isaias Vaalyun]]: partymate
+[[Dylan Usunaar]]: partymate
+[[Delila Felaern]]: partymate
+[[Grace Festus]]: partymate
 ### Stats
 ```statblock
 name: Aurikallos Biafyndar
-stats: [8, 12, 14, 9, 14, 10]
+stats: [14, 17, 9, 14, 8, 14]
 ```

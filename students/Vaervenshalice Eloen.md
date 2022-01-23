@@ -1,51 +1,55 @@
 ---
 birthday:
-  numeric: 7/27
-  written: 27th of Korent
-bond: I will do anything to prove myself superior to my hated rival.
-eyes: Hazel
-flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
-  to quell.
+  numeric: 5/3
+  written: 3rd of Iounent
+bond: My tools are symbols of my past life, and I carry them so that I will never
+  forget my roots.
+eyes: Blue
+flaw: I hide a truly scandalous secret that could ruin my family forever.
 guild: Treskal
-hair: wavy auburn hair that's pulled to the side and buzzed on the right
-ideal: Austerity
+hair: curly dirty blonde hair that's geled back
+ideal: Power
 name: Vaervenshalice Eloen
 organizations: []
-partyID: 52
-race: Gnome
+partyID: 51
+race: Elf
 relationships:
-- name: Aenglo Dyffros
+- name: Ysaac Aelrue
   type: partymate
-- name: Yathlanae Arkhun
+- name: Nolyn Viska
   type: partymate
-skin: Light Tan
-spec: Rouge
+- name: Dejana Keller
+  type: partymate
+skin: Dark Brown
+spec: Ranger
 stats:
-  cha: 12
-  con: 11
+  cha: 13
+  con: 12
   dex: 17
-  int: 13
-  str: 17
-  wis: 16
-track: Protection
-trait: I judge people by their actions, not their words.
-trait1: Pragmatic
-trait2: Skeptical
-year: 3
+  int: 14
+  str: 13
+  wis: 13
+track: Exploration
+trait: I keep multiple holy symbols on me and invoke whatever deity might come in
+  useful at any given moment.
+trait1: Stubborn
+trait2: Envious
+year: 1
 ---
 # Vaervenshalice Eloen
 ---
 ### Description
-- 3rd year Gnome Rouge in Treskal
-- wavy auburn hair that's pulled to the side and buzzed on the right, Hazel eyes, and Light Tan skin
-- Is Pragmatic and Skeptical, and has Austerity as their ideal
+- 1st year Elf Ranger in Treskal
+- curly dirty blonde hair that's geled back, Blue eyes, and Dark Brown skin
+- Is Stubborn and Envious, and has Power as their ideal
 
 ### Organizations
 ### Relationships
-[[Aenglo Dyffros]]: partymate
-[[Yathlanae Arkhun]]: partymate
+[[Ysaac Aelrue]]: partymate
+[[Nolyn Viska]]: partymate
+[[Dejana Keller]]: partymate
 ### Stats
 ```statblock
 name: Vaervenshalice Eloen
-stats: [17, 17, 11, 13, 16, 12]
+stats: [13, 17, 12, 14, 13, 13]
 ```

@@ -1,48 +1,51 @@
 ---
 birthday:
-  numeric: 8/27
-  written: 27th of Ravenent
-bond: I will someday get revenge on the corrupt temple hierarchy who branded me a
-  heretic.
-eyes: Hazel
-flaw: If I'm outnumbered, I will run away from a fight.
-guild: Burk
-hair: straight black hair that's parted to the right
-ideal: Invention
+  numeric: 7/32
+  written: 32nd of Korent
+bond: Someone I loved died because of a mistake I made. That will never happen again.
+eyes: Deep Blue
+flaw: When I see something valuable, I can't think about anything but how to steal
+  it.
+guild: Jettenia
+hair: wavy grey hair that's put back in a long pony tail
+ideal: Love
 name: Ruby Kythaela
 organizations: []
-partyID: 70
-race: Half-Orc
+partyID: 26
+race: Triton
 relationships:
-- name: Railyn Retenia
+- name: Eadyth Lora
   type: partymate
-skin: Green Blue
-spec: Druid
+- name: Sammen Axilya
+  type: partymate
+skin: Spring Green
+spec: Fighter
 stats:
-  cha: 12
-  con: 8
-  dex: 5
-  int: 9
-  str: 10
-  wis: 11
-track: Assault
-trait: I have a strong code of honor or sense of propriety that others don't comprehend.
-trait1: Unhurried
-trait2: Hypnotic
-year: 4
+  cha: 13
+  con: 12
+  dex: 15
+  int: 8
+  str: 14
+  wis: 14
+track: Protection
+trait: The common folk love me for my kindness and generosity.
+trait1: Paternalistic
+trait2: Pleasing
+year: 2
 ---
 # Ruby Kythaela
 ---
 ### Description
-- 4th year Half-Orc Druid in Burk
-- straight black hair that's parted to the right, Hazel eyes, and Green Blue skin
-- Is Unhurried and Hypnotic, and has Invention as their ideal
+- 2nd year Triton Fighter in Jettenia
+- wavy grey hair that's put back in a long pony tail, Deep Blue eyes, and Spring Green skin
+- Is Paternalistic and Pleasing, and has Love as their ideal
 
 ### Organizations
 ### Relationships
-[[Railyn Retenia]]: partymate
+[[Eadyth Lora]]: partymate
+[[Sammen Axilya]]: partymate
 ### Stats
 ```statblock
 name: Ruby Kythaela
-stats: [10, 5, 8, 9, 11, 12]
+stats: [14, 15, 12, 8, 14, 13]
 ```

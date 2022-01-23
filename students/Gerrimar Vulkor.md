@@ -1,55 +1,53 @@
 ---
 birthday:
-  numeric: 3/27
-  written: 27th of Melorent
-bond: I come from a noble family, and one day I'll reclaim my lands and title from
-  those who stole them from me.
-eyes: Aqua
-flaw: I speak without really thinking through my words, invariably insulting others.
+  numeric: 8/27
+  written: 27th of Ravenent
+bond: My freedom is my most precious possession. I'll never let anyone take it from
+  me again.
+eyes: Blue
+flaw: I too often hear veiled insults and threats in every word addressed to me, and
+  I'm quick to anger.
 guild: Treskal
-hair: 3 curled horns
-ideal: Exceptionalism
+hair: wavy auburn hair that's done up in a top knot
+ideal: Home
 name: Gerrimar Vulkor
 organizations: []
-partyID: 81
-race: Dragonborn
+partyID: 63
+race: Firbolg
 relationships:
-- name: Leya Escobar
+- name: Cerridwen Durothil
   type: partymate
-- name: Lucoe Lorelei
+- name: Ungris Riluaneth
   type: partymate
-- name: Aryana Ahrendue
-  type: partymate
-skin: green
-spec: Druid
+skin: Pale Brown
+spec: Cleric
 stats:
-  cha: 13
-  con: 12
-  dex: 11
-  int: 10
-  str: 12
-  wis: 13
+  cha: 11
+  con: 9
+  dex: 10
+  int: 14
+  str: 7
+  wis: 14
 track: Exploration
-trait: I believe that anything worth doing is worth doing right. I can't help it-
-  I'm a perfectionist.
-trait1: Balanced
-trait2: Hostile
-year: 1
+trait: I'm full of inspiring and cautionary tales from my military experience relevant
+  to almost every combat situation.
+trait1: Dreamy
+trait2: Artificial
+year: 5
 ---
 # Gerrimar Vulkor
 ---
 ### Description
-- 1st year Dragonborn Druid in Treskal
-- 3 curled horns, Aqua eyes, and green skin
-- Is Balanced and Hostile, and has Exceptionalism as their ideal
+- 5th year Firbolg Cleric in Treskal
+- wavy auburn hair that's done up in a top knot, Blue eyes, and Pale Brown skin
+- Is Dreamy and Artificial, and has Home as their ideal
 
 ### Organizations
 ### Relationships
-[[Leya Escobar]]: partymate
-[[Lucoe Lorelei]]: partymate
-[[Aryana Ahrendue]]: partymate
+[[Cerridwen Durothil]]: partymate
+[[Ungris Riluaneth]]: partymate
 ### Stats
 ```statblock
 name: Gerrimar Vulkor
-stats: [12, 11, 12, 10, 13, 13]
+stats: [7, 10, 9, 14, 14, 11]
 ```

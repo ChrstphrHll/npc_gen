@@ -1,54 +1,54 @@
 ---
 birthday:
-  numeric: 3/9
-  written: 9th of Melorent
-bond: I'm trying to pay off an old debt I owe to a generous benefactor.
-eyes: Sea Green
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Jettenia
-hair: straight black hair that's pulled to the side and buzzed on the right
-ideal: Perseverance
+  numeric: 8/5
+  written: 5th of Ravenent
+bond: I sponsor an orphanage to keep others from enduring what I was forced to endure.
+eyes: Amber
+flaw: My pride will probably lead to my destruction.
+guild: Alderden
+hair: curly strawberry blond hair that's put back in a short pony tail
+ideal: Independence
 name: Hanna Estelar
 organizations: []
-partyID: 54
-race: Triton
+partyID: 24
+race: Human
 relationships:
-- name: Saleas Rilitar
+- name: Gina Grandius
   type: partymate
-- name: Brooka Whesker
+- name: Leya Escobar
   type: partymate
-- name: Nom Remington
+- name: Ramona Saida
   type: partymate
-skin: Olive
-spec: Paladin
+skin: Dark Tan
+spec: Bard
 stats:
-  cha: 10
-  con: 15
+  cha: 16
+  con: 13
   dex: 12
-  int: 13
+  int: 11
   str: 16
-  wis: 15
-track: Assault
-trait: I blow up at the slightest insult.
-trait1: Dignified
-trait2: Repulsive
-year: 1
+  wis: 11
+track: Diplomacy
+trait: Despite my noble birth, I do not place myself above other folk. We all have
+  the same blood.
+trait1: Responsive
+trait2: Unrestrained
+year: 3
 ---
 # Hanna Estelar
 ---
 ### Description
-- 1st year Triton Paladin in Jettenia
-- straight black hair that's pulled to the side and buzzed on the right, Sea Green eyes, and Olive skin
-- Is Dignified and Repulsive, and has Perseverance as their ideal
+- 3rd year Human Bard in Alderden
+- curly strawberry blond hair that's put back in a short pony tail, Amber eyes, and Dark Tan skin
+- Is Responsive and Unrestrained, and has Independence as their ideal
 
 ### Organizations
 ### Relationships
-[[Saleas Rilitar]]: partymate
-[[Brooka Whesker]]: partymate
-[[Nom Remington]]: partymate
+[[Gina Grandius]]: partymate
+[[Leya Escobar]]: partymate
+[[Ramona Saida]]: partymate
 ### Stats
 ```statblock
 name: Hanna Estelar
-stats: [16, 12, 15, 13, 15, 10]
+stats: [16, 12, 13, 11, 11, 16]
 ```

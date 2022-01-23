@@ -1,48 +1,50 @@
 ---
 birthday:
-  numeric: 6/18
-  written: 18th of Pelent
-bond: I would do anything for the other members of my old troupe.
-eyes: Brown
-flaw: Once someone questions my courage, I never back down no matter how dangerous
-  the situation.
-guild: Burk
-hair: straight dirty blonde hair that's braided with pink ribbon (med)
-ideal: Reciprocity
+  numeric: 6/6
+  written: 6th of Pelent
+bond: My house's alliance with another noble family must be sustained at all costs.
+eyes: Hazel
+flaw: I'm convinced that no one could ever fool me the way I fool others.
+guild: Jettenia
+hair: curly red hair that's put up in a large bun
+ideal: Vengful
 name: Aksel Strohm
 organizations: []
-partyID: 39
-race: Gnome
+partyID: 10
+race: Tiefling
 relationships:
-- name: Rotheloe Samblar
+- name: Jareth Tanseril
   type: partymate
-skin: Fair
-spec: Wizard
+- name: Jaris Amlaruil
+  type: partymate
+skin: Spring Green
+spec: Sorcerer
 stats:
-  cha: 14
-  con: 9
-  dex: 10
-  int: 17
-  str: 14
-  wis: 13
-track: Exploration
-trait: I'm a born gambler who can't resist taking a risk for a potential payoff.
-trait1: Insightful
-trait2: Pharissical
-year: 4
+  cha: 16
+  con: 14
+  dex: 8
+  int: 12
+  str: 7
+  wis: 14
+track: Assault
+trait: Whenever I come to a new place, I collect local rumors and spread gossip.
+trait1: Hypnotic
+trait2: Impractical
+year: 7
 ---
 # Aksel Strohm
 ---
 ### Description
-- 4th year Gnome Wizard in Burk
-- straight dirty blonde hair that's braided with pink ribbon (med), Brown eyes, and Fair skin
-- Is Insightful and Pharissical, and has Reciprocity as their ideal
+- 7th year Tiefling Sorcerer in Jettenia
+- curly red hair that's put up in a large bun, Hazel eyes, and Spring Green skin
+- Is Hypnotic and Impractical, and has Vengful as their ideal
 
 ### Organizations
 ### Relationships
-[[Rotheloe Samblar]]: partymate
+[[Jareth Tanseril]]: partymate
+[[Jaris Amlaruil]]: partymate
 ### Stats
 ```statblock
 name: Aksel Strohm
-stats: [14, 10, 9, 17, 13, 14]
+stats: [7, 8, 14, 12, 14, 16]
 ```

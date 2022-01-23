@@ -1,51 +1,52 @@
 ---
 birthday:
-  numeric: 6/26
-  written: 26th of Pelent
-bond: I seek to preserve a sacred text that my enemies consider heretical and seek
-  to destroy.
-eyes: Pale Brown
-flaw: I judge others harshly, and myself even more severely.
-guild: Treskal
-hair: wavy black hair that's braided with pink ribbon (long)
-ideal: Patience
+  numeric: 2/24
+  written: 24th of Corelent
+bond: I'm trying to pay off an old debt I owe to a generous benefactor.
+eyes: Gray
+flaw: Once I pick a goal, I become obsessed with it to the detriment of everything
+  else in my life.
+guild: Jettenia
+hair: curly dark red hair that's pulled to the side and buzzed on the right
+ideal: Greed
 name: Wenge Usunaar
 organizations: []
-partyID: 78
-race: Elf
+partyID: 80
+race: Firbolg
 relationships:
-- name: Efjan Andrathath
+- name: Kembley Ralnor
   type: partymate
-- name: Levy Maendellyn
+- name: Celaeno Amkissra
   type: partymate
-skin: Tan
-spec: Cleric
+skin: Pale Gray
+spec: Monk
 stats:
-  cha: 15
-  con: 12
-  dex: 10
+  cha: 16
+  con: 15
+  dex: 17
   int: 11
-  str: 9
-  wis: 17
-track: Diplomacy
-trait: I like a job well done, especially if I can convince someone else to do it.
-trait1: Unchanging
-trait2: Suspicious
-year: 2
+  str: 15
+  wis: 11
+track: Exploration
+trait: I'm well known for my work, and I want to make sure everyone appreciates it.
+  I'm always taken aback when people haven't heard of me.
+trait1: Supportive
+trait2: Opportunistic
+year: 8
 ---
 # Wenge Usunaar
 ---
 ### Description
-- 2nd year Elf Cleric in Treskal
-- wavy black hair that's braided with pink ribbon (long), Pale Brown eyes, and Tan skin
-- Is Unchanging and Suspicious, and has Patience as their ideal
+- 8th year Firbolg Monk in Jettenia
+- curly dark red hair that's pulled to the side and buzzed on the right, Gray eyes, and Pale Gray skin
+- Is Supportive and Opportunistic, and has Greed as their ideal
 
 ### Organizations
 ### Relationships
-[[Efjan Andrathath]]: partymate
-[[Levy Maendellyn]]: partymate
+[[Kembley Ralnor]]: partymate
+[[Celaeno Amkissra]]: partymate
 ### Stats
 ```statblock
 name: Wenge Usunaar
-stats: [9, 10, 12, 11, 17, 15]
+stats: [15, 17, 15, 11, 11, 16]
 ```

@@ -1,51 +1,51 @@
 ---
 birthday:
-  numeric: 6/24
-  written: 24th of Pelent
-bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
-  to see them again one day.
-eyes: Pale Brown
-flaw: I am inflexible in my thinking.
-guild: Fiesn
-hair: curly brunette hair that's loose around the shoulders
-ideal: Fame
+  numeric: 5/10
+  written: 10th of Iounent
+bond: An injury to the unspoiled wilderness of my home is an injury to me.
+eyes: Pale Green
+flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
+  trouble.
+guild: Elkenval
+hair: curly blonde hair that's geled back
+ideal: Compassion
 name: Levi Kicklighter
 organizations: []
-partyID: 14
-race: Aasimar
+partyID: 88
+race: Goliath
 relationships:
-- name: Ezekius Chalsarda
+- name: Alonnos Xanotter
   type: partymate
-- name: Braddeus Jacaranda
+- name: Shoulree Letryal
   type: partymate
-skin: Light
-spec: Druid
+skin: Fair
+spec: Paladin
 stats:
-  cha: 12
+  cha: 6
   con: 9
-  dex: 9
-  int: 14
-  str: 13
-  wis: 14
+  dex: 15
+  int: 7
+  str: 12
+  wis: 10
 track: Exploration
-trait: I'm rude to people who lack my commitment to hard work and fair play.
-trait1: Unhurried
-trait2: Irascible
-year: 4
+trait: I never pass up a friendly wager.
+trait1: Hearty
+trait2: Airy
+year: 1
 ---
 # Levi Kicklighter
 ---
 ### Description
-- 4th year Aasimar Druid in Fiesn
-- curly brunette hair that's loose around the shoulders, Pale Brown eyes, and Light skin
-- Is Unhurried and Irascible, and has Fame as their ideal
+- 1st year Goliath Paladin in Elkenval
+- curly blonde hair that's geled back, Pale Green eyes, and Fair skin
+- Is Hearty and Airy, and has Compassion as their ideal
 
 ### Organizations
 ### Relationships
-[[Ezekius Chalsarda]]: partymate
-[[Braddeus Jacaranda]]: partymate
+[[Alonnos Xanotter]]: partymate
+[[Shoulree Letryal]]: partymate
 ### Stats
 ```statblock
 name: Levi Kicklighter
-stats: [13, 9, 9, 14, 14, 12]
+stats: [12, 15, 9, 7, 10, 6]
 ```

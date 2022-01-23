@@ -1,55 +1,52 @@
 ---
 birthday:
-  numeric: 8/14
-  written: 14th of Ravenent
-bond: I suffer awful visions of a coming disaster and will do anything to prevent
-  it.
-eyes: Hazel
-flaw: Most people scream and run when they see a demon. I stop and take notes on its
-  anatomy.
-guild: Treskal
-hair: straight turquoise hair that's parted to the left
-ideal: Freedom
+  numeric: 6/6
+  written: 6th of Pelent
+bond: The workshop where I learned my trade is the most important place in the world
+  to me.
+eyes: Gray
+flaw: An innocent person is in prison for a crime that I committed. I'm okay with
+  that.
+guild: Burk
+hair: curly grey hair that's kept back by a green headband
+ideal: Respect
 name: Lincon Nylaathria
 organizations: []
-partyID: 76
-race: Elf
+partyID: 75
+race: Aasimar
 relationships:
-- name: Cerridwen Durothil
+- name: Murunay Illfate
   type: partymate
-- name: Grassa Ashbluff
+- name: Hazel Winters
   type: partymate
-- name: Alonnos Xanotter
-  type: partymate
-skin: Fair
-spec: Wizard
+skin: Pale
+spec: Barbarian
 stats:
-  cha: 11
-  con: 17
-  dex: 8
-  int: 17
-  str: 14
-  wis: 14
+  cha: 8
+  con: 11
+  dex: 11
+  int: 16
+  str: 13
+  wis: 10
 track: Assault
-trait: I never pass up a friendly wager.
-trait1: Independent
-trait2: Dependent
-year: 2
+trait: I misuse long words in an attempt to sound smarter.
+trait1: Tractable
+trait2: Artful
+year: 4
 ---
 # Lincon Nylaathria
 ---
 ### Description
-- 2nd year Elf Wizard in Treskal
-- straight turquoise hair that's parted to the left, Hazel eyes, and Fair skin
-- Is Independent and Dependent, and has Freedom as their ideal
+- 4th year Aasimar Barbarian in Burk
+- curly grey hair that's kept back by a green headband, Gray eyes, and Pale skin
+- Is Tractable and Artful, and has Respect as their ideal
 
 ### Organizations
 ### Relationships
-[[Cerridwen Durothil]]: partymate
-[[Grassa Ashbluff]]: partymate
-[[Alonnos Xanotter]]: partymate
+[[Murunay Illfate]]: partymate
+[[Hazel Winters]]: partymate
 ### Stats
 ```statblock
 name: Lincon Nylaathria
-stats: [14, 8, 17, 17, 14, 11]
+stats: [13, 11, 11, 16, 10, 8]
 ```

@@ -1,51 +1,56 @@
 ---
 birthday:
-  numeric: 7/29
-  written: 29th of Korent
-bond: Someone stole my precious instrument, and someday I'll get it back.
-eyes: Yellow
-flaw: I'd risk too much to uncover a lost bit of knowledge.
-guild: Alderden
-hair: curly strawberry blond hair that's put back in a short pony tail
-ideal: Optimism
+  numeric: 3/18
+  written: 18th of Melorent
+bond: I fleeced the wrong person and must work to ensure that this individual never
+  crosses paths with me or those I care about.
+eyes: Pale Blue
+flaw: I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster
+  than I bring them in.
+guild: Treskal
+hair: curly lighter blonde hair that's kept back by a green headband
+ideal: Exceptionalism
 name: Giacomo Edraele
 organizations: []
-partyID: 87
-race: Triton
+partyID: 3
+race: Human
 relationships:
-- name: Verssek Nese
+- name: Matrell Halafarin
   type: partymate
-- name: Myddin Hastos
+- name: Santaegus Etter
   type: partymate
-skin: Emerald Green
-spec: Ranger
+- name: Yoshen Arcaena
+  type: partymate
+skin: Light Tan
+spec: Druid
 stats:
   cha: 11
-  con: 12
-  dex: 18
-  int: 15
-  str: 16
-  wis: 7
+  con: 17
+  dex: 12
+  int: 13
+  str: 10
+  wis: 14
 track: Diplomacy
-trait: I've spent so long in the temple that I have little practical experience dealing
-  with people in the outside world.
-trait1: Rustic
-trait2: Criminal
-year: 5
+trait: I begin or end my day with small traditional rituals that are unfamiliar to
+  those around me.
+trait1: Communicative
+trait2: Ungrateful
+year: 2
 ---
 # Giacomo Edraele
 ---
 ### Description
-- 5th year Triton Ranger in Alderden
-- curly strawberry blond hair that's put back in a short pony tail, Yellow eyes, and Emerald Green skin
-- Is Rustic and Criminal, and has Optimism as their ideal
+- 2nd year Human Druid in Treskal
+- curly lighter blonde hair that's kept back by a green headband, Pale Blue eyes, and Light Tan skin
+- Is Communicative and Ungrateful, and has Exceptionalism as their ideal
 
 ### Organizations
 ### Relationships
-[[Verssek Nese]]: partymate
-[[Myddin Hastos]]: partymate
+[[Matrell Halafarin]]: partymate
+[[Santaegus Etter]]: partymate
+[[Yoshen Arcaena]]: partymate
 ### Stats
 ```statblock
 name: Giacomo Edraele
-stats: [16, 18, 12, 15, 7, 11]
+stats: [10, 12, 17, 13, 14, 11]
 ```

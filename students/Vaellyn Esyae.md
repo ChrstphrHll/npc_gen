@@ -1,53 +1,51 @@
 ---
 birthday:
-  numeric: 4/17
-  written: 17th of Moradent
-bond: Nothing is more important than the other members of my family.
-eyes: Amber
-flaw: I can't resist a pretty face.
-guild: Elkenval
-hair: curly platinum hair that's hanging down to their back
-ideal: Flexibility
+  numeric: 3/30
+  written: 30th of Melorent
+bond: I will bring terrible wrath down on the evildoers who destroyed my homeland.
+eyes: Red
+flaw: My hatred of my enemies is blind and unreasoning.
+guild: Jettenia
+hair: frizzy brunette hair that's loose around the shoulders
+ideal: Success
 name: Vaellyn Esyae
 organizations: []
-partyID: 59
-race: Half-Orc
+partyID: 33
+race: Triton
 relationships:
-- name: Valerya Haldreithen
+- name: Kymber Korrigash
   type: partymate
-- name: Goshwa Khiipaera
+- name: Gormoth Shyrrik
   type: partymate
-- name: Tezani Morthil
-  type: partymate
-skin: Pale Green
-spec: Wizard
+skin: Pale Blue
+spec: Cleric
 stats:
-  cha: 10
-  con: 10
-  dex: 16
+  cha: 15
+  con: 16
+  dex: 10
   int: 16
-  str: 8
-  wis: 6
-track: Diplomacy
-trait: If someone is in trouble, I'm always ready to lend help.
-trait1: Unselfish
-trait2: Undemanding
-year: 1
+  str: 15
+  wis: 17
+track: Exploration
+trait: I begin or end my day with small traditional rituals that are unfamiliar to
+  those around me.
+trait1: Thrilling
+trait2: Oppressed
+year: 2
 ---
 # Vaellyn Esyae
 ---
 ### Description
-- 1st year Half-Orc Wizard in Elkenval
-- curly platinum hair that's hanging down to their back, Amber eyes, and Pale Green skin
-- Is Unselfish and Undemanding, and has Flexibility as their ideal
+- 2nd year Triton Cleric in Jettenia
+- frizzy brunette hair that's loose around the shoulders, Red eyes, and Pale Blue skin
+- Is Thrilling and Oppressed, and has Success as their ideal
 
 ### Organizations
 ### Relationships
-[[Valerya Haldreithen]]: partymate
-[[Goshwa Khiipaera]]: partymate
-[[Tezani Morthil]]: partymate
+[[Kymber Korrigash]]: partymate
+[[Gormoth Shyrrik]]: partymate
 ### Stats
 ```statblock
 name: Vaellyn Esyae
-stats: [8, 16, 10, 16, 6, 10]
+stats: [15, 10, 16, 16, 17, 15]
 ```

@@ -1,51 +1,51 @@
 ---
 birthday:
-  numeric: 4/5
-  written: 5th of Moradent
-bond: I created a great work for someone, and then found them unworthy to receive
-  it. I'm still looking for someone worthy.
-eyes: Gray
-flaw: I judge others harshly, and myself even more severely.
+  numeric: 8/4
+  written: 4th of Ravenent
+bond: I'm fascinated by the beauty and wonder of this new land.
+eyes: Hazel
+flaw: By my words and actions, I often bring shame to my family.By my words and actions,
+  I often bring shame to my family.
 guild: Fiesn
-hair: wavy dirty blonde hair that's braided with blue ribbon (long)
-ideal: Grace
+hair: wavy white hair that's geled back
+ideal: Personal Development
 name: Coriss Biafyndar
 organizations: []
-partyID: 1
+partyID: 53
 race: Elf
 relationships:
-- name: Dejana Keller
+- name: Alexandyr Aulauthar
   type: partymate
-- name: Jacob Jorildyn
+- name: Adamos Taehr
   type: partymate
-skin: Fair
-spec: Sorcerer
+skin: Light Tan
+spec: Druid
 stats:
-  cha: 17
-  con: 14
-  dex: 12
+  cha: 9
+  con: 7
+  dex: 14
   int: 12
-  str: 11
-  wis: 11
+  str: 13
+  wis: 14
 track: Protection
-trait: My language is as foul as an otyugh nest.
-trait1: Characterful
-trait2: Determined
+trait: I eat like a pig and have bad manners.
+trait1: Equitable
+trait2: Unmerciful
 year: 5
 ---
 # Coriss Biafyndar
 ---
 ### Description
-- 5th year Elf Sorcerer in Fiesn
-- wavy dirty blonde hair that's braided with blue ribbon (long), Gray eyes, and Fair skin
-- Is Characterful and Determined, and has Grace as their ideal
+- 5th year Elf Druid in Fiesn
+- wavy white hair that's geled back, Hazel eyes, and Light Tan skin
+- Is Equitable and Unmerciful, and has Personal Development as their ideal
 
 ### Organizations
 ### Relationships
-[[Dejana Keller]]: partymate
-[[Jacob Jorildyn]]: partymate
+[[Alexandyr Aulauthar]]: partymate
+[[Adamos Taehr]]: partymate
 ### Stats
 ```statblock
 name: Coriss Biafyndar
-stats: [11, 12, 14, 12, 11, 17]
+stats: [13, 14, 7, 12, 14, 9]
 ```

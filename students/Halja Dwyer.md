@@ -1,53 +1,47 @@
 ---
 birthday:
-  numeric: 4/17
-  written: 17th of Moradent
-bond: The common folk must see me as a hero of the people.
-eyes: Amber
-flaw: The tyrant who rules my land will stop at nothing to see me killed.
-guild: Elkenval
-hair: frills
-ideal: Live and Let Live
+  numeric: 5/10
+  written: 10th of Iounent
+bond: I pursue wealth to secure someone's love.
+eyes: Pale Green
+flaw: I'm convinced that no one could ever fool me the way I fool others.
+guild: Alderden
+hair: straight grey hair that's done up in a top knot
+ideal: Prosperity
 name: Halja Dwyer
 organizations: []
-partyID: 80
-race: Dragonborn
+partyID: 55
+race: Tiefling
 relationships:
-- name: Victor Gaelira
+- name: Yathlanae Arkhun
   type: partymate
-- name: Goetia Mistale
-  type: partymate
-- name: Yan Sorsasta
-  type: partymate
-skin: gold
-spec: Monk
+skin: Pale Blue
+spec: Fighter
 stats:
-  cha: 14
-  con: 13
+  cha: 13
+  con: 11
   dex: 16
   int: 14
-  str: 12
-  wis: 11
+  str: 15
+  wis: 7
 track: Exploration
-trait: If someone is in trouble, I'm always ready to lend help.
-trait1: Hearty
-trait2: Unpatriotic
-year: 2
+trait: I fall in and out of love easily, and am always pursuing someone.
+trait1: Iconoclastic
+trait2: Stingy
+year: 1
 ---
 # Halja Dwyer
 ---
 ### Description
-- 2nd year Dragonborn Monk in Elkenval
-- frills, Amber eyes, and gold skin
-- Is Hearty and Unpatriotic, and has Live and Let Live as their ideal
+- 1st year Tiefling Fighter in Alderden
+- straight grey hair that's done up in a top knot, Pale Green eyes, and Pale Blue skin
+- Is Iconoclastic and Stingy, and has Prosperity as their ideal
 
 ### Organizations
 ### Relationships
-[[Victor Gaelira]]: partymate
-[[Goetia Mistale]]: partymate
-[[Yan Sorsasta]]: partymate
+[[Yathlanae Arkhun]]: partymate
 ### Stats
 ```statblock
 name: Halja Dwyer
-stats: [12, 16, 13, 14, 11, 14]
+stats: [15, 16, 11, 14, 7, 13]
 ```

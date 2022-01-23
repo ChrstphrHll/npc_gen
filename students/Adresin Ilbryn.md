@@ -1,53 +1,54 @@
 ---
 birthday:
-  numeric: 7/28
-  written: 28th of Korent
-bond: I worked the land, I love the land, and I will protect the land.
-eyes: Yellow
-flaw: I am dogmatic in my thoughts and philosophy.
+  numeric: 4/22
+  written: 22nd of Moradent
+bond: Something important was taken from me, and I aim to steal it back.
+eyes: Aqua
+flaw: An innocent person is in prison for a crime that I committed. I'm okay with
+  that.
 guild: Elkenval
-hair: curly pink hair that's put up in a large bun
-ideal: Facilitation
+hair: straight blonde hair that's geled back
+ideal: Greed
 name: Adresin Ilbryn
 organizations: []
-partyID: 62
-race: Triton
+partyID: 90
+race: Genasi
 relationships:
-- name: Gorlas Vhoadan
+- name: Diegon Verrona
   type: partymate
-- name: Scarletta Elora
+- name: Kayla Kaminsky
   type: partymate
-- name: Lea Nuvian
+- name: Holys Hachaam
   type: partymate
-skin: Sea Green
-spec: Artificer
+skin: air
+spec: Paladin
 stats:
-  cha: 8
-  con: 15
-  dex: 6
-  int: 15
-  str: 7
-  wis: 11
-track: Protection
-trait: I'm oblivious to etiquette and social expectations.
-trait1: Rational
-trait2: Negativistic
-year: 4
+  cha: 12
+  con: 12
+  dex: 9
+  int: 7
+  str: 13
+  wis: 12
+track: Exploration
+trait: If someone is in trouble, I'm always ready to lend help.
+trait1: Bashful
+trait2: Insulting
+year: 1
 ---
 # Adresin Ilbryn
 ---
 ### Description
-- 4th year Triton Artificer in Elkenval
-- curly pink hair that's put up in a large bun, Yellow eyes, and Sea Green skin
-- Is Rational and Negativistic, and has Facilitation as their ideal
+- 1st year Genasi Paladin in Elkenval
+- straight blonde hair that's geled back, Aqua eyes, and air skin
+- Is Bashful and Insulting, and has Greed as their ideal
 
 ### Organizations
 ### Relationships
-[[Gorlas Vhoadan]]: partymate
-[[Scarletta Elora]]: partymate
-[[Lea Nuvian]]: partymate
+[[Diegon Verrona]]: partymate
+[[Kayla Kaminsky]]: partymate
+[[Holys Hachaam]]: partymate
 ### Stats
 ```statblock
 name: Adresin Ilbryn
-stats: [7, 6, 15, 15, 11, 8]
+stats: [13, 9, 12, 7, 12, 12]
 ```

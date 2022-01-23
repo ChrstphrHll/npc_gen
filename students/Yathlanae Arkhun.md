@@ -1,50 +1,48 @@
 ---
 birthday:
-  numeric: 8/28
-  written: 28th of Ravenent
-bond: I am in love with the heir of a family that my family despises.
-eyes: Green
-flaw: If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
-guild: Treskal
-hair: smooth brass guilded with brass
-ideal: Harmony
+  numeric: 8/8
+  written: 8th of Ravenent
+bond: The workshop where I learned my trade is the most important place in the world
+  to me.
+eyes: Pale Gray
+flaw: I overlook obvious solutions in favor of complicated ones.
+guild: Alderden
+hair: straight blonde hair that's put back in a long pony tail
+ideal: Wealth
 name: Yathlanae Arkhun
 organizations: []
-partyID: 52
-race: Warforged
+partyID: 55
+race: Half-Elf
 relationships:
-- name: Aenglo Dyffros
+- name: Halja Dwyer
   type: partymate
-- name: Vaervenshalice Eloen
-  type: partymate
-skin: gold
-spec: Druid
+skin: Brown
+spec: Sorcerer
 stats:
-  cha: 15
+  cha: 18
   con: 10
-  dex: 14
-  int: 14
+  dex: 11
+  int: 17
   str: 12
-  wis: 16
-track: Protection
-trait: I'm full of witty aphorisms and have a proverb for every occasion.
-trait1: Hearty
-trait2: Restrained
-year: 3
+  wis: 10
+track: Diplomacy
+trait: I change my mood or my mind as quickly as I change key in a song.
+trait1: Graceful
+trait2: Troublesome
+year: 1
 ---
 # Yathlanae Arkhun
 ---
 ### Description
-- 3rd year Warforged Druid in Treskal
-- smooth brass guilded with brass, Green eyes, and gold skin
-- Is Hearty and Restrained, and has Harmony as their ideal
+- 1st year Half-Elf Sorcerer in Alderden
+- straight blonde hair that's put back in a long pony tail, Pale Gray eyes, and Brown skin
+- Is Graceful and Troublesome, and has Wealth as their ideal
 
 ### Organizations
 ### Relationships
-[[Aenglo Dyffros]]: partymate
-[[Vaervenshalice Eloen]]: partymate
+[[Halja Dwyer]]: partymate
 ### Stats
 ```statblock
 name: Yathlanae Arkhun
-stats: [12, 14, 10, 14, 16, 15]
+stats: [12, 11, 10, 17, 10, 18]
 ```

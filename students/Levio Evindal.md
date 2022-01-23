@@ -1,50 +1,56 @@
 ---
 birthday:
-  numeric: 1/20
-  written: 20th of Avanent
-bond: I want to be famous, whatever it takes.
-eyes: Red
-flaw: I have an insatiable desire for carnal pleasures.
-guild: Jettenia
-hair: straight blonde hair that's put up in a large bun
-ideal: Live and Let Live
+  numeric: 7/19
+  written: 19th of Korent
+bond: I'll always remember my first ship.
+eyes: Pale Gray
+flaw: I am slow to trust members of other races, tribes, and societies.
+guild: Elkenval
+hair: straight black hair that's geled back
+ideal: Intelligence
 name: Levio Evindal
 organizations: []
-partyID: 68
-race: Triton
+partyID: 22
+race: Half-Orc
 relationships:
-- name: Selina Bellas
+- name: Gabrilo Kulo
   type: partymate
-- name: Alyx Nopos
+- name: Mya Nelaeryn
   type: partymate
-skin: Olive
-spec: Ranger
+- name: Myddin Hastos
+  type: partymate
+- name: Tylus Ytharra
+  type: partymate
+skin: Pale Gray
+spec: Artificer
 stats:
-  cha: 9
-  con: 14
-  dex: 15
+  cha: 12
+  con: 12
+  dex: 13
   int: 15
-  str: 9
-  wis: 10
-track: Diplomacy
-trait: I have a strong code of honor or sense of propriety that others don't comprehend.
-trait1: Forthright
-trait2: Fawning
+  str: 15
+  wis: 13
+track: Protection
+trait: I pocket anything I see that might have some value.
+trait1: Sensual
+trait2: Ignorant
 year: 2
 ---
 # Levio Evindal
 ---
 ### Description
-- 2nd year Triton Ranger in Jettenia
-- straight blonde hair that's put up in a large bun, Red eyes, and Olive skin
-- Is Forthright and Fawning, and has Live and Let Live as their ideal
+- 2nd year Half-Orc Artificer in Elkenval
+- straight black hair that's geled back, Pale Gray eyes, and Pale Gray skin
+- Is Sensual and Ignorant, and has Intelligence as their ideal
 
 ### Organizations
 ### Relationships
-[[Selina Bellas]]: partymate
-[[Alyx Nopos]]: partymate
+[[Gabrilo Kulo]]: partymate
+[[Mya Nelaeryn]]: partymate
+[[Myddin Hastos]]: partymate
+[[Tylus Ytharra]]: partymate
 ### Stats
 ```statblock
 name: Levio Evindal
-stats: [9, 15, 14, 15, 10, 9]
+stats: [15, 13, 12, 15, 13, 12]
 ```

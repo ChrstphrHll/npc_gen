@@ -1,51 +1,48 @@
 ---
 birthday:
-  numeric: 1/16
-  written: 16th of Avanent
-bond: Nothing is more important than the other members of my hermitage, order, or
-  association.
-eyes: Pale Gray
-flaw: If I'm outnumbered, I will run away from a fight.
-guild: Treskal
-hair: straight lighter blonde hair that's parted to the right
-ideal: Family
+  numeric: 4/2
+  written: 2nd of Moradent
+bond: I sponsor an orphanage to keep others from enduring what I was forced to endure.
+eyes: Hazel
+flaw: I remember every insult I've received and nurse a silent resentment toward anyone
+  who's ever wronged me.
+guild: Elkenval
+hair: wavy black hair that's braided with blue ribbon (med)
+ideal: Righteous
 name: Wren Urmicca
 organizations: []
-partyID: 56
-race: Firbolg
+partyID: 14
+race: Half-Orc
 relationships:
-- name: Yorala Tiatha
+- name: Harperia Winchell
   type: partymate
-- name: Jacus Kosunten
-  type: partymate
-skin: Pale Gray
-spec: Druid
+skin: Deep Green
+spec: Monk
 stats:
-  cha: 8
-  con: 13
-  dex: 13
-  int: 12
-  str: 14
-  wis: 14
-track: Exploration
-trait: Nothing can shake my optimistic attitude.
-trait1: Iconoclastic
-trait2: Hypnotic
+  cha: 10
+  con: 9
+  dex: 15
+  int: 10
+  str: 13
+  wis: 10
+track: Protection
+trait: I never pass up a friendly wager.
+trait1: Venturesome
+trait2: Suspicious
 year: 1
 ---
 # Wren Urmicca
 ---
 ### Description
-- 1st year Firbolg Druid in Treskal
-- straight lighter blonde hair that's parted to the right, Pale Gray eyes, and Pale Gray skin
-- Is Iconoclastic and Hypnotic, and has Family as their ideal
+- 1st year Half-Orc Monk in Elkenval
+- wavy black hair that's braided with blue ribbon (med), Hazel eyes, and Deep Green skin
+- Is Venturesome and Suspicious, and has Righteous as their ideal
 
 ### Organizations
 ### Relationships
-[[Yorala Tiatha]]: partymate
-[[Jacus Kosunten]]: partymate
+[[Harperia Winchell]]: partymate
 ### Stats
 ```statblock
 name: Wren Urmicca
-stats: [14, 13, 13, 12, 14, 8]
+stats: [13, 15, 9, 10, 10, 10]
 ```

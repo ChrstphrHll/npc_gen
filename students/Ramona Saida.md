@@ -1,50 +1,54 @@
 ---
 birthday:
-  numeric: 1/28
-  written: 28th of Avanent
-bond: It is my duty to protect my students.
-eyes: Pale Gray
-flaw: I will never fully trust anyone other than myself.
-guild: Fiesn
-hair: wavy lighter blonde hair that's geled back
-ideal: Lead by example
+  numeric: 3/11
+  written: 11th of Melorent
+bond: An injury to the unspoiled wilderness of my home is an injury to me.
+eyes: Brown
+flaw: I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster
+  than I bring them in.
+guild: Alderden
+hair: short spines
+ideal: Courage
 name: Ramona Saida
 organizations: []
-partyID: 51
-race: Half-Elf
+partyID: 24
+race: Dragonborn
 relationships:
-- name: Rosherren Haladavar
+- name: Gina Grandius
   type: partymate
-- name: Mya Nelaeryn
+- name: Leya Escobar
   type: partymate
-skin: Fair
-spec: Cleric
+- name: Hanna Estelar
+  type: partymate
+skin: green
+spec: Druid
 stats:
-  cha: 12
-  con: 17
-  dex: 7
-  int: 13
-  str: 10
-  wis: 14
+  cha: 10
+  con: 11
+  dex: 17
+  int: 12
+  str: 11
+  wis: 17
 track: Exploration
-trait: Thinking is for other people. I prefer action.
-trait1: Aggressive
-trait2: Irreverent
+trait: I'm oblivious to etiquette and social expectations.
+trait1: Predictable
+trait2: Evil
 year: 3
 ---
 # Ramona Saida
 ---
 ### Description
-- 3rd year Half-Elf Cleric in Fiesn
-- wavy lighter blonde hair that's geled back, Pale Gray eyes, and Fair skin
-- Is Aggressive and Irreverent, and has Lead by example as their ideal
+- 3rd year Dragonborn Druid in Alderden
+- short spines, Brown eyes, and green skin
+- Is Predictable and Evil, and has Courage as their ideal
 
 ### Organizations
 ### Relationships
-[[Rosherren Haladavar]]: partymate
-[[Mya Nelaeryn]]: partymate
+[[Gina Grandius]]: partymate
+[[Leya Escobar]]: partymate
+[[Hanna Estelar]]: partymate
 ### Stats
 ```statblock
 name: Ramona Saida
-stats: [10, 7, 17, 13, 14, 12]
+stats: [11, 17, 11, 12, 17, 10]
 ```

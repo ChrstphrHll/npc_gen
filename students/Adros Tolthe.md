@@ -1,55 +1,57 @@
 ---
 birthday:
-  numeric: 1/16
-  written: 16th of Avanent
-bond: I protect those who cannot protect themselves.
-eyes: Emerald Green
-flaw: I too often hear veiled insults and threats in every word addressed to me, and
-  I'm quick to anger.
-guild: Alderden
-hair: curly auburn hair that's put up in a large bun
-ideal: Innovation
+  numeric: 1/33
+  written: 33rd of Avanent
+bond: I will do anything to protect the temple where I served.
+eyes: Brown
+flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
+  trouble.
+guild: Jettenia
+hair: straight strawberry blond hair that's put up in a large bun
+ideal: Uncaring
 name: Adros Tolthe
 organizations: []
-partyID: 7
-race: Triton
+partyID: 35
+race: Goliath
 relationships:
-- name: Sulivan Wylchyr
+- name: Matos Mektal
   type: partymate
-- name: Surge Fayd
+- name: Selina Ochyllyss
   type: partymate
-- name: Ljuk Vulkor
+- name: Yorala Tiatha
   type: partymate
-skin: Pale Blue
-spec: Monk
+- name: Ivistra Stockton
+  type: partymate
+skin: Tan
+spec: Bard
 stats:
-  cha: 5
-  con: 13
-  dex: 14
-  int: 11
-  str: 7
-  wis: 10
-track: Assault
-trait: I believe that anything worth doing is worth doing right. I can't help it-
-  I'm a perfectionist.
-trait1: Devoted
-trait2: High-spirited
-year: 1
+  cha: 14
+  con: 12
+  dex: 10
+  int: 9
+  str: 9
+  wis: 18
+track: Exploration
+trait: I'm always polite and respectful.
+trait1: Scholarly
+trait2: Overimaginative
+year: 5
 ---
 # Adros Tolthe
 ---
 ### Description
-- 1st year Triton Monk in Alderden
-- curly auburn hair that's put up in a large bun, Emerald Green eyes, and Pale Blue skin
-- Is Devoted and High-spirited, and has Innovation as their ideal
+- 5th year Goliath Bard in Jettenia
+- straight strawberry blond hair that's put up in a large bun, Brown eyes, and Tan skin
+- Is Scholarly and Overimaginative, and has Uncaring as their ideal
 
 ### Organizations
 ### Relationships
-[[Sulivan Wylchyr]]: partymate
-[[Surge Fayd]]: partymate
-[[Ljuk Vulkor]]: partymate
+[[Matos Mektal]]: partymate
+[[Selina Ochyllyss]]: partymate
+[[Yorala Tiatha]]: partymate
+[[Ivistra Stockton]]: partymate
 ### Stats
 ```statblock
 name: Adros Tolthe
-stats: [7, 14, 13, 11, 10, 5]
+stats: [9, 10, 12, 9, 18, 14]
 ```

@@ -1,50 +1,55 @@
 ---
 birthday:
-  numeric: 1/28
-  written: 28th of Avanent
-bond: I'm fascinated by the beauty and wonder of this new land.
-eyes: Amber
-flaw: If I'm outnumbered, I will run away from a fight.
-guild: Treskal
-hair: curly grey hair that's hanging down to their back
-ideal: Success
+  numeric: 5/13
+  written: 13th of Iounent
+bond: My freedom is my most precious possession. I'll never let anyone take it from
+  me again.
+eyes: Brown
+flaw: I like keeping secrets and won't share them with anyone.
+guild: Jettenia
+hair: wavy turquoise hair that's parted to the left
+ideal: Logic
 name: Jerrick Yarbrough
 organizations: []
-partyID: 27
-race: Goliath
+partyID: 4
+race: Gnome
 relationships:
-- name: Celaeno Amkissra
+- name: Skalanis Kobayashi
   type: partymate
-- name: Guliemos Nym
+- name: Pippi Langston
   type: partymate
-skin: Light
-spec: Sorcerer
+- name: Miglus Yrlissa
+  type: partymate
+skin: Tan
+spec: Bard
 stats:
   cha: 16
-  con: 12
-  dex: 7
+  con: 7
+  dex: 12
   int: 13
-  str: 12
-  wis: 15
-track: Protection
-trait: I have a lesson for every situation, drawn from observing nature.
-trait1: Thrifty
-trait2: Crafty
-year: 5
+  str: 10
+  wis: 14
+track: Assault
+trait: I often get lost in my own thoughts and contemplation, becoming oblivious to
+  my surroundings.
+trait1: Admirable
+trait2: Cantankerous
+year: 6
 ---
 # Jerrick Yarbrough
 ---
 ### Description
-- 5th year Goliath Sorcerer in Treskal
-- curly grey hair that's hanging down to their back, Amber eyes, and Light skin
-- Is Thrifty and Crafty, and has Success as their ideal
+- 6th year Gnome Bard in Jettenia
+- wavy turquoise hair that's parted to the left, Brown eyes, and Tan skin
+- Is Admirable and Cantankerous, and has Logic as their ideal
 
 ### Organizations
 ### Relationships
-[[Celaeno Amkissra]]: partymate
-[[Guliemos Nym]]: partymate
+[[Skalanis Kobayashi]]: partymate
+[[Pippi Langston]]: partymate
+[[Miglus Yrlissa]]: partymate
 ### Stats
 ```statblock
 name: Jerrick Yarbrough
-stats: [12, 7, 12, 13, 15, 16]
+stats: [10, 12, 7, 13, 14, 16]
 ```

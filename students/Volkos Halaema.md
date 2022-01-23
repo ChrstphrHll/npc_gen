@@ -1,50 +1,49 @@
 ---
 birthday:
-  numeric: 3/15
-  written: 15th of Melorent
-bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
-eyes: Green
-flaw: I obey the law, even if the law causes misery.
-guild: Elkenval
-hair: straight dirty blonde hair that's loose around the shoulders
-ideal: Goodness
+  numeric: 5/26
+  written: 26th of Iounent
+bond: Everything I do is for the common people.
+eyes: Brown
+flaw: Don't expect me to save those who can't save themselves. It is nature's way
+  that the strong thrive and the weak perish.
+guild: Alderden
+hair: frizzy dark red hair that's hanging down to their back
+ideal: Security
 name: Volkos Halaema
 organizations: []
-partyID: 6
-race: Elf
+partyID: 21
+race: Tiefling
 relationships:
-- name: Tez Bialaer
+- name: Valia Esyae
   type: partymate
-- name: Mavrek Aolis
-  type: partymate
-skin: Tan
-spec: Rouge
+skin: Aqua
+spec: Ranger
 stats:
-  cha: 14
-  con: 12
-  dex: 15
+  cha: 7
+  con: 16
+  dex: 17
   int: 14
-  str: 5
-  wis: 12
+  str: 13
+  wis: 15
 track: Diplomacy
-trait: Whenever I come to a new place, I collect local rumors and spread gossip.
-trait1: Surprising
-trait2: Intolerant
-year: 3
+trait: I don't part with my money easily and will haggle tirelessly to get the best
+  deal possible.
+trait1: Capable
+trait2: Mealymouthed
+year: 4
 ---
 # Volkos Halaema
 ---
 ### Description
-- 3rd year Elf Rouge in Elkenval
-- straight dirty blonde hair that's loose around the shoulders, Green eyes, and Tan skin
-- Is Surprising and Intolerant, and has Goodness as their ideal
+- 4th year Tiefling Ranger in Alderden
+- frizzy dark red hair that's hanging down to their back, Brown eyes, and Aqua skin
+- Is Capable and Mealymouthed, and has Security as their ideal
 
 ### Organizations
 ### Relationships
-[[Tez Bialaer]]: partymate
-[[Mavrek Aolis]]: partymate
+[[Valia Esyae]]: partymate
 ### Stats
 ```statblock
 name: Volkos Halaema
-stats: [5, 15, 12, 14, 12, 14]
+stats: [13, 17, 16, 14, 15, 7]
 ```

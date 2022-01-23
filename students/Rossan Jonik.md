@@ -1,57 +1,51 @@
 ---
 birthday:
-  numeric: 7/31
-  written: 31st of Korent
-bond: The gods of my people are a comfort to me so far from home.
-eyes: Green
-flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
-  to quell.
-guild: Fiesn
-hair: straight blonde hair that's pulled to the side and buzzed on the left
-ideal: Faith
+  numeric: 3/31
+  written: 31st of Melorent
+bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
+eyes: Pale Green
+flaw: I'm convinced of the significance of my destiny, and blind to my shortcomings
+  and the risk of failure.
+guild: Treskal
+hair: straight red hair that's hanging down to their back
+ideal: Might
 name: Rossan Jonik
 organizations: []
-partyID: 25
-race: Human
+partyID: 67
+race: Halfling
 relationships:
-- name: Hanro Fieryat
+- name: Bela Qwey
   type: partymate
-- name: Nicolle Shandalar
+- name: Lanalia Belt
   type: partymate
-- name: Meira Nuvian
-  type: partymate
-- name: Kova Tamara
-  type: partymate
-skin: Dark Brown
-spec: Druid
+skin: Fair
+spec: Artificer
 stats:
-  cha: 9
-  con: 12
-  dex: 9
-  int: 16
-  str: 12
-  wis: 16
+  cha: 10
+  con: 8
+  dex: 11
+  int: 15
+  str: 7
+  wis: 12
 track: Exploration
-trait: Thinking is for other people. I prefer action.
-trait1: Realistic
-trait2: Intemperate
-year: 4
+trait: I like to squeeze into small places where no one else can get to me.
+trait1: Impartial
+trait2: Unaggressive
+year: 3
 ---
 # Rossan Jonik
 ---
 ### Description
-- 4th year Human Druid in Fiesn
-- straight blonde hair that's pulled to the side and buzzed on the left, Green eyes, and Dark Brown skin
-- Is Realistic and Intemperate, and has Faith as their ideal
+- 3rd year Halfling Artificer in Treskal
+- straight red hair that's hanging down to their back, Pale Green eyes, and Fair skin
+- Is Impartial and Unaggressive, and has Might as their ideal
 
 ### Organizations
 ### Relationships
-[[Hanro Fieryat]]: partymate
-[[Nicolle Shandalar]]: partymate
-[[Meira Nuvian]]: partymate
-[[Kova Tamara]]: partymate
+[[Bela Qwey]]: partymate
+[[Lanalia Belt]]: partymate
 ### Stats
 ```statblock
 name: Rossan Jonik
-stats: [12, 9, 12, 16, 16, 9]
+stats: [7, 11, 8, 15, 12, 10]
 ```

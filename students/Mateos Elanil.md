@@ -1,51 +1,54 @@
 ---
 birthday:
-  numeric: 8/8
-  written: 8th of Ravenent
-bond: I created a great work for someone, and then found them unworthy to receive
-  it. I'm still looking for someone worthy.
-eyes: Purple
-flaw: Once I start drinking, it's hard for me to stop.
-guild: Alderden
-hair: curly red hair that's hanging down to their back
-ideal: Impartiality
+  numeric: 5/17
+  written: 17th of Iounent
+bond: A proud noble once gave me a horrible beating, and I will take my revenge on
+  any bully I encounter.
+eyes: Hazel
+flaw: I'd risk too much to uncover a lost bit of knowledge.
+guild: Fiesn
+hair: curly lighter blonde hair that's parted to the right
+ideal: Gratitude
 name: Mateos Elanil
 organizations: []
-partyID: 67
-race: Triton
+partyID: 60
+race: Halfling
 relationships:
-- name: Adamos Taehr
+- name: Selina Bellas
   type: partymate
-- name: Shike Thalaera
+- name: Brianna Kosunten
   type: partymate
-skin: Emerald Green
-spec: Paladin
+- name: Felgie Eldar
+  type: partymate
+skin: Dark Tan
+spec: Rouge
 stats:
   cha: 12
-  con: 9
-  dex: 12
-  int: 16
-  str: 18
-  wis: 10
-track: Protection
-trait: I always have a plan for what to do when things go wrong.
-trait1: Listening
-trait2: Self-centered
-year: 1
+  con: 12
+  dex: 16
+  int: 8
+  str: 15
+  wis: 12
+track: Exploration
+trait: I eat like a pig and have bad manners.
+trait1: Understanding
+trait2: Neglectful
+year: 2
 ---
 # Mateos Elanil
 ---
 ### Description
-- 1st year Triton Paladin in Alderden
-- curly red hair that's hanging down to their back, Purple eyes, and Emerald Green skin
-- Is Listening and Self-centered, and has Impartiality as their ideal
+- 2nd year Halfling Rouge in Fiesn
+- curly lighter blonde hair that's parted to the right, Hazel eyes, and Dark Tan skin
+- Is Understanding and Neglectful, and has Gratitude as their ideal
 
 ### Organizations
 ### Relationships
-[[Adamos Taehr]]: partymate
-[[Shike Thalaera]]: partymate
+[[Selina Bellas]]: partymate
+[[Brianna Kosunten]]: partymate
+[[Felgie Eldar]]: partymate
 ### Stats
 ```statblock
 name: Mateos Elanil
-stats: [18, 12, 9, 16, 10, 12]
+stats: [15, 16, 12, 8, 12, 12]
 ```

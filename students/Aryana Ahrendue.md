@@ -1,54 +1,53 @@
 ---
 birthday:
-  numeric: 3/14
-  written: 14th of Melorent
-bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
-eyes: Green
-flaw: Once someone questions my courage, I never back down no matter how dangerous
-  the situation.
-guild: Treskal
-hair: curly strawberry blond hair that's kept back by a blue headband
-ideal: Kindness
+  numeric: 1/30
+  written: 30th of Avanent
+bond: My loyalty to my sovereign is unwavering.
+eyes: Hazel
+flaw: If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
+guild: Alderden
+hair: long spines
+ideal: Connection
 name: Aryana Ahrendue
 organizations: []
-partyID: 81
-race: Elf
+partyID: 56
+race: Dragonborn
 relationships:
-- name: Gerrimar Vulkor
+- name: Audree Dixon
   type: partymate
-- name: Leya Escobar
+- name: Alkindus Llamryl
   type: partymate
-- name: Lucoe Lorelei
+- name: Lea Nuvian
   type: partymate
-skin: Fair
-spec: Bard
+skin: white
+spec: Barbarian
 stats:
-  cha: 16
-  con: 16
-  dex: 12
-  int: 8
+  cha: 12
+  con: 10
+  dex: 9
+  int: 12
   str: 14
-  wis: 15
-track: Exploration
-trait: Thinking is for other people. I prefer action.
-trait1: Earnest
-trait2: Droll
+  wis: 10
+track: Protection
+trait: I would rather make a new friend than a new enemy.
+trait1: Youthful
+trait2: Money-minded
 year: 1
 ---
 # Aryana Ahrendue
 ---
 ### Description
-- 1st year Elf Bard in Treskal
-- curly strawberry blond hair that's kept back by a blue headband, Green eyes, and Fair skin
-- Is Earnest and Droll, and has Kindness as their ideal
+- 1st year Dragonborn Barbarian in Alderden
+- long spines, Hazel eyes, and white skin
+- Is Youthful and Money-minded, and has Connection as their ideal
 
 ### Organizations
 ### Relationships
-[[Gerrimar Vulkor]]: partymate
-[[Leya Escobar]]: partymate
-[[Lucoe Lorelei]]: partymate
+[[Audree Dixon]]: partymate
+[[Alkindus Llamryl]]: partymate
+[[Lea Nuvian]]: partymate
 ### Stats
 ```statblock
 name: Aryana Ahrendue
-stats: [14, 12, 16, 8, 15, 16]
+stats: [14, 9, 10, 12, 10, 12]
 ```

@@ -1,54 +1,53 @@
 ---
 birthday:
-  numeric: 1/18
-  written: 18th of Avanent
-bond: My instrument is my most treasured possession, and it reminds me of someone
-  I love.
-eyes: Gray
-flaw: I have trouble trusting in my allies.
+  numeric: 1/10
+  written: 10th of Avanent
+bond: I've been searching my whole life for the answer to a certain question.
+eyes: Pale Gray
+flaw: I am slow to trust members of other races, tribes, and societies.
 guild: Burk
-hair: curly auburn hair that's kept back by a blue headband
-ideal: Patience
+hair: wavy dirty blonde hair that's braided with blue ribbon (long)
+ideal: Perseverance
 name: Elia Veluthil
 organizations: []
-partyID: 42
-race: Tiefling
+partyID: 9
+race: Firbolg
 relationships:
-- name: Faliah Oluevaera
+- name: Aelisabeth Soliania
   type: partymate
-- name: Tylor Llewellenar
+- name: Rotheloe Samblar
   type: partymate
-- name: Abel Marsh
+- name: Helera Urkensvall
   type: partymate
-skin: Sea Green
-spec: Sorcerer
+skin: Pale Green
+spec: Bard
 stats:
-  cha: 17
-  con: 12
-  dex: 12
-  int: 14
-  str: 7
-  wis: 12
-track: Diplomacy
-trait: I feel far more comfortable around animals than people.
-trait1: Admirable
-trait2: Tough
-year: 7
+  cha: 15
+  con: 10
+  dex: 7
+  int: 13
+  str: 10
+  wis: 13
+track: Exploration
+trait: I never pass up a friendly wager.
+trait1: Charming
+trait2: Unhurried
+year: 3
 ---
 # Elia Veluthil
 ---
 ### Description
-- 7th year Tiefling Sorcerer in Burk
-- curly auburn hair that's kept back by a blue headband, Gray eyes, and Sea Green skin
-- Is Admirable and Tough, and has Patience as their ideal
+- 3rd year Firbolg Bard in Burk
+- wavy dirty blonde hair that's braided with blue ribbon (long), Pale Gray eyes, and Pale Green skin
+- Is Charming and Unhurried, and has Perseverance as their ideal
 
 ### Organizations
 ### Relationships
-[[Faliah Oluevaera]]: partymate
-[[Tylor Llewellenar]]: partymate
-[[Abel Marsh]]: partymate
+[[Aelisabeth Soliania]]: partymate
+[[Rotheloe Samblar]]: partymate
+[[Helera Urkensvall]]: partymate
 ### Stats
 ```statblock
 name: Elia Veluthil
-stats: [7, 12, 12, 14, 12, 17]
+stats: [10, 7, 10, 13, 13, 15]
 ```

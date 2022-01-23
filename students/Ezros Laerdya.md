@@ -1,57 +1,53 @@
 ---
 birthday:
-  numeric: 1/30
-  written: 30th of Avanent
-bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
-eyes: Blue
+  numeric: 2/19
+  written: 19th of Corelent
+bond: It is my duty to protect my students.
+eyes: Hazel
 flaw: I can't resist swindling people who are more powerful than me.
-guild: Alderden
-hair: wavy auburn hair that's hanging down to their back
-ideal: Logic
+guild: Fiesn
+hair: wavy red hair that's a tousled bed head
+ideal: Fame
 name: Ezros Laerdya
 organizations: []
-partyID: 33
+partyID: 18
 race: Elf
 relationships:
-- name: Jandar Pleufan
+- name: Shinare Bersa
   type: partymate
-- name: Natalia Endo
+- name: Rjanna Eroan
   type: partymate
-- name: Ahtye Elhieardacil
+- name: Valerya Haldreithen
   type: partymate
-- name: Hudsen Aluendalee
-  type: partymate
-skin: Light Tan
-spec: Monk
+skin: Light
+spec: Cleric
 stats:
   cha: 12
-  con: 10
-  dex: 16
-  int: 11
-  str: 9
-  wis: 13
-track: Assault
-trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
-  accommodations.
-trait1: Witty
-trait2: Absentminded
-year: 2
+  con: 11
+  dex: 11
+  int: 13
+  str: 11
+  wis: 16
+track: Exploration
+trait: I like a job well done, especially if I can convince someone else to do it.
+trait1: Loving
+trait2: Monstrous
+year: 1
 ---
 # Ezros Laerdya
 ---
 ### Description
-- 2nd year Elf Monk in Alderden
-- wavy auburn hair that's hanging down to their back, Blue eyes, and Light Tan skin
-- Is Witty and Absentminded, and has Logic as their ideal
+- 1st year Elf Cleric in Fiesn
+- wavy red hair that's a tousled bed head, Hazel eyes, and Light skin
+- Is Loving and Monstrous, and has Fame as their ideal
 
 ### Organizations
 ### Relationships
-[[Jandar Pleufan]]: partymate
-[[Natalia Endo]]: partymate
-[[Ahtye Elhieardacil]]: partymate
-[[Hudsen Aluendalee]]: partymate
+[[Shinare Bersa]]: partymate
+[[Rjanna Eroan]]: partymate
+[[Valerya Haldreithen]]: partymate
 ### Stats
 ```statblock
 name: Ezros Laerdya
-stats: [9, 16, 10, 11, 13, 12]
+stats: [11, 11, 11, 13, 16, 12]
 ```

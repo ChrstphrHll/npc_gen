@@ -1,56 +1,47 @@
 ---
 birthday:
-  numeric: 4/20
-  written: 20th of Moradent
-bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
-  somewhere.
-eyes: Aqua
-flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
-  involved.
+  numeric: 5/7
+  written: 7th of Iounent
+bond: The ship is most important- crewmates and captains come and go.
+eyes: Pale Brown
+flaw: I'm a sucker for a pretty face.
 guild: Elkenval
-hair: curly grey hair that's a tousled bed head
-ideal: Balance
+hair: wavy platinum hair that's parted to the side, slightly obscuring an eye
+ideal: Personal Development
 name: Wulfe Fulcrux
 organizations: []
-partyID: 58
-race: Genasi
+partyID: 92
+race: Firbolg
 relationships:
-- name: Diegon Verrona
+- name: Faliah Oluevaera
   type: partymate
-- name: Scarlotta Inqoul
-  type: partymate
-- name: Lyonus Ioelena
-  type: partymate
-skin: air
-spec: Bard
+skin: Pale Brown
+spec: Wizard
 stats:
-  cha: 15
-  con: 8
-  dex: 11
-  int: 11
-  str: 12
-  wis: 14
+  cha: 9
+  con: 12
+  dex: 16
+  int: 18
+  str: 13
+  wis: 11
 track: Assault
-trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
-  breaking them.
-trait1: Gallant
-trait2: Solacious
-year: 1
+trait: Flattery is my preferred trick for getting what I want.
+trait1: Courteous
+trait2: Deceptive
+year: 8
 ---
 # Wulfe Fulcrux
 ---
 ### Description
-- 1st year Genasi Bard in Elkenval
-- curly grey hair that's a tousled bed head, Aqua eyes, and air skin
-- Is Gallant and Solacious, and has Balance as their ideal
+- 8th year Firbolg Wizard in Elkenval
+- wavy platinum hair that's parted to the side, slightly obscuring an eye, Pale Brown eyes, and Pale Brown skin
+- Is Courteous and Deceptive, and has Personal Development as their ideal
 
 ### Organizations
 ### Relationships
-[[Diegon Verrona]]: partymate
-[[Scarlotta Inqoul]]: partymate
-[[Lyonus Ioelena]]: partymate
+[[Faliah Oluevaera]]: partymate
 ### Stats
 ```statblock
 name: Wulfe Fulcrux
-stats: [12, 11, 8, 11, 14, 15]
+stats: [13, 16, 12, 18, 11, 9]
 ```

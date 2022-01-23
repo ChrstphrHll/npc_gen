@@ -1,51 +1,50 @@
 ---
 birthday:
-  numeric: 7/26
-  written: 26th of Korent
-bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
-eyes: Amber
-flaw: By my words and actions, I often bring shame to my family.By my words and actions,
-  I often bring shame to my family.
-guild: Elkenval
-hair: wavy white hair that's pulled to the side and buzzed on the right
-ideal: Contributing
+  numeric: 7/19
+  written: 19th of Korent
+bond: In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
+eyes: Purple
+flaw: My pride will probably lead to my destruction.
+guild: Burk
+hair: wavy grey hair that's put up in a large bun
+ideal: Security
 name: Q Yulmanda
 organizations: []
-partyID: 48
-race: Gnome
+partyID: 65
+race: Tiefling
 relationships:
-- name: Matos Mektal
+- name: Eligio Nevarth
   type: partymate
-- name: Sammen Axilya
+- name: Jasjen Nlossae
   type: partymate
-skin: Brown
+skin: Dark Red
 spec: Barbarian
 stats:
-  cha: 12
-  con: 8
-  dex: 11
-  int: 10
-  str: 11
-  wis: 11
+  cha: 11
+  con: 12
+  dex: 10
+  int: 11
+  str: 17
+  wis: 13
 track: Exploration
-trait: I'm willing to listen to every side of an argument before I make my own judgment.
-trait1: Orderly
-trait2: Oppressed
-year: 3
+trait: Flattery is my preferred trick for getting what I want.
+trait1: Appreciative
+trait2: Mystical
+year: 2
 ---
 # Q Yulmanda
 ---
 ### Description
-- 3rd year Gnome Barbarian in Elkenval
-- wavy white hair that's pulled to the side and buzzed on the right, Amber eyes, and Brown skin
-- Is Orderly and Oppressed, and has Contributing as their ideal
+- 2nd year Tiefling Barbarian in Burk
+- wavy grey hair that's put up in a large bun, Purple eyes, and Dark Red skin
+- Is Appreciative and Mystical, and has Security as their ideal
 
 ### Organizations
 ### Relationships
-[[Matos Mektal]]: partymate
-[[Sammen Axilya]]: partymate
+[[Eligio Nevarth]]: partymate
+[[Jasjen Nlossae]]: partymate
 ### Stats
 ```statblock
 name: Q Yulmanda
-stats: [11, 11, 8, 10, 11, 12]
+stats: [17, 10, 12, 11, 13, 11]
 ```

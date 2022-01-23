@@ -1,53 +1,51 @@
 ---
 birthday:
-  numeric: 1/19
-  written: 19th of Avanent
-bond: I idolize a hero of the old tales and measure my deeds against that person's.
-eyes: Gray
-flaw: I'll do anything to get my hands on something rare or priceless.
-guild: Treskal
-hair: wavy lighter blonde hair that's parted to the side, slightly obscuring an eye
-ideal: Knowledge
+  numeric: 2/23
+  written: 23rd of Corelent
+bond: I will become the greatest thief that ever lived.
+eyes: Brown
+flaw: Gold seems like a lot of money to me, and I'll do just about anything for more
+  of it.
+guild: Fiesn
+hair: wavy red hair that's kept back by a turquoise headband
+ideal: Contentment
 name: Uxwy Lazziar
 organizations: []
-partyID: 89
+partyID: 48
 race: Human
 relationships:
-- name: Shenai Inqoul
+- name: Abel Marsh
   type: partymate
-- name: Garan Mirthal
+- name: Leonus Triktappic
   type: partymate
-- name: Murunay Illfate
-  type: partymate
-skin: Dark Tan
-spec: Ranger
+skin: Fair
+spec: Sorcerer
 stats:
-  cha: 14
-  con: 15
-  dex: 17
-  int: 13
-  str: 12
-  wis: 13
-track: Protection
-trait: I honor my deities through practices that are foreign to this land.
-trait1: Diligent
-trait2: Undemanding
-year: 1
+  cha: 16
+  con: 14
+  dex: 12
+  int: 11
+  str: 13
+  wis: 14
+track: Assault
+trait: Whenever I come to a new place, I collect local rumors and spread gossip.
+trait1: Admirable
+trait2: Repugnant
+year: 5
 ---
 # Uxwy Lazziar
 ---
 ### Description
-- 1st year Human Ranger in Treskal
-- wavy lighter blonde hair that's parted to the side, slightly obscuring an eye, Gray eyes, and Dark Tan skin
-- Is Diligent and Undemanding, and has Knowledge as their ideal
+- 5th year Human Sorcerer in Fiesn
+- wavy red hair that's kept back by a turquoise headband, Brown eyes, and Fair skin
+- Is Admirable and Repugnant, and has Contentment as their ideal
 
 ### Organizations
 ### Relationships
-[[Shenai Inqoul]]: partymate
-[[Garan Mirthal]]: partymate
-[[Murunay Illfate]]: partymate
+[[Abel Marsh]]: partymate
+[[Leonus Triktappic]]: partymate
 ### Stats
 ```statblock
 name: Uxwy Lazziar
-stats: [12, 17, 15, 13, 13, 14]
+stats: [13, 12, 14, 11, 14, 16]
 ```

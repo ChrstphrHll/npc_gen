@@ -1,51 +1,51 @@
 ---
 birthday:
-  numeric: 2/17
-  written: 17th of Corelent
-bond: Somewhere out there, I have a child who doesn't know me. I'm making the world
-  better for him or her.
-eyes: Pale Gray
-flaw: I'm never satisfied with what I have- I always want more.
-guild: Treskal
-hair: curly brunette hair that's loose around the shoulders
-ideal: Community
+  numeric: 4/7
+  written: 7th of Moradent
+bond: I work to preserve a library, university, scriptorium, or monastery.
+eyes: Green
+flaw: I put too much trust in those who wield power within my temple's hierarchy.
+guild: Burk
+hair: wavy dark red hair that's braided with pink ribbon (long)
+ideal: Flexibility
 name: Efjan Andrathath
 organizations: []
-partyID: 78
-race: Half-Orc
+partyID: 31
+race: Gnome
 relationships:
-- name: Wenge Usunaar
+- name: Taanyth Seeker
   type: partymate
-- name: Levy Maendellyn
+- name: Averra Taleisin
   type: partymate
-skin: Pale Gray
-spec: Paladin
+skin: Light
+spec: Druid
 stats:
   cha: 15
-  con: 7
-  dex: 15
-  int: 16
-  str: 17
-  wis: 13
-track: Exploration
-trait: I have a lesson for every situation, drawn from observing nature.
-trait1: Serious
-trait2: Tactless
-year: 2
+  con: 11
+  dex: 13
+  int: 12
+  str: 6
+  wis: 14
+track: Protection
+trait: My eloquent flattery makes everyone I talk to feel like the most wonderful
+  and important person in the world.
+trait1: Invisible
+trait2: Brutal
+year: 1
 ---
 # Efjan Andrathath
 ---
 ### Description
-- 2nd year Half-Orc Paladin in Treskal
-- curly brunette hair that's loose around the shoulders, Pale Gray eyes, and Pale Gray skin
-- Is Serious and Tactless, and has Community as their ideal
+- 1st year Gnome Druid in Burk
+- wavy dark red hair that's braided with pink ribbon (long), Green eyes, and Light skin
+- Is Invisible and Brutal, and has Flexibility as their ideal
 
 ### Organizations
 ### Relationships
-[[Wenge Usunaar]]: partymate
-[[Levy Maendellyn]]: partymate
+[[Taanyth Seeker]]: partymate
+[[Averra Taleisin]]: partymate
 ### Stats
 ```statblock
 name: Efjan Andrathath
-stats: [17, 15, 7, 16, 13, 15]
+stats: [6, 13, 11, 12, 14, 15]
 ```

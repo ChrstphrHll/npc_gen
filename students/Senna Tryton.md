@@ -1,54 +1,48 @@
 ---
 birthday:
-  numeric: 6/30
-  written: 30th of Pelent
-bond: I will face any challenge to win the approval of my family.
-eyes: Pale Brown
-flaw: The tyrant who rules my land will stop at nothing to see me killed.
+  numeric: 3/3
+  written: 3rd of Melorent
+bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, and
+  left me to die. Vengeance will be mine.
+eyes: Hazel
+flaw: I'll do anything to get my hands on something rare or priceless.
 guild: Burk
-hair: curly platinum hair that's pulled to the side and buzzed on the right
-ideal: Kindness
+hair: wavy white hair that's braided with green ribbon (med)
+ideal: Religion
 name: Senna Tryton
 organizations: []
-partyID: 26
-race: Elf
+partyID: 49
+race: Gnome
 relationships:
-- name: Emilanus Shields
+- name: Scarlotta Inqoul
   type: partymate
-- name: Andrey Rauthomyr
-  type: partymate
-- name: Averra Taleisin
-  type: partymate
-skin: Dark Brown
-spec: Wizard
+skin: Light Tan
+spec: Fighter
 stats:
-  cha: 12
-  con: 11
-  dex: 9
-  int: 16
-  str: 9
-  wis: 13
-track: Diplomacy
-trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
-  breaking them.
-trait1: Optimistic
-trait2: Impassive
-year: 8
+  cha: 6
+  con: 9
+  dex: 14
+  int: 11
+  str: 12
+  wis: 12
+track: Exploration
+trait: I always want to know how things work and what makes people tick.
+trait1: Pleasant
+trait2: Breezy
+year: 4
 ---
 # Senna Tryton
 ---
 ### Description
-- 8th year Elf Wizard in Burk
-- curly platinum hair that's pulled to the side and buzzed on the right, Pale Brown eyes, and Dark Brown skin
-- Is Optimistic and Impassive, and has Kindness as their ideal
+- 4th year Gnome Fighter in Burk
+- wavy white hair that's braided with green ribbon (med), Hazel eyes, and Light Tan skin
+- Is Pleasant and Breezy, and has Religion as their ideal
 
 ### Organizations
 ### Relationships
-[[Emilanus Shields]]: partymate
-[[Andrey Rauthomyr]]: partymate
-[[Averra Taleisin]]: partymate
+[[Scarlotta Inqoul]]: partymate
 ### Stats
 ```statblock
 name: Senna Tryton
-stats: [9, 9, 11, 16, 13, 12]
+stats: [12, 14, 9, 11, 12, 6]
 ```

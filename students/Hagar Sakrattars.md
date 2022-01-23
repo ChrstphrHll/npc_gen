@@ -1,58 +1,52 @@
 ---
 birthday:
-  numeric: 6/22
-  written: 22nd of Pelent
-bond: Someone saved my life on the battlefield. To this day, I will never leave a
-  friend behind.
-eyes: Pale Gray
-flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
-  to quell.
-guild: Jettenia
-hair: curly dirty blonde hair that's braided with green ribbon (med)
-ideal: Ambition
+  numeric: 2/24
+  written: 24th of Corelent
+bond: I will do anything to protect the temple where I served.
+eyes: Green
+flaw: A scandal prevents me from ever going home again. That kind of trouble seems
+  to follow me around.
+guild: Burk
+hair: curly brunette hair that's kept back by a blue headband
+ideal: Competition
 name: Hagar Sakrattars
 organizations: []
-partyID: 74
-race: Dwarf
+partyID: 86
+race: Tiefling
 relationships:
-- name: Ysaac Aelrue
+- name: Lyonus Ioelena
   type: partymate
-- name: Tilo Connak
+- name: Valygar Lyklor
   type: partymate
-- name: Grace Festus
-  type: partymate
-- name: Juppar Kershaw
-  type: partymate
-skin: Brown
-spec: Fighter
+skin: Pale Yellow
+spec: Cleric
 stats:
-  cha: 9
-  con: 12
-  dex: 9
-  int: 15
-  str: 12
-  wis: 12
-track: Exploration
-trait: I feel far more comfortable around animals than people.
-trait1: Physical
-trait2: Pompous
-year: 3
+  cha: 14
+  con: 11
+  dex: 14
+  int: 13
+  str: 10
+  wis: 17
+track: Protection
+trait: I begin or end my day with small traditional rituals that are unfamiliar to
+  those around me.
+trait1: Conforming
+trait2: Criminal
+year: 2
 ---
 # Hagar Sakrattars
 ---
 ### Description
-- 3rd year Dwarf Fighter in Jettenia
-- curly dirty blonde hair that's braided with green ribbon (med), Pale Gray eyes, and Brown skin
-- Is Physical and Pompous, and has Ambition as their ideal
+- 2nd year Tiefling Cleric in Burk
+- curly brunette hair that's kept back by a blue headband, Green eyes, and Pale Yellow skin
+- Is Conforming and Criminal, and has Competition as their ideal
 
 ### Organizations
 ### Relationships
-[[Ysaac Aelrue]]: partymate
-[[Tilo Connak]]: partymate
-[[Grace Festus]]: partymate
-[[Juppar Kershaw]]: partymate
+[[Lyonus Ioelena]]: partymate
+[[Valygar Lyklor]]: partymate
 ### Stats
 ```statblock
 name: Hagar Sakrattars
-stats: [12, 9, 12, 15, 12, 9]
+stats: [10, 14, 11, 13, 17, 14]
 ```

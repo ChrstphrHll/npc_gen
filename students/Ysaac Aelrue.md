@@ -1,58 +1,54 @@
 ---
 birthday:
-  numeric: 8/4
-  written: 4th of Ravenent
-bond: My family, clan, or tribe is the most important thing in my life, even when
-  they are far from me.
-eyes: Purple
-flaw: I'm a sucker for a pretty face.
-guild: Jettenia
-hair: wavy green hair that's parted to the right
-ideal: Security
+  numeric: 2/30
+  written: 30th of Corelent
+bond: My instrument is my most treasured possession, and it reminds me of someone
+  I love.
+eyes: Amber
+flaw: I let my need to win arguments overshadow friendships and harmony.
+guild: Treskal
+hair: wavy black hair that's hanging down to their back
+ideal: Contentment
 name: Ysaac Aelrue
 organizations: []
-partyID: 74
-race: Tiefling
+partyID: 51
+race: Halfling
 relationships:
-- name: Tilo Connak
+- name: Nolyn Viska
   type: partymate
-- name: Hagar Sakrattars
+- name: Vaervenshalice Eloen
   type: partymate
-- name: Grace Festus
+- name: Dejana Keller
   type: partymate
-- name: Juppar Kershaw
-  type: partymate
-skin: Pale Yellow
-spec: Ranger
+skin: Light
+spec: Fighter
 stats:
-  cha: 11
+  cha: 10
   con: 9
   dex: 17
   int: 11
-  str: 7
-  wis: 11
-track: Diplomacy
-trait: I've read every book in the world's greatest libraries - or I like to boast
-  that I have.
-trait1: Sociable
-trait2: Evil
-year: 3
+  str: 9
+  wis: 13
+track: Exploration
+trait: I connect everything that happens to me to a grand, cosmic plan.
+trait1: Respectful
+trait2: Superstitious
+year: 1
 ---
 # Ysaac Aelrue
 ---
 ### Description
-- 3rd year Tiefling Ranger in Jettenia
-- wavy green hair that's parted to the right, Purple eyes, and Pale Yellow skin
-- Is Sociable and Evil, and has Security as their ideal
+- 1st year Halfling Fighter in Treskal
+- wavy black hair that's hanging down to their back, Amber eyes, and Light skin
+- Is Respectful and Superstitious, and has Contentment as their ideal
 
 ### Organizations
 ### Relationships
-[[Tilo Connak]]: partymate
-[[Hagar Sakrattars]]: partymate
-[[Grace Festus]]: partymate
-[[Juppar Kershaw]]: partymate
+[[Nolyn Viska]]: partymate
+[[Vaervenshalice Eloen]]: partymate
+[[Dejana Keller]]: partymate
 ### Stats
 ```statblock
 name: Ysaac Aelrue
-stats: [7, 17, 9, 11, 11, 11]
+stats: [9, 17, 9, 11, 13, 10]
 ```

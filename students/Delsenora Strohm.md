@@ -1,51 +1,51 @@
 ---
 birthday:
-  numeric: 1/12
-  written: 12th of Avanent
-bond: Someone stole my precious instrument, and someday I'll get it back.
-eyes: Pale Blue
-flaw: Don't expect me to save those who can't save themselves. It is nature's way
-  that the strong thrive and the weak perish.
-guild: Burk
-hair: 5 hooked horns
-ideal: Fame
+  numeric: 1/5
+  written: 5th of Avanent
+bond: I will become the greatest thief that ever lived.
+eyes: Pale Green
+flaw: I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go,
+  I'm surrounded by rivals.
+guild: Fiesn
+hair: short spines
+ideal: Austerity
 name: Delsenora Strohm
 organizations: []
-partyID: 85
+partyID: 15
 race: Dragonborn
 relationships:
-- name: Dylan Usunaar
+- name: Surge Fayd
   type: partymate
-- name: Whit Remington
+- name: Josius Iliphar
   type: partymate
 skin: copper
-spec: Monk
+spec: Druid
 stats:
-  cha: 15
+  cha: 11
   con: 14
-  dex: 16
-  int: 16
-  str: 12
-  wis: 12
-track: Exploration
-trait: Flattery is my preferred trick for getting what I want.
-trait1: Skillful
-trait2: Dominating
+  dex: 11
+  int: 13
+  str: 7
+  wis: 14
+track: Protection
+trait: I'm a hopeless romantic, always searching for that "special someone."
+trait1: Unambitious
+trait2: Surprising
 year: 7
 ---
 # Delsenora Strohm
 ---
 ### Description
-- 7th year Dragonborn Monk in Burk
-- 5 hooked horns, Pale Blue eyes, and copper skin
-- Is Skillful and Dominating, and has Fame as their ideal
+- 7th year Dragonborn Druid in Fiesn
+- short spines, Pale Green eyes, and copper skin
+- Is Unambitious and Surprising, and has Austerity as their ideal
 
 ### Organizations
 ### Relationships
-[[Dylan Usunaar]]: partymate
-[[Whit Remington]]: partymate
+[[Surge Fayd]]: partymate
+[[Josius Iliphar]]: partymate
 ### Stats
 ```statblock
 name: Delsenora Strohm
-stats: [12, 16, 14, 16, 12, 15]
+stats: [7, 11, 14, 13, 14, 11]
 ```

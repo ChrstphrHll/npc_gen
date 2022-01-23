@@ -1,52 +1,55 @@
 ---
 birthday:
-  numeric: 8/16
-  written: 16th of Ravenent
-bond: I created a great work for someone, and then found them unworthy to receive
-  it. I'm still looking for someone worthy.
-eyes: Pale Brown
-flaw: When faced with a choice between money and my friends, I usually choose the
-  money.
+  numeric: 7/13
+  written: 13th of Korent
+bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
+eyes: Green
+flaw: Don't expect me to save those who can't save themselves. It is nature's way
+  that the strong thrive and the weak perish.
 guild: Burk
-hair: wavy brunette hair that's a tousled bed head
-ideal: Compassion
+hair: straight brunette hair that's put back in a long pony tail
+ideal: Fitness
 name: Noam Shields
 organizations: []
-partyID: 15
-race: Elf
+partyID: 59
+race: Half-Orc
 relationships:
-- name: Alver Boneflare
+- name: Gunnar Ordayius
   type: partymate
-- name: Kendel Shael
+- name: Saleas Rilitar
   type: partymate
-skin: Dark Brown
-spec: Artificer
+- name: Remus Manchul
+  type: partymate
+skin: Pale Green
+spec: Barbarian
 stats:
-  cha: 12
-  con: 9
-  dex: 15
-  int: 14
-  str: 7
-  wis: 11
-track: Protection
-trait: Nothing can shake my optimistic attitude.
-trait1: Sharing
-trait2: Determined
-year: 7
+  cha: 18
+  con: 13
+  dex: 11
+  int: 10
+  str: 15
+  wis: 15
+track: Assault
+trait: I am always calm, no matter what the situation. I never raise my voice or let
+  emotions control me.
+trait1: Quality
+trait2: Colorless
+year: 4
 ---
 # Noam Shields
 ---
 ### Description
-- 7th year Elf Artificer in Burk
-- wavy brunette hair that's a tousled bed head, Pale Brown eyes, and Dark Brown skin
-- Is Sharing and Determined, and has Compassion as their ideal
+- 4th year Half-Orc Barbarian in Burk
+- straight brunette hair that's put back in a long pony tail, Green eyes, and Pale Green skin
+- Is Quality and Colorless, and has Fitness as their ideal
 
 ### Organizations
 ### Relationships
-[[Alver Boneflare]]: partymate
-[[Kendel Shael]]: partymate
+[[Gunnar Ordayius]]: partymate
+[[Saleas Rilitar]]: partymate
+[[Remus Manchul]]: partymate
 ### Stats
 ```statblock
 name: Noam Shields
-stats: [7, 15, 9, 14, 11, 12]
+stats: [15, 11, 13, 10, 15, 18]
 ```

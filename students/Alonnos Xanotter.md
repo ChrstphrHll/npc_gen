@@ -1,55 +1,53 @@
 ---
 birthday:
-  numeric: 2/1
-  written: 1st of Corelent
-bond: I will get revenge on the evil forces that destroyed my place of business and
-  ruined my livelihood.
-eyes: Red
-flaw: By my words and actions, I often bring shame to my family.By my words and actions,
-  I often bring shame to my family.
-guild: Treskal
-hair: curly auburn hair that's put back in a long pony tail
-ideal: Finesse
+  numeric: 6/2
+  written: 2nd of Pelent
+bond: I entered seclusion to hide from the ones who might still be hunting me. I must
+  someday confront them.
+eyes: Green
+flaw: I'm convinced of the significance of my destiny, and blind to my shortcomings
+  and the risk of failure.
+guild: Elkenval
+hair: wavy red hair that's put up in a large bun
+ideal: Cooperation
 name: Alonnos Xanotter
 organizations: []
-partyID: 76
-race: Triton
+partyID: 88
+race: Tiefling
 relationships:
-- name: Cerridwen Durothil
+- name: Shoulree Letryal
   type: partymate
-- name: Grassa Ashbluff
+- name: Levi Kicklighter
   type: partymate
-- name: Lincon Nylaathria
-  type: partymate
-skin: Emerald Green
-spec: Bard
+skin: Yellow
+spec: Sorcerer
 stats:
   cha: 17
-  con: 14
-  dex: 9
-  int: 10
-  str: 9
-  wis: 12
-track: Exploration
-trait: I judge people by their actions, not their words.
-trait1: Mindful
-trait2: Old-fashioned
-year: 2
+  con: 16
+  dex: 14
+  int: 9
+  str: 10
+  wis: 16
+track: Protection
+trait: I . . . speak . . . slowly . . . when talking . . . to idiots, . . . which
+  . . . almost . . . everyone . . . is . . . compared . . . to me.
+trait1: Folksy
+trait2: Complex
+year: 1
 ---
 # Alonnos Xanotter
 ---
 ### Description
-- 2nd year Triton Bard in Treskal
-- curly auburn hair that's put back in a long pony tail, Red eyes, and Emerald Green skin
-- Is Mindful and Old-fashioned, and has Finesse as their ideal
+- 1st year Tiefling Sorcerer in Elkenval
+- wavy red hair that's put up in a large bun, Green eyes, and Yellow skin
+- Is Folksy and Complex, and has Cooperation as their ideal
 
 ### Organizations
 ### Relationships
-[[Cerridwen Durothil]]: partymate
-[[Grassa Ashbluff]]: partymate
-[[Lincon Nylaathria]]: partymate
+[[Shoulree Letryal]]: partymate
+[[Levi Kicklighter]]: partymate
 ### Stats
 ```statblock
 name: Alonnos Xanotter
-stats: [9, 9, 14, 10, 12, 17]
+stats: [10, 14, 16, 9, 16, 17]
 ```

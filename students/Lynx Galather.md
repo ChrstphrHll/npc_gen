@@ -1,53 +1,51 @@
 ---
 birthday:
-  numeric: 4/23
-  written: 23rd of Moradent
-bond: I will do anything to prove myself superior to my hated rival.
-eyes: Green
-flaw: People who can't take care of themselves get what they deserve.
+  numeric: 7/30
+  written: 30th of Korent
+bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, and
+  left me to die. Vengeance will be mine.
+eyes: Pale Blue
+flaw: I can't resist swindling people who are more powerful than me.
 guild: Burk
-hair: long spines
-ideal: Friendship
+hair: wavy brunette hair that's parted to the right
+ideal: Responsibility
 name: Lynx Galather
 organizations: []
-partyID: 22
-race: Dragonborn
+partyID: 72
+race: Human
 relationships:
-- name: Lenn Schimae
+- name: Corliss Akkar
   type: partymate
-- name: Hessos Adorellan
+- name: Aenglo Dyffros
   type: partymate
-- name: Valia Esyae
-  type: partymate
-skin: bronze
-spec: Cleric
+skin: Tan
+spec: Monk
 stats:
-  cha: 13
-  con: 14
-  dex: 10
-  int: 11
-  str: 15
-  wis: 16
+  cha: 10
+  con: 12
+  dex: 17
+  int: 10
+  str: 12
+  wis: 12
 track: Exploration
-trait: I work hard so that I can play hard when the work is done.
-trait1: Persuasive
-trait2: Scornful
-year: 7
+trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
+trait1: Reasonable
+trait2: Resentful
+year: 1
 ---
 # Lynx Galather
 ---
 ### Description
-- 7th year Dragonborn Cleric in Burk
-- long spines, Green eyes, and bronze skin
-- Is Persuasive and Scornful, and has Friendship as their ideal
+- 1st year Human Monk in Burk
+- wavy brunette hair that's parted to the right, Pale Blue eyes, and Tan skin
+- Is Reasonable and Resentful, and has Responsibility as their ideal
 
 ### Organizations
 ### Relationships
-[[Lenn Schimae]]: partymate
-[[Hessos Adorellan]]: partymate
-[[Valia Esyae]]: partymate
+[[Corliss Akkar]]: partymate
+[[Aenglo Dyffros]]: partymate
 ### Stats
 ```statblock
 name: Lynx Galather
-stats: [15, 10, 14, 11, 16, 13]
+stats: [12, 17, 12, 10, 12, 10]
 ```

@@ -1,54 +1,53 @@
 ---
 birthday:
-  numeric: 1/25
-  written: 25th of Avanent
-bond: I worked the land, I love the land, and I will protect the land.
+  numeric: 6/25
+  written: 25th of Pelent
+bond: I am in love with the heir of a family that my family despises.
 eyes: Gray
-flaw: When faced with a choice between money and my friends, I usually choose the
-  money.
-guild: Jettenia
-hair: wavy strawberry blond hair that's parted to the left
-ideal: Peace
+flaw: I let my need to win arguments overshadow friendships and harmony.
+guild: Treskal
+hair: curly green hair that's hanging down to their back
+ideal: Impartiality
 name: Brooka Whesker
 organizations: []
-partyID: 54
-race: Half-Orc
+partyID: 45
+race: Half-Elf
 relationships:
-- name: Hanna Estelar
+- name: Hudsen Elandorr
   type: partymate
-- name: Saleas Rilitar
+- name: Jacob Jorildyn
   type: partymate
-- name: Nom Remington
+- name: Gabrila Retra
   type: partymate
-skin: Pale Gray
-spec: Druid
+skin: Pale
+spec: Fighter
 stats:
-  cha: 8
-  con: 14
-  dex: 7
-  int: 12
-  str: 12
-  wis: 13
-track: Assault
-trait: I'm willing to listen to every side of an argument before I make my own judgment.
-trait1: Discerning
-trait2: Grand
-year: 1
+  cha: 12
+  con: 8
+  dex: 9
+  int: 15
+  str: 18
+  wis: 12
+track: Diplomacy
+trait: I enjoy being strong and like breaking things.
+trait1: Private
+trait2: Predictable
+year: 3
 ---
 # Brooka Whesker
 ---
 ### Description
-- 1st year Half-Orc Druid in Jettenia
-- wavy strawberry blond hair that's parted to the left, Gray eyes, and Pale Gray skin
-- Is Discerning and Grand, and has Peace as their ideal
+- 3rd year Half-Elf Fighter in Treskal
+- curly green hair that's hanging down to their back, Gray eyes, and Pale skin
+- Is Private and Predictable, and has Impartiality as their ideal
 
 ### Organizations
 ### Relationships
-[[Hanna Estelar]]: partymate
-[[Saleas Rilitar]]: partymate
-[[Nom Remington]]: partymate
+[[Hudsen Elandorr]]: partymate
+[[Jacob Jorildyn]]: partymate
+[[Gabrila Retra]]: partymate
 ### Stats
 ```statblock
 name: Brooka Whesker
-stats: [12, 7, 14, 12, 13, 8]
+stats: [18, 9, 8, 15, 12, 12]
 ```

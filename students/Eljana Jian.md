@@ -1,55 +1,48 @@
 ---
 birthday:
-  numeric: 2/9
-  written: 9th of Corelent
-bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
-  eludes me.
-eyes: Green
-flaw: I have a weakness for the new intoxicants and other pleasures of this land.
-guild: Treskal
-hair: straight strawberry blond hair that's parted to the left
-ideal: Invention
+  numeric: 4/18
+  written: 18th of Moradent
+bond: Someone saved my life on the battlefield. To this day, I will never leave a
+  friend behind.
+eyes: Hazel
+flaw: I'm convinced that no one could ever fool me the way I fool others.
+guild: Fiesn
+hair: wavy red hair that's hanging down to their legs
+ideal: Harmony
 name: Eljana Jian
 organizations: []
-partyID: 34
-race: Human
+partyID: 71
+race: Goliath
 relationships:
-- name: Valygar Lyklor
+- name: Asralyn Rhangyl
   type: partymate
-- name: Iamus Aneirin
-  type: partymate
-- name: Natylie Rathal
-  type: partymate
-skin: Pale
-spec: Sorcerer
+skin: Dark Tan
+spec: Fighter
 stats:
-  cha: 18
-  con: 16
-  dex: 13
-  int: 15
-  str: 14
-  wis: 10
-track: Diplomacy
-trait: I've been isolated for so long that I rarely speak, preferring gestures and
-  the occasional grunt.
-trait1: Suave
-trait2: Impersonal
+  cha: 11
+  con: 11
+  dex: 12
+  int: 5
+  str: 11
+  wis: 9
+track: Protection
+trait: I misuse long words in an attempt to sound smarter.
+trait1: Challenging
+trait2: Confused
 year: 5
 ---
 # Eljana Jian
 ---
 ### Description
-- 5th year Human Sorcerer in Treskal
-- straight strawberry blond hair that's parted to the left, Green eyes, and Pale skin
-- Is Suave and Impersonal, and has Invention as their ideal
+- 5th year Goliath Fighter in Fiesn
+- wavy red hair that's hanging down to their legs, Hazel eyes, and Dark Tan skin
+- Is Challenging and Confused, and has Harmony as their ideal
 
 ### Organizations
 ### Relationships
-[[Valygar Lyklor]]: partymate
-[[Iamus Aneirin]]: partymate
-[[Natylie Rathal]]: partymate
+[[Asralyn Rhangyl]]: partymate
 ### Stats
 ```statblock
 name: Eljana Jian
-stats: [14, 13, 16, 15, 10, 18]
+stats: [11, 12, 11, 5, 9, 11]
 ```

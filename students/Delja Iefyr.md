@@ -1,50 +1,54 @@
 ---
 birthday:
-  numeric: 3/17
-  written: 17th of Melorent
-bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
-eyes: Green
-flaw: I'd rather eat my armor than admit when I'm wrong.
-guild: Fiesn
-hair: wavy red hair that's put back in a short pony tail
-ideal: Reciprocity
+  numeric: 4/27
+  written: 27th of Moradent
+bond: I would still lay down my life for the people I served with.
+eyes: Amber
+flaw: Gold seems like a lot of money to me, and I'll do just about anything for more
+  of it.
+guild: Burk
+hair: straight dirty blonde hair that's put up in a large bun
+ideal: Power
 name: Delja Iefyr
 organizations: []
-partyID: 12
-race: Dwarf
+partyID: 38
+race: Half-Elf
 relationships:
-- name: Dree Nuala
+- name: Hodus Belt
   type: partymate
-- name: Aidyn Glynnii
+- name: Shike Thalaera
   type: partymate
-skin: Brown
+- name: Genesys Mhaenal
+  type: partymate
+skin: Light
 spec: Druid
 stats:
-  cha: 13
-  con: 11
-  dex: 10
-  int: 12
-  str: 14
-  wis: 14
-track: Assault
-trait: I love a good insult, even one directed at me.
-trait1: Well-bred
-trait2: Snobbish
-year: 8
+  cha: 9
+  con: 13
+  dex: 13
+  int: 15
+  str: 10
+  wis: 16
+track: Diplomacy
+trait: I am utterly serene, even in the face of disaster.
+trait1: Harmonious
+trait2: Risk-taking
+year: 1
 ---
 # Delja Iefyr
 ---
 ### Description
-- 8th year Dwarf Druid in Fiesn
-- wavy red hair that's put back in a short pony tail, Green eyes, and Brown skin
-- Is Well-bred and Snobbish, and has Reciprocity as their ideal
+- 1st year Half-Elf Druid in Burk
+- straight dirty blonde hair that's put up in a large bun, Amber eyes, and Light skin
+- Is Harmonious and Risk-taking, and has Power as their ideal
 
 ### Organizations
 ### Relationships
-[[Dree Nuala]]: partymate
-[[Aidyn Glynnii]]: partymate
+[[Hodus Belt]]: partymate
+[[Shike Thalaera]]: partymate
+[[Genesys Mhaenal]]: partymate
 ### Stats
 ```statblock
 name: Delja Iefyr
-stats: [14, 10, 11, 12, 14, 13]
+stats: [10, 13, 13, 15, 16, 9]
 ```

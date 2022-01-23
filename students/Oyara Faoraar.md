@@ -1,52 +1,47 @@
 ---
 birthday:
-  numeric: 8/10
-  written: 10th of Ravenent
-bond: An injury to the unspoiled wilderness of my home is an injury to me.
-eyes: Pale Blue
-flaw: Most people scream and run when they see a demon. I stop and take notes on its
-  anatomy.
-guild: Fiesn
-hair: wavy dark red hair that's kept back by a turquoise headband
-ideal: Dishonesty
+  numeric: 7/25
+  written: 25th of Korent
+bond: The gods of my people are a comfort to me so far from home.
+eyes: Pale Brown
+flaw: I'd risk too much to uncover a lost bit of knowledge.
+guild: Elkenval
+hair: wavy turquoise hair that's geled back
+ideal: Change
 name: Oyara Faoraar
 organizations: []
-partyID: 84
-race: Half-Elf
+partyID: 76
+race: Halfling
 relationships:
-- name: Shinare Bersa
-  type: partymate
-- name: Hazel Traeliorn
+- name: Sybasten Simimar
   type: partymate
 skin: Pale
-spec: Monk
+spec: Ranger
 stats:
-  cha: 11
-  con: 13
+  cha: 7
+  con: 11
   dex: 15
-  int: 7
+  int: 8
   str: 9
-  wis: 14
-track: Diplomacy
-trait: I'm used to helping out those who aren't as smart as I am, and I patiently
-  explain anything and everything to others.
-trait1: Sensitive
-trait2: Driving
-year: 3
+  wis: 15
+track: Protection
+trait: I judge people by their actions, not their words.
+trait1: Skeptical
+trait2: Steely
+year: 4
 ---
 # Oyara Faoraar
 ---
 ### Description
-- 3rd year Half-Elf Monk in Fiesn
-- wavy dark red hair that's kept back by a turquoise headband, Pale Blue eyes, and Pale skin
-- Is Sensitive and Driving, and has Dishonesty as their ideal
+- 4th year Halfling Ranger in Elkenval
+- wavy turquoise hair that's geled back, Pale Brown eyes, and Pale skin
+- Is Skeptical and Steely, and has Change as their ideal
 
 ### Organizations
 ### Relationships
-[[Shinare Bersa]]: partymate
-[[Hazel Traeliorn]]: partymate
+[[Sybasten Simimar]]: partymate
 ### Stats
 ```statblock
 name: Oyara Faoraar
-stats: [9, 15, 13, 7, 14, 11]
+stats: [9, 15, 11, 8, 15, 7]
 ```

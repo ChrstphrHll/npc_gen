@@ -1,54 +1,54 @@
 ---
 birthday:
-  numeric: 7/22
-  written: 22nd of Korent
-bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
-eyes: Blue
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Elkenval
-hair: wavy brunette hair that's put up in a large bun
-ideal: Compassion
+  numeric: 7/14
+  written: 14th of Korent
+bond: Someone saved my life on the battlefield. To this day, I will never leave a
+  friend behind.
+eyes: Pale Blue
+flaw: I am too enamored of ale, wine, and other intoxicants.
+guild: Fiesn
+hair: curly white hair that's loose around the shoulders
+ideal: Family
 name: Victor Gaelira
 organizations: []
-partyID: 80
-race: Human
+partyID: 96
+race: Half-Elf
 relationships:
+- name: Halya Jian
+  type: partymate
 - name: Goetia Mistale
   type: partymate
-- name: Yan Sorsasta
+- name: Handyr Letryal
   type: partymate
-- name: Halja Dwyer
-  type: partymate
-skin: Light Tan
-spec: Artificer
+skin: Dark Tan
+spec: Barbarian
 stats:
-  cha: 12
-  con: 9
+  cha: 13
+  con: 12
   dex: 12
-  int: 12
-  str: 10
-  wis: 11
+  int: 13
+  str: 14
+  wis: 12
 track: Diplomacy
-trait: I lie about almost everything, even when there's no good reason to.
-trait1: Protective
-trait2: Competitive
-year: 2
+trait: I have a lesson for every situation, drawn from observing nature.
+trait1: Ambitious
+trait2: Evil
+year: 1
 ---
 # Victor Gaelira
 ---
 ### Description
-- 2nd year Human Artificer in Elkenval
-- wavy brunette hair that's put up in a large bun, Blue eyes, and Light Tan skin
-- Is Protective and Competitive, and has Compassion as their ideal
+- 1st year Half-Elf Barbarian in Fiesn
+- curly white hair that's loose around the shoulders, Pale Blue eyes, and Dark Tan skin
+- Is Ambitious and Evil, and has Family as their ideal
 
 ### Organizations
 ### Relationships
+[[Halya Jian]]: partymate
 [[Goetia Mistale]]: partymate
-[[Yan Sorsasta]]: partymate
-[[Halja Dwyer]]: partymate
+[[Handyr Letryal]]: partymate
 ### Stats
 ```statblock
 name: Victor Gaelira
-stats: [10, 12, 9, 12, 11, 12]
+stats: [14, 12, 12, 13, 12, 13]
 ```

@@ -1,51 +1,51 @@
 ---
 birthday:
-  numeric: 8/25
-  written: 25th of Ravenent
-bond: It is my duty to protect my students.
-eyes: Hazel
-flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
+  numeric: 5/18
+  written: 18th of Iounent
+bond: Someone saved my life on the battlefield. To this day, I will never leave a
+  friend behind.
+eyes: Red
+flaw: I'll say anything to avoid having to do extra work.
 guild: Fiesn
-hair: curly dirty blonde hair that's hanging down to their back
-ideal: Competition
+hair: straight blue hair that's geled back
+ideal: Invention
 name: Caeleb Embrae
 organizations: []
-partyID: 50
+partyID: 54
 race: Tiefling
 relationships:
-- name: Adrjia Lysanthir
+- name: Liris Bhyrindaar
   type: partymate
-- name: Estyn Rhangyl
+- name: Eva Reluvethel
   type: partymate
-skin: Emerald Green
-spec: Druid
+skin: Deep Blue
+spec: Bard
 stats:
-  cha: 10
-  con: 12
-  dex: 5
-  int: 12
-  str: 9
-  wis: 14
+  cha: 14
+  con: 13
+  dex: 14
+  int: 9
+  str: 13
+  wis: 9
 track: Assault
-trait: I begin or end my day with small traditional rituals that are unfamiliar to
-  those around me.
-trait1: Witty
-trait2: Presumptuous
-year: 3
+trait: I never pass up a friendly wager.
+trait1: Skillful
+trait2: Libidinous
+year: 2
 ---
 # Caeleb Embrae
 ---
 ### Description
-- 3rd year Tiefling Druid in Fiesn
-- curly dirty blonde hair that's hanging down to their back, Hazel eyes, and Emerald Green skin
-- Is Witty and Presumptuous, and has Competition as their ideal
+- 2nd year Tiefling Bard in Fiesn
+- straight blue hair that's geled back, Red eyes, and Deep Blue skin
+- Is Skillful and Libidinous, and has Invention as their ideal
 
 ### Organizations
 ### Relationships
-[[Adrjia Lysanthir]]: partymate
-[[Estyn Rhangyl]]: partymate
+[[Liris Bhyrindaar]]: partymate
+[[Eva Reluvethel]]: partymate
 ### Stats
 ```statblock
 name: Caeleb Embrae
-stats: [9, 5, 12, 12, 14, 10]
+stats: [13, 14, 13, 9, 9, 14]
 ```

@@ -1,51 +1,55 @@
 ---
 birthday:
-  numeric: 4/27
-  written: 27th of Moradent
-bond: Those who fight beside me are those worth dying for.
-eyes: Brown
-flaw: I don't take kindly to some of the actions and motivations of the people of
-  this land, because these folk are different from me.
-guild: Fiesn
-hair: straight blonde hair that's parted to the right
-ideal: Ambition
+  numeric: 3/31
+  written: 31st of Melorent
+bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
+  eludes me.
+eyes: Hazel
+flaw: Unlocking an ancient mystery is worth the price of a civilization.
+guild: Alderden
+hair: straight lighter blonde hair that's braided with turquoise ribbon (med)
+ideal: Commonality
 name: Audree Dixon
 organizations: []
-partyID: 31
-race: Genasi
+partyID: 56
+race: Human
 relationships:
-- name: Kayla Kaminsky
+- name: Aryana Ahrendue
   type: partymate
-- name: Kunjal Iefyr
+- name: Alkindus Llamryl
   type: partymate
-skin: air
-spec: Ranger
+- name: Lea Nuvian
+  type: partymate
+skin: Fair
+spec: Monk
 stats:
-  cha: 9
+  cha: 13
   con: 11
   dex: 14
-  int: 11
-  str: 12
-  wis: 11
+  int: 10
+  str: 9
+  wis: 9
 track: Assault
-trait: I've lost too many friends, and I'm slow to make new ones.
-trait1: Meticulous
-trait2: Neglectful
-year: 8
+trait: I believe that anything worth doing is worth doing right. I can't help it-
+  I'm a perfectionist.
+trait1: Clean
+trait2: Licentious
+year: 1
 ---
 # Audree Dixon
 ---
 ### Description
-- 8th year Genasi Ranger in Fiesn
-- straight blonde hair that's parted to the right, Brown eyes, and air skin
-- Is Meticulous and Neglectful, and has Ambition as their ideal
+- 1st year Human Monk in Alderden
+- straight lighter blonde hair that's braided with turquoise ribbon (med), Hazel eyes, and Fair skin
+- Is Clean and Licentious, and has Commonality as their ideal
 
 ### Organizations
 ### Relationships
-[[Kayla Kaminsky]]: partymate
-[[Kunjal Iefyr]]: partymate
+[[Aryana Ahrendue]]: partymate
+[[Alkindus Llamryl]]: partymate
+[[Lea Nuvian]]: partymate
 ### Stats
 ```statblock
 name: Audree Dixon
-stats: [12, 14, 11, 11, 11, 9]
+stats: [9, 14, 11, 10, 9, 13]
 ```

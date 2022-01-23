@@ -1,54 +1,51 @@
 ---
 birthday:
-  numeric: 4/12
-  written: 12th of Moradent
-bond: Someone stole my precious instrument, and someday I'll get it back.
-eyes: Pale Green
-flaw: No one must ever learn that I once stole money from guild coffers.
-guild: Alderden
-hair: straight lighter blonde hair that's kept back by a blue headband
-ideal: Live and Let Live
+  numeric: 2/5
+  written: 5th of Corelent
+bond: My tools are symbols of my past life, and I carry them so that I will never
+  forget my roots.
+eyes: Pale Brown
+flaw: I judge others harshly, and myself even more severely.
+guild: Elkenval
+hair: frizzy auburn hair that's a tousled bed head
+ideal: Fun
 name: Nathan Laeroth
 organizations: []
-partyID: 43
-race: Half-Elf
+partyID: 64
+race: Gnome
 relationships:
-- name: Miglus Yrlissa
+- name: Jendrellian Webb
   type: partymate
-- name: Moki Aelynthi
+- name: Pike Tethir
   type: partymate
-- name: Shoulree Letryal
-  type: partymate
-skin: Dark Tan
-spec: Bard
+skin: Pale
+spec: Artificer
 stats:
-  cha: 13
-  con: 12
+  cha: 10
+  con: 14
   dex: 11
-  int: 13
-  str: 16
-  wis: 12
-track: Assault
-trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
-  accommodations.
-trait1: Sensitive
-trait2: Fawning
+  int: 18
+  str: 9
+  wis: 13
+track: Diplomacy
+trait: I'm a hopeless romantic, always searching for that "special someone."
+trait1: Sweet
+trait2: Wicked
 year: 1
 ---
 # Nathan Laeroth
 ---
 ### Description
-- 1st year Half-Elf Bard in Alderden
-- straight lighter blonde hair that's kept back by a blue headband, Pale Green eyes, and Dark Tan skin
-- Is Sensitive and Fawning, and has Live and Let Live as their ideal
+- 1st year Gnome Artificer in Elkenval
+- frizzy auburn hair that's a tousled bed head, Pale Brown eyes, and Pale skin
+- Is Sweet and Wicked, and has Fun as their ideal
 
 ### Organizations
 ### Relationships
-[[Miglus Yrlissa]]: partymate
-[[Moki Aelynthi]]: partymate
-[[Shoulree Letryal]]: partymate
+[[Jendrellian Webb]]: partymate
+[[Pike Tethir]]: partymate
 ### Stats
 ```statblock
 name: Nathan Laeroth
-stats: [16, 11, 12, 13, 12, 13]
+stats: [9, 11, 14, 18, 13, 10]
 ```

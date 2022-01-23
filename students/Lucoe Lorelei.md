@@ -1,54 +1,54 @@
 ---
 birthday:
-  numeric: 3/20
-  written: 20th of Melorent
-bond: I would do anything for the other members of my old troupe.
-eyes: Pale Blue
-flaw: Don't expect me to save those who can't save themselves. It is nature's way
-  that the strong thrive and the weak perish.
+  numeric: 6/24
+  written: 24th of Pelent
+bond: My life's work is a series of tomes related to a specific field of lore.
+eyes: Brown
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
 guild: Treskal
-hair: curly platinum hair that's braided with blue ribbon (med)
-ideal: Involvement
+hair: curly dark red hair that's put back in a long pony tail
+ideal: Creativity
 name: Lucoe Lorelei
 organizations: []
-partyID: 81
-race: Halfling
+partyID: 44
+race: Dwarf
 relationships:
-- name: Gerrimar Vulkor
+- name: Willam Ardryll
   type: partymate
-- name: Leya Escobar
+- name: Graisen Thalanil
   type: partymate
-- name: Aryana Ahrendue
+- name: Themistoklea Nevarth
   type: partymate
-skin: Tan
-spec: Sorcerer
+skin: Dark Tan
+spec: Barbarian
 stats:
-  cha: 15
-  con: 12
-  dex: 13
-  int: 9
-  str: 5
-  wis: 14
+  cha: 14
+  con: 13
+  dex: 7
+  int: 13
+  str: 16
+  wis: 9
 track: Exploration
-trait: I enjoy being strong and like breaking things.
-trait1: Rustic
-trait2: Oppressed
-year: 1
+trait: I'm full of witty aphorisms and have a proverb for every occasion.
+trait1: Modest
+trait2: Contemptible
+year: 2
 ---
 # Lucoe Lorelei
 ---
 ### Description
-- 1st year Halfling Sorcerer in Treskal
-- curly platinum hair that's braided with blue ribbon (med), Pale Blue eyes, and Tan skin
-- Is Rustic and Oppressed, and has Involvement as their ideal
+- 2nd year Dwarf Barbarian in Treskal
+- curly dark red hair that's put back in a long pony tail, Brown eyes, and Dark Tan skin
+- Is Modest and Contemptible, and has Creativity as their ideal
 
 ### Organizations
 ### Relationships
-[[Gerrimar Vulkor]]: partymate
-[[Leya Escobar]]: partymate
-[[Aryana Ahrendue]]: partymate
+[[Willam Ardryll]]: partymate
+[[Graisen Thalanil]]: partymate
+[[Themistoklea Nevarth]]: partymate
 ### Stats
 ```statblock
 name: Lucoe Lorelei
-stats: [5, 13, 12, 9, 14, 15]
+stats: [16, 7, 13, 13, 9, 14]
 ```

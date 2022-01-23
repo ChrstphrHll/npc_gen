@@ -1,53 +1,54 @@
 ---
 birthday:
-  numeric: 2/5
-  written: 5th of Corelent
-bond: I'm fascinated by the beauty and wonder of this new land.
-eyes: Amber
-flaw: I would kill to acquire a noble title.
+  numeric: 3/23
+  written: 23rd of Melorent
+bond: It is my duty to protect my students.
+eyes: Pale Blue
+flaw: When I see something valuable, I can't think about anything but how to steal
+  it.
 guild: Jettenia
-hair: curly blonde hair that's put up in a large bun
-ideal: Facilitation
+hair: straight black hair that's put back in a long pony tail
+ideal: Peace
 name: Jovos Seldanna
 organizations: []
-partyID: 46
-race: Halfling
+partyID: 28
+race: Half-Elf
 relationships:
-- name: Maarika Oncith
+- name: Railyn Retenia
   type: partymate
-- name: Alys Ylyndar
+- name: Cartyr Tamsin
   type: partymate
-- name: Brinna Muerlara
+- name: Jaxon Brindarry
   type: partymate
-skin: Brown
-spec: Wizard
+skin: Light Tan
+spec: Paladin
 stats:
-  cha: 7
-  con: 11
-  dex: 13
-  int: 16
-  str: 9
-  wis: 11
-track: Protection
-trait: Thinking is for other people. I prefer action.
-trait1: Solid
-trait2: Ruined
-year: 2
+  cha: 14
+  con: 13
+  dex: 7
+  int: 12
+  str: 15
+  wis: 15
+track: Assault
+trait: I ask a lot of questions.
+trait1: Suave
+trait2: Crude
+year: 3
 ---
 # Jovos Seldanna
 ---
 ### Description
-- 2nd year Halfling Wizard in Jettenia
-- curly blonde hair that's put up in a large bun, Amber eyes, and Brown skin
-- Is Solid and Ruined, and has Facilitation as their ideal
+- 3rd year Half-Elf Paladin in Jettenia
+- straight black hair that's put back in a long pony tail, Pale Blue eyes, and Light Tan skin
+- Is Suave and Crude, and has Peace as their ideal
 
 ### Organizations
 ### Relationships
-[[Maarika Oncith]]: partymate
-[[Alys Ylyndar]]: partymate
-[[Brinna Muerlara]]: partymate
+[[Railyn Retenia]]: partymate
+[[Cartyr Tamsin]]: partymate
+[[Jaxon Brindarry]]: partymate
 ### Stats
 ```statblock
 name: Jovos Seldanna
-stats: [9, 13, 11, 16, 11, 7]
+stats: [15, 7, 13, 12, 15, 14]
 ```
