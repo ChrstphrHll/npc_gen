@@ -1,36 +1,51 @@
 ---
 birthday:
-  numeric: 1/19
-  written: 19th of Corelent
-bond: One day I will return to my guild and prove that I am the greatest artisan of
-  them all.
-eyes: Amber
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Jettenia
-hair: straight lighter blonde hair that's parted to the left
-ideal: Personal Development
+  numeric: 8/25
+  written: 25th of Ravenent
+bond: It is my duty to protect my students.
+eyes: Hazel
+flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
+guild: Fiesn
+hair: curly dirty blonde hair that's hanging down to their back
+ideal: Competition
 name: Caeleb Embrae
 organizations: []
-partyID: 66
-race: Elf
+partyID: 50
+race: Tiefling
 relationships:
-- name: Senna Tryton
+- name: Adrjia Lysanthir
   type: partymate
-- name: Holys Hachaam
+- name: Estyn Rhangyl
   type: partymate
-skin: Light Tan
-spec: Artificer
+skin: Emerald Green
+spec: Druid
 stats:
-  cha: 8
+  cha: 10
   con: 12
-  dex: 8
-  int: 14
-  str: 17
-  wis: 10
-track: Protection
-trait: I have a lesson for every situation, drawn from observing nature.
-trait1: Unhurried
-trait2: Stern
-year: 1
+  dex: 5
+  int: 12
+  str: 9
+  wis: 14
+track: Assault
+trait: I begin or end my day with small traditional rituals that are unfamiliar to
+  those around me.
+trait1: Witty
+trait2: Presumptuous
+year: 3
 ---
+# Caeleb Embrae
+---
+### Description
+- 3rd year Tiefling Druid in Fiesn
+- curly dirty blonde hair that's hanging down to their back, Hazel eyes, and Emerald Green skin
+- Is Witty and Presumptuous, and has Competition as their ideal
+
+### Organizations
+### Relationships
+[[Adrjia Lysanthir]]: partymate
+[[Estyn Rhangyl]]: partymate
+### Stats
+```statblock
+name: Caeleb Embrae
+stats: [9, 5, 12, 12, 14, 10]
+```

@@ -1,37 +1,54 @@
 ---
 birthday:
-  numeric: 4/20
-  written: 20th of Iounent
-bond: I worked the land, I love the land, and I will protect the land.
-eyes: Purple
-flaw: Once someone questions my courage, I never back down no matter how dangerous
-  the situation.
-guild: Jettenia
-hair: smooth bronze guilded with silver
-ideal: Caring
+  numeric: 4/26
+  written: 26th of Moradent
+bond: I want to be famous, whatever it takes.
+eyes: Hazel
+flaw: I have a "tell" that reveals when I'm lying.
+guild: Treskal
+hair: curly auburn hair that's put back in a long pony tail
+ideal: Respect
 name: Tommos Morgan
 organizations: []
-partyID: 37
-race: Warforged
+partyID: 69
+race: Half-Elf
 relationships:
-- name: Nycola Eroan
+- name: Leonus Triktappic
   type: partymate
-- name: Brynn Opalul
+- name: Helera Urkensvall
   type: partymate
-- name: Jothen Elway
+- name: Avaery Klaern
   type: partymate
-skin: bronze
-spec: Paladin
+skin: Light
+spec: Monk
 stats:
-  cha: 11
+  cha: 9
   con: 12
-  dex: 15
-  int: 10
-  str: 15
-  wis: 9
-track: Diplomacy
-trait: Whenever I come to a new place, I collect local rumors and spread gossip.
-trait1: High-spirited
-trait2: Tardy
-year: 7
+  dex: 14
+  int: 14
+  str: 12
+  wis: 13
+track: Assault
+trait: The first thing I do in a new place is note the locations of everything valuable-
+  or where such things could be hidden.
+trait1: Dependable
+trait2: Complaining
+year: 1
 ---
+# Tommos Morgan
+---
+### Description
+- 1st year Half-Elf Monk in Treskal
+- curly auburn hair that's put back in a long pony tail, Hazel eyes, and Light skin
+- Is Dependable and Complaining, and has Respect as their ideal
+
+### Organizations
+### Relationships
+[[Leonus Triktappic]]: partymate
+[[Helera Urkensvall]]: partymate
+[[Avaery Klaern]]: partymate
+### Stats
+```statblock
+name: Tommos Morgan
+stats: [12, 14, 12, 14, 13, 9]
+```

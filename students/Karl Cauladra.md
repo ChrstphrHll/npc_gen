@@ -1,37 +1,55 @@
 ---
 birthday:
-  numeric: 1/22
-  written: 22nd of Corelent
-bond: I will do anything to protect the temple where I served.
-eyes: Pale Gray
-flaw: I consider the adherents of other gods to be deluded innocents at best, or ignorant
-  fools at worst.
-guild: Fiesn
-hair: wavy dark red hair that's braided with pink ribbon (med)
-ideal: Wisdom
+  numeric: 4/17
+  written: 17th of Moradent
+bond: I come from a noble family, and one day I'll reclaim my lands and title from
+  those who stole them from me.
+eyes: Green
+flaw: I will never fully trust anyone other than myself.
+guild: Jettenia
+hair: wavy brunette hair that's a tousled bed head
+ideal: Prosperity
 name: Karl Cauladra
 organizations: []
-partyID: 73
-race: Half-Orc
+partyID: 36
+race: Half-Elf
 relationships:
-- name: Tisette Bender
+- name: Evyn Fenton
   type: partymate
-- name: Eva Reluvethel
+- name: Gianna Rhistel
   type: partymate
-- name: Iaen Dannyd
+- name: Evylen Nese
   type: partymate
-skin: Green Blue
-spec: Monk
+skin: Light Tan
+spec: Rouge
 stats:
-  cha: 14
-  con: 13
-  dex: 16
-  int: 14
-  str: 12
+  cha: 10
+  con: 12
+  dex: 15
+  int: 10
+  str: 16
   wis: 13
 track: Exploration
-trait: I always have a plan for what to do when things go wrong.
-trait1: Ordinary
-trait2: Solemn
-year: 1
+trait: I am incredibly slow to trust. Those who seem the fairest often have the most
+  to hide.
+trait1: Friendly
+trait2: Extravagant
+year: 4
 ---
+# Karl Cauladra
+---
+### Description
+- 4th year Half-Elf Rouge in Jettenia
+- wavy brunette hair that's a tousled bed head, Green eyes, and Light Tan skin
+- Is Friendly and Extravagant, and has Prosperity as their ideal
+
+### Organizations
+### Relationships
+[[Evyn Fenton]]: partymate
+[[Gianna Rhistel]]: partymate
+[[Evylen Nese]]: partymate
+### Stats
+```statblock
+name: Karl Cauladra
+stats: [16, 15, 12, 10, 13, 10]
+```

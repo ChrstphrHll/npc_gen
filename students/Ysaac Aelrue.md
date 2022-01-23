@@ -1,36 +1,58 @@
 ---
 birthday:
-  numeric: 3/29
-  written: 29th of Moradent
-bond: Someone stole my precious instrument, and someday I'll get it back.
+  numeric: 8/4
+  written: 4th of Ravenent
+bond: My family, clan, or tribe is the most important thing in my life, even when
+  they are far from me.
 eyes: Purple
-flaw: Don't expect me to save those who can't save themselves. It is nature's way
-  that the strong thrive and the weak perish.
-guild: Fiesn
-hair: short spines
-ideal: Pride
+flaw: I'm a sucker for a pretty face.
+guild: Jettenia
+hair: wavy green hair that's parted to the right
+ideal: Security
 name: Ysaac Aelrue
 organizations: []
-partyID: 67
-race: Dragonborn
+partyID: 74
+race: Tiefling
 relationships:
-- name: Tylor Llewellenar
+- name: Tilo Connak
   type: partymate
-- name: Pike Tethir
+- name: Hagar Sakrattars
   type: partymate
-skin: gold
-spec: Wizard
+- name: Grace Festus
+  type: partymate
+- name: Juppar Kershaw
+  type: partymate
+skin: Pale Yellow
+spec: Ranger
 stats:
   cha: 11
-  con: 15
-  dex: 13
-  int: 15
-  str: 8
-  wis: 12
-track: Exploration
-trait: The first thing I do in a new place is note the locations of everything valuable-
-  or where such things could be hidden.
-trait1: Neat
-trait2: Quirky
-year: 7
+  con: 9
+  dex: 17
+  int: 11
+  str: 7
+  wis: 11
+track: Diplomacy
+trait: I've read every book in the world's greatest libraries - or I like to boast
+  that I have.
+trait1: Sociable
+trait2: Evil
+year: 3
 ---
+# Ysaac Aelrue
+---
+### Description
+- 3rd year Tiefling Ranger in Jettenia
+- wavy green hair that's parted to the right, Purple eyes, and Pale Yellow skin
+- Is Sociable and Evil, and has Security as their ideal
+
+### Organizations
+### Relationships
+[[Tilo Connak]]: partymate
+[[Hagar Sakrattars]]: partymate
+[[Grace Festus]]: partymate
+[[Juppar Kershaw]]: partymate
+### Stats
+```statblock
+name: Ysaac Aelrue
+stats: [7, 17, 9, 11, 11, 11]
+```

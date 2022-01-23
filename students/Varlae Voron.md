@@ -1,37 +1,48 @@
 ---
 birthday:
-  numeric: 7/27
-  written: 27th of Ravenent
-bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
-eyes: Emerald Green
-flaw: I have a "tell" that reveals when I'm lying.
-guild: Alderden
-hair: straight white hair that's put back in a short pony tail
-ideal: Optimism
+  numeric: 1/20
+  written: 20th of Avanent
+bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
+eyes: Red
+flaw: I turn tail and run when things look bad.
+guild: Elkenval
+hair: straight auburn hair that's put up in a large bun
+ideal: Live and Let Live
 name: Varlae Voron
 organizations: []
-partyID: 74
-race: Aasimar
+partyID: 10
+race: Tiefling
 relationships:
-- name: Kloya Kershaw
+- name: Kazoan Windward
   type: partymate
-- name: Goshwa Khiipaera
-  type: partymate
-- name: Iamus Aneirin
-  type: partymate
-skin: Pale
-spec: Bard
+skin: Pale Blue
+spec: Wizard
 stats:
-  cha: 17
-  con: 9
-  dex: 14
-  int: 12
-  str: 15
-  wis: 5
-track: Assault
-trait: I believe that anything worth doing is worth doing right. I can't help it-
-  I'm a perfectionist.
-trait1: Ethical
-trait2: Aggressive
+  cha: 14
+  con: 11
+  dex: 13
+  int: 16
+  str: 10
+  wis: 14
+track: Protection
+trait: When I set my mind to something, I follow through no matter what gets in my
+  way.
+trait1: Crisp
+trait2: Conventional
 year: 1
 ---
+# Varlae Voron
+---
+### Description
+- 1st year Tiefling Wizard in Elkenval
+- straight auburn hair that's put up in a large bun, Red eyes, and Pale Blue skin
+- Is Crisp and Conventional, and has Live and Let Live as their ideal
+
+### Organizations
+### Relationships
+[[Kazoan Windward]]: partymate
+### Stats
+```statblock
+name: Varlae Voron
+stats: [10, 13, 11, 16, 14, 14]
+```

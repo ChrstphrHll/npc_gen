@@ -1,35 +1,56 @@
 ---
 birthday:
-  numeric: 5/29
-  written: 29th of Pelent
-bond: No one else should have to endure the hardships I've been through.
-eyes: Sea Green
-flaw: Unlocking an ancient mystery is worth the price of a civilization.
-guild: Treskal
-hair: curly lighter blonde hair that's put back in a long pony tail
-ideal: Kindness
+  numeric: 1/1
+  written: 1st of Avanent
+bond: I will someday get revenge on the corrupt temple hierarchy who branded me a
+  heretic.
+eyes: Hazel
+flaw: When I see something valuable, I can't think about anything but how to steal
+  it.
+guild: Jettenia
+hair: curly grey hair that's hanging down to their legs
+ideal: Balance
 name: Brannos Bellas
 organizations: []
-partyID: 41
+partyID: 8
 race: Dwarf
 relationships:
-- name: Lea Nuvian
+- name: Jamye Napraeleon
   type: partymate
-- name: Lanalia Belt
+- name: Leja Talila
   type: partymate
-skin: Fair
-spec: Fighter
+- name: Thenol Shialaevar
+  type: partymate
+skin: Brown
+spec: Rouge
 stats:
-  cha: 12
-  con: 16
-  dex: 10
-  int: 12
-  str: 12
-  wis: 12
-track: Protection
-trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
-  breaking them.
-trait1: Self-conscious
-trait2: Businesslike
-year: 2
+  cha: 11
+  con: 15
+  dex: 15
+  int: 15
+  str: 16
+  wis: 15
+track: Assault
+trait: I'm well known for my work, and I want to make sure everyone appreciates it.
+  I'm always taken aback when people haven't heard of me.
+trait1: Uncomplaining
+trait2: Blowhard
+year: 1
 ---
+# Brannos Bellas
+---
+### Description
+- 1st year Dwarf Rouge in Jettenia
+- curly grey hair that's hanging down to their legs, Hazel eyes, and Brown skin
+- Is Uncomplaining and Blowhard, and has Balance as their ideal
+
+### Organizations
+### Relationships
+[[Jamye Napraeleon]]: partymate
+[[Leja Talila]]: partymate
+[[Thenol Shialaevar]]: partymate
+### Stats
+```statblock
+name: Brannos Bellas
+stats: [16, 15, 15, 15, 15, 11]
+```

@@ -1,39 +1,47 @@
 ---
 birthday:
-  numeric: 2/4
-  written: 4th of Melorent
-bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
-eyes: Emerald Green
-flaw: I overlook obvious solutions in favor of complicated ones.
-guild: Jettenia
-hair: wavy auburn hair that's geled back
-ideal: Stoicism
+  numeric: 1/25
+  written: 25th of Avanent
+bond: I'll always remember my first ship.
+eyes: Amber
+flaw: I can't keep a secret to save my life, or anyone else's.
+guild: Treskal
+hair: wavy grey hair that's put back in a short pony tail
+ideal: Code
 name: Jaedyn Arbane
 organizations: []
-partyID: 77
-race: Half-Elf
+partyID: 79
+race: Halfling
 relationships:
-- name: Ezros Laerdya
+- name: Yakob Lydialeera
   type: partymate
-- name: Tylus Ytharra
-  type: partymate
-- name: Allisa Iahalae
-  type: partymate
-- name: Lichie Halliwell
-  type: partymate
-skin: Tan
-spec: Fighter
+skin: Light
+spec: Monk
 stats:
-  cha: 9
+  cha: 16
   con: 11
-  dex: 10
+  dex: 16
   int: 12
   str: 13
-  wis: 11
-track: Protection
-trait: I begin or end my day with small traditional rituals that are unfamiliar to
-  those around me.
-trait1: Wise
-trait2: Private
-year: 3
+  wis: 15
+track: Diplomacy
+trait: I am working on a grand philosophical theory and love sharing my ideas.
+trait1: Authentic
+trait2: Demanding
+year: 8
 ---
+# Jaedyn Arbane
+---
+### Description
+- 8th year Halfling Monk in Treskal
+- wavy grey hair that's put back in a short pony tail, Amber eyes, and Light skin
+- Is Authentic and Demanding, and has Code as their ideal
+
+### Organizations
+### Relationships
+[[Yakob Lydialeera]]: partymate
+### Stats
+```statblock
+name: Jaedyn Arbane
+stats: [13, 16, 11, 12, 15, 16]
+```

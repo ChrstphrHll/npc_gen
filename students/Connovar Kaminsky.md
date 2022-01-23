@@ -1,38 +1,51 @@
 ---
 birthday:
-  numeric: 0/5
-  written: 5th of Avanent
-bond: I will become the greatest thief that ever lived.
-eyes: Purple
-flaw: My hatred of my enemies is blind and unreasoning.
-guild: Alderden
-hair: curly strawberry blond hair that's hanging down to their back
-ideal: Honor
+  numeric: 7/22
+  written: 22nd of Korent
+bond: I'll never forget the crushing defeat my company suffered or the enemies who
+  dealt it.
+eyes: Pale Brown
+flaw: I overlook obvious solutions in favor of complicated ones.
+guild: Jettenia
+hair: straight brunette hair that's kept back by a pink headband
+ideal: Speed
 name: Connovar Kaminsky
 organizations: []
-partyID: 17
-race: Human
+partyID: 86
+race: Half-Elf
 relationships:
-- name: Barak Felaern
+- name: Lichie Halliwell
   type: partymate
-- name: Rianna Belt
+- name: Maia Ashsorrow
   type: partymate
-- name: Jendrellian Webb
-  type: partymate
-- name: Jamye Napraeleon
-  type: partymate
-skin: Dark Tan
-spec: Artificer
+skin: Fair
+spec: Cleric
 stats:
-  cha: 14
-  con: 11
-  dex: 9
-  int: 17
+  cha: 10
+  con: 18
+  dex: 10
+  int: 9
   str: 10
   wis: 14
-track: Protection
-trait: I feel tremendous empathy for all who suffer.
-trait1: Moralistic
-trait2: Excitable
-year: 2
+track: Exploration
+trait: I was, in fact, raised by wolves.
+trait1: Earthy
+trait2: Rigid
+year: 1
 ---
+# Connovar Kaminsky
+---
+### Description
+- 1st year Half-Elf Cleric in Jettenia
+- straight brunette hair that's kept back by a pink headband, Pale Brown eyes, and Fair skin
+- Is Earthy and Rigid, and has Speed as their ideal
+
+### Organizations
+### Relationships
+[[Lichie Halliwell]]: partymate
+[[Maia Ashsorrow]]: partymate
+### Stats
+```statblock
+name: Connovar Kaminsky
+stats: [10, 10, 18, 9, 14, 10]
+```

@@ -1,38 +1,52 @@
 ---
 birthday:
-  numeric: 6/24
-  written: 24th of Korent
-bond: Someone I loved died because of a mistake I made. That will never happen again.
-eyes: Yellow
-flaw: I am easily distracted by the promise of information.
-guild: Fiesn
-hair: straight brunette hair that's done up in a top knot
-ideal: Independence
+  numeric: 3/12
+  written: 12th of Melorent
+bond: I come from a noble family, and one day I'll reclaim my lands and title from
+  those who stole them from me.
+eyes: Brown
+flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
+  trouble.
+guild: Burk
+hair: wavy strawberry blond hair that's kept back by a blue headband
+ideal: Teamwork
 name: Santaegus Etter
 organizations: []
-partyID: 51
-race: Tiefling
+partyID: 83
+race: Half-Elf
 relationships:
-- name: Shinare Bersa
+- name: Lanalia Belt
   type: partymate
-- name: Gianesia Onvyr
+- name: Asmiak Seirye
   type: partymate
-- name: Mateos Elanil
-  type: partymate
-- name: Shike Thalaera
-  type: partymate
-skin: Orange
-spec: Paladin
+skin: Light Tan
+spec: Fighter
 stats:
-  cha: 18
-  con: 10
-  dex: 9
-  int: 8
-  str: 11
-  wis: 11
+  cha: 11
+  con: 6
+  dex: 17
+  int: 13
+  str: 14
+  wis: 10
 track: Protection
-trait: I like to squeeze into small places where no one else can get to me.
-trait1: Cheerful
-trait2: Naive
-year: 8
+trait: I'm full of witty aphorisms and have a proverb for every occasion.
+trait1: Casual
+trait2: Weak-willed
+year: 2
 ---
+# Santaegus Etter
+---
+### Description
+- 2nd year Half-Elf Fighter in Burk
+- wavy strawberry blond hair that's kept back by a blue headband, Brown eyes, and Light Tan skin
+- Is Casual and Weak-willed, and has Teamwork as their ideal
+
+### Organizations
+### Relationships
+[[Lanalia Belt]]: partymate
+[[Asmiak Seirye]]: partymate
+### Stats
+```statblock
+name: Santaegus Etter
+stats: [14, 17, 6, 13, 10, 11]
+```

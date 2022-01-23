@@ -1,33 +1,51 @@
 ---
 birthday:
-  numeric: 7/27
-  written: 27th of Ravenent
-bond: I come from a noble family, and one day I'll reclaim my lands and title from
-  those who stole them from me.
-eyes: Orange
-flaw: No one must ever learn that I once stole money from guild coffers.
-guild: Burk
-hair: wavy black hair that's loose around the shoulders
-ideal: Power
+  numeric: 4/5
+  written: 5th of Moradent
+bond: I created a great work for someone, and then found them unworthy to receive
+  it. I'm still looking for someone worthy.
+eyes: Gray
+flaw: I judge others harshly, and myself even more severely.
+guild: Fiesn
+hair: wavy dirty blonde hair that's braided with blue ribbon (long)
+ideal: Grace
 name: Coriss Biafyndar
 organizations: []
 partyID: 1
-race: Triton
+race: Elf
 relationships:
-- name: Handyr Letryal
+- name: Dejana Keller
   type: partymate
-skin: Emerald Green
+- name: Jacob Jorildyn
+  type: partymate
+skin: Fair
 spec: Sorcerer
 stats:
-  cha: 16
-  con: 10
-  dex: 15
-  int: 14
+  cha: 17
+  con: 14
+  dex: 12
+  int: 12
   str: 11
-  wis: 15
+  wis: 11
 track: Protection
-trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
-trait1: Dignified
-trait2: Harsh
+trait: My language is as foul as an otyugh nest.
+trait1: Characterful
+trait2: Determined
 year: 5
 ---
+# Coriss Biafyndar
+---
+### Description
+- 5th year Elf Sorcerer in Fiesn
+- wavy dirty blonde hair that's braided with blue ribbon (long), Gray eyes, and Fair skin
+- Is Characterful and Determined, and has Grace as their ideal
+
+### Organizations
+### Relationships
+[[Dejana Keller]]: partymate
+[[Jacob Jorildyn]]: partymate
+### Stats
+```statblock
+name: Coriss Biafyndar
+stats: [11, 12, 14, 12, 11, 17]
+```

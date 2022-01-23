@@ -1,39 +1,55 @@
 ---
 birthday:
-  numeric: 1/11
-  written: 11th of Corelent
-bond: I have a family, but I have no idea where they are. One day, I hope to see them
-  again.
+  numeric: 4/3
+  written: 3rd of Moradent
+bond: My honor is my life.
 eyes: Pale Blue
-flaw: I am secretly (or not so secretly) convinced of the superiority of my own culture
-  over that of this foreign land.
+flaw: By my words and actions, I often bring shame to my family.By my words and actions,
+  I often bring shame to my family.
 guild: Burk
-hair: straight platinum hair that's loose around the shoulders
+hair: wavy strawberry blond hair that's loose around the shoulders
 ideal: Friendship
 name: Hessos Adorellan
 organizations: []
-partyID: 83
-race: Human
+partyID: 22
+race: Elf
 relationships:
-- name: Graisen Thalanil
+- name: Lenn Schimae
   type: partymate
-- name: Valygar Lyklor
+- name: Valia Esyae
   type: partymate
-- name: Thongar Fairchild
+- name: Lynx Galather
   type: partymate
 skin: Brown
-spec: Sorcerer
+spec: Rouge
 stats:
-  cha: 12
-  con: 9
-  dex: 6
-  int: 13
-  str: 9
-  wis: 12
+  cha: 13
+  con: 13
+  dex: 17
+  int: 12
+  str: 13
+  wis: 10
 track: Assault
-trait: When I set my mind to something, I follow through no matter what gets in my
-  way.
-trait1: Undogmatic
-trait2: Snobbish
-year: 4
+trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
+  bundle in my arms.
+trait1: Absentminded
+trait2: Solitary
+year: 7
 ---
+# Hessos Adorellan
+---
+### Description
+- 7th year Elf Rouge in Burk
+- wavy strawberry blond hair that's loose around the shoulders, Pale Blue eyes, and Brown skin
+- Is Absentminded and Solitary, and has Friendship as their ideal
+
+### Organizations
+### Relationships
+[[Lenn Schimae]]: partymate
+[[Valia Esyae]]: partymate
+[[Lynx Galather]]: partymate
+### Stats
+```statblock
+name: Hessos Adorellan
+stats: [13, 17, 13, 12, 10, 13]
+```

@@ -1,36 +1,53 @@
 ---
 birthday:
-  numeric: 4/13
-  written: 13th of Iounent
-bond: I want to be famous, whatever it takes.
-eyes: Purple
-flaw: I'm convinced that no one could ever fool me the way I fool others.
-guild: Burk
-hair: curly red hair that's braided with blue ribbon (long)
-ideal: Gratitude
+  numeric: 3/31
+  written: 31st of Melorent
+bond: I will face any challenge to win the approval of my family.
+eyes: Brown
+flaw: I have a "tell" that reveals when I'm lying.
+guild: Treskal
+hair: curly grey hair that's loose around the shoulders
+ideal: Might
 name: Graisen Thalanil
 organizations: []
-partyID: 83
-race: Halfling
+partyID: 53
+race: Dwarf
 relationships:
-- name: Valygar Lyklor
+- name: Kloya Kershaw
   type: partymate
-- name: Hessos Adorellan
+- name: Tylus Ytharra
   type: partymate
-- name: Thongar Fairchild
+- name: Athyn Urddusk
   type: partymate
-skin: Light Tan
-spec: Sorcerer
+skin: Tan
+spec: Ranger
 stats:
-  cha: 18
-  con: 13
-  dex: 12
-  int: 12
-  str: 9
+  cha: 11
+  con: 7
+  dex: 15
+  int: 11
+  str: 13
   wis: 12
 track: Assault
-trait: The best way to get me to do something is to tell me I can't do it.
-trait1: Conforming
-trait2: Bewildered
-year: 4
+trait: I was, in fact, raised by wolves.
+trait1: Busy
+trait2: Crass
+year: 2
 ---
+# Graisen Thalanil
+---
+### Description
+- 2nd year Dwarf Ranger in Treskal
+- curly grey hair that's loose around the shoulders, Brown eyes, and Tan skin
+- Is Busy and Crass, and has Might as their ideal
+
+### Organizations
+### Relationships
+[[Kloya Kershaw]]: partymate
+[[Tylus Ytharra]]: partymate
+[[Athyn Urddusk]]: partymate
+### Stats
+```statblock
+name: Graisen Thalanil
+stats: [13, 15, 7, 11, 12, 11]
+```

@@ -1,37 +1,54 @@
 ---
 birthday:
-  numeric: 3/21
-  written: 21st of Moradent
-bond: I escaped my life of poverty by robbing an important person, and I'm wanted
-  for it.
-eyes: Deep Blue
-flaw: Despite my best efforts, I am unreliable to my friends.
-guild: Elkenval
-hair: frills
-ideal: Generosity
+  numeric: 7/24
+  written: 24th of Korent
+bond: I will bring terrible wrath down on the evildoers who destroyed my homeland.
+eyes: Aqua
+flaw: I speak without really thinking through my words, invariably insulting others.
+guild: Treskal
+hair: straight red hair that's pulled to the side and buzzed on the right
+ideal: Entertain
 name: Cerridwen Durothil
 organizations: []
-partyID: 40
-race: Dragonborn
+partyID: 76
+race: Tiefling
 relationships:
-- name: Meira Nuvian
+- name: Grassa Ashbluff
   type: partymate
-- name: Kembley Ralnor
+- name: Alonnos Xanotter
   type: partymate
-- name: Shenai Inqoul
+- name: Lincon Nylaathria
   type: partymate
-skin: white
-spec: Fighter
+skin: Pale Brown
+spec: Sorcerer
 stats:
-  cha: 11
-  con: 15
-  dex: 11
-  int: 17
-  str: 17
-  wis: 7
-track: Assault
-trait: I take great pains to always look my best and follow the latest fashions.
-trait1: Complex
-trait2: Deceitful
-year: 1
+  cha: 17
+  con: 11
+  dex: 6
+  int: 11
+  str: 11
+  wis: 13
+track: Exploration
+trait: I idolize a particular hero of my faith, and constantly refer to that person's
+  deeds and example.
+trait1: Active
+trait2: Barbaric
+year: 2
 ---
+# Cerridwen Durothil
+---
+### Description
+- 2nd year Tiefling Sorcerer in Treskal
+- straight red hair that's pulled to the side and buzzed on the right, Aqua eyes, and Pale Brown skin
+- Is Active and Barbaric, and has Entertain as their ideal
+
+### Organizations
+### Relationships
+[[Grassa Ashbluff]]: partymate
+[[Alonnos Xanotter]]: partymate
+[[Lincon Nylaathria]]: partymate
+### Stats
+```statblock
+name: Cerridwen Durothil
+stats: [11, 6, 11, 11, 13, 17]
+```

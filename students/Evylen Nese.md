@@ -1,35 +1,55 @@
 ---
 birthday:
-  numeric: 5/32
-  written: 32nd of Pelent
-bond: Someone saved my life on the battlefield. To this day, I will never leave a
-  friend behind.
-eyes: Red
-flaw: In fact, the world does revolve around me.
-guild: Elkenval
-hair: curly red hair that's hanging down to their legs
-ideal: Dishonesty
+  numeric: 8/11
+  written: 11th of Ravenent
+bond: I owe my life to the priest who took me in when my parents died.
+eyes: Pale Gray
+flaw: When I see something valuable, I can't think about anything but how to steal
+  it.
+guild: Jettenia
+hair: wavy dark red hair that's parted to the left
+ideal: Change
 name: Evylen Nese
 organizations: []
-partyID: 29
-race: Dwarf
+partyID: 36
+race: Gnome
 relationships:
-- name: Tadita Edraele
+- name: Karl Cauladra
   type: partymate
-- name: Vila Tassarion
+- name: Evyn Fenton
   type: partymate
-skin: Tan
-spec: Artificer
+- name: Gianna Rhistel
+  type: partymate
+skin: Pale
+spec: Fighter
 stats:
-  cha: 10
+  cha: 16
   con: 13
-  dex: 5
-  int: 14
-  str: 12
+  dex: 18
+  int: 13
+  str: 10
   wis: 14
-track: Assault
-trait: I'm oblivious to etiquette and social expectations.
-trait1: Communicative
-trait2: Outspoken
-year: 3
+track: Protection
+trait: I don't part with my money easily and will haggle tirelessly to get the best
+  deal possible.
+trait1: Trusting
+trait2: Obsessive
+year: 4
 ---
+# Evylen Nese
+---
+### Description
+- 4th year Gnome Fighter in Jettenia
+- wavy dark red hair that's parted to the left, Pale Gray eyes, and Pale skin
+- Is Trusting and Obsessive, and has Change as their ideal
+
+### Organizations
+### Relationships
+[[Karl Cauladra]]: partymate
+[[Evyn Fenton]]: partymate
+[[Gianna Rhistel]]: partymate
+### Stats
+```statblock
+name: Evylen Nese
+stats: [10, 18, 13, 13, 14, 16]
+```

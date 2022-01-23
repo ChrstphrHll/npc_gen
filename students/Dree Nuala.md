@@ -1,36 +1,50 @@
 ---
 birthday:
-  numeric: 3/22
-  written: 22nd of Moradent
-bond: I am in love with the heir of a family that my family despises.
-eyes: Purple
-flaw: Now that I've returned to the world, I enjoy its delights a little too much.
-guild: Treskal
-hair: curly grey hair that's braided with green ribbon (med)
-ideal: Speed
+  numeric: 4/8
+  written: 8th of Moradent
+bond: No one else should have to endure the hardships I've been through.
+eyes: Blue
+flaw: I will never fully trust anyone other than myself.
+guild: Fiesn
+hair: wavy platinum hair that's kept back by a blue headband
+ideal: Personal Development
 name: Dree Nuala
 organizations: []
-partyID: 6
-race: Genasi
+partyID: 12
+race: Half-Elf
 relationships:
-- name: Giacomo Edraele
+- name: Aidyn Glynnii
   type: partymate
-- name: Robett Grell
+- name: Delja Iefyr
   type: partymate
-- name: Oyara Faoraar
-  type: partymate
-skin: water
-spec: Wizard
+skin: Dark Tan
+spec: Fighter
 stats:
-  cha: 13
-  con: 10
-  dex: 6
-  int: 15
-  str: 6
+  cha: 14
+  con: 13
+  dex: 17
+  int: 12
+  str: 12
   wis: 12
 track: Exploration
-trait: I feel tremendous empathy for all who suffer.
-trait1: Sincere
-trait2: Absentminded
-year: 2
+trait: I don't pay attention to the risks in a situation. Never tell me the odds.
+trait1: Meticulous
+trait2: Touchy
+year: 8
 ---
+# Dree Nuala
+---
+### Description
+- 8th year Half-Elf Fighter in Fiesn
+- wavy platinum hair that's kept back by a blue headband, Blue eyes, and Dark Tan skin
+- Is Meticulous and Touchy, and has Personal Development as their ideal
+
+### Organizations
+### Relationships
+[[Aidyn Glynnii]]: partymate
+[[Delja Iefyr]]: partymate
+### Stats
+```statblock
+name: Dree Nuala
+stats: [12, 17, 13, 12, 12, 14]
+```

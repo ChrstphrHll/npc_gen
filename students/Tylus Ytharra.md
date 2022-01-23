@@ -1,38 +1,54 @@
 ---
 birthday:
-  numeric: 6/9
-  written: 9th of Korent
-bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
-eyes: Aqua
-flaw: Once I start drinking, it's hard for me to stop.
-guild: Jettenia
-hair: wavy brunette hair that's braided with green ribbon (long)
-ideal: Nature
+  numeric: 7/6
+  written: 6th of Korent
+bond: I suffer awful visions of a coming disaster and will do anything to prevent
+  it.
+eyes: Gray
+flaw: I have a weakness for the exotic beauty of the people of these lands.
+guild: Treskal
+hair: wavy dirty blonde hair that's parted to the side, slightly obscuring an eye
+ideal: Goodness
 name: Tylus Ytharra
 organizations: []
-partyID: 77
-race: Elf
+partyID: 53
+race: Half-Orc
 relationships:
-- name: Ezros Laerdya
+- name: Kloya Kershaw
   type: partymate
-- name: Jaedyn Arbane
+- name: Athyn Urddusk
   type: partymate
-- name: Allisa Iahalae
+- name: Graisen Thalanil
   type: partymate
-- name: Lichie Halliwell
-  type: partymate
-skin: Light Tan
-spec: Monk
+skin: Pale Green
+spec: Druid
 stats:
-  cha: 16
-  con: 16
-  dex: 17
+  cha: 15
+  con: 15
+  dex: 13
   int: 10
-  str: 10
-  wis: 16
-track: Assault
-trait: I have a crude sense of humor.
-trait1: Brave
-trait2: Hateful
-year: 3
+  str: 15
+  wis: 15
+track: Exploration
+trait: I think anyone who's nice to me is hiding evil intent.
+trait1: Open-minded
+trait2: Unimpressive
+year: 2
 ---
+# Tylus Ytharra
+---
+### Description
+- 2nd year Half-Orc Druid in Treskal
+- wavy dirty blonde hair that's parted to the side, slightly obscuring an eye, Gray eyes, and Pale Green skin
+- Is Open-minded and Unimpressive, and has Goodness as their ideal
+
+### Organizations
+### Relationships
+[[Kloya Kershaw]]: partymate
+[[Athyn Urddusk]]: partymate
+[[Graisen Thalanil]]: partymate
+### Stats
+```statblock
+name: Tylus Ytharra
+stats: [15, 13, 15, 10, 15, 15]
+```

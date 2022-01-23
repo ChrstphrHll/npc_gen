@@ -1,36 +1,54 @@
 ---
 birthday:
-  numeric: 2/21
-  written: 21st of Melorent
-bond: I fight for those who cannot fight for themselves.
-eyes: Purple
-flaw: I follow orders, even if I think they're wrong.
+  numeric: 5/25
+  written: 25th of Iounent
+bond: Somewhere out there, I have a child who doesn't know me. I'm making the world
+  better for him or her.
+eyes: Green
+flaw: It's not stealing if I need it more than someone else.
 guild: Jettenia
-hair: curly blonde hair that's braided with turquoise ribbon (med)
-ideal: Spiritualism
+hair: wavy lighter blonde hair that's a tousled bed head
+ideal: Code
 name: Alys Ylyndar
 organizations: []
-partyID: 27
-race: Gnome
+partyID: 46
+race: Human
 relationships:
-- name: Isaias Vaalyun
+- name: Maarika Oncith
   type: partymate
-- name: Taewen Llamryl
+- name: Jovos Seldanna
   type: partymate
-- name: Es'beth Yesheln
+- name: Brinna Muerlara
   type: partymate
-skin: Brown
-spec: Ranger
+skin: Light
+spec: Monk
 stats:
-  cha: 15
-  con: 15
-  dex: 16
-  int: 10
-  str: 10
-  wis: 8
-track: Assault
-trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
-trait1: Jolly
-trait2: Authoritarian
-year: 4
+  cha: 11
+  con: 14
+  dex: 14
+  int: 11
+  str: 13
+  wis: 11
+track: Exploration
+trait: I feel tremendous empathy for all who suffer.
+trait1: Inventive
+trait2: Freewheeling
+year: 2
 ---
+# Alys Ylyndar
+---
+### Description
+- 2nd year Human Monk in Jettenia
+- wavy lighter blonde hair that's a tousled bed head, Green eyes, and Light skin
+- Is Inventive and Freewheeling, and has Code as their ideal
+
+### Organizations
+### Relationships
+[[Maarika Oncith]]: partymate
+[[Jovos Seldanna]]: partymate
+[[Brinna Muerlara]]: partymate
+### Stats
+```statblock
+name: Alys Ylyndar
+stats: [13, 14, 14, 11, 11, 11]
+```

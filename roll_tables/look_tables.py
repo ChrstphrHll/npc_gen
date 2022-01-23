@@ -171,7 +171,7 @@ def get_eyes(race):
         "Dragonborn",
     ]
 
-    selection_list = eye_colors
+    selection_list = eye_colors.copy()
 
     if race in colorful_races:
         selection_list += rare_eye_colors

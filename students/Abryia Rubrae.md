@@ -1,37 +1,54 @@
 ---
 birthday:
-  numeric: 2/23
-  written: 23rd of Melorent
-bond: I escaped my life of poverty by robbing an important person, and I'm wanted
-  for it.
-eyes: Orange
-flaw: I can't resist a pretty face.
-guild: Treskal
-hair: curly pink hair that's a tousled bed head
-ideal: Success
+  numeric: 7/32
+  written: 32nd of Korent
+bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
+eyes: Deep Blue
+flaw: I let my need to win arguments overshadow friendships and harmony.
+guild: Fiesn
+hair: curly lighter blonde hair that's kept back by a green headband
+ideal: Effectiveness
 name: Abryia Rubrae
 organizations: []
-partyID: 24
-race: Firbolg
+partyID: 23
+race: Triton
 relationships:
-- name: Rossan Jonik
+- name: Wulfe Galan
   type: partymate
-- name: Lyonus Ioelena
+- name: Hanna Arkhun
   type: partymate
-- name: Gerrimar Vulkor
+- name: Melcyn Taeral
   type: partymate
-skin: Pale Blue
-spec: Ranger
+skin: Spring Green
+spec: Artificer
 stats:
-  cha: 14
-  con: 14
-  dex: 15
-  int: 9
+  cha: 16
+  con: 11
+  dex: 6
+  int: 12
   str: 12
-  wis: 12
-track: Assault
-trait: I like a job well done, especially if I can convince someone else to do it.
-trait1: Decent
-trait2: Confused
+  wis: 9
+track: Protection
+trait: I've spent so long in the temple that I have little practical experience dealing
+  with people in the outside world.
+trait1: Sensitive
+trait2: Unreligious
 year: 4
 ---
+# Abryia Rubrae
+---
+### Description
+- 4th year Triton Artificer in Fiesn
+- curly lighter blonde hair that's kept back by a green headband, Deep Blue eyes, and Spring Green skin
+- Is Sensitive and Unreligious, and has Effectiveness as their ideal
+
+### Organizations
+### Relationships
+[[Wulfe Galan]]: partymate
+[[Hanna Arkhun]]: partymate
+[[Melcyn Taeral]]: partymate
+### Stats
+```statblock
+name: Abryia Rubrae
+stats: [12, 6, 11, 12, 9, 16]
+```

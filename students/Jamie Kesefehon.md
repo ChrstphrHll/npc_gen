@@ -1,40 +1,48 @@
 ---
 birthday:
-  numeric: 7/16
-  written: 16th of Ravenent
-bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
-  eludes me.
-eyes: Red
-flaw: If I'm outnumbered, I will run away from a fight.
-guild: Elkenval
-hair: curly auburn hair that's parted to the side, slightly obscuring an eye
-ideal: Cunning
+  numeric: 4/4
+  written: 4th of Moradent
+bond: I owe a debt I can never repay to the person who took pity on me.
+eyes: Blue
+flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
+  own hide if the going gets tough.
+guild: Alderden
+hair: curly auburn hair that's hanging down to their back
+ideal: Abundance
 name: Jamie Kesefehon
 organizations: []
-partyID: 14
-race: Triton
+partyID: 90
+race: Human
 relationships:
-- name: Alonnos Xanotter
+- name: Taewen Llamryl
   type: partymate
-- name: Ysak Llewellenar
-  type: partymate
-- name: Jareth Tanseril
-  type: partymate
-- name: Ryan Ebersol
-  type: partymate
-skin: Pale Blue
-spec: Paladin
+skin: Dark Brown
+spec: Druid
 stats:
-  cha: 13
-  con: 11
-  dex: 13
-  int: 8
-  str: 15
-  wis: 14
-track: Diplomacy
-trait: I'm full of inspiring and cautionary tales from my military experience relevant
-  to almost every combat situation.
-trait1: Iconoclastic
-trait2: Conforming
-year: 4
+  cha: 12
+  con: 14
+  dex: 11
+  int: 4
+  str: 9
+  wis: 17
+track: Protection
+trait: I would rather make a new friend than a new enemy.
+trait1: Inoffensive
+trait2: Possessive
+year: 1
 ---
+# Jamie Kesefehon
+---
+### Description
+- 1st year Human Druid in Alderden
+- curly auburn hair that's hanging down to their back, Blue eyes, and Dark Brown skin
+- Is Inoffensive and Possessive, and has Abundance as their ideal
+
+### Organizations
+### Relationships
+[[Taewen Llamryl]]: partymate
+### Stats
+```statblock
+name: Jamie Kesefehon
+stats: [9, 11, 14, 4, 17, 12]
+```

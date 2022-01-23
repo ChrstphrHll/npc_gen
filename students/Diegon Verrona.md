@@ -1,38 +1,55 @@
 ---
 birthday:
-  numeric: 1/18
-  written: 18th of Corelent
-bond: I escaped my life of poverty by robbing an important person, and I'm wanted
-  for it.
-eyes: Red
-flaw: I remember every insult I've received and nurse a silent resentment toward anyone
-  who's ever wronged me.
-guild: Alderden
-hair: straight auburn hair that's parted to the side, slightly obscuring an eye
-ideal: Might
+  numeric: 2/9
+  written: 9th of Corelent
+bond: The workshop where I learned my trade is the most important place in the world
+  to me.
+eyes: Pale Green
+flaw: I too often hear veiled insults and threats in every word addressed to me, and
+  I'm quick to anger.
+guild: Elkenval
+hair: wavy platinum hair that's braided with turquoise ribbon (long)
+ideal: Harmony
 name: Diegon Verrona
 organizations: []
-partyID: 63
-race: Dwarf
+partyID: 58
+race: Gnome
 relationships:
-- name: Hanro Fieryat
+- name: Wulfe Fulcrux
   type: partymate
-- name: Aelisabeth Soliania
+- name: Scarlotta Inqoul
   type: partymate
-- name: Celaeno Amkissra
+- name: Lyonus Ioelena
   type: partymate
-skin: Fair
-spec: Monk
+skin: Light
+spec: Druid
 stats:
   cha: 12
-  con: 9
-  dex: 17
-  int: 13
+  con: 7
+  dex: 15
+  int: 14
   str: 14
-  wis: 14
-track: Diplomacy
-trait: I don't pay attention to the risks in a situation. Never tell me the odds.
-trait1: Iconoclastic
-trait2: Fearful
-year: 4
+  wis: 15
+track: Exploration
+trait: I'm rude to people who lack my commitment to hard work and fair play.
+trait1: Directed
+trait2: Domineering
+year: 1
 ---
+# Diegon Verrona
+---
+### Description
+- 1st year Gnome Druid in Elkenval
+- wavy platinum hair that's braided with turquoise ribbon (long), Pale Green eyes, and Light skin
+- Is Directed and Domineering, and has Harmony as their ideal
+
+### Organizations
+### Relationships
+[[Wulfe Fulcrux]]: partymate
+[[Scarlotta Inqoul]]: partymate
+[[Lyonus Ioelena]]: partymate
+### Stats
+```statblock
+name: Diegon Verrona
+stats: [14, 15, 7, 14, 15, 12]
+```

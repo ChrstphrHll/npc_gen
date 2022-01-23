@@ -1,38 +1,53 @@
 ---
 birthday:
-  numeric: 3/4
-  written: 4th of Moradent
-bond: I will do anything to protect the temple where I served.
-eyes: Sea Green
-flaw: I secretly believe that everyone is beneath me.
-guild: Alderden
-hair: wavy strawberry blond hair that's loose around the shoulders
-ideal: Courage
+  numeric: 2/18
+  written: 18th of Corelent
+bond: I've been searching my whole life for the answer to a certain question.
+eyes: Blue
+flaw: I am inflexible in my thinking.
+guild: Jettenia
+hair: wavy red hair that's hanging down to their back
+ideal: Charity
 name: Jamye Napraeleon
 organizations: []
-partyID: 17
-race: Triton
+partyID: 8
+race: Half-Elf
 relationships:
-- name: Barak Felaern
+- name: Brannos Bellas
   type: partymate
-- name: Rianna Belt
+- name: Leja Talila
   type: partymate
-- name: Connovar Kaminsky
+- name: Thenol Shialaevar
   type: partymate
-- name: Jendrellian Webb
-  type: partymate
-skin: Emerald Green
-spec: Ranger
+skin: Light Tan
+spec: Sorcerer
 stats:
-  cha: 14
-  con: 8
-  dex: 16
-  int: 12
-  str: 12
-  wis: 15
-track: Assault
-trait: I fall in and out of love easily, and am always pursuing someone.
-trait1: Unpatriotic
-trait2: Small-thinking
-year: 2
+  cha: 16
+  con: 13
+  dex: 14
+  int: 13
+  str: 11
+  wis: 12
+track: Protection
+trait: I always want to know how things work and what makes people tick.
+trait1: Trusting
+trait2: Ill-bred
+year: 1
 ---
+# Jamye Napraeleon
+---
+### Description
+- 1st year Half-Elf Sorcerer in Jettenia
+- wavy red hair that's hanging down to their back, Blue eyes, and Light Tan skin
+- Is Trusting and Ill-bred, and has Charity as their ideal
+
+### Organizations
+### Relationships
+[[Brannos Bellas]]: partymate
+[[Leja Talila]]: partymate
+[[Thenol Shialaevar]]: partymate
+### Stats
+```statblock
+name: Jamye Napraeleon
+stats: [11, 14, 13, 13, 12, 16]
+```

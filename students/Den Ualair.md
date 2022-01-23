@@ -1,32 +1,51 @@
 ---
 birthday:
-  numeric: 4/13
-  written: 13th of Iounent
-bond: I am in love with the heir of a family that my family despises.
-eyes: Spring Green
-flaw: I'm convinced that no one could ever fool me the way I fool others.
-guild: Elkenval
-hair: wavy grey hair that's kept back by a turquoise headband
-ideal: Generosity
+  numeric: 2/11
+  written: 11th of Corelent
+bond: I entered seclusion because I loved someone I could not have.
+eyes: Red
+flaw: I have a "tell" that reveals when I'm lying.
+guild: Burk
+hair: straight dark red hair that's braided with violet ribbon (long)
+ideal: Knowledge
 name: Den Ualair
 organizations: []
-partyID: 69
-race: Gnome
+partyID: 3
+race: Tiefling
 relationships:
-- name: Eune Eldratha
+- name: Gabrilo Kulo
   type: partymate
-skin: Light Tan
-spec: Sorcerer
+- name: Thongar Fairchild
+  type: partymate
+skin: Amber
+spec: Cleric
 stats:
-  cha: 15
-  con: 14
-  dex: 11
-  int: 13
-  str: 11
-  wis: 14
+  cha: 13
+  con: 15
+  dex: 13
+  int: 14
+  str: 10
+  wis: 16
 track: Assault
-trait: I like a job well done, especially if I can convince someone else to do it.
-trait1: Graceful
-trait2: Ignorant
-year: 2
+trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
+  accommodations.
+trait1: Eloquent
+trait2: Cruel
+year: 3
 ---
+# Den Ualair
+---
+### Description
+- 3rd year Tiefling Cleric in Burk
+- straight dark red hair that's braided with violet ribbon (long), Red eyes, and Amber skin
+- Is Eloquent and Cruel, and has Knowledge as their ideal
+
+### Organizations
+### Relationships
+[[Gabrilo Kulo]]: partymate
+[[Thongar Fairchild]]: partymate
+### Stats
+```statblock
+name: Den Ualair
+stats: [10, 13, 15, 14, 16, 13]
+```

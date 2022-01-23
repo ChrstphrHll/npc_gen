@@ -1,41 +1,53 @@
 ---
 birthday:
-  numeric: 7/22
-  written: 22nd of Ravenent
-bond: A proud noble once gave me a horrible beating, and I will take my revenge on
-  any bully I encounter.
-eyes: Purple
-flaw: I don't take kindly to some of the actions and motivations of the people of
-  this land, because these folk are different from me.
-guild: Burk
-hair: smooth copper guilded with bronze
-ideal: Success
+  numeric: 4/17
+  written: 17th of Moradent
+bond: Nothing is more important than the other members of my family.
+eyes: Amber
+flaw: I can't resist a pretty face.
+guild: Elkenval
+hair: curly platinum hair that's hanging down to their back
+ideal: Flexibility
 name: Vaellyn Esyae
 organizations: []
-partyID: 2
-race: Warforged
+partyID: 59
+race: Half-Orc
 relationships:
-- name: Aurikallos Biafyndar
+- name: Valerya Haldreithen
   type: partymate
-- name: Delila Felaern
+- name: Goshwa Khiipaera
   type: partymate
-- name: Gianna Rhistel
+- name: Tezani Morthil
   type: partymate
-- name: Sulivan Wylchyr
-  type: partymate
-skin: brass
-spec: Monk
+skin: Pale Green
+spec: Wizard
 stats:
-  cha: 15
-  con: 14
-  dex: 15
-  int: 12
-  str: 12
-  wis: 12
-track: Protection
-trait: Nobody stays angry at me or around me for long, since I can defuse any amount
-  of tension.
-trait1: Mellow
-trait2: Fixed
+  cha: 10
+  con: 10
+  dex: 16
+  int: 16
+  str: 8
+  wis: 6
+track: Diplomacy
+trait: If someone is in trouble, I'm always ready to lend help.
+trait1: Unselfish
+trait2: Undemanding
 year: 1
 ---
+# Vaellyn Esyae
+---
+### Description
+- 1st year Half-Orc Wizard in Elkenval
+- curly platinum hair that's hanging down to their back, Amber eyes, and Pale Green skin
+- Is Unselfish and Undemanding, and has Flexibility as their ideal
+
+### Organizations
+### Relationships
+[[Valerya Haldreithen]]: partymate
+[[Goshwa Khiipaera]]: partymate
+[[Tezani Morthil]]: partymate
+### Stats
+```statblock
+name: Vaellyn Esyae
+stats: [8, 16, 10, 16, 6, 10]
+```

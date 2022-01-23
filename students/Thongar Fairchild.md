@@ -1,37 +1,51 @@
 ---
 birthday:
-  numeric: 7/1
-  written: 1st of Ravenent
-bond: I swindled and ruined a person who didn't deserve it. I seek to atone for my
-  misdeeds but might never be able to forgive myself.
-eyes: Emerald Green
-flaw: Once I start drinking, it's hard for me to stop.
+  numeric: 1/5
+  written: 5th of Avanent
+bond: I will someday get revenge on the corrupt temple hierarchy who branded me a
+  heretic.
+eyes: Green
+flaw: There's no room for caution in a life lived to the fullest.
 guild: Burk
-hair: straight platinum hair that's hanging down to their back
-ideal: Commonality
+hair: wavy blonde hair that's geled back
+ideal: Prosperity
 name: Thongar Fairchild
 organizations: []
-partyID: 83
-race: Elf
+partyID: 3
+race: Half-Elf
 relationships:
-- name: Graisen Thalanil
+- name: Gabrilo Kulo
   type: partymate
-- name: Valygar Lyklor
+- name: Den Ualair
   type: partymate
-- name: Hessos Adorellan
-  type: partymate
-skin: Light
-spec: Ranger
+skin: Light Tan
+spec: Druid
 stats:
-  cha: 5
-  con: 14
-  dex: 16
-  int: 8
-  str: 10
-  wis: 16
-track: Exploration
-trait: I enjoy being strong and like breaking things.
-trait1: Systematic
-trait2: Tactless
-year: 4
+  cha: 9
+  con: 16
+  dex: 14
+  int: 11
+  str: 13
+  wis: 14
+track: Protection
+trait: I feel far more comfortable around animals than people.
+trait1: Tidy
+trait2: Impersonal
+year: 3
 ---
+# Thongar Fairchild
+---
+### Description
+- 3rd year Half-Elf Druid in Burk
+- wavy blonde hair that's geled back, Green eyes, and Light Tan skin
+- Is Tidy and Impersonal, and has Prosperity as their ideal
+
+### Organizations
+### Relationships
+[[Gabrilo Kulo]]: partymate
+[[Den Ualair]]: partymate
+### Stats
+```statblock
+name: Thongar Fairchild
+stats: [13, 14, 16, 11, 14, 9]
+```

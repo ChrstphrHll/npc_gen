@@ -1,37 +1,48 @@
 ---
 birthday:
-  numeric: 1/2
-  written: 2nd of Corelent
-bond: I owe my survival to another urchin who taught me tolive on the streets.
-eyes: Violet Red
-flaw: If I'm outnumbered, I will run away from a fight.
-guild: Elkenval
-hair: wavy grey hair that's put back in a long pony tail
-ideal: Vengful
+  numeric: 6/32
+  written: 32nd of Pelent
+bond: My house's alliance with another noble family must be sustained at all costs.
+eyes: Amber
+flaw: I have trouble trusting in my allies.
+guild: Treskal
+hair: straight auburn hair that's parted to the side, slightly obscuring an eye
+ideal: Indulgence
 name: Kembley Ralnor
 organizations: []
-partyID: 40
-race: Genasi
+partyID: 35
+race: Human
 relationships:
-- name: Meira Nuvian
+- name: Kimbera Alerathla
   type: partymate
-- name: Cerridwen Durothil
-  type: partymate
-- name: Shenai Inqoul
-  type: partymate
-skin: fire
-spec: Bard
+skin: Dark Brown
+spec: Cleric
 stats:
-  cha: 16
-  con: 7
-  dex: 12
-  int: 13
-  str: 6
-  wis: 15
-track: Diplomacy
-trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
-  breaking them.
-trait1: Mystical
-trait2: Abrasive
-year: 1
+  cha: 9
+  con: 6
+  dex: 9
+  int: 14
+  str: 12
+  wis: 16
+track: Protection
+trait: I keep multiple holy symbols on me and invoke whatever deity might come in
+  useful at any given moment.
+trait1: Temperate
+trait2: Disloyal
+year: 7
 ---
+# Kembley Ralnor
+---
+### Description
+- 7th year Human Cleric in Treskal
+- straight auburn hair that's parted to the side, slightly obscuring an eye, Amber eyes, and Dark Brown skin
+- Is Temperate and Disloyal, and has Indulgence as their ideal
+
+### Organizations
+### Relationships
+[[Kimbera Alerathla]]: partymate
+### Stats
+```statblock
+name: Kembley Ralnor
+stats: [12, 9, 6, 14, 16, 9]
+```

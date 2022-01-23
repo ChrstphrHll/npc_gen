@@ -1,39 +1,52 @@
 ---
 birthday:
-  numeric: 4/3
-  written: 3rd of Iounent
-bond: I will do anything to prove myself superior to my hated rival.
-eyes: Emerald Green
-flaw: I'm convinced of the significance of my destiny, and blind to my shortcomings
-  and the risk of failure.
-guild: Treskal
-hair: wavy brunette hair that's a tousled bed head
-ideal: Spiritualism
+  numeric: 7/29
+  written: 29th of Korent
+bond: I have a family, but I have no idea where they are. One day, I hope to see them
+  again.
+eyes: Pale Green
+flaw: When I see something valuable, I can't think about anything but how to steal
+  it.
+guild: Burk
+hair: short spines
+ideal: Balance
 name: Whit Remington
 organizations: []
-partyID: 50
-race: Human
+partyID: 85
+race: Dragonborn
 relationships:
-- name: Angel Nushala
+- name: Dylan Usunaar
   type: partymate
-- name: Halja Dwyer
+- name: Delsenora Strohm
   type: partymate
-- name: Kymber Korrigash
-  type: partymate
-- name: Roman Erolith
-  type: partymate
-skin: Fair
-spec: Fighter
+skin: blue
+spec: Barbarian
 stats:
-  cha: 11
-  con: 13
-  dex: 17
-  int: 17
-  str: 10
+  cha: 10
+  con: 14
+  dex: 15
+  int: 12
+  str: 15
   wis: 16
-track: Protection
+track: Diplomacy
 trait: I was, in fact, raised by wolves.
-trait1: Absentminded
-trait2: Suspicious
-year: 2
+trait1: Solitary
+trait2: Secretive
+year: 7
 ---
+# Whit Remington
+---
+### Description
+- 7th year Dragonborn Barbarian in Burk
+- short spines, Pale Green eyes, and blue skin
+- Is Solitary and Secretive, and has Balance as their ideal
+
+### Organizations
+### Relationships
+[[Dylan Usunaar]]: partymate
+[[Delsenora Strohm]]: partymate
+### Stats
+```statblock
+name: Whit Remington
+stats: [15, 15, 14, 12, 16, 10]
+```

@@ -1,40 +1,54 @@
 ---
 birthday:
-  numeric: 2/4
-  written: 4th of Melorent
-bond: I will do anything to protect the temple where I served.
+  numeric: 6/14
+  written: 14th of Pelent
+bond: It is my duty to protect my students.
 eyes: Blue
-flaw: An innocent person is in prison for a crime that I committed. I'm okay with
-  that.
-guild: Elkenval
-hair: wavy platinum hair that's put back in a long pony tail
-ideal: Malice
+flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
+  involved.
+guild: Fiesn
+hair: wavy black hair that's hanging down to their back
+ideal: Finesse
 name: Julyo Agassi
 organizations: []
-partyID: 44
-race: Genasi
+partyID: 64
+race: Elf
 relationships:
-- name: Theriss Deularla
+- name: Ungris Riluaneth
   type: partymate
-- name: Eligio Nevarth
+- name: Olivus Ondabrar
   type: partymate
-- name: Lucoe Lorelei
+- name: Kymber Korrigash
   type: partymate
-- name: Vaervenshalice Eloen
-  type: partymate
-skin: earth
-spec: Rouge
+skin: Brown
+spec: Fighter
 stats:
-  cha: 15
-  con: 12
-  dex: 15
-  int: 15
-  str: 12
-  wis: 13
-track: Protection
-trait: I am incredibly slow to trust. Those who seem the fairest often have the most
-  to hide.
-trait1: Maternal
-trait2: Fanatical
-year: 2
+  cha: 9
+  con: 16
+  dex: 17
+  int: 11
+  str: 16
+  wis: 8
+track: Diplomacy
+trait: I'll settle for nothing less than perfection.
+trait1: Just
+trait2: Immature
+year: 4
 ---
+# Julyo Agassi
+---
+### Description
+- 4th year Elf Fighter in Fiesn
+- wavy black hair that's hanging down to their back, Blue eyes, and Brown skin
+- Is Just and Immature, and has Finesse as their ideal
+
+### Organizations
+### Relationships
+[[Ungris Riluaneth]]: partymate
+[[Olivus Ondabrar]]: partymate
+[[Kymber Korrigash]]: partymate
+### Stats
+```statblock
+name: Julyo Agassi
+stats: [16, 17, 16, 11, 8, 9]
+```

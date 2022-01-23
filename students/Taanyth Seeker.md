@@ -1,33 +1,58 @@
 ---
 birthday:
-  numeric: 6/2
-  written: 2nd of Korent
-bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
-eyes: Deep Blue
-flaw: Once someone questions my courage, I never back down no matter how dangerous
-  the situation.
-guild: Jettenia
-hair: straight blonde hair that's loose around the shoulders
-ideal: Learning
+  numeric: 3/18
+  written: 18th of Melorent
+bond: I'm trying to pay off an old debt I owe to a generous benefactor.
+eyes: Pale Blue
+flaw: I consider the adherents of other gods to be deluded innocents at best, or ignorant
+  fools at worst.
+guild: Burk
+hair: straight auburn hair that's loose around the shoulders
+ideal: Charity
 name: Taanyth Seeker
 organizations: []
-partyID: 5
-race: Tiefling
+partyID: 57
+race: Firbolg
 relationships:
-- name: Aniari Arlayna
+- name: Jaris Amlaruil
   type: partymate
-skin: Red
-spec: Sorcerer
+- name: Tyego Sinaht
+  type: partymate
+- name: Felgie Eldar
+  type: partymate
+- name: Tisette Bender
+  type: partymate
+skin: Pale Green
+spec: Wizard
 stats:
-  cha: 15
-  con: 8
-  dex: 10
-  int: 11
-  str: 11
+  cha: 14
+  con: 14
+  dex: 12
+  int: 17
+  str: 10
   wis: 13
 track: Exploration
-trait: I lie about almost everything, even when there's no good reason to.
-trait1: Responsive
-trait2: Experimental
-year: 7
+trait: I have my own ideas about what is and is not food, and I find the eating habits
+  of those around me fascinating, confusing, or revolting.
+trait1: Witty
+trait2: Egocentric
+year: 1
 ---
+# Taanyth Seeker
+---
+### Description
+- 1st year Firbolg Wizard in Burk
+- straight auburn hair that's loose around the shoulders, Pale Blue eyes, and Pale Green skin
+- Is Witty and Egocentric, and has Charity as their ideal
+
+### Organizations
+### Relationships
+[[Jaris Amlaruil]]: partymate
+[[Tyego Sinaht]]: partymate
+[[Felgie Eldar]]: partymate
+[[Tisette Bender]]: partymate
+### Stats
+```statblock
+name: Taanyth Seeker
+stats: [10, 12, 14, 17, 13, 14]
+```

@@ -1,36 +1,53 @@
 ---
 birthday:
-  numeric: 2/16
-  written: 16th of Melorent
-bond: I will bring terrible wrath down on the evildoers who destroyed my homeland.
-eyes: Red
-flaw: I can't keep a secret to save my life, or anyone else's.
-guild: Elkenval
-hair: curly blonde hair that's put back in a short pony tail
-ideal: Faith
+  numeric: 1/19
+  written: 19th of Avanent
+bond: I idolize a hero of the old tales and measure my deeds against that person's.
+eyes: Gray
+flaw: I'll do anything to get my hands on something rare or priceless.
+guild: Treskal
+hair: wavy lighter blonde hair that's parted to the side, slightly obscuring an eye
+ideal: Knowledge
 name: Uxwy Lazziar
 organizations: []
-partyID: 56
-race: Elf
+partyID: 89
+race: Human
 relationships:
-- name: Olivus Ondabrar
+- name: Shenai Inqoul
   type: partymate
-- name: Turi Chandrelle
+- name: Garan Mirthal
   type: partymate
-- name: Gormoth Shyrrik
+- name: Murunay Illfate
   type: partymate
-skin: Tan
-spec: Artificer
+skin: Dark Tan
+spec: Ranger
 stats:
-  cha: 8
-  con: 8
-  dex: 8
-  int: 17
-  str: 10
-  wis: 16
-track: Assault
-trait: I love a good insult, even one directed at me.
-trait1: Resilient
-trait2: Confidential
-year: 2
+  cha: 14
+  con: 15
+  dex: 17
+  int: 13
+  str: 12
+  wis: 13
+track: Protection
+trait: I honor my deities through practices that are foreign to this land.
+trait1: Diligent
+trait2: Undemanding
+year: 1
 ---
+# Uxwy Lazziar
+---
+### Description
+- 1st year Human Ranger in Treskal
+- wavy lighter blonde hair that's parted to the side, slightly obscuring an eye, Gray eyes, and Dark Tan skin
+- Is Diligent and Undemanding, and has Knowledge as their ideal
+
+### Organizations
+### Relationships
+[[Shenai Inqoul]]: partymate
+[[Garan Mirthal]]: partymate
+[[Murunay Illfate]]: partymate
+### Stats
+```statblock
+name: Uxwy Lazziar
+stats: [12, 17, 15, 13, 13, 14]
+```

@@ -1,37 +1,57 @@
 ---
 birthday:
-  numeric: 3/28
-  written: 28th of Moradent
-bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
-eyes: Deep Blue
-flaw: I once satirized a noble who still wants my head. It was a mistake that I will
-  likely repeat.
-guild: Elkenval
-hair: 5 straight horns
-ideal: Stoicism
+  numeric: 1/15
+  written: 15th of Avanent
+bond: I escaped my life of poverty by robbing an important person, and I'm wanted
+  for it.
+eyes: Aqua
+flaw: I secretly believe that everyone is beneath me.
+guild: Alderden
+hair: long spines
+ideal: Optimism
 name: Natalia Endo
 organizations: []
 partyID: 33
 race: Dragonborn
 relationships:
-- name: Santyeg Kuskyn
+- name: Jandar Pleufan
   type: partymate
-- name: Efjan Andrathath
+- name: Ahtye Elhieardacil
   type: partymate
-- name: Thenol Shialaevar
+- name: Hudsen Aluendalee
   type: partymate
-skin: red
-spec: Fighter
+- name: Ezros Laerdya
+  type: partymate
+skin: white
+spec: Rouge
 stats:
-  cha: 12
-  con: 6
-  dex: 15
-  int: 14
-  str: 9
+  cha: 9
+  con: 11
+  dex: 16
+  int: 15
+  str: 11
   wis: 11
-track: Protection
-trait: Thinking is for other people. I prefer action.
-trait1: Valiant
-trait2: Repugnant
-year: 8
+track: Assault
+trait: I'm always polite and respectful.
+trait1: Reasonable
+trait2: Melancholic
+year: 2
 ---
+# Natalia Endo
+---
+### Description
+- 2nd year Dragonborn Rouge in Alderden
+- long spines, Aqua eyes, and white skin
+- Is Reasonable and Melancholic, and has Optimism as their ideal
+
+### Organizations
+### Relationships
+[[Jandar Pleufan]]: partymate
+[[Ahtye Elhieardacil]]: partymate
+[[Hudsen Aluendalee]]: partymate
+[[Ezros Laerdya]]: partymate
+### Stats
+```statblock
+name: Natalia Endo
+stats: [11, 16, 11, 15, 11, 9]
+```

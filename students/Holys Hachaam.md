@@ -1,36 +1,51 @@
 ---
 birthday:
-  numeric: 7/6
-  written: 6th of Ravenent
-bond: Everything I do is for the common people.
-eyes: Violet Red
-flaw: Don't expect me to save those who can't save themselves. It is nature's way
-  that the strong thrive and the weak perish.
-guild: Jettenia
-hair: short spines
-ideal: Impartiality
+  numeric: 8/3
+  written: 3rd of Ravenent
+bond: I owe my survival to another urchin who taught me tolive on the streets.
+eyes: Aqua
+flaw: I'll say anything to avoid having to do extra work.
+guild: Alderden
+hair: 5 curled horns
+ideal: Fun
 name: Holys Hachaam
 organizations: []
-partyID: 66
+partyID: 72
 race: Dragonborn
 relationships:
-- name: Senna Tryton
+- name: Leah Faelar
   type: partymate
-- name: Caeleb Embrae
+- name: Genesys Mhaenal
   type: partymate
-skin: red
-spec: Artificer
+skin: black
+spec: Bard
 stats:
-  cha: 12
-  con: 12
-  dex: 12
-  int: 16
-  str: 16
-  wis: 15
+  cha: 18
+  con: 15
+  dex: 7
+  int: 12
+  str: 12
+  wis: 12
 track: Protection
-trait: I'm haunted by memories of war. I can't get the images of violence out of my
-  mind.
-trait1: Felicific
-trait2: Sarcastic
+trait: I idolize a particular hero of my faith, and constantly refer to that person's
+  deeds and example.
+trait1: Eloquent
+trait2: Silly
 year: 1
 ---
+# Holys Hachaam
+---
+### Description
+- 1st year Dragonborn Bard in Alderden
+- 5 curled horns, Aqua eyes, and black skin
+- Is Eloquent and Silly, and has Fun as their ideal
+
+### Organizations
+### Relationships
+[[Leah Faelar]]: partymate
+[[Genesys Mhaenal]]: partymate
+### Stats
+```statblock
+name: Holys Hachaam
+stats: [12, 7, 15, 12, 12, 18]
+```

@@ -1,36 +1,57 @@
 ---
 birthday:
-  numeric: 5/22
-  written: 22nd of Pelent
-bond: I owe my survival to another urchin who taught me tolive on the streets.
-eyes: Emerald Green
-flaw: Once I start drinking, it's hard for me to stop.
-guild: Fiesn
-hair: curly auburn hair that's parted to the right
-ideal: Invention
+  numeric: 5/18
+  written: 18th of Iounent
+bond: It is my duty to protect my students.
+eyes: Green
+flaw: I am slow to trust members of other races, tribes, and societies.
+guild: Jettenia
+hair: wavy dark red hair that's a tousled bed head
+ideal: Beauty
 name: Hodus Belt
 organizations: []
-partyID: 59
-race: Tiefling
+partyID: 29
+race: Half-Elf
 relationships:
-- name: Grace Festus
+- name: Savanna Ildilyntra
   type: partymate
-- name: Avaery Klaern
+- name: Selina Ochyllyss
   type: partymate
-- name: Hazel Traeliorn
+- name: Allyson Vindinglag
   type: partymate
-skin: Red
-spec: Fighter
+- name: Gabrila Retra
+  type: partymate
+skin: Tan
+spec: Ranger
 stats:
-  cha: 11
-  con: 10
-  dex: 6
-  int: 8
+  cha: 15
+  con: 7
+  dex: 16
+  int: 14
   str: 15
-  wis: 15
-track: Diplomacy
-trait: I watch over my friends as if they were a litter of newborn pups.
-trait1: Educated
-trait2: Opinionated
-year: 1
+  wis: 11
+track: Assault
+trait: I am always calm, no matter what the situation. I never raise my voice or let
+  emotions control me.
+trait1: Reliable
+trait2: Disorganized
+year: 3
 ---
+# Hodus Belt
+---
+### Description
+- 3rd year Half-Elf Ranger in Jettenia
+- wavy dark red hair that's a tousled bed head, Green eyes, and Tan skin
+- Is Reliable and Disorganized, and has Beauty as their ideal
+
+### Organizations
+### Relationships
+[[Savanna Ildilyntra]]: partymate
+[[Selina Ochyllyss]]: partymate
+[[Allyson Vindinglag]]: partymate
+[[Gabrila Retra]]: partymate
+### Stats
+```statblock
+name: Hodus Belt
+stats: [15, 16, 7, 14, 11, 15]
+```

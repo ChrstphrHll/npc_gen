@@ -1,34 +1,57 @@
 ---
 birthday:
-  numeric: 1/5
-  written: 5th of Corelent
-bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
-eyes: Spring Green
-flaw: An innocent person is in prison for a crime that I committed. I'm okay with
-  that.
-guild: Elkenval
-hair: curly violet hair that's put back in a short pony tail
-ideal: Entertain
+  numeric: 2/8
+  written: 8th of Corelent
+bond: My house's alliance with another noble family must be sustained at all costs.
+eyes: Red
+flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
+  trouble.
+guild: Jettenia
+hair: frills
+ideal: Vengful
 name: Eune Eldratha
 organizations: []
-partyID: 69
-race: Elf
+partyID: 91
+race: Dragonborn
 relationships:
-- name: Den Ualair
+- name: Harperia Winchell
   type: partymate
-skin: Tan
-spec: Cleric
+- name: Velmona Elway
+  type: partymate
+- name: Braidyn Kemetra
+  type: partymate
+- name: Ryan Ebersol
+  type: partymate
+skin: black
+spec: Paladin
 stats:
-  cha: 12
-  con: 9
-  dex: 8
-  int: 13
-  str: 13
-  wis: 14
-track: Exploration
-trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
-  bundle in my arms.
-trait1: Unpatriotic
-trait2: Hypnotic
-year: 2
+  cha: 14
+  con: 16
+  dex: 15
+  int: 15
+  str: 18
+  wis: 9
+track: Assault
+trait: I think anyone who's nice to me is hiding evil intent.
+trait1: Physical
+trait2: Subjective
+year: 3
 ---
+# Eune Eldratha
+---
+### Description
+- 3rd year Dragonborn Paladin in Jettenia
+- frills, Red eyes, and black skin
+- Is Physical and Subjective, and has Vengful as their ideal
+
+### Organizations
+### Relationships
+[[Harperia Winchell]]: partymate
+[[Velmona Elway]]: partymate
+[[Braidyn Kemetra]]: partymate
+[[Ryan Ebersol]]: partymate
+### Stats
+```statblock
+name: Eune Eldratha
+stats: [18, 15, 16, 15, 9, 14]
+```

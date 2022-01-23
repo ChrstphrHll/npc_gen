@@ -1,36 +1,49 @@
 ---
 birthday:
-  numeric: 4/29
-  written: 29th of Iounent
-bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
-eyes: Yellow
-flaw: I'm quick to assume that someone is trying to cheat me.
-guild: Jettenia
-hair: wavy strawberry blond hair that's a buzz cut
-ideal: Respect
+  numeric: 2/30
+  written: 30th of Corelent
+bond: The workshop where I learned my trade is the most important place in the world
+  to me.
+eyes: Hazel
+flaw: When I see something valuable, I can't think about anything but how to steal
+  it.
+guild: Alderden
+hair: straight black hair that's geled back
+ideal: Encouragement
 name: Taewen Llamryl
 organizations: []
-partyID: 27
-race: Dwarf
+partyID: 90
+race: Human
 relationships:
-- name: Alys Ylyndar
+- name: Jamie Kesefehon
   type: partymate
-- name: Isaias Vaalyun
-  type: partymate
-- name: Es'beth Yesheln
-  type: partymate
-skin: Brown
-spec: Paladin
+skin: Light
+spec: Ranger
 stats:
-  cha: 13
-  con: 14
-  dex: 12
+  cha: 16
+  con: 17
+  dex: 17
   int: 10
-  str: 16
-  wis: 13
-track: Assault
-trait: I fall in and out of love easily, and am always pursuing someone.
-trait1: Passionate
-trait2: Pharissical
-year: 4
+  str: 13
+  wis: 15
+track: Protection
+trait: If someone is in trouble, I'm always ready to lend help.
+trait1: Studious
+trait2: Conformist
+year: 1
 ---
+# Taewen Llamryl
+---
+### Description
+- 1st year Human Ranger in Alderden
+- straight black hair that's geled back, Hazel eyes, and Light skin
+- Is Studious and Conformist, and has Encouragement as their ideal
+
+### Organizations
+### Relationships
+[[Jamie Kesefehon]]: partymate
+### Stats
+```statblock
+name: Taewen Llamryl
+stats: [13, 17, 17, 10, 15, 16]
+```

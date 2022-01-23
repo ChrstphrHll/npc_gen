@@ -1,39 +1,57 @@
 ---
 birthday:
-  numeric: 4/8
-  written: 8th of Iounent
-bond: I escaped my life of poverty by robbing an important person, and I'm wanted
-  for it.
-eyes: Orange
-flaw: People who can't take care of themselves get what they deserve.
-guild: Elkenval
-hair: straight brunette hair that's parted to the left
-ideal: Balance
+  numeric: 3/30
+  written: 30th of Melorent
+bond: I was cheated out of my fair share of the profits, and I want to get my due.
+eyes: Green
+flaw: An innocent person is in prison for a crime that I committed. I'm okay with
+  that.
+guild: Jettenia
+hair: wavy lighter blonde hair that's put up in a large bun
+ideal: Perseverance
 name: Ryan Ebersol
 organizations: []
-partyID: 14
-race: Dwarf
+partyID: 91
+race: Triton
 relationships:
-- name: Alonnos Xanotter
+- name: Harperia Winchell
   type: partymate
-- name: Ysak Llewellenar
+- name: Velmona Elway
   type: partymate
-- name: Jamie Kesefehon
+- name: Braidyn Kemetra
   type: partymate
-- name: Jareth Tanseril
+- name: Eune Eldratha
   type: partymate
-skin: Fair
-spec: Fighter
+skin: Pale Gray
+spec: Sorcerer
 stats:
-  cha: 11
-  con: 14
-  dex: 14
-  int: 12
-  str: 16
-  wis: 7
-track: Exploration
-trait: I don't pay attention to the risks in a situation. Never tell me the odds.
-trait1: Precise
-trait2: Small-thinking
-year: 4
+  cha: 17
+  con: 10
+  dex: 12
+  int: 10
+  str: 9
+  wis: 10
+track: Diplomacy
+trait: I bluntly say what other people are hinting at or hiding.
+trait1: Private
+trait2: Finicky
+year: 3
 ---
+# Ryan Ebersol
+---
+### Description
+- 3rd year Triton Sorcerer in Jettenia
+- wavy lighter blonde hair that's put up in a large bun, Green eyes, and Pale Gray skin
+- Is Private and Finicky, and has Perseverance as their ideal
+
+### Organizations
+### Relationships
+[[Harperia Winchell]]: partymate
+[[Velmona Elway]]: partymate
+[[Braidyn Kemetra]]: partymate
+[[Eune Eldratha]]: partymate
+### Stats
+```statblock
+name: Ryan Ebersol
+stats: [9, 12, 10, 10, 10, 17]
+```

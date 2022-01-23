@@ -1,40 +1,55 @@
 ---
 birthday:
-  numeric: 0/5
-  written: 5th of Avanent
-bond: I fight for those who cannot fight for themselves.
-eyes: Emerald Green
-flaw: Once someone questions my courage, I never back down no matter how dangerous
-  the situation.
-guild: Treskal
-hair: curly auburn hair that's a tousled bed head
-ideal: Entertain
+  numeric: 8/24
+  written: 24th of Ravenent
+bond: My freedom is my most precious possession. I'll never let anyone take it from
+  me again.
+eyes: Blue
+flaw: Most people scream and run when they see a demon. I stop and take notes on its
+  anatomy.
+guild: Fiesn
+hair: curly brunette hair that's parted to the right
+ideal: Personal Development
 name: Kymber Korrigash
 organizations: []
-partyID: 50
-race: Human
+partyID: 64
+race: Firbolg
 relationships:
-- name: Angel Nushala
+- name: Ungris Riluaneth
   type: partymate
-- name: Halja Dwyer
+- name: Julyo Agassi
   type: partymate
-- name: Roman Erolith
+- name: Olivus Ondabrar
   type: partymate
-- name: Whit Remington
-  type: partymate
-skin: Light Tan
-spec: Wizard
+skin: Pale Green
+spec: Cleric
 stats:
-  cha: 14
-  con: 13
-  dex: 13
-  int: 14
-  str: 12
-  wis: 10
-track: Protection
-trait: I am incredibly slow to trust. Those who seem the fairest often have the most
-  to hide.
-trait1: Uncomplaining
-trait2: Impatient
-year: 2
+  cha: 9
+  con: 15
+  dex: 9
+  int: 8
+  str: 13
+  wis: 16
+track: Diplomacy
+trait: I bluntly say what other people are hinting at or hiding.
+trait1: Glamorous
+trait2: Scruffy
+year: 4
 ---
+# Kymber Korrigash
+---
+### Description
+- 4th year Firbolg Cleric in Fiesn
+- curly brunette hair that's parted to the right, Blue eyes, and Pale Green skin
+- Is Glamorous and Scruffy, and has Personal Development as their ideal
+
+### Organizations
+### Relationships
+[[Ungris Riluaneth]]: partymate
+[[Julyo Agassi]]: partymate
+[[Olivus Ondabrar]]: partymate
+### Stats
+```statblock
+name: Kymber Korrigash
+stats: [13, 9, 15, 8, 16, 9]
+```

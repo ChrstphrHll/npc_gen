@@ -1,36 +1,56 @@
 ---
 birthday:
-  numeric: 4/29
-  written: 29th of Iounent
-bond: Nothing is more important than the other members of my hermitage, order, or
-  association.
-eyes: Yellow
-flaw: I can't help but pocket loose coins and other trinkets I come across.
+  numeric: 8/20
+  written: 20th of Ravenent
+bond: Should my discovery come to light, it could bring ruin to the world.
+eyes: Blue
+flaw: I can't resist swindling people who are more powerful than me.
 guild: Jettenia
-hair: 5 curled horns
-ideal: Loyalty
+hair: curly dark red hair that's braided with blue ribbon (long)
+ideal: Excitement
 name: Braidyn Kemetra
 organizations: []
-partyID: 11
-race: Dragonborn
+partyID: 91
+race: Gnome
 relationships:
-- name: Adros Tolthe
+- name: Harperia Winchell
   type: partymate
-- name: Aryana Velethuil
+- name: Velmona Elway
   type: partymate
-skin: copper
-spec: Ranger
+- name: Eune Eldratha
+  type: partymate
+- name: Ryan Ebersol
+  type: partymate
+skin: Fair
+spec: Cleric
 stats:
-  cha: 12
-  con: 11
-  dex: 16
-  int: 12
+  cha: 14
+  con: 8
+  dex: 8
+  int: 6
   str: 7
-  wis: 13
-track: Diplomacy
-trait: I've spent so long in the temple that I have little practical experience dealing
-  with people in the outside world.
-trait1: Honorable
-trait2: Abrupt
-year: 5
+  wis: 17
+track: Protection
+trait: I'm a born gambler who can't resist taking a risk for a potential payoff.
+trait1: Discreet
+trait2: Solitary
+year: 3
 ---
+# Braidyn Kemetra
+---
+### Description
+- 3rd year Gnome Cleric in Jettenia
+- curly dark red hair that's braided with blue ribbon (long), Blue eyes, and Fair skin
+- Is Discreet and Solitary, and has Excitement as their ideal
+
+### Organizations
+### Relationships
+[[Harperia Winchell]]: partymate
+[[Velmona Elway]]: partymate
+[[Eune Eldratha]]: partymate
+[[Ryan Ebersol]]: partymate
+### Stats
+```statblock
+name: Braidyn Kemetra
+stats: [7, 8, 8, 6, 17, 14]
+```

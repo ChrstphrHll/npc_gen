@@ -1,39 +1,51 @@
 ---
 birthday:
-  numeric: 2/4
-  written: 4th of Melorent
-bond: The workshop where I learned my trade is the most important place in the world
-  to me.
-eyes: Violet Red
-flaw: Violence is my answer to almost any challenge.
-guild: Elkenval
-hair: straight dark red hair that's parted to the left
-ideal: Redemption
+  numeric: 5/8
+  written: 8th of Iounent
+bond: I will become the greatest thief that ever lived.
+eyes: Amber
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+guild: Burk
+hair: straight black hair that's braided with green ribbon (long)
+ideal: Justice
 name: Brahm Delmuth
 organizations: []
-partyID: 8
-race: Gnome
+partyID: 44
+race: Elf
 relationships:
-- name: Genesys Mhaenal
+- name: Matrell Halafarin
   type: partymate
-- name: Adamos Taehr
+- name: Cam Lazziar
   type: partymate
-- name: Nebulon Faelyn
-  type: partymate
-- name: Garan Mirthal
-  type: partymate
-skin: Dark Tan
-spec: Cleric
+skin: Pale
+spec: Sorcerer
 stats:
-  cha: 12
-  con: 13
-  dex: 13
-  int: 17
-  str: 8
-  wis: 14
+  cha: 17
+  con: 10
+  dex: 14
+  int: 6
+  str: 17
+  wis: 11
 track: Diplomacy
-trait: I honor my deities through practices that are foreign to this land.
-trait1: Creative
-trait2: Uncaring
-year: 2
+trait: I get bitter if I'm not the center of attention.
+trait1: Intrepid
+trait2: Unimaginative
+year: 5
 ---
+# Brahm Delmuth
+---
+### Description
+- 5th year Elf Sorcerer in Burk
+- straight black hair that's braided with green ribbon (long), Amber eyes, and Pale skin
+- Is Intrepid and Unimaginative, and has Justice as their ideal
+
+### Organizations
+### Relationships
+[[Matrell Halafarin]]: partymate
+[[Cam Lazziar]]: partymate
+### Stats
+```statblock
+name: Brahm Delmuth
+stats: [17, 14, 10, 6, 11, 17]
+```

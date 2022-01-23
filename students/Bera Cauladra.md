@@ -1,36 +1,55 @@
 ---
 birthday:
-  numeric: 4/26
-  written: 26th of Iounent
-bond: Somewhere out there, I have a child who doesn't know me. I'm making the world
-  better for him or her.
-eyes: Emerald Green
-flaw: I pretend not to understand the local language in order to avoid interactions
-  I would rather not have.
-guild: Alderden
-hair: wavy auburn hair that's geled back
-ideal: Perseverance
+  numeric: 3/27
+  written: 27th of Melorent
+bond: I entered seclusion to hide from the ones who might still be hunting me. I must
+  someday confront them.
+eyes: Green
+flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
+  involved.
+guild: Fiesn
+hair: wavy dirty blonde hair that's hanging down to their legs
+ideal: Harmony
 name: Bera Cauladra
 organizations: []
-partyID: 52
+partyID: 41
 race: Halfling
 relationships:
-- name: Ezekius Chalsarda
+- name: Hazel Winters
   type: partymate
-- name: Rotheloe Samblar
+- name: Ysak Llewellenar
   type: partymate
-skin: Light
+- name: Yoshen Arcaena
+  type: partymate
+skin: Fair
 spec: Paladin
 stats:
-  cha: 10
+  cha: 13
   con: 16
-  dex: 11
+  dex: 13
   int: 11
-  str: 14
-  wis: 9
-track: Diplomacy
-trait: My friends know they can rely on me, no matter what.
-trait1: Pure
-trait2: Nihilistic
-year: 2
+  str: 17
+  wis: 12
+track: Assault
+trait: The best way to get me to do something is to tell me I can't do it.
+trait1: Competitive
+trait2: Hurried
+year: 1
 ---
+# Bera Cauladra
+---
+### Description
+- 1st year Halfling Paladin in Fiesn
+- wavy dirty blonde hair that's hanging down to their legs, Green eyes, and Fair skin
+- Is Competitive and Hurried, and has Harmony as their ideal
+
+### Organizations
+### Relationships
+[[Hazel Winters]]: partymate
+[[Ysak Llewellenar]]: partymate
+[[Yoshen Arcaena]]: partymate
+### Stats
+```statblock
+name: Bera Cauladra
+stats: [17, 13, 16, 11, 12, 13]
+```

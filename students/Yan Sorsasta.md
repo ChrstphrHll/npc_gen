@@ -1,35 +1,54 @@
 ---
 birthday:
-  numeric: 1/2
-  written: 2nd of Corelent
-bond: I hold no greater cause than my service to my people.
-eyes: Yellow
-flaw: Gold seems like a lot of money to me, and I'll do just about anything for more
-  of it.
-guild: Jettenia
-hair: straight black hair that's a tousled bed head
-ideal: Wealth
+  numeric: 1/14
+  written: 14th of Avanent
+bond: Someone I loved died because of a mistake I made. That will never happen again.
+eyes: Amber
+flaw: I'd rather kill someone in their sleep then fight fair.
+guild: Elkenval
+hair: wavy lighter blonde hair that's done up in a top knot
+ideal: Conformity
 name: Yan Sorsasta
 organizations: []
-partyID: 53
+partyID: 80
 race: Gnome
 relationships:
-- name: Ruby Kythaela
+- name: Victor Gaelira
   type: partymate
-- name: Joyce Helartha
+- name: Goetia Mistale
   type: partymate
-skin: Light Tan
-spec: Fighter
+- name: Halja Dwyer
+  type: partymate
+skin: Pale
+spec: Cleric
 stats:
-  cha: 12
-  con: 13
-  dex: 8
-  int: 15
-  str: 17
-  wis: 12
-track: Assault
-trait: Flattery is my preferred trick for getting what I want.
-trait1: Reliable
-trait2: Power-hungry
+  cha: 13
+  con: 15
+  dex: 13
+  int: 12
+  str: 12
+  wis: 15
+track: Diplomacy
+trait: I'm full of inspiring and cautionary tales from my military experience relevant
+  to almost every combat situation.
+trait1: Curious
+trait2: Obsessive
 year: 2
 ---
+# Yan Sorsasta
+---
+### Description
+- 2nd year Gnome Cleric in Elkenval
+- wavy lighter blonde hair that's done up in a top knot, Amber eyes, and Pale skin
+- Is Curious and Obsessive, and has Conformity as their ideal
+
+### Organizations
+### Relationships
+[[Victor Gaelira]]: partymate
+[[Goetia Mistale]]: partymate
+[[Halja Dwyer]]: partymate
+### Stats
+```statblock
+name: Yan Sorsasta
+stats: [12, 13, 15, 12, 15, 13]
+```

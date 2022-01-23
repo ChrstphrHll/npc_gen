@@ -1,37 +1,52 @@
 ---
 birthday:
-  numeric: 7/1
-  written: 1st of Ravenent
-bond: I seek to preserve a sacred text that my enemies consider heretical and seek
-  to destroy.
-eyes: Red
-flaw: The people who knew me when I was young know my shameful secret, so I can never
-  go home again.
-guild: Treskal
-hair: curly brunette hair that's braided with green ribbon (long)
-ideal: Dishonesty
+  numeric: 6/7
+  written: 7th of Pelent
+bond: Nothing is more important than the other members of my family.
+eyes: Pale Brown
+flaw: Once someone questions my courage, I never back down no matter how dangerous
+  the situation.
+guild: Jettenia
+hair: curly red hair that's parted to the right
+ideal: Patience
 name: Violetta Coldsprinter
 organizations: []
-partyID: 47
-race: Dwarf
+partyID: 17
+race: Human
 relationships:
-- name: Maarika Oncith
+- name: Secarr Ashbluff
   type: partymate
-- name: Brooka Whesker
+- name: Brianna Kosunten
   type: partymate
 skin: Dark Tan
-spec: Rouge
+spec: Monk
 stats:
-  cha: 10
-  con: 11
+  cha: 8
+  con: 10
   dex: 14
   int: 7
   str: 9
-  wis: 9
-track: Protection
-trait: I keep multiple holy symbols on me and invoke whatever deity might come in
-  useful at any given moment.
-trait1: Busy
-trait2: Licentious
-year: 6
+  wis: 13
+track: Assault
+trait: I have my own ideas about what is and is not food, and I find the eating habits
+  of those around me fascinating, confusing, or revolting.
+trait1: Infallible
+trait2: Puritanical
+year: 2
 ---
+# Violetta Coldsprinter
+---
+### Description
+- 2nd year Human Monk in Jettenia
+- curly red hair that's parted to the right, Pale Brown eyes, and Dark Tan skin
+- Is Infallible and Puritanical, and has Patience as their ideal
+
+### Organizations
+### Relationships
+[[Secarr Ashbluff]]: partymate
+[[Brianna Kosunten]]: partymate
+### Stats
+```statblock
+name: Violetta Coldsprinter
+stats: [9, 14, 10, 7, 13, 8]
+```

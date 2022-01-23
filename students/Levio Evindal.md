@@ -1,38 +1,50 @@
 ---
 birthday:
-  numeric: 7/18
-  written: 18th of Ravenent
-bond: My house's alliance with another noble family must be sustained at all costs.
-eyes: Pale Blue
-flaw: I hide a truly scandalous secret that could ruin my family forever.
-guild: Treskal
-hair: wavy dark red hair that's put back in a short pony tail
-ideal: Harmony
+  numeric: 1/20
+  written: 20th of Avanent
+bond: I want to be famous, whatever it takes.
+eyes: Red
+flaw: I have an insatiable desire for carnal pleasures.
+guild: Jettenia
+hair: straight blonde hair that's put up in a large bun
+ideal: Live and Let Live
 name: Levio Evindal
 organizations: []
-partyID: 81
-race: Half-Orc
+partyID: 68
+race: Triton
 relationships:
-- name: Cirvlon Elpaerae
+- name: Selina Bellas
   type: partymate
-- name: Zylphan Molostroi
+- name: Alyx Nopos
   type: partymate
-- name: Lenn Schimae
-  type: partymate
-skin: Green Blue
-spec: Monk
+skin: Olive
+spec: Ranger
 stats:
-  cha: 12
-  con: 13
+  cha: 9
+  con: 14
   dex: 15
-  int: 12
-  str: 13
-  wis: 13
+  int: 15
+  str: 9
+  wis: 10
 track: Diplomacy
-trait: I have different assumptions from those around me concerning personal space,
-  blithely invading others' space in innocence, or reacting to ignorant invasion of
-  my own.
-trait1: Unhurried
-trait2: Freewheeling
-year: 5
+trait: I have a strong code of honor or sense of propriety that others don't comprehend.
+trait1: Forthright
+trait2: Fawning
+year: 2
 ---
+# Levio Evindal
+---
+### Description
+- 2nd year Triton Ranger in Jettenia
+- straight blonde hair that's put up in a large bun, Red eyes, and Olive skin
+- Is Forthright and Fawning, and has Live and Let Live as their ideal
+
+### Organizations
+### Relationships
+[[Selina Bellas]]: partymate
+[[Alyx Nopos]]: partymate
+### Stats
+```statblock
+name: Levio Evindal
+stats: [9, 15, 14, 15, 10, 9]
+```

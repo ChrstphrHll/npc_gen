@@ -1,38 +1,51 @@
 ---
 birthday:
-  numeric: 5/8
-  written: 8th of Pelent
-bond: I'm fascinated by the beauty and wonder of this new land.
-eyes: Green
-flaw: Violence is my answer to almost any challenge.
+  numeric: 4/15
+  written: 15th of Moradent
+bond: I suffer awful visions of a coming disaster and will do anything to prevent
+  it.
+eyes: Sea Green
+flaw: In fact, the world does revolve around me.
 guild: Treskal
-hair: frizzy lighter blonde hair that's a tousled bed head
-ideal: Encouragement
+hair: straight violet hair that's parted to the left
+ideal: Faith
 name: Lilia Agrippa
 organizations: []
-partyID: 43
-race: Human
+partyID: 49
+race: Tiefling
 relationships:
-- name: Asmiak Seirye
+- name: Jess Beebe
   type: partymate
-- name: Jofan Elignoir
+- name: Gifre Edyrm
   type: partymate
-- name: Kayla Kaminsky
-  type: partymate
-- name: Alinea Hellsturn
-  type: partymate
-skin: Dark Tan
-spec: Druid
+skin: Deep Blue
+spec: Paladin
 stats:
-  cha: 13
-  con: 14
-  dex: 6
-  int: 11
-  str: 13
-  wis: 16
-track: Diplomacy
-trait: There's nothing I like more than a good mystery.
-trait1: Excellent
-trait2: Reserved
+  cha: 11
+  con: 11
+  dex: 9
+  int: 12
+  str: 15
+  wis: 10
+track: Exploration
+trait: I'm full of witty aphorisms and have a proverb for every occasion.
+trait1: Adaptable
+trait2: Authoritarian
 year: 2
 ---
+# Lilia Agrippa
+---
+### Description
+- 2nd year Tiefling Paladin in Treskal
+- straight violet hair that's parted to the left, Sea Green eyes, and Deep Blue skin
+- Is Adaptable and Authoritarian, and has Faith as their ideal
+
+### Organizations
+### Relationships
+[[Jess Beebe]]: partymate
+[[Gifre Edyrm]]: partymate
+### Stats
+```statblock
+name: Lilia Agrippa
+stats: [15, 9, 11, 12, 10, 11]
+```

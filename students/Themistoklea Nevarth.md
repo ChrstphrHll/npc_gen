@@ -1,40 +1,51 @@
 ---
 birthday:
-  numeric: 4/6
-  written: 6th of Iounent
-bond: I have an ancient text that holds terrible secrets that must not fall into the
-  wrong hands.
-eyes: Yellow
-flaw: I'll do anything to win fame and renown.
+  numeric: 5/5
+  written: 5th of Iounent
+bond: I entered seclusion because I loved someone I could not have.
+eyes: Blue
+flaw: I overlook obvious solutions in favor of complicated ones.
 guild: Treskal
-hair: curly brunette hair that's hanging down to their back
-ideal: Charity
+hair: curly red hair that's parted to the side, slightly obscuring an eye
+ideal: Intuition
 name: Themistoklea Nevarth
 organizations: []
-partyID: 38
+partyID: 5
 race: Halfling
 relationships:
-- name: Adresin Ilbryn
+- name: Josius Iliphar
   type: partymate
-- name: Branus Shadegrove
+- name: Asralyn Rhangyl
   type: partymate
-- name: Saleas Rilitar
-  type: partymate
-- name: Gunnar Ordayius
-  type: partymate
-skin: Light
-spec: Artificer
+skin: Dark Brown
+spec: Fighter
 stats:
-  cha: 6
-  con: 8
-  dex: 12
-  int: 18
-  str: 11
-  wis: 11
+  cha: 14
+  con: 13
+  dex: 14
+  int: 12
+  str: 12
+  wis: 10
 track: Diplomacy
-trait: I often get lost in my own thoughts and contemplation, becoming oblivious to
-  my surroundings.
-trait1: Aspiring
-trait2: Neurotic
-year: 2
+trait: I am incredibly slow to trust. Those who seem the fairest often have the most
+  to hide.
+trait1: Anticipative
+trait2: Driving
+year: 5
 ---
+# Themistoklea Nevarth
+---
+### Description
+- 5th year Halfling Fighter in Treskal
+- curly red hair that's parted to the side, slightly obscuring an eye, Blue eyes, and Dark Brown skin
+- Is Anticipative and Driving, and has Intuition as their ideal
+
+### Organizations
+### Relationships
+[[Josius Iliphar]]: partymate
+[[Asralyn Rhangyl]]: partymate
+### Stats
+```statblock
+name: Themistoklea Nevarth
+stats: [12, 14, 13, 12, 10, 14]
+```

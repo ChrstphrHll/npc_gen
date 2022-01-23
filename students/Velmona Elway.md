@@ -1,35 +1,57 @@
 ---
 birthday:
-  numeric: 5/20
-  written: 20th of Pelent
-bond: I've been searching my whole life for the answer to a certain question.
-eyes: Yellow
-flaw: I have trouble trusting in my allies.
-guild: Elkenval
-hair: straight pink hair that's loose around the shoulders
-ideal: Loyalty
+  numeric: 1/9
+  written: 9th of Avanent
+bond: I work to preserve a library, university, scriptorium, or monastery.
+eyes: Gray
+flaw: I can't resist swindling people who are more powerful than me.
+guild: Jettenia
+hair: straight dirty blonde hair that's parted to the side, slightly obscuring an
+  eye
+ideal: Pessimism
 name: Velmona Elway
 organizations: []
-partyID: 85
-race: Half-Elf
+partyID: 91
+race: Gnome
 relationships:
-- name: Jaxon Brindarry
+- name: Harperia Winchell
   type: partymate
-- name: Hagar Sakrattars
+- name: Braidyn Kemetra
   type: partymate
-skin: Light
-spec: Wizard
+- name: Eune Eldratha
+  type: partymate
+- name: Ryan Ebersol
+  type: partymate
+skin: Dark Brown
+spec: Artificer
 stats:
-  cha: 12
-  con: 11
-  dex: 10
-  int: 11
-  str: 6
-  wis: 8
-track: Diplomacy
-trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
-  bundle in my arms.
-trait1: Responsible
-trait2: Candid
-year: 2
+  cha: 11
+  con: 12
+  dex: 15
+  int: 15
+  str: 11
+  wis: 9
+track: Assault
+trait: I blow up at the slightest insult.
+trait1: Suave
+trait2: Reactive
+year: 3
 ---
+# Velmona Elway
+---
+### Description
+- 3rd year Gnome Artificer in Jettenia
+- straight dirty blonde hair that's parted to the side, slightly obscuring an eye, Gray eyes, and Dark Brown skin
+- Is Suave and Reactive, and has Pessimism as their ideal
+
+### Organizations
+### Relationships
+[[Harperia Winchell]]: partymate
+[[Braidyn Kemetra]]: partymate
+[[Eune Eldratha]]: partymate
+[[Ryan Ebersol]]: partymate
+### Stats
+```statblock
+name: Velmona Elway
+stats: [11, 15, 12, 15, 9, 11]
+```

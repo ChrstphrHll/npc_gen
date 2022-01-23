@@ -1,39 +1,51 @@
 ---
 birthday:
-  numeric: 2/31
-  written: 31st of Melorent
-bond: I will someday get revenge on the corrupt temple hierarchy who branded me a
-  heretic.
-eyes: Spring Green
-flaw: I'll do anything to win fame and renown.
-guild: Alderden
-hair: short spines
-ideal: People
+  numeric: 3/23
+  written: 23rd of Melorent
+bond: I protect those who cannot protect themselves.
+eyes: Green
+flaw: Violence is my answer to almost any challenge.
+guild: Burk
+hair: curly pink hair that's kept back by a turquoise headband
+ideal: Teamwork
 name: Barak Felaern
 organizations: []
-partyID: 17
-race: Dragonborn
+partyID: 71
+race: Triton
 relationships:
-- name: Rianna Belt
+- name: Pynelope Valhein
   type: partymate
-- name: Connovar Kaminsky
+- name: Terek Nushala
   type: partymate
-- name: Jendrellian Webb
-  type: partymate
-- name: Jamye Napraeleon
-  type: partymate
-skin: black
-spec: Ranger
+skin: Sea Green
+spec: Paladin
 stats:
-  cha: 10
-  con: 17
-  dex: 12
+  cha: 14
+  con: 12
+  dex: 14
   int: 11
-  str: 8
-  wis: 8
-track: Exploration
-trait: I quote (or misquote) sacred texts and proverbs in almost every situation.
-trait1: Gracious
-trait2: Bland
+  str: 16
+  wis: 13
+track: Protection
+trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
+  accommodations.
+trait1: Risk-taking
+trait2: Hot-tempered
 year: 2
 ---
+# Barak Felaern
+---
+### Description
+- 2nd year Triton Paladin in Burk
+- curly pink hair that's kept back by a turquoise headband, Green eyes, and Sea Green skin
+- Is Risk-taking and Hot-tempered, and has Teamwork as their ideal
+
+### Organizations
+### Relationships
+[[Pynelope Valhein]]: partymate
+[[Terek Nushala]]: partymate
+### Stats
+```statblock
+name: Barak Felaern
+stats: [16, 14, 12, 11, 13, 14]
+```

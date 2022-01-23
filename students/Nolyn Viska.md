@@ -1,36 +1,51 @@
 ---
 birthday:
-  numeric: 6/31
-  written: 31st of Korent
-bond: My instrument is my most treasured possession, and it reminds me of someone
-  I love.
-eyes: Purple
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Alderden
-hair: curly grey hair that's parted to the left
-ideal: Friendship
+  numeric: 3/9
+  written: 9th of Melorent
+bond: Something important was taken from me, and I aim to steal it back.
+eyes: Blue
+flaw: By my words and actions, I often bring shame to my family.By my words and actions,
+  I often bring shame to my family.
+guild: Treskal
+hair: many curled horns
+ideal: Family
 name: Nolyn Viska
 organizations: []
-partyID: 12
-race: Tiefling
+partyID: 73
+race: Dragonborn
 relationships:
-- name: Guliemos Nym
+- name: Handyr Letryal
   type: partymate
-- name: Hanna Arkhun
+- name: Vila Tassarion
   type: partymate
-skin: Red
-spec: Monk
+skin: black
+spec: Wizard
 stats:
-  cha: 10
-  con: 14
-  dex: 17
-  int: 12
-  str: 11
-  wis: 12
-track: Protection
-trait: I'm a born gambler who can't resist taking a risk for a potential payoff.
-trait1: Familial
-trait2: Obsessive
-year: 3
+  cha: 15
+  con: 6
+  dex: 13
+  int: 16
+  str: 12
+  wis: 9
+track: Diplomacy
+trait: I misuse long words in an attempt to sound smarter.
+trait1: Adaptable
+trait2: Repulsive
+year: 4
 ---
+# Nolyn Viska
+---
+### Description
+- 4th year Dragonborn Wizard in Treskal
+- many curled horns, Blue eyes, and black skin
+- Is Adaptable and Repulsive, and has Family as their ideal
+
+### Organizations
+### Relationships
+[[Handyr Letryal]]: partymate
+[[Vila Tassarion]]: partymate
+### Stats
+```statblock
+name: Nolyn Viska
+stats: [12, 13, 6, 16, 9, 15]
+```

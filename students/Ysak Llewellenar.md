@@ -1,39 +1,55 @@
 ---
 birthday:
-  numeric: 1/25
-  written: 25th of Corelent
-bond: I work to preserve a library, university, scriptorium, or monastery.
-eyes: Red
-flaw: I am easily distracted by the promise of information.
-guild: Elkenval
-hair: wavy grey hair that's put up in a large bun
-ideal: Professionalism
+  numeric: 5/25
+  written: 25th of Iounent
+bond: My ill-gotten gains go to support my family.
+eyes: Amber
+flaw: Don't expect me to save those who can't save themselves. It is nature's way
+  that the strong thrive and the weak perish.
+guild: Fiesn
+hair: straight brunette hair that's put back in a short pony tail
+ideal: Charity
 name: Ysak Llewellenar
 organizations: []
-partyID: 14
-race: Half-Orc
+partyID: 41
+race: Firbolg
 relationships:
-- name: Alonnos Xanotter
+- name: Bera Cauladra
   type: partymate
-- name: Jamie Kesefehon
+- name: Hazel Winters
   type: partymate
-- name: Jareth Tanseril
+- name: Yoshen Arcaena
   type: partymate
-- name: Ryan Ebersol
-  type: partymate
-skin: Deep Green
-spec: Wizard
+skin: Pale Gray
+spec: Ranger
 stats:
-  cha: 11
-  con: 7
-  dex: 10
-  int: 18
-  str: 13
-  wis: 15
-track: Protection
-trait: I have a strong sense of fair play and always try to find the most equitable
-  solution to arguments.
-trait1: Stylish
-trait2: Pedantic
-year: 4
+  cha: 17
+  con: 11
+  dex: 17
+  int: 16
+  str: 14
+  wis: 14
+track: Diplomacy
+trait: I am tolerant (or intolerant) of other faiths and respect (or condemn) the
+  worship of other gods.
+trait1: Daring
+trait2: Glamorous
+year: 1
 ---
+# Ysak Llewellenar
+---
+### Description
+- 1st year Firbolg Ranger in Fiesn
+- straight brunette hair that's put back in a short pony tail, Amber eyes, and Pale Gray skin
+- Is Daring and Glamorous, and has Charity as their ideal
+
+### Organizations
+### Relationships
+[[Bera Cauladra]]: partymate
+[[Hazel Winters]]: partymate
+[[Yoshen Arcaena]]: partymate
+### Stats
+```statblock
+name: Ysak Llewellenar
+stats: [14, 17, 11, 16, 14, 17]
+```

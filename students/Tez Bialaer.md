@@ -1,40 +1,50 @@
 ---
 birthday:
-  numeric: 5/9
-  written: 9th of Pelent
-bond: I will get revenge on the evil forces that destroyed my place of business and
-  ruined my livelihood.
-eyes: Aqua
-flaw: I consider the adherents of other gods to be deluded innocents at best, or ignorant
-  fools at worst.
-guild: Alderden
-hair: smooth copper guilded with copper
-ideal: Cunning
+  numeric: 1/11
+  written: 11th of Avanent
+bond: I work to preserve a library, university, scriptorium, or monastery.
+eyes: Hazel
+flaw: In fact, the world does revolve around me.
+guild: Elkenval
+hair: wavy black hair that's put back in a long pony tail
+ideal: Variety
 name: Tez Bialaer
 organizations: []
-partyID: 36
-race: Warforged
+partyID: 6
+race: Halfling
 relationships:
-- name: Abel Marsh
+- name: Volkos Halaema
   type: partymate
-- name: Asten Alavara
+- name: Mavrek Aolis
   type: partymate
-- name: Selina Ochyllyss
-  type: partymate
-- name: Malchor Tenyajn
-  type: partymate
-skin: gold
-spec: Druid
+skin: Tan
+spec: Barbarian
 stats:
-  cha: 7
-  con: 13
-  dex: 14
-  int: 12
-  str: 12
-  wis: 15
-track: Protection
-trait: I'm a born gambler who can't resist taking a risk for a potential payoff.
-trait1: Industrious
-trait2: Confused
-year: 4
+  cha: 11
+  con: 12
+  dex: 10
+  int: 8
+  str: 18
+  wis: 10
+track: Assault
+trait: I change my mood or my mind as quickly as I change key in a song.
+trait1: Tasteful
+trait2: Picky
+year: 3
 ---
+# Tez Bialaer
+---
+### Description
+- 3rd year Halfling Barbarian in Elkenval
+- wavy black hair that's put back in a long pony tail, Hazel eyes, and Tan skin
+- Is Tasteful and Picky, and has Variety as their ideal
+
+### Organizations
+### Relationships
+[[Volkos Halaema]]: partymate
+[[Mavrek Aolis]]: partymate
+### Stats
+```statblock
+name: Tez Bialaer
+stats: [18, 10, 12, 8, 10, 11]
+```

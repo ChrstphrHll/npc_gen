@@ -1,34 +1,53 @@
 ---
 birthday:
-  numeric: 5/32
-  written: 32nd of Pelent
-bond: I sponsor an orphanage to keep others from enduring what I was forced to endure.
-eyes: Yellow
-flaw: Once I start drinking, it's hard for me to stop.
-guild: Jettenia
-hair: straight platinum hair that's done up in a top knot
-ideal: Grace
+  numeric: 5/27
+  written: 27th of Iounent
+bond: I have an ancient text that holds terrible secrets that must not fall into the
+  wrong hands.
+eyes: Pale Brown
+flaw: I remember every insult I've received and nurse a silent resentment toward anyone
+  who's ever wronged me.
+guild: Alderden
+hair: wavy blonde hair that's put back in a long pony tail
+ideal: Spontaneity
 name: Auzerais Venali
 organizations: []
-partyID: 34
-race: Goliath
+partyID: 16
+race: Gnome
 relationships:
-- name: Nicolle Shandalar
+- name: Favroe Kythaela
   type: partymate
-- name: Remus Manchul
+- name: Zylphan Molostroi
   type: partymate
-skin: Fair
-spec: Bard
+skin: Dark Tan
+spec: Druid
 stats:
-  cha: 18
+  cha: 11
   con: 13
-  dex: 10
-  int: 10
-  str: 15
-  wis: 16
-track: Protection
-trait: I'll settle for nothing less than perfection.
-trait1: Heroic
-trait2: Hesitant
-year: 3
+  dex: 12
+  int: 11
+  str: 12
+  wis: 18
+track: Diplomacy
+trait: I don't part with my money easily and will haggle tirelessly to get the best
+  deal possible.
+trait1: Observant
+trait2: Perverse
+year: 1
 ---
+# Auzerais Venali
+---
+### Description
+- 1st year Gnome Druid in Alderden
+- wavy blonde hair that's put back in a long pony tail, Pale Brown eyes, and Dark Tan skin
+- Is Observant and Perverse, and has Spontaneity as their ideal
+
+### Organizations
+### Relationships
+[[Favroe Kythaela]]: partymate
+[[Zylphan Molostroi]]: partymate
+### Stats
+```statblock
+name: Auzerais Venali
+stats: [12, 12, 13, 11, 18, 11]
+```

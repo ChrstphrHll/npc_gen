@@ -1,33 +1,54 @@
 ---
 birthday:
-  numeric: 2/20
-  written: 20th of Melorent
-bond: I owe a debt I can never repay to the person who took pity on me.
-eyes: Yellow
-flaw: I'll say anything to avoid having to do extra work.
-guild: Treskal
-hair: straight platinum hair that's done up in a top knot
-ideal: Speed
+  numeric: 3/25
+  written: 25th of Melorent
+bond: I will bring terrible wrath down on the evildoers who destroyed my homeland.
+eyes: Brown
+flaw: Once I pick a goal, I become obsessed with it to the detriment of everything
+  else in my life.
+guild: Alderden
+hair: ruffled
+ideal: Commonality
 name: Surge Fayd
 organizations: []
-partyID: 62
-race: Triton
+partyID: 7
+race: Kenku
 relationships:
-- name: Cam Lazziar
+- name: Sulivan Wylchyr
   type: partymate
-skin: Sea Green
-spec: Druid
+- name: Adros Tolthe
+  type: partymate
+- name: Ljuk Vulkor
+  type: partymate
+skin: Dark Purple
+spec: Monk
 stats:
-  cha: 6
-  con: 8
-  dex: 12
-  int: 9
-  str: 16
+  cha: 9
+  con: 12
+  dex: 17
+  int: 6
+  str: 12
   wis: 15
-track: Assault
-trait: I place no stock in wealthy or well-mannered folk. Money and manners won't
-  save you from a hungry owlbear.
-trait1: Relaxed
-trait2: Charmless
-year: 3
+track: Diplomacy
+trait: I'm oblivious to etiquette and social expectations.
+trait1: Innovative
+trait2: Uncreative
+year: 1
 ---
+# Surge Fayd
+---
+### Description
+- 1st year Kenku Monk in Alderden
+- ruffled, Brown eyes, and Dark Purple skin
+- Is Innovative and Uncreative, and has Commonality as their ideal
+
+### Organizations
+### Relationships
+[[Sulivan Wylchyr]]: partymate
+[[Adros Tolthe]]: partymate
+[[Ljuk Vulkor]]: partymate
+### Stats
+```statblock
+name: Surge Fayd
+stats: [12, 17, 12, 6, 15, 9]
+```

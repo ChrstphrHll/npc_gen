@@ -1,37 +1,56 @@
 ---
 birthday:
-  numeric: 0/31
-  written: 31st of Avanent
-bond: I hold no greater cause than my service to my people.
-eyes: Emerald Green
-flaw: I have a weakness for the vices of the city, especially hard drink.
-guild: Elkenval
-hair: wavy brunette hair that's put up in a large bun
-ideal: Variety
+  numeric: 7/3
+  written: 3rd of Korent
+bond: I owe my guild a great debt for forging me into the person I am today.
+eyes: Gray
+flaw: I am dogmatic in my thoughts and philosophy.
+guild: Jettenia
+hair: wavy green hair that's parted to the side, slightly obscuring an eye
+ideal: Renewal
 name: Gabrila Retra
 organizations: []
-partyID: 3
-race: Dwarf
+partyID: 29
+race: Gnome
 relationships:
-- name: Cartyr Tamsin
+- name: Savanna Ildilyntra
   type: partymate
-- name: Audree Dixon
+- name: Selina Ochyllyss
   type: partymate
-- name: Skalanis Kobayashi
+- name: Hodus Belt
   type: partymate
-skin: Fair
-spec: Sorcerer
+- name: Allyson Vindinglag
+  type: partymate
+skin: Tan
+spec: Rouge
 stats:
-  cha: 15
-  con: 13
-  dex: 14
-  int: 14
-  str: 10
-  wis: 14
-track: Assault
-trait: I'm haunted by memories of war. I can't get the images of violence out of my
-  mind.
-trait1: Objective
-trait2: Destructive
+  cha: 7
+  con: 8
+  dex: 13
+  int: 12
+  str: 11
+  wis: 12
+track: Exploration
+trait: I've lost too many friends, and I'm slow to make new ones.
+trait1: Sensitive
+trait2: Sloppy
 year: 3
 ---
+# Gabrila Retra
+---
+### Description
+- 3rd year Gnome Rouge in Jettenia
+- wavy green hair that's parted to the side, slightly obscuring an eye, Gray eyes, and Tan skin
+- Is Sensitive and Sloppy, and has Renewal as their ideal
+
+### Organizations
+### Relationships
+[[Savanna Ildilyntra]]: partymate
+[[Selina Ochyllyss]]: partymate
+[[Hodus Belt]]: partymate
+[[Allyson Vindinglag]]: partymate
+### Stats
+```statblock
+name: Gabrila Retra
+stats: [11, 13, 8, 12, 12, 7]
+```

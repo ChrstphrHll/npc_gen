@@ -1,33 +1,51 @@
 ---
 birthday:
-  numeric: 3/9
-  written: 9th of Moradent
-bond: I have an ancient text that holds terrible secrets that must not fall into the
-  wrong hands.
-eyes: Aqua
-flaw: I'm never satisfied with what I have- I always want more.
-guild: Jettenia
-hair: curly blonde hair that's loose around the shoulders
-ideal: Faith
+  numeric: 8/23
+  written: 23rd of Ravenent
+bond: My life's work is a series of tomes related to a specific field of lore.
+eyes: Pale Gray
+flaw: The tyrant who rules my land will stop at nothing to see me killed.
+guild: Fiesn
+hair: wavy blonde hair that's loose around the shoulders
+ideal: Forgiveness
 name: Aidyn Glynnii
 organizations: []
-partyID: 61
+partyID: 12
 race: Human
 relationships:
-- name: Brithmaur Decker
+- name: Dree Nuala
+  type: partymate
+- name: Delja Iefyr
   type: partymate
 skin: Brown
-spec: Cleric
+spec: Wizard
 stats:
-  cha: 11
-  con: 10
+  cha: 9
+  con: 12
   dex: 12
-  int: 16
-  str: 13
-  wis: 16
+  int: 14
+  str: 9
+  wis: 12
 track: Diplomacy
-trait: I judge people by their actions, not their words.
-trait1: Flexible
-trait2: Selfish
-year: 1
+trait: I have my own ideas about what is and is not food, and I find the eating habits
+  of those around me fascinating, confusing, or revolting.
+trait1: Patriotic
+trait2: Hateful
+year: 8
 ---
+# Aidyn Glynnii
+---
+### Description
+- 8th year Human Wizard in Fiesn
+- wavy blonde hair that's loose around the shoulders, Pale Gray eyes, and Brown skin
+- Is Patriotic and Hateful, and has Forgiveness as their ideal
+
+### Organizations
+### Relationships
+[[Dree Nuala]]: partymate
+[[Delja Iefyr]]: partymate
+### Stats
+```statblock
+name: Aidyn Glynnii
+stats: [9, 12, 12, 14, 12, 9]
+```

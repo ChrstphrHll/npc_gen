@@ -1,39 +1,54 @@
 ---
 birthday:
-  numeric: 1/28
-  written: 28th of Corelent
-bond: I will do anything to prove myself superior to my hated rival.
-eyes: Orange
-flaw: A scandal prevents me from ever going home again. That kind of trouble seems
-  to follow me around.
-guild: Elkenval
-hair: straight white hair that's put back in a long pony tail
-ideal: Connection
+  numeric: 3/20
+  written: 20th of Melorent
+bond: I would do anything for the other members of my old troupe.
+eyes: Pale Blue
+flaw: Don't expect me to save those who can't save themselves. It is nature's way
+  that the strong thrive and the weak perish.
+guild: Treskal
+hair: curly platinum hair that's braided with blue ribbon (med)
+ideal: Involvement
 name: Lucoe Lorelei
 organizations: []
-partyID: 44
-race: Tiefling
+partyID: 81
+race: Halfling
 relationships:
-- name: Theriss Deularla
+- name: Gerrimar Vulkor
   type: partymate
-- name: Eligio Nevarth
+- name: Leya Escobar
   type: partymate
-- name: Julyo Agassi
+- name: Aryana Ahrendue
   type: partymate
-- name: Vaervenshalice Eloen
-  type: partymate
-skin: Pale Yellow
-spec: Paladin
+skin: Tan
+spec: Sorcerer
 stats:
-  cha: 9
-  con: 13
-  dex: 15
-  int: 6
-  str: 17
-  wis: 17
-track: Assault
-trait: I eat like a pig and have bad manners.
-trait1: Imaginative
-trait2: Insecure
-year: 2
+  cha: 15
+  con: 12
+  dex: 13
+  int: 9
+  str: 5
+  wis: 14
+track: Exploration
+trait: I enjoy being strong and like breaking things.
+trait1: Rustic
+trait2: Oppressed
+year: 1
 ---
+# Lucoe Lorelei
+---
+### Description
+- 1st year Halfling Sorcerer in Treskal
+- curly platinum hair that's braided with blue ribbon (med), Pale Blue eyes, and Tan skin
+- Is Rustic and Oppressed, and has Involvement as their ideal
+
+### Organizations
+### Relationships
+[[Gerrimar Vulkor]]: partymate
+[[Leya Escobar]]: partymate
+[[Aryana Ahrendue]]: partymate
+### Stats
+```statblock
+name: Lucoe Lorelei
+stats: [5, 13, 12, 9, 14, 15]
+```

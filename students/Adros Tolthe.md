@@ -1,36 +1,55 @@
 ---
 birthday:
-  numeric: 3/27
-  written: 27th of Moradent
-bond: I seek to preserve a sacred text that my enemies consider heretical and seek
-  to destroy.
-eyes: Purple
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Jettenia
-hair: curly brunette hair that's pulled to the side and buzzed on the left
-ideal: Religion
+  numeric: 1/16
+  written: 16th of Avanent
+bond: I protect those who cannot protect themselves.
+eyes: Emerald Green
+flaw: I too often hear veiled insults and threats in every word addressed to me, and
+  I'm quick to anger.
+guild: Alderden
+hair: curly auburn hair that's put up in a large bun
+ideal: Innovation
 name: Adros Tolthe
 organizations: []
-partyID: 11
-race: Gnome
+partyID: 7
+race: Triton
 relationships:
-- name: Aryana Velethuil
+- name: Sulivan Wylchyr
   type: partymate
-- name: Braidyn Kemetra
+- name: Surge Fayd
   type: partymate
-skin: Brown
-spec: Fighter
+- name: Ljuk Vulkor
+  type: partymate
+skin: Pale Blue
+spec: Monk
 stats:
-  cha: 13
-  con: 5
-  dex: 8
-  int: 12
-  str: 15
-  wis: 12
-track: Exploration
-trait: I love a good insult, even one directed at me.
-trait1: Animated
-trait2: Shortsighted
-year: 5
+  cha: 5
+  con: 13
+  dex: 14
+  int: 11
+  str: 7
+  wis: 10
+track: Assault
+trait: I believe that anything worth doing is worth doing right. I can't help it-
+  I'm a perfectionist.
+trait1: Devoted
+trait2: High-spirited
+year: 1
 ---
+# Adros Tolthe
+---
+### Description
+- 1st year Triton Monk in Alderden
+- curly auburn hair that's put up in a large bun, Emerald Green eyes, and Pale Blue skin
+- Is Devoted and High-spirited, and has Innovation as their ideal
+
+### Organizations
+### Relationships
+[[Sulivan Wylchyr]]: partymate
+[[Surge Fayd]]: partymate
+[[Ljuk Vulkor]]: partymate
+### Stats
+```statblock
+name: Adros Tolthe
+stats: [7, 14, 13, 11, 10, 5]
+```

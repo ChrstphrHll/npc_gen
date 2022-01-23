@@ -1,36 +1,52 @@
 ---
 birthday:
-  numeric: 7/7
-  written: 7th of Ravenent
-bond: My isolation gave me great insight into a great evil that only I can destroy.
-eyes: Yellow
-flaw: I am too enamored of ale, wine, and other intoxicants.
-guild: Fiesn
-hair: 3 jagged horns
-ideal: Justice
+  numeric: 6/1
+  written: 1st of Pelent
+bond: I escaped my life of poverty by robbing an important person, and I'm wanted
+  for it.
+eyes: Blue
+flaw: People who can't take care of themselves get what they deserve.
+guild: Treskal
+hair: frizzy red hair that's kept back by a turquoise headband
+ideal: Code
 name: Edyrm Iolas
 organizations: []
-partyID: 78
-race: Dragonborn
+partyID: 60
+race: Dwarf
 relationships:
-- name: Pinna Vanius
+- name: Nycola Eroan
   type: partymate
-- name: Theodus Chylnoth
+- name: Saccaros Anaharae
   type: partymate
-- name: Faliah Oluevaera
-  type: partymate
-skin: brass
+skin: Dark Tan
 spec: Paladin
 stats:
-  cha: 13
-  con: 4
-  dex: 8
-  int: 14
+  cha: 11
+  con: 12
+  dex: 13
+  int: 4
   str: 14
-  wis: 6
-track: Assault
-trait: I use polysyllabic words that convey the impression of great erudition.
-trait1: Appreciative
-trait2: Impassive
-year: 2
+  wis: 10
+track: Exploration
+trait: I . . . speak . . . slowly . . . when talking . . . to idiots, . . . which
+  . . . almost . . . everyone . . . is . . . compared . . . to me.
+trait1: Brave
+trait2: Pharissical
+year: 1
 ---
+# Edyrm Iolas
+---
+### Description
+- 1st year Dwarf Paladin in Treskal
+- frizzy red hair that's kept back by a turquoise headband, Blue eyes, and Dark Tan skin
+- Is Brave and Pharissical, and has Code as their ideal
+
+### Organizations
+### Relationships
+[[Nycola Eroan]]: partymate
+[[Saccaros Anaharae]]: partymate
+### Stats
+```statblock
+name: Edyrm Iolas
+stats: [14, 13, 12, 4, 10, 11]
+```

@@ -1,40 +1,50 @@
 ---
 birthday:
-  numeric: 0/32
-  written: 32nd of Avanent
-bond: It is my duty to protect my students.
-eyes: Deep Blue
-flaw: Don't expect me to save those who can't save themselves. It is nature's way
-  that the strong thrive and the weak perish.
+  numeric: 8/28
+  written: 28th of Ravenent
+bond: I am in love with the heir of a family that my family despises.
+eyes: Green
+flaw: If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
 guild: Treskal
-hair: 5 jagged horns
-ideal: Flexibility
+hair: smooth brass guilded with brass
+ideal: Harmony
 name: Yathlanae Arkhun
 organizations: []
-partyID: 15
-race: Dragonborn
+partyID: 52
+race: Warforged
 relationships:
-- name: Allyson Vindinglag
+- name: Aenglo Dyffros
   type: partymate
-- name: Goetia Mistale
+- name: Vaervenshalice Eloen
   type: partymate
-- name: Willam Ardryll
-  type: partymate
-- name: Nom Remington
-  type: partymate
-skin: bronze
-spec: Monk
+skin: gold
+spec: Druid
 stats:
-  cha: 11
-  con: 12
+  cha: 15
+  con: 10
   dex: 14
-  int: 13
+  int: 14
   str: 12
-  wis: 11
-track: Exploration
-trait: Nobody stays angry at me or around me for long, since I can defuse any amount
-  of tension.
-trait1: Characterful
-trait2: Scornful
-year: 1
+  wis: 16
+track: Protection
+trait: I'm full of witty aphorisms and have a proverb for every occasion.
+trait1: Hearty
+trait2: Restrained
+year: 3
 ---
+# Yathlanae Arkhun
+---
+### Description
+- 3rd year Warforged Druid in Treskal
+- smooth brass guilded with brass, Green eyes, and gold skin
+- Is Hearty and Restrained, and has Harmony as their ideal
+
+### Organizations
+### Relationships
+[[Aenglo Dyffros]]: partymate
+[[Vaervenshalice Eloen]]: partymate
+### Stats
+```statblock
+name: Yathlanae Arkhun
+stats: [12, 14, 10, 14, 16, 15]
+```

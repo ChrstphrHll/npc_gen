@@ -1,40 +1,50 @@
 ---
 birthday:
-  numeric: 0/17
-  written: 17th of Avanent
-bond: I come from a noble family, and one day I'll reclaim my lands and title from
-  those who stole them from me.
-eyes: Red
-flaw: The people who knew me when I was young know my shameful secret, so I can never
-  go home again.
+  numeric: 3/10
+  written: 10th of Melorent
+bond: I've been searching my whole life for the answer to a certain question.
+eyes: Gray
+flaw: It's not stealing if I need it more than someone else.
 guild: Treskal
-hair: straight dark red hair that's braided with violet ribbon (med)
-ideal: Simplicity
+hair: wavy lighter blonde hair that's hanging down to their back
+ideal: Learning
 name: Romen Uldreiyn
 organizations: []
-partyID: 71
-race: Human
+partyID: 75
+race: Dwarf
 relationships:
-- name: Ivistra Stockton
+- name: Robbos Kalaerede
   type: partymate
-- name: Myddin Hastos
+- name: Branus Shadegrove
   type: partymate
-- name: Ljuk Vulkor
-  type: partymate
-- name: Hanna Estelar
-  type: partymate
-skin: Tan
-spec: Druid
+skin: Dark Tan
+spec: Sorcerer
 stats:
-  cha: 15
-  con: 11
-  dex: 14
-  int: 13
-  str: 11
-  wis: 16
-track: Diplomacy
-trait: I can stare down a hell hound without flinching.
-trait1: Logical
-trait2: Critical
-year: 6
+  cha: 17
+  con: 13
+  dex: 10
+  int: 15
+  str: 4
+  wis: 14
+track: Protection
+trait: My language is as foul as an otyugh nest.
+trait1: Liberal
+trait2: Impersonal
+year: 3
 ---
+# Romen Uldreiyn
+---
+### Description
+- 3rd year Dwarf Sorcerer in Treskal
+- wavy lighter blonde hair that's hanging down to their back, Gray eyes, and Dark Tan skin
+- Is Liberal and Impersonal, and has Learning as their ideal
+
+### Organizations
+### Relationships
+[[Robbos Kalaerede]]: partymate
+[[Branus Shadegrove]]: partymate
+### Stats
+```statblock
+name: Romen Uldreiyn
+stats: [4, 10, 13, 15, 14, 17]
+```

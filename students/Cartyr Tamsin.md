@@ -1,37 +1,53 @@
 ---
 birthday:
-  numeric: 5/23
+  numeric: 6/23
   written: 23rd of Pelent
-bond: I pursue wealth to secure someone's love.
+bond: I escaped my life of poverty by robbing an important person, and I'm wanted
+  for it.
 eyes: Deep Blue
-flaw: Don't expect me to save those who can't save themselves. It is nature's way
-  that the strong thrive and the weak perish.
-guild: Elkenval
-hair: curly red hair that's put up in a large bun
-ideal: Abundance
+flaw: I secretly believe that everyone is beneath me.
+guild: Alderden
+hair: curly strawberry blond hair that's parted to the side, slightly obscuring an
+  eye
+ideal: Redemption
 name: Cartyr Tamsin
 organizations: []
-partyID: 3
-race: Human
+partyID: 77
+race: Triton
 relationships:
-- name: Gabrila Retra
+- name: Astinus Sythaeryn
   type: partymate
-- name: Audree Dixon
+- name: Kaeli Khiiral
   type: partymate
-- name: Skalanis Kobayashi
-  type: partymate
-skin: Light
-spec: Sorcerer
+skin: Pale Blue
+spec: Fighter
 stats:
-  cha: 14
-  con: 12
-  dex: 11
-  int: 10
+  cha: 11
+  con: 10
+  dex: 14
+  int: 8
   str: 10
-  wis: 12
+  wis: 10
 track: Protection
-trait: I'm always polite and respectful.
-trait1: Innovative
-trait2: High-spirited
+trait: I believe that anything worth doing is worth doing right. I can't help it-
+  I'm a perfectionist.
+trait1: Obliging
+trait2: Reckless
 year: 3
 ---
+# Cartyr Tamsin
+---
+### Description
+- 3rd year Triton Fighter in Alderden
+- curly strawberry blond hair that's parted to the side, slightly obscuring an eye, Deep Blue eyes, and Pale Blue skin
+- Is Obliging and Reckless, and has Redemption as their ideal
+
+### Organizations
+### Relationships
+[[Astinus Sythaeryn]]: partymate
+[[Kaeli Khiiral]]: partymate
+### Stats
+```statblock
+name: Cartyr Tamsin
+stats: [10, 14, 10, 8, 10, 11]
+```

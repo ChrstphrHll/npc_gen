@@ -1,33 +1,47 @@
 ---
 birthday:
-  numeric: 1/27
-  written: 27th of Corelent
-bond: In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
-eyes: Aqua
-flaw: I am dogmatic in my thoughts and philosophy.
-guild: Treskal
-hair: straight platinum hair that's done up in a top knot
-ideal: Competition
+  numeric: 6/5
+  written: 5th of Pelent
+bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
+eyes: Pale Brown
+flaw: I have a "tell" that reveals when I'm lying.
+guild: Burk
+hair: wavy brunette hair that's braided with turquoise ribbon (long)
+ideal: Austerity
 name: Railyn Retenia
 organizations: []
-partyID: 13
-race: Firbolg
+partyID: 70
+race: Tiefling
 relationships:
-- name: Corliss Akkar
+- name: Ruby Kythaela
   type: partymate
-skin: Pale Blue
-spec: Rouge
+skin: Orange
+spec: Druid
 stats:
   cha: 12
-  con: 12
-  dex: 14
-  int: 14
-  str: 15
-  wis: 14
-track: Protection
-trait: I'm haunted by memories of war. I can't get the images of violence out of my
-  mind.
-trait1: Bold
-trait2: Unself-critical
-year: 3
+  con: 15
+  dex: 7
+  int: 9
+  str: 13
+  wis: 16
+track: Exploration
+trait: I ask a lot of questions.
+trait1: Impersonal
+trait2: Wishful
+year: 4
 ---
+# Railyn Retenia
+---
+### Description
+- 4th year Tiefling Druid in Burk
+- wavy brunette hair that's braided with turquoise ribbon (long), Pale Brown eyes, and Orange skin
+- Is Impersonal and Wishful, and has Austerity as their ideal
+
+### Organizations
+### Relationships
+[[Ruby Kythaela]]: partymate
+### Stats
+```statblock
+name: Railyn Retenia
+stats: [13, 7, 15, 9, 16, 12]
+```

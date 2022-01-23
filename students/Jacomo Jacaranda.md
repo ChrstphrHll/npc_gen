@@ -1,34 +1,48 @@
 ---
 birthday:
-  numeric: 7/18
-  written: 18th of Ravenent
-bond: I sponsor an orphanage to keep others from enduring what I was forced to endure.
-eyes: Emerald Green
-flaw: I can't help but pocket loose coins and other trinkets I come across.
+  numeric: 5/20
+  written: 20th of Iounent
+bond: My instrument is my most treasured possession, and it reminds me of someone
+  I love.
+eyes: Brown
+flaw: I'd risk too much to uncover a lost bit of knowledge.
 guild: Treskal
-hair: frizzy brunette hair that's parted to the right
-ideal: Austerity
+hair: curly blonde hair that's hanging down to their back
+ideal: Love
 name: Jacomo Jacaranda
 organizations: []
-partyID: 64
-race: Firbolg
+partyID: 82
+race: Goliath
 relationships:
-- name: Mya Nelaeryn
+- name: Rasy Merlara
   type: partymate
-- name: Bela Qwey
-  type: partymate
-skin: Pale Blue
+skin: Pale
 spec: Ranger
 stats:
-  cha: 13
-  con: 7
-  dex: 15
-  int: 12
-  str: 8
-  wis: 8
-track: Diplomacy
+  cha: 12
+  con: 9
+  dex: 17
+  int: 17
+  str: 16
+  wis: 15
+track: Assault
 trait: I hide scraps of food and trinkets away in my pockets.
-trait1: Genuine
-trait2: Insensitive
-year: 4
+trait1: Tolerant
+trait2: Hidebound
+year: 2
 ---
+# Jacomo Jacaranda
+---
+### Description
+- 2nd year Goliath Ranger in Treskal
+- curly blonde hair that's hanging down to their back, Brown eyes, and Pale skin
+- Is Tolerant and Hidebound, and has Love as their ideal
+
+### Organizations
+### Relationships
+[[Rasy Merlara]]: partymate
+### Stats
+```statblock
+name: Jacomo Jacaranda
+stats: [16, 17, 9, 17, 15, 12]
+```

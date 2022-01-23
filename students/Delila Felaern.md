@@ -1,38 +1,57 @@
 ---
 birthday:
-  numeric: 5/21
-  written: 21st of Pelent
-bond: I will face any challenge to win the approval of my family.
-eyes: Purple
-flaw: I'm a sucker for a pretty face.
-guild: Burk
-hair: straight blonde hair that's parted to the left
-ideal: Facilitation
+  numeric: 6/28
+  written: 28th of Pelent
+bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
+eyes: Pale Brown
+flaw: I have a "tell" that reveals when I'm lying.
+guild: Fiesn
+hair: wavy auburn hair that's put up in a large bun
+ideal: Teamwork
 name: Delila Felaern
 organizations: []
-partyID: 2
-race: Firbolg
+partyID: 24
+race: Half-Elf
 relationships:
-- name: Vaellyn Esyae
+- name: Ian Averescu
   type: partymate
-- name: Aurikallos Biafyndar
+- name: Jothen Elway
   type: partymate
-- name: Gianna Rhistel
+- name: Jareth Tanseril
   type: partymate
-- name: Sulivan Wylchyr
+- name: Gianesia Onvyr
   type: partymate
-skin: Pale Green
-spec: Wizard
+skin: Dark Tan
+spec: Bard
 stats:
-  cha: 10
-  con: 14
-  dex: 15
-  int: 17
-  str: 11
-  wis: 6
+  cha: 16
+  con: 7
+  dex: 14
+  int: 8
+  str: 14
+  wis: 7
 track: Assault
-trait: I fall in and out of love easily, and am always pursuing someone.
-trait1: Calm
-trait2: Easily Discouraged
-year: 1
+trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
+  bundle in my arms.
+trait1: Clean
+trait2: Imprudent
+year: 3
 ---
+# Delila Felaern
+---
+### Description
+- 3rd year Half-Elf Bard in Fiesn
+- wavy auburn hair that's put up in a large bun, Pale Brown eyes, and Dark Tan skin
+- Is Clean and Imprudent, and has Teamwork as their ideal
+
+### Organizations
+### Relationships
+[[Ian Averescu]]: partymate
+[[Jothen Elway]]: partymate
+[[Jareth Tanseril]]: partymate
+[[Gianesia Onvyr]]: partymate
+### Stats
+```statblock
+name: Delila Felaern
+stats: [14, 14, 7, 8, 7, 16]
+```

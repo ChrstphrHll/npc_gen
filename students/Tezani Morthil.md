@@ -1,36 +1,55 @@
 ---
 birthday:
-  numeric: 5/21
-  written: 21st of Pelent
-bond: I'm trying to pay off an old debt I owe to a generous benefactor.
-eyes: Aqua
-flaw: I'm a sucker for a pretty face.
-guild: Treskal
-hair: curly red hair that's put up in a large bun
-ideal: Love
+  numeric: 5/14
+  written: 14th of Iounent
+bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
+  to see them again one day.
+eyes: Hazel
+flaw: I am dogmatic in my thoughts and philosophy.
+guild: Elkenval
+hair: curly white hair that's parted to the right
+ideal: Responsibility
 name: Tezani Morthil
 organizations: []
-partyID: 26
-race: Tiefling
+partyID: 59
+race: Firbolg
 relationships:
-- name: Estyn Rhangyl
+- name: Valerya Haldreithen
   type: partymate
-- name: Delos Ehlark
+- name: Goshwa Khiipaera
   type: partymate
-- name: Kazoan Windward
+- name: Vaellyn Esyae
   type: partymate
-skin: Sea Green
-spec: Paladin
+skin: Pale Green
+spec: Bard
 stats:
-  cha: 8
-  con: 14
-  dex: 13
-  int: 9
-  str: 17
-  wis: 16
+  cha: 16
+  con: 12
+  dex: 10
+  int: 15
+  str: 10
+  wis: 9
 track: Protection
-trait: I bluntly say what other people are hinting at or hiding.
-trait1: Wise
-trait2: Guileless
-year: 3
+trait: I've been isolated for so long that I rarely speak, preferring gestures and
+  the occasional grunt.
+trait1: Obliging
+trait2: Impolite
+year: 1
 ---
+# Tezani Morthil
+---
+### Description
+- 1st year Firbolg Bard in Elkenval
+- curly white hair that's parted to the right, Hazel eyes, and Pale Green skin
+- Is Obliging and Impolite, and has Responsibility as their ideal
+
+### Organizations
+### Relationships
+[[Valerya Haldreithen]]: partymate
+[[Goshwa Khiipaera]]: partymate
+[[Vaellyn Esyae]]: partymate
+### Stats
+```statblock
+name: Tezani Morthil
+stats: [10, 10, 12, 15, 9, 16]
+```

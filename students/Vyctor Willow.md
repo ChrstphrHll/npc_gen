@@ -1,38 +1,53 @@
 ---
 birthday:
-  numeric: 6/33
-  written: 33rd of Korent
-bond: My loyalty to my sovereign is unwavering.
-eyes: Red
-flaw: I'm quick to assume that someone is trying to cheat me.
+  numeric: 5/15
+  written: 15th of Iounent
+bond: An injury to the unspoiled wilderness of my home is an injury to me.
+eyes: Purple
+flaw: I obey the law, even if the law causes misery.
 guild: Elkenval
-hair: curly platinum hair that's braided with turquoise ribbon (med)
-ideal: Tradition
+hair: frills
+ideal: Justice
 name: Vyctor Willow
 organizations: []
-partyID: 86
-race: Tiefling
+partyID: 65
+race: Dragonborn
 relationships:
-- name: Kanoi Xharlion
+- name: Eadyth Lora
   type: partymate
-- name: Gifre Edyrm
+- name: Alkindus Llamryl
   type: partymate
-- name: Scarletta Elora
+- name: Theodus Chylnoth
   type: partymate
-- name: Puorlaas Anklos
-  type: partymate
-skin: Yellow
-spec: Druid
+skin: blue
+spec: Rouge
 stats:
-  cha: 12
-  con: 8
-  dex: 13
-  int: 12
-  str: 11
-  wis: 15
+  cha: 16
+  con: 13
+  dex: 16
+  int: 14
+  str: 12
+  wis: 16
 track: Exploration
-trait: I know a story relevant to almost every situation.
-trait1: Faithful
-trait2: Ruthless
-year: 3
+trait: My favor, once lost, is lost forever.
+trait1: Obliging
+trait2: Narcissistic
+year: 4
 ---
+# Vyctor Willow
+---
+### Description
+- 4th year Dragonborn Rouge in Elkenval
+- frills, Purple eyes, and blue skin
+- Is Obliging and Narcissistic, and has Justice as their ideal
+
+### Organizations
+### Relationships
+[[Eadyth Lora]]: partymate
+[[Alkindus Llamryl]]: partymate
+[[Theodus Chylnoth]]: partymate
+### Stats
+```statblock
+name: Vyctor Willow
+stats: [12, 16, 13, 14, 16, 16]
+```

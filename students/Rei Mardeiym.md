@@ -1,35 +1,49 @@
 ---
 birthday:
-  numeric: 3/3
-  written: 3rd of Moradent
-bond: I am in love with the heir of a family that my family despises.
-eyes: Sea Green
-flaw: I made a terrible mistake in battle cost many lives- and I would do anything
-  to keep that mistake secret.
-guild: Alderden
-hair: straight dirty blonde hair that's put back in a short pony tail
-ideal: Family
+  numeric: 8/26
+  written: 26th of Ravenent
+bond: I come from a noble family, and one day I'll reclaim my lands and title from
+  those who stole them from me.
+eyes: Pale Green
+flaw: When I see something valuable, I can't think about anything but how to steal
+  it.
+guild: Fiesn
+hair: wavy platinum hair that's kept back by a pink headband
+ideal: Courage
 name: Rei Mardeiym
 organizations: []
-partyID: 76
-race: Triton
+partyID: 61
+race: Half-Orc
 relationships:
-- name: Ahtye Elhieardacil
+- name: Olbern Uldreiyn
   type: partymate
-- name: Pynelope Valhein
-  type: partymate
-skin: Spring Green
+skin: Pale Gray
 spec: Barbarian
 stats:
-  cha: 14
-  con: 13
-  dex: 7
+  cha: 10
+  con: 11
+  dex: 12
   int: 9
-  str: 17
-  wis: 16
-track: Assault
-trait: I don't pay attention to the risks in a situation. Never tell me the odds.
-trait1: Ascetic
-trait2: Crass
+  str: 14
+  wis: 9
+track: Protection
+trait: I misuse long words in an attempt to sound smarter.
+trait1: Thrilling
+trait2: Dishonest
 year: 2
 ---
+# Rei Mardeiym
+---
+### Description
+- 2nd year Half-Orc Barbarian in Fiesn
+- wavy platinum hair that's kept back by a pink headband, Pale Green eyes, and Pale Gray skin
+- Is Thrilling and Dishonest, and has Courage as their ideal
+
+### Organizations
+### Relationships
+[[Olbern Uldreiyn]]: partymate
+### Stats
+```statblock
+name: Rei Mardeiym
+stats: [14, 12, 11, 9, 9, 10]
+```

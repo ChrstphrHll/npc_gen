@@ -1,39 +1,50 @@
 ---
 birthday:
-  numeric: 7/14
-  written: 14th of Ravenent
-bond: I seek to preserve a sacred text that my enemies consider heretical and seek
-  to destroy.
-eyes: Purple
-flaw: I pretend not to understand the local language in order to avoid interactions
-  I would rather not have.
-guild: Jettenia
-hair: curly blonde hair that's loose around the shoulders
-ideal: Religion
+  numeric: 4/27
+  written: 27th of Moradent
+bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
+eyes: Red
+flaw: Once I start drinking, it's hard for me to stop.
+guild: Fiesn
+hair: wavy brunette hair that's pulled to the side and buzzed on the right
+ideal: Lead by example
 name: Dejana Keller
 organizations: []
-partyID: 22
-race: Elf
+partyID: 1
+race: Triton
 relationships:
-- name: Evyn Fenton
+- name: Coriss Biafyndar
   type: partymate
-- name: Liris Bhyrindaar
+- name: Jacob Jorildyn
   type: partymate
-- name: Milae Ditka
-  type: partymate
-skin: Light Tan
-spec: Cleric
+skin: Spring Green
+spec: Sorcerer
 stats:
-  cha: 10
-  con: 11
-  dex: 5
-  int: 15
-  str: 14
-  wis: 15
-track: Exploration
-trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
-  bundle in my arms.
-trait1: Proud
-trait2: Mawkish
-year: 1
+  cha: 17
+  con: 10
+  dex: 16
+  int: 9
+  str: 8
+  wis: 10
+track: Assault
+trait: I have a joke for every occasion, especially occasions where humor is inappropriate.
+trait1: Loving
+trait2: Moralistic
+year: 5
 ---
+# Dejana Keller
+---
+### Description
+- 5th year Triton Sorcerer in Fiesn
+- wavy brunette hair that's pulled to the side and buzzed on the right, Red eyes, and Spring Green skin
+- Is Loving and Moralistic, and has Lead by example as their ideal
+
+### Organizations
+### Relationships
+[[Coriss Biafyndar]]: partymate
+[[Jacob Jorildyn]]: partymate
+### Stats
+```statblock
+name: Dejana Keller
+stats: [8, 16, 10, 9, 10, 17]
+```

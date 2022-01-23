@@ -1,36 +1,50 @@
 ---
 birthday:
-  numeric: 6/27
-  written: 27th of Korent
-bond: Those who fight beside me are those worth dying for.
-eyes: Violet Red
-flaw: I'd risk too much to uncover a lost bit of knowledge.
-guild: Alderden
-hair: wavy dirty blonde hair that's pulled to the side and buzzed on the left
-ideal: Humane
+  numeric: 8/15
+  written: 15th of Ravenent
+bond: My loyalty to my sovereign is unwavering.
+eyes: Pale Brown
+flaw: I am dogmatic in my thoughts and philosophy.
+guild: Treskal
+hair: curly brunette hair that's a tousled bed head
+ideal: Enjoyment
 name: Robbos Kalaerede
 organizations: []
-partyID: 55
-race: Half-Elf
+partyID: 75
+race: Dwarf
 relationships:
-- name: Nicholus Morthil
+- name: Branus Shadegrove
   type: partymate
-- name: Alyx Nopos
+- name: Romen Uldreiyn
   type: partymate
-- name: Jess Beebe
-  type: partymate
-skin: Fair
-spec: Paladin
+skin: Light Tan
+spec: Ranger
 stats:
-  cha: 16
-  con: 11
-  dex: 13
-  int: 8
-  str: 13
-  wis: 11
-track: Exploration
-trait: I don't pay attention to the risks in a situation. Never tell me the odds.
-trait1: Merciful
-trait2: Driving
-year: 8
+  cha: 9
+  con: 7
+  dex: 14
+  int: 10
+  str: 9
+  wis: 13
+track: Assault
+trait: Nothing can shake my optimistic attitude.
+trait1: Carefree
+trait2: Unfriendly
+year: 3
 ---
+# Robbos Kalaerede
+---
+### Description
+- 3rd year Dwarf Ranger in Treskal
+- curly brunette hair that's a tousled bed head, Pale Brown eyes, and Light Tan skin
+- Is Carefree and Unfriendly, and has Enjoyment as their ideal
+
+### Organizations
+### Relationships
+[[Branus Shadegrove]]: partymate
+[[Romen Uldreiyn]]: partymate
+### Stats
+```statblock
+name: Robbos Kalaerede
+stats: [9, 14, 7, 10, 13, 9]
+```

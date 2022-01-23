@@ -1,33 +1,53 @@
 ---
 birthday:
-  numeric: 6/15
-  written: 15th of Korent
-bond: I will bring terrible wrath down on the evildoers who destroyed my homeland.
-eyes: Red
-flaw: Once someone questions my courage, I never back down no matter how dangerous
-  the situation.
-guild: Treskal
-hair: wavy red hair that's put up in a large bun
-ideal: Abundance
+  numeric: 2/5
+  written: 5th of Corelent
+bond: I'm trying to pay off an old debt I owe to a generous benefactor.
+eyes: Hazel
+flaw: I will never fully trust anyone other than myself.
+guild: Fiesn
+hair: smooth silver guilded with silver
+ideal: Redemption
 name: Yoshen Arcaena
 organizations: []
-partyID: 39
-race: Human
+partyID: 41
+race: Warforged
 relationships:
-- name: Hudsen Aluendalee
+- name: Bera Cauladra
   type: partymate
-skin: Brown
-spec: Druid
+- name: Hazel Winters
+  type: partymate
+- name: Ysak Llewellenar
+  type: partymate
+skin: gold
+spec: Monk
 stats:
-  cha: 14
-  con: 14
-  dex: 13
-  int: 3
-  str: 10
-  wis: 16
-track: Protection
-trait: I ask a lot of questions.
-trait1: Fun-loving
-trait2: Hidebound
-year: 3
+  cha: 15
+  con: 10
+  dex: 17
+  int: 12
+  str: 14
+  wis: 14
+track: Exploration
+trait: I stretch the truth for the sake of a good story.
+trait1: Wise
+trait2: Bashful
+year: 1
 ---
+# Yoshen Arcaena
+---
+### Description
+- 1st year Warforged Monk in Fiesn
+- smooth silver guilded with silver, Hazel eyes, and gold skin
+- Is Wise and Bashful, and has Redemption as their ideal
+
+### Organizations
+### Relationships
+[[Bera Cauladra]]: partymate
+[[Hazel Winters]]: partymate
+[[Ysak Llewellenar]]: partymate
+### Stats
+```statblock
+name: Yoshen Arcaena
+stats: [14, 17, 10, 12, 14, 15]
+```

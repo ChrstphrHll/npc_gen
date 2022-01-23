@@ -1,35 +1,47 @@
 ---
 birthday:
-  numeric: 2/29
-  written: 29th of Melorent
-bond: I will get revenge on the evil forces that destroyed my place of business and
-  ruined my livelihood.
-eyes: Aqua
-flaw: I put too much trust in those who wield power within my temple's hierarchy.
-guild: Alderden
-hair: straight red hair that's loose around the shoulders
-ideal: Faith
+  numeric: 6/9
+  written: 9th of Pelent
+bond: I entered seclusion because I loved someone I could not have.
+eyes: Green
+flaw: I am inflexible in my thinking.
+guild: Burk
+hair: curly green hair that's geled back
+ideal: Renewal
 name: Rotheloe Samblar
 organizations: []
-partyID: 52
-race: Tiefling
+partyID: 39
+race: Half-Elf
 relationships:
-- name: Ezekius Chalsarda
+- name: Aksel Strohm
   type: partymate
-- name: Bera Cauladra
-  type: partymate
-skin: Sea Green
-spec: Druid
+skin: Light Tan
+spec: Wizard
 stats:
-  cha: 13
-  con: 9
-  dex: 6
-  int: 14
-  str: 13
-  wis: 15
+  cha: 12
+  con: 10
+  dex: 9
+  int: 13
+  str: 11
+  wis: 13
 track: Protection
-trait: I lie about almost everything, even when there's no good reason to.
-trait1: Perfectionist
-trait2: Uncreative
-year: 2
+trait: I'm a hopeless romantic, always searching for that "special someone."
+trait1: Busy
+trait2: Opinionated
+year: 4
 ---
+# Rotheloe Samblar
+---
+### Description
+- 4th year Half-Elf Wizard in Burk
+- curly green hair that's geled back, Green eyes, and Light Tan skin
+- Is Busy and Opinionated, and has Renewal as their ideal
+
+### Organizations
+### Relationships
+[[Aksel Strohm]]: partymate
+### Stats
+```statblock
+name: Rotheloe Samblar
+stats: [11, 9, 10, 13, 13, 12]
+```

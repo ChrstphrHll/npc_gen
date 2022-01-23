@@ -1,36 +1,50 @@
 ---
 birthday:
-  numeric: 3/23
-  written: 23rd of Moradent
-bond: I fight for those who cannot fight for themselves.
-eyes: Purple
-flaw: I can't resist a pretty face.
+  numeric: 3/17
+  written: 17th of Melorent
+bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
+eyes: Green
+flaw: I'd rather eat my armor than admit when I'm wrong.
 guild: Fiesn
-hair: curly lighter blonde hair that's braided with violet ribbon (long)
-ideal: Religion
+hair: wavy red hair that's put back in a short pony tail
+ideal: Reciprocity
 name: Delja Iefyr
 organizations: []
-partyID: 49
-race: Half-Orc
+partyID: 12
+race: Dwarf
 relationships:
-- name: Kaeli Khiiral
+- name: Dree Nuala
   type: partymate
-- name: Nathan Laeroth
+- name: Aidyn Glynnii
   type: partymate
-- name: Lincon Nylaathria
-  type: partymate
-skin: Green Blue
+skin: Brown
 spec: Druid
 stats:
-  cha: 14
-  con: 13
-  dex: 12
-  int: 6
-  str: 10
-  wis: 15
-track: Protection
-trait: I enjoy being strong and like breaking things.
-trait1: Extraordinary
-trait2: Impressionable
-year: 4
+  cha: 13
+  con: 11
+  dex: 10
+  int: 12
+  str: 14
+  wis: 14
+track: Assault
+trait: I love a good insult, even one directed at me.
+trait1: Well-bred
+trait2: Snobbish
+year: 8
 ---
+# Delja Iefyr
+---
+### Description
+- 8th year Dwarf Druid in Fiesn
+- wavy red hair that's put back in a short pony tail, Green eyes, and Brown skin
+- Is Well-bred and Snobbish, and has Reciprocity as their ideal
+
+### Organizations
+### Relationships
+[[Dree Nuala]]: partymate
+[[Aidyn Glynnii]]: partymate
+### Stats
+```statblock
+name: Delja Iefyr
+stats: [14, 10, 11, 12, 14, 13]
+```

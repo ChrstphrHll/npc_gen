@@ -1,40 +1,54 @@
 ---
 birthday:
-  numeric: 6/15
-  written: 15th of Korent
-bond: Should my discovery come to light, it could bring ruin to the world.
-eyes: Yellow
-flaw: By my words and actions, I often bring shame to my family.By my words and actions,
-  I often bring shame to my family.
+  numeric: 4/18
+  written: 18th of Moradent
+bond: I swindled and ruined a person who didn't deserve it. I seek to atone for my
+  misdeeds but might never be able to forgive myself.
+eyes: Red
+flaw: I would kill to acquire a noble title.
 guild: Treskal
-hair: wavy dark red hair that's geled back
-ideal: Community
+hair: short spines
+ideal: Wellness
 name: Ivistra Stockton
 organizations: []
-partyID: 71
-race: Elf
+partyID: 66
+race: Dragonborn
 relationships:
-- name: Romen Uldreiyn
+- name: Turi Chandrelle
   type: partymate
-- name: Myddin Hastos
+- name: Theriss Deularla
   type: partymate
-- name: Ljuk Vulkor
+- name: Marl Ahrendaaria
   type: partymate
-- name: Hanna Estelar
-  type: partymate
-skin: Pale
-spec: Fighter
+skin: red
+spec: Monk
 stats:
-  cha: 12
-  con: 10
-  dex: 15
-  int: 10
-  str: 13
-  wis: 7
-track: Exploration
-trait: When I set my mind to something, I follow through no matter what gets in my
-  way.
-trait1: Consistent
-trait2: Glamorous
-year: 6
+  cha: 10
+  con: 14
+  dex: 16
+  int: 13
+  str: 16
+  wis: 13
+track: Protection
+trait: I fall in and out of love easily, and am always pursuing someone.
+trait1: Practical
+trait2: Grumpy
+year: 4
 ---
+# Ivistra Stockton
+---
+### Description
+- 4th year Dragonborn Monk in Treskal
+- short spines, Red eyes, and red skin
+- Is Practical and Grumpy, and has Wellness as their ideal
+
+### Organizations
+### Relationships
+[[Turi Chandrelle]]: partymate
+[[Theriss Deularla]]: partymate
+[[Marl Ahrendaaria]]: partymate
+### Stats
+```statblock
+name: Ivistra Stockton
+stats: [16, 16, 14, 13, 13, 10]
+```

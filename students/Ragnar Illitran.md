@@ -1,37 +1,54 @@
 ---
 birthday:
-  numeric: 1/2
-  written: 2nd of Corelent
-bond: I wish my childhood sweetheart had come with me to pursue my destiny.
-eyes: Orange
-flaw: I put too much trust in those who wield power within my temple's hierarchy.
-guild: Elkenval
-hair: wavy black hair that's put back in a long pony tail
-ideal: Entrepreneurial
+  numeric: 8/2
+  written: 2nd of Ravenent
+bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
+eyes: Hazel
+flaw: It's not stealing if I need it more than someone else.
+guild: Fiesn
+hair: straight grey hair that's braided with violet ribbon (long)
+ideal: People
 name: Ragnar Illitran
 organizations: []
-partyID: 16
-race: Elf
+partyID: 18
+race: Half-Elf
 relationships:
-- name: Wren Urmicca
+- name: Angel Nushala
   type: partymate
-- name: Asralyn Rhangyl
+- name: Everen Malfoy
   type: partymate
-- name: Jacus Kosunten
+- name: Jasjen Nlossae
   type: partymate
-skin: Light Tan
+skin: Tan
 spec: Barbarian
 stats:
-  cha: 10
-  con: 12
-  dex: 7
-  int: 11
-  str: 13
-  wis: 11
+  cha: 9
+  con: 11
+  dex: 14
+  int: 7
+  str: 12
+  wis: 9
 track: Exploration
-trait: I can find common ground between the fiercest enemies, empathizing with them
-  and always working toward peace.
-trait1: Self-disciplined
-trait2: Pure
-year: 1
+trait: The leader of my community had something wise to say on every topic, and I
+  am eager to share that wisdom.
+trait1: Directed
+trait2: Inefficient
+year: 2
 ---
+# Ragnar Illitran
+---
+### Description
+- 2nd year Half-Elf Barbarian in Fiesn
+- straight grey hair that's braided with violet ribbon (long), Hazel eyes, and Tan skin
+- Is Directed and Inefficient, and has People as their ideal
+
+### Organizations
+### Relationships
+[[Angel Nushala]]: partymate
+[[Everen Malfoy]]: partymate
+[[Jasjen Nlossae]]: partymate
+### Stats
+```statblock
+name: Ragnar Illitran
+stats: [12, 14, 11, 7, 9, 9]
+```

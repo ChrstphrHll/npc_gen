@@ -1,38 +1,54 @@
 ---
 birthday:
-  numeric: 1/33
-  written: 33rd of Corelent
-bond: My house's alliance with another noble family must be sustained at all costs.
-eyes: Red
-flaw: If I'm outnumbered, I will run away from a fight.
-guild: Treskal
-hair: curly turquoise hair that's braided with pink ribbon (med)
-ideal: Forgiveness
+  numeric: 7/13
+  written: 13th of Korent
+bond: I idolize a hero of the old tales and measure my deeds against that person's.
+eyes: Hazel
+flaw: I made a terrible mistake in battle cost many lives- and I would do anything
+  to keep that mistake secret.
+guild: Elkenval
+hair: straight auburn hair that's put up in a large bun
+ideal: Respect
 name: Goetia Mistale
 organizations: []
-partyID: 15
-race: Aasimar
+partyID: 80
+race: Firbolg
 relationships:
-- name: Allyson Vindinglag
+- name: Victor Gaelira
   type: partymate
-- name: Yathlanae Arkhun
+- name: Yan Sorsasta
   type: partymate
-- name: Willam Ardryll
+- name: Halja Dwyer
   type: partymate
-- name: Nom Remington
-  type: partymate
-skin: Light Tan
-spec: Barbarian
+skin: Pale Brown
+spec: Cleric
 stats:
-  cha: 12
-  con: 10
-  dex: 11
-  int: 14
-  str: 16
-  wis: 12
+  cha: 8
+  con: 7
+  dex: 14
+  int: 9
+  str: 13
+  wis: 17
 track: Diplomacy
-trait: I like to talk at length about my profession.
-trait1: Concerned
-trait2: Loquacious
-year: 1
+trait: I feel tremendous empathy for all who suffer.
+trait1: Sincere
+trait2: Shy
+year: 2
 ---
+# Goetia Mistale
+---
+### Description
+- 2nd year Firbolg Cleric in Elkenval
+- straight auburn hair that's put up in a large bun, Hazel eyes, and Pale Brown skin
+- Is Sincere and Shy, and has Respect as their ideal
+
+### Organizations
+### Relationships
+[[Victor Gaelira]]: partymate
+[[Yan Sorsasta]]: partymate
+[[Halja Dwyer]]: partymate
+### Stats
+```statblock
+name: Goetia Mistale
+stats: [13, 14, 7, 9, 17, 8]
+```

@@ -1,35 +1,49 @@
 ---
 birthday:
-  numeric: 3/24
-  written: 24th of Moradent
-bond: I will face any challenge to win the approval of my family.
+  numeric: 5/29
+  written: 29th of Iounent
+bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
+  somewhere.
 eyes: Orange
-flaw: If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
+flaw: Despite my best efforts, I am unreliable to my friends.
 guild: Elkenval
-hair: straight red hair that's hanging down to their back
-ideal: Stoicism
+hair: many straight horns
+ideal: Affection
 name: Tadita Edraele
 organizations: []
-partyID: 29
-race: Gnome
+partyID: 47
+race: Dragonborn
 relationships:
-- name: Evylen Nese
+- name: Halia Dominguez
   type: partymate
-- name: Vila Tassarion
-  type: partymate
-skin: Pale
-spec: Wizard
+skin: brass
+spec: Paladin
 stats:
-  cha: 14
-  con: 16
+  cha: 15
+  con: 13
   dex: 15
-  int: 15
-  str: 13
-  wis: 12
+  int: 7
+  str: 17
+  wis: 6
 track: Diplomacy
-trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
-  accommodations.
-trait1: Profound
-trait2: Fickle
-year: 3
+trait: I am tolerant (or intolerant) of other faiths and respect (or condemn) the
+  worship of other gods.
+trait1: Captivating
+trait2: Impractical
+year: 4
 ---
+# Tadita Edraele
+---
+### Description
+- 4th year Dragonborn Paladin in Elkenval
+- many straight horns, Orange eyes, and brass skin
+- Is Captivating and Impractical, and has Affection as their ideal
+
+### Organizations
+### Relationships
+[[Halia Dominguez]]: partymate
+### Stats
+```statblock
+name: Tadita Edraele
+stats: [17, 15, 13, 7, 6, 15]
+```

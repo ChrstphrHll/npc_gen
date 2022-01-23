@@ -1,36 +1,51 @@
 ---
 birthday:
-  numeric: 4/4
-  written: 4th of Iounent
-bond: I entered seclusion to hide from the ones who might still be hunting me. I must
-  someday confront them.
-eyes: Purple
-flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
-  involved.
-guild: Treskal
-hair: curly dirty blonde hair that's parted to the left
-ideal: Loyalty
+  numeric: 1/21
+  written: 21st of Avanent
+bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
+eyes: Spring Green
+flaw: I'd risk too much to uncover a lost bit of knowledge.
+guild: Burk
+hair: curly blonde hair that's done up in a top knot
+ideal: Gratitude
 name: Lanalia Belt
 organizations: []
-partyID: 41
-race: Half-Orc
+partyID: 83
+race: Tiefling
 relationships:
-- name: Lea Nuvian
+- name: Asmiak Seirye
   type: partymate
-- name: Brannos Bellas
+- name: Santaegus Etter
   type: partymate
-skin: Green Blue
-spec: Monk
+skin: Red
+spec: Sorcerer
 stats:
-  cha: 11
-  con: 13
-  dex: 15
-  int: 11
-  str: 13
+  cha: 15
+  con: 11
+  dex: 13
+  int: 14
+  str: 12
   wis: 13
-track: Diplomacy
-trait: I'm a born gambler who can't resist taking a risk for a potential payoff.
-trait1: Jovial
-trait2: Stubborn
+track: Assault
+trait: I have a strong sense of fair play and always try to find the most equitable
+  solution to arguments.
+trait1: Touchy
+trait2: Egocentric
 year: 2
 ---
+# Lanalia Belt
+---
+### Description
+- 2nd year Tiefling Sorcerer in Burk
+- curly blonde hair that's done up in a top knot, Spring Green eyes, and Red skin
+- Is Touchy and Egocentric, and has Gratitude as their ideal
+
+### Organizations
+### Relationships
+[[Asmiak Seirye]]: partymate
+[[Santaegus Etter]]: partymate
+### Stats
+```statblock
+name: Lanalia Belt
+stats: [12, 13, 11, 14, 13, 15]
+```

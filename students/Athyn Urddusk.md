@@ -1,37 +1,54 @@
 ---
 birthday:
-  numeric: 5/4
-  written: 4th of Pelent
-bond: My tools are symbols of my past life, and I carry them so that I will never
-  forget my roots.
-eyes: Aqua
-flaw: I'd rather eat my armor than admit when I'm wrong.
-guild: Jettenia
-hair: wavy lighter blonde hair that's a tousled bed head
-ideal: Cruelty
+  numeric: 4/21
+  written: 21st of Moradent
+bond: I seek to preserve a sacred text that my enemies consider heretical and seek
+  to destroy.
+eyes: Pale Green
+flaw: I turn tail and run when things look bad.
+guild: Treskal
+hair: straight brunette hair that's put back in a long pony tail
+ideal: Knowledge
 name: Athyn Urddusk
 organizations: []
-partyID: 32
-race: Human
+partyID: 53
+race: Dwarf
 relationships:
-- name: Valerya Haldreithen
+- name: Kloya Kershaw
   type: partymate
-- name: Gabrilo Kulo
+- name: Tylus Ytharra
   type: partymate
-- name: Hudsen Elandorr
+- name: Graisen Thalanil
   type: partymate
-skin: Dark Brown
-spec: Fighter
+skin: Light Tan
+spec: Barbarian
 stats:
-  cha: 8
-  con: 15
-  dex: 16
-  int: 12
-  str: 15
-  wis: 10
+  cha: 12
+  con: 16
+  dex: 7
+  int: 15
+  str: 16
+  wis: 14
 track: Diplomacy
-trait: I'm a born gambler who can't resist taking a risk for a potential payoff.
-trait1: Studious
-trait2: Loquacious
-year: 6
+trait: To me, a tavern brawl is a nice way to get to know a new city.
+trait1: Meticulous
+trait2: Unappreciative
+year: 2
 ---
+# Athyn Urddusk
+---
+### Description
+- 2nd year Dwarf Barbarian in Treskal
+- straight brunette hair that's put back in a long pony tail, Pale Green eyes, and Light Tan skin
+- Is Meticulous and Unappreciative, and has Knowledge as their ideal
+
+### Organizations
+### Relationships
+[[Kloya Kershaw]]: partymate
+[[Tylus Ytharra]]: partymate
+[[Graisen Thalanil]]: partymate
+### Stats
+```statblock
+name: Athyn Urddusk
+stats: [16, 7, 16, 15, 14, 12]
+```

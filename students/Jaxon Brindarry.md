@@ -1,35 +1,47 @@
 ---
 birthday:
-  numeric: 2/9
-  written: 9th of Melorent
-bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
-  somewhere.
-eyes: Deep Blue
-flaw: I am easily distracted by the promise of information.
-guild: Elkenval
-hair: wavy green hair that's put back in a long pony tail
-ideal: Independence
+  numeric: 4/24
+  written: 24th of Moradent
+bond: I entered seclusion because I loved someone I could not have.
+eyes: Pale Blue
+flaw: I have a weakness for the vices of the city, especially hard drink.
+guild: Jettenia
+hair: smooth gold guilded with emerald
+ideal: Renewal
 name: Jaxon Brindarry
 organizations: []
-partyID: 85
-race: Dwarf
+partyID: 38
+race: Warforged
 relationships:
-- name: Velmona Elway
+- name: Aniari Arlayna
   type: partymate
-- name: Hagar Sakrattars
-  type: partymate
-skin: Pale
-spec: Druid
+skin: copper
+spec: Bard
 stats:
-  cha: 11
-  con: 8
-  dex: 12
-  int: 11
-  str: 13
-  wis: 13
+  cha: 16
+  con: 11
+  dex: 13
+  int: 13
+  str: 15
+  wis: 14
 track: Exploration
-trait: Thinking is for other people. I prefer action.
-trait1: Cooperative
-trait2: Ungrateful
-year: 2
+trait: I know a story relevant to almost every situation.
+trait1: Lucky
+trait2: Hot-tempered
+year: 1
 ---
+# Jaxon Brindarry
+---
+### Description
+- 1st year Warforged Bard in Jettenia
+- smooth gold guilded with emerald, Pale Blue eyes, and copper skin
+- Is Lucky and Hot-tempered, and has Renewal as their ideal
+
+### Organizations
+### Relationships
+[[Aniari Arlayna]]: partymate
+### Stats
+```statblock
+name: Jaxon Brindarry
+stats: [15, 13, 11, 13, 14, 16]
+```

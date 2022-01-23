@@ -1,39 +1,57 @@
 ---
 birthday:
-  numeric: 2/18
-  written: 18th of Melorent
-bond: I swindled and ruined a person who didn't deserve it. I seek to atone for my
-  misdeeds but might never be able to forgive myself.
-eyes: Red
-flaw: I'm quick to assume that someone is trying to cheat me.
-guild: Alderden
-hair: wavy dirty blonde hair that's put back in a long pony tail
-ideal: Personal Development
+  numeric: 2/31
+  written: 31st of Corelent
+bond: I owe a debt I can never repay to the person who took pity on me.
+eyes: Brown
+flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
+  trouble.
+guild: Jettenia
+hair: long spines
+ideal: Respect
 name: Selina Ochyllyss
 organizations: []
-partyID: 36
-race: Gnome
+partyID: 29
+race: Dragonborn
 relationships:
-- name: Tez Bialaer
+- name: Savanna Ildilyntra
   type: partymate
-- name: Abel Marsh
+- name: Hodus Belt
   type: partymate
-- name: Asten Alavara
+- name: Allyson Vindinglag
   type: partymate
-- name: Malchor Tenyajn
+- name: Gabrila Retra
   type: partymate
-skin: Dark Brown
+skin: white
 spec: Fighter
 stats:
-  cha: 10
-  con: 18
-  dex: 16
-  int: 15
-  str: 8
-  wis: 13
-track: Assault
-trait: To me, a tavern brawl is a nice way to get to know a new city.
-trait1: Well-read
-trait2: Ignorant
-year: 4
+  cha: 8
+  con: 15
+  dex: 11
+  int: 9
+  str: 14
+  wis: 12
+track: Exploration
+trait: I have a joke for every occasion, especially occasions where humor is inappropriate.
+trait1: Upright
+trait2: Graceless
+year: 3
 ---
+# Selina Ochyllyss
+---
+### Description
+- 3rd year Dragonborn Fighter in Jettenia
+- long spines, Brown eyes, and white skin
+- Is Upright and Graceless, and has Respect as their ideal
+
+### Organizations
+### Relationships
+[[Savanna Ildilyntra]]: partymate
+[[Hodus Belt]]: partymate
+[[Allyson Vindinglag]]: partymate
+[[Gabrila Retra]]: partymate
+### Stats
+```statblock
+name: Selina Ochyllyss
+stats: [14, 11, 15, 9, 12, 8]
+```

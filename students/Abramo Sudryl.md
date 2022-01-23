@@ -1,34 +1,51 @@
 ---
 birthday:
-  numeric: 2/1
-  written: 1st of Melorent
-bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
-eyes: Yellow
-flaw: I can't keep a secret to save my life, or anyone else's.
-guild: Alderden
-hair: straight platinum hair that's parted to the left
-ideal: Fitness
+  numeric: 1/18
+  written: 18th of Avanent
+bond: The common folk must see me as a hero of the people.
+eyes: Pale Gray
+flaw: Once someone questions my courage, I never back down no matter how dangerous
+  the situation.
+guild: Elkenval
+hair: frizzy white hair that's parted to the left
+ideal: Appreciation
 name: Abramo Sudryl
 organizations: []
-partyID: 25
-race: Dwarf
+partyID: 40
+race: Human
 relationships:
-- name: Noam Shields
+- name: Robett Grell
   type: partymate
-- name: Sybasten Simimar
+- name: Gina Grandius
   type: partymate
-skin: Light
+skin: Dark Tan
 spec: Barbarian
 stats:
-  cha: 5
-  con: 9
-  dex: 16
-  int: 13
-  str: 15
+  cha: 16
+  con: 13
+  dex: 17
+  int: 15
+  str: 18
   wis: 14
-track: Diplomacy
-trait: I was, in fact, raised by wolves.
-trait1: Idealistic
-trait2: Conceited
+track: Protection
+trait: I eat like a pig and have bad manners.
+trait1: Hopeful
+trait2: Blowhard
 year: 1
 ---
+# Abramo Sudryl
+---
+### Description
+- 1st year Human Barbarian in Elkenval
+- frizzy white hair that's parted to the left, Pale Gray eyes, and Dark Tan skin
+- Is Hopeful and Blowhard, and has Appreciation as their ideal
+
+### Organizations
+### Relationships
+[[Robett Grell]]: partymate
+[[Gina Grandius]]: partymate
+### Stats
+```statblock
+name: Abramo Sudryl
+stats: [18, 17, 13, 15, 14, 16]
+```

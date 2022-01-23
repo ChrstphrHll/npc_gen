@@ -1,34 +1,51 @@
 ---
 birthday:
-  numeric: 1/20
-  written: 20th of Corelent
-bond: I will become the greatest thief that ever lived.
-eyes: Deep Blue
-flaw: I put too much trust in those who wield power within my temple's hierarchy.
-guild: Alderden
-hair: wavy white hair that's loose around the shoulders
-ideal: Goodness
+  numeric: 5/24
+  written: 24th of Iounent
+bond: My family, clan, or tribe is the most important thing in my life, even when
+  they are far from me.
+eyes: Blue
+flaw: I would kill to acquire a noble title.
+guild: Burk
+hair: wavy brunette hair that's put up in a large bun
+ideal: Learning
 name: Jacoby Maeraddyth
 organizations: []
-partyID: 42
-race: Tiefling
+partyID: 63
+race: Half-Elf
 relationships:
-- name: Leah Faelar
+- name: Pike Tethir
   type: partymate
-- name: Harperia Winchell
+- name: Malchor Tenyajn
   type: partymate
-skin: Pale Gray
-spec: Barbarian
+skin: Brown
+spec: Druid
 stats:
-  cha: 12
-  con: 13
-  dex: 12
-  int: 7
-  str: 18
-  wis: 14
-track: Protection
-trait: I'm full of witty aphorisms and have a proverb for every occasion.
-trait1: Self-disciplined
-trait2: Moralistic
-year: 7
+  cha: 11
+  con: 12
+  dex: 13
+  int: 13
+  str: 11
+  wis: 16
+track: Diplomacy
+trait: I'll settle for nothing less than perfection.
+trait1: Innovative
+trait2: Mannerless
+year: 1
 ---
+# Jacoby Maeraddyth
+---
+### Description
+- 1st year Half-Elf Druid in Burk
+- wavy brunette hair that's put up in a large bun, Blue eyes, and Brown skin
+- Is Innovative and Mannerless, and has Learning as their ideal
+
+### Organizations
+### Relationships
+[[Pike Tethir]]: partymate
+[[Malchor Tenyajn]]: partymate
+### Stats
+```statblock
+name: Jacoby Maeraddyth
+stats: [11, 13, 12, 13, 16, 11]
+```

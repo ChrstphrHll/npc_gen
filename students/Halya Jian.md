@@ -1,34 +1,55 @@
 ---
 birthday:
-  numeric: 6/24
-  written: 24th of Korent
-bond: I was cheated out of my fair share of the profits, and I want to get my due.
-eyes: Spring Green
+  numeric: 7/27
+  written: 27th of Korent
+bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
+  eludes me.
+eyes: Green
 flaw: I'm quick to assume that someone is trying to cheat me.
-guild: Burk
-hair: straight strawberry blond hair that's loose around the shoulders
-ideal: Pessimism
+guild: Treskal
+hair: straight auburn hair that's geled back
+ideal: Entertain
 name: Halya Jian
 organizations: []
-partyID: 35
-race: Half-Orc
+partyID: 20
+race: Dwarf
 relationships:
-- name: Volkos Halaema
+- name: Iasono Ynshael
   type: partymate
-- name: Aryana Ahrendue
+- name: Nebulon Faelyn
   type: partymate
-skin: Deep Green
-spec: Fighter
+- name: Jofan Elignoir
+  type: partymate
+skin: Brown
+spec: Barbarian
 stats:
-  cha: 10
+  cha: 6
   con: 10
-  dex: 13
+  dex: 12
   int: 10
-  str: 9
-  wis: 11
+  str: 16
+  wis: 15
 track: Assault
-trait: Whenever I come to a new place, I collect local rumors and spread gossip.
-trait1: Immaculate
-trait2: Unpolished
+trait: I am incredibly slow to trust. Those who seem the fairest often have the most
+  to hide.
+trait1: Sexy
+trait2: Desperate
 year: 1
 ---
+# Halya Jian
+---
+### Description
+- 1st year Dwarf Barbarian in Treskal
+- straight auburn hair that's geled back, Green eyes, and Brown skin
+- Is Sexy and Desperate, and has Entertain as their ideal
+
+### Organizations
+### Relationships
+[[Iasono Ynshael]]: partymate
+[[Nebulon Faelyn]]: partymate
+[[Jofan Elignoir]]: partymate
+### Stats
+```statblock
+name: Halya Jian
+stats: [16, 12, 10, 10, 15, 6]
+```

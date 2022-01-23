@@ -1,39 +1,53 @@
 ---
 birthday:
-  numeric: 4/23
-  written: 23rd of Iounent
-bond: My freedom is my most precious possession. I'll never let anyone take it from
-  me again.
-eyes: Pale Blue
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Elkenval
-hair: speckled
-ideal: Contributing
+  numeric: 2/14
+  written: 14th of Corelent
+bond: The ship is most important- crewmates and captains come and go.
+eyes: Pale Green
+flaw: I have a weakness for the exotic beauty of the people of these lands.
+guild: Treskal
+hair: straight brunette hair that's loose around the shoulders
+ideal: Openness
 name: Shenai Inqoul
 organizations: []
-partyID: 40
-race: Kenku
+partyID: 89
+race: Firbolg
 relationships:
-- name: Meira Nuvian
+- name: Uxwy Lazziar
   type: partymate
-- name: Kembley Ralnor
+- name: Garan Mirthal
   type: partymate
-- name: Cerridwen Durothil
+- name: Murunay Illfate
   type: partymate
-skin: Dark Purple
-spec: Rouge
+skin: Pale Gray
+spec: Monk
 stats:
-  cha: 12
-  con: 14
-  dex: 15
+  cha: 11
+  con: 17
+  dex: 16
   int: 14
-  str: 14
-  wis: 13
-track: Diplomacy
-trait: I once ran twenty-five miles without stopping to warn to my clan of an approaching
-  orc horde. I'd do it again if I had to.
-trait1: Authoritarian
-trait2: Thoughtless
+  str: 11
+  wis: 16
+track: Assault
+trait: I use polysyllabic words that convey the impression of great erudition.
+trait1: Dry
+trait2: Self-conscious
 year: 1
 ---
+# Shenai Inqoul
+---
+### Description
+- 1st year Firbolg Monk in Treskal
+- straight brunette hair that's loose around the shoulders, Pale Green eyes, and Pale Gray skin
+- Is Dry and Self-conscious, and has Openness as their ideal
+
+### Organizations
+### Relationships
+[[Uxwy Lazziar]]: partymate
+[[Garan Mirthal]]: partymate
+[[Murunay Illfate]]: partymate
+### Stats
+```statblock
+name: Shenai Inqoul
+stats: [11, 16, 17, 14, 16, 11]
+```

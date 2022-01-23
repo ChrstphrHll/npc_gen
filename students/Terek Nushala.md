@@ -1,36 +1,51 @@
 ---
 birthday:
-  numeric: 3/5
-  written: 5th of Moradent
-bond: I work to preserve a library, university, scriptorium, or monastery.
-eyes: Orange
-flaw: I will never fully trust anyone other than myself.
-guild: Jettenia
-hair: wavy blonde hair that's parted to the side, slightly obscuring an eye
-ideal: Contributing
+  numeric: 7/18
+  written: 18th of Korent
+bond: I created a great work for someone, and then found them unworthy to receive
+  it. I'm still looking for someone worthy.
+eyes: Pale Gray
+flaw: I'd rather eat my armor than admit when I'm wrong.
+guild: Burk
+hair: curly dark red hair that's braided with blue ribbon (med)
+ideal: Indulgence
 name: Terek Nushala
 organizations: []
-partyID: 10
-race: Dwarf
+partyID: 71
+race: Half-Orc
 relationships:
-- name: Moki Aelynthi
+- name: Barak Felaern
   type: partymate
-- name: Shoulree Letryal
+- name: Pynelope Valhein
   type: partymate
-- name: Matto Divya
-  type: partymate
-skin: Fair
-spec: Fighter
+skin: Pale Gray
+spec: Druid
 stats:
-  cha: 14
-  con: 9
-  dex: 15
-  int: 6
+  cha: 11
+  con: 12
+  dex: 14
+  int: 11
   str: 14
-  wis: 15
+  wis: 16
 track: Diplomacy
-trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
-trait1: Accessible
-trait2: Mealymouthed
-year: 6
+trait: I feel tremendous empathy for all who suffer.
+trait1: Irreverent
+trait2: Domineering
+year: 2
 ---
+# Terek Nushala
+---
+### Description
+- 2nd year Half-Orc Druid in Burk
+- curly dark red hair that's braided with blue ribbon (med), Pale Gray eyes, and Pale Gray skin
+- Is Irreverent and Domineering, and has Indulgence as their ideal
+
+### Organizations
+### Relationships
+[[Barak Felaern]]: partymate
+[[Pynelope Valhein]]: partymate
+### Stats
+```statblock
+name: Terek Nushala
+stats: [14, 14, 12, 11, 16, 11]
+```

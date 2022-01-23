@@ -1,39 +1,53 @@
 ---
 birthday:
-  numeric: 6/22
-  written: 22nd of Korent
-bond: A proud noble once gave me a horrible beating, and I will take my revenge on
-  any bully I encounter.
-eyes: Emerald Green
-flaw: The people who knew me when I was young know my shameful secret, so I can never
-  go home again.
-guild: Burk
-hair: curly platinum hair that's done up in a top knot
-ideal: Involvement
+  numeric: 2/5
+  written: 5th of Corelent
+bond: I'm fascinated by the beauty and wonder of this new land.
+eyes: Amber
+flaw: I would kill to acquire a noble title.
+guild: Jettenia
+hair: curly blonde hair that's put up in a large bun
+ideal: Facilitation
 name: Jovos Seldanna
 organizations: []
-partyID: 84
-race: Triton
+partyID: 46
+race: Halfling
 relationships:
-- name: Alexandyr Aulauthar
+- name: Maarika Oncith
   type: partymate
-- name: Melcyn Taeral
+- name: Alys Ylyndar
   type: partymate
-- name: Eliana Saevel
+- name: Brinna Muerlara
   type: partymate
-skin: Pale Blue
-spec: Monk
+skin: Brown
+spec: Wizard
 stats:
-  cha: 8
-  con: 15
-  dex: 16
-  int: 11
-  str: 16
+  cha: 7
+  con: 11
+  dex: 13
+  int: 16
+  str: 9
   wis: 11
 track: Protection
-trait: I'm well known for my work, and I want to make sure everyone appreciates it.
-  I'm always taken aback when people haven't heard of me.
-trait1: Simple
-trait2: Phlegmatic
-year: 1
+trait: Thinking is for other people. I prefer action.
+trait1: Solid
+trait2: Ruined
+year: 2
 ---
+# Jovos Seldanna
+---
+### Description
+- 2nd year Halfling Wizard in Jettenia
+- curly blonde hair that's put up in a large bun, Amber eyes, and Brown skin
+- Is Solid and Ruined, and has Facilitation as their ideal
+
+### Organizations
+### Relationships
+[[Maarika Oncith]]: partymate
+[[Alys Ylyndar]]: partymate
+[[Brinna Muerlara]]: partymate
+### Stats
+```statblock
+name: Jovos Seldanna
+stats: [9, 13, 11, 16, 11, 7]
+```

@@ -1,37 +1,51 @@
 ---
 birthday:
-  numeric: 6/15
-  written: 15th of Korent
-bond: I will do anything to protect the temple where I served.
-eyes: Deep Blue
-flaw: I follow orders, even if I think they're wrong.
-guild: Alderden
-hair: wavy auburn hair that's parted to the left
-ideal: Tolerance
+  numeric: 6/26
+  written: 26th of Pelent
+bond: I seek to preserve a sacred text that my enemies consider heretical and seek
+  to destroy.
+eyes: Pale Brown
+flaw: I judge others harshly, and myself even more severely.
+guild: Treskal
+hair: wavy black hair that's braided with pink ribbon (long)
+ideal: Patience
 name: Wenge Usunaar
 organizations: []
-partyID: 28
-race: Human
+partyID: 78
+race: Elf
 relationships:
-- name: Grassa Ashbluff
+- name: Efjan Andrathath
   type: partymate
-- name: Wulfe Fulcrux
+- name: Levy Maendellyn
   type: partymate
-- name: Gorlas Vhoadan
-  type: partymate
-skin: Dark Tan
-spec: Bard
+skin: Tan
+spec: Cleric
 stats:
-  cha: 18
-  con: 11
-  dex: 7
-  int: 10
-  str: 7
-  wis: 15
+  cha: 15
+  con: 12
+  dex: 10
+  int: 11
+  str: 9
+  wis: 17
 track: Diplomacy
-trait: Despite my noble birth, I do not place myself above other folk. We all have
-  the same blood.
-trait1: "Blas\xE9"
-trait2: Unrealistic
-year: 8
+trait: I like a job well done, especially if I can convince someone else to do it.
+trait1: Unchanging
+trait2: Suspicious
+year: 2
 ---
+# Wenge Usunaar
+---
+### Description
+- 2nd year Elf Cleric in Treskal
+- wavy black hair that's braided with pink ribbon (long), Pale Brown eyes, and Tan skin
+- Is Unchanging and Suspicious, and has Patience as their ideal
+
+### Organizations
+### Relationships
+[[Efjan Andrathath]]: partymate
+[[Levy Maendellyn]]: partymate
+### Stats
+```statblock
+name: Wenge Usunaar
+stats: [9, 10, 12, 11, 17, 15]
+```

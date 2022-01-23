@@ -1,39 +1,50 @@
 ---
 birthday:
-  numeric: 4/27
-  written: 27th of Iounent
-bond: I pursue wealth to secure someone's love.
-eyes: Blue
-flaw: I have a weakness for the vices of the city, especially hard drink.
+  numeric: 8/3
+  written: 3rd of Ravenent
+bond: My honor is my life.
+eyes: Pale Brown
+flaw: I'll do anything to win fame and renown.
 guild: Treskal
-hair: straight strawberry blond hair that's loose around the shoulders
-ideal: Commonality
+hair: wavy dirty blonde hair that's parted to the side, slightly obscuring an eye
+ideal: Change
 name: Branus Shadegrove
 organizations: []
-partyID: 38
-race: Halfling
+partyID: 75
+race: Human
 relationships:
-- name: Adresin Ilbryn
+- name: Robbos Kalaerede
   type: partymate
-- name: Themistoklea Nevarth
+- name: Romen Uldreiyn
   type: partymate
-- name: Saleas Rilitar
-  type: partymate
-- name: Gunnar Ordayius
-  type: partymate
-skin: Fair
-spec: Druid
+skin: Light
+spec: Rouge
 stats:
   cha: 10
-  con: 13
-  dex: 13
-  int: 9
-  str: 14
-  wis: 16
-track: Protection
-trait: When I set my mind to something, I follow through no matter what gets in my
-  way.
-trait1: Incisive
-trait2: Rowdy
-year: 2
+  con: 9
+  dex: 14
+  int: 11
+  str: 13
+  wis: 11
+track: Diplomacy
+trait: I face problems head-on. A simple, direct solution is the best path to success.
+trait1: Tasteful
+trait2: Approval-seeking
+year: 3
 ---
+# Branus Shadegrove
+---
+### Description
+- 3rd year Human Rouge in Treskal
+- wavy dirty blonde hair that's parted to the side, slightly obscuring an eye, Pale Brown eyes, and Light skin
+- Is Tasteful and Approval-seeking, and has Change as their ideal
+
+### Organizations
+### Relationships
+[[Robbos Kalaerede]]: partymate
+[[Romen Uldreiyn]]: partymate
+### Stats
+```statblock
+name: Branus Shadegrove
+stats: [13, 14, 9, 11, 11, 10]
+```

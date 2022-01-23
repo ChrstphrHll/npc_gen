@@ -1,36 +1,52 @@
 ---
 birthday:
-  numeric: 7/14
-  written: 14th of Ravenent
-bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
-  somewhere.
-eyes: Pale Green
-flaw: I have an insatiable desire for carnal pleasures.
-guild: Burk
-hair: curly black hair that's parted to the side, slightly obscuring an eye
-ideal: Beauty
+  numeric: 1/21
+  written: 21st of Avanent
+bond: I'm trying to pay off an old debt I owe to a generous benefactor.
+eyes: Hazel
+flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
+  involved.
+guild: Treskal
+hair: wavy lighter blonde hair that's put back in a long pony tail
+ideal: Justice
 name: Josius Iliphar
 organizations: []
-partyID: 72
-race: Dwarf
+partyID: 5
+race: Tiefling
 relationships:
-- name: Yorala Tiatha
+- name: Themistoklea Nevarth
   type: partymate
-- name: Jasjen Nlossae
+- name: Asralyn Rhangyl
   type: partymate
-skin: Tan
-spec: Monk
+skin: Pale Blue
+spec: Cleric
 stats:
-  cha: 13
-  con: 7
-  dex: 11
-  int: 8
-  str: 9
-  wis: 10
-track: Assault
-trait: Nobody stays angry at me or around me for long, since I can defuse any amount
-  of tension.
-trait1: Unhurried
-trait2: Mellow
-year: 4
+  cha: 14
+  con: 9
+  dex: 10
+  int: 11
+  str: 14
+  wis: 15
+track: Diplomacy
+trait: I have a strong sense of fair play and always try to find the most equitable
+  solution to arguments.
+trait1: Sophisticated
+trait2: Glamorous
+year: 5
 ---
+# Josius Iliphar
+---
+### Description
+- 5th year Tiefling Cleric in Treskal
+- wavy lighter blonde hair that's put back in a long pony tail, Hazel eyes, and Pale Blue skin
+- Is Sophisticated and Glamorous, and has Justice as their ideal
+
+### Organizations
+### Relationships
+[[Themistoklea Nevarth]]: partymate
+[[Asralyn Rhangyl]]: partymate
+### Stats
+```statblock
+name: Josius Iliphar
+stats: [14, 10, 9, 11, 15, 14]
+```

@@ -1,35 +1,52 @@
 ---
 birthday:
-  numeric: 6/32
-  written: 32nd of Korent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Emerald Green
-flaw: In fact, the world does revolve around me.
-guild: Alderden
-hair: curly green hair that's done up in a top knot
-ideal: People
+  numeric: 2/5
+  written: 5th of Corelent
+bond: I sponsor an orphanage to keep others from enduring what I was forced to endure.
+eyes: Pale Green
+flaw: Once someone questions my courage, I never back down no matter how dangerous
+  the situation.
+guild: Jettenia
+hair: curly lighter blonde hair that's braided with blue ribbon (med)
+ideal: Balance
 name: Sybasten Simimar
 organizations: []
-partyID: 25
-race: Half-Orc
+partyID: 37
+race: Human
 relationships:
-- name: Abramo Sudryl
+- name: Kessa Keller
   type: partymate
-- name: Noam Shields
+- name: Puorlaas Anklos
   type: partymate
-skin: Pale Gray
-spec: Bard
+skin: Light Tan
+spec: Wizard
 stats:
   cha: 14
-  con: 14
-  dex: 8
-  int: 11
-  str: 12
-  wis: 9
-track: Diplomacy
-trait: The first thing I do in a new place is note the locations of everything valuable-
-  or where such things could be hidden.
-trait1: Scholarly
-trait2: Muddle-headed
-year: 1
+  con: 18
+  dex: 9
+  int: 15
+  str: 10
+  wis: 15
+track: Protection
+trait: I'm used to helping out those who aren't as smart as I am, and I patiently
+  explain anything and everything to others.
+trait1: Sociable
+trait2: Dissonant
+year: 2
 ---
+# Sybasten Simimar
+---
+### Description
+- 2nd year Human Wizard in Jettenia
+- curly lighter blonde hair that's braided with blue ribbon (med), Pale Green eyes, and Light Tan skin
+- Is Sociable and Dissonant, and has Balance as their ideal
+
+### Organizations
+### Relationships
+[[Kessa Keller]]: partymate
+[[Puorlaas Anklos]]: partymate
+### Stats
+```statblock
+name: Sybasten Simimar
+stats: [10, 9, 18, 15, 15, 14]
+```

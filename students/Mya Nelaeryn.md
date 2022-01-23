@@ -1,35 +1,51 @@
 ---
 birthday:
-  numeric: 4/15
-  written: 15th of Iounent
-bond: I suffer awful visions of a coming disaster and will do anything to prevent
-  it.
-eyes: Aqua
-flaw: I would kill to acquire a noble title.
-guild: Treskal
-hair: wavy red hair that's braided with blue ribbon (med)
-ideal: Beauty
+  numeric: 6/7
+  written: 7th of Pelent
+bond: My ill-gotten gains go to support my family.
+eyes: Hazel
+flaw: I too often hear veiled insults and threats in every word addressed to me, and
+  I'm quick to anger.
+guild: Fiesn
+hair: straight auburn hair that's braided with turquoise ribbon (med)
+ideal: Reciprocity
 name: Mya Nelaeryn
 organizations: []
-partyID: 64
-race: Firbolg
+partyID: 51
+race: Dwarf
 relationships:
-- name: Bela Qwey
+- name: Rosherren Haladavar
   type: partymate
-- name: Jacomo Jacaranda
+- name: Ramona Saida
   type: partymate
-skin: Pale Gray
-spec: Rouge
+skin: Light
+spec: Artificer
 stats:
-  cha: 8
-  con: 12
-  dex: 14
-  int: 7
-  str: 8
-  wis: 15
-track: Diplomacy
-trait: I am utterly serene, even in the face of disaster.
-trait1: Responsible
-trait2: Conservative
-year: 4
+  cha: 12
+  con: 13
+  dex: 8
+  int: 16
+  str: 6
+  wis: 10
+track: Exploration
+trait: There's nothing I like more than a good mystery.
+trait1: Physical
+trait2: Bewildered
+year: 3
 ---
+# Mya Nelaeryn
+---
+### Description
+- 3rd year Dwarf Artificer in Fiesn
+- straight auburn hair that's braided with turquoise ribbon (med), Hazel eyes, and Light skin
+- Is Physical and Bewildered, and has Reciprocity as their ideal
+
+### Organizations
+### Relationships
+[[Rosherren Haladavar]]: partymate
+[[Ramona Saida]]: partymate
+### Stats
+```statblock
+name: Mya Nelaeryn
+stats: [6, 8, 13, 16, 10, 12]
+```

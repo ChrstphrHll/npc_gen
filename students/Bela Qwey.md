@@ -1,37 +1,51 @@
 ---
 birthday:
-  numeric: 3/27
-  written: 27th of Moradent
-bond: I seek to preserve a sacred text that my enemies consider heretical and seek
-  to destroy.
-eyes: Violet Red
-flaw: I don't take kindly to some of the actions and motivations of the people of
-  this land, because these folk are different from me.
+  numeric: 1/31
+  written: 31st of Avanent
+bond: I'll never forget the crushing defeat my company suffered or the enemies who
+  dealt it.
+eyes: Blue
+flaw: I judge others harshly, and myself even more severely.
 guild: Treskal
-hair: curly dirty blonde hair that's put up in a large bun
-ideal: Invention
+hair: straight dirty blonde hair that's put up in a large bun
+ideal: Charisma
 name: Bela Qwey
 organizations: []
-partyID: 64
-race: Genasi
+partyID: 88
+race: Aasimar
 relationships:
-- name: Mya Nelaeryn
+- name: Alinea Hellsturn
   type: partymate
-- name: Jacomo Jacaranda
+- name: Es'beth Yesheln
   type: partymate
-skin: water
-spec: Artificer
+skin: Light Tan
+spec: Fighter
 stats:
-  cha: 9
+  cha: 14
   con: 12
-  dex: 10
-  int: 16
-  str: 11
-  wis: 9
-track: Assault
-trait: I am incredibly slow to trust. Those who seem the fairest often have the most
-  to hide.
-trait1: Shrewd
-trait2: Surprising
+  dex: 11
+  int: 13
+  str: 15
+  wis: 14
+track: Diplomacy
+trait: I have a lesson for every situation, drawn from observing nature.
+trait1: Confidential
+trait2: Oppressed
 year: 4
 ---
+# Bela Qwey
+---
+### Description
+- 4th year Aasimar Fighter in Treskal
+- straight dirty blonde hair that's put up in a large bun, Blue eyes, and Light Tan skin
+- Is Confidential and Oppressed, and has Charisma as their ideal
+
+### Organizations
+### Relationships
+[[Alinea Hellsturn]]: partymate
+[[Es'beth Yesheln]]: partymate
+### Stats
+```statblock
+name: Bela Qwey
+stats: [15, 11, 12, 13, 14, 14]
+```

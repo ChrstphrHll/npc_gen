@@ -1,35 +1,52 @@
 ---
 birthday:
-  numeric: 3/19
-  written: 19th of Moradent
-bond: I will do anything to protect the temple where I served.
-eyes: Sea Green
-flaw: I have little respect for anyone who is not a proven warrior.
-guild: Alderden
-hair: smooth gold guilded with ruby
-ideal: People
+  numeric: 8/16
+  written: 16th of Ravenent
+bond: I created a great work for someone, and then found them unworthy to receive
+  it. I'm still looking for someone worthy.
+eyes: Pale Brown
+flaw: When faced with a choice between money and my friends, I usually choose the
+  money.
+guild: Burk
+hair: wavy brunette hair that's a tousled bed head
+ideal: Compassion
 name: Noam Shields
 organizations: []
-partyID: 25
-race: Warforged
+partyID: 15
+race: Elf
 relationships:
-- name: Abramo Sudryl
+- name: Alver Boneflare
   type: partymate
-- name: Sybasten Simimar
+- name: Kendel Shael
   type: partymate
-skin: silver
-spec: Ranger
+skin: Dark Brown
+spec: Artificer
 stats:
-  cha: 15
-  con: 10
-  dex: 16
-  int: 11
-  str: 13
+  cha: 12
+  con: 9
+  dex: 15
+  int: 14
+  str: 7
   wis: 11
 track: Protection
-trait: When I set my mind to something, I follow through no matter what gets in my
-  way.
-trait1: Heroic
-trait2: Stubborn
-year: 1
+trait: Nothing can shake my optimistic attitude.
+trait1: Sharing
+trait2: Determined
+year: 7
 ---
+# Noam Shields
+---
+### Description
+- 7th year Elf Artificer in Burk
+- wavy brunette hair that's a tousled bed head, Pale Brown eyes, and Dark Brown skin
+- Is Sharing and Determined, and has Compassion as their ideal
+
+### Organizations
+### Relationships
+[[Alver Boneflare]]: partymate
+[[Kendel Shael]]: partymate
+### Stats
+```statblock
+name: Noam Shields
+stats: [7, 15, 9, 14, 11, 12]
+```

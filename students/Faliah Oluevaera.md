@@ -1,37 +1,54 @@
 ---
 birthday:
-  numeric: 5/3
-  written: 3rd of Pelent
-bond: Someone I loved died because of a mistake I made. That will never happen again.
-eyes: Yellow
-flaw: I consider the adherents of other gods to be deluded innocents at best, or ignorant
-  fools at worst.
-guild: Fiesn
-hair: straight grey hair that's loose around the shoulders
-ideal: Contributing
+  numeric: 2/22
+  written: 22nd of Corelent
+bond: I would still lay down my life for the people I served with.
+eyes: Pale Blue
+flaw: I'm never satisfied with what I have- I always want more.
+guild: Burk
+hair: wavy platinum hair that's loose around the shoulders
+ideal: Forgiveness
 name: Faliah Oluevaera
 organizations: []
-partyID: 78
-race: Elf
+partyID: 42
+race: Human
 relationships:
-- name: Pinna Vanius
+- name: Tylor Llewellenar
   type: partymate
-- name: Theodus Chylnoth
+- name: Elia Veluthil
   type: partymate
-- name: Edyrm Iolas
+- name: Abel Marsh
   type: partymate
-skin: Brown
-spec: Cleric
+skin: Fair
+spec: Ranger
 stats:
-  cha: 11
-  con: 10
-  dex: 6
-  int: 12
-  str: 13
-  wis: 14
-track: Assault
-trait: I'm a hopeless romantic, always searching for that "special someone."
-trait1: Forgiving
-trait2: Vindictive
-year: 2
+  cha: 15
+  con: 12
+  dex: 16
+  int: 17
+  str: 11
+  wis: 15
+track: Diplomacy
+trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
+  accommodations.
+trait1: Self-defacing
+trait2: Bashful
+year: 7
 ---
+# Faliah Oluevaera
+---
+### Description
+- 7th year Human Ranger in Burk
+- wavy platinum hair that's loose around the shoulders, Pale Blue eyes, and Fair skin
+- Is Self-defacing and Bashful, and has Forgiveness as their ideal
+
+### Organizations
+### Relationships
+[[Tylor Llewellenar]]: partymate
+[[Elia Veluthil]]: partymate
+[[Abel Marsh]]: partymate
+### Stats
+```statblock
+name: Faliah Oluevaera
+stats: [11, 16, 12, 17, 15, 15]
+```

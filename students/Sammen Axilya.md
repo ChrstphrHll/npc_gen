@@ -1,38 +1,51 @@
 ---
 birthday:
-  numeric: 7/12
-  written: 12th of Ravenent
-bond: I'll never forget the crushing defeat my company suffered or the enemies who
-  dealt it.
-eyes: Pale Green
-flaw: I'm never satisfied with what I have- I always want more.
-guild: Fiesn
-hair: wavy black hair that's hanging down to their back
-ideal: Innovation
+  numeric: 5/7
+  written: 7th of Iounent
+bond: I'm fascinated by the beauty and wonder of this new land.
+eyes: Pale Blue
+flaw: In fact, the world does revolve around me.
+guild: Elkenval
+hair: straight pink hair that's a tousled bed head
+ideal: Righteous
 name: Sammen Axilya
 organizations: []
-partyID: 4
-race: Half-Elf
+partyID: 48
+race: Gnome
 relationships:
-- name: Rivik Connak
+- name: Matos Mektal
   type: partymate
-- name: Levy Maendellyn
+- name: Q Yulmanda
   type: partymate
-- name: Braddeus Jacaranda
-  type: partymate
-skin: Pale
-spec: Cleric
+skin: Light Tan
+spec: Monk
 stats:
-  cha: 15
-  con: 18
-  dex: 15
-  int: 14
-  str: 14
-  wis: 16
-track: Diplomacy
-trait: I place no stock in wealthy or well-mannered folk. Money and manners won't
-  save you from a hungry owlbear.
-trait1: Intense
-trait2: Narrow-minded
-year: 1
+  cha: 11
+  con: 11
+  dex: 16
+  int: 8
+  str: 12
+  wis: 9
+track: Exploration
+trait: Nobody stays angry at me or around me for long, since I can defuse any amount
+  of tension.
+trait1: Impressionable
+trait2: Insulting
+year: 3
 ---
+# Sammen Axilya
+---
+### Description
+- 3rd year Gnome Monk in Elkenval
+- straight pink hair that's a tousled bed head, Pale Blue eyes, and Light Tan skin
+- Is Impressionable and Insulting, and has Righteous as their ideal
+
+### Organizations
+### Relationships
+[[Matos Mektal]]: partymate
+[[Q Yulmanda]]: partymate
+### Stats
+```statblock
+name: Sammen Axilya
+stats: [12, 16, 11, 8, 9, 11]
+```

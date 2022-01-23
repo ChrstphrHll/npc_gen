@@ -1,37 +1,58 @@
 ---
 birthday:
-  numeric: 4/6
-  written: 6th of Iounent
-bond: I'll never forget the crushing defeat my company suffered or the enemies who
-  dealt it.
-eyes: Spring Green
-flaw: I once satirized a noble who still wants my head. It was a mistake that I will
-  likely repeat.
-guild: Elkenval
-hair: curly auburn hair that's braided with violet ribbon (med)
-ideal: Self-Respect
+  numeric: 6/22
+  written: 22nd of Pelent
+bond: Someone saved my life on the battlefield. To this day, I will never leave a
+  friend behind.
+eyes: Pale Gray
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+guild: Jettenia
+hair: curly dirty blonde hair that's braided with green ribbon (med)
+ideal: Ambition
 name: Hagar Sakrattars
 organizations: []
-partyID: 85
-race: Elf
+partyID: 74
+race: Dwarf
 relationships:
-- name: Jaxon Brindarry
+- name: Ysaac Aelrue
   type: partymate
-- name: Velmona Elway
+- name: Tilo Connak
   type: partymate
-skin: Dark Tan
-spec: Rouge
+- name: Grace Festus
+  type: partymate
+- name: Juppar Kershaw
+  type: partymate
+skin: Brown
+spec: Fighter
 stats:
-  cha: 12
-  con: 10
-  dex: 13
-  int: 11
-  str: 6
-  wis: 13
-track: Protection
-trait: I'm full of inspiring and cautionary tales from my military experience relevant
-  to almost every combat situation.
-trait1: Cheerful
-trait2: Haughty
-year: 2
+  cha: 9
+  con: 12
+  dex: 9
+  int: 15
+  str: 12
+  wis: 12
+track: Exploration
+trait: I feel far more comfortable around animals than people.
+trait1: Physical
+trait2: Pompous
+year: 3
 ---
+# Hagar Sakrattars
+---
+### Description
+- 3rd year Dwarf Fighter in Jettenia
+- curly dirty blonde hair that's braided with green ribbon (med), Pale Gray eyes, and Brown skin
+- Is Physical and Pompous, and has Ambition as their ideal
+
+### Organizations
+### Relationships
+[[Ysaac Aelrue]]: partymate
+[[Tilo Connak]]: partymate
+[[Grace Festus]]: partymate
+[[Juppar Kershaw]]: partymate
+### Stats
+```statblock
+name: Hagar Sakrattars
+stats: [12, 9, 12, 15, 12, 9]
+```

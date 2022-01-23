@@ -1,37 +1,51 @@
 ---
 birthday:
-  numeric: 5/23
-  written: 23rd of Pelent
-bond: My family, clan, or tribe is the most important thing in my life, even when
-  they are far from me.
-eyes: Purple
-flaw: I am inflexible in my thinking.
-guild: Burk
-hair: straight grey hair that's geled back
-ideal: Power
+  numeric: 2/1
+  written: 1st of Corelent
+bond: Someone stole my precious instrument, and someday I'll get it back.
+eyes: Pale Blue
+flaw: I remember every insult I've received and nurse a silent resentment toward anyone
+  who's ever wronged me.
+guild: Treskal
+hair: straight dark red hair that's parted to the right
+ideal: Nature
 name: Saccaros Anaharae
 organizations: []
-partyID: 31
-race: Half-Elf
+partyID: 60
+race: Tiefling
 relationships:
-- name: Rosherren Haladavar
+- name: Nycola Eroan
   type: partymate
-- name: Delsenora Strohm
+- name: Edyrm Iolas
   type: partymate
-- name: Averra Taleisin
-  type: partymate
-skin: Brown
-spec: Druid
+skin: Pale Brown
+spec: Sorcerer
 stats:
-  cha: 16
-  con: 14
-  dex: 11
+  cha: 12
+  con: 11
+  dex: 14
   int: 12
   str: 11
-  wis: 17
+  wis: 10
 track: Exploration
-trait: I like to talk at length about my profession.
-trait1: Glamorous
-trait2: Brittle
-year: 3
+trait: Sarcasm and insults are my weapons of choice.
+trait1: Self-conscious
+trait2: Stern
+year: 1
 ---
+# Saccaros Anaharae
+---
+### Description
+- 1st year Tiefling Sorcerer in Treskal
+- straight dark red hair that's parted to the right, Pale Blue eyes, and Pale Brown skin
+- Is Self-conscious and Stern, and has Nature as their ideal
+
+### Organizations
+### Relationships
+[[Nycola Eroan]]: partymate
+[[Edyrm Iolas]]: partymate
+### Stats
+```statblock
+name: Saccaros Anaharae
+stats: [11, 14, 11, 12, 10, 12]
+```

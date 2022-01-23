@@ -1,34 +1,54 @@
 ---
 birthday:
-  numeric: 3/2
-  written: 2nd of Moradent
-bond: Those who fight beside me are those worth dying for.
-eyes: Spring Green
-flaw: If I'm outnumbered, I will run away from a fight.
-guild: Jettenia
-hair: wavy auburn hair that's parted to the side, slightly obscuring an eye
-ideal: Intuition
+  numeric: 6/30
+  written: 30th of Pelent
+bond: I will face any challenge to win the approval of my family.
+eyes: Pale Brown
+flaw: The tyrant who rules my land will stop at nothing to see me killed.
+guild: Burk
+hair: curly platinum hair that's pulled to the side and buzzed on the right
+ideal: Kindness
 name: Senna Tryton
 organizations: []
-partyID: 66
-race: Halfling
+partyID: 26
+race: Elf
 relationships:
-- name: Holys Hachaam
+- name: Emilanus Shields
   type: partymate
-- name: Caeleb Embrae
+- name: Andrey Rauthomyr
   type: partymate
-skin: Light Tan
-spec: Sorcerer
+- name: Averra Taleisin
+  type: partymate
+skin: Dark Brown
+spec: Wizard
 stats:
-  cha: 13
-  con: 12
+  cha: 12
+  con: 11
   dex: 9
-  int: 11
-  str: 10
-  wis: 17
-track: Exploration
-trait: I'm driven by a wanderlust that led me away from home.
-trait1: Emotional
-trait2: Touchy
-year: 1
+  int: 16
+  str: 9
+  wis: 13
+track: Diplomacy
+trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
+  breaking them.
+trait1: Optimistic
+trait2: Impassive
+year: 8
 ---
+# Senna Tryton
+---
+### Description
+- 8th year Elf Wizard in Burk
+- curly platinum hair that's pulled to the side and buzzed on the right, Pale Brown eyes, and Dark Brown skin
+- Is Optimistic and Impassive, and has Kindness as their ideal
+
+### Organizations
+### Relationships
+[[Emilanus Shields]]: partymate
+[[Andrey Rauthomyr]]: partymate
+[[Averra Taleisin]]: partymate
+### Stats
+```statblock
+name: Senna Tryton
+stats: [9, 9, 11, 16, 13, 12]
+```

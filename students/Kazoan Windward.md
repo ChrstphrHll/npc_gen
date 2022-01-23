@@ -1,37 +1,48 @@
 ---
 birthday:
-  numeric: 6/1
-  written: 1st of Korent
-bond: My loyalty to my sovereign is unwavering.
+  numeric: 6/27
+  written: 27th of Pelent
+bond: I pursue wealth to secure someone's love.
 eyes: Purple
-flaw: I made a terrible mistake in battle cost many lives- and I would do anything
-  to keep that mistake secret.
-guild: Treskal
-hair: straight white hair that's put up in a large bun
-ideal: Gratitude
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+guild: Elkenval
+hair: short spines
+ideal: Forgiveness
 name: Kazoan Windward
 organizations: []
-partyID: 26
-race: Half-Elf
+partyID: 10
+race: Dragonborn
 relationships:
-- name: Estyn Rhangyl
+- name: Varlae Voron
   type: partymate
-- name: Delos Ehlark
-  type: partymate
-- name: Tezani Morthil
-  type: partymate
-skin: Light Tan
-spec: Cleric
+skin: red
+spec: Monk
 stats:
-  cha: 10
-  con: 9
-  dex: 12
-  int: 9
-  str: 12
-  wis: 13
-track: Protection
-trait: I work hard so that I can play hard when the work is done.
-trait1: Solemn
-trait2: Stupid
-year: 3
+  cha: 8
+  con: 12
+  dex: 15
+  int: 15
+  str: 11
+  wis: 10
+track: Assault
+trait: I blow up at the slightest insult.
+trait1: Friendly
+trait2: Discontented
+year: 1
 ---
+# Kazoan Windward
+---
+### Description
+- 1st year Dragonborn Monk in Elkenval
+- short spines, Purple eyes, and red skin
+- Is Friendly and Discontented, and has Forgiveness as their ideal
+
+### Organizations
+### Relationships
+[[Varlae Voron]]: partymate
+### Stats
+```statblock
+name: Kazoan Windward
+stats: [11, 15, 12, 15, 10, 8]
+```

@@ -1,34 +1,51 @@
 ---
 birthday:
-  numeric: 1/29
-  written: 29th of Corelent
-bond: I will bring terrible wrath down on the evildoers who destroyed my homeland.
-eyes: Aqua
-flaw: I am suspicious of strangers and expect the worst of them.
-guild: Jettenia
-hair: straight dirty blonde hair that's put back in a long pony tail
-ideal: Clarity
+  numeric: 7/17
+  written: 17th of Korent
+bond: I fight for those who cannot fight for themselves.
+eyes: Amber
+flaw: My pride will probably lead to my destruction.
+guild: Fiesn
+hair: straight brunette hair that's parted to the side, slightly obscuring an eye
+ideal: Encouragement
 name: Jacob Jorildyn
 organizations: []
-partyID: 9
-race: Dwarf
+partyID: 1
+race: Half-Orc
 relationships:
-- name: Wulfe Galan
+- name: Coriss Biafyndar
   type: partymate
-- name: Jandar Pleufan
+- name: Dejana Keller
   type: partymate
-skin: Light Tan
-spec: Barbarian
+skin: Pale Gray
+spec: Druid
 stats:
-  cha: 12
-  con: 15
-  dex: 10
-  int: 8
-  str: 13
-  wis: 12
-track: Exploration
-trait: I misuse long words in an attempt to sound smarter.
-trait1: Formal
-trait2: Suspicious
-year: 3
+  cha: 13
+  con: 9
+  dex: 14
+  int: 13
+  str: 12
+  wis: 15
+track: Diplomacy
+trait: I can find common ground between the fiercest enemies, empathizing with them
+  and always working toward peace.
+trait1: Truthful
+trait2: Demanding
+year: 5
 ---
+# Jacob Jorildyn
+---
+### Description
+- 5th year Half-Orc Druid in Fiesn
+- straight brunette hair that's parted to the side, slightly obscuring an eye, Amber eyes, and Pale Gray skin
+- Is Truthful and Demanding, and has Encouragement as their ideal
+
+### Organizations
+### Relationships
+[[Coriss Biafyndar]]: partymate
+[[Dejana Keller]]: partymate
+### Stats
+```statblock
+name: Jacob Jorildyn
+stats: [12, 14, 9, 13, 15, 13]
+```

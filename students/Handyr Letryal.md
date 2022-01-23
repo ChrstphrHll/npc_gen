@@ -1,34 +1,52 @@
 ---
 birthday:
-  numeric: 3/16
-  written: 16th of Moradent
-bond: The common folk must see me as a hero of the people.
-eyes: Yellow
-flaw: I pretend not to understand the local language in order to avoid interactions
-  I would rather not have.
-guild: Burk
-hair: wavy red hair that's parted to the side, slightly obscuring an eye
-ideal: People
+  numeric: 5/1
+  written: 1st of Iounent
+bond: I fleeced the wrong person and must work to ensure that this individual never
+  crosses paths with me or those I care about.
+eyes: Pale Blue
+flaw: I am dogmatic in my thoughts and philosophy.
+guild: Treskal
+hair: straight brunette hair that's kept back by a blue headband
+ideal: Exceptionalism
 name: Handyr Letryal
 organizations: []
-partyID: 1
-race: Gnome
+partyID: 73
+race: Elf
 relationships:
-- name: Coriss Biafyndar
+- name: Nolyn Viska
   type: partymate
-skin: Pale
-spec: Fighter
+- name: Vila Tassarion
+  type: partymate
+skin: Light
+spec: Cleric
 stats:
-  cha: 11
-  con: 13
-  dex: 6
+  cha: 15
+  con: 7
+  dex: 15
   int: 13
-  str: 16
-  wis: 9
-track: Exploration
-trait: I don't part with my money easily and will haggle tirelessly to get the best
-  deal possible.
-trait1: Self-reliant
-trait2: Confused
-year: 5
+  str: 6
+  wis: 17
+track: Diplomacy
+trait: I'm haunted by memories of war. I can't get the images of violence out of my
+  mind.
+trait1: Resourceful
+trait2: Proud
+year: 4
 ---
+# Handyr Letryal
+---
+### Description
+- 4th year Elf Cleric in Treskal
+- straight brunette hair that's kept back by a blue headband, Pale Blue eyes, and Light skin
+- Is Resourceful and Proud, and has Exceptionalism as their ideal
+
+### Organizations
+### Relationships
+[[Nolyn Viska]]: partymate
+[[Vila Tassarion]]: partymate
+### Stats
+```statblock
+name: Handyr Letryal
+stats: [6, 15, 7, 13, 17, 15]
+```

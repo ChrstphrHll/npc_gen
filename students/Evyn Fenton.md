@@ -1,36 +1,53 @@
 ---
 birthday:
-  numeric: 2/7
-  written: 7th of Melorent
-bond: I will do anything to prove myself superior to my hated rival.
-eyes: Aqua
-flaw: Despite my best efforts, I am unreliable to my friends.
+  numeric: 1/14
+  written: 14th of Avanent
+bond: I fight for those who cannot fight for themselves.
+eyes: Spring Green
+flaw: I will never fully trust anyone other than myself.
 guild: Jettenia
-hair: curly platinum hair that's parted to the left
-ideal: Faith
+hair: frills
+ideal: Integrity
 name: Evyn Fenton
 organizations: []
-partyID: 22
-race: Half-Orc
+partyID: 36
+race: Dragonborn
 relationships:
-- name: Liris Bhyrindaar
+- name: Karl Cauladra
   type: partymate
-- name: Milae Ditka
+- name: Gianna Rhistel
   type: partymate
-- name: Dejana Keller
+- name: Evylen Nese
   type: partymate
-skin: Green Blue
-spec: Artificer
+skin: silver
+spec: Monk
 stats:
   cha: 10
-  con: 11
-  dex: 17
-  int: 17
-  str: 13
-  wis: 12
-track: Exploration
-trait: I get bitter if I'm not the center of attention.
-trait1: Scholarly
-trait2: Plain
-year: 1
+  con: 13
+  dex: 15
+  int: 13
+  str: 12
+  wis: 10
+track: Diplomacy
+trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
+trait1: Friendly
+trait2: Complex
+year: 4
 ---
+# Evyn Fenton
+---
+### Description
+- 4th year Dragonborn Monk in Jettenia
+- frills, Spring Green eyes, and silver skin
+- Is Friendly and Complex, and has Integrity as their ideal
+
+### Organizations
+### Relationships
+[[Karl Cauladra]]: partymate
+[[Gianna Rhistel]]: partymate
+[[Evylen Nese]]: partymate
+### Stats
+```statblock
+name: Evyn Fenton
+stats: [12, 15, 13, 13, 10, 10]
+```

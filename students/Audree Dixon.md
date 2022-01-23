@@ -1,37 +1,51 @@
 ---
 birthday:
-  numeric: 2/23
-  written: 23rd of Melorent
-bond: Somewhere out there, I have a child who doesn't know me. I'm making the world
-  better for him or her.
-eyes: Purple
-flaw: I am easily distracted by the promise of information.
-guild: Elkenval
-hair: wavy dark red hair that's put back in a long pony tail
-ideal: Compassion
+  numeric: 4/27
+  written: 27th of Moradent
+bond: Those who fight beside me are those worth dying for.
+eyes: Brown
+flaw: I don't take kindly to some of the actions and motivations of the people of
+  this land, because these folk are different from me.
+guild: Fiesn
+hair: straight blonde hair that's parted to the right
+ideal: Ambition
 name: Audree Dixon
 organizations: []
-partyID: 3
-race: Dwarf
+partyID: 31
+race: Genasi
 relationships:
-- name: Cartyr Tamsin
+- name: Kayla Kaminsky
   type: partymate
-- name: Gabrila Retra
+- name: Kunjal Iefyr
   type: partymate
-- name: Skalanis Kobayashi
-  type: partymate
-skin: Brown
-spec: Fighter
+skin: air
+spec: Ranger
 stats:
-  cha: 10
-  con: 14
-  dex: 13
-  int: 9
-  str: 15
-  wis: 8
-track: Protection
-trait: I don't pay attention to the risks in a situation. Never tell me the odds.
-trait1: Brave
-trait2: Compulsive
-year: 3
+  cha: 9
+  con: 11
+  dex: 14
+  int: 11
+  str: 12
+  wis: 11
+track: Assault
+trait: I've lost too many friends, and I'm slow to make new ones.
+trait1: Meticulous
+trait2: Neglectful
+year: 8
 ---
+# Audree Dixon
+---
+### Description
+- 8th year Genasi Ranger in Fiesn
+- straight blonde hair that's parted to the right, Brown eyes, and air skin
+- Is Meticulous and Neglectful, and has Ambition as their ideal
+
+### Organizations
+### Relationships
+[[Kayla Kaminsky]]: partymate
+[[Kunjal Iefyr]]: partymate
+### Stats
+```statblock
+name: Audree Dixon
+stats: [12, 14, 11, 11, 11, 9]
+```

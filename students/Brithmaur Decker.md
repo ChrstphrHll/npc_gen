@@ -1,32 +1,53 @@
 ---
 birthday:
-  numeric: 5/2
-  written: 2nd of Pelent
-bond: I want to be famous, whatever it takes.
-eyes: Violet Red
-flaw: I have an insatiable desire for carnal pleasures.
+  numeric: 8/2
+  written: 2nd of Ravenent
+bond: I will become the greatest thief that ever lived.
+eyes: Pale Gray
+flaw: I speak without really thinking through my words, invariably insulting others.
 guild: Jettenia
-hair: curly auburn hair that's put back in a long pony tail
-ideal: Conformity
+hair: wavy brunette hair that's parted to the side, slightly obscuring an eye
+ideal: Forgiveness
 name: Brithmaur Decker
 organizations: []
-partyID: 61
-race: Triton
+partyID: 19
+race: Elf
 relationships:
-- name: Aidyn Glynnii
+- name: Hartwen Galaeron
   type: partymate
-skin: Spring Green
-spec: Bard
+- name: Pinna Vanius
+  type: partymate
+- name: Eliana Saevel
+  type: partymate
+skin: Dark Brown
+spec: Ranger
 stats:
-  cha: 18
+  cha: 15
   con: 11
   dex: 15
   int: 12
-  str: 17
-  wis: 10
-track: Assault
-trait: I fall in and out of love easily, and am always pursuing someone.
-trait1: Active
-trait2: Unlovable
-year: 1
+  str: 13
+  wis: 14
+track: Exploration
+trait: I am working on a grand philosophical theory and love sharing my ideas.
+trait1: Joyful
+trait2: Apathetic
+year: 3
 ---
+# Brithmaur Decker
+---
+### Description
+- 3rd year Elf Ranger in Jettenia
+- wavy brunette hair that's parted to the side, slightly obscuring an eye, Pale Gray eyes, and Dark Brown skin
+- Is Joyful and Apathetic, and has Forgiveness as their ideal
+
+### Organizations
+### Relationships
+[[Hartwen Galaeron]]: partymate
+[[Pinna Vanius]]: partymate
+[[Eliana Saevel]]: partymate
+### Stats
+```statblock
+name: Brithmaur Decker
+stats: [13, 15, 11, 12, 14, 15]
+```

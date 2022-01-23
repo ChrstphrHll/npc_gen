@@ -1,38 +1,53 @@
 ---
 birthday:
-  numeric: 4/13
-  written: 13th of Iounent
-bond: In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
-eyes: Violet Red
-flaw: Unlocking an ancient mystery is worth the price of a civilization.
-guild: Alderden
-hair: wavy black hair that's loose around the shoulders
-ideal: Might
+  numeric: 4/19
+  written: 19th of Moradent
+bond: I would still lay down my life for the people I served with.
+eyes: Pale Brown
+flaw: I am too enamored of ale, wine, and other intoxicants.
+guild: Burk
+hair: straight lighter blonde hair that's braided with turquoise ribbon (med)
+ideal: Nature
 name: Jendrellian Webb
 organizations: []
-partyID: 17
-race: Tiefling
+partyID: 45
+race: Dwarf
 relationships:
-- name: Barak Felaern
+- name: Aelisabeth Soliania
   type: partymate
-- name: Rianna Belt
+- name: Rivik Connak
   type: partymate
-- name: Connovar Kaminsky
+- name: Eva Reluvethel
   type: partymate
-- name: Jamye Napraeleon
-  type: partymate
-skin: Green
-spec: Barbarian
+skin: Light
+spec: Wizard
 stats:
   cha: 10
-  con: 14
-  dex: 8
-  int: 13
-  str: 14
-  wis: 14
-track: Diplomacy
-trait: I misuse long words in an attempt to sound smarter.
-trait1: Virtuous
-trait2: Boyish
-year: 2
+  con: 11
+  dex: 11
+  int: 14
+  str: 12
+  wis: 10
+track: Exploration
+trait: Whenever I come to a new place, I collect local rumors and spread gossip.
+trait1: Sweet
+trait2: Zany
+year: 4
 ---
+# Jendrellian Webb
+---
+### Description
+- 4th year Dwarf Wizard in Burk
+- straight lighter blonde hair that's braided with turquoise ribbon (med), Pale Brown eyes, and Light skin
+- Is Sweet and Zany, and has Nature as their ideal
+
+### Organizations
+### Relationships
+[[Aelisabeth Soliania]]: partymate
+[[Rivik Connak]]: partymate
+[[Eva Reluvethel]]: partymate
+### Stats
+```statblock
+name: Jendrellian Webb
+stats: [12, 11, 11, 14, 10, 10]
+```

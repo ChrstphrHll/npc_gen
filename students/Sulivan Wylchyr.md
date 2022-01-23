@@ -1,41 +1,56 @@
 ---
 birthday:
-  numeric: 4/13
-  written: 13th of Iounent
-bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
-  to see them again one day.
-eyes: Emerald Green
-flaw: Don't expect me to save those who can't save themselves. It is nature's way
-  that the strong thrive and the weak perish.
-guild: Burk
-hair: curly strawberry blond hair that's kept back by a green headband
-ideal: Competition
+  numeric: 5/18
+  written: 18th of Iounent
+bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, and
+  left me to die. Vengeance will be mine.
+eyes: Pale Blue
+flaw: Once I pick a goal, I become obsessed with it to the detriment of everything
+  else in my life.
+guild: Alderden
+hair: wavy dirty blonde hair that's parted to the side, slightly obscuring an eye
+ideal: Dishonesty
 name: Sulivan Wylchyr
 organizations: []
-partyID: 2
-race: Half-Orc
+partyID: 7
+race: Gnome
 relationships:
-- name: Vaellyn Esyae
+- name: Adros Tolthe
   type: partymate
-- name: Aurikallos Biafyndar
+- name: Surge Fayd
   type: partymate
-- name: Delila Felaern
+- name: Ljuk Vulkor
   type: partymate
-- name: Gianna Rhistel
-  type: partymate
-skin: Green Blue
-spec: Ranger
+skin: Brown
+spec: Barbarian
 stats:
-  cha: 17
-  con: 12
-  dex: 18
-  int: 13
-  str: 13
-  wis: 16
-track: Protection
-trait: I'm used to helping out those who aren't as smart as I am, and I patiently
-  explain anything and everything to others.
-trait1: Witty
-trait2: Distractible
+  cha: 12
+  con: 14
+  dex: 11
+  int: 6
+  str: 14
+  wis: 9
+track: Exploration
+trait: I don't part with my money easily and will haggle tirelessly to get the best
+  deal possible.
+trait1: Discerning
+trait2: Expedient
 year: 1
 ---
+# Sulivan Wylchyr
+---
+### Description
+- 1st year Gnome Barbarian in Alderden
+- wavy dirty blonde hair that's parted to the side, slightly obscuring an eye, Pale Blue eyes, and Brown skin
+- Is Discerning and Expedient, and has Dishonesty as their ideal
+
+### Organizations
+### Relationships
+[[Adros Tolthe]]: partymate
+[[Surge Fayd]]: partymate
+[[Ljuk Vulkor]]: partymate
+### Stats
+```statblock
+name: Sulivan Wylchyr
+stats: [14, 11, 14, 6, 9, 12]
+```

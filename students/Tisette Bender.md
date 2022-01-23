@@ -1,37 +1,57 @@
 ---
 birthday:
-  numeric: 1/16
-  written: 16th of Corelent
-bond: Should my discovery come to light, it could bring ruin to the world.
-eyes: Emerald Green
+  numeric: 3/7
+  written: 7th of Melorent
+bond: Someone stole my precious instrument, and someday I'll get it back.
+eyes: Brown
 flaw: I too often hear veiled insults and threats in every word addressed to me, and
   I'm quick to anger.
-guild: Fiesn
-hair: curly brunette hair that's loose around the shoulders
-ideal: Affection
+guild: Burk
+hair: wavy black hair that's done up in a top knot
+ideal: Humor
 name: Tisette Bender
 organizations: []
-partyID: 73
-race: Tiefling
+partyID: 57
+race: Elf
 relationships:
-- name: Eva Reluvethel
+- name: Taanyth Seeker
   type: partymate
-- name: Karl Cauladra
+- name: Jaris Amlaruil
   type: partymate
-- name: Iaen Dannyd
+- name: Tyego Sinaht
   type: partymate
-skin: Pale Gray
-spec: Ranger
+- name: Felgie Eldar
+  type: partymate
+skin: Light Tan
+spec: Cleric
 stats:
-  cha: 14
-  con: 11
-  dex: 14
-  int: 8
-  str: 11
-  wis: 10
-track: Protection
-trait: I don't like to bathe.
-trait1: Gracious
-trait2: Garrulous
+  cha: 11
+  con: 8
+  dex: 11
+  int: 12
+  str: 10
+  wis: 13
+track: Exploration
+trait: I know a story relevant to almost every situation.
+trait1: Supportive
+trait2: Fixed
 year: 1
 ---
+# Tisette Bender
+---
+### Description
+- 1st year Elf Cleric in Burk
+- wavy black hair that's done up in a top knot, Brown eyes, and Light Tan skin
+- Is Supportive and Fixed, and has Humor as their ideal
+
+### Organizations
+### Relationships
+[[Taanyth Seeker]]: partymate
+[[Jaris Amlaruil]]: partymate
+[[Tyego Sinaht]]: partymate
+[[Felgie Eldar]]: partymate
+### Stats
+```statblock
+name: Tisette Bender
+stats: [10, 11, 8, 12, 13, 11]
+```

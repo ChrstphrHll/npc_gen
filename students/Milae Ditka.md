@@ -1,36 +1,50 @@
 ---
 birthday:
-  numeric: 3/15
-  written: 15th of Moradent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Sea Green
-flaw: I have a weakness for the vices of the city, especially hard drink.
+  numeric: 4/26
+  written: 26th of Moradent
+bond: An injury to the unspoiled wilderness of my home is an injury to me.
+eyes: Pale Blue
+flaw: I am easily distracted by the promise of information.
 guild: Jettenia
-hair: straight auburn hair that's put up in a large bun
-ideal: Spiritualism
+hair: straight blonde hair that's a tousled bed head
+ideal: Spontaneity
 name: Milae Ditka
 organizations: []
-partyID: 22
-race: Gnome
+partyID: 4
+race: Halfling
 relationships:
-- name: Evyn Fenton
+- name: Gavyn Sadalymn
   type: partymate
-- name: Liris Bhyrindaar
+- name: Brynn Opalul
   type: partymate
-- name: Dejana Keller
-  type: partymate
-skin: Brown
-spec: Bard
+skin: Pale
+spec: Artificer
 stats:
-  cha: 16
+  cha: 12
   con: 13
-  dex: 14
-  int: 12
-  str: 8
-  wis: 15
-track: Diplomacy
-trait: I like a job well done, especially if I can convince someone else to do it.
-trait1: Lively
-trait2: Absent-minded
+  dex: 15
+  int: 15
+  str: 14
+  wis: 13
+track: Protection
+trait: The best way to get me to do something is to tell me I can't do it.
+trait1: Private
+trait2: Messy
 year: 1
 ---
+# Milae Ditka
+---
+### Description
+- 1st year Halfling Artificer in Jettenia
+- straight blonde hair that's a tousled bed head, Pale Blue eyes, and Pale skin
+- Is Private and Messy, and has Spontaneity as their ideal
+
+### Organizations
+### Relationships
+[[Gavyn Sadalymn]]: partymate
+[[Brynn Opalul]]: partymate
+### Stats
+```statblock
+name: Milae Ditka
+stats: [14, 15, 13, 15, 13, 12]
+```

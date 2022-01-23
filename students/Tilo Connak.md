@@ -1,35 +1,57 @@
 ---
 birthday:
-  numeric: 6/33
-  written: 33rd of Korent
-bond: My instrument is my most treasured possession, and it reminds me of someone
-  I love.
-eyes: Purple
-flaw: I have little respect for anyone who is not a proven warrior.
+  numeric: 4/19
+  written: 19th of Moradent
+bond: In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
+eyes: Pale Brown
+flaw: I have a weakness for the exotic beauty of the people of these lands.
 guild: Jettenia
-hair: long spines
-ideal: Forgiveness
+hair: curly strawberry blond hair that's put back in a short pony tail
+ideal: Loyalty
 name: Tilo Connak
 organizations: []
-partyID: 48
-race: Dragonborn
+partyID: 74
+race: Human
 relationships:
-- name: Felgie Eldar
+- name: Ysaac Aelrue
   type: partymate
-- name: Jaris Amlaruil
+- name: Hagar Sakrattars
   type: partymate
-skin: black
-spec: Barbarian
+- name: Grace Festus
+  type: partymate
+- name: Juppar Kershaw
+  type: partymate
+skin: Dark Brown
+spec: Fighter
 stats:
-  cha: 14
-  con: 12
-  dex: 13
-  int: 11
-  str: 15
-  wis: 11
-track: Protection
-trait: I work hard so that I can play hard when the work is done.
-trait1: Chummy
-trait2: Insincere
-year: 1
+  cha: 12
+  con: 16
+  dex: 18
+  int: 15
+  str: 16
+  wis: 10
+track: Assault
+trait: I once ran twenty-five miles without stopping to warn to my clan of an approaching
+  orc horde. I'd do it again if I had to.
+trait1: Undemanding
+trait2: Shortsighted
+year: 3
 ---
+# Tilo Connak
+---
+### Description
+- 3rd year Human Fighter in Jettenia
+- curly strawberry blond hair that's put back in a short pony tail, Pale Brown eyes, and Dark Brown skin
+- Is Undemanding and Shortsighted, and has Loyalty as their ideal
+
+### Organizations
+### Relationships
+[[Ysaac Aelrue]]: partymate
+[[Hagar Sakrattars]]: partymate
+[[Grace Festus]]: partymate
+[[Juppar Kershaw]]: partymate
+### Stats
+```statblock
+name: Tilo Connak
+stats: [16, 18, 16, 15, 10, 12]
+```

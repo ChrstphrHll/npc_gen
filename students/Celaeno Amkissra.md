@@ -1,37 +1,50 @@
 ---
 birthday:
-  numeric: 0/15
-  written: 15th of Avanent
-bond: Something important was taken from me, and I aim to steal it back.
-eyes: Deep Blue
-flaw: I can't resist a pretty face.
-guild: Alderden
-hair: curly dark red hair that's kept back by a turquoise headband
-ideal: Reciprocity
+  numeric: 6/8
+  written: 8th of Pelent
+bond: I will do anything to protect the temple where I served.
+eyes: Amber
+flaw: I have a "tell" that reveals when I'm lying.
+guild: Treskal
+hair: curly dirty blonde hair that's kept back by a turquoise headband
+ideal: Learning
 name: Celaeno Amkissra
 organizations: []
-partyID: 63
-race: Elf
+partyID: 27
+race: Half-Elf
 relationships:
-- name: Hanro Fieryat
+- name: Guliemos Nym
   type: partymate
-- name: Diegon Verrona
+- name: Jerrick Yarbrough
   type: partymate
-- name: Aelisabeth Soliania
-  type: partymate
-skin: Brown
-spec: Paladin
+skin: Light Tan
+spec: Ranger
 stats:
-  cha: 6
-  con: 13
-  dex: 16
-  int: 9
-  str: 18
-  wis: 13
-track: Diplomacy
-trait: Nobody stays angry at me or around me for long, since I can defuse any amount
-  of tension.
-trait1: Sexy
-trait2: Spoiled
-year: 4
+  cha: 15
+  con: 7
+  dex: 17
+  int: 16
+  str: 12
+  wis: 16
+track: Assault
+trait: The common folk love me for my kindness and generosity.
+trait1: Forgiving
+trait2: Moralistic
+year: 5
 ---
+# Celaeno Amkissra
+---
+### Description
+- 5th year Half-Elf Ranger in Treskal
+- curly dirty blonde hair that's kept back by a turquoise headband, Amber eyes, and Light Tan skin
+- Is Forgiving and Moralistic, and has Learning as their ideal
+
+### Organizations
+### Relationships
+[[Guliemos Nym]]: partymate
+[[Jerrick Yarbrough]]: partymate
+### Stats
+```statblock
+name: Celaeno Amkissra
+stats: [12, 17, 7, 16, 16, 15]
+```

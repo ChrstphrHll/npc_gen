@@ -1,38 +1,57 @@
 ---
 birthday:
-  numeric: 0/16
-  written: 16th of Avanent
-bond: I will do anything to protect the temple where I served.
-eyes: Yellow
-flaw: My piety sometimes leads me to blindly trust those that profess faith in my
-  god.
-guild: Fiesn
-hair: speckled
-ideal: Might
+  numeric: 1/4
+  written: 4th of Avanent
+bond: I come from a noble family, and one day I'll reclaim my lands and title from
+  those who stole them from me.
+eyes: Pale Brown
+flaw: I can't resist swindling people who are more powerful than me.
+guild: Jettenia
+hair: straight grey hair that's done up in a top knot
+ideal: Speed
 name: Grace Festus
 organizations: []
-partyID: 59
-race: Kenku
+partyID: 74
+race: Human
 relationships:
-- name: Avaery Klaern
+- name: Ysaac Aelrue
   type: partymate
-- name: Hazel Traeliorn
+- name: Tilo Connak
   type: partymate
-- name: Hodus Belt
+- name: Hagar Sakrattars
   type: partymate
-skin: Brown
-spec: Artificer
+- name: Juppar Kershaw
+  type: partymate
+skin: Light Tan
+spec: Fighter
 stats:
-  cha: 13
-  con: 8
-  dex: 9
-  int: 16
-  str: 8
-  wis: 16
-track: Exploration
-trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
-  breaking them.
-trait1: Concerned
-trait2: Bashful
-year: 1
+  cha: 14
+  con: 13
+  dex: 13
+  int: 8
+  str: 15
+  wis: 15
+track: Assault
+trait: I am horribly, horribly awkward in social situations.
+trait1: Emotional
+trait2: Aimless
+year: 3
 ---
+# Grace Festus
+---
+### Description
+- 3rd year Human Fighter in Jettenia
+- straight grey hair that's done up in a top knot, Pale Brown eyes, and Light Tan skin
+- Is Emotional and Aimless, and has Speed as their ideal
+
+### Organizations
+### Relationships
+[[Ysaac Aelrue]]: partymate
+[[Tilo Connak]]: partymate
+[[Hagar Sakrattars]]: partymate
+[[Juppar Kershaw]]: partymate
+### Stats
+```statblock
+name: Grace Festus
+stats: [15, 13, 13, 8, 15, 14]
+```

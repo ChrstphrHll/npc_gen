@@ -1,32 +1,51 @@
 ---
 birthday:
-  numeric: 3/6
-  written: 6th of Moradent
-bond: Something important was taken from me, and I aim to steal it back.
-eyes: Orange
-flaw: My hatred of my enemies is blind and unreasoning.
-guild: Treskal
-hair: straight lighter blonde hair that's kept back by a green headband
-ideal: Clarity
+  numeric: 8/11
+  written: 11th of Ravenent
+bond: I'm trying to pay off an old debt I owe to a generous benefactor.
+eyes: Gray
+flaw: I am easily distracted by the promise of information.
+guild: Burk
+hair: curly auburn hair that's put back in a short pony tail
+ideal: Power
 name: Cam Lazziar
 organizations: []
-partyID: 62
-race: Half-Orc
+partyID: 44
+race: Human
 relationships:
-- name: Surge Fayd
+- name: Matrell Halafarin
   type: partymate
-skin: Deep Green
-spec: Wizard
+- name: Brahm Delmuth
+  type: partymate
+skin: Light Tan
+spec: Sorcerer
 stats:
-  cha: 13
+  cha: 14
   con: 12
-  dex: 14
-  int: 15
-  str: 13
-  wis: 6
-track: Exploration
-trait: I change my mood or my mind as quickly as I change key in a song.
-trait1: Decent
-trait2: Boorish
-year: 3
+  dex: 11
+  int: 12
+  str: 14
+  wis: 12
+track: Protection
+trait: I can find common ground between the fiercest enemies, empathizing with them
+  and always working toward peace.
+trait1: Deferential
+trait2: Fickle
+year: 5
 ---
+# Cam Lazziar
+---
+### Description
+- 5th year Human Sorcerer in Burk
+- curly auburn hair that's put back in a short pony tail, Gray eyes, and Light Tan skin
+- Is Deferential and Fickle, and has Power as their ideal
+
+### Organizations
+### Relationships
+[[Matrell Halafarin]]: partymate
+[[Brahm Delmuth]]: partymate
+### Stats
+```statblock
+name: Cam Lazziar
+stats: [14, 11, 12, 12, 12, 14]
+```

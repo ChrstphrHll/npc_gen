@@ -1,36 +1,54 @@
 ---
 birthday:
-  numeric: 5/2
-  written: 2nd of Pelent
-bond: I'm fascinated by the beauty and wonder of this new land.
-eyes: Purple
-flaw: I am easily distracted by the promise of information.
-guild: Elkenval
-hair: wavy auburn hair that's pulled to the side and buzzed on the left
-ideal: Home
+  numeric: 7/21
+  written: 21st of Korent
+bond: My life's work is a series of tomes related to a specific field of lore.
+eyes: Pale Brown
+flaw: Once someone questions my courage, I never back down no matter how dangerous
+  the situation.
+guild: Alderden
+hair: curly white hair that's kept back by a pink headband
+ideal: Flexibility
 name: Santyeg Kuskyn
 organizations: []
-partyID: 33
-race: Half-Elf
+partyID: 11
+race: Goliath
 relationships:
-- name: Efjan Andrathath
+- name: Aryana Velethuil
   type: partymate
-- name: Thenol Shialaevar
+- name: Asten Alavara
   type: partymate
-- name: Natalia Endo
+- name: Joyce Helartha
   type: partymate
-skin: Dark Brown
-spec: Ranger
+skin: Light
+spec: Wizard
 stats:
-  cha: 12
-  con: 12
-  dex: 13
-  int: 9
-  str: 4
-  wis: 13
-track: Exploration
-trait: I'm full of witty aphorisms and have a proverb for every occasion.
-trait1: Neutral
-trait2: Impudent
-year: 8
+  cha: 15
+  con: 8
+  dex: 11
+  int: 15
+  str: 12
+  wis: 12
+track: Protection
+trait: I blow up at the slightest insult.
+trait1: Dreamer
+trait2: Insecure
+year: 1
 ---
+# Santyeg Kuskyn
+---
+### Description
+- 1st year Goliath Wizard in Alderden
+- curly white hair that's kept back by a pink headband, Pale Brown eyes, and Light skin
+- Is Dreamer and Insecure, and has Flexibility as their ideal
+
+### Organizations
+### Relationships
+[[Aryana Velethuil]]: partymate
+[[Asten Alavara]]: partymate
+[[Joyce Helartha]]: partymate
+### Stats
+```statblock
+name: Santyeg Kuskyn
+stats: [12, 11, 8, 15, 12, 15]
+```

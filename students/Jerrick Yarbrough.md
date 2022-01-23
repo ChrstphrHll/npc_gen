@@ -1,37 +1,50 @@
 ---
 birthday:
-  numeric: 4/6
-  written: 6th of Iounent
-bond: I'll never forget the crushing defeat my company suffered or the enemies who
-  dealt it.
-eyes: Yellow
-flaw: Now that I've returned to the world, I enjoy its delights a little too much.
-guild: Jettenia
-hair: wavy brunette hair that's geled back
-ideal: Self-Respect
+  numeric: 1/28
+  written: 28th of Avanent
+bond: I'm fascinated by the beauty and wonder of this new land.
+eyes: Amber
+flaw: If I'm outnumbered, I will run away from a fight.
+guild: Treskal
+hair: curly grey hair that's hanging down to their back
+ideal: Success
 name: Jerrick Yarbrough
 organizations: []
-partyID: 21
-race: Dwarf
+partyID: 27
+race: Goliath
 relationships:
-- name: Leja Talila
+- name: Celaeno Amkissra
   type: partymate
-- name: Ramona Saida
+- name: Guliemos Nym
   type: partymate
-- name: Valia Esyae
-  type: partymate
-skin: Dark Brown
-spec: Rouge
+skin: Light
+spec: Sorcerer
 stats:
   cha: 16
-  con: 11
-  dex: 17
-  int: 15
-  str: 14
-  wis: 6
-track: Diplomacy
-trait: Nothing can shake my optimistic attitude.
-trait1: Profound
-trait2: Delicate
-year: 4
+  con: 12
+  dex: 7
+  int: 13
+  str: 12
+  wis: 15
+track: Protection
+trait: I have a lesson for every situation, drawn from observing nature.
+trait1: Thrifty
+trait2: Crafty
+year: 5
 ---
+# Jerrick Yarbrough
+---
+### Description
+- 5th year Goliath Sorcerer in Treskal
+- curly grey hair that's hanging down to their back, Amber eyes, and Light skin
+- Is Thrifty and Crafty, and has Success as their ideal
+
+### Organizations
+### Relationships
+[[Celaeno Amkissra]]: partymate
+[[Guliemos Nym]]: partymate
+### Stats
+```statblock
+name: Jerrick Yarbrough
+stats: [12, 7, 12, 13, 15, 16]
+```

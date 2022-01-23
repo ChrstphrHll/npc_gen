@@ -1,37 +1,54 @@
 ---
 birthday:
-  numeric: 5/12
-  written: 12th of Pelent
-bond: Everything I do is for the common people.
-eyes: Red
-flaw: I don't take kindly to some of the actions and motivations of the people of
-  this land, because these folk are different from me.
-guild: Fiesn
-hair: frizzy green hair that's hanging down to their back
-ideal: Friendship
+  numeric: 4/12
+  written: 12th of Moradent
+bond: Someone stole my precious instrument, and someday I'll get it back.
+eyes: Pale Green
+flaw: No one must ever learn that I once stole money from guild coffers.
+guild: Alderden
+hair: straight lighter blonde hair that's kept back by a blue headband
+ideal: Live and Let Live
 name: Nathan Laeroth
 organizations: []
-partyID: 49
-race: Halfling
+partyID: 43
+race: Half-Elf
 relationships:
-- name: Kaeli Khiiral
+- name: Miglus Yrlissa
   type: partymate
-- name: Delja Iefyr
+- name: Moki Aelynthi
   type: partymate
-- name: Lincon Nylaathria
+- name: Shoulree Letryal
   type: partymate
-skin: Tan
-spec: Cleric
+skin: Dark Tan
+spec: Bard
 stats:
-  cha: 15
-  con: 16
-  dex: 12
-  int: 11
-  str: 13
-  wis: 18
-track: Exploration
-trait: I quote (or misquote) sacred texts and proverbs in almost every situation.
-trait1: Genuine
-trait2: Hateful
-year: 4
+  cha: 13
+  con: 12
+  dex: 11
+  int: 13
+  str: 16
+  wis: 12
+track: Assault
+trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
+  accommodations.
+trait1: Sensitive
+trait2: Fawning
+year: 1
 ---
+# Nathan Laeroth
+---
+### Description
+- 1st year Half-Elf Bard in Alderden
+- straight lighter blonde hair that's kept back by a blue headband, Pale Green eyes, and Dark Tan skin
+- Is Sensitive and Fawning, and has Live and Let Live as their ideal
+
+### Organizations
+### Relationships
+[[Miglus Yrlissa]]: partymate
+[[Moki Aelynthi]]: partymate
+[[Shoulree Letryal]]: partymate
+### Stats
+```statblock
+name: Nathan Laeroth
+stats: [16, 11, 12, 13, 12, 13]
+```

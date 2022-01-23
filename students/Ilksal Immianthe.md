@@ -1,37 +1,53 @@
 ---
 birthday:
-  numeric: 6/11
-  written: 11th of Korent
-bond: I've been searching my whole life for the answer to a certain question.
-eyes: Emerald Green
-flaw: It's not stealing if I need it more than someone else.
-guild: Treskal
-hair: straight brunette hair that's braided with pink ribbon (med)
-ideal: Learning
+  numeric: 6/18
+  written: 18th of Pelent
+bond: Nothing is more important than the other members of my family.
+eyes: Amber
+flaw: I am inflexible in my thinking.
+guild: Burk
+hair: straight brunette hair that's braided with violet ribbon (med)
+ideal: Honor
 name: Ilksal Immianthe
 organizations: []
-partyID: 60
-race: Dwarf
+partyID: 32
+race: Halfling
 relationships:
-- name: Helera Urkensvall
+- name: Hudsen Elandorr
+  type: partymate
+- name: Matto Divya
   type: partymate
 - name: Pippi Langston
   type: partymate
-- name: Aksel Strohm
-  type: partymate
-skin: Brown
-spec: Druid
+skin: Dark Tan
+spec: Cleric
 stats:
-  cha: 13
-  con: 14
+  cha: 7
+  con: 12
   dex: 9
-  int: 8
-  str: 10
-  wis: 15
-track: Exploration
-trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
-  living grates on me.
-trait1: Sympathetic
-trait2: Determined
-year: 4
+  int: 13
+  str: 16
+  wis: 17
+track: Diplomacy
+trait: I don't like to bathe.
+trait1: Carefree
+trait2: Predictable
+year: 8
 ---
+# Ilksal Immianthe
+---
+### Description
+- 8th year Halfling Cleric in Burk
+- straight brunette hair that's braided with violet ribbon (med), Amber eyes, and Dark Tan skin
+- Is Carefree and Predictable, and has Honor as their ideal
+
+### Organizations
+### Relationships
+[[Hudsen Elandorr]]: partymate
+[[Matto Divya]]: partymate
+[[Pippi Langston]]: partymate
+### Stats
+```statblock
+name: Ilksal Immianthe
+stats: [16, 9, 12, 13, 17, 7]
+```

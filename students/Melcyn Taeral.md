@@ -1,36 +1,53 @@
 ---
 birthday:
-  numeric: 0/18
-  written: 18th of Avanent
-bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
-eyes: Orange
-flaw: I can't resist swindling people who are more powerful than me.
-guild: Burk
-hair: straight blonde hair that's put up in a large bun
-ideal: Involvement
+  numeric: 6/21
+  written: 21st of Pelent
+bond: Everything I do is for the common people.
+eyes: Pale Brown
+flaw: I have a weakness for the exotic beauty of the people of these lands.
+guild: Fiesn
+hair: curly red hair that's a tousled bed head
+ideal: Honor
 name: Melcyn Taeral
 organizations: []
-partyID: 84
-race: Half-Elf
+partyID: 23
+race: Firbolg
 relationships:
-- name: Alexandyr Aulauthar
+- name: Wulfe Galan
   type: partymate
-- name: Jovos Seldanna
+- name: Hanna Arkhun
   type: partymate
-- name: Eliana Saevel
+- name: Abryia Rubrae
   type: partymate
-skin: Pale
-spec: Bard
+skin: Pale Gray
+spec: Rouge
 stats:
-  cha: 16
-  con: 11
-  dex: 10
-  int: 12
-  str: 15
-  wis: 13
+  cha: 12
+  con: 13
+  dex: 16
+  int: 10
+  str: 16
+  wis: 18
 track: Assault
-trait: I like to talk at length about my profession.
-trait1: Emotional
-trait2: Astigmatic
-year: 1
+trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
+trait1: Sharing
+trait2: Impressionable
+year: 4
 ---
+# Melcyn Taeral
+---
+### Description
+- 4th year Firbolg Rouge in Fiesn
+- curly red hair that's a tousled bed head, Pale Brown eyes, and Pale Gray skin
+- Is Sharing and Impressionable, and has Honor as their ideal
+
+### Organizations
+### Relationships
+[[Wulfe Galan]]: partymate
+[[Hanna Arkhun]]: partymate
+[[Abryia Rubrae]]: partymate
+### Stats
+```statblock
+name: Melcyn Taeral
+stats: [16, 16, 13, 10, 18, 12]
+```

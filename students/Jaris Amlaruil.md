@@ -1,36 +1,56 @@
 ---
 birthday:
-  numeric: 4/24
-  written: 24th of Iounent
-bond: I entered seclusion to hide from the ones who might still be hunting me. I must
-  someday confront them.
-eyes: Purple
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Jettenia
-hair: curly white hair that's loose around the shoulders
-ideal: Responsibility
+  numeric: 8/10
+  written: 10th of Ravenent
+bond: I am in love with the heir of a family that my family despises.
+eyes: Pale Gray
+flaw: I will never fully trust anyone other than myself.
+guild: Burk
+hair: straight red hair that's done up in a top knot
+ideal: Caring
 name: Jaris Amlaruil
 organizations: []
-partyID: 48
-race: Gnome
+partyID: 57
+race: Halfling
 relationships:
+- name: Taanyth Seeker
+  type: partymate
+- name: Tyego Sinaht
+  type: partymate
 - name: Felgie Eldar
   type: partymate
-- name: Tilo Connak
+- name: Tisette Bender
   type: partymate
 skin: Dark Tan
-spec: Monk
+spec: Barbarian
 stats:
   cha: 11
-  con: 11
-  dex: 16
-  int: 10
-  str: 9
-  wis: 14
-track: Protection
-trait: I like a job well done, especially if I can convince someone else to do it.
-trait1: Spontaneous
-trait2: Easily Discouraged
+  con: 8
+  dex: 12
+  int: 13
+  str: 18
+  wis: 12
+track: Exploration
+trait: I don't like to bathe.
+trait1: Authentic
+trait2: Suspicious
 year: 1
 ---
+# Jaris Amlaruil
+---
+### Description
+- 1st year Halfling Barbarian in Burk
+- straight red hair that's done up in a top knot, Pale Gray eyes, and Dark Tan skin
+- Is Authentic and Suspicious, and has Caring as their ideal
+
+### Organizations
+### Relationships
+[[Taanyth Seeker]]: partymate
+[[Tyego Sinaht]]: partymate
+[[Felgie Eldar]]: partymate
+[[Tisette Bender]]: partymate
+### Stats
+```statblock
+name: Jaris Amlaruil
+stats: [18, 12, 8, 13, 12, 11]
+```

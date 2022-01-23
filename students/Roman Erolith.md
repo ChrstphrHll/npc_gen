@@ -1,38 +1,57 @@
 ---
 birthday:
-  numeric: 6/27
-  written: 27th of Korent
-bond: Someone I loved died because of a mistake I made. That will never happen again.
-eyes: Violet Red
-flaw: There's no room for caution in a life lived to the fullest.
-guild: Treskal
-hair: frizzy white hair that's braided with green ribbon (long)
-ideal: Peace
+  numeric: 1/14
+  written: 14th of Avanent
+bond: I created a great work for someone, and then found them unworthy to receive
+  it. I'm still looking for someone worthy.
+eyes: Pale Gray
+flaw: I'm a sucker for a pretty face.
+guild: Burk
+hair: curly blue hair that's braided with turquoise ribbon (med)
+ideal: Adventure
 name: Roman Erolith
 organizations: []
-partyID: 50
-race: Half-Elf
+partyID: 55
+race: Halfling
 relationships:
-- name: Angel Nushala
+- name: Allisa Iahalae
   type: partymate
-- name: Halja Dwyer
+- name: Iaen Dannyd
   type: partymate
-- name: Kymber Korrigash
+- name: Kanoi Xharlion
   type: partymate
-- name: Whit Remington
+- name: Nicholus Morthil
   type: partymate
-skin: Tan
+skin: Fair
 spec: Barbarian
 stats:
-  cha: 9
-  con: 9
-  dex: 13
-  int: 12
-  str: 13
-  wis: 10
-track: Exploration
-trait: I connect everything that happens to me to a grand, cosmic plan.
-trait1: Dedicated
-trait2: Pleasing
-year: 2
+  cha: 16
+  con: 16
+  dex: 12
+  int: 8
+  str: 17
+  wis: 12
+track: Diplomacy
+trait: I bluntly say what other people are hinting at or hiding.
+trait1: Incisive
+trait2: Lackadaisical
+year: 3
 ---
+# Roman Erolith
+---
+### Description
+- 3rd year Halfling Barbarian in Burk
+- curly blue hair that's braided with turquoise ribbon (med), Pale Gray eyes, and Fair skin
+- Is Incisive and Lackadaisical, and has Adventure as their ideal
+
+### Organizations
+### Relationships
+[[Allisa Iahalae]]: partymate
+[[Iaen Dannyd]]: partymate
+[[Kanoi Xharlion]]: partymate
+[[Nicholus Morthil]]: partymate
+### Stats
+```statblock
+name: Roman Erolith
+stats: [17, 12, 16, 8, 12, 16]
+```

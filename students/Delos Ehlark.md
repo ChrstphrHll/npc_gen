@@ -1,37 +1,51 @@
 ---
 birthday:
-  numeric: 3/11
-  written: 11th of Moradent
-bond: I entered seclusion because I loved someone I could not have.
-eyes: Spring Green
-flaw: By my words and actions, I often bring shame to my family.By my words and actions,
-  I often bring shame to my family.
-guild: Treskal
-hair: straight brunette hair that's loose around the shoulders
-ideal: Entrepreneurial
+  numeric: 1/26
+  written: 26th of Avanent
+bond: I owe my guild a great debt for forging me into the person I am today.
+eyes: Pale Blue
+flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
+  trouble.
+guild: Elkenval
+hair: straight platinum hair that's geled back
+ideal: Charisma
 name: Delos Ehlark
 organizations: []
-partyID: 26
-race: Dwarf
+partyID: 13
+race: Halfling
 relationships:
-- name: Estyn Rhangyl
+- name: Cirvlon Elpaerae
   type: partymate
-- name: Kazoan Windward
+- name: Eligio Nevarth
   type: partymate
-- name: Tezani Morthil
-  type: partymate
-skin: Dark Tan
-spec: Wizard
+skin: Light Tan
+spec: Bard
 stats:
-  cha: 12
-  con: 12
-  dex: 15
-  int: 15
-  str: 13
-  wis: 13
-track: Protection
-trait: I never pass up a friendly wager.
-trait1: Unhurried
-trait2: Disconcerting
-year: 3
+  cha: 15
+  con: 9
+  dex: 11
+  int: 10
+  str: 11
+  wis: 12
+track: Assault
+trait: I like to squeeze into small places where no one else can get to me.
+trait1: Neutral
+trait2: Brutal
+year: 1
 ---
+# Delos Ehlark
+---
+### Description
+- 1st year Halfling Bard in Elkenval
+- straight platinum hair that's geled back, Pale Blue eyes, and Light Tan skin
+- Is Neutral and Brutal, and has Charisma as their ideal
+
+### Organizations
+### Relationships
+[[Cirvlon Elpaerae]]: partymate
+[[Eligio Nevarth]]: partymate
+### Stats
+```statblock
+name: Delos Ehlark
+stats: [11, 11, 9, 10, 12, 15]
+```

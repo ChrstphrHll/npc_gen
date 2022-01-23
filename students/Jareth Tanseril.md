@@ -1,40 +1,58 @@
 ---
 birthday:
-  numeric: 6/31
-  written: 31st of Korent
-bond: I will get revenge on the evil forces that destroyed my place of business and
-  ruined my livelihood.
-eyes: Purple
-flaw: A scandal prevents me from ever going home again. That kind of trouble seems
-  to follow me around.
-guild: Elkenval
-hair: wavy grey hair that's parted to the right
-ideal: Friendship
+  numeric: 1/30
+  written: 30th of Avanent
+bond: A proud noble once gave me a horrible beating, and I will take my revenge on
+  any bully I encounter.
+eyes: Hazel
+flaw: Once I pick a goal, I become obsessed with it to the detriment of everything
+  else in my life.
+guild: Fiesn
+hair: sleek
+ideal: Kindness
 name: Jareth Tanseril
 organizations: []
-partyID: 14
-race: Half-Orc
+partyID: 24
+race: Kenku
 relationships:
-- name: Alonnos Xanotter
+- name: Ian Averescu
   type: partymate
-- name: Ysak Llewellenar
+- name: Jothen Elway
   type: partymate
-- name: Jamie Kesefehon
+- name: Gianesia Onvyr
   type: partymate
-- name: Ryan Ebersol
+- name: Delila Felaern
   type: partymate
-skin: Pale Green
-spec: Wizard
+skin: Dark Purple
+spec: Fighter
 stats:
-  cha: 12
-  con: 15
-  dex: 7
-  int: 16
-  str: 12
-  wis: 10
-track: Protection
-trait: If someone is in trouble, I'm always ready to lend help.
-trait1: Keen
-trait2: Vacuous
-year: 4
+  cha: 13
+  con: 10
+  dex: 14
+  int: 13
+  str: 13
+  wis: 8
+track: Diplomacy
+trait: I have a strong code of honor or sense of propriety that others don't comprehend.
+trait1: Resourceful
+trait2: Contradictory
+year: 3
 ---
+# Jareth Tanseril
+---
+### Description
+- 3rd year Kenku Fighter in Fiesn
+- sleek, Hazel eyes, and Dark Purple skin
+- Is Resourceful and Contradictory, and has Kindness as their ideal
+
+### Organizations
+### Relationships
+[[Ian Averescu]]: partymate
+[[Jothen Elway]]: partymate
+[[Gianesia Onvyr]]: partymate
+[[Delila Felaern]]: partymate
+### Stats
+```statblock
+name: Jareth Tanseril
+stats: [13, 14, 10, 13, 8, 13]
+```

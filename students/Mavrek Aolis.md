@@ -1,37 +1,50 @@
 ---
 birthday:
-  numeric: 3/9
-  written: 9th of Moradent
-bond: I would still lay down my life for the people I served with.
-eyes: Emerald Green
-flaw: I too often hear veiled insults and threats in every word addressed to me, and
-  I'm quick to anger.
+  numeric: 5/26
+  written: 26th of Iounent
+bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
+eyes: Brown
+flaw: I can't keep a secret to save my life, or anyone else's.
 guild: Elkenval
-hair: wavy platinum hair that's hanging down to their legs
-ideal: Code
+hair: curly strawberry blond hair that's loose around the shoulders
+ideal: Harmony
 name: Mavrek Aolis
 organizations: []
-partyID: 68
-race: Genasi
+partyID: 6
+race: Tiefling
 relationships:
-- name: Kessa Keller
+- name: Tez Bialaer
   type: partymate
-- name: Savanna Ildilyntra
+- name: Volkos Halaema
   type: partymate
-- name: Maia Ashsorrow
-  type: partymate
-skin: earth
-spec: Sorcerer
+skin: Deep Blue
+spec: Rouge
 stats:
-  cha: 16
+  cha: 10
   con: 11
   dex: 15
-  int: 9
-  str: 8
-  wis: 14
+  int: 17
+  str: 9
+  wis: 13
 track: Protection
-trait: I'll settle for nothing less than perfection.
-trait1: Reserved
-trait2: Skeptical
-year: 2
+trait: I'm rude to people who lack my commitment to hard work and fair play.
+trait1: Stubborn
+trait2: Rude
+year: 3
 ---
+# Mavrek Aolis
+---
+### Description
+- 3rd year Tiefling Rouge in Elkenval
+- curly strawberry blond hair that's loose around the shoulders, Brown eyes, and Deep Blue skin
+- Is Stubborn and Rude, and has Harmony as their ideal
+
+### Organizations
+### Relationships
+[[Tez Bialaer]]: partymate
+[[Volkos Halaema]]: partymate
+### Stats
+```statblock
+name: Mavrek Aolis
+stats: [9, 15, 11, 17, 13, 10]
+```

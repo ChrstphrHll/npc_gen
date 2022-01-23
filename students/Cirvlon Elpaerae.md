@@ -1,36 +1,50 @@
 ---
 birthday:
-  numeric: 2/8
-  written: 8th of Melorent
-bond: I owe my guild a great debt for forging me into the person I am today.
-eyes: Deep Blue
-flaw: I'm a sucker for a pretty face.
-guild: Treskal
-hair: curly strawberry blond hair that's parted to the left
-ideal: Involvement
+  numeric: 4/22
+  written: 22nd of Moradent
+bond: In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
+eyes: Gray
+flaw: If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
+guild: Elkenval
+hair: wavy white hair that's hanging down to their back
+ideal: Gratitude
 name: Cirvlon Elpaerae
 organizations: []
-partyID: 81
-race: Dwarf
+partyID: 13
+race: Gnome
 relationships:
-- name: Levio Evindal
+- name: Eligio Nevarth
   type: partymate
-- name: Zylphan Molostroi
+- name: Delos Ehlark
   type: partymate
-- name: Lenn Schimae
-  type: partymate
-skin: Dark Tan
-spec: Artificer
+skin: Light Tan
+spec: Wizard
 stats:
-  cha: 13
-  con: 9
-  dex: 8
-  int: 17
-  str: 14
-  wis: 9
-track: Diplomacy
-trait: I was, in fact, raised by wolves.
-trait1: Sympathetic
-trait2: Lackadaisical
-year: 5
+  cha: 12
+  con: 11
+  dex: 13
+  int: 13
+  str: 12
+  wis: 13
+track: Protection
+trait: I am utterly serene, even in the face of disaster.
+trait1: Graceful
+trait2: Overimaginative
+year: 1
 ---
+# Cirvlon Elpaerae
+---
+### Description
+- 1st year Gnome Wizard in Elkenval
+- wavy white hair that's hanging down to their back, Gray eyes, and Light Tan skin
+- Is Graceful and Overimaginative, and has Gratitude as their ideal
+
+### Organizations
+### Relationships
+[[Eligio Nevarth]]: partymate
+[[Delos Ehlark]]: partymate
+### Stats
+```statblock
+name: Cirvlon Elpaerae
+stats: [12, 13, 11, 13, 13, 12]
+```

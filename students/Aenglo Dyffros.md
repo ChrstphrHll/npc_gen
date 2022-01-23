@@ -1,33 +1,50 @@
 ---
 birthday:
-  numeric: 6/27
-  written: 27th of Korent
-bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
-  to see them again one day.
-eyes: Red
-flaw: I can't resist swindling people who are more powerful than me.
-guild: Alderden
-hair: straight auburn hair that's kept back by a violet headband
-ideal: Humane
+  numeric: 2/24
+  written: 24th of Corelent
+bond: My isolation gave me great insight into a great evil that only I can destroy.
+eyes: Violet Red
+flaw: I have trouble trusting in my allies.
+guild: Treskal
+hair: wavy dirty blonde hair that's parted to the left
+ideal: Order
 name: Aenglo Dyffros
 organizations: []
-partyID: 20
-race: Tiefling
+partyID: 52
+race: Genasi
 relationships:
-- name: Miglus Yrlissa
+- name: Yathlanae Arkhun
   type: partymate
-skin: Blue
-spec: Cleric
+- name: Vaervenshalice Eloen
+  type: partymate
+skin: earth
+spec: Bard
 stats:
-  cha: 12
-  con: 9
-  dex: 9
+  cha: 14
+  con: 13
+  dex: 11
   int: 8
-  str: 11
-  wis: 13
-track: Protection
-trait: I never pass up a friendly wager.
-trait1: Kind
-trait2: Bossy
-year: 1
+  str: 13
+  wis: 14
+track: Diplomacy
+trait: I can stare down a hell hound without flinching.
+trait1: Leader
+trait2: Reactive
+year: 3
 ---
+# Aenglo Dyffros
+---
+### Description
+- 3rd year Genasi Bard in Treskal
+- wavy dirty blonde hair that's parted to the left, Violet Red eyes, and earth skin
+- Is Leader and Reactive, and has Order as their ideal
+
+### Organizations
+### Relationships
+[[Yathlanae Arkhun]]: partymate
+[[Vaervenshalice Eloen]]: partymate
+### Stats
+```statblock
+name: Aenglo Dyffros
+stats: [13, 11, 13, 8, 14, 14]
+```

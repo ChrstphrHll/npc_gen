@@ -1,39 +1,53 @@
 ---
 birthday:
-  numeric: 6/25
-  written: 25th of Korent
-bond: I sponsor an orphanage to keep others from enduring what I was forced to endure.
-eyes: Yellow
-flaw: Violence is my answer to almost any challenge.
-guild: Treskal
-hair: wavy white hair that's braided with green ribbon (med)
-ideal: Reciprocity
+  numeric: 3/8
+  written: 8th of Melorent
+bond: A proud noble once gave me a horrible beating, and I will take my revenge on
+  any bully I encounter.
+eyes: Green
+flaw: Secretly, I believe that things would be better if I were a tyrant lording over
+  the land.
+guild: Alderden
+hair: frizzy blonde hair that's braided with violet ribbon (med)
+ideal: Affection
 name: Myddin Hastos
 organizations: []
-partyID: 71
-race: Half-Elf
+partyID: 87
+race: Gnome
 relationships:
-- name: Ivistra Stockton
+- name: Giacomo Edraele
   type: partymate
-- name: Romen Uldreiyn
-  type: partymate
-- name: Ljuk Vulkor
-  type: partymate
-- name: Hanna Estelar
+- name: Verssek Nese
   type: partymate
 skin: Fair
-spec: Barbarian
+spec: Sorcerer
 stats:
-  cha: 12
-  con: 11
-  dex: 11
-  int: 13
-  str: 17
+  cha: 17
+  con: 16
+  dex: 13
+  int: 5
+  str: 14
   wis: 12
-track: Diplomacy
-trait: I . . . speak . . . slowly . . . when talking . . . to idiots, . . . which
-  . . . almost . . . everyone . . . is . . . compared . . . to me.
-trait1: Self-defacing
-trait2: Crisp
-year: 6
+track: Assault
+trait: I begin or end my day with small traditional rituals that are unfamiliar to
+  those around me.
+trait1: Kind
+trait2: Venomous
+year: 5
 ---
+# Myddin Hastos
+---
+### Description
+- 5th year Gnome Sorcerer in Alderden
+- frizzy blonde hair that's braided with violet ribbon (med), Green eyes, and Fair skin
+- Is Kind and Venomous, and has Affection as their ideal
+
+### Organizations
+### Relationships
+[[Giacomo Edraele]]: partymate
+[[Verssek Nese]]: partymate
+### Stats
+```statblock
+name: Myddin Hastos
+stats: [14, 13, 16, 5, 12, 17]
+```

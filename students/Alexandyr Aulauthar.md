@@ -1,36 +1,53 @@
 ---
 birthday:
-  numeric: 7/12
-  written: 12th of Ravenent
-bond: I was cheated out of my fair share of the profits, and I want to get my due.
-eyes: Deep Blue
-flaw: I judge others harshly, and myself even more severely.
-guild: Burk
-hair: curly blue hair that's braided with turquoise ribbon (long)
-ideal: Innovation
+  numeric: 2/16
+  written: 16th of Corelent
+bond: I suffer awful visions of a coming disaster and will do anything to prevent
+  it.
+eyes: Yellow
+flaw: When faced with a choice between money and my friends, I usually choose the
+  money.
+guild: Alderden
+hair: straight strawberry blond hair that's put back in a short pony tail
+ideal: Conformity
 name: Alexandyr Aulauthar
 organizations: []
-partyID: 84
-race: Dwarf
+partyID: 2
+race: Triton
 relationships:
-- name: Melcyn Taeral
+- name: Liris Bhyrindaar
   type: partymate
-- name: Jovos Seldanna
+- name: Gormoth Shyrrik
   type: partymate
-- name: Eliana Saevel
-  type: partymate
-skin: Fair
+skin: Emerald Green
 spec: Wizard
 stats:
-  cha: 13
-  con: 12
-  dex: 15
-  int: 14
-  str: 11
+  cha: 14
+  con: 15
+  dex: 14
+  int: 15
+  str: 13
   wis: 9
-track: Exploration
-trait: I feel far more comfortable around animals than people.
-trait1: Modern
-trait2: Tardy
-year: 1
+track: Protection
+trait: I . . . speak . . . slowly . . . when talking . . . to idiots, . . . which
+  . . . almost . . . everyone . . . is . . . compared . . . to me.
+trait1: Confidential
+trait2: Crazy
+year: 3
 ---
+# Alexandyr Aulauthar
+---
+### Description
+- 3rd year Triton Wizard in Alderden
+- straight strawberry blond hair that's put back in a short pony tail, Yellow eyes, and Emerald Green skin
+- Is Confidential and Crazy, and has Conformity as their ideal
+
+### Organizations
+### Relationships
+[[Liris Bhyrindaar]]: partymate
+[[Gormoth Shyrrik]]: partymate
+### Stats
+```statblock
+name: Alexandyr Aulauthar
+stats: [13, 14, 15, 15, 9, 14]
+```

@@ -1,36 +1,57 @@
 ---
 birthday:
-  numeric: 7/25
-  written: 25th of Ravenent
-bond: My ill-gotten gains go to support my family.
-eyes: Orange
-flaw: The tyrant who rules my land will stop at nothing to see me killed.
-guild: Alderden
-hair: straight dirty blonde hair that's geled back
-ideal: Facilitation
+  numeric: 6/8
+  written: 8th of Pelent
+bond: I owe my life to the priest who took me in when my parents died.
+eyes: Pale Green
+flaw: I consider the adherents of other gods to be deluded innocents at best, or ignorant
+  fools at worst.
+guild: Fiesn
+hair: curly brunette hair that's a tousled bed head
+ideal: Leadership
 name: Hanro Fieryat
 organizations: []
-partyID: 63
-race: Halfling
+partyID: 25
+race: Aasimar
 relationships:
-- name: Diegon Verrona
+- name: Rossan Jonik
   type: partymate
-- name: Aelisabeth Soliania
+- name: Nicolle Shandalar
   type: partymate
-- name: Celaeno Amkissra
+- name: Meira Nuvian
   type: partymate
-skin: Tan
-spec: Sorcerer
+- name: Kova Tamara
+  type: partymate
+skin: Fair
+spec: Bard
 stats:
-  cha: 17
-  con: 17
-  dex: 5
-  int: 17
+  cha: 14
+  con: 13
+  dex: 11
+  int: 13
   str: 10
-  wis: 10
-track: Diplomacy
-trait: My language is as foul as an otyugh nest.
-trait1: Witty
-trait2: Conservative
+  wis: 13
+track: Protection
+trait: I like to squeeze into small places where no one else can get to me.
+trait1: Righteous
+trait2: Chummy
 year: 4
 ---
+# Hanro Fieryat
+---
+### Description
+- 4th year Aasimar Bard in Fiesn
+- curly brunette hair that's a tousled bed head, Pale Green eyes, and Fair skin
+- Is Righteous and Chummy, and has Leadership as their ideal
+
+### Organizations
+### Relationships
+[[Rossan Jonik]]: partymate
+[[Nicolle Shandalar]]: partymate
+[[Meira Nuvian]]: partymate
+[[Kova Tamara]]: partymate
+### Stats
+```statblock
+name: Hanro Fieryat
+stats: [10, 11, 13, 13, 13, 14]
+```

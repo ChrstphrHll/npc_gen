@@ -1,38 +1,51 @@
 ---
 birthday:
-  numeric: 7/20
-  written: 20th of Ravenent
-bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
-  somewhere.
-eyes: Spring Green
-flaw: A scandal prevents me from ever going home again. That kind of trouble seems
-  to follow me around.
+  numeric: 2/33
+  written: 33rd of Corelent
+bond: My family, clan, or tribe is the most important thing in my life, even when
+  they are far from me.
+eyes: Sea Green
+flaw: Unlocking an ancient mystery is worth the price of a civilization.
 guild: Jettenia
-hair: straight black hair that's braided with green ribbon (med)
-ideal: Family
+hair: frills
+ideal: Faith
 name: Brynn Opalul
 organizations: []
-partyID: 37
-race: Tiefling
+partyID: 4
+race: Dragonborn
 relationships:
-- name: Nycola Eroan
+- name: Milae Ditka
   type: partymate
-- name: Tommos Morgan
+- name: Gavyn Sadalymn
   type: partymate
-- name: Jothen Elway
-  type: partymate
-skin: Orange
-spec: Druid
+skin: blue
+spec: Fighter
 stats:
-  cha: 15
-  con: 13
-  dex: 14
-  int: 11
-  str: 14
-  wis: 17
-track: Diplomacy
-trait: I am horribly, horribly awkward in social situations.
-trait1: Self-defacing
-trait2: Pretentious
-year: 7
+  cha: 12
+  con: 8
+  dex: 8
+  int: 14
+  str: 12
+  wis: 7
+track: Exploration
+trait: Thinking is for other people. I prefer action.
+trait1: Gallant
+trait2: Ferocious
+year: 1
 ---
+# Brynn Opalul
+---
+### Description
+- 1st year Dragonborn Fighter in Jettenia
+- frills, Sea Green eyes, and blue skin
+- Is Gallant and Ferocious, and has Faith as their ideal
+
+### Organizations
+### Relationships
+[[Milae Ditka]]: partymate
+[[Gavyn Sadalymn]]: partymate
+### Stats
+```statblock
+name: Brynn Opalul
+stats: [12, 8, 8, 14, 7, 12]
+```

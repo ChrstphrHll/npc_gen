@@ -1,36 +1,54 @@
 ---
 birthday:
-  numeric: 3/22
-  written: 22nd of Moradent
-bond: I will bring terrible wrath down on the evildoers who destroyed my homeland.
-eyes: Emerald Green
-flaw: I'm a sucker for a pretty face.
-guild: Jettenia
-hair: curly auburn hair that's pulled to the side and buzzed on the right
-ideal: Security
+  numeric: 7/27
+  written: 27th of Korent
+bond: Someone saved my life on the battlefield. To this day, I will never leave a
+  friend behind.
+eyes: Hazel
+flaw: There's no room for caution in a life lived to the fullest.
+guild: Elkenval
+hair: curly black hair that's hanging down to their legs
+ideal: Teamwork
 name: Valerya Haldreithen
 organizations: []
-partyID: 32
-race: Tiefling
+partyID: 59
+race: Dwarf
 relationships:
-- name: Athyn Urddusk
+- name: Goshwa Khiipaera
   type: partymate
-- name: Gabrilo Kulo
+- name: Tezani Morthil
   type: partymate
-- name: Hudsen Elandorr
+- name: Vaellyn Esyae
   type: partymate
-skin: Pale Blue
-spec: Wizard
+skin: Fair
+spec: Sorcerer
 stats:
-  cha: 14
-  con: 11
-  dex: 18
-  int: 18
-  str: 10
-  wis: 10
-track: Diplomacy
-trait: I fall in and out of love easily, and am always pursuing someone.
-trait1: Positive
-trait2: Bewildered
-year: 6
+  cha: 15
+  con: 14
+  dex: 8
+  int: 6
+  str: 6
+  wis: 15
+track: Assault
+trait: I express affection or contempt in ways that are unfamiliar to others.
+trait1: Humble
+trait2: Smooth
+year: 1
 ---
+# Valerya Haldreithen
+---
+### Description
+- 1st year Dwarf Sorcerer in Elkenval
+- curly black hair that's hanging down to their legs, Hazel eyes, and Fair skin
+- Is Humble and Smooth, and has Teamwork as their ideal
+
+### Organizations
+### Relationships
+[[Goshwa Khiipaera]]: partymate
+[[Tezani Morthil]]: partymate
+[[Vaellyn Esyae]]: partymate
+### Stats
+```statblock
+name: Valerya Haldreithen
+stats: [6, 8, 14, 6, 15, 15]
+```

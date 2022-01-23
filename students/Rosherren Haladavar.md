@@ -1,38 +1,52 @@
 ---
 birthday:
-  numeric: 7/10
-  written: 10th of Ravenent
-bond: The workshop where I learned my trade is the most important place in the world
-  to me.
-eyes: Spring Green
-flaw: I have an insatiable desire for carnal pleasures.
-guild: Burk
-hair: curly grey hair that's hanging down to their back
-ideal: Humanity
+  numeric: 8/20
+  written: 20th of Ravenent
+bond: I've been searching my whole life for the answer to a certain question.
+eyes: Pale Green
+flaw: I remember every insult I've received and nurse a silent resentment toward anyone
+  who's ever wronged me.
+guild: Fiesn
+hair: curly lighter blonde hair that's hanging down to their back
+ideal: Optimism
 name: Rosherren Haladavar
 organizations: []
-partyID: 31
-race: Half-Orc
+partyID: 51
+race: Elf
 relationships:
-- name: Delsenora Strohm
+- name: Mya Nelaeryn
   type: partymate
-- name: Averra Taleisin
+- name: Ramona Saida
   type: partymate
-- name: Saccaros Anaharae
-  type: partymate
-skin: Pale Gray
-spec: Ranger
+skin: Light
+spec: Druid
 stats:
-  cha: 11
-  con: 9
-  dex: 11
-  int: 9
-  str: 10
-  wis: 10
+  cha: 10
+  con: 12
+  dex: 14
+  int: 13
+  str: 12
+  wis: 15
 track: Exploration
-trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
-  accommodations.
-trait1: Obedient
-trait2: Wishy-washy
+trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
+  breaking them.
+trait1: Attractive
+trait2: Foul
 year: 3
 ---
+# Rosherren Haladavar
+---
+### Description
+- 3rd year Elf Druid in Fiesn
+- curly lighter blonde hair that's hanging down to their back, Pale Green eyes, and Light skin
+- Is Attractive and Foul, and has Optimism as their ideal
+
+### Organizations
+### Relationships
+[[Mya Nelaeryn]]: partymate
+[[Ramona Saida]]: partymate
+### Stats
+```statblock
+name: Rosherren Haladavar
+stats: [12, 14, 12, 13, 15, 10]
+```

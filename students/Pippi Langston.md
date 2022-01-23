@@ -1,36 +1,53 @@
 ---
 birthday:
-  numeric: 4/9
-  written: 9th of Iounent
-bond: I will do anything to prove myself superior to my hated rival.
-eyes: Orange
-flaw: In fact, the world does revolve around me.
-guild: Treskal
-hair: straight white hair that's put back in a long pony tail
-ideal: Respect
+  numeric: 3/25
+  written: 25th of Melorent
+bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
+eyes: Pale Green
+flaw: I am dogmatic in my thoughts and philosophy.
+guild: Burk
+hair: curly black hair that's put up in a large bun
+ideal: Stoicism
 name: Pippi Langston
 organizations: []
-partyID: 60
-race: Half-Orc
+partyID: 32
+race: Human
 relationships:
-- name: Helera Urkensvall
+- name: Hudsen Elandorr
   type: partymate
-- name: Aksel Strohm
+- name: Matto Divya
   type: partymate
 - name: Ilksal Immianthe
   type: partymate
-skin: Pale Gray
+skin: Brown
 spec: Ranger
 stats:
-  cha: 14
-  con: 14
-  dex: 17
-  int: 15
-  str: 11
-  wis: 16
+  cha: 10
+  con: 12
+  dex: 14
+  int: 8
+  str: 9
+  wis: 9
 track: Protection
-trait: I like a job well done, especially if I can convince someone else to do it.
-trait1: Self-confident
-trait2: Noncompetitive
-year: 4
+trait: I have a crude sense of humor.
+trait1: Tidy
+trait2: Ambitious
+year: 8
 ---
+# Pippi Langston
+---
+### Description
+- 8th year Human Ranger in Burk
+- curly black hair that's put up in a large bun, Pale Green eyes, and Brown skin
+- Is Tidy and Ambitious, and has Stoicism as their ideal
+
+### Organizations
+### Relationships
+[[Hudsen Elandorr]]: partymate
+[[Matto Divya]]: partymate
+[[Ilksal Immianthe]]: partymate
+### Stats
+```statblock
+name: Pippi Langston
+stats: [9, 14, 12, 8, 9, 10]
+```

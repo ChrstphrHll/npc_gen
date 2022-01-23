@@ -1,35 +1,55 @@
 ---
 birthday:
-  numeric: 5/32
-  written: 32nd of Pelent
-bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
-eyes: Yellow
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Burk
-hair: curly violet hair that's loose around the shoulders
-ideal: Endurance
+  numeric: 1/9
+  written: 9th of Avanent
+bond: One day I will return to my guild and prove that I am the greatest artisan of
+  them all.
+eyes: Pale Gray
+flaw: I am dogmatic in my thoughts and philosophy.
+guild: Treskal
+hair: straight red hair that's hanging down to their legs
+ideal: Might
 name: Leya Escobar
 organizations: []
-partyID: 54
-race: Triton
+partyID: 81
+race: Half-Elf
 relationships:
-- name: Murunay Illfate
+- name: Gerrimar Vulkor
   type: partymate
-- name: Scarlotta Inqoul
+- name: Lucoe Lorelei
   type: partymate
-skin: Deep Blue
-spec: Bard
+- name: Aryana Ahrendue
+  type: partymate
+skin: Light Tan
+spec: Artificer
 stats:
-  cha: 18
-  con: 9
-  dex: 13
-  int: 8
-  str: 12
-  wis: 14
-track: Protection
-trait: I have a joke for every occasion, especially occasions where humor is inappropriate.
-trait1: Reserved
-trait2: Uncooperative
-year: 3
+  cha: 10
+  con: 10
+  dex: 11
+  int: 16
+  str: 9
+  wis: 10
+track: Exploration
+trait: I can find common ground between the fiercest enemies, empathizing with them
+  and always working toward peace.
+trait1: Gentle
+trait2: Reserved
+year: 1
 ---
+# Leya Escobar
+---
+### Description
+- 1st year Half-Elf Artificer in Treskal
+- straight red hair that's hanging down to their legs, Pale Gray eyes, and Light Tan skin
+- Is Gentle and Reserved, and has Might as their ideal
+
+### Organizations
+### Relationships
+[[Gerrimar Vulkor]]: partymate
+[[Lucoe Lorelei]]: partymate
+[[Aryana Ahrendue]]: partymate
+### Stats
+```statblock
+name: Leya Escobar
+stats: [9, 11, 10, 16, 10, 10]
+```

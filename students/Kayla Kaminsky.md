@@ -1,39 +1,50 @@
 ---
 birthday:
-  numeric: 1/25
-  written: 25th of Corelent
-bond: I owe my survival to another urchin who taught me tolive on the streets.
-eyes: Purple
-flaw: I'm convinced of the significance of my destiny, and blind to my shortcomings
-  and the risk of failure.
-guild: Treskal
-hair: curly auburn hair that's put back in a short pony tail
-ideal: Humane
+  numeric: 6/15
+  written: 15th of Pelent
+bond: Someone stole my precious instrument, and someday I'll get it back.
+eyes: Spring Green
+flaw: I will never fully trust anyone other than myself.
+guild: Fiesn
+hair: straight red hair that's put up in a large bun
+ideal: Flexibility
 name: Kayla Kaminsky
 organizations: []
-partyID: 43
-race: Gnome
+partyID: 31
+race: Tiefling
 relationships:
-- name: Asmiak Seirye
+- name: Audree Dixon
   type: partymate
-- name: Jofan Elignoir
+- name: Kunjal Iefyr
   type: partymate
-- name: Lilia Agrippa
-  type: partymate
-- name: Alinea Hellsturn
-  type: partymate
-skin: Dark Tan
-spec: Ranger
+skin: Emerald Green
+spec: Sorcerer
 stats:
-  cha: 14
-  con: 12
-  dex: 16
-  int: 16
-  str: 16
-  wis: 15
-track: Assault
-trait: I'm oblivious to etiquette and social expectations.
-trait1: Confidential
-trait2: Stingy
-year: 2
+  cha: 15
+  con: 5
+  dex: 13
+  int: 10
+  str: 11
+  wis: 12
+track: Exploration
+trait: I have a strong code of honor or sense of propriety that others don't comprehend.
+trait1: Deferential
+trait2: Careless
+year: 8
 ---
+# Kayla Kaminsky
+---
+### Description
+- 8th year Tiefling Sorcerer in Fiesn
+- straight red hair that's put up in a large bun, Spring Green eyes, and Emerald Green skin
+- Is Deferential and Careless, and has Flexibility as their ideal
+
+### Organizations
+### Relationships
+[[Audree Dixon]]: partymate
+[[Kunjal Iefyr]]: partymate
+### Stats
+```statblock
+name: Kayla Kaminsky
+stats: [11, 13, 5, 10, 12, 15]
+```

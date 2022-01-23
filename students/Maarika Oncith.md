@@ -1,34 +1,54 @@
 ---
 birthday:
-  numeric: 2/25
-  written: 25th of Melorent
-bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
-eyes: Spring Green
-flaw: The tyrant who rules my land will stop at nothing to see me killed.
-guild: Treskal
-hair: curly dirty blonde hair that's braided with violet ribbon (med)
-ideal: Family
+  numeric: 3/23
+  written: 23rd of Melorent
+bond: In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
+eyes: Amber
+flaw: I remember every insult I've received and nurse a silent resentment toward anyone
+  who's ever wronged me.
+guild: Jettenia
+hair: curly auburn hair that's geled back
+ideal: Order
 name: Maarika Oncith
 organizations: []
-partyID: 47
-race: Dwarf
+partyID: 46
+race: Half-Elf
 relationships:
-- name: Brooka Whesker
+- name: Alys Ylyndar
   type: partymate
-- name: Violetta Coldsprinter
+- name: Jovos Seldanna
   type: partymate
-skin: Dark Brown
-spec: Sorcerer
+- name: Brinna Muerlara
+  type: partymate
+skin: Dark Tan
+spec: Rouge
 stats:
-  cha: 15
-  con: 13
+  cha: 7
+  con: 11
   dex: 17
   int: 12
-  str: 8
-  wis: 15
-track: Exploration
-trait: If someone is in trouble, I'm always ready to lend help.
-trait1: Impressionable
-trait2: Stubborn
-year: 6
+  str: 12
+  wis: 12
+track: Assault
+trait: There's nothing I like more than a good mystery.
+trait1: Many-sided
+trait2: Glamorous
+year: 2
 ---
+# Maarika Oncith
+---
+### Description
+- 2nd year Half-Elf Rouge in Jettenia
+- curly auburn hair that's geled back, Amber eyes, and Dark Tan skin
+- Is Many-sided and Glamorous, and has Order as their ideal
+
+### Organizations
+### Relationships
+[[Alys Ylyndar]]: partymate
+[[Jovos Seldanna]]: partymate
+[[Brinna Muerlara]]: partymate
+### Stats
+```statblock
+name: Maarika Oncith
+stats: [12, 17, 11, 12, 12, 7]
+```

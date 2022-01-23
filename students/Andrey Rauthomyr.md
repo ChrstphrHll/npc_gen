@@ -1,36 +1,54 @@
 ---
 birthday:
-  numeric: 6/29
-  written: 29th of Korent
-bond: I sponsor an orphanage to keep others from enduring what I was forced to endure.
-eyes: Red
-flaw: I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster
-  than I bring them in.
-guild: Alderden
-hair: straight auburn hair that's hanging down to their back
-ideal: Nature
+  numeric: 7/2
+  written: 2nd of Korent
+bond: I'll always remember my first ship.
+eyes: Hazel
+flaw: An innocent person is in prison for a crime that I committed. I'm okay with
+  that.
+guild: Burk
+hair: wavy dirty blonde hair that's loose around the shoulders
+ideal: Pride
 name: Andrey Rauthomyr
 organizations: []
-partyID: 70
-race: Gnome
+partyID: 26
+race: Dwarf
 relationships:
-- name: Lynx Galather
+- name: Emilanus Shields
   type: partymate
-- name: Verssek Nese
+- name: Averra Taleisin
   type: partymate
-skin: Brown
-spec: Sorcerer
+- name: Senna Tryton
+  type: partymate
+skin: Dark Tan
+spec: Barbarian
 stats:
-  cha: 17
-  con: 8
+  cha: 15
+  con: 14
   dex: 15
-  int: 11
-  str: 15
-  wis: 12
-track: Diplomacy
-trait: I begin or end my day with small traditional rituals that are unfamiliar to
-  those around me.
-trait1: Talkative
-trait2: Silly
-year: 1
+  int: 10
+  str: 16
+  wis: 16
+track: Exploration
+trait: I don't like to bathe.
+trait1: Daring
+trait2: Animated
+year: 8
 ---
+# Andrey Rauthomyr
+---
+### Description
+- 8th year Dwarf Barbarian in Burk
+- wavy dirty blonde hair that's loose around the shoulders, Hazel eyes, and Dark Tan skin
+- Is Daring and Animated, and has Pride as their ideal
+
+### Organizations
+### Relationships
+[[Emilanus Shields]]: partymate
+[[Averra Taleisin]]: partymate
+[[Senna Tryton]]: partymate
+### Stats
+```statblock
+name: Andrey Rauthomyr
+stats: [16, 15, 14, 10, 16, 15]
+```

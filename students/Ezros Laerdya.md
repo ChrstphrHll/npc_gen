@@ -1,39 +1,57 @@
 ---
 birthday:
-  numeric: 0/21
-  written: 21st of Avanent
-bond: Somewhere out there, I have a child who doesn't know me. I'm making the world
-  better for him or her.
-eyes: Yellow
-flaw: I am slow to trust members of other races, tribes, and societies.
-guild: Jettenia
-hair: straight auburn hair that's put up in a large bun
-ideal: Love
+  numeric: 1/30
+  written: 30th of Avanent
+bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
+eyes: Blue
+flaw: I can't resist swindling people who are more powerful than me.
+guild: Alderden
+hair: wavy auburn hair that's hanging down to their back
+ideal: Logic
 name: Ezros Laerdya
 organizations: []
-partyID: 77
-race: Half-Elf
+partyID: 33
+race: Elf
 relationships:
-- name: Jaedyn Arbane
+- name: Jandar Pleufan
   type: partymate
-- name: Tylus Ytharra
+- name: Natalia Endo
   type: partymate
-- name: Allisa Iahalae
+- name: Ahtye Elhieardacil
   type: partymate
-- name: Lichie Halliwell
+- name: Hudsen Aluendalee
   type: partymate
-skin: Pale
-spec: Bard
+skin: Light Tan
+spec: Monk
 stats:
-  cha: 16
+  cha: 12
   con: 10
-  dex: 12
-  int: 14
-  str: 13
-  wis: 8
-track: Protection
-trait: I express affection or contempt in ways that are unfamiliar to others.
-trait1: Placid
-trait2: Assertive
-year: 3
+  dex: 16
+  int: 11
+  str: 9
+  wis: 13
+track: Assault
+trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
+  accommodations.
+trait1: Witty
+trait2: Absentminded
+year: 2
 ---
+# Ezros Laerdya
+---
+### Description
+- 2nd year Elf Monk in Alderden
+- wavy auburn hair that's hanging down to their back, Blue eyes, and Light Tan skin
+- Is Witty and Absentminded, and has Logic as their ideal
+
+### Organizations
+### Relationships
+[[Jandar Pleufan]]: partymate
+[[Natalia Endo]]: partymate
+[[Ahtye Elhieardacil]]: partymate
+[[Hudsen Aluendalee]]: partymate
+### Stats
+```statblock
+name: Ezros Laerdya
+stats: [9, 16, 10, 11, 13, 12]
+```

@@ -1,39 +1,51 @@
 ---
 birthday:
-  numeric: 7/9
-  written: 9th of Ravenent
-bond: I have a family, but I have no idea where they are. One day, I hope to see them
-  again.
-eyes: Emerald Green
-flaw: I would kill to acquire a noble title.
+  numeric: 8/27
+  written: 27th of Ravenent
+bond: My honor is my life.
+eyes: Pale Green
+flaw: I have an insatiable desire for carnal pleasures.
 guild: Jettenia
-hair: curly dirty blonde hair that's pulled to the side and buzzed on the left
-ideal: Conformity
+hair: speckled
+ideal: Facilitation
 name: Lichie Halliwell
 organizations: []
-partyID: 77
-race: Triton
+partyID: 86
+race: Kenku
 relationships:
-- name: Ezros Laerdya
+- name: Maia Ashsorrow
   type: partymate
-- name: Jaedyn Arbane
+- name: Connovar Kaminsky
   type: partymate
-- name: Tylus Ytharra
-  type: partymate
-- name: Allisa Iahalae
-  type: partymate
-skin: Aqua
-spec: Druid
+skin: Brown
+spec: Monk
 stats:
-  cha: 12
-  con: 7
-  dex: 15
-  int: 15
-  str: 14
-  wis: 16
+  cha: 13
+  con: 14
+  dex: 18
+  int: 14
+  str: 5
+  wis: 12
 track: Diplomacy
-trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
-trait1: Natty
-trait2: Brutish
-year: 3
+trait: Nobody stays angry at me or around me for long, since I can defuse any amount
+  of tension.
+trait1: Kind
+trait2: Uninhibited
+year: 1
 ---
+# Lichie Halliwell
+---
+### Description
+- 1st year Kenku Monk in Jettenia
+- speckled, Pale Green eyes, and Brown skin
+- Is Kind and Uninhibited, and has Facilitation as their ideal
+
+### Organizations
+### Relationships
+[[Maia Ashsorrow]]: partymate
+[[Connovar Kaminsky]]: partymate
+### Stats
+```statblock
+name: Lichie Halliwell
+stats: [5, 18, 14, 14, 12, 13]
+```

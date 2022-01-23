@@ -1,37 +1,51 @@
 ---
 birthday:
-  numeric: 2/18
-  written: 18th of Melorent
-bond: I have a family, but I have no idea where they are. One day, I hope to see them
-  again.
-eyes: Purple
-flaw: I am slow to trust members of other races, tribes, and societies.
-guild: Elkenval
-hair: curly auburn hair that's loose around the shoulders
-ideal: Pessimism
+  numeric: 1/16
+  written: 16th of Avanent
+bond: Nothing is more important than the other members of my hermitage, order, or
+  association.
+eyes: Pale Gray
+flaw: If I'm outnumbered, I will run away from a fight.
+guild: Treskal
+hair: straight lighter blonde hair that's parted to the right
+ideal: Family
 name: Wren Urmicca
 organizations: []
-partyID: 16
-race: Elf
+partyID: 56
+race: Firbolg
 relationships:
-- name: Asralyn Rhangyl
-  type: partymate
-- name: Ragnar Illitran
+- name: Yorala Tiatha
   type: partymate
 - name: Jacus Kosunten
   type: partymate
-skin: Light
-spec: Ranger
+skin: Pale Gray
+spec: Druid
 stats:
-  cha: 13
+  cha: 8
   con: 13
-  dex: 18
-  int: 8
-  str: 16
+  dex: 13
+  int: 12
+  str: 14
   wis: 14
-track: Protection
-trait: The best way to get me to do something is to tell me I can't do it.
-trait1: Deceptive
-trait2: Complex
+track: Exploration
+trait: Nothing can shake my optimistic attitude.
+trait1: Iconoclastic
+trait2: Hypnotic
 year: 1
 ---
+# Wren Urmicca
+---
+### Description
+- 1st year Firbolg Druid in Treskal
+- straight lighter blonde hair that's parted to the right, Pale Gray eyes, and Pale Gray skin
+- Is Iconoclastic and Hypnotic, and has Family as their ideal
+
+### Organizations
+### Relationships
+[[Yorala Tiatha]]: partymate
+[[Jacus Kosunten]]: partymate
+### Stats
+```statblock
+name: Wren Urmicca
+stats: [14, 13, 13, 12, 14, 8]
+```

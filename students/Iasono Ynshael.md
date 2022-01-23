@@ -1,34 +1,54 @@
 ---
 birthday:
-  numeric: 6/22
-  written: 22nd of Korent
-bond: I owe a debt I can never repay to the person who took pity on me.
-eyes: Spring Green
-flaw: I'll say anything to avoid having to do extra work.
-guild: Jettenia
-hair: straight lighter blonde hair that's a tousled bed head
-ideal: Competition
+  numeric: 4/28
+  written: 28th of Moradent
+bond: I'm fascinated by the beauty and wonder of this new land.
+eyes: Blue
+flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
+  own hide if the going gets tough.
+guild: Treskal
+hair: curly auburn hair that's braided with blue ribbon (long)
+ideal: Loyalty
 name: Iasono Ynshael
 organizations: []
-partyID: 7
-race: Tiefling
+partyID: 20
+race: Halfling
 relationships:
-- name: Ungris Riluaneth
+- name: Halya Jian
   type: partymate
-- name: Astinus Sythaeryn
+- name: Nebulon Faelyn
   type: partymate
-skin: Orange
+- name: Jofan Elignoir
+  type: partymate
+skin: Dark Brown
 spec: Paladin
 stats:
-  cha: 12
-  con: 14
-  dex: 11
+  cha: 14
+  con: 5
+  dex: 7
   int: 6
-  str: 15
-  wis: 14
+  str: 14
+  wis: 6
 track: Exploration
-trait: I always want to know how things work and what makes people tick.
-trait1: Supportive
-trait2: Sarcastic
-year: 2
+trait: I'm always polite and respectful.
+trait1: Rustic
+trait2: Neglectful
+year: 1
 ---
+# Iasono Ynshael
+---
+### Description
+- 1st year Halfling Paladin in Treskal
+- curly auburn hair that's braided with blue ribbon (long), Blue eyes, and Dark Brown skin
+- Is Rustic and Neglectful, and has Loyalty as their ideal
+
+### Organizations
+### Relationships
+[[Halya Jian]]: partymate
+[[Nebulon Faelyn]]: partymate
+[[Jofan Elignoir]]: partymate
+### Stats
+```statblock
+name: Iasono Ynshael
+stats: [14, 7, 5, 6, 6, 14]
+```

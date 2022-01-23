@@ -1,36 +1,53 @@
 ---
 birthday:
-  numeric: 0/31
-  written: 31st of Avanent
-bond: My tools are symbols of my past life, and I carry them so that I will never
-  forget my roots.
-eyes: Red
-flaw: I am secretly (or not so secretly) convinced of the superiority of my own culture
-  over that of this foreign land.
-guild: Burk
-hair: curly auburn hair that's geled back
-ideal: Self-Respect
+  numeric: 3/2
+  written: 2nd of Melorent
+bond: I work to preserve a library, university, scriptorium, or monastery.
+eyes: Pale Blue
+flaw: I put too much trust in those who wield power within my temple's hierarchy.
+guild: Fiesn
+hair: straight platinum hair that's braided with pink ribbon (long)
+ideal: Respect
 name: Jasjen Nlossae
 organizations: []
-partyID: 72
-race: Firbolg
+partyID: 18
+race: Aasimar
 relationships:
-- name: Yorala Tiatha
+- name: Angel Nushala
   type: partymate
-- name: Josius Iliphar
+- name: Ragnar Illitran
   type: partymate
-skin: Pale Gray
+- name: Everen Malfoy
+  type: partymate
+skin: Dark Tan
 spec: Artificer
 stats:
-  cha: 12
-  con: 12
-  dex: 6
+  cha: 11
+  con: 11
+  dex: 11
   int: 15
-  str: 13
-  wis: 14
+  str: 14
+  wis: 12
 track: Protection
-trait: I love a good insult, even one directed at me.
-trait1: Sporting
-trait2: Coarse
-year: 4
+trait: My favor, once lost, is lost forever.
+trait1: Physical
+trait2: 'False'
+year: 2
 ---
+# Jasjen Nlossae
+---
+### Description
+- 2nd year Aasimar Artificer in Fiesn
+- straight platinum hair that's braided with pink ribbon (long), Pale Blue eyes, and Dark Tan skin
+- Is Physical and False, and has Respect as their ideal
+
+### Organizations
+### Relationships
+[[Angel Nushala]]: partymate
+[[Ragnar Illitran]]: partymate
+[[Everen Malfoy]]: partymate
+### Stats
+```statblock
+name: Jasjen Nlossae
+stats: [14, 11, 11, 15, 12, 11]
+```

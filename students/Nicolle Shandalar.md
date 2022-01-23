@@ -1,36 +1,57 @@
 ---
 birthday:
-  numeric: 0/9
-  written: 9th of Avanent
-bond: I have an ancient text that holds terrible secrets that must not fall into the
-  wrong hands.
-eyes: Deep Blue
-flaw: When faced with a choice between money and my friends, I usually choose the
-  money.
-guild: Jettenia
-hair: wavy lighter blonde hair that's hanging down to their legs
-ideal: Peace
+  numeric: 2/18
+  written: 18th of Corelent
+bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
+  to see them again one day.
+eyes: Emerald Green
+flaw: The tyrant who rules my land will stop at nothing to see me killed.
+guild: Fiesn
+hair: 4 hooked horns
+ideal: Intuition
 name: Nicolle Shandalar
 organizations: []
-partyID: 34
-race: Half-Elf
+partyID: 25
+race: Dragonborn
 relationships:
-- name: Auzerais Venali
+- name: Hanro Fieryat
   type: partymate
-- name: Remus Manchul
+- name: Rossan Jonik
   type: partymate
-skin: Fair
-spec: Sorcerer
+- name: Meira Nuvian
+  type: partymate
+- name: Kova Tamara
+  type: partymate
+skin: green
+spec: Rouge
 stats:
-  cha: 14
-  con: 9
-  dex: 13
-  int: 11
-  str: 8
-  wis: 12
-track: Protection
-trait: Flattery is my preferred trick for getting what I want.
-trait1: Honest
-trait2: Abrupt
-year: 3
+  cha: 15
+  con: 11
+  dex: 16
+  int: 13
+  str: 7
+  wis: 16
+track: Assault
+trait: I take great pains to always look my best and follow the latest fashions.
+trait1: Attentive
+trait2: Hateful
+year: 4
 ---
+# Nicolle Shandalar
+---
+### Description
+- 4th year Dragonborn Rouge in Fiesn
+- 4 hooked horns, Emerald Green eyes, and green skin
+- Is Attentive and Hateful, and has Intuition as their ideal
+
+### Organizations
+### Relationships
+[[Hanro Fieryat]]: partymate
+[[Rossan Jonik]]: partymate
+[[Meira Nuvian]]: partymate
+[[Kova Tamara]]: partymate
+### Stats
+```statblock
+name: Nicolle Shandalar
+stats: [7, 16, 11, 13, 16, 15]
+```

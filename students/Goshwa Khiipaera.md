@@ -1,37 +1,54 @@
 ---
 birthday:
-  numeric: 1/5
-  written: 5th of Corelent
-bond: Nothing is more important than the other members of my family.
-eyes: Deep Blue
-flaw: I can't keep a secret to save my life, or anyone else's.
-guild: Alderden
-hair: wavy white hair that's kept back by a blue headband
-ideal: Pessimism
+  numeric: 1/31
+  written: 31st of Avanent
+bond: My instrument is my most treasured possession, and it reminds me of someone
+  I love.
+eyes: Hazel
+flaw: I'd risk too much to uncover a lost bit of knowledge.
+guild: Elkenval
+hair: wavy auburn hair that's parted to the side, slightly obscuring an eye
+ideal: Impartiality
 name: Goshwa Khiipaera
 organizations: []
-partyID: 74
-race: Firbolg
+partyID: 59
+race: Gnome
 relationships:
-- name: Kloya Kershaw
+- name: Valerya Haldreithen
   type: partymate
-- name: Varlae Voron
+- name: Tezani Morthil
   type: partymate
-- name: Iamus Aneirin
+- name: Vaellyn Esyae
   type: partymate
-skin: Pale Brown
-spec: Wizard
+skin: Brown
+spec: Bard
 stats:
-  cha: 12
-  con: 6
-  dex: 12
-  int: 15
-  str: 12
-  wis: 14
-track: Diplomacy
-trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
-  bundle in my arms.
-trait1: Trustworthy
-trait2: Chummy
+  cha: 17
+  con: 11
+  dex: 8
+  int: 11
+  str: 11
+  wis: 13
+track: Protection
+trait: I always want to know how things work and what makes people tick.
+trait1: Intrepid
+trait2: Undisciplined
 year: 1
 ---
+# Goshwa Khiipaera
+---
+### Description
+- 1st year Gnome Bard in Elkenval
+- wavy auburn hair that's parted to the side, slightly obscuring an eye, Hazel eyes, and Brown skin
+- Is Intrepid and Undisciplined, and has Impartiality as their ideal
+
+### Organizations
+### Relationships
+[[Valerya Haldreithen]]: partymate
+[[Tezani Morthil]]: partymate
+[[Vaellyn Esyae]]: partymate
+### Stats
+```statblock
+name: Goshwa Khiipaera
+stats: [11, 8, 11, 11, 13, 17]
+```

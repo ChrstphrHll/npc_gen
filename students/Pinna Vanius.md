@@ -1,36 +1,53 @@
 ---
 birthday:
-  numeric: 7/16
-  written: 16th of Ravenent
+  numeric: 8/26
+  written: 26th of Ravenent
 bond: My town or city is my home, and I'll fight to defend it.
-eyes: Spring Green
-flaw: People who can't take care of themselves get what they deserve.
-guild: Fiesn
-hair: wavy auburn hair that's parted to the right
-ideal: Effectiveness
+eyes: Pale Brown
+flaw: I'll say anything to avoid having to do extra work.
+guild: Jettenia
+hair: straight brunette hair that's braided with green ribbon (long)
+ideal: Balance
 name: Pinna Vanius
 organizations: []
-partyID: 78
-race: Tiefling
+partyID: 19
+race: Half-Elf
 relationships:
-- name: Theodus Chylnoth
+- name: Brithmaur Decker
   type: partymate
-- name: Edyrm Iolas
+- name: Hartwen Galaeron
   type: partymate
-- name: Faliah Oluevaera
+- name: Eliana Saevel
   type: partymate
-skin: Yellow
-spec: Ranger
+skin: Tan
+spec: Druid
 stats:
-  cha: 9
-  con: 10
-  dex: 14
-  int: 12
-  str: 13
-  wis: 13
-track: Protection
-trait: I change my mood or my mind as quickly as I change key in a song.
-trait1: Responsible
-trait2: Solitary
-year: 2
+  cha: 17
+  con: 13
+  dex: 8
+  int: 5
+  str: 11
+  wis: 16
+track: Exploration
+trait: I hide scraps of food and trinkets away in my pockets.
+trait1: Dominating
+trait2: Uncritical
+year: 3
 ---
+# Pinna Vanius
+---
+### Description
+- 3rd year Half-Elf Druid in Jettenia
+- straight brunette hair that's braided with green ribbon (long), Pale Brown eyes, and Tan skin
+- Is Dominating and Uncritical, and has Balance as their ideal
+
+### Organizations
+### Relationships
+[[Brithmaur Decker]]: partymate
+[[Hartwen Galaeron]]: partymate
+[[Eliana Saevel]]: partymate
+### Stats
+```statblock
+name: Pinna Vanius
+stats: [11, 8, 13, 5, 16, 17]
+```

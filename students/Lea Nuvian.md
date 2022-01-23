@@ -1,35 +1,54 @@
 ---
 birthday:
-  numeric: 0/25
-  written: 25th of Avanent
-bond: I entered seclusion to hide from the ones who might still be hunting me. I must
-  someday confront them.
-eyes: Red
-flaw: I can't resist a pretty face.
-guild: Treskal
-hair: straight grey hair that's put up in a large bun
-ideal: Malice
+  numeric: 2/17
+  written: 17th of Corelent
+bond: I protect those who cannot protect themselves.
+eyes: Pale Gray
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+guild: Elkenval
+hair: straight red hair that's loose around the shoulders
+ideal: Strength
 name: Lea Nuvian
 organizations: []
-partyID: 41
-race: Dwarf
+partyID: 62
+race: Elf
 relationships:
-- name: Lanalia Belt
+- name: Gorlas Vhoadan
   type: partymate
-- name: Brannos Bellas
+- name: Scarletta Elora
   type: partymate
-skin: Light
-spec: Bard
+- name: Adresin Ilbryn
+  type: partymate
+skin: Fair
+spec: Paladin
 stats:
-  cha: 16
-  con: 16
-  dex: 16
-  int: 14
-  str: 9
-  wis: 13
+  cha: 10
+  con: 13
+  dex: 10
+  int: 11
+  str: 15
+  wis: 14
 track: Diplomacy
-trait: I'm convinced that people are always trying to steal my secrets.
-trait1: Bold
-trait2: Troublesome
-year: 2
+trait: I am utterly serene, even in the face of disaster.
+trait1: Supportive
+trait2: Tasteless
+year: 4
 ---
+# Lea Nuvian
+---
+### Description
+- 4th year Elf Paladin in Elkenval
+- straight red hair that's loose around the shoulders, Pale Gray eyes, and Fair skin
+- Is Supportive and Tasteless, and has Strength as their ideal
+
+### Organizations
+### Relationships
+[[Gorlas Vhoadan]]: partymate
+[[Scarletta Elora]]: partymate
+[[Adresin Ilbryn]]: partymate
+### Stats
+```statblock
+name: Lea Nuvian
+stats: [15, 10, 13, 11, 14, 10]
+```

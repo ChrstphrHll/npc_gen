@@ -1,36 +1,53 @@
 ---
 birthday:
-  numeric: 7/15
-  written: 15th of Ravenent
-bond: I will face any challenge to win the approval of my family.
-eyes: Deep Blue
-flaw: When faced with a choice between money and my friends, I usually choose the
-  money.
-guild: Jettenia
-hair: curly strawberry blond hair that's parted to the right
-ideal: Cooperation
+  numeric: 1/17
+  written: 17th of Avanent
+bond: I was cheated out of my fair share of the profits, and I want to get my due.
+eyes: Gray
+flaw: My pride will probably lead to my destruction.
+guild: Alderden
+hair: curly dark red hair that's hanging down to their back
+ideal: Dishonesty
 name: Aryana Velethuil
 organizations: []
 partyID: 11
-race: Tiefling
+race: Elf
 relationships:
-- name: Adros Tolthe
+- name: Santyeg Kuskyn
   type: partymate
-- name: Braidyn Kemetra
+- name: Asten Alavara
   type: partymate
-skin: Yellow
-spec: Druid
+- name: Joyce Helartha
+  type: partymate
+skin: Tan
+spec: Wizard
 stats:
-  cha: 13
-  con: 13
-  dex: 9
-  int: 12
-  str: 15
-  wis: 13
-track: Diplomacy
-trait: I idolize a particular hero of my faith, and constantly refer to that person's
-  deeds and example.
-trait1: Modest
-trait2: Dirty
-year: 5
+  cha: 11
+  con: 8
+  dex: 13
+  int: 15
+  str: 13
+  wis: 10
+track: Exploration
+trait: I honor my deities through practices that are foreign to this land.
+trait1: Skillful
+trait2: Bizarre
+year: 1
 ---
+# Aryana Velethuil
+---
+### Description
+- 1st year Elf Wizard in Alderden
+- curly dark red hair that's hanging down to their back, Gray eyes, and Tan skin
+- Is Skillful and Bizarre, and has Dishonesty as their ideal
+
+### Organizations
+### Relationships
+[[Santyeg Kuskyn]]: partymate
+[[Asten Alavara]]: partymate
+[[Joyce Helartha]]: partymate
+### Stats
+```statblock
+name: Aryana Velethuil
+stats: [13, 13, 8, 15, 10, 11]
+```

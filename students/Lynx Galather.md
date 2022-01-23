@@ -1,34 +1,53 @@
 ---
 birthday:
-  numeric: 1/19
-  written: 19th of Corelent
-bond: I'm fascinated by the beauty and wonder of this new land.
-eyes: Aqua
-flaw: I have a weakness for the new intoxicants and other pleasures of this land.
-guild: Alderden
-hair: wavy strawberry blond hair that's braided with blue ribbon (long)
-ideal: Spontaneity
+  numeric: 4/23
+  written: 23rd of Moradent
+bond: I will do anything to prove myself superior to my hated rival.
+eyes: Green
+flaw: People who can't take care of themselves get what they deserve.
+guild: Burk
+hair: long spines
+ideal: Friendship
 name: Lynx Galather
 organizations: []
-partyID: 70
-race: Halfling
+partyID: 22
+race: Dragonborn
 relationships:
-- name: Andrey Rauthomyr
+- name: Lenn Schimae
   type: partymate
-- name: Verssek Nese
+- name: Hessos Adorellan
   type: partymate
-skin: Tan
+- name: Valia Esyae
+  type: partymate
+skin: bronze
 spec: Cleric
 stats:
-  cha: 14
-  con: 12
-  dex: 13
-  int: 15
-  str: 13
-  wis: 15
-track: Assault
-trait: I'm full of witty aphorisms and have a proverb for every occasion.
-trait1: Invulnerable
-trait2: Ill-bred
-year: 1
+  cha: 13
+  con: 14
+  dex: 10
+  int: 11
+  str: 15
+  wis: 16
+track: Exploration
+trait: I work hard so that I can play hard when the work is done.
+trait1: Persuasive
+trait2: Scornful
+year: 7
 ---
+# Lynx Galather
+---
+### Description
+- 7th year Dragonborn Cleric in Burk
+- long spines, Green eyes, and bronze skin
+- Is Persuasive and Scornful, and has Friendship as their ideal
+
+### Organizations
+### Relationships
+[[Lenn Schimae]]: partymate
+[[Hessos Adorellan]]: partymate
+[[Valia Esyae]]: partymate
+### Stats
+```statblock
+name: Lynx Galather
+stats: [15, 10, 14, 11, 16, 13]
+```

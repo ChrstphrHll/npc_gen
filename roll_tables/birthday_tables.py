@@ -1,4 +1,5 @@
 import random, json
+from data.number_suffix import suffixes
 
 months = {
     "Avanent": 34,
@@ -11,50 +12,9 @@ months = {
     "Ravenent": 28
 }
 
-suffixes = [
-    "st",
-    "nd",
-    "rd",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "st",
-    "nd",
-    "rd",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-    "st",
-    "nd",
-    "rd",
-    "th",
-    "th",
-    "th",
-    "th",
-    "th",
-]
-
 def get_bday():
     month = random.choice(list(months.keys()))
-    month_numeric = list(months.keys()).index(month)
+    month_numeric = list(months.keys()).index(month) + 1
     day = random.randint(1, months[month])
     suffix = suffixes[day - 1]
 

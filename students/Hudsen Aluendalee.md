@@ -1,32 +1,56 @@
 ---
 birthday:
-  numeric: 6/18
+  numeric: 7/18
   written: 18th of Korent
-bond: I will become the greatest thief that ever lived.
-eyes: Emerald Green
-flaw: I am suspicious of strangers and expect the worst of them.
-guild: Treskal
-hair: curly dark red hair that's put back in a short pony tail
-ideal: Ambition
+bond: Those who fight beside me are those worth dying for.
+eyes: Green
+flaw: I am slow to trust members of other races, tribes, and societies.
+guild: Alderden
+hair: wavy strawberry blond hair that's braided with violet ribbon (med)
+ideal: Involvement
 name: Hudsen Aluendalee
 organizations: []
-partyID: 39
-race: Goliath
+partyID: 33
+race: Dwarf
 relationships:
-- name: Yoshen Arcaena
+- name: Jandar Pleufan
   type: partymate
-skin: Dark Tan
-spec: Sorcerer
+- name: Natalia Endo
+  type: partymate
+- name: Ahtye Elhieardacil
+  type: partymate
+- name: Ezros Laerdya
+  type: partymate
+skin: Fair
+spec: Fighter
 stats:
-  cha: 16
-  con: 6
-  dex: 13
-  int: 14
-  str: 16
-  wis: 14
+  cha: 12
+  con: 12
+  dex: 15
+  int: 16
+  str: 13
+  wis: 12
 track: Diplomacy
-trait: I'm full of witty aphorisms and have a proverb for every occasion.
-trait1: Clear-headed
-trait2: Abrasive
-year: 3
+trait: I'm always polite and respectful.
+trait1: Unhurried
+trait2: Self-centered
+year: 2
 ---
+# Hudsen Aluendalee
+---
+### Description
+- 2nd year Dwarf Fighter in Alderden
+- wavy strawberry blond hair that's braided with violet ribbon (med), Green eyes, and Fair skin
+- Is Unhurried and Self-centered, and has Involvement as their ideal
+
+### Organizations
+### Relationships
+[[Jandar Pleufan]]: partymate
+[[Natalia Endo]]: partymate
+[[Ahtye Elhieardacil]]: partymate
+[[Ezros Laerdya]]: partymate
+### Stats
+```statblock
+name: Hudsen Aluendalee
+stats: [13, 15, 12, 16, 12, 12]
+```

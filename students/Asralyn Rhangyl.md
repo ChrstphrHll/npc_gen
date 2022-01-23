@@ -1,38 +1,50 @@
 ---
 birthday:
-  numeric: 5/24
-  written: 24th of Pelent
-bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
-  eludes me.
-eyes: Orange
-flaw: There's no room for caution in a life lived to the fullest.
-guild: Elkenval
-hair: curly brunette hair that's pulled to the side and buzzed on the right
-ideal: Contributing
+  numeric: 7/3
+  written: 3rd of Korent
+bond: I'll always remember my first ship.
+eyes: Pale Green
+flaw: No one must ever learn that I once stole money from guild coffers.
+guild: Treskal
+hair: wavy grey hair that's put back in a long pony tail
+ideal: Pessimism
 name: Asralyn Rhangyl
 organizations: []
-partyID: 16
-race: Gnome
+partyID: 5
+race: Elf
 relationships:
-- name: Wren Urmicca
+- name: Josius Iliphar
   type: partymate
-- name: Ragnar Illitran
+- name: Themistoklea Nevarth
   type: partymate
-- name: Jacus Kosunten
-  type: partymate
-skin: Light
-spec: Monk
+skin: Fair
+spec: Ranger
 stats:
-  cha: 9
-  con: 12
-  dex: 16
-  int: 11
-  str: 10
-  wis: 12
+  cha: 11
+  con: 14
+  dex: 15
+  int: 8
+  str: 11
+  wis: 15
 track: Diplomacy
-trait: I idolize a particular hero of my faith, and constantly refer to that person's
-  deeds and example.
-trait1: Fair
-trait2: Authoritarian
-year: 1
+trait: I'm oblivious to etiquette and social expectations.
+trait1: Political
+trait2: Ambitious
+year: 5
 ---
+# Asralyn Rhangyl
+---
+### Description
+- 5th year Elf Ranger in Treskal
+- wavy grey hair that's put back in a long pony tail, Pale Green eyes, and Fair skin
+- Is Political and Ambitious, and has Pessimism as their ideal
+
+### Organizations
+### Relationships
+[[Josius Iliphar]]: partymate
+[[Themistoklea Nevarth]]: partymate
+### Stats
+```statblock
+name: Asralyn Rhangyl
+stats: [11, 15, 14, 8, 15, 11]
+```

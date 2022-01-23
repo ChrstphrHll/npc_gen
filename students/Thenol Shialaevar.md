@@ -1,36 +1,53 @@
 ---
 birthday:
-  numeric: 5/17
-  written: 17th of Pelent
-bond: I owe my survival to another urchin who taught me tolive on the streets.
-eyes: Red
-flaw: I'll do anything to get my hands on something rare or priceless.
-guild: Elkenval
-hair: curly auburn hair that's a tousled bed head
-ideal: Personal Development
+  numeric: 5/21
+  written: 21st of Iounent
+bond: I fight for those who cannot fight for themselves.
+eyes: Pale Green
+flaw: I judge others harshly, and myself even more severely.
+guild: Jettenia
+hair: straight white hair that's put back in a long pony tail
+ideal: Love
 name: Thenol Shialaevar
 organizations: []
-partyID: 33
-race: Dwarf
+partyID: 8
+race: Goliath
 relationships:
-- name: Santyeg Kuskyn
+- name: Jamye Napraeleon
   type: partymate
-- name: Efjan Andrathath
+- name: Brannos Bellas
   type: partymate
-- name: Natalia Endo
+- name: Leja Talila
   type: partymate
-skin: Dark Tan
-spec: Fighter
+skin: Fair
+spec: Bard
 stats:
   cha: 14
-  con: 11
-  dex: 10
-  int: 12
-  str: 14
-  wis: 13
+  con: 12
+  dex: 11
+  int: 14
+  str: 13
+  wis: 12
 track: Exploration
-trait: I feel far more comfortable around animals than people.
-trait1: Steadfast
-trait2: Harsh
-year: 8
+trait: I pocket anything I see that might have some value.
+trait1: Dominating
+trait2: Negative
+year: 1
 ---
+# Thenol Shialaevar
+---
+### Description
+- 1st year Goliath Bard in Jettenia
+- straight white hair that's put back in a long pony tail, Pale Green eyes, and Fair skin
+- Is Dominating and Negative, and has Love as their ideal
+
+### Organizations
+### Relationships
+[[Jamye Napraeleon]]: partymate
+[[Brannos Bellas]]: partymate
+[[Leja Talila]]: partymate
+### Stats
+```statblock
+name: Thenol Shialaevar
+stats: [13, 11, 12, 14, 12, 14]
+```

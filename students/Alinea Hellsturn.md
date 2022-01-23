@@ -1,40 +1,51 @@
 ---
 birthday:
-  numeric: 4/1
-  written: 1st of Iounent
-bond: I escaped my life of poverty by robbing an important person, and I'm wanted
-  for it.
-eyes: Red
-flaw: In fact, the world does revolve around me.
+  numeric: 2/21
+  written: 21st of Corelent
+bond: I owe my survival to another urchin who taught me tolive on the streets.
+eyes: Pale Blue
+flaw: I am suspicious of strangers and expect the worst of them.
 guild: Treskal
-hair: sleek
-ideal: Cooperation
+hair: curly auburn hair that's braided with pink ribbon (med)
+ideal: Wisdom
 name: Alinea Hellsturn
 organizations: []
-partyID: 43
-race: Kenku
+partyID: 88
+race: Firbolg
 relationships:
-- name: Asmiak Seirye
+- name: Es'beth Yesheln
   type: partymate
-- name: Jofan Elignoir
+- name: Bela Qwey
   type: partymate
-- name: Lilia Agrippa
-  type: partymate
-- name: Kayla Kaminsky
-  type: partymate
-skin: Dark Blue
-spec: Monk
+skin: Pale Blue
+spec: Paladin
 stats:
-  cha: 15
-  con: 13
-  dex: 16
-  int: 11
-  str: 9
+  cha: 14
+  con: 9
+  dex: 14
+  int: 16
+  str: 18
   wis: 13
-track: Protection
-trait: I begin or end my day with small traditional rituals that are unfamiliar to
-  those around me.
-trait1: Unsentimental
-trait2: Questioning
-year: 2
+track: Diplomacy
+trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
+  living grates on me.
+trait1: Whimsical
+trait2: Unaggressive
+year: 4
 ---
+# Alinea Hellsturn
+---
+### Description
+- 4th year Firbolg Paladin in Treskal
+- curly auburn hair that's braided with pink ribbon (med), Pale Blue eyes, and Pale Blue skin
+- Is Whimsical and Unaggressive, and has Wisdom as their ideal
+
+### Organizations
+### Relationships
+[[Es'beth Yesheln]]: partymate
+[[Bela Qwey]]: partymate
+### Stats
+```statblock
+name: Alinea Hellsturn
+stats: [18, 14, 9, 16, 13, 14]
+```

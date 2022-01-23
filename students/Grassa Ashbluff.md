@@ -1,37 +1,54 @@
 ---
 birthday:
-  numeric: 5/28
-  written: 28th of Pelent
-bond: I will do anything to protect the temple where I served.
-eyes: Purple
-flaw: Once I pick a goal, I become obsessed with it to the detriment of everything
-  else in my life.
-guild: Alderden
-hair: wavy white hair that's put back in a short pony tail
-ideal: Advancement
+  numeric: 2/25
+  written: 25th of Corelent
+bond: Nothing is more important than the other members of my family.
+eyes: Brown
+flaw: I will never fully trust anyone other than myself.
+guild: Treskal
+hair: curly grey hair that's parted to the side, slightly obscuring an eye
+ideal: Leadership
 name: Grassa Ashbluff
 organizations: []
-partyID: 28
-race: Halfling
+partyID: 76
+race: Human
 relationships:
-- name: Wenge Usunaar
+- name: Cerridwen Durothil
   type: partymate
-- name: Wulfe Fulcrux
+- name: Alonnos Xanotter
   type: partymate
-- name: Gorlas Vhoadan
+- name: Lincon Nylaathria
   type: partymate
-skin: Dark Tan
-spec: Artificer
+skin: Fair
+spec: Ranger
 stats:
-  cha: 9
-  con: 12
-  dex: 11
+  cha: 16
+  con: 16
+  dex: 16
   int: 16
-  str: 15
-  wis: 15
+  str: 14
+  wis: 13
 track: Assault
-trait: Flattery is my preferred trick for getting what I want.
-trait1: Mischievous
-trait2: Hesitant
-year: 8
+trait: I can find common ground between the fiercest enemies, empathizing with them
+  and always working toward peace.
+trait1: Fair
+trait2: Frivolous
+year: 2
 ---
+# Grassa Ashbluff
+---
+### Description
+- 2nd year Human Ranger in Treskal
+- curly grey hair that's parted to the side, slightly obscuring an eye, Brown eyes, and Fair skin
+- Is Fair and Frivolous, and has Leadership as their ideal
+
+### Organizations
+### Relationships
+[[Cerridwen Durothil]]: partymate
+[[Alonnos Xanotter]]: partymate
+[[Lincon Nylaathria]]: partymate
+### Stats
+```statblock
+name: Grassa Ashbluff
+stats: [14, 16, 16, 16, 13, 16]
+```

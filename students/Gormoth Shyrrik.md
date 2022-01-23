@@ -1,36 +1,52 @@
 ---
 birthday:
-  numeric: 0/31
-  written: 31st of Avanent
-bond: It is my duty to provide children to sustain my tribe.
-eyes: Sea Green
-flaw: I turn tail and run when things look bad.
-guild: Elkenval
-hair: 5 hooked horns
-ideal: Pessimism
+  numeric: 5/10
+  written: 10th of Iounent
+bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
+  somewhere.
+eyes: Brown
+flaw: A scandal prevents me from ever going home again. That kind of trouble seems
+  to follow me around.
+guild: Alderden
+hair: curly black hair that's put back in a long pony tail
+ideal: Endurance
 name: Gormoth Shyrrik
 organizations: []
-partyID: 56
-race: Dragonborn
+partyID: 2
+race: Elf
 relationships:
-- name: Uxwy Lazziar
+- name: Liris Bhyrindaar
   type: partymate
-- name: Olivus Ondabrar
+- name: Alexandyr Aulauthar
   type: partymate
-- name: Turi Chandrelle
-  type: partymate
-skin: copper
+skin: Tan
 spec: Cleric
 stats:
   cha: 9
-  con: 10
-  dex: 15
-  int: 12
-  str: 9
-  wis: 15
-track: Exploration
-trait: I never pass up a friendly wager.
-trait1: Needy
-trait2: Shortsighted
-year: 2
+  con: 12
+  dex: 11
+  int: 11
+  str: 12
+  wis: 17
+track: Diplomacy
+trait: I am working on a grand philosophical theory and love sharing my ideas.
+trait1: Neat
+trait2: Vulnerable
+year: 3
 ---
+# Gormoth Shyrrik
+---
+### Description
+- 3rd year Elf Cleric in Alderden
+- curly black hair that's put back in a long pony tail, Brown eyes, and Tan skin
+- Is Neat and Vulnerable, and has Endurance as their ideal
+
+### Organizations
+### Relationships
+[[Liris Bhyrindaar]]: partymate
+[[Alexandyr Aulauthar]]: partymate
+### Stats
+```statblock
+name: Gormoth Shyrrik
+stats: [12, 11, 12, 11, 17, 9]
+```

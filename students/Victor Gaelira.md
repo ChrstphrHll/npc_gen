@@ -1,38 +1,54 @@
 ---
 birthday:
-  numeric: 6/27
-  written: 27th of Korent
-bond: It is my duty to protect my students.
-eyes: Spring Green
-flaw: Don't expect me to save those who can't save themselves. It is nature's way
-  that the strong thrive and the weak perish.
-guild: Alderden
-hair: straight strawberry blond hair that's braided with violet ribbon (med)
-ideal: Logic
+  numeric: 7/22
+  written: 22nd of Korent
+bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
+eyes: Blue
+flaw: When I see something valuable, I can't think about anything but how to steal
+  it.
+guild: Elkenval
+hair: wavy brunette hair that's put up in a large bun
+ideal: Compassion
 name: Victor Gaelira
 organizations: []
-partyID: 58
-race: Gnome
+partyID: 80
+race: Human
 relationships:
-- name: Secarr Ashbluff
+- name: Goetia Mistale
   type: partymate
-- name: Rasy Merlara
+- name: Yan Sorsasta
   type: partymate
-- name: Matrell Halafarin
+- name: Halja Dwyer
   type: partymate
-skin: Dark Tan
-spec: Cleric
+skin: Light Tan
+spec: Artificer
 stats:
-  cha: 15
-  con: 12
-  dex: 11
-  int: 15
-  str: 15
-  wis: 18
-track: Exploration
-trait: I believe that anything worth doing is worth doing right. I can't help it-
-  I'm a perfectionist.
-trait1: Noncommittal
-trait2: Brutal
-year: 3
+  cha: 12
+  con: 9
+  dex: 12
+  int: 12
+  str: 10
+  wis: 11
+track: Diplomacy
+trait: I lie about almost everything, even when there's no good reason to.
+trait1: Protective
+trait2: Competitive
+year: 2
 ---
+# Victor Gaelira
+---
+### Description
+- 2nd year Human Artificer in Elkenval
+- wavy brunette hair that's put up in a large bun, Blue eyes, and Light Tan skin
+- Is Protective and Competitive, and has Compassion as their ideal
+
+### Organizations
+### Relationships
+[[Goetia Mistale]]: partymate
+[[Yan Sorsasta]]: partymate
+[[Halja Dwyer]]: partymate
+### Stats
+```statblock
+name: Victor Gaelira
+stats: [10, 12, 9, 12, 11, 12]
+```

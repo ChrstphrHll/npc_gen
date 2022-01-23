@@ -1,36 +1,51 @@
 ---
 birthday:
-  numeric: 7/26
-  written: 26th of Ravenent
-bond: My ill-gotten gains go to support my family.
-eyes: Sea Green
-flaw: I have a weakness for the new intoxicants and other pleasures of this land.
+  numeric: 5/27
+  written: 27th of Iounent
+bond: My instrument is my most treasured possession, and it reminds me of someone
+  I love.
+eyes: Green
+flaw: I put too much trust in those who wield power within my temple's hierarchy.
 guild: Fiesn
-hair: wavy brunette hair that's geled back
-ideal: Indulgence
+hair: curly blonde hair that's put up in a large bun
+ideal: Humane
 name: Hazel Traeliorn
 organizations: []
-partyID: 59
+partyID: 84
 race: Half-Orc
 relationships:
-- name: Grace Festus
+- name: Oyara Faoraar
   type: partymate
-- name: Avaery Klaern
+- name: Shinare Bersa
   type: partymate
-- name: Hodus Belt
-  type: partymate
-skin: Deep Green
-spec: Ranger
+skin: Pale Green
+spec: Paladin
 stats:
   cha: 13
-  con: 12
-  dex: 18
-  int: 14
-  str: 16
-  wis: 13
-track: Protection
-trait: I think anyone who's nice to me is hiding evil intent.
-trait1: Impassive
-trait2: Melancholic
-year: 1
+  con: 13
+  dex: 17
+  int: 15
+  str: 17
+  wis: 12
+track: Assault
+trait: I feel tremendous empathy for all who suffer.
+trait1: Observant
+trait2: Effeminate
+year: 3
 ---
+# Hazel Traeliorn
+---
+### Description
+- 3rd year Half-Orc Paladin in Fiesn
+- curly blonde hair that's put up in a large bun, Green eyes, and Pale Green skin
+- Is Observant and Effeminate, and has Humane as their ideal
+
+### Organizations
+### Relationships
+[[Oyara Faoraar]]: partymate
+[[Shinare Bersa]]: partymate
+### Stats
+```statblock
+name: Hazel Traeliorn
+stats: [17, 17, 13, 15, 12, 13]
+```

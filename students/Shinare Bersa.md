@@ -1,39 +1,51 @@
 ---
 birthday:
-  numeric: 0/6
-  written: 6th of Avanent
-bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
-eyes: Gray
-flaw: An innocent person is in prison for a crime that I committed. I'm okay with
-  that.
+  numeric: 4/7
+  written: 7th of Moradent
+bond: I entered seclusion because I loved someone I could not have.
+eyes: Blue
+flaw: I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go,
+  I'm surrounded by rivals.
 guild: Fiesn
-hair: straight red hair that's put back in a long pony tail
-ideal: Change
+hair: curly dark red hair that's geled back
+ideal: Integrity
 name: Shinare Bersa
 organizations: []
-partyID: 51
-race: Triton
+partyID: 84
+race: Half-Orc
 relationships:
-- name: Gianesia Onvyr
+- name: Oyara Faoraar
   type: partymate
-- name: Santaegus Etter
+- name: Hazel Traeliorn
   type: partymate
-- name: Mateos Elanil
-  type: partymate
-- name: Shike Thalaera
-  type: partymate
-skin: Deep Blue
-spec: Monk
+skin: Pale Green
+spec: Artificer
 stats:
-  cha: 11
-  con: 12
-  dex: 18
-  int: 15
-  str: 14
-  wis: 11
-track: Protection
-trait: I get bitter if I'm not the center of attention.
-trait1: Religious
-trait2: Careless
-year: 8
+  cha: 8
+  con: 10
+  dex: 15
+  int: 16
+  str: 7
+  wis: 12
+track: Assault
+trait: I feel far more comfortable around animals than people.
+trait1: Temperate
+trait2: Stylish
+year: 3
 ---
+# Shinare Bersa
+---
+### Description
+- 3rd year Half-Orc Artificer in Fiesn
+- curly dark red hair that's geled back, Blue eyes, and Pale Green skin
+- Is Temperate and Stylish, and has Integrity as their ideal
+
+### Organizations
+### Relationships
+[[Oyara Faoraar]]: partymate
+[[Hazel Traeliorn]]: partymate
+### Stats
+```statblock
+name: Shinare Bersa
+stats: [7, 15, 10, 16, 12, 8]
+```

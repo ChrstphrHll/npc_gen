@@ -1,37 +1,53 @@
 ---
 birthday:
-  numeric: 5/11
-  written: 11th of Pelent
-bond: In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
-eyes: Red
-flaw: I remember every insult I've received and nurse a silent resentment toward anyone
-  who's ever wronged me.
-guild: Fiesn
-hair: straight red hair that's parted to the side, slightly obscuring an eye
-ideal: Uncaring
+  numeric: 4/6
+  written: 6th of Moradent
+bond: My house's alliance with another noble family must be sustained at all costs.
+eyes: Deep Blue
+flaw: I obey the law, even if the law causes misery.
+guild: Burk
+hair: straight red hair that's a tousled bed head
+ideal: Contentment
 name: Eva Reluvethel
 organizations: []
-partyID: 73
-race: Half-Orc
+partyID: 45
+race: Triton
 relationships:
-- name: Tisette Bender
+- name: Jendrellian Webb
   type: partymate
-- name: Karl Cauladra
+- name: Aelisabeth Soliania
   type: partymate
-- name: Iaen Dannyd
+- name: Rivik Connak
   type: partymate
-skin: Pale Gray
-spec: Wizard
+skin: Olive
+spec: Ranger
 stats:
-  cha: 10
-  con: 12
-  dex: 11
-  int: 15
-  str: 12
-  wis: 11
-track: Assault
-trait: I'm a hopeless romantic, always searching for that "special someone."
-trait1: Intense
-trait2: Businesslike
-year: 1
+  cha: 16
+  con: 13
+  dex: 16
+  int: 13
+  str: 13
+  wis: 10
+track: Protection
+trait: I work hard so that I can play hard when the work is done.
+trait1: Subjective
+trait2: Dull
+year: 4
 ---
+# Eva Reluvethel
+---
+### Description
+- 4th year Triton Ranger in Burk
+- straight red hair that's a tousled bed head, Deep Blue eyes, and Olive skin
+- Is Subjective and Dull, and has Contentment as their ideal
+
+### Organizations
+### Relationships
+[[Jendrellian Webb]]: partymate
+[[Aelisabeth Soliania]]: partymate
+[[Rivik Connak]]: partymate
+### Stats
+```statblock
+name: Eva Reluvethel
+stats: [13, 16, 13, 13, 10, 16]
+```

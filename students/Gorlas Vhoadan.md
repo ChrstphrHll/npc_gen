@@ -1,38 +1,54 @@
 ---
 birthday:
-  numeric: 0/15
-  written: 15th of Avanent
-bond: My freedom is my most precious possession. I'll never let anyone take it from
-  me again.
-eyes: Emerald Green
-flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
-  trouble.
-guild: Alderden
-hair: wavy auburn hair that's done up in a top knot
-ideal: Self-Fulfillment
+  numeric: 4/23
+  written: 23rd of Moradent
+bond: I sponsor an orphanage to keep others from enduring what I was forced to endure.
+eyes: Amber
+flaw: Once someone questions my courage, I never back down no matter how dangerous
+  the situation.
+guild: Elkenval
+hair: curly lighter blonde hair that's geled back
+ideal: Freedom
 name: Gorlas Vhoadan
 organizations: []
-partyID: 28
-race: Elf
+partyID: 62
+race: Firbolg
 relationships:
-- name: Wenge Usunaar
+- name: Scarletta Elora
   type: partymate
-- name: Grassa Ashbluff
+- name: Adresin Ilbryn
   type: partymate
-- name: Wulfe Fulcrux
+- name: Lea Nuvian
   type: partymate
-skin: Tan
-spec: Barbarian
+skin: Pale Green
+spec: Rouge
 stats:
-  cha: 13
-  con: 14
-  dex: 9
-  int: 11
+  cha: 8
+  con: 11
+  dex: 16
+  int: 7
   str: 15
   wis: 11
-track: Exploration
-trait: There's nothing I like more than a good mystery.
-trait1: Disciplined
-trait2: Disruptive
-year: 8
+track: Diplomacy
+trait: I get bored easily. When am I going to get on with my destiny?
+trait1: Effective
+trait2: Deceptive
+year: 4
 ---
+# Gorlas Vhoadan
+---
+### Description
+- 4th year Firbolg Rouge in Elkenval
+- curly lighter blonde hair that's geled back, Amber eyes, and Pale Green skin
+- Is Effective and Deceptive, and has Freedom as their ideal
+
+### Organizations
+### Relationships
+[[Scarletta Elora]]: partymate
+[[Adresin Ilbryn]]: partymate
+[[Lea Nuvian]]: partymate
+### Stats
+```statblock
+name: Gorlas Vhoadan
+stats: [15, 16, 11, 7, 11, 8]
+```

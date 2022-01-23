@@ -1,37 +1,55 @@
 ---
 birthday:
-  numeric: 6/18
-  written: 18th of Korent
-bond: I suffer awful visions of a coming disaster and will do anything to prevent
-  it.
-eyes: Sea Green
-flaw: No one must ever learn that I once stole money from guild coffers.
-guild: Jettenia
-hair: straight turquoise hair that's put up in a large bun
-ideal: Entertain
+  numeric: 7/12
+  written: 12th of Korent
+bond: I seek to preserve a sacred text that my enemies consider heretical and seek
+  to destroy.
+eyes: Brown
+flaw: I have little respect for anyone who is not a proven warrior.
+guild: Burk
+hair: wavy dark red hair that's braided with blue ribbon (med)
+ideal: Wisdom
 name: Hudsen Elandorr
 organizations: []
 partyID: 32
-race: Dwarf
+race: Human
 relationships:
-- name: Athyn Urddusk
+- name: Matto Divya
   type: partymate
-- name: Valerya Haldreithen
+- name: Pippi Langston
   type: partymate
-- name: Gabrilo Kulo
+- name: Ilksal Immianthe
   type: partymate
-skin: Light
-spec: Artificer
+skin: Fair
+spec: Bard
 stats:
-  cha: 8
-  con: 13
-  dex: 10
-  int: 15
-  str: 16
-  wis: 10
-track: Assault
-trait: The common folk love me for my kindness and generosity.
-trait1: Sexy
-trait2: Self-centered
-year: 6
+  cha: 16
+  con: 11
+  dex: 15
+  int: 10
+  str: 14
+  wis: 7
+track: Diplomacy
+trait: I've spent so long in the temple that I have little practical experience dealing
+  with people in the outside world.
+trait1: Agreeable
+trait2: Thoughtless
+year: 8
 ---
+# Hudsen Elandorr
+---
+### Description
+- 8th year Human Bard in Burk
+- wavy dark red hair that's braided with blue ribbon (med), Brown eyes, and Fair skin
+- Is Agreeable and Thoughtless, and has Wisdom as their ideal
+
+### Organizations
+### Relationships
+[[Matto Divya]]: partymate
+[[Pippi Langston]]: partymate
+[[Ilksal Immianthe]]: partymate
+### Stats
+```statblock
+name: Hudsen Elandorr
+stats: [14, 15, 11, 10, 7, 16]
+```

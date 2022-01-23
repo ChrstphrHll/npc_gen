@@ -1,39 +1,54 @@
 ---
 birthday:
-  numeric: 6/19
-  written: 19th of Korent
-bond: The gods of my people are a comfort to me so far from home.
-eyes: Yellow
-flaw: I once satirized a noble who still wants my head. It was a mistake that I will
-  likely repeat.
-guild: Treskal
-hair: curly dirty blonde hair that's loose around the shoulders
-ideal: Honesty
+  numeric: 3/9
+  written: 9th of Melorent
+bond: I'm trying to pay off an old debt I owe to a generous benefactor.
+eyes: Sea Green
+flaw: When I see something valuable, I can't think about anything but how to steal
+  it.
+guild: Jettenia
+hair: straight black hair that's pulled to the side and buzzed on the right
+ideal: Perseverance
 name: Hanna Estelar
 organizations: []
-partyID: 71
-race: Halfling
+partyID: 54
+race: Triton
 relationships:
-- name: Ivistra Stockton
+- name: Saleas Rilitar
   type: partymate
-- name: Romen Uldreiyn
+- name: Brooka Whesker
   type: partymate
-- name: Myddin Hastos
+- name: Nom Remington
   type: partymate
-- name: Ljuk Vulkor
-  type: partymate
-skin: Pale
-spec: Bard
+skin: Olive
+spec: Paladin
 stats:
-  cha: 14
-  con: 14
+  cha: 10
+  con: 15
   dex: 12
-  int: 10
-  str: 7
-  wis: 13
-track: Protection
-trait: I get bored easily. When am I going to get on with my destiny?
-trait1: Characterful
-trait2: Egocentric
-year: 6
+  int: 13
+  str: 16
+  wis: 15
+track: Assault
+trait: I blow up at the slightest insult.
+trait1: Dignified
+trait2: Repulsive
+year: 1
 ---
+# Hanna Estelar
+---
+### Description
+- 1st year Triton Paladin in Jettenia
+- straight black hair that's pulled to the side and buzzed on the right, Sea Green eyes, and Olive skin
+- Is Dignified and Repulsive, and has Perseverance as their ideal
+
+### Organizations
+### Relationships
+[[Saleas Rilitar]]: partymate
+[[Brooka Whesker]]: partymate
+[[Nom Remington]]: partymate
+### Stats
+```statblock
+name: Hanna Estelar
+stats: [16, 12, 15, 13, 15, 10]
+```

@@ -1,36 +1,53 @@
 ---
 birthday:
-  numeric: 3/11
-  written: 11th of Moradent
-bond: My freedom is my most precious possession. I'll never let anyone take it from
-  me again.
-eyes: Aqua
-flaw: I'll say anything to avoid having to do extra work.
-guild: Fiesn
-hair: wavy red hair that's parted to the right
-ideal: Self-Respect
+  numeric: 4/1
+  written: 1st of Moradent
+bond: I will become the greatest thief that ever lived.
+eyes: Pale Gray
+flaw: I have a "tell" that reveals when I'm lying.
+guild: Jettenia
+hair: curly dirty blonde hair that's put back in a short pony tail
+ideal: Innovation
 name: Brinna Muerlara
 organizations: []
-partyID: 80
-race: Goliath
+partyID: 46
+race: Dwarf
 relationships:
-- name: Leonus Triktappic
+- name: Maarika Oncith
   type: partymate
-- name: Hartwen Galaeron
+- name: Alys Ylyndar
   type: partymate
-skin: Dark Tan
-spec: Sorcerer
+- name: Jovos Seldanna
+  type: partymate
+skin: Light
+spec: Paladin
 stats:
-  cha: 18
-  con: 5
-  dex: 12
-  int: 9
-  str: 15
-  wis: 16
-track: Protection
-trait: I . . . speak . . . slowly . . . when talking . . . to idiots, . . . which
-  . . . almost . . . everyone . . . is . . . compared . . . to me.
-trait1: Passionate
-trait2: Bossy
-year: 7
+  cha: 14
+  con: 13
+  dex: 11
+  int: 15
+  str: 18
+  wis: 14
+track: Assault
+trait: I can stare down a hell hound without flinching.
+trait1: Caring
+trait2: Impassive
+year: 2
 ---
+# Brinna Muerlara
+---
+### Description
+- 2nd year Dwarf Paladin in Jettenia
+- curly dirty blonde hair that's put back in a short pony tail, Pale Gray eyes, and Light skin
+- Is Caring and Impassive, and has Innovation as their ideal
+
+### Organizations
+### Relationships
+[[Maarika Oncith]]: partymate
+[[Alys Ylyndar]]: partymate
+[[Jovos Seldanna]]: partymate
+### Stats
+```statblock
+name: Brinna Muerlara
+stats: [18, 11, 13, 15, 14, 14]
+```

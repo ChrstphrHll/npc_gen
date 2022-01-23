@@ -1,38 +1,48 @@
 ---
 birthday:
-  numeric: 4/28
-  written: 28th of Iounent
-bond: I suffer awful visions of a coming disaster and will do anything to prevent
-  it.
-eyes: Violet Red
-flaw: I have a weakness for the new intoxicants and other pleasures of this land.
-guild: Treskal
-hair: frizzy brunette hair that's geled back
-ideal: Knowledge
+  numeric: 6/18
+  written: 18th of Pelent
+bond: I would do anything for the other members of my old troupe.
+eyes: Brown
+flaw: Once someone questions my courage, I never back down no matter how dangerous
+  the situation.
+guild: Burk
+hair: straight dirty blonde hair that's braided with pink ribbon (med)
+ideal: Reciprocity
 name: Aksel Strohm
 organizations: []
-partyID: 60
-race: Tiefling
+partyID: 39
+race: Gnome
 relationships:
-- name: Helera Urkensvall
+- name: Rotheloe Samblar
   type: partymate
-- name: Pippi Langston
-  type: partymate
-- name: Ilksal Immianthe
-  type: partymate
-skin: Emerald Green
-spec: Barbarian
+skin: Fair
+spec: Wizard
 stats:
-  cha: 10
-  con: 11
+  cha: 14
+  con: 9
   dex: 10
-  int: 9
-  str: 12
-  wis: 10
-track: Protection
-trait: I begin or end my day with small traditional rituals that are unfamiliar to
-  those around me.
-trait1: Intrepid
-trait2: Unfathomable
+  int: 17
+  str: 14
+  wis: 13
+track: Exploration
+trait: I'm a born gambler who can't resist taking a risk for a potential payoff.
+trait1: Insightful
+trait2: Pharissical
 year: 4
 ---
+# Aksel Strohm
+---
+### Description
+- 4th year Gnome Wizard in Burk
+- straight dirty blonde hair that's braided with pink ribbon (med), Brown eyes, and Fair skin
+- Is Insightful and Pharissical, and has Reciprocity as their ideal
+
+### Organizations
+### Relationships
+[[Rotheloe Samblar]]: partymate
+### Stats
+```statblock
+name: Aksel Strohm
+stats: [14, 10, 9, 17, 13, 14]
+```

@@ -1,39 +1,50 @@
 ---
 birthday:
-  numeric: 0/1
-  written: 1st of Avanent
-bond: My town or city is my home, and I'll fight to defend it.
-eyes: Violet Red
-flaw: I'll say anything to avoid having to do extra work.
-guild: Burk
-hair: curly strawberry blond hair that's parted to the right
-ideal: Code
+  numeric: 6/2
+  written: 2nd of Pelent
+bond: I idolize a hero of the old tales and measure my deeds against that person's.
+eyes: Amber
+flaw: In fact, the world does revolve around me.
+guild: Alderden
+hair: wavy dirty blonde hair that's parted to the side, slightly obscuring an eye
+ideal: Respect
 name: Aurikallos Biafyndar
 organizations: []
-partyID: 2
-race: Firbolg
+partyID: 21
+race: Halfling
 relationships:
-- name: Vaellyn Esyae
+- name: Corliss Akkar
   type: partymate
-- name: Delila Felaern
+- name: Isaias Vaalyun
   type: partymate
-- name: Gianna Rhistel
-  type: partymate
-- name: Sulivan Wylchyr
-  type: partymate
-skin: Pale Gray
-spec: Cleric
+skin: Tan
+spec: Druid
 stats:
-  cha: 13
-  con: 11
-  dex: 10
+  cha: 10
+  con: 14
+  dex: 12
   int: 9
-  str: 11
-  wis: 15
-track: Exploration
-trait: The first thing I do in a new place is note the locations of everything valuable-
-  or where such things could be hidden.
-trait1: Enigmatic
-trait2: Irreverent
-year: 1
+  str: 8
+  wis: 14
+track: Protection
+trait: Nothing can shake my optimistic attitude.
+trait1: Sophisticated
+trait2: Negativistic
+year: 3
 ---
+# Aurikallos Biafyndar
+---
+### Description
+- 3rd year Halfling Druid in Alderden
+- wavy dirty blonde hair that's parted to the side, slightly obscuring an eye, Amber eyes, and Tan skin
+- Is Sophisticated and Negativistic, and has Respect as their ideal
+
+### Organizations
+### Relationships
+[[Corliss Akkar]]: partymate
+[[Isaias Vaalyun]]: partymate
+### Stats
+```statblock
+name: Aurikallos Biafyndar
+stats: [8, 12, 14, 9, 14, 10]
+```

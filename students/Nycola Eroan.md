@@ -1,37 +1,51 @@
 ---
 birthday:
-  numeric: 5/10
-  written: 10th of Pelent
-bond: Those who fight beside me are those worth dying for.
-eyes: Purple
-flaw: I turn tail and run when things look bad.
-guild: Jettenia
-hair: wavy brunette hair that's braided with green ribbon (med)
-ideal: Renewal
+  numeric: 6/9
+  written: 9th of Pelent
+bond: My isolation gave me great insight into a great evil that only I can destroy.
+eyes: Spring Green
+flaw: In fact, the world does revolve around me.
+guild: Treskal
+hair: wavy black hair that's braided with violet ribbon (long)
+ideal: Adventure
 name: Nycola Eroan
 organizations: []
-partyID: 37
-race: Elf
+partyID: 60
+race: Genasi
 relationships:
-- name: Brynn Opalul
+- name: Edyrm Iolas
   type: partymate
-- name: Tommos Morgan
+- name: Saccaros Anaharae
   type: partymate
-- name: Jothen Elway
-  type: partymate
-skin: Dark Tan
-spec: Monk
+skin: air
+spec: Fighter
 stats:
-  cha: 10
-  con: 10
+  cha: 12
+  con: 12
   dex: 12
-  int: 11
-  str: 11
-  wis: 10
-track: Diplomacy
-trait: I've been isolated for so long that I rarely speak, preferring gestures and
-  the occasional grunt.
-trait1: Charitable
-trait2: Folksy
-year: 7
+  int: 8
+  str: 15
+  wis: 13
+track: Protection
+trait: I'm full of inspiring and cautionary tales from my military experience relevant
+  to almost every combat situation.
+trait1: Disciplined
+trait2: Disturbing
+year: 1
 ---
+# Nycola Eroan
+---
+### Description
+- 1st year Genasi Fighter in Treskal
+- wavy black hair that's braided with violet ribbon (long), Spring Green eyes, and air skin
+- Is Disciplined and Disturbing, and has Adventure as their ideal
+
+### Organizations
+### Relationships
+[[Edyrm Iolas]]: partymate
+[[Saccaros Anaharae]]: partymate
+### Stats
+```statblock
+name: Nycola Eroan
+stats: [15, 12, 12, 8, 13, 12]
+```

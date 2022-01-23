@@ -1,37 +1,56 @@
 ---
 birthday:
-  numeric: 6/30
-  written: 30th of Korent
-bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
-  somewhere.
-eyes: Deep Blue
-flaw: My hatred of my enemies is blind and unreasoning.
-guild: Elkenval
-hair: wavy auburn hair that's parted to the left
-ideal: Lead by example
+  numeric: 6/21
+  written: 21st of Pelent
+bond: I work to preserve a library, university, scriptorium, or monastery.
+eyes: Gray
+flaw: I can't resist swindling people who are more powerful than me.
+guild: Jettenia
+hair: wavy white hair that's put up in a large bun
+ideal: Kindness
 name: Savanna Ildilyntra
 organizations: []
-partyID: 68
-race: Half-Elf
+partyID: 29
+race: Human
 relationships:
-- name: Kessa Keller
+- name: Selina Ochyllyss
   type: partymate
-- name: Mavrek Aolis
+- name: Hodus Belt
   type: partymate
-- name: Maia Ashsorrow
+- name: Allyson Vindinglag
   type: partymate
-skin: Dark Tan
-spec: Paladin
+- name: Gabrila Retra
+  type: partymate
+skin: Brown
+spec: Sorcerer
 stats:
-  cha: 14
-  con: 14
-  dex: 10
-  int: 11
-  str: 16
-  wis: 13
-track: Exploration
-trait: I have a strong code of honor or sense of propriety that others don't comprehend.
-trait1: Unfathomable
-trait2: Hedonistic
-year: 2
+  cha: 15
+  con: 15
+  dex: 13
+  int: 10
+  str: 9
+  wis: 15
+track: Protection
+trait: I get bored easily. When am I going to get on with my destiny?
+trait1: Immaculate
+trait2: Irascible
+year: 3
 ---
+# Savanna Ildilyntra
+---
+### Description
+- 3rd year Human Sorcerer in Jettenia
+- wavy white hair that's put up in a large bun, Gray eyes, and Brown skin
+- Is Immaculate and Irascible, and has Kindness as their ideal
+
+### Organizations
+### Relationships
+[[Selina Ochyllyss]]: partymate
+[[Hodus Belt]]: partymate
+[[Allyson Vindinglag]]: partymate
+[[Gabrila Retra]]: partymate
+### Stats
+```statblock
+name: Savanna Ildilyntra
+stats: [9, 13, 15, 10, 15, 15]
+```

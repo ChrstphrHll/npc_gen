@@ -1,36 +1,51 @@
 ---
 birthday:
-  numeric: 1/17
-  written: 17th of Corelent
-bond: Should my discovery come to light, it could bring ruin to the world.
-eyes: Emerald Green
-flaw: My hatred of my enemies is blind and unreasoning.
-guild: Jettenia
-hair: frizzy lighter blonde hair that's put back in a short pony tail
-ideal: Optimism
+  numeric: 5/1
+  written: 1st of Iounent
+bond: I owe my life to the priest who took me in when my parents died.
+eyes: Hazel
+flaw: I remember every insult I've received and nurse a silent resentment toward anyone
+  who's ever wronged me.
+guild: Treskal
+hair: curly lighter blonde hair that's parted to the right
+ideal: Contributing
 name: Es'beth Yesheln
 organizations: []
-partyID: 27
+partyID: 88
 race: Aasimar
 relationships:
-- name: Alys Ylyndar
+- name: Alinea Hellsturn
   type: partymate
-- name: Isaias Vaalyun
+- name: Bela Qwey
   type: partymate
-- name: Taewen Llamryl
-  type: partymate
-skin: Light
-spec: Fighter
+skin: Tan
+spec: Bard
 stats:
-  cha: 9
-  con: 9
-  dex: 12
-  int: 12
-  str: 14
-  wis: 11
+  cha: 14
+  con: 12
+  dex: 8
+  int: 10
+  str: 16
+  wis: 7
 track: Assault
-trait: I express affection or contempt in ways that are unfamiliar to others.
-trait1: Trusting
-trait2: Invisible
+trait: I'm convinced that people are always trying to steal my secrets.
+trait1: Dainty
+trait2: "Na\xEFve"
 year: 4
 ---
+# Es'beth Yesheln
+---
+### Description
+- 4th year Aasimar Bard in Treskal
+- curly lighter blonde hair that's parted to the right, Hazel eyes, and Tan skin
+- Is Dainty and Naïve, and has Contributing as their ideal
+
+### Organizations
+### Relationships
+[[Alinea Hellsturn]]: partymate
+[[Bela Qwey]]: partymate
+### Stats
+```statblock
+name: Es'beth Yesheln
+stats: [16, 8, 12, 10, 7, 14]
+```

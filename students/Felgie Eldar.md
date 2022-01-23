@@ -1,34 +1,56 @@
 ---
 birthday:
-  numeric: 2/3
-  written: 3rd of Melorent
-bond: I will face any challenge to win the approval of my family.
-eyes: Purple
-flaw: I hide a truly scandalous secret that could ruin my family forever.
-guild: Jettenia
-hair: wavy blonde hair that's braided with green ribbon (long)
-ideal: Reciprocity
+  numeric: 5/26
+  written: 26th of Iounent
+bond: Those who fight beside me are those worth dying for.
+eyes: Gray
+flaw: I'll do anything to win fame and renown.
+guild: Burk
+hair: straight auburn hair that's loose around the shoulders
+ideal: Adventure
 name: Felgie Eldar
 organizations: []
-partyID: 48
-race: Dwarf
+partyID: 57
+race: Aasimar
 relationships:
-- name: Tilo Connak
+- name: Taanyth Seeker
   type: partymate
 - name: Jaris Amlaruil
   type: partymate
-skin: Tan
+- name: Tyego Sinaht
+  type: partymate
+- name: Tisette Bender
+  type: partymate
+skin: Fair
 spec: Rouge
 stats:
-  cha: 12
-  con: 15
-  dex: 15
-  int: 12
-  str: 13
-  wis: 13
+  cha: 14
+  con: 13
+  dex: 14
+  int: 16
+  str: 12
+  wis: 9
 track: Protection
-trait: I am working on a grand philosophical theory and love sharing my ideas.
-trait1: Sexy
-trait2: Complaining
+trait: I express affection or contempt in ways that are unfamiliar to others.
+trait1: Entrepreneurial
+trait2: Emotional
 year: 1
 ---
+# Felgie Eldar
+---
+### Description
+- 1st year Aasimar Rouge in Burk
+- straight auburn hair that's loose around the shoulders, Gray eyes, and Fair skin
+- Is Entrepreneurial and Emotional, and has Adventure as their ideal
+
+### Organizations
+### Relationships
+[[Taanyth Seeker]]: partymate
+[[Jaris Amlaruil]]: partymate
+[[Tyego Sinaht]]: partymate
+[[Tisette Bender]]: partymate
+### Stats
+```statblock
+name: Felgie Eldar
+stats: [12, 14, 13, 16, 9, 14]
+```

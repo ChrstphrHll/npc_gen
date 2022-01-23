@@ -1,35 +1,53 @@
 ---
 birthday:
-  numeric: 7/17
-  written: 17th of Ravenent
-bond: I'll never forget the crushing defeat my company suffered or the enemies who
-  dealt it.
-eyes: Red
-flaw: I too often hear veiled insults and threats in every word addressed to me, and
-  I'm quick to anger.
+  numeric: 5/19
+  written: 19th of Iounent
+bond: I'm loyal to my captain first, everything else second.
+eyes: Blue
+flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
 guild: Alderden
-hair: straight strawberry blond hair that's a tousled bed head
-ideal: Intelligence
+hair: straight brunette hair that's kept back by a green headband
+ideal: Order
 name: Miglus Yrlissa
 organizations: []
-partyID: 20
-race: Goliath
+partyID: 43
+race: Firbolg
 relationships:
-- name: Aenglo Dyffros
+- name: Moki Aelynthi
   type: partymate
-skin: Light
-spec: Barbarian
+- name: Shoulree Letryal
+  type: partymate
+- name: Nathan Laeroth
+  type: partymate
+skin: Pale Green
+spec: Sorcerer
 stats:
-  cha: 5
-  con: 10
-  dex: 13
-  int: 11
-  str: 14
+  cha: 18
+  con: 15
+  dex: 17
+  int: 16
+  str: 9
   wis: 13
 track: Assault
-trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
-  breaking them.
-trait1: Feisty
-trait2: Miserable
+trait: I fall in and out of love easily, and am always pursuing someone.
+trait1: Frugal
+trait2: Neglectful
 year: 1
 ---
+# Miglus Yrlissa
+---
+### Description
+- 1st year Firbolg Sorcerer in Alderden
+- straight brunette hair that's kept back by a green headband, Blue eyes, and Pale Green skin
+- Is Frugal and Neglectful, and has Order as their ideal
+
+### Organizations
+### Relationships
+[[Moki Aelynthi]]: partymate
+[[Shoulree Letryal]]: partymate
+[[Nathan Laeroth]]: partymate
+### Stats
+```statblock
+name: Miglus Yrlissa
+stats: [9, 17, 15, 16, 13, 18]
+```

@@ -1,38 +1,51 @@
 ---
 birthday:
-  numeric: 1/7
-  written: 7th of Corelent
-bond: Someone I loved died because of a mistake I made. That will never happen again.
-eyes: Spring Green
-flaw: If I'm outnumbered, I will run away from a fight.
-guild: Alderden
-hair: short spines
-ideal: Community
+  numeric: 8/8
+  written: 8th of Ravenent
+bond: The ship is most important- crewmates and captains come and go.
+eyes: Green
+flaw: Violence is my answer to almost any challenge.
+guild: Burk
+hair: wavy grey hair that's parted to the right
+ideal: Involvement
 name: Malchor Tenyajn
 organizations: []
-partyID: 36
-race: Dragonborn
+partyID: 63
+race: Tiefling
 relationships:
-- name: Tez Bialaer
+- name: Jacoby Maeraddyth
   type: partymate
-- name: Abel Marsh
+- name: Pike Tethir
   type: partymate
-- name: Asten Alavara
-  type: partymate
-- name: Selina Ochyllyss
-  type: partymate
-skin: black
-spec: Druid
+skin: Aqua
+spec: Artificer
 stats:
-  cha: 6
-  con: 13
-  dex: 13
-  int: 12
-  str: 11
+  cha: 13
+  con: 10
+  dex: 12
+  int: 13
+  str: 13
   wis: 14
-track: Exploration
-trait: I hide scraps of food and trinkets away in my pockets.
-trait1: Well-rounded
-trait2: Resentful
-year: 4
+track: Assault
+trait: I've been isolated for so long that I rarely speak, preferring gestures and
+  the occasional grunt.
+trait1: Amiable
+trait2: Fatalistic
+year: 1
 ---
+# Malchor Tenyajn
+---
+### Description
+- 1st year Tiefling Artificer in Burk
+- wavy grey hair that's parted to the right, Green eyes, and Aqua skin
+- Is Amiable and Fatalistic, and has Involvement as their ideal
+
+### Organizations
+### Relationships
+[[Jacoby Maeraddyth]]: partymate
+[[Pike Tethir]]: partymate
+### Stats
+```statblock
+name: Malchor Tenyajn
+stats: [13, 12, 10, 13, 14, 13]
+```

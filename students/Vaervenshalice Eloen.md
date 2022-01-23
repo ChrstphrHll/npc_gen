@@ -1,39 +1,51 @@
 ---
 birthday:
-  numeric: 6/20
-  written: 20th of Korent
-bond: Someone I loved died because of a mistake I made. That will never happen again.
-eyes: Emerald Green
-flaw: An innocent person is in prison for a crime that I committed. I'm okay with
-  that.
-guild: Elkenval
-hair: straight black hair that's put back in a long pony tail
-ideal: Appreciation
+  numeric: 7/27
+  written: 27th of Korent
+bond: I will do anything to prove myself superior to my hated rival.
+eyes: Hazel
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+guild: Treskal
+hair: wavy auburn hair that's pulled to the side and buzzed on the right
+ideal: Austerity
 name: Vaervenshalice Eloen
 organizations: []
-partyID: 44
-race: Half-Orc
+partyID: 52
+race: Gnome
 relationships:
-- name: Theriss Deularla
+- name: Aenglo Dyffros
   type: partymate
-- name: Eligio Nevarth
+- name: Yathlanae Arkhun
   type: partymate
-- name: Julyo Agassi
-  type: partymate
-- name: Lucoe Lorelei
-  type: partymate
-skin: Pale Gray
-spec: Monk
+skin: Light Tan
+spec: Rouge
 stats:
-  cha: 17
-  con: 12
+  cha: 12
+  con: 11
   dex: 17
-  int: 10
+  int: 13
   str: 17
-  wis: 9
-track: Assault
-trait: My language is as foul as an otyugh nest.
-trait1: Forthright
-trait2: High-spirited
-year: 2
+  wis: 16
+track: Protection
+trait: I judge people by their actions, not their words.
+trait1: Pragmatic
+trait2: Skeptical
+year: 3
 ---
+# Vaervenshalice Eloen
+---
+### Description
+- 3rd year Gnome Rouge in Treskal
+- wavy auburn hair that's pulled to the side and buzzed on the right, Hazel eyes, and Light Tan skin
+- Is Pragmatic and Skeptical, and has Austerity as their ideal
+
+### Organizations
+### Relationships
+[[Aenglo Dyffros]]: partymate
+[[Yathlanae Arkhun]]: partymate
+### Stats
+```statblock
+name: Vaervenshalice Eloen
+stats: [17, 17, 11, 13, 16, 12]
+```

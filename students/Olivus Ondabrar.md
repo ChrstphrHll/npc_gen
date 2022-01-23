@@ -1,39 +1,54 @@
 ---
 birthday:
-  numeric: 3/20
-  written: 20th of Moradent
-bond: I'll never forget the crushing defeat my company suffered or the enemies who
-  dealt it.
-eyes: Aqua
-flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
-  involved.
-guild: Elkenval
-hair: curly pink hair that's parted to the left
-ideal: Fame
+  numeric: 3/1
+  written: 1st of Melorent
+bond: I have a family, but I have no idea where they are. One day, I hope to see them
+  again.
+eyes: Deep Blue
+flaw: I will never fully trust anyone other than myself.
+guild: Fiesn
+hair: 2 straight horns
+ideal: Logic
 name: Olivus Ondabrar
 organizations: []
-partyID: 56
-race: Half-Orc
+partyID: 64
+race: Dragonborn
 relationships:
-- name: Uxwy Lazziar
+- name: Ungris Riluaneth
   type: partymate
-- name: Turi Chandrelle
+- name: Julyo Agassi
   type: partymate
-- name: Gormoth Shyrrik
+- name: Kymber Korrigash
   type: partymate
-skin: Pale Gray
-spec: Monk
+skin: gold
+spec: Bard
 stats:
   cha: 13
-  con: 13
-  dex: 18
+  con: 12
+  dex: 10
   int: 13
-  str: 15
-  wis: 10
-track: Diplomacy
-trait: I am tolerant (or intolerant) of other faiths and respect (or condemn) the
-  worship of other gods.
-trait1: Hearty
-trait2: Regretful
-year: 2
+  str: 10
+  wis: 14
+track: Exploration
+trait: I like to talk at length about my profession.
+trait1: Colorful
+trait2: High-spirited
+year: 4
 ---
+# Olivus Ondabrar
+---
+### Description
+- 4th year Dragonborn Bard in Fiesn
+- 2 straight horns, Deep Blue eyes, and gold skin
+- Is Colorful and High-spirited, and has Logic as their ideal
+
+### Organizations
+### Relationships
+[[Ungris Riluaneth]]: partymate
+[[Julyo Agassi]]: partymate
+[[Kymber Korrigash]]: partymate
+### Stats
+```statblock
+name: Olivus Ondabrar
+stats: [10, 10, 12, 13, 14, 13]
+```

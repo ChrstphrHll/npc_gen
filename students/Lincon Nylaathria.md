@@ -1,36 +1,55 @@
 ---
 birthday:
-  numeric: 1/16
-  written: 16th of Corelent
-bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
-eyes: Sea Green
-flaw: I obey the law, even if the law causes misery.
-guild: Fiesn
-hair: straight dark red hair that's put up in a large bun
-ideal: Charisma
+  numeric: 8/14
+  written: 14th of Ravenent
+bond: I suffer awful visions of a coming disaster and will do anything to prevent
+  it.
+eyes: Hazel
+flaw: Most people scream and run when they see a demon. I stop and take notes on its
+  anatomy.
+guild: Treskal
+hair: straight turquoise hair that's parted to the left
+ideal: Freedom
 name: Lincon Nylaathria
 organizations: []
-partyID: 49
+partyID: 76
 race: Elf
 relationships:
-- name: Kaeli Khiiral
+- name: Cerridwen Durothil
   type: partymate
-- name: Delja Iefyr
+- name: Grassa Ashbluff
   type: partymate
-- name: Nathan Laeroth
+- name: Alonnos Xanotter
   type: partymate
-skin: Brown
-spec: Fighter
+skin: Fair
+spec: Wizard
 stats:
   cha: 11
-  con: 16
-  dex: 13
-  int: 8
-  str: 13
-  wis: 11
-track: Diplomacy
-trait: I would rather make a new friend than a new enemy.
-trait1: Creative
-trait2: Strict
-year: 4
+  con: 17
+  dex: 8
+  int: 17
+  str: 14
+  wis: 14
+track: Assault
+trait: I never pass up a friendly wager.
+trait1: Independent
+trait2: Dependent
+year: 2
 ---
+# Lincon Nylaathria
+---
+### Description
+- 2nd year Elf Wizard in Treskal
+- straight turquoise hair that's parted to the left, Hazel eyes, and Fair skin
+- Is Independent and Dependent, and has Freedom as their ideal
+
+### Organizations
+### Relationships
+[[Cerridwen Durothil]]: partymate
+[[Grassa Ashbluff]]: partymate
+[[Alonnos Xanotter]]: partymate
+### Stats
+```statblock
+name: Lincon Nylaathria
+stats: [14, 8, 17, 17, 14, 11]
+```

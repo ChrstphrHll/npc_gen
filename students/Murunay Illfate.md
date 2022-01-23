@@ -1,36 +1,55 @@
 ---
 birthday:
-  numeric: 7/4
-  written: 4th of Ravenent
-bond: Somewhere out there, I have a child who doesn't know me. I'm making the world
-  better for him or her.
-eyes: Aqua
-flaw: I can't help but pocket loose coins and other trinkets I come across.
-guild: Burk
-hair: frills
-ideal: Willingness
+  numeric: 6/26
+  written: 26th of Pelent
+bond: A proud noble once gave me a horrible beating, and I will take my revenge on
+  any bully I encounter.
+eyes: Amber
+flaw: I too often hear veiled insults and threats in every word addressed to me, and
+  I'm quick to anger.
+guild: Treskal
+hair: curly brunette hair that's put back in a short pony tail
+ideal: Freedom
 name: Murunay Illfate
 organizations: []
-partyID: 54
-race: Dragonborn
+partyID: 89
+race: Halfling
 relationships:
-- name: Leya Escobar
+- name: Uxwy Lazziar
   type: partymate
-- name: Scarlotta Inqoul
+- name: Shenai Inqoul
   type: partymate
-skin: bronze
-spec: Artificer
+- name: Garan Mirthal
+  type: partymate
+skin: Dark Tan
+spec: Druid
 stats:
-  cha: 7
-  con: 13
+  cha: 13
+  con: 10
   dex: 10
-  int: 15
+  int: 12
   str: 14
-  wis: 15
-track: Exploration
-trait: I believe that anything worth doing is worth doing right. I can't help it-
-  I'm a perfectionist.
-trait1: Quality
-trait2: Talkative
-year: 3
+  wis: 16
+track: Diplomacy
+trait: I'm always polite and respectful.
+trait1: Appreciative
+trait2: Noncommittal
+year: 1
 ---
+# Murunay Illfate
+---
+### Description
+- 1st year Halfling Druid in Treskal
+- curly brunette hair that's put back in a short pony tail, Amber eyes, and Dark Tan skin
+- Is Appreciative and Noncommittal, and has Freedom as their ideal
+
+### Organizations
+### Relationships
+[[Uxwy Lazziar]]: partymate
+[[Shenai Inqoul]]: partymate
+[[Garan Mirthal]]: partymate
+### Stats
+```statblock
+name: Murunay Illfate
+stats: [14, 10, 10, 12, 16, 13]
+```

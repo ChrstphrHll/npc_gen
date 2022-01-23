@@ -1,35 +1,49 @@
 ---
 birthday:
-  numeric: 7/19
-  written: 19th of Ravenent
-bond: I hold no greater cause than my service to my people.
-eyes: Violet Red
-flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
-guild: Jettenia
-hair: wavy strawberry blond hair that's hanging down to their back
-ideal: Righteous
+  numeric: 7/30
+  written: 30th of Korent
+bond: Something important was taken from me, and I aim to steal it back.
+eyes: Gray
+flaw: My piety sometimes leads me to blindly trust those that profess faith in my
+  god.
+guild: Fiesn
+hair: curly strawberry blond hair that's braided with blue ribbon (long)
+ideal: Appreciation
 name: Olbern Uldreiyn
 organizations: []
-partyID: 19
-race: Elf
+partyID: 61
+race: Halfling
 relationships:
-- name: Adrjia Lysanthir
+- name: Rei Mardeiym
   type: partymate
-- name: Marl Ahrendaaria
-  type: partymate
-skin: Dark Tan
-spec: Artificer
+skin: Light Tan
+spec: Cleric
 stats:
-  cha: 14
+  cha: 10
   con: 9
-  dex: 6
-  int: 16
+  dex: 13
+  int: 12
   str: 13
-  wis: 12
-track: Protection
-trait: I'm well known for my work, and I want to make sure everyone appreciates it.
-  I'm always taken aback when people haven't heard of me.
-trait1: Concerned
-trait2: Unimpressive
-year: 1
+  wis: 14
+track: Assault
+trait: I begin or end my day with small traditional rituals that are unfamiliar to
+  those around me.
+trait1: Old-fashioned
+trait2: Critical
+year: 2
 ---
+# Olbern Uldreiyn
+---
+### Description
+- 2nd year Halfling Cleric in Fiesn
+- curly strawberry blond hair that's braided with blue ribbon (long), Gray eyes, and Light Tan skin
+- Is Old-fashioned and Critical, and has Appreciation as their ideal
+
+### Organizations
+### Relationships
+[[Rei Mardeiym]]: partymate
+### Stats
+```statblock
+name: Olbern Uldreiyn
+stats: [13, 13, 9, 12, 14, 10]
+```

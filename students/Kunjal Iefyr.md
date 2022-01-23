@@ -1,34 +1,52 @@
 ---
 birthday:
-  numeric: 6/18
-  written: 18th of Korent
-bond: In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
-eyes: Spring Green
-flaw: If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
-guild: Treskal
-hair: straight auburn hair that's loose around the shoulders
-ideal: Wealth
+  numeric: 1/25
+  written: 25th of Avanent
+bond: My family, clan, or tribe is the most important thing in my life, even when
+  they are far from me.
+eyes: Pale Blue
+flaw: The tyrant who rules my land will stop at nothing to see me killed.
+guild: Fiesn
+hair: wavy strawberry blond hair that's parted to the left
+ideal: Balance
 name: Kunjal Iefyr
 organizations: []
-partyID: 45
-race: Halfling
+partyID: 31
+race: Human
 relationships:
-- name: Eljana Jian
+- name: Kayla Kaminsky
   type: partymate
-- name: Eadyth Lora
+- name: Audree Dixon
   type: partymate
-skin: Dark Brown
-spec: Rouge
+skin: Fair
+spec: Sorcerer
 stats:
-  cha: 11
-  con: 6
-  dex: 16
-  int: 13
-  str: 12
-  wis: 15
-track: Diplomacy
-trait: I know a story relevant to almost every situation.
-trait1: Stable
-trait2: Fearful
-year: 3
+  cha: 16
+  con: 16
+  dex: 12
+  int: 6
+  str: 16
+  wis: 10
+track: Assault
+trait: I have a strong sense of fair play and always try to find the most equitable
+  solution to arguments.
+trait1: Immaculate
+trait2: Uncreative
+year: 8
 ---
+# Kunjal Iefyr
+---
+### Description
+- 8th year Human Sorcerer in Fiesn
+- wavy strawberry blond hair that's parted to the left, Pale Blue eyes, and Fair skin
+- Is Immaculate and Uncreative, and has Balance as their ideal
+
+### Organizations
+### Relationships
+[[Kayla Kaminsky]]: partymate
+[[Audree Dixon]]: partymate
+### Stats
+```statblock
+name: Kunjal Iefyr
+stats: [16, 12, 16, 6, 10, 16]
+```

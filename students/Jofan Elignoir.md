@@ -1,40 +1,54 @@
 ---
 birthday:
-  numeric: 1/30
-  written: 30th of Corelent
-bond: Somewhere out there, I have a child who doesn't know me. I'm making the world
-  better for him or her.
-eyes: Violet Red
-flaw: Now that I've returned to the world, I enjoy its delights a little too much.
+  numeric: 8/26
+  written: 26th of Ravenent
+bond: Someone I loved died because of a mistake I made. That will never happen again.
+eyes: Brown
+flaw: I made a terrible mistake in battle cost many lives- and I would do anything
+  to keep that mistake secret.
 guild: Treskal
-hair: curly white hair that's put back in a short pony tail
-ideal: Teamwork
+hair: curly green hair that's braided with violet ribbon (med)
+ideal: Beauty
 name: Jofan Elignoir
 organizations: []
-partyID: 43
-race: Dwarf
+partyID: 20
+race: Triton
 relationships:
-- name: Asmiak Seirye
+- name: Halya Jian
   type: partymate
-- name: Lilia Agrippa
+- name: Iasono Ynshael
   type: partymate
-- name: Kayla Kaminsky
+- name: Nebulon Faelyn
   type: partymate
-- name: Alinea Hellsturn
-  type: partymate
-skin: Brown
-spec: Druid
+skin: Pale Green
+spec: Ranger
 stats:
   cha: 12
-  con: 13
-  dex: 11
+  con: 12
+  dex: 15
   int: 13
-  str: 10
+  str: 13
   wis: 15
 track: Diplomacy
-trait: I've spent so long in the temple that I have little practical experience dealing
-  with people in the outside world.
-trait1: Meticulous
-trait2: Impatient
-year: 2
+trait: I don't like to bathe.
+trait1: Undogmatic
+trait2: Assertive
+year: 1
 ---
+# Jofan Elignoir
+---
+### Description
+- 1st year Triton Ranger in Treskal
+- curly green hair that's braided with violet ribbon (med), Brown eyes, and Pale Green skin
+- Is Undogmatic and Assertive, and has Beauty as their ideal
+
+### Organizations
+### Relationships
+[[Halya Jian]]: partymate
+[[Iasono Ynshael]]: partymate
+[[Nebulon Faelyn]]: partymate
+### Stats
+```statblock
+name: Jofan Elignoir
+stats: [13, 15, 12, 13, 15, 12]
+```

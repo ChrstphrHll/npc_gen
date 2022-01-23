@@ -1,34 +1,53 @@
 ---
 birthday:
-  numeric: 6/22
-  written: 22nd of Korent
-bond: I protect those who cannot protect themselves.
-eyes: Sea Green
-flaw: I'm convinced that no one could ever fool me the way I fool others.
-guild: Jettenia
-hair: wavy black hair that's put up in a large bun
-ideal: Happiness
+  numeric: 6/21
+  written: 21st of Pelent
+bond: Something important was taken from me, and I aim to steal it back.
+eyes: Green
+flaw: I am suspicious of strangers and expect the worst of them.
+guild: Fiesn
+hair: curly black hair that's parted to the side, slightly obscuring an eye
+ideal: Adventure
 name: Wulfe Galan
 organizations: []
-partyID: 9
-race: Triton
+partyID: 23
+race: Half-Elf
 relationships:
-- name: Jandar Pleufan
+- name: Hanna Arkhun
   type: partymate
-- name: Jacob Jorildyn
+- name: Melcyn Taeral
   type: partymate
-skin: Sea Green
-spec: Paladin
+- name: Abryia Rubrae
+  type: partymate
+skin: Brown
+spec: Sorcerer
 stats:
-  cha: 12
-  con: 14
-  dex: 14
-  int: 14
-  str: 16
-  wis: 12
-track: Diplomacy
-trait: Sarcasm and insults are my weapons of choice.
-trait1: Responsible
-trait2: Cold-hearted
-year: 3
+  cha: 13
+  con: 13
+  dex: 11
+  int: 9
+  str: 12
+  wis: 13
+track: Assault
+trait: I get bored easily. When am I going to get on with my destiny?
+trait1: Needy
+trait2: Unfriendly
+year: 4
 ---
+# Wulfe Galan
+---
+### Description
+- 4th year Half-Elf Sorcerer in Fiesn
+- curly black hair that's parted to the side, slightly obscuring an eye, Green eyes, and Brown skin
+- Is Needy and Unfriendly, and has Adventure as their ideal
+
+### Organizations
+### Relationships
+[[Hanna Arkhun]]: partymate
+[[Melcyn Taeral]]: partymate
+[[Abryia Rubrae]]: partymate
+### Stats
+```statblock
+name: Wulfe Galan
+stats: [12, 11, 13, 9, 13, 13]
+```

@@ -1,35 +1,51 @@
 ---
 birthday:
-  numeric: 6/3
-  written: 3rd of Korent
-bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
-  eludes me.
-eyes: Red
-flaw: I'm quick to assume that someone is trying to cheat me.
-guild: Burk
-hair: straight lighter blonde hair that's parted to the right
-ideal: Respect
+  numeric: 1/21
+  written: 21st of Avanent
+bond: I'm trying to pay off an old debt I owe to a generous benefactor.
+eyes: Gray
+flaw: I have a weakness for the new intoxicants and other pleasures of this land.
+guild: Alderden
+hair: wavy black hair that's parted to the side, slightly obscuring an eye
+ideal: Honor
 name: Favroe Kythaela
 organizations: []
-partyID: 75
-race: Half-Elf
+partyID: 16
+race: Elf
 relationships:
-- name: Rjanna Eroan
+- name: Zylphan Molostroi
   type: partymate
-- name: Levi Kicklighter
+- name: Auzerais Venali
   type: partymate
-skin: Dark Brown
-spec: Barbarian
+skin: Fair
+spec: Cleric
 stats:
-  cha: 16
-  con: 10
-  dex: 14
-  int: 11
-  str: 17
-  wis: 12
-track: Assault
-trait: I was, in fact, raised by wolves.
-trait1: Deferential
-trait2: Uninhibited
-year: 5
+  cha: 14
+  con: 12
+  dex: 10
+  int: 15
+  str: 15
+  wis: 17
+track: Exploration
+trait: No one could doubt by looking at my regal bearing that I am a cut above the
+  unwashed masses.
+trait1: Intrepid
+trait2: Pedantic
+year: 1
 ---
+# Favroe Kythaela
+---
+### Description
+- 1st year Elf Cleric in Alderden
+- wavy black hair that's parted to the side, slightly obscuring an eye, Gray eyes, and Fair skin
+- Is Intrepid and Pedantic, and has Honor as their ideal
+
+### Organizations
+### Relationships
+[[Zylphan Molostroi]]: partymate
+[[Auzerais Venali]]: partymate
+### Stats
+```statblock
+name: Favroe Kythaela
+stats: [15, 10, 12, 15, 17, 14]
+```

@@ -1,39 +1,54 @@
 ---
 birthday:
-  numeric: 4/15
-  written: 15th of Iounent
-bond: I suffer awful visions of a coming disaster and will do anything to prevent
-  it.
-eyes: Violet Red
-flaw: I'll say anything to avoid having to do extra work.
-guild: Elkenval
-hair: curly black hair that's parted to the left
-ideal: Beauty
+  numeric: 7/28
+  written: 28th of Korent
+bond: The common folk must see me as a hero of the people.
+eyes: Pale Green
+flaw: I speak without really thinking through my words, invariably insulting others.
+guild: Treskal
+hair: curly strawberry blond hair that's parted to the side, slightly obscuring an
+  eye
+ideal: Conformity
 name: Theriss Deularla
 organizations: []
-partyID: 44
+partyID: 66
 race: Human
 relationships:
-- name: Eligio Nevarth
+- name: Turi Chandrelle
   type: partymate
-- name: Julyo Agassi
+- name: Ivistra Stockton
   type: partymate
-- name: Lucoe Lorelei
+- name: Marl Ahrendaaria
   type: partymate
-- name: Vaervenshalice Eloen
-  type: partymate
-skin: Dark Tan
-spec: Rouge
+skin: Dark Brown
+spec: Paladin
 stats:
-  cha: 13
-  con: 13
-  dex: 16
-  int: 15
-  str: 14
-  wis: 12
-track: Protection
-trait: Thinking is for other people. I prefer action.
-trait1: Impersonal
-trait2: Procrastinating
-year: 2
+  cha: 11
+  con: 16
+  dex: 6
+  int: 14
+  str: 15
+  wis: 9
+track: Diplomacy
+trait: I would rather make a new friend than a new enemy.
+trait1: Stubborn
+trait2: Chummy
+year: 4
 ---
+# Theriss Deularla
+---
+### Description
+- 4th year Human Paladin in Treskal
+- curly strawberry blond hair that's parted to the side, slightly obscuring an eye, Pale Green eyes, and Dark Brown skin
+- Is Stubborn and Chummy, and has Conformity as their ideal
+
+### Organizations
+### Relationships
+[[Turi Chandrelle]]: partymate
+[[Ivistra Stockton]]: partymate
+[[Marl Ahrendaaria]]: partymate
+### Stats
+```statblock
+name: Theriss Deularla
+stats: [15, 6, 16, 14, 9, 11]
+```

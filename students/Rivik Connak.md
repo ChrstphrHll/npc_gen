@@ -1,36 +1,54 @@
 ---
 birthday:
-  numeric: 4/16
-  written: 16th of Iounent
-bond: My isolation gave me great insight into a great evil that only I can destroy.
-eyes: Purple
-flaw: I'd risk too much to uncover a lost bit of knowledge.
-guild: Fiesn
-hair: wavy auburn hair that's braided with blue ribbon (med)
-ideal: Exceptionalism
+  numeric: 2/3
+  written: 3rd of Corelent
+bond: I'm loyal to my captain first, everything else second.
+eyes: Green
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+guild: Burk
+hair: wavy platinum hair that's parted to the left
+ideal: Goodness
 name: Rivik Connak
 organizations: []
-partyID: 4
-race: Half-Elf
+partyID: 45
+race: Half-Orc
 relationships:
-- name: Sammen Axilya
+- name: Jendrellian Webb
   type: partymate
-- name: Levy Maendellyn
+- name: Aelisabeth Soliania
   type: partymate
-- name: Braddeus Jacaranda
+- name: Eva Reluvethel
   type: partymate
-skin: Dark Tan
-spec: Sorcerer
+skin: Green Blue
+spec: Artificer
 stats:
-  cha: 15
-  con: 9
-  dex: 10
-  int: 9
-  str: 14
-  wis: 6
-track: Diplomacy
-trait: I like to squeeze into small places where no one else can get to me.
-trait1: Surprising
-trait2: Conforming
-year: 1
+  cha: 10
+  con: 10
+  dex: 11
+  int: 16
+  str: 11
+  wis: 13
+track: Assault
+trait: I know a story relevant to almost every situation.
+trait1: Conservative
+trait2: Unrealistic
+year: 4
 ---
+# Rivik Connak
+---
+### Description
+- 4th year Half-Orc Artificer in Burk
+- wavy platinum hair that's parted to the left, Green eyes, and Green Blue skin
+- Is Conservative and Unrealistic, and has Goodness as their ideal
+
+### Organizations
+### Relationships
+[[Jendrellian Webb]]: partymate
+[[Aelisabeth Soliania]]: partymate
+[[Eva Reluvethel]]: partymate
+### Stats
+```statblock
+name: Rivik Connak
+stats: [11, 11, 10, 16, 13, 10]
+```

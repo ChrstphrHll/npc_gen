@@ -1,39 +1,52 @@
 ---
 birthday:
-  numeric: 6/27
-  written: 27th of Korent
-bond: I have a family, but I have no idea where they are. One day, I hope to see them
-  again.
-eyes: Deep Blue
-flaw: I have a weakness for the vices of the city, especially hard drink.
-guild: Fiesn
-hair: curly brunette hair that's hanging down to their legs
-ideal: Pride
+  numeric: 4/2
+  written: 2nd of Moradent
+bond: I would do anything for the other members of my old troupe.
+eyes: Gray
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+guild: Jettenia
+hair: curly grey hair that's braided with green ribbon (long)
+ideal: Caring
 name: Gavyn Sadalymn
 organizations: []
-partyID: 23
-race: Elf
+partyID: 4
+race: Tiefling
 relationships:
-- name: Natylie Rathal
+- name: Milae Ditka
   type: partymate
-- name: Hazel Winters
+- name: Brynn Opalul
   type: partymate
-- name: Gina Grandius
-  type: partymate
-- name: Ian Averescu
-  type: partymate
-skin: Light Tan
-spec: Ranger
+skin: Olive
+spec: Sorcerer
 stats:
-  cha: 9
-  con: 14
-  dex: 15
-  int: 14
-  str: 12
-  wis: 8
-track: Diplomacy
-trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
-trait1: Faithful
-trait2: Gullible
+  cha: 17
+  con: 8
+  dex: 10
+  int: 10
+  str: 14
+  wis: 13
+track: Assault
+trait: I idolize a particular hero of my faith, and constantly refer to that person's
+  deeds and example.
+trait1: Natty
+trait2: Monstrous
 year: 1
 ---
+# Gavyn Sadalymn
+---
+### Description
+- 1st year Tiefling Sorcerer in Jettenia
+- curly grey hair that's braided with green ribbon (long), Gray eyes, and Olive skin
+- Is Natty and Monstrous, and has Caring as their ideal
+
+### Organizations
+### Relationships
+[[Milae Ditka]]: partymate
+[[Brynn Opalul]]: partymate
+### Stats
+```statblock
+name: Gavyn Sadalymn
+stats: [14, 10, 8, 10, 13, 17]
+```

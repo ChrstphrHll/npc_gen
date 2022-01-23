@@ -1,33 +1,49 @@
 ---
 birthday:
-  numeric: 5/27
-  written: 27th of Pelent
-bond: I wish my childhood sweetheart had come with me to pursue my destiny.
-eyes: Spring Green
-flaw: The tyrant who rules my land will stop at nothing to see me killed.
-guild: Elkenval
-hair: curly black hair that's braided with violet ribbon (long)
-ideal: Competition
+  numeric: 6/23
+  written: 23rd of Pelent
+bond: Nothing is more important than the other members of my family.
+eyes: Amber
+flaw: A scandal prevents me from ever going home again. That kind of trouble seems
+  to follow me around.
+guild: Treskal
+hair: straight lighter blonde hair that's a tousled bed head
+ideal: Stoicism
 name: Yakob Lydialeera
 organizations: []
-partyID: 18
-race: Firbolg
+partyID: 79
+race: Goliath
 relationships:
-- name: Elia Veluthil
+- name: Jaedyn Arbane
   type: partymate
-skin: Pale Brown
-spec: Fighter
+skin: Fair
+spec: Rouge
 stats:
-  cha: 9
-  con: 10
-  dex: 12
-  int: 10
-  str: 11
-  wis: 13
-track: Assault
-trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
-  bundle in my arms.
-trait1: Brave
-trait2: Abrasive
+  cha: 14
+  con: 12
+  dex: 16
+  int: 16
+  str: 8
+  wis: 9
+track: Protection
+trait: My eloquent flattery makes everyone I talk to feel like the most wonderful
+  and important person in the world.
+trait1: Selfless
+trait2: Conservative
 year: 8
 ---
+# Yakob Lydialeera
+---
+### Description
+- 8th year Goliath Rouge in Treskal
+- straight lighter blonde hair that's a tousled bed head, Amber eyes, and Fair skin
+- Is Selfless and Conservative, and has Stoicism as their ideal
+
+### Organizations
+### Relationships
+[[Jaedyn Arbane]]: partymate
+### Stats
+```statblock
+name: Yakob Lydialeera
+stats: [8, 16, 12, 16, 9, 14]
+```

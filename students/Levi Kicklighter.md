@@ -1,35 +1,51 @@
 ---
 birthday:
-  numeric: 3/1
-  written: 1st of Moradent
-bond: It is my duty to protect my students.
-eyes: Sea Green
-flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
-guild: Burk
-hair: curly auburn hair that's parted to the right
-ideal: Adventure
+  numeric: 6/24
+  written: 24th of Pelent
+bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
+  to see them again one day.
+eyes: Pale Brown
+flaw: I am inflexible in my thinking.
+guild: Fiesn
+hair: curly brunette hair that's loose around the shoulders
+ideal: Fame
 name: Levi Kicklighter
 organizations: []
-partyID: 75
+partyID: 14
 race: Aasimar
 relationships:
-- name: Rjanna Eroan
+- name: Ezekius Chalsarda
   type: partymate
-- name: Favroe Kythaela
+- name: Braddeus Jacaranda
   type: partymate
-skin: Tan
-spec: Bard
+skin: Light
+spec: Druid
 stats:
-  cha: 14
-  con: 8
-  dex: 13
-  int: 13
-  str: 10
-  wis: 13
-track: Protection
-trait: I have a strong sense of fair play and always try to find the most equitable
-  solution to arguments.
-trait1: Impersonal
-trait2: Opportunistic
-year: 5
+  cha: 12
+  con: 9
+  dex: 9
+  int: 14
+  str: 13
+  wis: 14
+track: Exploration
+trait: I'm rude to people who lack my commitment to hard work and fair play.
+trait1: Unhurried
+trait2: Irascible
+year: 4
 ---
+# Levi Kicklighter
+---
+### Description
+- 4th year Aasimar Druid in Fiesn
+- curly brunette hair that's loose around the shoulders, Pale Brown eyes, and Light skin
+- Is Unhurried and Irascible, and has Fame as their ideal
+
+### Organizations
+### Relationships
+[[Ezekius Chalsarda]]: partymate
+[[Braddeus Jacaranda]]: partymate
+### Stats
+```statblock
+name: Levi Kicklighter
+stats: [13, 9, 9, 14, 14, 12]
+```

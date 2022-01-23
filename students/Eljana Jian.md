@@ -1,35 +1,55 @@
 ---
 birthday:
-  numeric: 7/5
-  written: 5th of Ravenent
-bond: I entered seclusion because I loved someone I could not have.
-eyes: Sea Green
-flaw: The people who knew me when I was young know my shameful secret, so I can never
-  go home again.
+  numeric: 2/9
+  written: 9th of Corelent
+bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
+  eludes me.
+eyes: Green
+flaw: I have a weakness for the new intoxicants and other pleasures of this land.
 guild: Treskal
-hair: wavy dirty blonde hair that's put up in a large bun
-ideal: Knowledge
+hair: straight strawberry blond hair that's parted to the left
+ideal: Invention
 name: Eljana Jian
 organizations: []
-partyID: 45
-race: Dwarf
+partyID: 34
+race: Human
 relationships:
-- name: Kunjal Iefyr
+- name: Valygar Lyklor
   type: partymate
-- name: Eadyth Lora
+- name: Iamus Aneirin
   type: partymate
-skin: Tan
-spec: Bard
+- name: Natylie Rathal
+  type: partymate
+skin: Pale
+spec: Sorcerer
 stats:
-  cha: 16
-  con: 9
-  dex: 14
-  int: 14
-  str: 11
-  wis: 15
-track: Assault
-trait: My favor, once lost, is lost forever.
-trait1: Self-denying
-trait2: Angry
-year: 3
+  cha: 18
+  con: 16
+  dex: 13
+  int: 15
+  str: 14
+  wis: 10
+track: Diplomacy
+trait: I've been isolated for so long that I rarely speak, preferring gestures and
+  the occasional grunt.
+trait1: Suave
+trait2: Impersonal
+year: 5
 ---
+# Eljana Jian
+---
+### Description
+- 5th year Human Sorcerer in Treskal
+- straight strawberry blond hair that's parted to the left, Green eyes, and Pale skin
+- Is Suave and Impersonal, and has Invention as their ideal
+
+### Organizations
+### Relationships
+[[Valygar Lyklor]]: partymate
+[[Iamus Aneirin]]: partymate
+[[Natylie Rathal]]: partymate
+### Stats
+```statblock
+name: Eljana Jian
+stats: [14, 13, 16, 15, 10, 18]
+```

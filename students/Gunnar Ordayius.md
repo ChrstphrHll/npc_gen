@@ -1,39 +1,49 @@
 ---
 birthday:
-  numeric: 0/27
-  written: 27th of Avanent
-bond: The common folk must see me as a hero of the people.
-eyes: Violet Red
-flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
-  own hide if the going gets tough.
-guild: Treskal
-hair: straight black hair that's parted to the right
-ideal: Order
+  numeric: 8/26
+  written: 26th of Ravenent
+bond: I swindled and ruined a person who didn't deserve it. I seek to atone for my
+  misdeeds but might never be able to forgive myself.
+eyes: Pale Gray
+flaw: I can't keep a secret to save my life, or anyone else's.
+guild: Jettenia
+hair: curly grey hair that's put back in a short pony tail
+ideal: Adventure
 name: Gunnar Ordayius
 organizations: []
-partyID: 38
-race: Elf
+partyID: 28
+race: Dwarf
 relationships:
-- name: Adresin Ilbryn
+- name: Rianna Belt
   type: partymate
-- name: Themistoklea Nevarth
-  type: partymate
-- name: Branus Shadegrove
-  type: partymate
-- name: Saleas Rilitar
-  type: partymate
-skin: Brown
-spec: Monk
+skin: Tan
+spec: Fighter
 stats:
-  cha: 8
-  con: 9
-  dex: 12
-  int: 6
+  cha: 15
+  con: 13
+  dex: 17
+  int: 15
   str: 11
-  wis: 11
+  wis: 15
 track: Protection
-trait: I watch over my friends as if they were a litter of newborn pups.
-trait1: Righteous
-trait2: Prim
+trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
+  living grates on me.
+trait1: Resilient
+trait2: Greedy
 year: 2
 ---
+# Gunnar Ordayius
+---
+### Description
+- 2nd year Dwarf Fighter in Jettenia
+- curly grey hair that's put back in a short pony tail, Pale Gray eyes, and Tan skin
+- Is Resilient and Greedy, and has Adventure as their ideal
+
+### Organizations
+### Relationships
+[[Rianna Belt]]: partymate
+### Stats
+```statblock
+name: Gunnar Ordayius
+stats: [11, 17, 13, 15, 15, 15]
+```

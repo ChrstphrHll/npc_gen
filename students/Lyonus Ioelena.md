@@ -1,38 +1,54 @@
 ---
 birthday:
-  numeric: 2/5
-  written: 5th of Melorent
-bond: I sponsor an orphanage to keep others from enduring what I was forced to endure.
-eyes: Aqua
+  numeric: 4/1
+  written: 1st of Moradent
+bond: The gods of my people are a comfort to me so far from home.
+eyes: Blue
 flaw: Gold seems like a lot of money to me, and I'll do just about anything for more
   of it.
-guild: Treskal
-hair: straight dirty blonde hair that's braided with violet ribbon (med)
-ideal: Anti-Authority
+guild: Elkenval
+hair: straight strawberry blond hair that's parted to the left
+ideal: Redemption
 name: Lyonus Ioelena
 organizations: []
-partyID: 24
-race: Genasi
+partyID: 58
+race: Tiefling
 relationships:
-- name: Rossan Jonik
+- name: Wulfe Fulcrux
   type: partymate
-- name: Abryia Rubrae
+- name: Diegon Verrona
   type: partymate
-- name: Gerrimar Vulkor
+- name: Scarlotta Inqoul
   type: partymate
-skin: earth
-spec: Ranger
+skin: Spring Green
+spec: Cleric
 stats:
-  cha: 13
-  con: 14
-  dex: 18
-  int: 8
-  str: 12
-  wis: 9
-track: Assault
-trait: I've read every book in the world's greatest libraries - or I like to boast
-  that I have.
-trait1: Strong-willed
-trait2: Facetious
-year: 4
+  cha: 12
+  con: 10
+  dex: 11
+  int: 9
+  str: 13
+  wis: 14
+track: Diplomacy
+trait: I watch over my friends as if they were a litter of newborn pups.
+trait1: Practical
+trait2: Weak
+year: 1
 ---
+# Lyonus Ioelena
+---
+### Description
+- 1st year Tiefling Cleric in Elkenval
+- straight strawberry blond hair that's parted to the left, Blue eyes, and Spring Green skin
+- Is Practical and Weak, and has Redemption as their ideal
+
+### Organizations
+### Relationships
+[[Wulfe Fulcrux]]: partymate
+[[Diegon Verrona]]: partymate
+[[Scarlotta Inqoul]]: partymate
+### Stats
+```statblock
+name: Lyonus Ioelena
+stats: [13, 11, 10, 9, 14, 12]
+```

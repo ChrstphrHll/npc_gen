@@ -1,35 +1,51 @@
 ---
 birthday:
-  numeric: 6/4
-  written: 4th of Korent
-bond: I swindled and ruined a person who didn't deserve it. I seek to atone for my
-  misdeeds but might never be able to forgive myself.
-eyes: Brown
-flaw: I'd risk too much to uncover a lost bit of knowledge.
+  numeric: 5/22
+  written: 22nd of Iounent
+bond: My tools are symbols of my past life, and I carry them so that I will never
+  forget my roots.
+eyes: Pale Brown
+flaw: I put too much trust in those who wield power within my temple's hierarchy.
 guild: Alderden
-hair: wavy white hair that's loose around the shoulders
-ideal: Wisdom
+hair: straight strawberry blond hair that's braided with turquoise ribbon (long)
+ideal: Fun
 name: Verssek Nese
 organizations: []
-partyID: 70
-race: Halfling
+partyID: 87
+race: Half-Elf
 relationships:
-- name: Andrey Rauthomyr
+- name: Giacomo Edraele
   type: partymate
-- name: Lynx Galather
+- name: Myddin Hastos
   type: partymate
-skin: Light
-spec: Druid
+skin: Tan
+spec: Cleric
 stats:
-  cha: 15
-  con: 14
+  cha: 8
+  con: 10
   dex: 12
-  int: 12
-  str: 17
-  wis: 18
-track: Protection
-trait: I have a strong code of honor or sense of propriety that others don't comprehend.
-trait1: Youthful
-trait2: Misguided
-year: 1
+  int: 5
+  str: 13
+  wis: 15
+track: Exploration
+trait: I was, in fact, raised by wolves.
+trait1: Ordinary
+trait2: Scruffy
+year: 5
 ---
+# Verssek Nese
+---
+### Description
+- 5th year Half-Elf Cleric in Alderden
+- straight strawberry blond hair that's braided with turquoise ribbon (long), Pale Brown eyes, and Tan skin
+- Is Ordinary and Scruffy, and has Fun as their ideal
+
+### Organizations
+### Relationships
+[[Giacomo Edraele]]: partymate
+[[Myddin Hastos]]: partymate
+### Stats
+```statblock
+name: Verssek Nese
+stats: [13, 12, 10, 5, 15, 8]
+```

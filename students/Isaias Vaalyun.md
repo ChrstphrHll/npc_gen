@@ -1,36 +1,51 @@
 ---
 birthday:
-  numeric: 4/16
-  written: 16th of Iounent
-bond: My honor is my life.
-eyes: Emerald Green
-flaw: I have a weakness for the vices of the city, especially hard drink.
-guild: Jettenia
-hair: straight brunette hair that's put up in a large bun
-ideal: Invention
+  numeric: 8/18
+  written: 18th of Ravenent
+bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, and
+  left me to die. Vengeance will be mine.
+eyes: Pale Gray
+flaw: I'll do anything to win fame and renown.
+guild: Alderden
+hair: wavy lighter blonde hair that's loose around the shoulders
+ideal: Harmony
 name: Isaias Vaalyun
 organizations: []
-partyID: 27
+partyID: 21
 race: Half-Orc
 relationships:
-- name: Alys Ylyndar
+- name: Corliss Akkar
   type: partymate
-- name: Taewen Llamryl
+- name: Aurikallos Biafyndar
   type: partymate
-- name: Es'beth Yesheln
-  type: partymate
-skin: Pale Gray
-spec: Fighter
+skin: Pale Green
+spec: Monk
 stats:
-  cha: 8
-  con: 8
-  dex: 11
-  int: 15
-  str: 12
-  wis: 7
+  cha: 13
+  con: 11
+  dex: 18
+  int: 12
+  str: 8
+  wis: 11
 track: Diplomacy
-trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
-trait1: Realistic
-trait2: Superficial
-year: 4
+trait: I'm full of witty aphorisms and have a proverb for every occasion.
+trait1: Preoccupied
+trait2: High-handed
+year: 3
 ---
+# Isaias Vaalyun
+---
+### Description
+- 3rd year Half-Orc Monk in Alderden
+- wavy lighter blonde hair that's loose around the shoulders, Pale Gray eyes, and Pale Green skin
+- Is Preoccupied and High-handed, and has Harmony as their ideal
+
+### Organizations
+### Relationships
+[[Corliss Akkar]]: partymate
+[[Aurikallos Biafyndar]]: partymate
+### Stats
+```statblock
+name: Isaias Vaalyun
+stats: [8, 18, 11, 12, 11, 13]
+```

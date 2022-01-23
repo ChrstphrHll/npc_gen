@@ -1,39 +1,50 @@
 ---
 birthday:
-  numeric: 0/32
+  numeric: 1/32
   written: 32nd of Avanent
-bond: The workshop where I learned my trade is the most important place in the world
-  to me.
-eyes: Sea Green
-flaw: I am suspicious of strangers and expect the worst of them.
-guild: Elkenval
-hair: straight red hair that's put up in a large bun
-ideal: Ambition
+bond: It is my duty to protect my students.
+eyes: Hazel
+flaw: I'm convinced that no one could ever fool me the way I fool others.
+guild: Alderden
+hair: frizzy brunette hair that's put up in a large bun
+ideal: Cruelty
 name: Genesys Mhaenal
 organizations: []
-partyID: 8
-race: Halfling
+partyID: 72
+race: Half-Orc
 relationships:
-- name: Adamos Taehr
+- name: Holys Hachaam
   type: partymate
-- name: Nebulon Faelyn
+- name: Leah Faelar
   type: partymate
-- name: Garan Mirthal
-  type: partymate
-- name: Brahm Delmuth
-  type: partymate
-skin: Dark Brown
-spec: Druid
+skin: Pale Green
+spec: Wizard
 stats:
-  cha: 14
-  con: 13
-  dex: 13
-  int: 10
-  str: 11
-  wis: 14
-track: Protection
-trait: I like a job well done, especially if I can convince someone else to do it.
-trait1: Patriotic
-trait2: Disconcerting
-year: 2
+  cha: 12
+  con: 14
+  dex: 10
+  int: 16
+  str: 14
+  wis: 13
+track: Diplomacy
+trait: I enjoy being strong and like breaking things.
+trait1: Punctual
+trait2: Breezy
+year: 1
 ---
+# Genesys Mhaenal
+---
+### Description
+- 1st year Half-Orc Wizard in Alderden
+- frizzy brunette hair that's put up in a large bun, Hazel eyes, and Pale Green skin
+- Is Punctual and Breezy, and has Cruelty as their ideal
+
+### Organizations
+### Relationships
+[[Holys Hachaam]]: partymate
+[[Leah Faelar]]: partymate
+### Stats
+```statblock
+name: Genesys Mhaenal
+stats: [14, 10, 14, 16, 13, 12]
+```
