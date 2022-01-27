@@ -3,6 +3,7 @@ import roll_tables.look_tables as look_gen
 import roll_tables.personality_tables as person_gen
 import roll_tables.race_tables as race_gen
 import roll_tables.birthday_tables as bday_gen
+import roll_tables.origin_tables as ori_gen
 
 import yaml
 
@@ -42,6 +43,10 @@ class Person:
         #Generate Birthday
         if not self.set_if_preset("birthday", presets):
             self.birthday = bday_gen.get_bday()
+
+        #Generate Origin
+        if not self.set_if_preset("origin", presets):
+            self.origin = ori_gen(self.race)
 
         #Initialize placeholders
         if not self.set_if_preset("relationships", presets):

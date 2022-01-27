@@ -1,33 +1,38 @@
-
 nations = {
     "Aldercrown Empire": {
-        "population" : 1
+        "population" : 75000
     },
     "Beleriand": {
-        "population" : 1
+        "population" : 50000
     },
     "Principality of the Palus Peoples": {
-        "population" : 1
+        "population" : 30000
     },
     "Shadesburry Initiative": {
-        "population" : 1
+        "population" : 25000
     },
     "Magmus Centerhold": {
-        "population" : 1
+        "population" : 60000
     },
     "Qualnis": {
-        "population" : 1
+        "population" : 50000
     },
     "Verdain": {
-        "population" : 1
+        "population" : 30000
     },
     "Chilliwld Peaks": {
-        "population" : 1
+        "population" : 10000
     },
     "Kordinia": {
-        "population" : 1
+        "population" : 20000
     }
 }
 
 def get_nations():
     return list(nations.keys())
+
+def get_nation_populations():
+    populations = []
+    for nation in nations.values():
+        populations.append(nation["population"])
+    return populations
