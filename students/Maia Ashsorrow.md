@@ -31,6 +31,12 @@ stats:
 year: 1
 guild: Treskal
 partyID: 78
+tags:
+- Halfling
+- Rouge
+- Assault
+- 1st
+- Treskal
 ---
 # Maia Ashsorrow
 ---

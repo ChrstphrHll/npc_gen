@@ -2,7 +2,7 @@
 name: Hazel Winters
 race: Firbolg
 hair: straight black hair that's put back in a short pony tail
-eyes: Pale Green
+eyes: Hazel
 skin: Pale Green
 ideal: Entrepreneurial
 trait1: Political
@@ -32,12 +32,18 @@ stats:
 year: 4
 guild: Burk
 partyID: 75
+tags:
+- Firbolg
+- Monk
+- Protection
+- 4th
+- Burk
 ---
 # Hazel Winters
 ---
 ### Description
 - 4th year Firbolg Monk in Burk
-- straight black hair that's put back in a short pony tail, Pale Green eyes, and Pale Green skin
+- straight black hair that's put back in a short pony tail, Hazel eyes, and Pale Green skin
 - Is Political and Stupid, and has Entrepreneurial as their ideal
 
 ### Organizations

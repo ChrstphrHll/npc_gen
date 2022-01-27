@@ -2,7 +2,7 @@
 name: Levio Evindal
 race: Half-Orc
 hair: straight black hair that's geled back
-eyes: Pale Blue
+eyes: Pale Green
 skin: Pale Gray
 ideal: Intelligence
 trait1: Sensual
@@ -35,12 +35,18 @@ stats:
 year: 2
 guild: Elkenval
 partyID: 22
+tags:
+- Half-Orc
+- Artificer
+- Protection
+- 2nd
+- Elkenval
 ---
 # Levio Evindal
 ---
 ### Description
 - 2nd year Half-Orc Artificer in Elkenval
-- straight black hair that's geled back, Pale Blue eyes, and Pale Gray skin
+- straight black hair that's geled back, Pale Green eyes, and Pale Gray skin
 - Is Sensual and Ignorant, and has Intelligence as their ideal
 
 ### Organizations

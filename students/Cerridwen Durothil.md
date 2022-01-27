@@ -2,7 +2,7 @@
 name: Cerridwen Durothil
 race: Half-Elf
 hair: straight white hair that's loose around the shoulders
-eyes: Blue
+eyes: Pale Gray
 skin: Light
 ideal: Competition
 trait1: Gritty
@@ -33,12 +33,18 @@ stats:
 year: 5
 guild: Treskal
 partyID: 63
+tags:
+- Half-Elf
+- Ranger
+- Exploration
+- 5th
+- Treskal
 ---
 # Cerridwen Durothil
 ---
 ### Description
 - 5th year Half-Elf Ranger in Treskal
-- straight white hair that's loose around the shoulders, Blue eyes, and Light skin
+- straight white hair that's loose around the shoulders, Pale Gray eyes, and Light skin
 - Is Gritty and Outspoken, and has Competition as their ideal
 
 ### Organizations

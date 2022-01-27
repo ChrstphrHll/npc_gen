@@ -2,7 +2,7 @@
 name: Puorlaas Anklos
 race: Tiefling
 hair: wavy dark red hair that's put back in a short pony tail
-eyes: Amber
+eyes: Red
 skin: Sea Green
 ideal: Freedom
 trait1: Popular
@@ -30,12 +30,18 @@ stats:
 year: 2
 guild: Jettenia
 partyID: 12
+tags:
+- Tiefling
+- Wizard
+- Protection
+- 2nd
+- Jettenia
 ---
 # Puorlaas Anklos
 ---
 ### Description
 - 2nd year Tiefling Wizard in Jettenia
-- wavy dark red hair that's put back in a short pony tail, Amber eyes, and Sea Green skin
+- wavy dark red hair that's put back in a short pony tail, Red eyes, and Sea Green skin
 - Is Popular and Reactive, and has Freedom as their ideal
 
 ### Organizations

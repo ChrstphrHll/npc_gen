@@ -2,7 +2,7 @@
 name: Meira Nuvian
 race: Half-Elf
 hair: straight lighter blonde hair that's put back in a long pony tail
-eyes: Pale Gray
+eyes: Gray
 skin: Dark Tan
 ideal: Compassion
 trait1: Well-bred
@@ -31,12 +31,18 @@ stats:
 year: 3
 guild: Burk
 partyID: 5
+tags:
+- Half-Elf
+- Ranger
+- Assault
+- 3rd
+- Burk
 ---
 # Meira Nuvian
 ---
 ### Description
 - 3rd year Half-Elf Ranger in Burk
-- straight lighter blonde hair that's put back in a long pony tail, Pale Gray eyes, and Dark Tan skin
+- straight lighter blonde hair that's put back in a long pony tail, Gray eyes, and Dark Tan skin
 - Is Well-bred and Disconcerting, and has Compassion as their ideal
 
 ### Organizations

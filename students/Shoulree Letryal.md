@@ -2,7 +2,7 @@
 name: Shoulree Letryal
 race: Tiefling
 hair: wavy violet hair that's parted to the side, slightly obscuring an eye
-eyes: Amber
+eyes: Emerald Green
 skin: Olive
 ideal: Self-Fulfillment
 trait1: Insistent
@@ -33,12 +33,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 88
+tags:
+- Tiefling
+- Monk
+- Diplomacy
+- 1st
+- Elkenval
 ---
 # Shoulree Letryal
 ---
 ### Description
 - 1st year Tiefling Monk in Elkenval
-- wavy violet hair that's parted to the side, slightly obscuring an eye, Amber eyes, and Olive skin
+- wavy violet hair that's parted to the side, slightly obscuring an eye, Emerald Green eyes, and Olive skin
 - Is Insistent and Solemn, and has Self-Fulfillment as their ideal
 
 ### Organizations

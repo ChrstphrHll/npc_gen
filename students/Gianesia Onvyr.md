@@ -2,7 +2,7 @@
 name: Gianesia Onvyr
 race: Dwarf
 hair: straight blonde hair that's loose around the shoulders
-eyes: Amber
+eyes: Blue
 skin: Light
 ideal: Competition
 trait1: Humorous
@@ -31,12 +31,18 @@ stats:
 year: 6
 guild: Burk
 partyID: 29
+tags:
+- Dwarf
+- Monk
+- Protection
+- 6th
+- Burk
 ---
 # Gianesia Onvyr
 ---
 ### Description
 - 6th year Dwarf Monk in Burk
-- straight blonde hair that's loose around the shoulders, Amber eyes, and Light skin
+- straight blonde hair that's loose around the shoulders, Blue eyes, and Light skin
 - Is Humorous and Opportunistic, and has Competition as their ideal
 
 ### Organizations

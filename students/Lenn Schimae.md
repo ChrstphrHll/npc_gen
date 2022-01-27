@@ -2,7 +2,7 @@
 name: Lenn Schimae
 race: Human
 hair: curly auburn hair that's put back in a long pony tail
-eyes: Pale Green
+eyes: Hazel
 skin: Dark Tan
 ideal: Creativity
 trait1: Inventive
@@ -33,12 +33,18 @@ stats:
 year: 6
 guild: Treskal
 partyID: 46
+tags:
+- Human
+- Barbarian
+- Assault
+- 6th
+- Treskal
 ---
 # Lenn Schimae
 ---
 ### Description
 - 6th year Human Barbarian in Treskal
-- curly auburn hair that's put back in a long pony tail, Pale Green eyes, and Dark Tan skin
+- curly auburn hair that's put back in a long pony tail, Hazel eyes, and Dark Tan skin
 - Is Inventive and Ignorant, and has Creativity as their ideal
 
 ### Organizations

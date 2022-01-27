@@ -2,7 +2,7 @@
 name: Hagar Sakrattars
 race: Tiefling
 hair: curly brunette hair that's kept back by a blue headband
-eyes: Pale Gray
+eyes: Blue
 skin: Pale Yellow
 ideal: Competition
 trait1: Conforming
@@ -33,12 +33,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 86
+tags:
+- Tiefling
+- Cleric
+- Protection
+- 2nd
+- Burk
 ---
 # Hagar Sakrattars
 ---
 ### Description
 - 2nd year Tiefling Cleric in Burk
-- curly brunette hair that's kept back by a blue headband, Pale Gray eyes, and Pale Yellow skin
+- curly brunette hair that's kept back by a blue headband, Blue eyes, and Pale Yellow skin
 - Is Conforming and Criminal, and has Competition as their ideal
 
 ### Organizations

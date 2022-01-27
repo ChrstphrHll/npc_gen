@@ -2,7 +2,7 @@
 name: Matrell Halafarin
 race: Aasimar
 hair: wavy blonde hair that's hanging down to their back
-eyes: Green
+eyes: Pale Gray
 skin: Dark Brown
 ideal: Abundance
 trait1: Mischievous
@@ -34,12 +34,18 @@ stats:
 year: 2
 guild: Treskal
 partyID: 3
+tags:
+- Aasimar
+- Artificer
+- Assault
+- 2nd
+- Treskal
 ---
 # Matrell Halafarin
 ---
 ### Description
 - 2nd year Aasimar Artificer in Treskal
-- wavy blonde hair that's hanging down to their back, Green eyes, and Dark Brown skin
+- wavy blonde hair that's hanging down to their back, Pale Gray eyes, and Dark Brown skin
 - Is Mischievous and Repentant, and has Abundance as their ideal
 
 ### Organizations

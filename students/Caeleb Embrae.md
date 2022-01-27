@@ -2,7 +2,7 @@
 name: Caeleb Embrae
 race: Tiefling
 hair: straight blue hair that's geled back
-eyes: Pale Gray
+eyes: Aqua
 skin: Deep Blue
 ideal: Invention
 trait1: Skillful
@@ -32,12 +32,18 @@ stats:
 year: 2
 guild: Fiesn
 partyID: 54
+tags:
+- Tiefling
+- Bard
+- Assault
+- 2nd
+- Fiesn
 ---
 # Caeleb Embrae
 ---
 ### Description
 - 2nd year Tiefling Bard in Fiesn
-- straight blue hair that's geled back, Pale Gray eyes, and Deep Blue skin
+- straight blue hair that's geled back, Aqua eyes, and Deep Blue skin
 - Is Skillful and Libidinous, and has Invention as their ideal
 
 ### Organizations

@@ -33,6 +33,12 @@ stats:
 year: 2
 guild: Fiesn
 partyID: 54
+tags:
+- Human
+- Wizard
+- Assault
+- 2nd
+- Fiesn
 ---
 # Eva Reluvethel
 ---

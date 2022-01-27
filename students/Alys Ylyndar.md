@@ -2,7 +2,7 @@
 name: Alys Ylyndar
 race: Human
 hair: straight auburn hair that's braided with violet ribbon (med)
-eyes: Pale Blue
+eyes: Blue
 skin: Fair
 ideal: Contributing
 trait1: Contented
@@ -31,12 +31,18 @@ stats:
 year: 3
 guild: Burk
 partyID: 39
+tags:
+- Human
+- Monk
+- Diplomacy
+- 3rd
+- Burk
 ---
 # Alys Ylyndar
 ---
 ### Description
 - 3rd year Human Monk in Burk
-- straight auburn hair that's braided with violet ribbon (med), Pale Blue eyes, and Fair skin
+- straight auburn hair that's braided with violet ribbon (med), Blue eyes, and Fair skin
 - Is Contented and Licentious, and has Contributing as their ideal
 
 ### Organizations

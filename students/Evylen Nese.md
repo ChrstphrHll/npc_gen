@@ -2,7 +2,7 @@
 name: Evylen Nese
 race: Gnome
 hair: curly platinum hair that's parted to the right
-eyes: Green
+eyes: Hazel
 skin: Dark Brown
 ideal: Perseverance
 trait1: Effeminate
@@ -35,12 +35,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 69
+tags:
+- Gnome
+- Rouge
+- Protection
+- 1st
+- Treskal
 ---
 # Evylen Nese
 ---
 ### Description
 - 1st year Gnome Rouge in Treskal
-- curly platinum hair that's parted to the right, Green eyes, and Dark Brown skin
+- curly platinum hair that's parted to the right, Hazel eyes, and Dark Brown skin
 - Is Effeminate and Dominating, and has Perseverance as their ideal
 
 ### Organizations

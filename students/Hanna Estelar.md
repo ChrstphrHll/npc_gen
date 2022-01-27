@@ -2,7 +2,7 @@
 name: Hanna Estelar
 race: Human
 hair: curly strawberry blond hair that's put back in a short pony tail
-eyes: Green
+eyes: Pale Gray
 skin: Dark Tan
 ideal: Independence
 trait1: Responsive
@@ -34,12 +34,18 @@ stats:
 year: 3
 guild: Alderden
 partyID: 24
+tags:
+- Human
+- Bard
+- Diplomacy
+- 3rd
+- Alderden
 ---
 # Hanna Estelar
 ---
 ### Description
 - 3rd year Human Bard in Alderden
-- curly strawberry blond hair that's put back in a short pony tail, Green eyes, and Dark Tan skin
+- curly strawberry blond hair that's put back in a short pony tail, Pale Gray eyes, and Dark Tan skin
 - Is Responsive and Unrestrained, and has Independence as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Allisa Iahalae
 race: Half-Elf
 hair: straight blonde hair that's put back in a long pony tail
-eyes: Blue
+eyes: Green
 skin: Tan
 ideal: Patience
 trait1: Considerate
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 2
+tags:
+- Half-Elf
+- Sorcerer
+- Protection
+- 1st
+- Elkenval
 ---
 # Allisa Iahalae
 ---
 ### Description
 - 1st year Half-Elf Sorcerer in Elkenval
-- straight blonde hair that's put back in a long pony tail, Blue eyes, and Tan skin
+- straight blonde hair that's put back in a long pony tail, Green eyes, and Tan skin
 - Is Considerate and Delicate, and has Patience as their ideal
 
 ### Organizations

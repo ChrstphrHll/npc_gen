@@ -2,7 +2,7 @@
 name: Tilo Connak
 race: Tiefling
 hair: curly auburn hair that's loose around the shoulders
-eyes: Sea Green
+eyes: Pale Brown
 skin: Olive
 ideal: Humane
 trait1: Gritty
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 17
+tags:
+- Tiefling
+- Ranger
+- Diplomacy
+- 1st
+- Treskal
 ---
 # Tilo Connak
 ---
 ### Description
 - 1st year Tiefling Ranger in Treskal
-- curly auburn hair that's loose around the shoulders, Sea Green eyes, and Olive skin
+- curly auburn hair that's loose around the shoulders, Pale Brown eyes, and Olive skin
 - Is Gritty and Modern, and has Humane as their ideal
 
 ### Organizations

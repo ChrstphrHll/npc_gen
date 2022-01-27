@@ -2,7 +2,7 @@
 name: Brynn Opalul
 race: Tiefling
 hair: wavy dark red hair that's loose around the shoulders
-eyes: Amber
+eyes: Red
 skin: Pale Yellow
 ideal: Charisma
 trait1: Devoted
@@ -31,12 +31,18 @@ stats:
 year: 3
 guild: Burk
 partyID: 39
+tags:
+- Tiefling
+- Paladin
+- Exploration
+- 3rd
+- Burk
 ---
 # Brynn Opalul
 ---
 ### Description
 - 3rd year Tiefling Paladin in Burk
-- wavy dark red hair that's loose around the shoulders, Amber eyes, and Pale Yellow skin
+- wavy dark red hair that's loose around the shoulders, Red eyes, and Pale Yellow skin
 - Is Devoted and Odd, and has Charisma as their ideal
 
 ### Organizations

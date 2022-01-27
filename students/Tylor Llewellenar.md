@@ -2,7 +2,7 @@
 name: Tylor Llewellenar
 race: Warforged
 hair: smooth brass guilded with garnet
-eyes: Spring Green
+eyes: Amber
 skin: gold
 ideal: Abundance
 trait1: Disciplined
@@ -32,12 +32,18 @@ stats:
 year: 6
 guild: Fiesn
 partyID: 42
+tags:
+- Warforged
+- Sorcerer
+- Assault
+- 6th
+- Fiesn
 ---
 # Tylor Llewellenar
 ---
 ### Description
 - 6th year Warforged Sorcerer in Fiesn
-- smooth brass guilded with garnet, Spring Green eyes, and gold skin
+- smooth brass guilded with garnet, Amber eyes, and gold skin
 - Is Disciplined and Naive, and has Abundance as their ideal
 
 ### Organizations

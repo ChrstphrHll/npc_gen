@@ -2,7 +2,7 @@
 name: Tommos Morgan
 race: Elf
 hair: curly auburn hair that's parted to the left
-eyes: Pale Blue
+eyes: Hazel
 skin: Dark Brown
 ideal: Commonality
 trait1: Undemanding
@@ -31,12 +31,18 @@ stats:
 year: 5
 guild: Alderden
 partyID: 11
+tags:
+- Elf
+- Sorcerer
+- Exploration
+- 5th
+- Alderden
 ---
 # Tommos Morgan
 ---
 ### Description
 - 5th year Elf Sorcerer in Alderden
-- curly auburn hair that's parted to the left, Pale Blue eyes, and Dark Brown skin
+- curly auburn hair that's parted to the left, Hazel eyes, and Dark Brown skin
 - Is Undemanding and Tough, and has Commonality as their ideal
 
 ### Organizations

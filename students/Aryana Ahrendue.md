@@ -2,7 +2,7 @@
 name: Aryana Ahrendue
 race: Dragonborn
 hair: long spines
-eyes: Hazel
+eyes: Brown
 skin: white
 ideal: Connection
 trait1: Youthful
@@ -33,12 +33,18 @@ stats:
 year: 1
 guild: Alderden
 partyID: 56
+tags:
+- Dragonborn
+- Barbarian
+- Protection
+- 1st
+- Alderden
 ---
 # Aryana Ahrendue
 ---
 ### Description
 - 1st year Dragonborn Barbarian in Alderden
-- long spines, Hazel eyes, and white skin
+- long spines, Brown eyes, and white skin
 - Is Youthful and Money-minded, and has Connection as their ideal
 
 ### Organizations

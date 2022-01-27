@@ -2,7 +2,7 @@
 name: Gorlas Vhoadan
 race: Gnome
 hair: frizzy platinum hair that's a tousled bed head
-eyes: Green
+eyes: Pale Gray
 skin: Fair
 ideal: Conformity
 trait1: Placid
@@ -30,12 +30,18 @@ stats:
 year: 2
 guild: Elkenval
 partyID: 50
+tags:
+- Gnome
+- Barbarian
+- Exploration
+- 2nd
+- Elkenval
 ---
 # Gorlas Vhoadan
 ---
 ### Description
 - 2nd year Gnome Barbarian in Elkenval
-- frizzy platinum hair that's a tousled bed head, Green eyes, and Fair skin
+- frizzy platinum hair that's a tousled bed head, Pale Gray eyes, and Fair skin
 - Is Placid and Animated, and has Conformity as their ideal
 
 ### Organizations

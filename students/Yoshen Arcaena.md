@@ -2,7 +2,7 @@
 name: Yoshen Arcaena
 race: Dragonborn
 hair: long spines
-eyes: Hazel
+eyes: Yellow
 skin: black
 ideal: Malice
 trait1: Well-bred
@@ -34,12 +34,18 @@ stats:
 year: 2
 guild: Treskal
 partyID: 3
+tags:
+- Dragonborn
+- Ranger
+- Exploration
+- 2nd
+- Treskal
 ---
 # Yoshen Arcaena
 ---
 ### Description
 - 2nd year Dragonborn Ranger in Treskal
-- long spines, Hazel eyes, and black skin
+- long spines, Yellow eyes, and black skin
 - Is Well-bred and Superstitious, and has Malice as their ideal
 
 ### Organizations

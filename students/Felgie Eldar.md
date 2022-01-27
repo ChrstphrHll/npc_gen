@@ -2,7 +2,7 @@
 name: Felgie Eldar
 race: Goliath
 hair: wavy dirty blonde hair that's put back in a long pony tail
-eyes: Amber
+eyes: Hazel
 skin: Light Tan
 ideal: Spiritualism
 trait1: Dreamer
@@ -34,12 +34,18 @@ stats:
 year: 2
 guild: Fiesn
 partyID: 60
+tags:
+- Goliath
+- Druid
+- Protection
+- 2nd
+- Fiesn
 ---
 # Felgie Eldar
 ---
 ### Description
 - 2nd year Goliath Druid in Fiesn
-- wavy dirty blonde hair that's put back in a long pony tail, Amber eyes, and Light Tan skin
+- wavy dirty blonde hair that's put back in a long pony tail, Hazel eyes, and Light Tan skin
 - Is Dreamer and Profligate, and has Spiritualism as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Nebulon Faelyn
 race: Gnome
 hair: wavy brunette hair that's loose around the shoulders
-eyes: Amber
+eyes: Green
 skin: Pale
 ideal: People
 trait1: Impassive
@@ -31,12 +31,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 74
+tags:
+- Gnome
+- Ranger
+- Assault
+- 1st
+- Treskal
 ---
 # Nebulon Faelyn
 ---
 ### Description
 - 1st year Gnome Ranger in Treskal
-- wavy brunette hair that's loose around the shoulders, Amber eyes, and Pale skin
+- wavy brunette hair that's loose around the shoulders, Green eyes, and Pale skin
 - Is Impassive and Contradictory, and has People as their ideal
 
 ### Organizations

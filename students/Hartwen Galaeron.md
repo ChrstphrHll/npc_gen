@@ -2,7 +2,7 @@
 name: Hartwen Galaeron
 race: Human
 hair: wavy auburn hair that's geled back
-eyes: Gray
+eyes: Pale Blue
 skin: Fair
 ideal: Involvement
 trait1: Plain
@@ -30,12 +30,18 @@ stats:
 year: 2
 guild: Alderden
 partyID: 52
+tags:
+- Human
+- Cleric
+- Diplomacy
+- 2nd
+- Alderden
 ---
 # Hartwen Galaeron
 ---
 ### Description
 - 2nd year Human Cleric in Alderden
-- wavy auburn hair that's geled back, Gray eyes, and Fair skin
+- wavy auburn hair that's geled back, Pale Blue eyes, and Fair skin
 - Is Plain and Childish, and has Involvement as their ideal
 
 ### Organizations

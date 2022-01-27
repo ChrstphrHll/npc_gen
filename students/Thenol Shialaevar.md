@@ -2,7 +2,7 @@
 name: Thenol Shialaevar
 race: Half-Orc
 hair: wavy lighter blonde hair that's geled back
-eyes: Green
+eyes: Brown
 skin: Pale Green
 ideal: Security
 trait1: Sensitive
@@ -31,12 +31,18 @@ stats:
 year: 6
 guild: Burk
 partyID: 1
+tags:
+- Half-Orc
+- Barbarian
+- Exploration
+- 6th
+- Burk
 ---
 # Thenol Shialaevar
 ---
 ### Description
 - 6th year Half-Orc Barbarian in Burk
-- wavy lighter blonde hair that's geled back, Green eyes, and Pale Green skin
+- wavy lighter blonde hair that's geled back, Brown eyes, and Pale Green skin
 - Is Sensitive and Indolent, and has Security as their ideal
 
 ### Organizations

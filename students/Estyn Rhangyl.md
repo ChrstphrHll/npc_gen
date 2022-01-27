@@ -2,7 +2,7 @@
 name: Estyn Rhangyl
 race: Dragonborn
 hair: frills
-eyes: Hazel
+eyes: Gray
 skin: blue
 ideal: Conformity
 trait1: Harmonious
@@ -35,12 +35,18 @@ stats:
 year: 4
 guild: Treskal
 partyID: 7
+tags:
+- Dragonborn
+- Artificer
+- Protection
+- 4th
+- Treskal
 ---
 # Estyn Rhangyl
 ---
 ### Description
 - 4th year Dragonborn Artificer in Treskal
-- frills, Hazel eyes, and blue skin
+- frills, Gray eyes, and blue skin
 - Is Harmonious and Talkative, and has Conformity as their ideal
 
 ### Organizations

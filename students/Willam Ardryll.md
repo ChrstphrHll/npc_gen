@@ -2,7 +2,7 @@
 name: Willam Ardryll
 race: Kenku
 hair: speckled
-eyes: Hazel
+eyes: Amber
 skin: Dark Blue
 ideal: Redemption
 trait1: Resourceful
@@ -35,12 +35,18 @@ stats:
 year: 2
 guild: Treskal
 partyID: 44
+tags:
+- Kenku
+- Wizard
+- Assault
+- 2nd
+- Treskal
 ---
 # Willam Ardryll
 ---
 ### Description
 - 2nd year Kenku Wizard in Treskal
-- speckled, Hazel eyes, and Dark Blue skin
+- speckled, Amber eyes, and Dark Blue skin
 - Is Resourceful and Arrogant, and has Redemption as their ideal
 
 ### Organizations

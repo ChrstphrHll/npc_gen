@@ -2,7 +2,7 @@
 name: Wulfe Fulcrux
 race: Firbolg
 hair: wavy platinum hair that's parted to the side, slightly obscuring an eye
-eyes: Pale Blue
+eyes: Hazel
 skin: Pale Brown
 ideal: Personal Development
 trait1: Courteous
@@ -29,12 +29,18 @@ stats:
 year: 8
 guild: Elkenval
 partyID: 92
+tags:
+- Firbolg
+- Wizard
+- Assault
+- 8th
+- Elkenval
 ---
 # Wulfe Fulcrux
 ---
 ### Description
 - 8th year Firbolg Wizard in Elkenval
-- wavy platinum hair that's parted to the side, slightly obscuring an eye, Pale Blue eyes, and Pale Brown skin
+- wavy platinum hair that's parted to the side, slightly obscuring an eye, Hazel eyes, and Pale Brown skin
 - Is Courteous and Deceptive, and has Personal Development as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Brannos Bellas
 race: Human
 hair: wavy auburn hair that's parted to the left
-eyes: Hazel
+eyes: Amber
 skin: Dark Brown
 ideal: Balance
 trait1: Progressive
@@ -31,12 +31,18 @@ stats:
 year: 6
 guild: Fiesn
 partyID: 42
+tags:
+- Human
+- Barbarian
+- Protection
+- 6th
+- Fiesn
 ---
 # Brannos Bellas
 ---
 ### Description
 - 6th year Human Barbarian in Fiesn
-- wavy auburn hair that's parted to the left, Hazel eyes, and Dark Brown skin
+- wavy auburn hair that's parted to the left, Amber eyes, and Dark Brown skin
 - Is Progressive and Opportunistic, and has Balance as their ideal
 
 ### Organizations

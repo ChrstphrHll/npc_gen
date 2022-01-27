@@ -2,7 +2,7 @@
 name: Braddeus Jacaranda
 race: Halfling
 hair: curly platinum hair that's kept back by a turquoise headband
-eyes: Pale Green
+eyes: Amber
 skin: Pale
 ideal: Appreciation
 trait1: Strong-willed
@@ -33,12 +33,18 @@ stats:
 year: 3
 guild: Fiesn
 partyID: 94
+tags:
+- Halfling
+- Paladin
+- Diplomacy
+- 3rd
+- Fiesn
 ---
 # Braddeus Jacaranda
 ---
 ### Description
 - 3rd year Halfling Paladin in Fiesn
-- curly platinum hair that's kept back by a turquoise headband, Pale Green eyes, and Pale skin
+- curly platinum hair that's kept back by a turquoise headband, Amber eyes, and Pale skin
 - Is Strong-willed and Pretentious, and has Appreciation as their ideal
 
 ### Organizations

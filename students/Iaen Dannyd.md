@@ -2,7 +2,7 @@
 name: Iaen Dannyd
 race: Dragonborn
 hair: many straight horns
-eyes: Sea Green
+eyes: Deep Blue
 skin: copper
 ideal: Wellness
 trait1: Trusting
@@ -31,12 +31,18 @@ stats:
 year: 2
 guild: Fiesn
 partyID: 61
+tags:
+- Dragonborn
+- Rouge
+- Protection
+- 2nd
+- Fiesn
 ---
 # Iaen Dannyd
 ---
 ### Description
 - 2nd year Dragonborn Rouge in Fiesn
-- many straight horns, Sea Green eyes, and copper skin
+- many straight horns, Deep Blue eyes, and copper skin
 - Is Trusting and Determined, and has Wellness as their ideal
 
 ### Organizations

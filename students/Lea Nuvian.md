@@ -2,7 +2,7 @@
 name: Lea Nuvian
 race: Triton
 hair: straight dark red hair that's hanging down to their legs
-eyes: Pale Brown
+eyes: Blue
 skin: Pale Blue
 ideal: Cruelty
 trait1: Ascetic
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Alderden
 partyID: 56
+tags:
+- Triton
+- Rouge
+- Protection
+- 1st
+- Alderden
 ---
 # Lea Nuvian
 ---
 ### Description
 - 1st year Triton Rouge in Alderden
-- straight dark red hair that's hanging down to their legs, Pale Brown eyes, and Pale Blue skin
+- straight dark red hair that's hanging down to their legs, Blue eyes, and Pale Blue skin
 - Is Ascetic and Disputatious, and has Cruelty as their ideal
 
 ### Organizations

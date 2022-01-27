@@ -2,7 +2,7 @@
 name: Kova Tamara
 race: Firbolg
 hair: straight black hair that's put up in a large bun
-eyes: Pale Gray
+eyes: Green
 skin: Pale Brown
 ideal: Competition
 trait1: Dynamic
@@ -36,12 +36,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 69
+tags:
+- Firbolg
+- Fighter
+- Assault
+- 1st
+- Treskal
 ---
 # Kova Tamara
 ---
 ### Description
 - 1st year Firbolg Fighter in Treskal
-- straight black hair that's put up in a large bun, Pale Gray eyes, and Pale Brown skin
+- straight black hair that's put up in a large bun, Green eyes, and Pale Brown skin
 - Is Dynamic and Modern, and has Competition as their ideal
 
 ### Organizations

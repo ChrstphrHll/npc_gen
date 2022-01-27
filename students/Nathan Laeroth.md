@@ -2,7 +2,7 @@
 name: Nathan Laeroth
 race: Gnome
 hair: frizzy auburn hair that's a tousled bed head
-eyes: Gray
+eyes: Blue
 skin: Pale
 ideal: Fun
 trait1: Sweet
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 64
+tags:
+- Gnome
+- Artificer
+- Diplomacy
+- 1st
+- Elkenval
 ---
 # Nathan Laeroth
 ---
 ### Description
 - 1st year Gnome Artificer in Elkenval
-- frizzy auburn hair that's a tousled bed head, Gray eyes, and Pale skin
+- frizzy auburn hair that's a tousled bed head, Blue eyes, and Pale skin
 - Is Sweet and Wicked, and has Fun as their ideal
 
 ### Organizations

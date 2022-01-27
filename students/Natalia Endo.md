@@ -30,6 +30,12 @@ stats:
 year: 3
 guild: Burk
 partyID: 83
+tags:
+- Halfling
+- Barbarian
+- Exploration
+- 3rd
+- Burk
 ---
 # Natalia Endo
 ---

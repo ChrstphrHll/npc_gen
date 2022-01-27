@@ -2,7 +2,7 @@
 name: Aryana Velethuil
 race: Kenku
 hair: speckled
-eyes: Pale Gray
+eyes: Pale Brown
 skin: Red
 ideal: Fun
 trait1: Clear-headed
@@ -31,12 +31,18 @@ stats:
 year: 4
 guild: Elkenval
 partyID: 32
+tags:
+- Kenku
+- Wizard
+- Diplomacy
+- 4th
+- Elkenval
 ---
 # Aryana Velethuil
 ---
 ### Description
 - 4th year Kenku Wizard in Elkenval
-- speckled, Pale Gray eyes, and Red skin
+- speckled, Pale Brown eyes, and Red skin
 - Is Clear-headed and Fawning, and has Fun as their ideal
 
 ### Organizations

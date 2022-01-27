@@ -2,7 +2,7 @@
 name: Juppar Kershaw
 race: Human
 hair: curly strawberry blond hair that's loose around the shoulders
-eyes: Pale Green
+eyes: Gray
 skin: Fair
 ideal: Charisma
 trait1: Playful
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Jettenia
 partyID: 66
+tags:
+- Human
+- Druid
+- Diplomacy
+- 1st
+- Jettenia
 ---
 # Juppar Kershaw
 ---
 ### Description
 - 1st year Human Druid in Jettenia
-- curly strawberry blond hair that's loose around the shoulders, Pale Green eyes, and Fair skin
+- curly strawberry blond hair that's loose around the shoulders, Gray eyes, and Fair skin
 - Is Playful and Fanciful, and has Charisma as their ideal
 
 ### Organizations

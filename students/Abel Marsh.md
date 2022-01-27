@@ -2,7 +2,7 @@
 name: Abel Marsh
 race: Warforged
 hair: smooth copper guilded with silver
-eyes: Pale Blue
+eyes: Yellow
 skin: silver
 ideal: Wealth
 trait1: Equitable
@@ -31,12 +31,18 @@ stats:
 year: 5
 guild: Fiesn
 partyID: 48
+tags:
+- Warforged
+- Paladin
+- Exploration
+- 5th
+- Fiesn
 ---
 # Abel Marsh
 ---
 ### Description
 - 5th year Warforged Paladin in Fiesn
-- smooth copper guilded with silver, Pale Blue eyes, and silver skin
+- smooth copper guilded with silver, Yellow eyes, and silver skin
 - Is Equitable and Hesitant, and has Wealth as their ideal
 
 ### Organizations

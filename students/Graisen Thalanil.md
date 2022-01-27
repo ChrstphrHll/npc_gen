@@ -2,7 +2,7 @@
 name: Graisen Thalanil
 race: Half-Orc
 hair: straight dark red hair that's geled back
-eyes: Pale Brown
+eyes: Pale Green
 skin: Deep Green
 ideal: Encouragement
 trait1: Intense
@@ -33,12 +33,18 @@ stats:
 year: 2
 guild: Treskal
 partyID: 44
+tags:
+- Half-Orc
+- Cleric
+- Assault
+- 2nd
+- Treskal
 ---
 # Graisen Thalanil
 ---
 ### Description
 - 2nd year Half-Orc Cleric in Treskal
-- straight dark red hair that's geled back, Pale Brown eyes, and Deep Green skin
+- straight dark red hair that's geled back, Pale Green eyes, and Deep Green skin
 - Is Intense and Envious, and has Encouragement as their ideal
 
 ### Organizations

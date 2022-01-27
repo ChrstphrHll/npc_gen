@@ -2,7 +2,7 @@
 name: Kazoan Windward
 race: Firbolg
 hair: curly white hair that's parted to the side, slightly obscuring an eye
-eyes: Pale Brown
+eyes: Pale Green
 skin: Pale Gray
 ideal: Austerity
 trait1: Restrained
@@ -30,12 +30,18 @@ stats:
 year: 2
 guild: Treskal
 partyID: 70
+tags:
+- Firbolg
+- Ranger
+- Assault
+- 2nd
+- Treskal
 ---
 # Kazoan Windward
 ---
 ### Description
 - 2nd year Firbolg Ranger in Treskal
-- curly white hair that's parted to the side, slightly obscuring an eye, Pale Brown eyes, and Pale Gray skin
+- curly white hair that's parted to the side, slightly obscuring an eye, Pale Green eyes, and Pale Gray skin
 - Is Restrained and Vague, and has Austerity as their ideal
 
 ### Organizations

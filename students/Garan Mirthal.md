@@ -2,7 +2,7 @@
 name: Garan Mirthal
 race: Halfling
 hair: frizzy brunette hair that's put up in a large bun
-eyes: Blue
+eyes: Pale Gray
 skin: Pale
 ideal: Friendship
 trait1: Neutral
@@ -38,12 +38,18 @@ stats:
 year: 1
 guild: Jettenia
 partyID: 68
+tags:
+- Halfling
+- Ranger
+- Exploration
+- 1st
+- Jettenia
 ---
 # Garan Mirthal
 ---
 ### Description
 - 1st year Halfling Ranger in Jettenia
-- frizzy brunette hair that's put up in a large bun, Blue eyes, and Pale skin
+- frizzy brunette hair that's put up in a large bun, Pale Gray eyes, and Pale skin
 - Is Neutral and Bashful, and has Friendship as their ideal
 
 ### Organizations

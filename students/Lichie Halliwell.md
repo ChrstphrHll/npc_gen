@@ -2,7 +2,7 @@
 name: Lichie Halliwell
 race: Goliath
 hair: curly black hair that's hanging down to their back
-eyes: Amber
+eyes: Gray
 skin: Fair
 ideal: Patience
 trait1: Accessible
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 82
+tags:
+- Goliath
+- Druid
+- Assault
+- 1st
+- Elkenval
 ---
 # Lichie Halliwell
 ---
 ### Description
 - 1st year Goliath Druid in Elkenval
-- curly black hair that's hanging down to their back, Amber eyes, and Fair skin
+- curly black hair that's hanging down to their back, Gray eyes, and Fair skin
 - Is Accessible and Intemperate, and has Patience as their ideal
 
 ### Organizations

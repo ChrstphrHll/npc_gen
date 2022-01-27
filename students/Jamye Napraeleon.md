@@ -2,7 +2,7 @@
 name: Jamye Napraeleon
 race: Dragonborn
 hair: frills
-eyes: Violet Red
+eyes: Purple
 skin: red
 ideal: Cunning
 trait1: Experimental
@@ -32,12 +32,18 @@ stats:
 year: 2
 guild: Alderden
 partyID: 73
+tags:
+- Dragonborn
+- Wizard
+- Assault
+- 2nd
+- Alderden
 ---
 # Jamye Napraeleon
 ---
 ### Description
 - 2nd year Dragonborn Wizard in Alderden
-- frills, Violet Red eyes, and red skin
+- frills, Purple eyes, and red skin
 - Is Experimental and Rigid, and has Cunning as their ideal
 
 ### Organizations

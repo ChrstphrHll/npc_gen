@@ -2,7 +2,7 @@
 name: Valygar Lyklor
 race: Firbolg
 hair: frizzy white hair that's put back in a short pony tail
-eyes: Amber
+eyes: Pale Blue
 skin: Pale Green
 ideal: Responsibility
 trait1: Invulnerable
@@ -32,12 +32,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 86
+tags:
+- Firbolg
+- Cleric
+- Protection
+- 2nd
+- Burk
 ---
 # Valygar Lyklor
 ---
 ### Description
 - 2nd year Firbolg Cleric in Burk
-- frizzy white hair that's put back in a short pony tail, Amber eyes, and Pale Green skin
+- frizzy white hair that's put back in a short pony tail, Pale Blue eyes, and Pale Green skin
 - Is Invulnerable and Assertive, and has Responsibility as their ideal
 
 ### Organizations

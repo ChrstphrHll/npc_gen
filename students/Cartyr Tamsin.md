@@ -2,7 +2,7 @@
 name: Cartyr Tamsin
 race: Dragonborn
 hair: short spines
-eyes: Blue
+eyes: Hazel
 skin: silver
 ideal: Caring
 trait1: Logical
@@ -34,12 +34,18 @@ stats:
 year: 3
 guild: Jettenia
 partyID: 28
+tags:
+- Dragonborn
+- Druid
+- Assault
+- 3rd
+- Jettenia
 ---
 # Cartyr Tamsin
 ---
 ### Description
 - 3rd year Dragonborn Druid in Jettenia
-- short spines, Blue eyes, and silver skin
+- short spines, Hazel eyes, and silver skin
 - Is Logical and Critical, and has Caring as their ideal
 
 ### Organizations

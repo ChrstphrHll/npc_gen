@@ -2,7 +2,7 @@
 name: Asralyn Rhangyl
 race: Elf
 hair: curly strawberry blond hair that's put up in a large bun
-eyes: Brown
+eyes: Pale Blue
 skin: Brown
 ideal: Effectiveness
 trait1: Magnanimous
@@ -31,12 +31,18 @@ stats:
 year: 5
 guild: Fiesn
 partyID: 71
+tags:
+- Elf
+- Ranger
+- Assault
+- 5th
+- Fiesn
 ---
 # Asralyn Rhangyl
 ---
 ### Description
 - 5th year Elf Ranger in Fiesn
-- curly strawberry blond hair that's put up in a large bun, Brown eyes, and Brown skin
+- curly strawberry blond hair that's put up in a large bun, Pale Blue eyes, and Brown skin
 - Is Magnanimous and Quiet, and has Effectiveness as their ideal
 
 ### Organizations

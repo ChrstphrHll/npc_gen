@@ -2,7 +2,7 @@
 name: Adamos Taehr
 race: Elf
 hair: straight brunette hair that's loose around the shoulders
-eyes: Pale Gray
+eyes: Blue
 skin: Tan
 ideal: People
 trait1: Attentive
@@ -31,12 +31,18 @@ stats:
 year: 5
 guild: Fiesn
 partyID: 53
+tags:
+- Elf
+- Fighter
+- Diplomacy
+- 5th
+- Fiesn
 ---
 # Adamos Taehr
 ---
 ### Description
 - 5th year Elf Fighter in Fiesn
-- straight brunette hair that's loose around the shoulders, Pale Gray eyes, and Tan skin
+- straight brunette hair that's loose around the shoulders, Blue eyes, and Tan skin
 - Is Attentive and Sensual, and has People as their ideal
 
 ### Organizations

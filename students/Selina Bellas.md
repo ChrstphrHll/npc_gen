@@ -2,7 +2,7 @@
 name: Selina Bellas
 race: Aasimar
 hair: curly brunette hair that's put up in a large bun
-eyes: Blue
+eyes: Pale Gray
 skin: Light
 ideal: Optimism
 trait1: Systematic
@@ -34,12 +34,18 @@ stats:
 year: 2
 guild: Fiesn
 partyID: 60
+tags:
+- Aasimar
+- Paladin
+- Assault
+- 2nd
+- Fiesn
 ---
 # Selina Bellas
 ---
 ### Description
 - 2nd year Aasimar Paladin in Fiesn
-- curly brunette hair that's put up in a large bun, Blue eyes, and Light skin
+- curly brunette hair that's put up in a large bun, Pale Gray eyes, and Light skin
 - Is Systematic and Clumsy, and has Optimism as their ideal
 
 ### Organizations

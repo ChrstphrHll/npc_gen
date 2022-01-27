@@ -2,7 +2,7 @@
 name: Harperia Winchell
 race: Human
 hair: curly platinum hair that's put back in a long pony tail
-eyes: Brown
+eyes: Green
 skin: Fair
 ideal: Involvement
 trait1: Unfathomable
@@ -31,12 +31,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 14
+tags:
+- Human
+- Barbarian
+- Protection
+- 1st
+- Elkenval
 ---
 # Harperia Winchell
 ---
 ### Description
 - 1st year Human Barbarian in Elkenval
-- curly platinum hair that's put back in a long pony tail, Brown eyes, and Fair skin
+- curly platinum hair that's put back in a long pony tail, Green eyes, and Fair skin
 - Is Unfathomable and Dishonest, and has Involvement as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Allyson Vindinglag
 race: Aasimar
 hair: frizzy auburn hair that's geled back
-eyes: Green
+eyes: Pale Gray
 skin: Dark Brown
 ideal: Reciprocity
 trait1: Forceful
@@ -36,12 +36,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 91
+tags:
+- Aasimar
+- Cleric
+- Protection
+- 1st
+- Elkenval
 ---
 # Allyson Vindinglag
 ---
 ### Description
 - 1st year Aasimar Cleric in Elkenval
-- frizzy auburn hair that's geled back, Green eyes, and Dark Brown skin
+- frizzy auburn hair that's geled back, Pale Gray eyes, and Dark Brown skin
 - Is Forceful and Stif, and has Reciprocity as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Emilanus Shields
 race: Warforged
 hair: smooth bronze guilded with brass
-eyes: Orange
+eyes: Spring Green
 skin: bronze
 ideal: Speed
 trait1: Idealistic
@@ -38,12 +38,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 91
+tags:
+- Warforged
+- Paladin
+- Exploration
+- 1st
+- Elkenval
 ---
 # Emilanus Shields
 ---
 ### Description
 - 1st year Warforged Paladin in Elkenval
-- smooth bronze guilded with brass, Orange eyes, and bronze skin
+- smooth bronze guilded with brass, Spring Green eyes, and bronze skin
 - Is Idealistic and Dirty, and has Speed as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Goshwa Khiipaera
 race: Firbolg
 hair: wavy platinum hair that's parted to the left
-eyes: Pale Green
+eyes: Hazel
 skin: Pale Brown
 ideal: Forgiveness
 trait1: Proper
@@ -35,12 +35,18 @@ stats:
 year: 5
 guild: Elkenval
 partyID: 47
+tags:
+- Firbolg
+- Fighter
+- Exploration
+- 5th
+- Elkenval
 ---
 # Goshwa Khiipaera
 ---
 ### Description
 - 5th year Firbolg Fighter in Elkenval
-- wavy platinum hair that's parted to the left, Pale Green eyes, and Pale Brown skin
+- wavy platinum hair that's parted to the left, Hazel eyes, and Pale Brown skin
 - Is Proper and Airy, and has Forgiveness as their ideal
 
 ### Organizations

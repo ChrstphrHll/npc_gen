@@ -2,7 +2,7 @@
 name: Gerrimar Vulkor
 race: Firbolg
 hair: wavy auburn hair that's done up in a top knot
-eyes: Blue
+eyes: Brown
 skin: Pale Brown
 ideal: Home
 trait1: Dreamy
@@ -34,12 +34,18 @@ stats:
 year: 5
 guild: Treskal
 partyID: 63
+tags:
+- Firbolg
+- Cleric
+- Exploration
+- 5th
+- Treskal
 ---
 # Gerrimar Vulkor
 ---
 ### Description
 - 5th year Firbolg Cleric in Treskal
-- wavy auburn hair that's done up in a top knot, Blue eyes, and Pale Brown skin
+- wavy auburn hair that's done up in a top knot, Brown eyes, and Pale Brown skin
 - Is Dreamy and Artificial, and has Home as their ideal
 
 ### Organizations

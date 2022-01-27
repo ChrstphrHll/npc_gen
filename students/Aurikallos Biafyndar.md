@@ -2,7 +2,7 @@
 name: Aurikallos Biafyndar
 race: Gnome
 hair: straight turquoise hair that's put up in a large bun
-eyes: Brown
+eyes: Gray
 skin: Pale
 ideal: Righteous
 trait1: Placid
@@ -34,12 +34,18 @@ stats:
 year: 5
 guild: Elkenval
 partyID: 20
+tags:
+- Gnome
+- Monk
+- Protection
+- 5th
+- Elkenval
 ---
 # Aurikallos Biafyndar
 ---
 ### Description
 - 5th year Gnome Monk in Elkenval
-- straight turquoise hair that's put up in a large bun, Brown eyes, and Pale skin
+- straight turquoise hair that's put up in a large bun, Gray eyes, and Pale skin
 - Is Placid and Repugnant, and has Righteous as their ideal
 
 ### Organizations

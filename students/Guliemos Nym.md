@@ -2,7 +2,7 @@
 name: Guliemos Nym
 race: Half-Elf
 hair: curly white hair that's done up in a top knot
-eyes: Amber
+eyes: Pale Green
 skin: Dark Tan
 ideal: Affection
 trait1: Solemn
@@ -33,12 +33,18 @@ stats:
 year: 4
 guild: Fiesn
 partyID: 13
+tags:
+- Half-Elf
+- Fighter
+- Diplomacy
+- 4th
+- Fiesn
 ---
 # Guliemos Nym
 ---
 ### Description
 - 4th year Half-Elf Fighter in Fiesn
-- curly white hair that's done up in a top knot, Amber eyes, and Dark Tan skin
+- curly white hair that's done up in a top knot, Pale Green eyes, and Dark Tan skin
 - Is Solemn and Critical, and has Affection as their ideal
 
 ### Organizations

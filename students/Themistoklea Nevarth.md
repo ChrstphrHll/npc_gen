@@ -3,7 +3,7 @@ name: Themistoklea Nevarth
 race: Human
 hair: straight strawberry blond hair that's parted to the side, slightly obscuring
   an eye
-eyes: Blue
+eyes: Pale Brown
 skin: Dark Brown
 ideal: Patience
 trait1: Invulnerable
@@ -35,12 +35,18 @@ stats:
 year: 2
 guild: Treskal
 partyID: 44
+tags:
+- Human
+- Monk
+- Diplomacy
+- 2nd
+- Treskal
 ---
 # Themistoklea Nevarth
 ---
 ### Description
 - 2nd year Human Monk in Treskal
-- straight strawberry blond hair that's parted to the side, slightly obscuring an eye, Blue eyes, and Dark Brown skin
+- straight strawberry blond hair that's parted to the side, slightly obscuring an eye, Pale Brown eyes, and Dark Brown skin
 - Is Invulnerable and Neglectful, and has Patience as their ideal
 
 ### Organizations

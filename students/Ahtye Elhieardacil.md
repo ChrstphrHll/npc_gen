@@ -2,7 +2,7 @@
 name: Ahtye Elhieardacil
 race: Elf
 hair: curly brunette hair that's put up in a large bun
-eyes: Pale Brown
+eyes: Amber
 skin: Light Tan
 ideal: Balance
 trait1: Sentimental
@@ -31,12 +31,18 @@ stats:
 year: 1
 guild: Fiesn
 partyID: 81
+tags:
+- Elf
+- Druid
+- Diplomacy
+- 1st
+- Fiesn
 ---
 # Ahtye Elhieardacil
 ---
 ### Description
 - 1st year Elf Druid in Fiesn
-- curly brunette hair that's put up in a large bun, Pale Brown eyes, and Light Tan skin
+- curly brunette hair that's put up in a large bun, Amber eyes, and Light Tan skin
 - Is Sentimental and Immature, and has Balance as their ideal
 
 ### Organizations

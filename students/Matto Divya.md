@@ -2,7 +2,7 @@
 name: Matto Divya
 race: Gnome
 hair: curly grey hair that's put back in a short pony tail
-eyes: Amber
+eyes: Brown
 skin: Fair
 ideal: Fitness
 trait1: Stern
@@ -36,12 +36,18 @@ stats:
 year: 1
 guild: Jettenia
 partyID: 68
+tags:
+- Gnome
+- Ranger
+- Assault
+- 1st
+- Jettenia
 ---
 # Matto Divya
 ---
 ### Description
 - 1st year Gnome Ranger in Jettenia
-- curly grey hair that's put back in a short pony tail, Amber eyes, and Fair skin
+- curly grey hair that's put back in a short pony tail, Brown eyes, and Fair skin
 - Is Stern and Lackadaisical, and has Fitness as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Jaxon Brindarry
 race: Elf
 hair: curly turquoise hair that's done up in a top knot
-eyes: Hazel
+eyes: Blue
 skin: Brown
 ideal: Wisdom
 trait1: Dreamy
@@ -34,12 +34,18 @@ stats:
 year: 3
 guild: Jettenia
 partyID: 28
+tags:
+- Elf
+- Artificer
+- Assault
+- 3rd
+- Jettenia
 ---
 # Jaxon Brindarry
 ---
 ### Description
 - 3rd year Elf Artificer in Jettenia
-- curly turquoise hair that's done up in a top knot, Hazel eyes, and Brown skin
+- curly turquoise hair that's done up in a top knot, Blue eyes, and Brown skin
 - Is Dreamy and Naive, and has Wisdom as their ideal
 
 ### Organizations

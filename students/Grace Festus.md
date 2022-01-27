@@ -2,7 +2,7 @@
 name: Grace Festus
 race: Human
 hair: wavy auburn hair that's pulled to the side and buzzed on the left
-eyes: Gray
+eyes: Pale Gray
 skin: Pale
 ideal: Charity
 trait1: Anticipative
@@ -35,12 +35,18 @@ stats:
 year: 5
 guild: Elkenval
 partyID: 20
+tags:
+- Human
+- Cleric
+- Diplomacy
+- 5th
+- Elkenval
 ---
 # Grace Festus
 ---
 ### Description
 - 5th year Human Cleric in Elkenval
-- wavy auburn hair that's pulled to the side and buzzed on the left, Gray eyes, and Pale skin
+- wavy auburn hair that's pulled to the side and buzzed on the left, Pale Gray eyes, and Pale skin
 - Is Anticipative and Rigid, and has Charity as their ideal
 
 ### Organizations

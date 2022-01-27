@@ -2,7 +2,7 @@
 name: Surge Fayd
 race: Triton
 hair: wavy dark red hair that's geled back
-eyes: Aqua
+eyes: Orange
 skin: Aqua
 ideal: Cunning
 trait1: Concerned
@@ -32,12 +32,18 @@ stats:
 year: 7
 guild: Fiesn
 partyID: 15
+tags:
+- Triton
+- Monk
+- Protection
+- 7th
+- Fiesn
 ---
 # Surge Fayd
 ---
 ### Description
 - 7th year Triton Monk in Fiesn
-- wavy dark red hair that's geled back, Aqua eyes, and Aqua skin
+- wavy dark red hair that's geled back, Orange eyes, and Aqua skin
 - Is Concerned and Busy, and has Cunning as their ideal
 
 ### Organizations

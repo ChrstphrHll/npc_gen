@@ -2,7 +2,7 @@
 name: Turi Chandrelle
 race: Gnome
 hair: straight white hair that's braided with violet ribbon (long)
-eyes: Pale Gray
+eyes: Blue
 skin: Fair
 ideal: Indulgence
 trait1: Mature
@@ -31,12 +31,18 @@ stats:
 year: 4
 guild: Fiesn
 partyID: 13
+tags:
+- Gnome
+- Rouge
+- Protection
+- 4th
+- Fiesn
 ---
 # Turi Chandrelle
 ---
 ### Description
 - 4th year Gnome Rouge in Fiesn
-- straight white hair that's braided with violet ribbon (long), Pale Gray eyes, and Fair skin
+- straight white hair that's braided with violet ribbon (long), Blue eyes, and Fair skin
 - Is Mature and Enigmatic, and has Indulgence as their ideal
 
 ### Organizations

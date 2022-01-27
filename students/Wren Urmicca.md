@@ -2,7 +2,7 @@
 name: Wren Urmicca
 race: Half-Orc
 hair: wavy black hair that's braided with blue ribbon (med)
-eyes: Blue
+eyes: Gray
 skin: Deep Green
 ideal: Righteous
 trait1: Venturesome
@@ -30,12 +30,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 14
+tags:
+- Half-Orc
+- Monk
+- Protection
+- 1st
+- Elkenval
 ---
 # Wren Urmicca
 ---
 ### Description
 - 1st year Half-Orc Monk in Elkenval
-- wavy black hair that's braided with blue ribbon (med), Blue eyes, and Deep Green skin
+- wavy black hair that's braided with blue ribbon (med), Gray eyes, and Deep Green skin
 - Is Venturesome and Suspicious, and has Righteous as their ideal
 
 ### Organizations

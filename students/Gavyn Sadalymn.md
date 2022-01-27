@@ -2,7 +2,7 @@
 name: Gavyn Sadalymn
 race: Human
 hair: curly platinum hair that's a tousled bed head
-eyes: Gray
+eyes: Hazel
 skin: Light Tan
 ideal: Nature
 trait1: Efficient
@@ -32,12 +32,18 @@ stats:
 year: 5
 guild: Jettenia
 partyID: 97
+tags:
+- Human
+- Ranger
+- Diplomacy
+- 5th
+- Jettenia
 ---
 # Gavyn Sadalymn
 ---
 ### Description
 - 5th year Human Ranger in Jettenia
-- curly platinum hair that's a tousled bed head, Gray eyes, and Light Tan skin
+- curly platinum hair that's a tousled bed head, Hazel eyes, and Light Tan skin
 - Is Efficient and Retiring, and has Nature as their ideal
 
 ### Organizations

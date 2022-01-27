@@ -2,7 +2,7 @@
 name: Mateos Elanil
 race: Halfling
 hair: curly lighter blonde hair that's parted to the right
-eyes: Pale Brown
+eyes: Amber
 skin: Dark Tan
 ideal: Gratitude
 trait1: Understanding
@@ -34,12 +34,18 @@ stats:
 year: 2
 guild: Fiesn
 partyID: 60
+tags:
+- Halfling
+- Rouge
+- Exploration
+- 2nd
+- Fiesn
 ---
 # Mateos Elanil
 ---
 ### Description
 - 2nd year Halfling Rouge in Fiesn
-- curly lighter blonde hair that's parted to the right, Pale Brown eyes, and Dark Tan skin
+- curly lighter blonde hair that's parted to the right, Amber eyes, and Dark Tan skin
 - Is Understanding and Neglectful, and has Gratitude as their ideal
 
 ### Organizations

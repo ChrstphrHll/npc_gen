@@ -2,7 +2,7 @@
 name: Uxwy Lazziar
 race: Human
 hair: wavy red hair that's kept back by a turquoise headband
-eyes: Green
+eyes: Hazel
 skin: Fair
 ideal: Contentment
 trait1: Admirable
@@ -32,12 +32,18 @@ stats:
 year: 5
 guild: Fiesn
 partyID: 48
+tags:
+- Human
+- Sorcerer
+- Assault
+- 5th
+- Fiesn
 ---
 # Uxwy Lazziar
 ---
 ### Description
 - 5th year Human Sorcerer in Fiesn
-- wavy red hair that's kept back by a turquoise headband, Green eyes, and Fair skin
+- wavy red hair that's kept back by a turquoise headband, Hazel eyes, and Fair skin
 - Is Admirable and Repugnant, and has Contentment as their ideal
 
 ### Organizations

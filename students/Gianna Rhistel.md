@@ -2,7 +2,7 @@
 name: Gianna Rhistel
 race: Tiefling
 hair: wavy brunette hair that's parted to the left
-eyes: Violet Red
+eyes: Gray
 skin: Purple
 ideal: Speed
 trait1: Dynamic
@@ -33,12 +33,18 @@ stats:
 year: 2
 guild: Alderden
 partyID: 73
+tags:
+- Tiefling
+- Druid
+- Protection
+- 2nd
+- Alderden
 ---
 # Gianna Rhistel
 ---
 ### Description
 - 2nd year Tiefling Druid in Alderden
-- wavy brunette hair that's parted to the left, Violet Red eyes, and Purple skin
+- wavy brunette hair that's parted to the left, Gray eyes, and Purple skin
 - Is Dynamic and Shy, and has Speed as their ideal
 
 ### Organizations

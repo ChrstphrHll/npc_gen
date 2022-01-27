@@ -2,7 +2,7 @@
 name: Eune Eldratha
 race: Triton
 hair: curly white hair that's braided with blue ribbon (long)
-eyes: Emerald Green
+eyes: Violet Red
 skin: Emerald Green
 ideal: Forgiveness
 trait1: Unreligious
@@ -31,12 +31,18 @@ stats:
 year: 2
 guild: Elkenval
 partyID: 34
+tags:
+- Triton
+- Druid
+- Protection
+- 2nd
+- Elkenval
 ---
 # Eune Eldratha
 ---
 ### Description
 - 2nd year Triton Druid in Elkenval
-- curly white hair that's braided with blue ribbon (long), Emerald Green eyes, and Emerald Green skin
+- curly white hair that's braided with blue ribbon (long), Violet Red eyes, and Emerald Green skin
 - Is Unreligious and Libidinous, and has Forgiveness as their ideal
 
 ### Organizations

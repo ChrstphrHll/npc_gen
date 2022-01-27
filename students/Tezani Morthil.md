@@ -2,7 +2,7 @@
 name: Tezani Morthil
 race: Elf
 hair: straight auburn hair that's put up in a large bun
-eyes: Brown
+eyes: Gray
 skin: Light Tan
 ideal: Generosity
 trait1: Deceptive
@@ -33,12 +33,18 @@ stats:
 year: 2
 guild: Elkenval
 partyID: 34
+tags:
+- Elf
+- Wizard
+- Assault
+- 2nd
+- Elkenval
 ---
 # Tezani Morthil
 ---
 ### Description
 - 2nd year Elf Wizard in Elkenval
-- straight auburn hair that's put up in a large bun, Brown eyes, and Light Tan skin
+- straight auburn hair that's put up in a large bun, Gray eyes, and Light Tan skin
 - Is Deceptive and Extreme, and has Generosity as their ideal
 
 ### Organizations

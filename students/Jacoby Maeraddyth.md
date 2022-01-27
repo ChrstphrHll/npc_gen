@@ -2,7 +2,7 @@
 name: Jacoby Maeraddyth
 race: Goliath
 hair: curly strawberry blond hair that's braided with pink ribbon (med)
-eyes: Blue
+eyes: Pale Brown
 skin: Light
 ideal: Integrity
 trait1: Conservative
@@ -32,12 +32,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 36
+tags:
+- Goliath
+- Monk
+- Assault
+- 2nd
+- Burk
 ---
 # Jacoby Maeraddyth
 ---
 ### Description
 - 2nd year Goliath Monk in Burk
-- curly strawberry blond hair that's braided with pink ribbon (med), Blue eyes, and Light skin
+- curly strawberry blond hair that's braided with pink ribbon (med), Pale Brown eyes, and Light skin
 - Is Conservative and Invisible, and has Integrity as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Barak Felaern
 race: Kenku
 hair: striped
-eyes: Green
+eyes: Hazel
 skin: Dark Blue
 ideal: Order
 trait1: Playful
@@ -32,12 +32,18 @@ stats:
 year: 2
 guild: Fiesn
 partyID: 27
+tags:
+- Kenku
+- Monk
+- Protection
+- 2nd
+- Fiesn
 ---
 # Barak Felaern
 ---
 ### Description
 - 2nd year Kenku Monk in Fiesn
-- striped, Green eyes, and Dark Blue skin
+- striped, Hazel eyes, and Dark Blue skin
 - Is Playful and Noncommittal, and has Order as their ideal
 
 ### Organizations

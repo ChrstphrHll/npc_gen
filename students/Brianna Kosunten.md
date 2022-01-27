@@ -2,7 +2,7 @@
 name: Brianna Kosunten
 race: Dwarf
 hair: frizzy dirty blonde hair that's put back in a long pony tail
-eyes: Pale Brown
+eyes: Gray
 skin: Dark Brown
 ideal: Security
 trait1: Secure
@@ -33,12 +33,18 @@ stats:
 year: 2
 guild: Fiesn
 partyID: 60
+tags:
+- Dwarf
+- Fighter
+- Assault
+- 2nd
+- Fiesn
 ---
 # Brianna Kosunten
 ---
 ### Description
 - 2nd year Dwarf Fighter in Fiesn
-- frizzy dirty blonde hair that's put back in a long pony tail, Pale Brown eyes, and Dark Brown skin
+- frizzy dirty blonde hair that's put back in a long pony tail, Gray eyes, and Dark Brown skin
 - Is Secure and Sedentary, and has Security as their ideal
 
 ### Organizations

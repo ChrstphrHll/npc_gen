@@ -2,7 +2,7 @@
 name: Jerrick Yarbrough
 race: Gnome
 hair: wavy turquoise hair that's parted to the left
-eyes: Amber
+eyes: Brown
 skin: Tan
 ideal: Logic
 trait1: Admirable
@@ -35,12 +35,18 @@ stats:
 year: 6
 guild: Jettenia
 partyID: 4
+tags:
+- Gnome
+- Bard
+- Assault
+- 6th
+- Jettenia
 ---
 # Jerrick Yarbrough
 ---
 ### Description
 - 6th year Gnome Bard in Jettenia
-- wavy turquoise hair that's parted to the left, Amber eyes, and Tan skin
+- wavy turquoise hair that's parted to the left, Brown eyes, and Tan skin
 - Is Admirable and Cantankerous, and has Logic as their ideal
 
 ### Organizations

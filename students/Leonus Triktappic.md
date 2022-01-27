@@ -2,7 +2,7 @@
 name: Leonus Triktappic
 race: Halfling
 hair: wavy grey hair that's loose around the shoulders
-eyes: Hazel
+eyes: Amber
 skin: Fair
 ideal: Redemption
 trait1: Extraordinary
@@ -32,12 +32,18 @@ stats:
 year: 5
 guild: Fiesn
 partyID: 48
+tags:
+- Halfling
+- Barbarian
+- Protection
+- 5th
+- Fiesn
 ---
 # Leonus Triktappic
 ---
 ### Description
 - 5th year Halfling Barbarian in Fiesn
-- wavy grey hair that's loose around the shoulders, Hazel eyes, and Fair skin
+- wavy grey hair that's loose around the shoulders, Amber eyes, and Fair skin
 - Is Extraordinary and Prejudiced, and has Redemption as their ideal
 
 ### Organizations

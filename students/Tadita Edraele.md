@@ -2,7 +2,7 @@
 name: Tadita Edraele
 race: Gnome
 hair: wavy lighter blonde hair that's braided with violet ribbon (med)
-eyes: Gray
+eyes: Green
 skin: Light
 ideal: Flexibility
 trait1: Thoughtful
@@ -36,12 +36,18 @@ stats:
 year: 4
 guild: Treskal
 partyID: 7
+tags:
+- Gnome
+- Paladin
+- Assault
+- 4th
+- Treskal
 ---
 # Tadita Edraele
 ---
 ### Description
 - 4th year Gnome Paladin in Treskal
-- wavy lighter blonde hair that's braided with violet ribbon (med), Gray eyes, and Light skin
+- wavy lighter blonde hair that's braided with violet ribbon (med), Green eyes, and Light skin
 - Is Thoughtful and Invisible, and has Flexibility as their ideal
 
 ### Organizations

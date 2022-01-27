@@ -2,7 +2,7 @@
 name: Pike Tethir
 race: Human
 hair: curly lighter blonde hair that's braided with blue ribbon (med)
-eyes: Gray
+eyes: Pale Gray
 skin: Brown
 ideal: Cooperation
 trait1: Seraphic
@@ -33,12 +33,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 64
+tags:
+- Human
+- Barbarian
+- Diplomacy
+- 1st
+- Elkenval
 ---
 # Pike Tethir
 ---
 ### Description
 - 1st year Human Barbarian in Elkenval
-- curly lighter blonde hair that's braided with blue ribbon (med), Gray eyes, and Brown skin
+- curly lighter blonde hair that's braided with blue ribbon (med), Pale Gray eyes, and Brown skin
 - Is Seraphic and Boisterous, and has Cooperation as their ideal
 
 ### Organizations

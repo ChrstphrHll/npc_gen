@@ -2,7 +2,7 @@
 name: Olivus Ondabrar
 race: Halfling
 hair: curly red hair that's hanging down to their legs
-eyes: Pale Brown
+eyes: Hazel
 skin: Tan
 ideal: Wisdom
 trait1: Prudent
@@ -30,12 +30,18 @@ stats:
 year: 3
 guild: Fiesn
 partyID: 85
+tags:
+- Halfling
+- Wizard
+- Assault
+- 3rd
+- Fiesn
 ---
 # Olivus Ondabrar
 ---
 ### Description
 - 3rd year Halfling Wizard in Fiesn
-- curly red hair that's hanging down to their legs, Pale Brown eyes, and Tan skin
+- curly red hair that's hanging down to their legs, Hazel eyes, and Tan skin
 - Is Prudent and Dirty, and has Wisdom as their ideal
 
 ### Organizations

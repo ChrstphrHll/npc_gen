@@ -2,7 +2,7 @@
 name: Hessos Adorellan
 race: Gnome
 hair: wavy blue hair that's geled back
-eyes: Green
+eyes: Gray
 skin: Tan
 ideal: Optimism
 trait1: Punctual
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Alderden
 partyID: 43
+tags:
+- Gnome
+- Wizard
+- Exploration
+- 1st
+- Alderden
 ---
 # Hessos Adorellan
 ---
 ### Description
 - 1st year Gnome Wizard in Alderden
-- wavy blue hair that's geled back, Green eyes, and Tan skin
+- wavy blue hair that's geled back, Gray eyes, and Tan skin
 - Is Punctual and Pharissical, and has Optimism as their ideal
 
 ### Organizations

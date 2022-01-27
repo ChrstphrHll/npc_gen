@@ -35,6 +35,12 @@ stats:
 year: 5
 guild: Elkenval
 partyID: 47
+tags:
+- Human
+- Bard
+- Diplomacy
+- 5th
+- Elkenval
 ---
 # Vila Tassarion
 ---

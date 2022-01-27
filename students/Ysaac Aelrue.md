@@ -34,6 +34,12 @@ stats:
 year: 1
 guild: Treskal
 partyID: 51
+tags:
+- Halfling
+- Fighter
+- Exploration
+- 1st
+- Treskal
 ---
 # Ysaac Aelrue
 ---

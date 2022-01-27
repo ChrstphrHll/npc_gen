@@ -2,7 +2,7 @@
 name: Noam Shields
 race: Half-Orc
 hair: straight brunette hair that's put back in a long pony tail
-eyes: Pale Blue
+eyes: Blue
 skin: Pale Green
 ideal: Fitness
 trait1: Quality
@@ -35,12 +35,18 @@ stats:
 year: 4
 guild: Burk
 partyID: 59
+tags:
+- Half-Orc
+- Barbarian
+- Assault
+- 4th
+- Burk
 ---
 # Noam Shields
 ---
 ### Description
 - 4th year Half-Orc Barbarian in Burk
-- straight brunette hair that's put back in a long pony tail, Pale Blue eyes, and Pale Green skin
+- straight brunette hair that's put back in a long pony tail, Blue eyes, and Pale Green skin
 - Is Quality and Colorless, and has Fitness as their ideal
 
 ### Organizations

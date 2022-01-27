@@ -2,7 +2,7 @@
 name: Asmiak Seirye
 race: Human
 hair: wavy violet hair that's parted to the right
-eyes: Amber
+eyes: Brown
 skin: Fair
 ideal: Anti-Authority
 trait1: Masculine
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Alderden
 partyID: 43
+tags:
+- Human
+- Paladin
+- Exploration
+- 1st
+- Alderden
 ---
 # Asmiak Seirye
 ---
 ### Description
 - 1st year Human Paladin in Alderden
-- wavy violet hair that's parted to the right, Amber eyes, and Fair skin
+- wavy violet hair that's parted to the right, Brown eyes, and Fair skin
 - Is Masculine and Impractical, and has Anti-Authority as their ideal
 
 ### Organizations

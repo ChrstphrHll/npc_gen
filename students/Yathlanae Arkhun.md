@@ -2,7 +2,7 @@
 name: Yathlanae Arkhun
 race: Half-Elf
 hair: straight blonde hair that's put back in a long pony tail
-eyes: Pale Gray
+eyes: Pale Blue
 skin: Brown
 ideal: Wealth
 trait1: Graceful
@@ -30,12 +30,18 @@ stats:
 year: 1
 guild: Alderden
 partyID: 55
+tags:
+- Half-Elf
+- Sorcerer
+- Diplomacy
+- 1st
+- Alderden
 ---
 # Yathlanae Arkhun
 ---
 ### Description
 - 1st year Half-Elf Sorcerer in Alderden
-- straight blonde hair that's put back in a long pony tail, Pale Gray eyes, and Brown skin
+- straight blonde hair that's put back in a long pony tail, Pale Blue eyes, and Brown skin
 - Is Graceful and Troublesome, and has Wealth as their ideal
 
 ### Organizations

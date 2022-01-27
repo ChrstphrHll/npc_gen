@@ -2,7 +2,7 @@
 name: Kendel Shael
 race: Firbolg
 hair: frizzy lighter blonde hair that's loose around the shoulders
-eyes: Pale Blue
+eyes: Gray
 skin: Pale Blue
 ideal: Finesse
 trait1: Concerned
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Alderden
 partyID: 43
+tags:
+- Firbolg
+- Rouge
+- Exploration
+- 1st
+- Alderden
 ---
 # Kendel Shael
 ---
 ### Description
 - 1st year Firbolg Rouge in Alderden
-- frizzy lighter blonde hair that's loose around the shoulders, Pale Blue eyes, and Pale Blue skin
+- frizzy lighter blonde hair that's loose around the shoulders, Gray eyes, and Pale Blue skin
 - Is Concerned and Muddle-headed, and has Finesse as their ideal
 
 ### Organizations

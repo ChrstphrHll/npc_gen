@@ -2,7 +2,7 @@
 name: Varlae Voron
 race: Half-Orc
 hair: curly grey hair that's hanging down to their back
-eyes: Gray
+eyes: Pale Gray
 skin: Pale Gray
 ideal: Peace
 trait1: Friendly
@@ -36,12 +36,18 @@ stats:
 year: 6
 guild: Treskal
 partyID: 58
+tags:
+- Half-Orc
+- Wizard
+- Exploration
+- 6th
+- Treskal
 ---
 # Varlae Voron
 ---
 ### Description
 - 6th year Half-Orc Wizard in Treskal
-- curly grey hair that's hanging down to their back, Gray eyes, and Pale Gray skin
+- curly grey hair that's hanging down to their back, Pale Gray eyes, and Pale Gray skin
 - Is Friendly and Foolish, and has Peace as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Yakob Lydialeera
 race: Dragonborn
 hair: frills
-eyes: Pale Blue
+eyes: Deep Blue
 skin: blue
 ideal: Fitness
 trait1: Chummy
@@ -33,12 +33,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 82
+tags:
+- Dragonborn
+- Fighter
+- Protection
+- 1st
+- Elkenval
 ---
 # Yakob Lydialeera
 ---
 ### Description
 - 1st year Dragonborn Fighter in Elkenval
-- frills, Pale Blue eyes, and blue skin
+- frills, Deep Blue eyes, and blue skin
 - Is Chummy and Ambitious, and has Fitness as their ideal
 
 ### Organizations

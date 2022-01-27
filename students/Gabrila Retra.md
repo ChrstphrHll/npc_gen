@@ -2,7 +2,7 @@
 name: Gabrila Retra
 race: Dwarf
 hair: frizzy black hair that's a tousled bed head
-eyes: Pale Green
+eyes: Amber
 skin: Fair
 ideal: Contributing
 trait1: Intrepid
@@ -33,12 +33,18 @@ stats:
 year: 3
 guild: Treskal
 partyID: 45
+tags:
+- Dwarf
+- Druid
+- Diplomacy
+- 3rd
+- Treskal
 ---
 # Gabrila Retra
 ---
 ### Description
 - 3rd year Dwarf Druid in Treskal
-- frizzy black hair that's a tousled bed head, Pale Green eyes, and Fair skin
+- frizzy black hair that's a tousled bed head, Amber eyes, and Fair skin
 - Is Intrepid and Reactive, and has Contributing as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Jacus Kosunten
 race: Human
 hair: wavy platinum hair that's a tousled bed head
-eyes: Brown
+eyes: Pale Gray
 skin: Brown
 ideal: Strength
 trait1: Risk-taking
@@ -32,12 +32,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 57
+tags:
+- Human
+- Monk
+- Exploration
+- 2nd
+- Burk
 ---
 # Jacus Kosunten
 ---
 ### Description
 - 2nd year Human Monk in Burk
-- wavy platinum hair that's a tousled bed head, Brown eyes, and Brown skin
+- wavy platinum hair that's a tousled bed head, Pale Gray eyes, and Brown skin
 - Is Risk-taking and Pure, and has Strength as their ideal
 
 ### Organizations

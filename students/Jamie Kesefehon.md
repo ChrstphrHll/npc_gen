@@ -2,7 +2,7 @@
 name: Jamie Kesefehon
 race: Gnome
 hair: straight strawberry blond hair that's kept back by a blue headband
-eyes: Amber
+eyes: Pale Gray
 skin: Fair
 ideal: Spiritualism
 trait1: Simple
@@ -31,12 +31,18 @@ stats:
 year: 1
 guild: Alderden
 partyID: 16
+tags:
+- Gnome
+- Sorcerer
+- Diplomacy
+- 1st
+- Alderden
 ---
 # Jamie Kesefehon
 ---
 ### Description
 - 1st year Gnome Sorcerer in Alderden
-- straight strawberry blond hair that's kept back by a blue headband, Amber eyes, and Fair skin
+- straight strawberry blond hair that's kept back by a blue headband, Pale Gray eyes, and Fair skin
 - Is Simple and Offhand, and has Spiritualism as their ideal
 
 ### Organizations

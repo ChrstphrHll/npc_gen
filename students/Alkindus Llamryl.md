@@ -2,7 +2,7 @@
 name: Alkindus Llamryl
 race: Half-Elf
 hair: wavy blonde hair that's braided with green ribbon (long)
-eyes: Pale Blue
+eyes: Hazel
 skin: Light
 ideal: Order
 trait1: Rustic
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Alderden
 partyID: 56
+tags:
+- Half-Elf
+- Sorcerer
+- Assault
+- 1st
+- Alderden
 ---
 # Alkindus Llamryl
 ---
 ### Description
 - 1st year Half-Elf Sorcerer in Alderden
-- wavy blonde hair that's braided with green ribbon (long), Pale Blue eyes, and Light skin
+- wavy blonde hair that's braided with green ribbon (long), Hazel eyes, and Light skin
 - Is Rustic and Pessimistic, and has Order as their ideal
 
 ### Organizations

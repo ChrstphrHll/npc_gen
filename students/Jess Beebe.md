@@ -2,7 +2,7 @@
 name: Jess Beebe
 race: Firbolg
 hair: straight dirty blonde hair that's done up in a top knot
-eyes: Pale Green
+eyes: Hazel
 skin: Pale Gray
 ideal: Finesse
 trait1: Impressive
@@ -31,12 +31,18 @@ stats:
 year: 3
 guild: Fiesn
 partyID: 98
+tags:
+- Firbolg
+- Cleric
+- Diplomacy
+- 3rd
+- Fiesn
 ---
 # Jess Beebe
 ---
 ### Description
 - 3rd year Firbolg Cleric in Fiesn
-- straight dirty blonde hair that's done up in a top knot, Pale Green eyes, and Pale Gray skin
+- straight dirty blonde hair that's done up in a top knot, Hazel eyes, and Pale Gray skin
 - Is Impressive and Unkind, and has Finesse as their ideal
 
 ### Organizations

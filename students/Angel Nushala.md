@@ -2,7 +2,7 @@
 name: Angel Nushala
 race: Dragonborn
 hair: short spines
-eyes: Emerald Green
+eyes: Pale Blue
 skin: brass
 ideal: Caring
 trait1: Self-conscious
@@ -36,12 +36,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 17
+tags:
+- Dragonborn
+- Artificer
+- Diplomacy
+- 1st
+- Treskal
 ---
 # Angel Nushala
 ---
 ### Description
 - 1st year Dragonborn Artificer in Treskal
-- short spines, Emerald Green eyes, and brass skin
+- short spines, Pale Blue eyes, and brass skin
 - Is Self-conscious and Anxious, and has Caring as their ideal
 
 ### Organizations

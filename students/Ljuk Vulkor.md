@@ -2,7 +2,7 @@
 name: Ljuk Vulkor
 race: Dwarf
 hair: curly lighter blonde hair that's loose around the shoulders
-eyes: Pale Gray
+eyes: Pale Green
 skin: Tan
 ideal: Teamwork
 trait1: Mystical
@@ -29,12 +29,18 @@ stats:
 year: 2
 guild: Elkenval
 partyID: 84
+tags:
+- Dwarf
+- Sorcerer
+- Assault
+- 2nd
+- Elkenval
 ---
 # Ljuk Vulkor
 ---
 ### Description
 - 2nd year Dwarf Sorcerer in Elkenval
-- curly lighter blonde hair that's loose around the shoulders, Pale Gray eyes, and Tan skin
+- curly lighter blonde hair that's loose around the shoulders, Pale Green eyes, and Tan skin
 - Is Mystical and Negligent, and has Teamwork as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Mavrek Aolis
 race: Dragonborn
 hair: short spines
-eyes: Blue
+eyes: Red
 skin: gold
 ideal: Connection
 trait1: Realistic
@@ -33,12 +33,18 @@ stats:
 year: 5
 guild: Elkenval
 partyID: 47
+tags:
+- Dragonborn
+- Sorcerer
+- Assault
+- 5th
+- Elkenval
 ---
 # Mavrek Aolis
 ---
 ### Description
 - 5th year Dragonborn Sorcerer in Elkenval
-- short spines, Blue eyes, and gold skin
+- short spines, Red eyes, and gold skin
 - Is Realistic and Predatory, and has Connection as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Hanna Arkhun
 race: Triton
 hair: straight auburn hair that's parted to the side, slightly obscuring an eye
-eyes: Hazel
+eyes: Purple
 skin: Pale Gray
 ideal: Involvement
 trait1: Dependable
@@ -31,12 +31,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 78
+tags:
+- Triton
+- Paladin
+- Protection
+- 1st
+- Treskal
 ---
 # Hanna Arkhun
 ---
 ### Description
 - 1st year Triton Paladin in Treskal
-- straight auburn hair that's parted to the side, slightly obscuring an eye, Hazel eyes, and Pale Gray skin
+- straight auburn hair that's parted to the side, slightly obscuring an eye, Purple eyes, and Pale Gray skin
 - Is Dependable and Enigmatic, and has Involvement as their ideal
 
 ### Organizations

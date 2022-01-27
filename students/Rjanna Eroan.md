@@ -2,7 +2,7 @@
 name: Rjanna Eroan
 race: Tiefling
 hair: straight white hair that's done up in a top knot
-eyes: Amber
+eyes: Pale Brown
 skin: Pale Blue
 ideal: Stoicism
 trait1: Sentimental
@@ -35,12 +35,18 @@ stats:
 year: 1
 guild: Fiesn
 partyID: 18
+tags:
+- Tiefling
+- Paladin
+- Protection
+- 1st
+- Fiesn
 ---
 # Rjanna Eroan
 ---
 ### Description
 - 1st year Tiefling Paladin in Fiesn
-- straight white hair that's done up in a top knot, Amber eyes, and Pale Blue skin
+- straight white hair that's done up in a top knot, Pale Brown eyes, and Pale Blue skin
 - Is Sentimental and Procrastinating, and has Stoicism as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Myddin Hastos
 race: Half-Elf
 hair: wavy auburn hair that's parted to the left
-eyes: Pale Gray
+eyes: Brown
 skin: Dark Brown
 ideal: Patience
 trait1: Challenging
@@ -35,12 +35,18 @@ stats:
 year: 2
 guild: Elkenval
 partyID: 22
+tags:
+- Half-Elf
+- Rouge
+- Protection
+- 2nd
+- Elkenval
 ---
 # Myddin Hastos
 ---
 ### Description
 - 2nd year Half-Elf Rouge in Elkenval
-- wavy auburn hair that's parted to the left, Pale Gray eyes, and Dark Brown skin
+- wavy auburn hair that's parted to the left, Brown eyes, and Dark Brown skin
 - Is Challenging and Disorganized, and has Patience as their ideal
 
 ### Organizations

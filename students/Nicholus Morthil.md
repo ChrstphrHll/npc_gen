@@ -2,7 +2,7 @@
 name: Nicholus Morthil
 race: Firbolg
 hair: straight strawberry blond hair that's loose around the shoulders
-eyes: Blue
+eyes: Pale Green
 skin: Pale Green
 ideal: Cooperation
 trait1: Heroic
@@ -33,12 +33,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 93
+tags:
+- Firbolg
+- Paladin
+- Exploration
+- 2nd
+- Burk
 ---
 # Nicholus Morthil
 ---
 ### Description
 - 2nd year Firbolg Paladin in Burk
-- straight strawberry blond hair that's loose around the shoulders, Blue eyes, and Pale Green skin
+- straight strawberry blond hair that's loose around the shoulders, Pale Green eyes, and Pale Green skin
 - Is Heroic and Noncompetitive, and has Cooperation as their ideal
 
 ### Organizations

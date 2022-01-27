@@ -2,7 +2,7 @@
 name: Aelisabeth Soliania
 race: Halfling
 hair: curly lighter blonde hair that's braided with turquoise ribbon (med)
-eyes: Pale Gray
+eyes: Hazel
 skin: Light Tan
 ideal: Pessimism
 trait1: Vivacious
@@ -36,12 +36,18 @@ stats:
 year: 3
 guild: Burk
 partyID: 9
+tags:
+- Halfling
+- Barbarian
+- Assault
+- 3rd
+- Burk
 ---
 # Aelisabeth Soliania
 ---
 ### Description
 - 3rd year Halfling Barbarian in Burk
-- curly lighter blonde hair that's braided with turquoise ribbon (med), Pale Gray eyes, and Light Tan skin
+- curly lighter blonde hair that's braided with turquoise ribbon (med), Hazel eyes, and Light Tan skin
 - Is Vivacious and Artificial, and has Pessimism as their ideal
 
 ### Organizations

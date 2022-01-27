@@ -2,7 +2,7 @@
 name: Alonnos Xanotter
 race: Tiefling
 hair: wavy red hair that's put up in a large bun
-eyes: Hazel
+eyes: Spring Green
 skin: Yellow
 ideal: Cooperation
 trait1: Folksy
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 88
+tags:
+- Tiefling
+- Sorcerer
+- Protection
+- 1st
+- Elkenval
 ---
 # Alonnos Xanotter
 ---
 ### Description
 - 1st year Tiefling Sorcerer in Elkenval
-- wavy red hair that's put up in a large bun, Hazel eyes, and Yellow skin
+- wavy red hair that's put up in a large bun, Spring Green eyes, and Yellow skin
 - Is Folksy and Complex, and has Cooperation as their ideal
 
 ### Organizations

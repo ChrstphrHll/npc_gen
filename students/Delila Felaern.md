@@ -2,7 +2,7 @@
 name: Delila Felaern
 race: Gnome
 hair: wavy grey hair that's parted to the side, slightly obscuring an eye
-eyes: Hazel
+eyes: Gray
 skin: Pale
 ideal: Success
 trait1: Ordinary
@@ -33,12 +33,18 @@ stats:
 year: 5
 guild: Elkenval
 partyID: 20
+tags:
+- Gnome
+- Druid
+- Diplomacy
+- 5th
+- Elkenval
 ---
 # Delila Felaern
 ---
 ### Description
 - 5th year Gnome Druid in Elkenval
-- wavy grey hair that's parted to the side, slightly obscuring an eye, Hazel eyes, and Pale skin
+- wavy grey hair that's parted to the side, slightly obscuring an eye, Gray eyes, and Pale skin
 - Is Ordinary and Insulting, and has Success as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Leja Talila
 race: Elf
 hair: curly grey hair that's put back in a long pony tail
-eyes: Blue
+eyes: Hazel
 skin: Fair
 ideal: Prosperity
 trait1: Upright
@@ -30,12 +30,18 @@ stats:
 year: 3
 guild: Burk
 partyID: 83
+tags:
+- Elf
+- Sorcerer
+- Diplomacy
+- 3rd
+- Burk
 ---
 # Leja Talila
 ---
 ### Description
 - 3rd year Elf Sorcerer in Burk
-- curly grey hair that's put back in a long pony tail, Blue eyes, and Fair skin
+- curly grey hair that's put back in a long pony tail, Hazel eyes, and Fair skin
 - Is Upright and Monstrous, and has Prosperity as their ideal
 
 ### Organizations

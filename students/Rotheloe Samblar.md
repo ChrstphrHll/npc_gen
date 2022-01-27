@@ -2,7 +2,7 @@
 name: Rotheloe Samblar
 race: Firbolg
 hair: curly red hair that's loose around the shoulders
-eyes: Pale Brown
+eyes: Pale Gray
 skin: Pale Brown
 ideal: Entertain
 trait1: Naughty
@@ -34,12 +34,18 @@ stats:
 year: 3
 guild: Burk
 partyID: 9
+tags:
+- Firbolg
+- Barbarian
+- Protection
+- 3rd
+- Burk
 ---
 # Rotheloe Samblar
 ---
 ### Description
 - 3rd year Firbolg Barbarian in Burk
-- curly red hair that's loose around the shoulders, Pale Brown eyes, and Pale Brown skin
+- curly red hair that's loose around the shoulders, Pale Gray eyes, and Pale Brown skin
 - Is Naughty and Skeptical, and has Entertain as their ideal
 
 ### Organizations

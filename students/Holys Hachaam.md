@@ -2,7 +2,7 @@
 name: Holys Hachaam
 race: Half-Elf
 hair: straight white hair that's pulled to the side and buzzed on the left
-eyes: Hazel
+eyes: Pale Blue
 skin: Brown
 ideal: Hard Work
 trait1: Eloquent
@@ -35,12 +35,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 90
+tags:
+- Half-Elf
+- Rouge
+- Assault
+- 1st
+- Elkenval
 ---
 # Holys Hachaam
 ---
 ### Description
 - 1st year Half-Elf Rouge in Elkenval
-- straight white hair that's pulled to the side and buzzed on the left, Hazel eyes, and Brown skin
+- straight white hair that's pulled to the side and buzzed on the left, Pale Blue eyes, and Brown skin
 - Is Eloquent and Wishy-washy, and has Hard Work as their ideal
 
 ### Organizations

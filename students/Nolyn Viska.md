@@ -2,7 +2,7 @@
 name: Nolyn Viska
 race: Elf
 hair: wavy white hair that's pulled to the side and buzzed on the left
-eyes: Pale Blue
+eyes: Pale Gray
 skin: Brown
 ideal: Security
 trait1: Jovial
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 51
+tags:
+- Elf
+- Wizard
+- Exploration
+- 1st
+- Treskal
 ---
 # Nolyn Viska
 ---
 ### Description
 - 1st year Elf Wizard in Treskal
-- wavy white hair that's pulled to the side and buzzed on the left, Pale Blue eyes, and Brown skin
+- wavy white hair that's pulled to the side and buzzed on the left, Pale Gray eyes, and Brown skin
 - Is Jovial and Political, and has Security as their ideal
 
 ### Organizations

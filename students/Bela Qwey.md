@@ -2,7 +2,7 @@
 name: Bela Qwey
 race: Human
 hair: straight black hair that's put back in a long pony tail
-eyes: Brown
+eyes: Hazel
 skin: Dark Brown
 ideal: Conformity
 trait1: Conciliatory
@@ -31,12 +31,18 @@ stats:
 year: 3
 guild: Treskal
 partyID: 67
+tags:
+- Human
+- Druid
+- Assault
+- 3rd
+- Treskal
 ---
 # Bela Qwey
 ---
 ### Description
 - 3rd year Human Druid in Treskal
-- straight black hair that's put back in a long pony tail, Brown eyes, and Dark Brown skin
+- straight black hair that's put back in a long pony tail, Hazel eyes, and Dark Brown skin
 - Is Conciliatory and Modern, and has Conformity as their ideal
 
 ### Organizations

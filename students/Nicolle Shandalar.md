@@ -2,7 +2,7 @@
 name: Nicolle Shandalar
 race: Triton
 hair: wavy white hair that's parted to the right
-eyes: Purple
+eyes: Green
 skin: Sea Green
 ideal: Contributing
 trait1: Upright
@@ -35,12 +35,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 82
+tags:
+- Triton
+- Cleric
+- Assault
+- 1st
+- Elkenval
 ---
 # Nicolle Shandalar
 ---
 ### Description
 - 1st year Triton Cleric in Elkenval
-- wavy white hair that's parted to the right, Purple eyes, and Sea Green skin
+- wavy white hair that's parted to the right, Green eyes, and Sea Green skin
 - Is Upright and Opinionated, and has Contributing as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Eliana Saevel
 race: Human
 hair: straight strawberry blond hair that's loose around the shoulders
-eyes: Green
+eyes: Pale Blue
 skin: Pale
 ideal: Caring
 trait1: Iconoclastic
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 77
+tags:
+- Human
+- Artificer
+- Assault
+- 1st
+- Elkenval
 ---
 # Eliana Saevel
 ---
 ### Description
 - 1st year Human Artificer in Elkenval
-- straight strawberry blond hair that's loose around the shoulders, Green eyes, and Pale skin
+- straight strawberry blond hair that's loose around the shoulders, Pale Blue eyes, and Pale skin
 - Is Iconoclastic and Tasteless, and has Caring as their ideal
 
 ### Organizations

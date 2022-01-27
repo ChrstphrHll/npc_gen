@@ -2,7 +2,7 @@
 name: Ivistra Stockton
 race: Tiefling
 hair: wavy grey hair that's put back in a long pony tail
-eyes: Orange
+eyes: Green
 skin: Pale Yellow
 ideal: Exceptionalism
 trait1: Mellow
@@ -36,12 +36,18 @@ stats:
 year: 5
 guild: Jettenia
 partyID: 35
+tags:
+- Tiefling
+- Wizard
+- Diplomacy
+- 5th
+- Jettenia
 ---
 # Ivistra Stockton
 ---
 ### Description
 - 5th year Tiefling Wizard in Jettenia
-- wavy grey hair that's put back in a long pony tail, Orange eyes, and Pale Yellow skin
+- wavy grey hair that's put back in a long pony tail, Green eyes, and Pale Yellow skin
 - Is Mellow and Single-minded, and has Exceptionalism as their ideal
 
 ### Organizations

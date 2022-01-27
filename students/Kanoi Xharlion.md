@@ -2,7 +2,7 @@
 name: Kanoi Xharlion
 race: Dwarf
 hair: straight brunette hair that's put up in a large bun
-eyes: Amber
+eyes: Pale Brown
 skin: Tan
 ideal: Professionalism
 trait1: Sarcastic
@@ -30,12 +30,18 @@ stats:
 year: 2
 guild: Elkenval
 partyID: 84
+tags:
+- Dwarf
+- Artificer
+- Diplomacy
+- 2nd
+- Elkenval
 ---
 # Kanoi Xharlion
 ---
 ### Description
 - 2nd year Dwarf Artificer in Elkenval
-- straight brunette hair that's put up in a large bun, Amber eyes, and Tan skin
+- straight brunette hair that's put up in a large bun, Pale Brown eyes, and Tan skin
 - Is Sarcastic and Odd, and has Professionalism as their ideal
 
 ### Organizations

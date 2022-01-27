@@ -2,7 +2,7 @@
 name: Lincon Nylaathria
 race: Aasimar
 hair: curly grey hair that's kept back by a green headband
-eyes: Pale Blue
+eyes: Hazel
 skin: Pale
 ideal: Respect
 trait1: Tractable
@@ -33,12 +33,18 @@ stats:
 year: 4
 guild: Burk
 partyID: 75
+tags:
+- Aasimar
+- Barbarian
+- Assault
+- 4th
+- Burk
 ---
 # Lincon Nylaathria
 ---
 ### Description
 - 4th year Aasimar Barbarian in Burk
-- curly grey hair that's kept back by a green headband, Pale Blue eyes, and Pale skin
+- curly grey hair that's kept back by a green headband, Hazel eyes, and Pale skin
 - Is Tractable and Artful, and has Respect as their ideal
 
 ### Organizations

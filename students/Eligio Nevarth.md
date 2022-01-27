@@ -2,7 +2,7 @@
 name: Eligio Nevarth
 race: Dragonborn
 hair: short spines
-eyes: Pale Blue
+eyes: Amber
 skin: brass
 ideal: Lead by example
 trait1: Neat
@@ -31,12 +31,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 65
+tags:
+- Dragonborn
+- Ranger
+- Diplomacy
+- 2nd
+- Burk
 ---
 # Eligio Nevarth
 ---
 ### Description
 - 2nd year Dragonborn Ranger in Burk
-- short spines, Pale Blue eyes, and brass skin
+- short spines, Amber eyes, and brass skin
 - Is Neat and Troublesome, and has Lead by example as their ideal
 
 ### Organizations

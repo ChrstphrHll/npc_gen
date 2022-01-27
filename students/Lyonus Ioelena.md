@@ -2,7 +2,7 @@
 name: Lyonus Ioelena
 race: Dragonborn
 hair: long spines
-eyes: Amber
+eyes: Yellow
 skin: silver
 ideal: Wealth
 trait1: Courteous
@@ -32,12 +32,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 86
+tags:
+- Dragonborn
+- Fighter
+- Assault
+- 2nd
+- Burk
 ---
 # Lyonus Ioelena
 ---
 ### Description
 - 2nd year Dragonborn Fighter in Burk
-- long spines, Amber eyes, and silver skin
+- long spines, Yellow eyes, and silver skin
 - Is Courteous and Repressed, and has Wealth as their ideal
 
 ### Organizations

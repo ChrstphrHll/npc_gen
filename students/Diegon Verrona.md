@@ -2,7 +2,7 @@
 name: Diegon Verrona
 race: Dragonborn
 hair: frills
-eyes: Brown
+eyes: Deep Blue
 skin: bronze
 ideal: Loyalty
 trait1: Trustworthy
@@ -35,12 +35,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 90
+tags:
+- Dragonborn
+- Rouge
+- Diplomacy
+- 1st
+- Elkenval
 ---
 # Diegon Verrona
 ---
 ### Description
 - 1st year Dragonborn Rouge in Elkenval
-- frills, Brown eyes, and bronze skin
+- frills, Deep Blue eyes, and bronze skin
 - Is Trustworthy and Weak, and has Loyalty as their ideal
 
 ### Organizations

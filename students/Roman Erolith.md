@@ -2,7 +2,7 @@
 name: Roman Erolith
 race: Dragonborn
 hair: long spines
-eyes: Aqua
+eyes: Pale Blue
 skin: blue
 ideal: Logic
 trait1: Scrupulous
@@ -32,12 +32,18 @@ stats:
 year: 3
 guild: Burk
 partyID: 5
+tags:
+- Dragonborn
+- Monk
+- Exploration
+- 3rd
+- Burk
 ---
 # Roman Erolith
 ---
 ### Description
 - 3rd year Dragonborn Monk in Burk
-- long spines, Aqua eyes, and blue skin
+- long spines, Pale Blue eyes, and blue skin
 - Is Scrupulous and Shy, and has Logic as their ideal
 
 ### Organizations

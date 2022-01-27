@@ -2,7 +2,7 @@
 name: Sammen Axilya
 race: Human
 hair: straight platinum hair that's geled back
-eyes: Gray
+eyes: Pale Green
 skin: Tan
 ideal: Creativity
 trait1: Dedicated
@@ -32,12 +32,18 @@ stats:
 year: 2
 guild: Jettenia
 partyID: 26
+tags:
+- Human
+- Paladin
+- Diplomacy
+- 2nd
+- Jettenia
 ---
 # Sammen Axilya
 ---
 ### Description
 - 2nd year Human Paladin in Jettenia
-- straight platinum hair that's geled back, Gray eyes, and Tan skin
+- straight platinum hair that's geled back, Pale Green eyes, and Tan skin
 - Is Dedicated and Absentminded, and has Creativity as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Tez Bialaer
 race: Aasimar
 hair: straight grey hair that's parted to the left
-eyes: Pale Brown
+eyes: Gray
 skin: Pale
 ideal: Austerity
 trait1: Sharing
@@ -35,12 +35,18 @@ stats:
 year: 8
 guild: Fiesn
 partyID: 79
+tags:
+- Aasimar
+- Fighter
+- Protection
+- 8th
+- Fiesn
 ---
 # Tez Bialaer
 ---
 ### Description
 - 8th year Aasimar Fighter in Fiesn
-- straight grey hair that's parted to the left, Pale Brown eyes, and Pale skin
+- straight grey hair that's parted to the left, Gray eyes, and Pale skin
 - Is Sharing and Modern, and has Austerity as their ideal
 
 ### Organizations

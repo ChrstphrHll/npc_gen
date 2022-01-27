@@ -2,7 +2,7 @@
 name: Romen Uldreiyn
 race: Goliath
 hair: wavy white hair that's loose around the shoulders
-eyes: Blue
+eyes: Pale Blue
 skin: Light Tan
 ideal: Fitness
 trait1: Self-reliant
@@ -36,12 +36,18 @@ stats:
 year: 8
 guild: Fiesn
 partyID: 79
+tags:
+- Goliath
+- Druid
+- Protection
+- 8th
+- Fiesn
 ---
 # Romen Uldreiyn
 ---
 ### Description
 - 8th year Goliath Druid in Fiesn
-- wavy white hair that's loose around the shoulders, Blue eyes, and Light Tan skin
+- wavy white hair that's loose around the shoulders, Pale Blue eyes, and Light Tan skin
 - Is Self-reliant and Superficial, and has Fitness as their ideal
 
 ### Organizations

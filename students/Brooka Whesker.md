@@ -2,7 +2,7 @@
 name: Brooka Whesker
 race: Half-Elf
 hair: curly green hair that's hanging down to their back
-eyes: Pale Green
+eyes: Pale Brown
 skin: Pale
 ideal: Impartiality
 trait1: Private
@@ -33,12 +33,18 @@ stats:
 year: 3
 guild: Treskal
 partyID: 45
+tags:
+- Half-Elf
+- Fighter
+- Diplomacy
+- 3rd
+- Treskal
 ---
 # Brooka Whesker
 ---
 ### Description
 - 3rd year Half-Elf Fighter in Treskal
-- curly green hair that's hanging down to their back, Pale Green eyes, and Pale skin
+- curly green hair that's hanging down to their back, Pale Brown eyes, and Pale skin
 - Is Private and Predictable, and has Impartiality as their ideal
 
 ### Organizations

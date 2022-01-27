@@ -2,7 +2,7 @@
 name: Whit Remington
 race: Triton
 hair: straight brunette hair that's braided with green ribbon (long)
-eyes: Blue
+eyes: Pale Blue
 skin: Emerald Green
 ideal: Greed
 trait1: Risk-taking
@@ -30,12 +30,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 41
+tags:
+- Triton
+- Wizard
+- Protection
+- 1st
+- Burk
 ---
 # Whit Remington
 ---
 ### Description
 - 1st year Triton Wizard in Burk
-- straight brunette hair that's braided with green ribbon (long), Blue eyes, and Emerald Green skin
+- straight brunette hair that's braided with green ribbon (long), Pale Blue eyes, and Emerald Green skin
 - Is Risk-taking and Irresponsible, and has Greed as their ideal
 
 ### Organizations

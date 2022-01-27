@@ -33,6 +33,12 @@ stats:
 year: 5
 guild: Elkenval
 partyID: 20
+tags:
+- Half-Orc
+- Rouge
+- Diplomacy
+- 5th
+- Elkenval
 ---
 # Dylan Usunaar
 ---

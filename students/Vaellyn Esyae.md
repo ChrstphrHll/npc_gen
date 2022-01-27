@@ -2,7 +2,7 @@
 name: Vaellyn Esyae
 race: Triton
 hair: frizzy brunette hair that's loose around the shoulders
-eyes: Blue
+eyes: Yellow
 skin: Pale Blue
 ideal: Success
 trait1: Thrilling
@@ -32,12 +32,18 @@ stats:
 year: 2
 guild: Jettenia
 partyID: 33
+tags:
+- Triton
+- Cleric
+- Exploration
+- 2nd
+- Jettenia
 ---
 # Vaellyn Esyae
 ---
 ### Description
 - 2nd year Triton Cleric in Jettenia
-- frizzy brunette hair that's loose around the shoulders, Blue eyes, and Pale Blue skin
+- frizzy brunette hair that's loose around the shoulders, Yellow eyes, and Pale Blue skin
 - Is Thrilling and Oppressed, and has Success as their ideal
 
 ### Organizations

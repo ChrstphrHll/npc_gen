@@ -2,7 +2,7 @@
 name: Lanalia Belt
 race: Elf
 hair: straight strawberry blond hair that's hanging down to their back
-eyes: Amber
+eyes: Brown
 skin: Light Tan
 ideal: Hard Work
 trait1: Organised
@@ -34,12 +34,18 @@ stats:
 year: 3
 guild: Treskal
 partyID: 67
+tags:
+- Elf
+- Paladin
+- Diplomacy
+- 3rd
+- Treskal
 ---
 # Lanalia Belt
 ---
 ### Description
 - 3rd year Elf Paladin in Treskal
-- straight strawberry blond hair that's hanging down to their back, Amber eyes, and Light Tan skin
+- straight strawberry blond hair that's hanging down to their back, Brown eyes, and Light Tan skin
 - Is Organised and Insecure, and has Hard Work as their ideal
 
 ### Organizations

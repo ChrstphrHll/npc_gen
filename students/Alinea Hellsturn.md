@@ -2,7 +2,7 @@
 name: Alinea Hellsturn
 race: Elf
 hair: straight brunette hair that's braided with violet ribbon (med)
-eyes: Amber
+eyes: Brown
 skin: Tan
 ideal: Renewal
 trait1: Merciful
@@ -32,12 +32,18 @@ stats:
 year: 5
 guild: Alderden
 partyID: 11
+tags:
+- Elf
+- Ranger
+- Assault
+- 5th
+- Alderden
 ---
 # Alinea Hellsturn
 ---
 ### Description
 - 5th year Elf Ranger in Alderden
-- straight brunette hair that's braided with violet ribbon (med), Amber eyes, and Tan skin
+- straight brunette hair that's braided with violet ribbon (med), Brown eyes, and Tan skin
 - Is Merciful and Sloppy, and has Renewal as their ideal
 
 ### Organizations

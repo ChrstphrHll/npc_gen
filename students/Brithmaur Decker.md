@@ -2,7 +2,7 @@
 name: Brithmaur Decker
 race: Half-Orc
 hair: curly brunette hair that's put up in a large bun
-eyes: Pale Gray
+eyes: Pale Brown
 skin: Green Blue
 ideal: Independence
 trait1: Strong-willed
@@ -32,12 +32,18 @@ stats:
 year: 7
 guild: Fiesn
 partyID: 25
+tags:
+- Half-Orc
+- Druid
+- Diplomacy
+- 7th
+- Fiesn
 ---
 # Brithmaur Decker
 ---
 ### Description
 - 7th year Half-Orc Druid in Fiesn
-- curly brunette hair that's put up in a large bun, Pale Gray eyes, and Green Blue skin
+- curly brunette hair that's put up in a large bun, Pale Brown eyes, and Green Blue skin
 - Is Strong-willed and Boorish, and has Independence as their ideal
 
 ### Organizations

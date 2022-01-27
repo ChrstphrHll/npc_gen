@@ -2,7 +2,7 @@
 name: Audree Dixon
 race: Human
 hair: straight lighter blonde hair that's braided with turquoise ribbon (med)
-eyes: Pale Green
+eyes: Blue
 skin: Fair
 ideal: Commonality
 trait1: Clean
@@ -35,12 +35,18 @@ stats:
 year: 1
 guild: Alderden
 partyID: 56
+tags:
+- Human
+- Monk
+- Assault
+- 1st
+- Alderden
 ---
 # Audree Dixon
 ---
 ### Description
 - 1st year Human Monk in Alderden
-- straight lighter blonde hair that's braided with turquoise ribbon (med), Pale Green eyes, and Fair skin
+- straight lighter blonde hair that's braided with turquoise ribbon (med), Blue eyes, and Fair skin
 - Is Clean and Licentious, and has Commonality as their ideal
 
 ### Organizations

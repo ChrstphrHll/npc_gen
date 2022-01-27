@@ -36,6 +36,12 @@ stats:
 year: 5
 guild: Jettenia
 partyID: 35
+tags:
+- Kenku
+- Barbarian
+- Diplomacy
+- 5th
+- Jettenia
 ---
 # Matos Mektal
 ---

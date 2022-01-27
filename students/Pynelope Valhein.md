@@ -2,7 +2,7 @@
 name: Pynelope Valhein
 race: Dragonborn
 hair: frills
-eyes: Brown
+eyes: Blue
 skin: black
 ideal: Responsibility
 trait1: Unreligious
@@ -33,12 +33,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 95
+tags:
+- Dragonborn
+- Rouge
+- Exploration
+- 1st
+- Burk
 ---
 # Pynelope Valhein
 ---
 ### Description
 - 1st year Dragonborn Rouge in Burk
-- frills, Brown eyes, and black skin
+- frills, Blue eyes, and black skin
 - Is Unreligious and Impassive, and has Responsibility as their ideal
 
 ### Organizations

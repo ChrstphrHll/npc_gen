@@ -2,7 +2,7 @@
 name: Leya Escobar
 race: Human
 hair: wavy grey hair that's done up in a top knot
-eyes: Pale Blue
+eyes: Pale Gray
 skin: Dark Brown
 ideal: Righteous
 trait1: Self-disciplined
@@ -34,12 +34,18 @@ stats:
 year: 3
 guild: Alderden
 partyID: 24
+tags:
+- Human
+- Fighter
+- Assault
+- 3rd
+- Alderden
 ---
 # Leya Escobar
 ---
 ### Description
 - 3rd year Human Fighter in Alderden
-- wavy grey hair that's done up in a top knot, Pale Blue eyes, and Dark Brown skin
+- wavy grey hair that's done up in a top knot, Pale Gray eyes, and Dark Brown skin
 - Is Self-disciplined and Mawkish, and has Righteous as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Volkos Halaema
 race: Tiefling
 hair: frizzy dark red hair that's hanging down to their back
-eyes: Brown
+eyes: Aqua
 skin: Aqua
 ideal: Security
 trait1: Capable
@@ -31,12 +31,18 @@ stats:
 year: 4
 guild: Alderden
 partyID: 21
+tags:
+- Tiefling
+- Ranger
+- Diplomacy
+- 4th
+- Alderden
 ---
 # Volkos Halaema
 ---
 ### Description
 - 4th year Tiefling Ranger in Alderden
-- frizzy dark red hair that's hanging down to their back, Brown eyes, and Aqua skin
+- frizzy dark red hair that's hanging down to their back, Aqua eyes, and Aqua skin
 - Is Capable and Mealymouthed, and has Security as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Aniari Arlayna
 race: Elf
 hair: wavy dark red hair that's put back in a short pony tail
-eyes: Hazel
+eyes: Pale Brown
 skin: Light
 ideal: Courage
 trait1: Knowledgeable
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 77
+tags:
+- Elf
+- Barbarian
+- Assault
+- 1st
+- Elkenval
 ---
 # Aniari Arlayna
 ---
 ### Description
 - 1st year Elf Barbarian in Elkenval
-- wavy dark red hair that's put back in a short pony tail, Hazel eyes, and Light skin
+- wavy dark red hair that's put back in a short pony tail, Pale Brown eyes, and Light skin
 - Is Knowledgeable and Dishonest, and has Courage as their ideal
 
 ### Organizations

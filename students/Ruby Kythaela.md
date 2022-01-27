@@ -2,7 +2,7 @@
 name: Ruby Kythaela
 race: Triton
 hair: wavy grey hair that's put back in a long pony tail
-eyes: Spring Green
+eyes: Amber
 skin: Spring Green
 ideal: Love
 trait1: Paternalistic
@@ -32,12 +32,18 @@ stats:
 year: 2
 guild: Jettenia
 partyID: 26
+tags:
+- Triton
+- Fighter
+- Protection
+- 2nd
+- Jettenia
 ---
 # Ruby Kythaela
 ---
 ### Description
 - 2nd year Triton Fighter in Jettenia
-- wavy grey hair that's put back in a long pony tail, Spring Green eyes, and Spring Green skin
+- wavy grey hair that's put back in a long pony tail, Amber eyes, and Spring Green skin
 - Is Paternalistic and Pleasing, and has Love as their ideal
 
 ### Organizations

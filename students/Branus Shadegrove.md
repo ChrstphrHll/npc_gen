@@ -2,7 +2,7 @@
 name: Branus Shadegrove
 race: Gnome
 hair: straight auburn hair that's parted to the side, slightly obscuring an eye
-eyes: Pale Gray
+eyes: Gray
 skin: Light Tan
 ideal: Charity
 trait1: Sophisticated
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 17
+tags:
+- Gnome
+- Barbarian
+- Diplomacy
+- 1st
+- Treskal
 ---
 # Branus Shadegrove
 ---
 ### Description
 - 1st year Gnome Barbarian in Treskal
-- straight auburn hair that's parted to the side, slightly obscuring an eye, Pale Gray eyes, and Light Tan skin
+- straight auburn hair that's parted to the side, slightly obscuring an eye, Gray eyes, and Light Tan skin
 - Is Sophisticated and Vague, and has Charity as their ideal
 
 ### Organizations

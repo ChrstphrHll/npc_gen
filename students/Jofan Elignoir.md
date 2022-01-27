@@ -2,7 +2,7 @@
 name: Jofan Elignoir
 race: Triton
 hair: frizzy strawberry blond hair that's done up in a top knot
-eyes: Pale Brown
+eyes: Hazel
 skin: Pale Gray
 ideal: Pride
 trait1: Modest
@@ -32,12 +32,18 @@ stats:
 year: 7
 guild: Alderden
 partyID: 6
+tags:
+- Triton
+- Ranger
+- Diplomacy
+- 7th
+- Alderden
 ---
 # Jofan Elignoir
 ---
 ### Description
 - 7th year Triton Ranger in Alderden
-- frizzy strawberry blond hair that's done up in a top knot, Pale Brown eyes, and Pale Gray skin
+- frizzy strawberry blond hair that's done up in a top knot, Hazel eyes, and Pale Gray skin
 - Is Modest and Snobbish, and has Pride as their ideal
 
 ### Organizations

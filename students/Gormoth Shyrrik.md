@@ -2,7 +2,7 @@
 name: Gormoth Shyrrik
 race: Dwarf
 hair: wavy platinum hair that's a tousled bed head
-eyes: Amber
+eyes: Brown
 skin: Pale
 ideal: Spiritualism
 trait1: Lucky
@@ -31,12 +31,18 @@ stats:
 year: 2
 guild: Jettenia
 partyID: 33
+tags:
+- Dwarf
+- Paladin
+- Exploration
+- 2nd
+- Jettenia
 ---
 # Gormoth Shyrrik
 ---
 ### Description
 - 2nd year Dwarf Paladin in Jettenia
-- wavy platinum hair that's a tousled bed head, Amber eyes, and Pale skin
+- wavy platinum hair that's a tousled bed head, Brown eyes, and Pale skin
 - Is Lucky and Finicky, and has Spiritualism as their ideal
 
 ### Organizations

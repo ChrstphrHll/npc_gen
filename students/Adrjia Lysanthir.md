@@ -2,7 +2,7 @@
 name: Adrjia Lysanthir
 race: Triton
 hair: straight grey hair that's kept back by a pink headband
-eyes: Pale Gray
+eyes: Pale Blue
 skin: Aqua
 ideal: Compassion
 trait1: Invisible
@@ -37,12 +37,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 69
+tags:
+- Triton
+- Ranger
+- Assault
+- 1st
+- Treskal
 ---
 # Adrjia Lysanthir
 ---
 ### Description
 - 1st year Triton Ranger in Treskal
-- straight grey hair that's kept back by a pink headband, Pale Gray eyes, and Aqua skin
+- straight grey hair that's kept back by a pink headband, Pale Blue eyes, and Aqua skin
 - Is Invisible and Circumspect, and has Compassion as their ideal
 
 ### Organizations

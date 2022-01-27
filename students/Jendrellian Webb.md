@@ -2,7 +2,7 @@
 name: Jendrellian Webb
 race: Dwarf
 hair: wavy lighter blonde hair that's hanging down to their legs
-eyes: Green
+eyes: Gray
 skin: Brown
 ideal: Goodness
 trait1: Plain
@@ -31,12 +31,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 64
+tags:
+- Dwarf
+- Barbarian
+- Assault
+- 1st
+- Elkenval
 ---
 # Jendrellian Webb
 ---
 ### Description
 - 1st year Dwarf Barbarian in Elkenval
-- wavy lighter blonde hair that's hanging down to their legs, Green eyes, and Brown skin
+- wavy lighter blonde hair that's hanging down to their legs, Gray eyes, and Brown skin
 - Is Plain and Competitive, and has Goodness as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Levy Maendellyn
 race: Gnome
 hair: curly auburn hair that's parted to the left
-eyes: Amber
+eyes: Pale Blue
 skin: Brown
 ideal: Righteous
 trait1: Hospitable
@@ -31,12 +31,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 36
+tags:
+- Gnome
+- Fighter
+- Assault
+- 2nd
+- Burk
 ---
 # Levy Maendellyn
 ---
 ### Description
 - 2nd year Gnome Fighter in Burk
-- curly auburn hair that's parted to the left, Amber eyes, and Brown skin
+- curly auburn hair that's parted to the left, Pale Blue eyes, and Brown skin
 - Is Hospitable and Sly, and has Righteous as their ideal
 
 ### Organizations

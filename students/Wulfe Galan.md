@@ -2,7 +2,7 @@
 name: Wulfe Galan
 race: Genasi
 hair: curly black hair that's hanging down to their back
-eyes: Green
+eyes: Emerald Green
 skin: fire
 ideal: Vengful
 trait1: Steadfast
@@ -36,12 +36,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 82
+tags:
+- Genasi
+- Paladin
+- Assault
+- 1st
+- Elkenval
 ---
 # Wulfe Galan
 ---
 ### Description
 - 1st year Genasi Paladin in Elkenval
-- curly black hair that's hanging down to their back, Green eyes, and fire skin
+- curly black hair that's hanging down to their back, Emerald Green eyes, and fire skin
 - Is Steadfast and Mellow, and has Vengful as their ideal
 
 ### Organizations

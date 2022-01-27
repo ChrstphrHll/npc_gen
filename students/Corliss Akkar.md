@@ -2,7 +2,7 @@
 name: Corliss Akkar
 race: Half-Orc
 hair: curly green hair that's braided with green ribbon (med)
-eyes: Pale Brown
+eyes: Hazel
 skin: Deep Green
 ideal: Self-Fulfillment
 trait1: Sneaky
@@ -31,12 +31,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 72
+tags:
+- Half-Orc
+- Rouge
+- Exploration
+- 1st
+- Burk
 ---
 # Corliss Akkar
 ---
 ### Description
 - 1st year Half-Orc Rouge in Burk
-- curly green hair that's braided with green ribbon (med), Pale Brown eyes, and Deep Green skin
+- curly green hair that's braided with green ribbon (med), Hazel eyes, and Deep Green skin
 - Is Sneaky and Hidebound, and has Self-Fulfillment as their ideal
 
 ### Organizations

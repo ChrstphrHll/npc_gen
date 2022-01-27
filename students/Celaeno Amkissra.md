@@ -2,7 +2,7 @@
 name: Celaeno Amkissra
 race: Half-Orc
 hair: curly red hair that's done up in a top knot
-eyes: Blue
+eyes: Brown
 skin: Pale Gray
 ideal: Finesse
 trait1: Persuasive
@@ -31,12 +31,18 @@ stats:
 year: 8
 guild: Jettenia
 partyID: 80
+tags:
+- Half-Orc
+- Artificer
+- Assault
+- 8th
+- Jettenia
 ---
 # Celaeno Amkissra
 ---
 ### Description
 - 8th year Half-Orc Artificer in Jettenia
-- curly red hair that's done up in a top knot, Blue eyes, and Pale Gray skin
+- curly red hair that's done up in a top knot, Brown eyes, and Pale Gray skin
 - Is Persuasive and Timid, and has Finesse as their ideal
 
 ### Organizations

@@ -31,6 +31,12 @@ stats:
 year: 1
 guild: Burk
 partyID: 72
+tags:
+- Elf
+- Cleric
+- Diplomacy
+- 1st
+- Burk
 ---
 # Aenglo Dyffros
 ---

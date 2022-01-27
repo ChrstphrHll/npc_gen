@@ -2,7 +2,7 @@
 name: Saccaros Anaharae
 race: Tiefling
 hair: wavy auburn hair that's put back in a short pony tail
-eyes: Aqua
+eyes: Purple
 skin: Aqua
 ideal: Hard Work
 trait1: Confident
@@ -29,12 +29,18 @@ stats:
 year: 2
 guild: Treskal
 partyID: 70
+tags:
+- Tiefling
+- Ranger
+- Diplomacy
+- 2nd
+- Treskal
 ---
 # Saccaros Anaharae
 ---
 ### Description
 - 2nd year Tiefling Ranger in Treskal
-- wavy auburn hair that's put back in a short pony tail, Aqua eyes, and Aqua skin
+- wavy auburn hair that's put back in a short pony tail, Purple eyes, and Aqua skin
 - Is Confident and Naïve, and has Hard Work as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Valerya Haldreithen
 race: Triton
 hair: straight brunette hair that's put back in a long pony tail
-eyes: Gray
+eyes: Pale Brown
 skin: Spring Green
 ideal: Courage
 trait1: Fair
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Fiesn
 partyID: 18
+tags:
+- Triton
+- Druid
+- Assault
+- 1st
+- Fiesn
 ---
 # Valerya Haldreithen
 ---
 ### Description
 - 1st year Triton Druid in Fiesn
-- straight brunette hair that's put back in a long pony tail, Gray eyes, and Spring Green skin
+- straight brunette hair that's put back in a long pony tail, Pale Brown eyes, and Spring Green skin
 - Is Fair and Mechanical, and has Courage as their ideal
 
 ### Organizations

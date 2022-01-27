@@ -2,7 +2,7 @@
 name: Rianna Belt
 race: Elf
 hair: wavy platinum hair that's loose around the shoulders
-eyes: Pale Green
+eyes: Pale Brown
 skin: Brown
 ideal: Excitement
 trait1: Thrifty
@@ -36,12 +36,18 @@ stats:
 year: 8
 guild: Fiesn
 partyID: 79
+tags:
+- Elf
+- Barbarian
+- Assault
+- 8th
+- Fiesn
 ---
 # Rianna Belt
 ---
 ### Description
 - 8th year Elf Barbarian in Fiesn
-- wavy platinum hair that's loose around the shoulders, Pale Green eyes, and Brown skin
+- wavy platinum hair that's loose around the shoulders, Pale Brown eyes, and Brown skin
 - Is Thrifty and Repugnant, and has Excitement as their ideal
 
 ### Organizations

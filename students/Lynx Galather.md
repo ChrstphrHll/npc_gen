@@ -2,7 +2,7 @@
 name: Lynx Galather
 race: Human
 hair: wavy brunette hair that's parted to the right
-eyes: Brown
+eyes: Amber
 skin: Tan
 ideal: Responsibility
 trait1: Reasonable
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 72
+tags:
+- Human
+- Monk
+- Exploration
+- 1st
+- Burk
 ---
 # Lynx Galather
 ---
 ### Description
 - 1st year Human Monk in Burk
-- wavy brunette hair that's parted to the right, Brown eyes, and Tan skin
+- wavy brunette hair that's parted to the right, Amber eyes, and Tan skin
 - Is Reasonable and Resentful, and has Responsibility as their ideal
 
 ### Organizations

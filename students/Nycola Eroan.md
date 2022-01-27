@@ -2,7 +2,7 @@
 name: Nycola Eroan
 race: Dragonborn
 hair: long spines
-eyes: Violet Red
+eyes: Amber
 skin: copper
 ideal: Creativity
 trait1: Frank
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 77
+tags:
+- Dragonborn
+- Bard
+- Protection
+- 1st
+- Elkenval
 ---
 # Nycola Eroan
 ---
 ### Description
 - 1st year Dragonborn Bard in Elkenval
-- long spines, Violet Red eyes, and copper skin
+- long spines, Amber eyes, and copper skin
 - Is Frank and Cruel, and has Creativity as their ideal
 
 ### Organizations

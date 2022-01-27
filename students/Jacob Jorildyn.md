@@ -2,7 +2,7 @@
 name: Jacob Jorildyn
 race: Dragonborn
 hair: long spines
-eyes: Pale Brown
+eyes: Brown
 skin: brass
 ideal: Appreciation
 trait1: Clear-headed
@@ -33,12 +33,18 @@ stats:
 year: 3
 guild: Treskal
 partyID: 45
+tags:
+- Dragonborn
+- Cleric
+- Diplomacy
+- 3rd
+- Treskal
 ---
 # Jacob Jorildyn
 ---
 ### Description
 - 3rd year Dragonborn Cleric in Treskal
-- long spines, Pale Brown eyes, and brass skin
+- long spines, Brown eyes, and brass skin
 - Is Clear-headed and Impassive, and has Appreciation as their ideal
 
 ### Organizations

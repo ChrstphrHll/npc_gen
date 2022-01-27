@@ -2,7 +2,7 @@
 name: Shike Thalaera
 race: Dragonborn
 hair: short spines
-eyes: Sea Green
+eyes: Deep Blue
 skin: black
 ideal: Fun
 trait1: Prudent
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 38
+tags:
+- Dragonborn
+- Paladin
+- Protection
+- 1st
+- Burk
 ---
 # Shike Thalaera
 ---
 ### Description
 - 1st year Dragonborn Paladin in Burk
-- short spines, Sea Green eyes, and black skin
+- short spines, Deep Blue eyes, and black skin
 - Is Prudent and Mechanical, and has Fun as their ideal
 
 ### Organizations

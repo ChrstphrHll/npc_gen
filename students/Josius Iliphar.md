@@ -2,7 +2,7 @@
 name: Josius Iliphar
 race: Genasi
 hair: curly brunette hair that's parted to the left
-eyes: Amber
+eyes: Violet Red
 skin: air
 ideal: Kindness
 trait1: Iconoclastic
@@ -32,12 +32,18 @@ stats:
 year: 7
 guild: Fiesn
 partyID: 15
+tags:
+- Genasi
+- Rouge
+- Assault
+- 7th
+- Fiesn
 ---
 # Josius Iliphar
 ---
 ### Description
 - 7th year Genasi Rouge in Fiesn
-- curly brunette hair that's parted to the left, Amber eyes, and air skin
+- curly brunette hair that's parted to the left, Violet Red eyes, and air skin
 - Is Iconoclastic and Shallow, and has Kindness as their ideal
 
 ### Organizations

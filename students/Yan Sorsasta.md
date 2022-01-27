@@ -2,7 +2,7 @@
 name: Yan Sorsasta
 race: Dwarf
 hair: wavy auburn hair that's loose around the shoulders
-eyes: Amber
+eyes: Brown
 skin: Pale
 ideal: Reciprocity
 trait1: Adventurous
@@ -33,12 +33,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 93
+tags:
+- Dwarf
+- Barbarian
+- Diplomacy
+- 2nd
+- Burk
 ---
 # Yan Sorsasta
 ---
 ### Description
 - 2nd year Dwarf Barbarian in Burk
-- wavy auburn hair that's loose around the shoulders, Amber eyes, and Pale skin
+- wavy auburn hair that's loose around the shoulders, Brown eyes, and Pale skin
 - Is Adventurous and Pretentious, and has Reciprocity as their ideal
 
 ### Organizations

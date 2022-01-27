@@ -2,7 +2,7 @@
 name: Abramo Sudryl
 race: Dragonborn
 hair: long spines
-eyes: Deep Blue
+eyes: Pale Gray
 skin: black
 ideal: Intelligence
 trait1: Purposeful
@@ -30,12 +30,18 @@ stats:
 year: 4
 guild: Elkenval
 partyID: 32
+tags:
+- Dragonborn
+- Fighter
+- Protection
+- 4th
+- Elkenval
 ---
 # Abramo Sudryl
 ---
 ### Description
 - 4th year Dragonborn Fighter in Elkenval
-- long spines, Deep Blue eyes, and black skin
+- long spines, Pale Gray eyes, and black skin
 - Is Purposeful and Stern, and has Intelligence as their ideal
 
 ### Organizations

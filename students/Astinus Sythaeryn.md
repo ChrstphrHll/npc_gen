@@ -2,7 +2,7 @@
 name: Astinus Sythaeryn
 race: Human
 hair: straight dark red hair that's put up in a large bun
-eyes: Amber
+eyes: Pale Blue
 skin: Brown
 ideal: Independence
 trait1: Thrifty
@@ -31,12 +31,18 @@ stats:
 year: 4
 guild: Fiesn
 partyID: 37
+tags:
+- Human
+- Bard
+- Protection
+- 4th
+- Fiesn
 ---
 # Astinus Sythaeryn
 ---
 ### Description
 - 4th year Human Bard in Fiesn
-- straight dark red hair that's put up in a large bun, Amber eyes, and Brown skin
+- straight dark red hair that's put up in a large bun, Pale Blue eyes, and Brown skin
 - Is Thrifty and Aimless, and has Independence as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Everen Malfoy
 race: Halfling
 hair: curly dirty blonde hair that's hanging down to their legs
-eyes: Pale Gray
+eyes: Hazel
 skin: Dark Brown
 ideal: Gratitude
 trait1: Scholarly
@@ -31,12 +31,18 @@ stats:
 year: 2
 guild: Fiesn
 partyID: 61
+tags:
+- Halfling
+- Fighter
+- Exploration
+- 2nd
+- Fiesn
 ---
 # Everen Malfoy
 ---
 ### Description
 - 2nd year Halfling Fighter in Fiesn
-- curly dirty blonde hair that's hanging down to their legs, Pale Gray eyes, and Dark Brown skin
+- curly dirty blonde hair that's hanging down to their legs, Hazel eyes, and Dark Brown skin
 - Is Scholarly and Subjective, and has Gratitude as their ideal
 
 ### Organizations

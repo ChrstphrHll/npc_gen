@@ -2,7 +2,7 @@
 name: Andrey Rauthomyr
 race: Gnome
 hair: wavy red hair that's braided with blue ribbon (med)
-eyes: Blue
+eyes: Hazel
 skin: Dark Tan
 ideal: Compassion
 trait1: Trusting
@@ -35,12 +35,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 91
+tags:
+- Gnome
+- Artificer
+- Assault
+- 1st
+- Elkenval
 ---
 # Andrey Rauthomyr
 ---
 ### Description
 - 1st year Gnome Artificer in Elkenval
-- wavy red hair that's braided with blue ribbon (med), Blue eyes, and Dark Tan skin
+- wavy red hair that's braided with blue ribbon (med), Hazel eyes, and Dark Tan skin
 - Is Trusting and Unrealistic, and has Compassion as their ideal
 
 ### Organizations

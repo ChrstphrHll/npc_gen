@@ -2,7 +2,7 @@
 name: Terek Nushala
 race: Triton
 hair: straight strawberry blond hair that's hanging down to their back
-eyes: Red
+eyes: Purple
 skin: Deep Blue
 ideal: Self-Fulfillment
 trait1: Circumspect
@@ -31,12 +31,18 @@ stats:
 year: 2
 guild: Fiesn
 partyID: 27
+tags:
+- Triton
+- Wizard
+- Protection
+- 2nd
+- Fiesn
 ---
 # Terek Nushala
 ---
 ### Description
 - 2nd year Triton Wizard in Fiesn
-- straight strawberry blond hair that's hanging down to their back, Red eyes, and Deep Blue skin
+- straight strawberry blond hair that's hanging down to their back, Purple eyes, and Deep Blue skin
 - Is Circumspect and Ridiculous, and has Self-Fulfillment as their ideal
 
 ### Organizations

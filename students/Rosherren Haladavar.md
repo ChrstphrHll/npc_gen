@@ -2,7 +2,7 @@
 name: Rosherren Haladavar
 race: Genasi
 hair: wavy platinum hair that's loose around the shoulders
-eyes: Pale Blue
+eyes: Pale Green
 skin: earth
 ideal: Excitement
 trait1: Discerning
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 95
+tags:
+- Genasi
+- Fighter
+- Protection
+- 1st
+- Burk
 ---
 # Rosherren Haladavar
 ---
 ### Description
 - 1st year Genasi Fighter in Burk
-- wavy platinum hair that's loose around the shoulders, Pale Blue eyes, and earth skin
+- wavy platinum hair that's loose around the shoulders, Pale Green eyes, and earth skin
 - Is Discerning and Artificial, and has Excitement as their ideal
 
 ### Organizations

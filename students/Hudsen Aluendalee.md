@@ -2,7 +2,7 @@
 name: Hudsen Aluendalee
 race: Half-Elf
 hair: curly brunette hair that's hanging down to their back
-eyes: Gray
+eyes: Blue
 skin: Dark Tan
 ideal: Logic
 trait1: Jolly
@@ -31,12 +31,18 @@ stats:
 year: 4
 guild: Fiesn
 partyID: 37
+tags:
+- Half-Elf
+- Wizard
+- Exploration
+- 4th
+- Fiesn
 ---
 # Hudsen Aluendalee
 ---
 ### Description
 - 4th year Half-Elf Wizard in Fiesn
-- curly brunette hair that's hanging down to their back, Gray eyes, and Dark Tan skin
+- curly brunette hair that's hanging down to their back, Blue eyes, and Dark Tan skin
 - Is Jolly and Noncompetitive, and has Logic as their ideal
 
 ### Organizations

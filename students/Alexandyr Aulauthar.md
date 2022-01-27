@@ -2,7 +2,7 @@
 name: Alexandyr Aulauthar
 race: Firbolg
 hair: wavy red hair that's geled back
-eyes: Amber
+eyes: Pale Blue
 skin: Pale Blue
 ideal: Home
 trait1: Communicative
@@ -31,12 +31,18 @@ stats:
 year: 5
 guild: Fiesn
 partyID: 53
+tags:
+- Firbolg
+- Wizard
+- Diplomacy
+- 5th
+- Fiesn
 ---
 # Alexandyr Aulauthar
 ---
 ### Description
 - 5th year Firbolg Wizard in Fiesn
-- wavy red hair that's geled back, Amber eyes, and Pale Blue skin
+- wavy red hair that's geled back, Pale Blue eyes, and Pale Blue skin
 - Is Communicative and Ungrateful, and has Home as their ideal
 
 ### Organizations

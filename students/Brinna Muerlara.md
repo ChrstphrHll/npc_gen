@@ -2,7 +2,7 @@
 name: Brinna Muerlara
 race: Halfling
 hair: straight brunette hair that's pulled to the side and buzzed on the right
-eyes: Green
+eyes: Gray
 skin: Brown
 ideal: Openness
 trait1: Athletic
@@ -33,12 +33,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 95
+tags:
+- Halfling
+- Barbarian
+- Exploration
+- 1st
+- Burk
 ---
 # Brinna Muerlara
 ---
 ### Description
 - 1st year Halfling Barbarian in Burk
-- straight brunette hair that's pulled to the side and buzzed on the right, Green eyes, and Brown skin
+- straight brunette hair that's pulled to the side and buzzed on the right, Gray eyes, and Brown skin
 - Is Athletic and Reserved, and has Openness as their ideal
 
 ### Organizations

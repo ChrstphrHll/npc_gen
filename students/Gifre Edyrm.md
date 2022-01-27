@@ -2,7 +2,7 @@
 name: Gifre Edyrm
 race: Half-Elf
 hair: curly grey hair that's a tousled bed head
-eyes: Hazel
+eyes: Amber
 skin: Dark Brown
 ideal: Humane
 trait1: Moralistic
@@ -33,12 +33,18 @@ stats:
 year: 6
 guild: Treskal
 partyID: 46
+tags:
+- Half-Elf
+- Paladin
+- Exploration
+- 6th
+- Treskal
 ---
 # Gifre Edyrm
 ---
 ### Description
 - 6th year Half-Elf Paladin in Treskal
-- curly grey hair that's a tousled bed head, Hazel eyes, and Dark Brown skin
+- curly grey hair that's a tousled bed head, Amber eyes, and Dark Brown skin
 - Is Moralistic and Angry, and has Humane as their ideal
 
 ### Organizations

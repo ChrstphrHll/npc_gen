@@ -33,6 +33,12 @@ stats:
 year: 7
 guild: Fiesn
 partyID: 89
+tags:
+- Dragonborn
+- Ranger
+- Protection
+- 7th
+- Fiesn
 ---
 # Delos Ehlark
 ---

@@ -2,7 +2,7 @@
 name: Scarletta Elora
 race: Gnome
 hair: straight auburn hair that's braided with violet ribbon (long)
-eyes: Gray
+eyes: Hazel
 skin: Dark Tan
 ideal: Patience
 trait1: Cooperative
@@ -32,12 +32,18 @@ stats:
 year: 2
 guild: Fiesn
 partyID: 27
+tags:
+- Gnome
+- Cleric
+- Protection
+- 2nd
+- Fiesn
 ---
 # Scarletta Elora
 ---
 ### Description
 - 2nd year Gnome Cleric in Fiesn
-- straight auburn hair that's braided with violet ribbon (long), Gray eyes, and Dark Tan skin
+- straight auburn hair that's braided with violet ribbon (long), Hazel eyes, and Dark Tan skin
 - Is Cooperative and Devious, and has Patience as their ideal
 
 ### Organizations

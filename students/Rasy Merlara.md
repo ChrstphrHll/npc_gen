@@ -2,7 +2,7 @@
 name: Rasy Merlara
 race: Dwarf
 hair: straight brunette hair that's loose around the shoulders
-eyes: Pale Gray
+eyes: Pale Brown
 skin: Dark Tan
 ideal: Spiritualism
 trait1: Reflective
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Alderden
 partyID: 16
+tags:
+- Dwarf
+- Wizard
+- Exploration
+- 1st
+- Alderden
 ---
 # Rasy Merlara
 ---
 ### Description
 - 1st year Dwarf Wizard in Alderden
-- straight brunette hair that's loose around the shoulders, Pale Gray eyes, and Dark Tan skin
+- straight brunette hair that's loose around the shoulders, Pale Brown eyes, and Dark Tan skin
 - Is Reflective and Ungrateful, and has Spiritualism as their ideal
 
 ### Organizations

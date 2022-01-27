@@ -2,7 +2,7 @@
 name: Brahm Delmuth
 race: Half-Orc
 hair: curly lighter blonde hair that's kept back by a green headband
-eyes: Amber
+eyes: Pale Blue
 skin: Pale Green
 ideal: Stoicism
 trait1: Exuberant
@@ -36,12 +36,18 @@ stats:
 year: 8
 guild: Fiesn
 partyID: 79
+tags:
+- Half-Orc
+- Paladin
+- Exploration
+- 8th
+- Fiesn
 ---
 # Brahm Delmuth
 ---
 ### Description
 - 8th year Half-Orc Paladin in Fiesn
-- curly lighter blonde hair that's kept back by a green headband, Amber eyes, and Pale Green skin
+- curly lighter blonde hair that's kept back by a green headband, Pale Blue eyes, and Pale Green skin
 - Is Exuberant and Conservative, and has Stoicism as their ideal
 
 ### Organizations

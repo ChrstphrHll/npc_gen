@@ -2,7 +2,7 @@
 name: Tylus Ytharra
 race: Tiefling
 hair: curly red hair that's hanging down to their back
-eyes: Pale Brown
+eyes: Yellow
 skin: Pale Brown
 ideal: Learning
 trait1: Freewheeling
@@ -36,12 +36,18 @@ stats:
 year: 2
 guild: Elkenval
 partyID: 22
+tags:
+- Tiefling
+- Monk
+- Diplomacy
+- 2nd
+- Elkenval
 ---
 # Tylus Ytharra
 ---
 ### Description
 - 2nd year Tiefling Monk in Elkenval
-- curly red hair that's hanging down to their back, Pale Brown eyes, and Pale Brown skin
+- curly red hair that's hanging down to their back, Yellow eyes, and Pale Brown skin
 - Is Freewheeling and Conforming, and has Learning as their ideal
 
 ### Organizations

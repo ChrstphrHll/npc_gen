@@ -3,7 +3,7 @@ name: Taewen Llamryl
 race: Human
 hair: straight lighter blonde hair that's parted to the side, slightly obscuring an
   eye
-eyes: Gray
+eyes: Amber
 skin: Tan
 ideal: Renewal
 trait1: Fearless
@@ -34,12 +34,18 @@ stats:
 year: 2
 guild: Fiesn
 partyID: 61
+tags:
+- Human
+- Artificer
+- Assault
+- 2nd
+- Fiesn
 ---
 # Taewen Llamryl
 ---
 ### Description
 - 2nd year Human Artificer in Fiesn
-- straight lighter blonde hair that's parted to the side, slightly obscuring an eye, Gray eyes, and Tan skin
+- straight lighter blonde hair that's parted to the side, slightly obscuring an eye, Amber eyes, and Tan skin
 - Is Fearless and High-spirited, and has Renewal as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Braidyn Kemetra
 race: Dwarf
 hair: wavy blonde hair that's braided with blue ribbon (long)
-eyes: Hazel
+eyes: Pale Green
 skin: Light
 ideal: Fitness
 trait1: Soft
@@ -31,12 +31,18 @@ stats:
 year: 7
 guild: Fiesn
 partyID: 25
+tags:
+- Dwarf
+- Monk
+- Exploration
+- 7th
+- Fiesn
 ---
 # Braidyn Kemetra
 ---
 ### Description
 - 7th year Dwarf Monk in Fiesn
-- wavy blonde hair that's braided with blue ribbon (long), Hazel eyes, and Light skin
+- wavy blonde hair that's braided with blue ribbon (long), Pale Green eyes, and Light skin
 - Is Soft and Subjective, and has Fitness as their ideal
 
 ### Organizations

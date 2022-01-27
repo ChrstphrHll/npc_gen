@@ -2,7 +2,7 @@
 name: Ragnar Illitran
 race: Halfling
 hair: curly dark red hair that's done up in a top knot
-eyes: Hazel
+eyes: Brown
 skin: Light
 ideal: Reciprocity
 trait1: Logical
@@ -32,12 +32,18 @@ stats:
 year: 6
 guild: Fiesn
 partyID: 42
+tags:
+- Halfling
+- Artificer
+- Diplomacy
+- 6th
+- Fiesn
 ---
 # Ragnar Illitran
 ---
 ### Description
 - 6th year Halfling Artificer in Fiesn
-- curly dark red hair that's done up in a top knot, Hazel eyes, and Light skin
+- curly dark red hair that's done up in a top knot, Brown eyes, and Light skin
 - Is Logical and Well-meaning, and has Reciprocity as their ideal
 
 ### Organizations

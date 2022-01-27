@@ -2,7 +2,7 @@
 name: Secarr Ashbluff
 race: Dragonborn
 hair: 3 straight horns
-eyes: Pale Gray
+eyes: Emerald Green
 skin: blue
 ideal: Compassion
 trait1: Relaxed
@@ -30,12 +30,18 @@ stats:
 year: 6
 guild: Burk
 partyID: 1
+tags:
+- Dragonborn
+- Barbarian
+- Exploration
+- 6th
+- Burk
 ---
 # Secarr Ashbluff
 ---
 ### Description
 - 6th year Dragonborn Barbarian in Burk
-- 3 straight horns, Pale Gray eyes, and blue skin
+- 3 straight horns, Emerald Green eyes, and blue skin
 - Is Relaxed and Liar, and has Compassion as their ideal
 
 ### Organizations

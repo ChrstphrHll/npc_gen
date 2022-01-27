@@ -2,7 +2,7 @@
 name: Valia Esyae
 race: Elf
 hair: straight auburn hair that's parted to the left
-eyes: Gray
+eyes: Hazel
 skin: Tan
 ideal: Lead by example
 trait1: Captivating
@@ -29,12 +29,18 @@ stats:
 year: 4
 guild: Alderden
 partyID: 21
+tags:
+- Elf
+- Monk
+- Assault
+- 4th
+- Alderden
 ---
 # Valia Esyae
 ---
 ### Description
 - 4th year Elf Monk in Alderden
-- straight auburn hair that's parted to the left, Gray eyes, and Tan skin
+- straight auburn hair that's parted to the left, Hazel eyes, and Tan skin
 - Is Captivating and Unsentimental, and has Lead by example as their ideal
 
 ### Organizations

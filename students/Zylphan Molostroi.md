@@ -2,7 +2,7 @@
 name: Zylphan Molostroi
 race: Firbolg
 hair: wavy black hair that's geled back
-eyes: Pale Brown
+eyes: Amber
 skin: Pale Brown
 ideal: Honesty
 trait1: Firm
@@ -36,12 +36,18 @@ stats:
 year: 8
 guild: Fiesn
 partyID: 79
+tags:
+- Firbolg
+- Rouge
+- Diplomacy
+- 8th
+- Fiesn
 ---
 # Zylphan Molostroi
 ---
 ### Description
 - 8th year Firbolg Rouge in Fiesn
-- wavy black hair that's geled back, Pale Brown eyes, and Pale Brown skin
+- wavy black hair that's geled back, Amber eyes, and Pale Brown skin
 - Is Firm and Hateful, and has Honesty as their ideal
 
 ### Organizations

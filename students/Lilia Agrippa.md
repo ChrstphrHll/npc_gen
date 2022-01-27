@@ -2,7 +2,7 @@
 name: Lilia Agrippa
 race: Tiefling
 hair: wavy lighter blonde hair that's a tousled bed head
-eyes: Sea Green
+eyes: Gray
 skin: Purple
 ideal: Appreciation
 trait1: Efficient
@@ -32,12 +32,18 @@ stats:
 year: 3
 guild: Fiesn
 partyID: 94
+tags:
+- Tiefling
+- Barbarian
+- Assault
+- 3rd
+- Fiesn
 ---
 # Lilia Agrippa
 ---
 ### Description
 - 3rd year Tiefling Barbarian in Fiesn
-- wavy lighter blonde hair that's a tousled bed head, Sea Green eyes, and Purple skin
+- wavy lighter blonde hair that's a tousled bed head, Gray eyes, and Purple skin
 - Is Efficient and Lackadaisical, and has Appreciation as their ideal
 
 ### Organizations

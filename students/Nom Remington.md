@@ -2,7 +2,7 @@
 name: Nom Remington
 race: Dragonborn
 hair: short spines
-eyes: Hazel
+eyes: Purple
 skin: copper
 ideal: Power
 trait1: Unfathomable
@@ -29,12 +29,18 @@ stats:
 year: 3
 guild: Fiesn
 partyID: 85
+tags:
+- Dragonborn
+- Monk
+- Exploration
+- 3rd
+- Fiesn
 ---
 # Nom Remington
 ---
 ### Description
 - 3rd year Dragonborn Monk in Fiesn
-- short spines, Hazel eyes, and copper skin
+- short spines, Purple eyes, and copper skin
 - Is Unfathomable and Hesitant, and has Power as their ideal
 
 ### Organizations

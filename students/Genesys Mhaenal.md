@@ -2,7 +2,7 @@
 name: Genesys Mhaenal
 race: Gnome
 hair: straight black hair that's put back in a short pony tail
-eyes: Hazel
+eyes: Amber
 skin: Dark Brown
 ideal: Prosperity
 trait1: Unchanging
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 38
+tags:
+- Gnome
+- Monk
+- Assault
+- 1st
+- Burk
 ---
 # Genesys Mhaenal
 ---
 ### Description
 - 1st year Gnome Monk in Burk
-- straight black hair that's put back in a short pony tail, Hazel eyes, and Dark Brown skin
+- straight black hair that's put back in a short pony tail, Amber eyes, and Dark Brown skin
 - Is Unchanging and Indecisive, and has Prosperity as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Saleas Rilitar
 race: Triton
 hair: straight dark red hair that's hanging down to their legs
-eyes: Yellow
+eyes: Sea Green
 skin: Aqua
 ideal: Righteous
 trait1: Self-sufficent
@@ -34,12 +34,18 @@ stats:
 year: 4
 guild: Burk
 partyID: 59
+tags:
+- Triton
+- Wizard
+- Protection
+- 4th
+- Burk
 ---
 # Saleas Rilitar
 ---
 ### Description
 - 4th year Triton Wizard in Burk
-- straight dark red hair that's hanging down to their legs, Yellow eyes, and Aqua skin
+- straight dark red hair that's hanging down to their legs, Sea Green eyes, and Aqua skin
 - Is Self-sufficent and Boisterous, and has Righteous as their ideal
 
 ### Organizations

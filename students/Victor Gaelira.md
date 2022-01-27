@@ -2,7 +2,7 @@
 name: Victor Gaelira
 race: Half-Elf
 hair: curly white hair that's loose around the shoulders
-eyes: Pale Brown
+eyes: Pale Blue
 skin: Dark Tan
 ideal: Family
 trait1: Ambitious
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Fiesn
 partyID: 96
+tags:
+- Half-Elf
+- Barbarian
+- Diplomacy
+- 1st
+- Fiesn
 ---
 # Victor Gaelira
 ---
 ### Description
 - 1st year Half-Elf Barbarian in Fiesn
-- curly white hair that's loose around the shoulders, Pale Brown eyes, and Dark Tan skin
+- curly white hair that's loose around the shoulders, Pale Blue eyes, and Dark Tan skin
 - Is Ambitious and Evil, and has Family as their ideal
 
 ### Organizations

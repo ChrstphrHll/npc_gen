@@ -2,7 +2,7 @@
 name: Delsenora Strohm
 race: Dragonborn
 hair: short spines
-eyes: Emerald Green
+eyes: Sea Green
 skin: copper
 ideal: Austerity
 trait1: Unambitious
@@ -32,12 +32,18 @@ stats:
 year: 7
 guild: Fiesn
 partyID: 15
+tags:
+- Dragonborn
+- Druid
+- Protection
+- 7th
+- Fiesn
 ---
 # Delsenora Strohm
 ---
 ### Description
 - 7th year Dragonborn Druid in Fiesn
-- short spines, Emerald Green eyes, and copper skin
+- short spines, Sea Green eyes, and copper skin
 - Is Unambitious and Surprising, and has Austerity as their ideal
 
 ### Organizations

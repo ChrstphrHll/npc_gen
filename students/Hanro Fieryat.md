@@ -2,7 +2,7 @@
 name: Hanro Fieryat
 race: Triton
 hair: straight brunette hair that's kept back by a blue headband
-eyes: Emerald Green
+eyes: Pale Gray
 skin: Pale Green
 ideal: Charisma
 trait1: Gentle
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Alderden
 partyID: 16
+tags:
+- Triton
+- Paladin
+- Exploration
+- 1st
+- Alderden
 ---
 # Hanro Fieryat
 ---
 ### Description
 - 1st year Triton Paladin in Alderden
-- straight brunette hair that's kept back by a blue headband, Emerald Green eyes, and Pale Green skin
+- straight brunette hair that's kept back by a blue headband, Pale Gray eyes, and Pale Green skin
 - Is Gentle and Sedentary, and has Charisma as their ideal
 
 ### Organizations

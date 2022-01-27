@@ -2,7 +2,7 @@
 name: Leah Faelar
 race: Human
 hair: wavy auburn hair that's braided with blue ribbon (med)
-eyes: Amber
+eyes: Green
 skin: Light Tan
 ideal: Justice
 trait1: Intense
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 17
+tags:
+- Human
+- Bard
+- Exploration
+- 1st
+- Treskal
 ---
 # Leah Faelar
 ---
 ### Description
 - 1st year Human Bard in Treskal
-- wavy auburn hair that's braided with blue ribbon (med), Amber eyes, and Light Tan skin
+- wavy auburn hair that's braided with blue ribbon (med), Green eyes, and Light Tan skin
 - Is Intense and Assertive, and has Justice as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Tisette Bender
 race: Gnome
 hair: frizzy green hair that's parted to the right
-eyes: Green
+eyes: Gray
 skin: Brown
 ideal: Logic
 trait1: Profound
@@ -33,12 +33,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 95
+tags:
+- Gnome
+- Paladin
+- Assault
+- 1st
+- Burk
 ---
 # Tisette Bender
 ---
 ### Description
 - 1st year Gnome Paladin in Burk
-- frizzy green hair that's parted to the right, Green eyes, and Brown skin
+- frizzy green hair that's parted to the right, Gray eyes, and Brown skin
 - Is Profound and Plain, and has Logic as their ideal
 
 ### Organizations

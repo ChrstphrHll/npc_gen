@@ -7,7 +7,7 @@ import roll_tables.birthday_tables as bday_gen
 import yaml
 
 class Person:
-    def __init__(self, presets = {}):
+    def __init__(self, presets = {}, tag_generation = True):
         ##Set Name
         if not self.set_if_preset("name", presets):
             self.name = name_gen.create_names(1)[0]
@@ -50,7 +50,8 @@ class Person:
             self.organizations = []
 
         #Set tags
-        self.tags = self.set_tags()
+        if tag_generation:
+            self.tags = self.create_tags()
     
     def set_if_preset(self, element, presets):
             if element in presets.keys():
@@ -58,9 +59,9 @@ class Person:
                 return True
             return False
 
-    def set_tags(self):
+    def create_tags(self):
         tags = [self.race]
-        self.tags = tags
+        return tags
 
     def get_description(self):
         current_character_description = ""

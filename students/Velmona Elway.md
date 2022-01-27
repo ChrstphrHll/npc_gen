@@ -2,7 +2,7 @@
 name: Velmona Elway
 race: Kenku
 hair: striped
-eyes: Pale Gray
+eyes: Hazel
 skin: Red
 ideal: Generosity
 trait1: Civilised
@@ -31,12 +31,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 40
+tags:
+- Kenku
+- Monk
+- Assault
+- 1st
+- Elkenval
 ---
 # Velmona Elway
 ---
 ### Description
 - 1st year Kenku Monk in Elkenval
-- striped, Pale Gray eyes, and Red skin
+- striped, Hazel eyes, and Red skin
 - Is Civilised and Sadistic, and has Generosity as their ideal
 
 ### Organizations

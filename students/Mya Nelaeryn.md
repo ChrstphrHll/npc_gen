@@ -2,7 +2,7 @@
 name: Mya Nelaeryn
 race: Human
 hair: straight auburn hair that's braided with pink ribbon (long)
-eyes: Pale Gray
+eyes: Pale Brown
 skin: Fair
 ideal: Creativity
 trait1: Folksy
@@ -35,12 +35,18 @@ stats:
 year: 2
 guild: Elkenval
 partyID: 22
+tags:
+- Human
+- Barbarian
+- Protection
+- 2nd
+- Elkenval
 ---
 # Mya Nelaeryn
 ---
 ### Description
 - 2nd year Human Barbarian in Elkenval
-- straight auburn hair that's braided with pink ribbon (long), Pale Gray eyes, and Fair skin
+- straight auburn hair that's braided with pink ribbon (long), Pale Brown eyes, and Fair skin
 - Is Folksy and Evil, and has Creativity as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Alver Boneflare
 race: Goliath
 hair: curly brunette hair that's hanging down to their back
-eyes: Pale Gray
+eyes: Pale Green
 skin: Light Tan
 ideal: Creativity
 trait1: Reflective
@@ -37,12 +37,18 @@ stats:
 year: 1
 guild: Jettenia
 partyID: 68
+tags:
+- Goliath
+- Cleric
+- Protection
+- 1st
+- Jettenia
 ---
 # Alver Boneflare
 ---
 ### Description
 - 1st year Goliath Cleric in Jettenia
-- curly brunette hair that's hanging down to their back, Pale Gray eyes, and Light Tan skin
+- curly brunette hair that's hanging down to their back, Pale Green eyes, and Light Tan skin
 - Is Reflective and Cold-hearted, and has Creativity as their ideal
 
 ### Organizations

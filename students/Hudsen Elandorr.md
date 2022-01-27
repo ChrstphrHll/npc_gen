@@ -33,6 +33,12 @@ stats:
 year: 3
 guild: Treskal
 partyID: 45
+tags:
+- Half-Orc
+- Druid
+- Assault
+- 3rd
+- Treskal
 ---
 # Hudsen Elandorr
 ---

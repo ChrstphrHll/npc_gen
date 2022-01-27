@@ -2,7 +2,7 @@
 name: Ysak Llewellenar
 race: Dragonborn
 hair: short spines
-eyes: Orange
+eyes: Violet Red
 skin: silver
 ideal: Renewal
 trait1: Disciplined
@@ -35,12 +35,18 @@ stats:
 year: 1
 guild: Jettenia
 partyID: 68
+tags:
+- Dragonborn
+- Paladin
+- Assault
+- 1st
+- Jettenia
 ---
 # Ysak Llewellenar
 ---
 ### Description
 - 1st year Dragonborn Paladin in Jettenia
-- short spines, Orange eyes, and silver skin
+- short spines, Violet Red eyes, and silver skin
 - Is Disciplined and Narrow-minded, and has Renewal as their ideal
 
 ### Organizations

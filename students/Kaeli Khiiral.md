@@ -2,7 +2,7 @@
 name: Kaeli Khiiral
 race: Triton
 hair: curly lighter blonde hair that's parted to the right
-eyes: Aqua
+eyes: Brown
 skin: Pale Gray
 ideal: Reciprocity
 trait1: Winning
@@ -35,12 +35,18 @@ stats:
 year: 7
 guild: Fiesn
 partyID: 89
+tags:
+- Triton
+- Wizard
+- Assault
+- 7th
+- Fiesn
 ---
 # Kaeli Khiiral
 ---
 ### Description
 - 7th year Triton Wizard in Fiesn
-- curly lighter blonde hair that's parted to the right, Aqua eyes, and Pale Gray skin
+- curly lighter blonde hair that's parted to the right, Brown eyes, and Pale Gray skin
 - Is Winning and Meretricious, and has Reciprocity as their ideal
 
 ### Organizations

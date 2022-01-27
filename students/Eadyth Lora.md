@@ -2,7 +2,7 @@
 name: Eadyth Lora
 race: Goliath
 hair: curly auburn hair that's braided with violet ribbon (med)
-eyes: Pale Brown
+eyes: Blue
 skin: Light
 ideal: Contentment
 trait1: Feisty
@@ -32,12 +32,18 @@ stats:
 year: 2
 guild: Jettenia
 partyID: 26
+tags:
+- Goliath
+- Rouge
+- Protection
+- 2nd
+- Jettenia
 ---
 # Eadyth Lora
 ---
 ### Description
 - 2nd year Goliath Rouge in Jettenia
-- curly auburn hair that's braided with violet ribbon (med), Pale Brown eyes, and Light skin
+- curly auburn hair that's braided with violet ribbon (med), Blue eyes, and Light skin
 - Is Feisty and Iconoclastic, and has Contentment as their ideal
 
 ### Organizations

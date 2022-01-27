@@ -2,7 +2,7 @@
 name: Railyn Retenia
 race: Half-Orc
 hair: curly dark red hair that's kept back by a green headband
-eyes: Pale Blue
+eyes: Blue
 skin: Pale Gray
 ideal: Contributing
 trait1: Obliging
@@ -34,12 +34,18 @@ stats:
 year: 3
 guild: Jettenia
 partyID: 28
+tags:
+- Half-Orc
+- Ranger
+- Assault
+- 3rd
+- Jettenia
 ---
 # Railyn Retenia
 ---
 ### Description
 - 3rd year Half-Orc Ranger in Jettenia
-- curly dark red hair that's kept back by a green headband, Pale Blue eyes, and Pale Gray skin
+- curly dark red hair that's kept back by a green headband, Blue eyes, and Pale Gray skin
 - Is Obliging and Abrasive, and has Contributing as their ideal
 
 ### Organizations

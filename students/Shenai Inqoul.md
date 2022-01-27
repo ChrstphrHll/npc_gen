@@ -2,7 +2,7 @@
 name: Shenai Inqoul
 race: Tiefling
 hair: wavy dirty blonde hair that's a tousled bed head
-eyes: Green
+eyes: Deep Blue
 skin: Olive
 ideal: Pessimism
 trait1: Intrepid
@@ -33,12 +33,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 57
+tags:
+- Tiefling
+- Monk
+- Assault
+- 2nd
+- Burk
 ---
 # Shenai Inqoul
 ---
 ### Description
 - 2nd year Tiefling Monk in Burk
-- wavy dirty blonde hair that's a tousled bed head, Green eyes, and Olive skin
+- wavy dirty blonde hair that's a tousled bed head, Deep Blue eyes, and Olive skin
 - Is Intrepid and Immature, and has Pessimism as their ideal
 
 ### Organizations

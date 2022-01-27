@@ -2,7 +2,7 @@
 name: Rossan Jonik
 race: Halfling
 hair: straight red hair that's hanging down to their back
-eyes: Hazel
+eyes: Pale Blue
 skin: Fair
 ideal: Might
 trait1: Impartial
@@ -32,12 +32,18 @@ stats:
 year: 3
 guild: Treskal
 partyID: 67
+tags:
+- Halfling
+- Artificer
+- Exploration
+- 3rd
+- Treskal
 ---
 # Rossan Jonik
 ---
 ### Description
 - 3rd year Halfling Artificer in Treskal
-- straight red hair that's hanging down to their back, Hazel eyes, and Fair skin
+- straight red hair that's hanging down to their back, Pale Blue eyes, and Fair skin
 - Is Impartial and Unaggressive, and has Might as their ideal
 
 ### Organizations

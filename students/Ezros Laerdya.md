@@ -2,7 +2,7 @@
 name: Ezros Laerdya
 race: Elf
 hair: wavy red hair that's a tousled bed head
-eyes: Amber
+eyes: Pale Brown
 skin: Light
 ideal: Fame
 trait1: Loving
@@ -33,12 +33,18 @@ stats:
 year: 1
 guild: Fiesn
 partyID: 18
+tags:
+- Elf
+- Cleric
+- Exploration
+- 1st
+- Fiesn
 ---
 # Ezros Laerdya
 ---
 ### Description
 - 1st year Elf Cleric in Fiesn
-- wavy red hair that's a tousled bed head, Amber eyes, and Light skin
+- wavy red hair that's a tousled bed head, Pale Brown eyes, and Light skin
 - Is Loving and Monstrous, and has Fame as their ideal
 
 ### Organizations

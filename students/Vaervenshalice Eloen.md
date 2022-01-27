@@ -2,7 +2,7 @@
 name: Vaervenshalice Eloen
 race: Elf
 hair: curly dirty blonde hair that's geled back
-eyes: Amber
+eyes: Green
 skin: Dark Brown
 ideal: Power
 trait1: Stubborn
@@ -35,12 +35,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 51
+tags:
+- Elf
+- Ranger
+- Exploration
+- 1st
+- Treskal
 ---
 # Vaervenshalice Eloen
 ---
 ### Description
 - 1st year Elf Ranger in Treskal
-- curly dirty blonde hair that's geled back, Amber eyes, and Dark Brown skin
+- curly dirty blonde hair that's geled back, Green eyes, and Dark Brown skin
 - Is Stubborn and Envious, and has Power as their ideal
 
 ### Organizations

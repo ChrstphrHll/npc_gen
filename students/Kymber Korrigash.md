@@ -2,7 +2,7 @@
 name: Kymber Korrigash
 race: Elf
 hair: wavy black hair that's parted to the side, slightly obscuring an eye
-eyes: Blue
+eyes: Amber
 skin: Dark Brown
 ideal: Abundance
 trait1: Just
@@ -32,12 +32,18 @@ stats:
 year: 2
 guild: Jettenia
 partyID: 33
+tags:
+- Elf
+- Paladin
+- Assault
+- 2nd
+- Jettenia
 ---
 # Kymber Korrigash
 ---
 ### Description
 - 2nd year Elf Paladin in Jettenia
-- wavy black hair that's parted to the side, slightly obscuring an eye, Blue eyes, and Dark Brown skin
+- wavy black hair that's parted to the side, slightly obscuring an eye, Amber eyes, and Dark Brown skin
 - Is Just and Physical, and has Abundance as their ideal
 
 ### Organizations

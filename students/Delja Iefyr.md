@@ -2,7 +2,7 @@
 name: Delja Iefyr
 race: Half-Elf
 hair: straight dirty blonde hair that's put up in a large bun
-eyes: Pale Brown
+eyes: Amber
 skin: Light
 ideal: Power
 trait1: Harmonious
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 38
+tags:
+- Half-Elf
+- Druid
+- Diplomacy
+- 1st
+- Burk
 ---
 # Delja Iefyr
 ---
 ### Description
 - 1st year Half-Elf Druid in Burk
-- straight dirty blonde hair that's put up in a large bun, Pale Brown eyes, and Light skin
+- straight dirty blonde hair that's put up in a large bun, Amber eyes, and Light skin
 - Is Harmonious and Risk-taking, and has Power as their ideal
 
 ### Organizations

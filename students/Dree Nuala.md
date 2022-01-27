@@ -2,7 +2,7 @@
 name: Dree Nuala
 race: Gnome
 hair: curly lighter blonde hair that's braided with violet ribbon (long)
-eyes: Hazel
+eyes: Amber
 skin: Brown
 ideal: Stoicism
 trait1: Unreligious
@@ -36,12 +36,18 @@ stats:
 year: 6
 guild: Treskal
 partyID: 58
+tags:
+- Gnome
+- Rouge
+- Diplomacy
+- 6th
+- Treskal
 ---
 # Dree Nuala
 ---
 ### Description
 - 6th year Gnome Rouge in Treskal
-- curly lighter blonde hair that's braided with violet ribbon (long), Hazel eyes, and Brown skin
+- curly lighter blonde hair that's braided with violet ribbon (long), Amber eyes, and Brown skin
 - Is Unreligious and Big-thinking, and has Stoicism as their ideal
 
 ### Organizations

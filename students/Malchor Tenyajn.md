@@ -2,7 +2,7 @@
 name: Malchor Tenyajn
 race: Genasi
 hair: curly red hair that's braided with turquoise ribbon (long)
-eyes: Pale Brown
+eyes: Amber
 skin: water
 ideal: Humanity
 trait1: Affable
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Fiesn
 partyID: 81
+tags:
+- Genasi
+- Rouge
+- Exploration
+- 1st
+- Fiesn
 ---
 # Malchor Tenyajn
 ---
 ### Description
 - 1st year Genasi Rouge in Fiesn
-- curly red hair that's braided with turquoise ribbon (long), Pale Brown eyes, and water skin
+- curly red hair that's braided with turquoise ribbon (long), Amber eyes, and water skin
 - Is Affable and Regimental, and has Humanity as their ideal
 
 ### Organizations

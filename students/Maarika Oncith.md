@@ -2,7 +2,7 @@
 name: Maarika Oncith
 race: Dragonborn
 hair: 4 curled horns
-eyes: Blue
+eyes: Deep Blue
 skin: red
 ideal: Community
 trait1: Tractable
@@ -31,12 +31,18 @@ stats:
 year: 3
 guild: Fiesn
 partyID: 94
+tags:
+- Dragonborn
+- Artificer
+- Protection
+- 3rd
+- Fiesn
 ---
 # Maarika Oncith
 ---
 ### Description
 - 3rd year Dragonborn Artificer in Fiesn
-- 4 curled horns, Blue eyes, and red skin
+- 4 curled horns, Deep Blue eyes, and red skin
 - Is Tractable and Naughty, and has Community as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Santyeg Kuskyn
 race: Elf
 hair: straight dirty blonde hair that's loose around the shoulders
-eyes: Brown
+eyes: Hazel
 skin: Brown
 ideal: Humane
 trait1: Self-critical
@@ -33,12 +33,18 @@ stats:
 year: 1
 guild: Fiesn
 partyID: 81
+tags:
+- Elf
+- Rouge
+- Assault
+- 1st
+- Fiesn
 ---
 # Santyeg Kuskyn
 ---
 ### Description
 - 1st year Elf Rouge in Fiesn
-- straight dirty blonde hair that's loose around the shoulders, Brown eyes, and Brown skin
+- straight dirty blonde hair that's loose around the shoulders, Hazel eyes, and Brown skin
 - Is Self-critical and Cute, and has Humane as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Iamus Aneirin
 race: Dwarf
 hair: straight turquoise hair that's parted to the left
-eyes: Pale Blue
+eyes: Pale Gray
 skin: Light
 ideal: Harmony
 trait1: Dynamic
@@ -29,12 +29,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 74
+tags:
+- Dwarf
+- Paladin
+- Diplomacy
+- 1st
+- Treskal
 ---
 # Iamus Aneirin
 ---
 ### Description
 - 1st year Dwarf Paladin in Treskal
-- straight turquoise hair that's parted to the left, Pale Blue eyes, and Light skin
+- straight turquoise hair that's parted to the left, Pale Gray eyes, and Light skin
 - Is Dynamic and Obvious, and has Harmony as their ideal
 
 ### Organizations

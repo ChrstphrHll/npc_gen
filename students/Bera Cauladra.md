@@ -2,7 +2,7 @@
 name: Bera Cauladra
 race: Gnome
 hair: curly blonde hair that's parted to the right
-eyes: Gray
+eyes: Pale Blue
 skin: Tan
 ideal: Clarity
 trait1: Modern
@@ -31,12 +31,18 @@ stats:
 year: 4
 guild: Elkenval
 partyID: 23
+tags:
+- Gnome
+- Cleric
+- Diplomacy
+- 4th
+- Elkenval
 ---
 # Bera Cauladra
 ---
 ### Description
 - 4th year Gnome Cleric in Elkenval
-- curly blonde hair that's parted to the right, Gray eyes, and Tan skin
+- curly blonde hair that's parted to the right, Pale Blue eyes, and Tan skin
 - Is Modern and Destructive, and has Clarity as their ideal
 
 ### Organizations

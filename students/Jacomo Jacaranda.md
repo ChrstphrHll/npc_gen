@@ -2,7 +2,7 @@
 name: Jacomo Jacaranda
 race: Halfling
 hair: straight grey hair that's pulled to the side and buzzed on the left
-eyes: Hazel
+eyes: Pale Blue
 skin: Pale
 ideal: Personal Development
 trait1: Iconoclastic
@@ -31,12 +31,18 @@ stats:
 year: 5
 guild: Alderden
 partyID: 11
+tags:
+- Halfling
+- Barbarian
+- Assault
+- 5th
+- Alderden
 ---
 # Jacomo Jacaranda
 ---
 ### Description
 - 5th year Halfling Barbarian in Alderden
-- straight grey hair that's pulled to the side and buzzed on the left, Hazel eyes, and Pale skin
+- straight grey hair that's pulled to the side and buzzed on the left, Pale Blue eyes, and Pale skin
 - Is Iconoclastic and Narrow, and has Personal Development as their ideal
 
 ### Organizations

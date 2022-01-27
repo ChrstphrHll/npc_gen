@@ -2,7 +2,7 @@
 name: Rivik Connak
 race: Triton
 hair: wavy white hair that's parted to the right
-eyes: Pale Brown
+eyes: Aqua
 skin: Olive
 ideal: Humanity
 trait1: Hearty
@@ -31,12 +31,18 @@ stats:
 year: 3
 guild: Elkenval
 partyID: 30
+tags:
+- Triton
+- Monk
+- Assault
+- 3rd
+- Elkenval
 ---
 # Rivik Connak
 ---
 ### Description
 - 3rd year Triton Monk in Elkenval
-- wavy white hair that's parted to the right, Pale Brown eyes, and Olive skin
+- wavy white hair that's parted to the right, Aqua eyes, and Olive skin
 - Is Hearty and Neutral, and has Humanity as their ideal
 
 ### Organizations

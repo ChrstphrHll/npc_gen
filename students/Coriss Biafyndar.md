@@ -2,7 +2,7 @@
 name: Coriss Biafyndar
 race: Elf
 hair: wavy white hair that's geled back
-eyes: Gray
+eyes: Brown
 skin: Light Tan
 ideal: Personal Development
 trait1: Equitable
@@ -32,12 +32,18 @@ stats:
 year: 5
 guild: Fiesn
 partyID: 53
+tags:
+- Elf
+- Druid
+- Protection
+- 5th
+- Fiesn
 ---
 # Coriss Biafyndar
 ---
 ### Description
 - 5th year Elf Druid in Fiesn
-- wavy white hair that's geled back, Gray eyes, and Light Tan skin
+- wavy white hair that's geled back, Brown eyes, and Light Tan skin
 - Is Equitable and Unmerciful, and has Personal Development as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Verssek Nese
 race: Half-Elf
 hair: wavy dirty blonde hair that's hanging down to their back
-eyes: Brown
+eyes: Gray
 skin: Light
 ideal: Logic
 trait1: Gentle
@@ -32,12 +32,18 @@ stats:
 year: 3
 guild: Treskal
 partyID: 19
+tags:
+- Half-Elf
+- Artificer
+- Protection
+- 3rd
+- Treskal
 ---
 # Verssek Nese
 ---
 ### Description
 - 3rd year Half-Elf Artificer in Treskal
-- wavy dirty blonde hair that's hanging down to their back, Brown eyes, and Light skin
+- wavy dirty blonde hair that's hanging down to their back, Gray eyes, and Light skin
 - Is Gentle and Impassive, and has Logic as their ideal
 
 ### Organizations

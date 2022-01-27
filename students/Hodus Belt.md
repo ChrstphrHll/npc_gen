@@ -2,7 +2,7 @@
 name: Hodus Belt
 race: Elf
 hair: wavy white hair that's parted to the left
-eyes: Brown
+eyes: Pale Gray
 skin: Brown
 ideal: Harmony
 trait1: Lucky
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 38
+tags:
+- Elf
+- Bard
+- Assault
+- 1st
+- Burk
 ---
 # Hodus Belt
 ---
 ### Description
 - 1st year Elf Bard in Burk
-- wavy white hair that's parted to the left, Brown eyes, and Brown skin
+- wavy white hair that's parted to the left, Pale Gray eyes, and Brown skin
 - Is Lucky and Vindictive, and has Harmony as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Pinna Vanius
 race: Elf
 hair: wavy black hair that's pulled to the side and buzzed on the left
-eyes: Pale Blue
+eyes: Amber
 skin: Fair
 ideal: Redemption
 trait1: Original
@@ -34,12 +34,18 @@ stats:
 year: 7
 guild: Fiesn
 partyID: 89
+tags:
+- Elf
+- Bard
+- Assault
+- 7th
+- Fiesn
 ---
 # Pinna Vanius
 ---
 ### Description
 - 7th year Elf Bard in Fiesn
-- wavy black hair that's pulled to the side and buzzed on the left, Pale Blue eyes, and Fair skin
+- wavy black hair that's pulled to the side and buzzed on the left, Amber eyes, and Fair skin
 - Is Original and Impractical, and has Redemption as their ideal
 
 ### Organizations

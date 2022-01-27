@@ -2,7 +2,7 @@
 name: Lucoe Lorelei
 race: Dwarf
 hair: curly dark red hair that's put back in a long pony tail
-eyes: Pale Gray
+eyes: Amber
 skin: Dark Tan
 ideal: Creativity
 trait1: Modest
@@ -34,12 +34,18 @@ stats:
 year: 2
 guild: Treskal
 partyID: 44
+tags:
+- Dwarf
+- Barbarian
+- Exploration
+- 2nd
+- Treskal
 ---
 # Lucoe Lorelei
 ---
 ### Description
 - 2nd year Dwarf Barbarian in Treskal
-- curly dark red hair that's put back in a long pony tail, Pale Gray eyes, and Dark Tan skin
+- curly dark red hair that's put back in a long pony tail, Amber eyes, and Dark Tan skin
 - Is Modest and Contemptible, and has Creativity as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Faliah Oluevaera
 race: Gnome
 hair: wavy strawberry blond hair that's put up in a large bun
-eyes: Gray
+eyes: Pale Brown
 skin: Tan
 ideal: Ambition
 trait1: Anticipative
@@ -30,12 +30,18 @@ stats:
 year: 8
 guild: Elkenval
 partyID: 92
+tags:
+- Gnome
+- Cleric
+- Protection
+- 8th
+- Elkenval
 ---
 # Faliah Oluevaera
 ---
 ### Description
 - 8th year Gnome Cleric in Elkenval
-- wavy strawberry blond hair that's put up in a large bun, Gray eyes, and Tan skin
+- wavy strawberry blond hair that's put up in a large bun, Pale Brown eyes, and Tan skin
 - Is Anticipative and Competitive, and has Ambition as their ideal
 
 ### Organizations

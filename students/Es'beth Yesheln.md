@@ -2,7 +2,7 @@
 name: Es'beth Yesheln
 race: Elf
 hair: curly dirty blonde hair that's loose around the shoulders
-eyes: Amber
+eyes: Pale Blue
 skin: Light
 ideal: Simplicity
 trait1: Stylish
@@ -35,12 +35,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 69
+tags:
+- Elf
+- Monk
+- Exploration
+- 1st
+- Treskal
 ---
 # Es'beth Yesheln
 ---
 ### Description
 - 1st year Elf Monk in Treskal
-- curly dirty blonde hair that's loose around the shoulders, Amber eyes, and Light skin
+- curly dirty blonde hair that's loose around the shoulders, Pale Blue eyes, and Light skin
 - Is Stylish and Neurotic, and has Simplicity as their ideal
 
 ### Organizations

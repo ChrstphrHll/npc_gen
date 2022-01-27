@@ -2,7 +2,7 @@
 name: Halia Dominguez
 race: Triton
 hair: wavy white hair that's braided with blue ribbon (long)
-eyes: Deep Blue
+eyes: Purple
 skin: Emerald Green
 ideal: Learning
 trait1: Earthy
@@ -34,12 +34,18 @@ stats:
 year: 3
 guild: Fiesn
 partyID: 98
+tags:
+- Triton
+- Paladin
+- Protection
+- 3rd
+- Fiesn
 ---
 # Halia Dominguez
 ---
 ### Description
 - 3rd year Triton Paladin in Fiesn
-- wavy white hair that's braided with blue ribbon (long), Deep Blue eyes, and Emerald Green skin
+- wavy white hair that's braided with blue ribbon (long), Purple eyes, and Emerald Green skin
 - Is Earthy and Unfriendly, and has Learning as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Kembley Ralnor
 race: Half-Orc
 hair: curly strawberry blond hair that's put up in a large bun
-eyes: Pale Green
+eyes: Blue
 skin: Pale Gray
 ideal: Entrepreneurial
 trait1: Unaggressive
@@ -32,12 +32,18 @@ stats:
 year: 8
 guild: Jettenia
 partyID: 80
+tags:
+- Half-Orc
+- Sorcerer
+- Protection
+- 8th
+- Jettenia
 ---
 # Kembley Ralnor
 ---
 ### Description
 - 8th year Half-Orc Sorcerer in Jettenia
-- curly strawberry blond hair that's put up in a large bun, Pale Green eyes, and Pale Gray skin
+- curly strawberry blond hair that's put up in a large bun, Blue eyes, and Pale Gray skin
 - Is Unaggressive and Unimaginative, and has Entrepreneurial as their ideal
 
 ### Organizations

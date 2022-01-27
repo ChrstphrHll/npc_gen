@@ -2,7 +2,7 @@
 name: Jothen Elway
 race: Human
 hair: curly blonde hair that's braided with turquoise ribbon (long)
-eyes: Pale Gray
+eyes: Pale Green
 skin: Tan
 ideal: Cruelty
 trait1: Freewheeling
@@ -31,12 +31,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 2
+tags:
+- Human
+- Rouge
+- Exploration
+- 1st
+- Elkenval
 ---
 # Jothen Elway
 ---
 ### Description
 - 1st year Human Rouge in Elkenval
-- curly blonde hair that's braided with turquoise ribbon (long), Pale Gray eyes, and Tan skin
+- curly blonde hair that's braided with turquoise ribbon (long), Pale Green eyes, and Tan skin
 - Is Freewheeling and Dreamy, and has Cruelty as their ideal
 
 ### Organizations

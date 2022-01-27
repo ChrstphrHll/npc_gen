@@ -2,7 +2,7 @@
 name: Handyr Letryal
 race: Dragonborn
 hair: frills
-eyes: Red
+eyes: Pale Brown
 skin: red
 ideal: Order
 trait1: Well-rounded
@@ -33,12 +33,18 @@ stats:
 year: 1
 guild: Fiesn
 partyID: 96
+tags:
+- Dragonborn
+- Artificer
+- Diplomacy
+- 1st
+- Fiesn
 ---
 # Handyr Letryal
 ---
 ### Description
 - 1st year Dragonborn Artificer in Fiesn
-- frills, Red eyes, and red skin
+- frills, Pale Brown eyes, and red skin
 - Is Well-rounded and Smooth, and has Order as their ideal
 
 ### Organizations

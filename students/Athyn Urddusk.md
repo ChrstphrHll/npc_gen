@@ -2,7 +2,7 @@
 name: Athyn Urddusk
 race: Human
 hair: curly red hair that's put back in a short pony tail
-eyes: Hazel
+eyes: Brown
 skin: Light
 ideal: Wisdom
 trait1: Purposeful
@@ -31,12 +31,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 40
+tags:
+- Human
+- Artificer
+- Assault
+- 1st
+- Elkenval
 ---
 # Athyn Urddusk
 ---
 ### Description
 - 1st year Human Artificer in Elkenval
-- curly red hair that's put back in a short pony tail, Hazel eyes, and Light skin
+- curly red hair that's put back in a short pony tail, Brown eyes, and Light skin
 - Is Purposeful and Ill-bred, and has Wisdom as their ideal
 
 ### Organizations

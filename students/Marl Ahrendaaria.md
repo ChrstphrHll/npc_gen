@@ -2,7 +2,7 @@
 name: Marl Ahrendaaria
 race: Gnome
 hair: wavy black hair that's kept back by a violet headband
-eyes: Brown
+eyes: Pale Gray
 skin: Dark Brown
 ideal: People
 trait1: Unpredictable
@@ -30,12 +30,18 @@ stats:
 year: 2
 guild: Jettenia
 partyID: 12
+tags:
+- Gnome
+- Fighter
+- Exploration
+- 2nd
+- Jettenia
 ---
 # Marl Ahrendaaria
 ---
 ### Description
 - 2nd year Gnome Fighter in Jettenia
-- wavy black hair that's kept back by a violet headband, Brown eyes, and Dark Brown skin
+- wavy black hair that's kept back by a violet headband, Pale Gray eyes, and Dark Brown skin
 - Is Unpredictable and Progressive, and has People as their ideal
 
 ### Organizations

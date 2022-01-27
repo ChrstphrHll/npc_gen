@@ -2,7 +2,7 @@
 name: Moki Aelynthi
 race: Gnome
 hair: straight auburn hair that's hanging down to their back
-eyes: Hazel
+eyes: Pale Gray
 skin: Tan
 ideal: Live and Let Live
 trait1: Open
@@ -33,12 +33,18 @@ stats:
 year: 6
 guild: Burk
 partyID: 29
+tags:
+- Gnome
+- Druid
+- Protection
+- 6th
+- Burk
 ---
 # Moki Aelynthi
 ---
 ### Description
 - 6th year Gnome Druid in Burk
-- straight auburn hair that's hanging down to their back, Hazel eyes, and Tan skin
+- straight auburn hair that's hanging down to their back, Pale Gray eyes, and Tan skin
 - Is Open and Devious, and has Live and Let Live as their ideal
 
 ### Organizations

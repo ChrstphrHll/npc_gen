@@ -2,7 +2,7 @@
 name: Taanyth Seeker
 race: Human
 hair: straight black hair that's parted to the side, slightly obscuring an eye
-eyes: Blue
+eyes: Pale Green
 skin: Tan
 ideal: Gratitude
 trait1: Active
@@ -33,12 +33,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 31
+tags:
+- Human
+- Monk
+- Assault
+- 1st
+- Burk
 ---
 # Taanyth Seeker
 ---
 ### Description
 - 1st year Human Monk in Burk
-- straight black hair that's parted to the side, slightly obscuring an eye, Blue eyes, and Tan skin
+- straight black hair that's parted to the side, slightly obscuring an eye, Pale Green eyes, and Tan skin
 - Is Active and Insolent, and has Gratitude as their ideal
 
 ### Organizations

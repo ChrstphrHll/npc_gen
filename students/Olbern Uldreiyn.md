@@ -2,7 +2,7 @@
 name: Olbern Uldreiyn
 race: Human
 hair: curly lighter blonde hair that's loose around the shoulders
-eyes: Green
+eyes: Blue
 skin: Pale
 ideal: Leadership
 trait1: Merciful
@@ -30,12 +30,18 @@ stats:
 year: 4
 guild: Treskal
 partyID: 62
+tags:
+- Human
+- Sorcerer
+- Assault
+- 4th
+- Treskal
 ---
 # Olbern Uldreiyn
 ---
 ### Description
 - 4th year Human Sorcerer in Treskal
-- curly lighter blonde hair that's loose around the shoulders, Green eyes, and Pale skin
+- curly lighter blonde hair that's loose around the shoulders, Blue eyes, and Pale skin
 - Is Merciful and Stubborn, and has Leadership as their ideal
 
 ### Organizations

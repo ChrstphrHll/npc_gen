@@ -2,7 +2,7 @@
 name: Aidyn Glynnii
 race: Half-Orc
 hair: wavy dirty blonde hair that's hanging down to their back
-eyes: Pale Gray
+eyes: Pale Blue
 skin: Deep Green
 ideal: Dishonesty
 trait1: Meticulous
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 2
+tags:
+- Half-Orc
+- Monk
+- Exploration
+- 1st
+- Elkenval
 ---
 # Aidyn Glynnii
 ---
 ### Description
 - 1st year Half-Orc Monk in Elkenval
-- wavy dirty blonde hair that's hanging down to their back, Pale Gray eyes, and Deep Green skin
+- wavy dirty blonde hair that's hanging down to their back, Pale Blue eyes, and Deep Green skin
 - Is Meticulous and Bizarre, and has Dishonesty as their ideal
 
 ### Organizations

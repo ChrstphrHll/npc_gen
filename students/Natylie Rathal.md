@@ -2,7 +2,7 @@
 name: Natylie Rathal
 race: Elf
 hair: wavy strawberry blond hair that's hanging down to their legs
-eyes: Amber
+eyes: Pale Gray
 skin: Tan
 ideal: Speed
 trait1: Pleasant
@@ -33,12 +33,18 @@ stats:
 year: 5
 guild: Jettenia
 partyID: 97
+tags:
+- Elf
+- Barbarian
+- Assault
+- 5th
+- Jettenia
 ---
 # Natylie Rathal
 ---
 ### Description
 - 5th year Elf Barbarian in Jettenia
-- wavy strawberry blond hair that's hanging down to their legs, Amber eyes, and Tan skin
+- wavy strawberry blond hair that's hanging down to their legs, Pale Gray eyes, and Tan skin
 - Is Pleasant and Emotional, and has Speed as their ideal
 
 ### Organizations

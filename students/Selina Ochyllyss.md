@@ -2,7 +2,7 @@
 name: Selina Ochyllyss
 race: Dwarf
 hair: straight lighter blonde hair that's loose around the shoulders
-eyes: Hazel
+eyes: Blue
 skin: Light Tan
 ideal: Logic
 trait1: Droll
@@ -36,12 +36,18 @@ stats:
 year: 5
 guild: Jettenia
 partyID: 35
+tags:
+- Dwarf
+- Monk
+- Exploration
+- 5th
+- Jettenia
 ---
 # Selina Ochyllyss
 ---
 ### Description
 - 5th year Dwarf Monk in Jettenia
-- straight lighter blonde hair that's loose around the shoulders, Hazel eyes, and Light Tan skin
+- straight lighter blonde hair that's loose around the shoulders, Blue eyes, and Light Tan skin
 - Is Droll and Restrained, and has Logic as their ideal
 
 ### Organizations

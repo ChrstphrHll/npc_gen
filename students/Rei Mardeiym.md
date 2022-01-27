@@ -2,7 +2,7 @@
 name: Rei Mardeiym
 race: Firbolg
 hair: straight pink hair that's put back in a short pony tail
-eyes: Amber
+eyes: Pale Blue
 skin: Pale Green
 ideal: Grace
 trait1: Patient
@@ -33,12 +33,18 @@ stats:
 year: 7
 guild: Alderden
 partyID: 6
+tags:
+- Firbolg
+- Sorcerer
+- Protection
+- 7th
+- Alderden
 ---
 # Rei Mardeiym
 ---
 ### Description
 - 7th year Firbolg Sorcerer in Alderden
-- straight pink hair that's put back in a short pony tail, Amber eyes, and Pale Green skin
+- straight pink hair that's put back in a short pony tail, Pale Blue eyes, and Pale Green skin
 - Is Patient and Narrow-minded, and has Grace as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Shinare Bersa
 race: Tiefling
 hair: curly platinum hair that's put back in a long pony tail
-eyes: Deep Blue
+eyes: Spring Green
 skin: Violet Red
 ideal: Uncaring
 trait1: Admirable
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Fiesn
 partyID: 18
+tags:
+- Tiefling
+- Ranger
+- Exploration
+- 1st
+- Fiesn
 ---
 # Shinare Bersa
 ---
 ### Description
 - 1st year Tiefling Ranger in Fiesn
-- curly platinum hair that's put back in a long pony tail, Deep Blue eyes, and Violet Red skin
+- curly platinum hair that's put back in a long pony tail, Spring Green eyes, and Violet Red skin
 - Is Admirable and Invisible, and has Uncaring as their ideal
 
 ### Organizations

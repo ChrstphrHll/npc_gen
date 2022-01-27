@@ -2,7 +2,7 @@
 name: Kloya Kershaw
 race: Gnome
 hair: straight brunette hair that's a buzz cut
-eyes: Pale Green
+eyes: Amber
 skin: Pale
 ideal: Involvement
 trait1: Heroic
@@ -31,12 +31,18 @@ stats:
 year: 5
 guild: Jettenia
 partyID: 97
+tags:
+- Gnome
+- Bard
+- Protection
+- 5th
+- Jettenia
 ---
 # Kloya Kershaw
 ---
 ### Description
 - 5th year Gnome Bard in Jettenia
-- straight brunette hair that's a buzz cut, Pale Green eyes, and Pale skin
+- straight brunette hair that's a buzz cut, Amber eyes, and Pale skin
 - Is Heroic and Unconvincing, and has Involvement as their ideal
 
 ### Organizations

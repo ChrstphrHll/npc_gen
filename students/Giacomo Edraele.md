@@ -2,7 +2,7 @@
 name: Giacomo Edraele
 race: Human
 hair: curly lighter blonde hair that's kept back by a green headband
-eyes: Brown
+eyes: Green
 skin: Light Tan
 ideal: Exceptionalism
 trait1: Communicative
@@ -36,12 +36,18 @@ stats:
 year: 2
 guild: Treskal
 partyID: 3
+tags:
+- Human
+- Druid
+- Diplomacy
+- 2nd
+- Treskal
 ---
 # Giacomo Edraele
 ---
 ### Description
 - 2nd year Human Druid in Treskal
-- curly lighter blonde hair that's kept back by a green headband, Brown eyes, and Light Tan skin
+- curly lighter blonde hair that's kept back by a green headband, Green eyes, and Light Tan skin
 - Is Communicative and Ungrateful, and has Exceptionalism as their ideal
 
 ### Organizations

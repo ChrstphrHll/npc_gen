@@ -2,7 +2,7 @@
 name: Cam Lazziar
 race: Firbolg
 hair: straight auburn hair that's parted to the left
-eyes: Amber
+eyes: Hazel
 skin: Pale Blue
 ideal: Spontaneity
 trait1: Obliging
@@ -32,12 +32,18 @@ stats:
 year: 7
 guild: Alderden
 partyID: 6
+tags:
+- Firbolg
+- Bard
+- Protection
+- 7th
+- Alderden
 ---
 # Cam Lazziar
 ---
 ### Description
 - 7th year Firbolg Bard in Alderden
-- straight auburn hair that's parted to the left, Amber eyes, and Pale Blue skin
+- straight auburn hair that's parted to the left, Hazel eyes, and Pale Blue skin
 - Is Obliging and Venal, and has Spontaneity as their ideal
 
 ### Organizations

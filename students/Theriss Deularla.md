@@ -36,6 +36,12 @@ stats:
 year: 6
 guild: Treskal
 partyID: 58
+tags:
+- Gnome
+- Cleric
+- Protection
+- 6th
+- Treskal
 ---
 # Theriss Deularla
 ---

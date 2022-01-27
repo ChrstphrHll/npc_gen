@@ -2,7 +2,7 @@
 name: Murunay Illfate
 race: Elf
 hair: curly dark red hair that's hanging down to their back
-eyes: Blue
+eyes: Brown
 skin: Brown
 ideal: Affection
 trait1: Restrained
@@ -32,12 +32,18 @@ stats:
 year: 4
 guild: Burk
 partyID: 75
+tags:
+- Elf
+- Ranger
+- Exploration
+- 4th
+- Burk
 ---
 # Murunay Illfate
 ---
 ### Description
 - 4th year Elf Ranger in Burk
-- curly dark red hair that's hanging down to their back, Blue eyes, and Brown skin
+- curly dark red hair that's hanging down to their back, Brown eyes, and Brown skin
 - Is Restrained and Immature, and has Affection as their ideal
 
 ### Organizations

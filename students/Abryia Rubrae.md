@@ -2,7 +2,7 @@
 name: Abryia Rubrae
 race: Halfling
 hair: wavy dark red hair that's parted to the left
-eyes: Pale Brown
+eyes: Green
 skin: Light
 ideal: Leadership
 trait1: Dreamer
@@ -34,12 +34,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 93
+tags:
+- Halfling
+- Monk
+- Exploration
+- 2nd
+- Burk
 ---
 # Abryia Rubrae
 ---
 ### Description
 - 2nd year Halfling Monk in Burk
-- wavy dark red hair that's parted to the left, Pale Brown eyes, and Light skin
+- wavy dark red hair that's parted to the left, Green eyes, and Light skin
 - Is Dreamer and Scheming, and has Leadership as their ideal
 
 ### Organizations

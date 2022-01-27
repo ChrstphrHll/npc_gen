@@ -2,7 +2,7 @@
 name: Avaery Klaern
 race: Halfling
 hair: wavy platinum hair that's loose around the shoulders
-eyes: Pale Brown
+eyes: Amber
 skin: Fair
 ideal: Cooperation
 trait1: Silent
@@ -31,12 +31,18 @@ stats:
 year: 1
 guild: Jettenia
 partyID: 66
+tags:
+- Halfling
+- Barbarian
+- Exploration
+- 1st
+- Jettenia
 ---
 # Avaery Klaern
 ---
 ### Description
 - 1st year Halfling Barbarian in Jettenia
-- wavy platinum hair that's loose around the shoulders, Pale Brown eyes, and Fair skin
+- wavy platinum hair that's loose around the shoulders, Amber eyes, and Fair skin
 - Is Silent and Unimaginative, and has Cooperation as their ideal
 
 ### Organizations

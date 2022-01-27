@@ -2,7 +2,7 @@
 name: Jaedyn Arbane
 race: Half-Elf
 hair: straight platinum hair that's a buzz cut
-eyes: Hazel
+eyes: Amber
 skin: Dark Tan
 ideal: Invention
 trait1: Private
@@ -36,12 +36,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 69
+tags:
+- Half-Elf
+- Paladin
+- Exploration
+- 1st
+- Treskal
 ---
 # Jaedyn Arbane
 ---
 ### Description
 - 1st year Half-Elf Paladin in Treskal
-- straight platinum hair that's a buzz cut, Hazel eyes, and Dark Tan skin
+- straight platinum hair that's a buzz cut, Amber eyes, and Dark Tan skin
 - Is Private and Picky, and has Invention as their ideal
 
 ### Organizations

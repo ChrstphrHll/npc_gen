@@ -2,7 +2,7 @@
 name: Julyo Agassi
 race: Dwarf
 hair: wavy dark red hair that's braided with blue ribbon (long)
-eyes: Brown
+eyes: Green
 skin: Dark Brown
 ideal: Peace
 trait1: Stable
@@ -34,12 +34,18 @@ stats:
 year: 5
 guild: Elkenval
 partyID: 47
+tags:
+- Dwarf
+- Sorcerer
+- Assault
+- 5th
+- Elkenval
 ---
 # Julyo Agassi
 ---
 ### Description
 - 5th year Dwarf Sorcerer in Elkenval
-- wavy dark red hair that's braided with blue ribbon (long), Brown eyes, and Dark Brown skin
+- wavy dark red hair that's braided with blue ribbon (long), Green eyes, and Dark Brown skin
 - Is Stable and Harsh, and has Peace as their ideal
 
 ### Organizations

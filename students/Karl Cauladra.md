@@ -2,7 +2,7 @@
 name: Karl Cauladra
 race: Gnome
 hair: straight lighter blonde hair that's parted to the right
-eyes: Pale Gray
+eyes: Gray
 skin: Pale
 ideal: Teamwork
 trait1: Incorruptible
@@ -36,12 +36,18 @@ stats:
 year: 6
 guild: Treskal
 partyID: 58
+tags:
+- Gnome
+- Rouge
+- Protection
+- 6th
+- Treskal
 ---
 # Karl Cauladra
 ---
 ### Description
 - 6th year Gnome Rouge in Treskal
-- straight lighter blonde hair that's parted to the right, Pale Gray eyes, and Pale skin
+- straight lighter blonde hair that's parted to the right, Gray eyes, and Pale skin
 - Is Incorruptible and Self-centered, and has Teamwork as their ideal
 
 ### Organizations

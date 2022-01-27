@@ -2,7 +2,7 @@
 name: Jareth Tanseril
 race: Gnome
 hair: wavy blue hair that's put back in a long pony tail
-eyes: Pale Gray
+eyes: Blue
 skin: Light
 ideal: Learning
 trait1: Sage
@@ -33,12 +33,18 @@ stats:
 year: 7
 guild: Jettenia
 partyID: 10
+tags:
+- Gnome
+- Artificer
+- Exploration
+- 7th
+- Jettenia
 ---
 # Jareth Tanseril
 ---
 ### Description
 - 7th year Gnome Artificer in Jettenia
-- wavy blue hair that's put back in a long pony tail, Pale Gray eyes, and Light skin
+- wavy blue hair that's put back in a long pony tail, Blue eyes, and Light skin
 - Is Sage and Unreliable, and has Learning as their ideal
 
 ### Organizations

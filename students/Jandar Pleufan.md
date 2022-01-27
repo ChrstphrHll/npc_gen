@@ -2,7 +2,7 @@
 name: Jandar Pleufan
 race: Gnome
 hair: straight dark red hair that's parted to the side, slightly obscuring an eye
-eyes: Blue
+eyes: Green
 skin: Brown
 ideal: Family
 trait1: Forgiving
@@ -36,12 +36,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 91
+tags:
+- Gnome
+- Ranger
+- Protection
+- 1st
+- Elkenval
 ---
 # Jandar Pleufan
 ---
 ### Description
 - 1st year Gnome Ranger in Elkenval
-- straight dark red hair that's parted to the side, slightly obscuring an eye, Blue eyes, and Brown skin
+- straight dark red hair that's parted to the side, slightly obscuring an eye, Green eyes, and Brown skin
 - Is Forgiving and Domineering, and has Family as their ideal
 
 ### Organizations

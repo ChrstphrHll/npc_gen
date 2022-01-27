@@ -2,7 +2,7 @@
 name: Evyn Fenton
 race: Half-Orc
 hair: curly platinum hair that's hanging down to their back
-eyes: Pale Brown
+eyes: Pale Blue
 skin: Pale Green
 ideal: Spiritualism
 trait1: Well-rounded
@@ -31,12 +31,18 @@ stats:
 year: 2
 guild: Elkenval
 partyID: 34
+tags:
+- Half-Orc
+- Rouge
+- Protection
+- 2nd
+- Elkenval
 ---
 # Evyn Fenton
 ---
 ### Description
 - 2nd year Half-Orc Rouge in Elkenval
-- curly platinum hair that's hanging down to their back, Pale Brown eyes, and Pale Green skin
+- curly platinum hair that's hanging down to their back, Pale Blue eyes, and Pale Green skin
 - Is Well-rounded and Perverse, and has Spiritualism as their ideal
 
 ### Organizations

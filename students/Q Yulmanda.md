@@ -2,7 +2,7 @@
 name: Q Yulmanda
 race: Tiefling
 hair: wavy grey hair that's put up in a large bun
-eyes: Pale Gray
+eyes: Gray
 skin: Dark Red
 ideal: Security
 trait1: Appreciative
@@ -31,12 +31,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 65
+tags:
+- Tiefling
+- Barbarian
+- Exploration
+- 2nd
+- Burk
 ---
 # Q Yulmanda
 ---
 ### Description
 - 2nd year Tiefling Barbarian in Burk
-- wavy grey hair that's put up in a large bun, Pale Gray eyes, and Dark Red skin
+- wavy grey hair that's put up in a large bun, Gray eyes, and Dark Red skin
 - Is Appreciative and Mystical, and has Security as their ideal
 
 ### Organizations

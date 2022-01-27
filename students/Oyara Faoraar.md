@@ -2,7 +2,7 @@
 name: Oyara Faoraar
 race: Halfling
 hair: wavy turquoise hair that's geled back
-eyes: Pale Gray
+eyes: Blue
 skin: Pale
 ideal: Change
 trait1: Skeptical
@@ -29,12 +29,18 @@ stats:
 year: 4
 guild: Elkenval
 partyID: 76
+tags:
+- Halfling
+- Ranger
+- Protection
+- 4th
+- Elkenval
 ---
 # Oyara Faoraar
 ---
 ### Description
 - 4th year Halfling Ranger in Elkenval
-- wavy turquoise hair that's geled back, Pale Gray eyes, and Pale skin
+- wavy turquoise hair that's geled back, Blue eyes, and Pale skin
 - Is Skeptical and Steely, and has Change as their ideal
 
 ### Organizations

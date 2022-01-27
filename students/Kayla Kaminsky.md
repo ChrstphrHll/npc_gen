@@ -2,7 +2,7 @@
 name: Kayla Kaminsky
 race: Gnome
 hair: straight lighter blonde hair that's braided with green ribbon (long)
-eyes: Blue
+eyes: Pale Green
 skin: Tan
 ideal: Patience
 trait1: Uninhibited
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 90
+tags:
+- Gnome
+- Artificer
+- Diplomacy
+- 1st
+- Elkenval
 ---
 # Kayla Kaminsky
 ---
 ### Description
 - 1st year Gnome Artificer in Elkenval
-- straight lighter blonde hair that's braided with green ribbon (long), Blue eyes, and Tan skin
+- straight lighter blonde hair that's braided with green ribbon (long), Pale Green eyes, and Tan skin
 - Is Uninhibited and Difficult, and has Patience as their ideal
 
 ### Organizations

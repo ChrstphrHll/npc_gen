@@ -2,7 +2,7 @@
 name: Kessa Keller
 race: Human
 hair: wavy white hair that's kept back by a blue headband
-eyes: Pale Brown
+eyes: Hazel
 skin: Tan
 ideal: Integrity
 trait1: Enigmatic
@@ -30,12 +30,18 @@ stats:
 year: 3
 guild: Elkenval
 partyID: 30
+tags:
+- Human
+- Ranger
+- Assault
+- 3rd
+- Elkenval
 ---
 # Kessa Keller
 ---
 ### Description
 - 3rd year Human Ranger in Elkenval
-- wavy white hair that's kept back by a blue headband, Pale Brown eyes, and Tan skin
+- wavy white hair that's kept back by a blue headband, Hazel eyes, and Tan skin
 - Is Enigmatic and Regretful, and has Integrity as their ideal
 
 ### Organizations

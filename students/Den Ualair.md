@@ -2,7 +2,7 @@
 name: Den Ualair
 race: Half-Orc
 hair: straight strawberry blond hair that's hanging down to their back
-eyes: Amber
+eyes: Pale Blue
 skin: Green Blue
 ideal: Vengful
 trait1: Impressive
@@ -29,12 +29,18 @@ stats:
 year: 3
 guild: Treskal
 partyID: 8
+tags:
+- Half-Orc
+- Artificer
+- Diplomacy
+- 3rd
+- Treskal
 ---
 # Den Ualair
 ---
 ### Description
 - 3rd year Half-Orc Artificer in Treskal
-- straight strawberry blond hair that's hanging down to their back, Amber eyes, and Green Blue skin
+- straight strawberry blond hair that's hanging down to their back, Pale Blue eyes, and Green Blue skin
 - Is Impressive and Faithless, and has Vengful as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Ezekius Chalsarda
 race: Halfling
 hair: wavy dark red hair that's loose around the shoulders
-eyes: Blue
+eyes: Pale Brown
 skin: Light
 ideal: Cunning
 trait1: Magnanimous
@@ -32,12 +32,18 @@ stats:
 year: 6
 guild: Burk
 partyID: 29
+tags:
+- Halfling
+- Wizard
+- Diplomacy
+- 6th
+- Burk
 ---
 # Ezekius Chalsarda
 ---
 ### Description
 - 6th year Halfling Wizard in Burk
-- wavy dark red hair that's loose around the shoulders, Blue eyes, and Light skin
+- wavy dark red hair that's loose around the shoulders, Pale Brown eyes, and Light skin
 - Is Magnanimous and Excitable, and has Cunning as their ideal
 
 ### Organizations

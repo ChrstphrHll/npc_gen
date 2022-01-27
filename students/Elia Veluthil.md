@@ -2,7 +2,7 @@
 name: Elia Veluthil
 race: Firbolg
 hair: wavy dirty blonde hair that's braided with blue ribbon (long)
-eyes: Amber
+eyes: Pale Blue
 skin: Pale Green
 ideal: Perseverance
 trait1: Charming
@@ -33,12 +33,18 @@ stats:
 year: 3
 guild: Burk
 partyID: 9
+tags:
+- Firbolg
+- Bard
+- Exploration
+- 3rd
+- Burk
 ---
 # Elia Veluthil
 ---
 ### Description
 - 3rd year Firbolg Bard in Burk
-- wavy dirty blonde hair that's braided with blue ribbon (long), Amber eyes, and Pale Green skin
+- wavy dirty blonde hair that's braided with blue ribbon (long), Pale Blue eyes, and Pale Green skin
 - Is Charming and Unhurried, and has Perseverance as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Adros Tolthe
 race: Goliath
 hair: straight strawberry blond hair that's put up in a large bun
-eyes: Amber
+eyes: Pale Blue
 skin: Tan
 ideal: Uncaring
 trait1: Scholarly
@@ -36,12 +36,18 @@ stats:
 year: 5
 guild: Jettenia
 partyID: 35
+tags:
+- Goliath
+- Bard
+- Exploration
+- 5th
+- Jettenia
 ---
 # Adros Tolthe
 ---
 ### Description
 - 5th year Goliath Bard in Jettenia
-- straight strawberry blond hair that's put up in a large bun, Amber eyes, and Tan skin
+- straight strawberry blond hair that's put up in a large bun, Pale Blue eyes, and Tan skin
 - Is Scholarly and Overimaginative, and has Uncaring as their ideal
 
 ### Organizations

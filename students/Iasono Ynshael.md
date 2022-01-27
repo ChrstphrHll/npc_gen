@@ -2,7 +2,7 @@
 name: Iasono Ynshael
 race: Gnome
 hair: frizzy grey hair that's put up in a large bun
-eyes: Green
+eyes: Amber
 skin: Brown
 ideal: Live and Let Live
 trait1: Self-sufficent
@@ -36,12 +36,18 @@ stats:
 year: 1
 guild: Jettenia
 partyID: 68
+tags:
+- Gnome
+- Druid
+- Protection
+- 1st
+- Jettenia
 ---
 # Iasono Ynshael
 ---
 ### Description
 - 1st year Gnome Druid in Jettenia
-- frizzy grey hair that's put up in a large bun, Green eyes, and Brown skin
+- frizzy grey hair that's put up in a large bun, Amber eyes, and Brown skin
 - Is Self-sufficent and Unrealistic, and has Live and Let Live as their ideal
 
 ### Organizations

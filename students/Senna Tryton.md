@@ -30,6 +30,12 @@ stats:
 year: 4
 guild: Burk
 partyID: 49
+tags:
+- Gnome
+- Fighter
+- Exploration
+- 4th
+- Burk
 ---
 # Senna Tryton
 ---

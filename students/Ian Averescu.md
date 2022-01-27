@@ -2,7 +2,7 @@
 name: Ian Averescu
 race: Dragonborn
 hair: short spines
-eyes: Spring Green
+eyes: Amber
 skin: black
 ideal: Loyalty
 trait1: Imaginative
@@ -29,12 +29,18 @@ stats:
 year: 2
 guild: Alderden
 partyID: 52
+tags:
+- Dragonborn
+- Sorcerer
+- Assault
+- 2nd
+- Alderden
 ---
 # Ian Averescu
 ---
 ### Description
 - 2nd year Dragonborn Sorcerer in Alderden
-- short spines, Spring Green eyes, and black skin
+- short spines, Amber eyes, and black skin
 - Is Imaginative and Extreme, and has Loyalty as their ideal
 
 ### Organizations

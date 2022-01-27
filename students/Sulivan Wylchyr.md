@@ -2,7 +2,7 @@
 name: Sulivan Wylchyr
 race: Dragonborn
 hair: short spines
-eyes: Orange
+eyes: Spring Green
 skin: blue
 ideal: Forgiveness
 trait1: Joyful
@@ -30,12 +30,18 @@ stats:
 year: 2
 guild: Elkenval
 partyID: 50
+tags:
+- Dragonborn
+- Monk
+- Exploration
+- 2nd
+- Elkenval
 ---
 # Sulivan Wylchyr
 ---
 ### Description
 - 2nd year Dragonborn Monk in Elkenval
-- short spines, Orange eyes, and blue skin
+- short spines, Spring Green eyes, and blue skin
 - Is Joyful and Pure, and has Forgiveness as their ideal
 
 ### Organizations

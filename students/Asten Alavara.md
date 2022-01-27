@@ -2,7 +2,7 @@
 name: Asten Alavara
 race: Gnome
 hair: straight brunette hair that's hanging down to their back
-eyes: Hazel
+eyes: Pale Brown
 skin: Light Tan
 ideal: Integrity
 trait1: Mellow
@@ -31,12 +31,18 @@ stats:
 year: 6
 guild: Fiesn
 partyID: 87
+tags:
+- Gnome
+- Wizard
+- Diplomacy
+- 6th
+- Fiesn
 ---
 # Asten Alavara
 ---
 ### Description
 - 6th year Gnome Wizard in Fiesn
-- straight brunette hair that's hanging down to their back, Hazel eyes, and Light Tan skin
+- straight brunette hair that's hanging down to their back, Pale Brown eyes, and Light Tan skin
 - Is Mellow and Oppressed, and has Integrity as their ideal
 
 ### Organizations

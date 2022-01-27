@@ -2,7 +2,7 @@
 name: Levi Kicklighter
 race: Goliath
 hair: curly blonde hair that's geled back
-eyes: Pale Green
+eyes: Pale Gray
 skin: Fair
 ideal: Compassion
 trait1: Hearty
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 88
+tags:
+- Goliath
+- Paladin
+- Exploration
+- 1st
+- Elkenval
 ---
 # Levi Kicklighter
 ---
 ### Description
 - 1st year Goliath Paladin in Elkenval
-- curly blonde hair that's geled back, Pale Green eyes, and Fair skin
+- curly blonde hair that's geled back, Pale Gray eyes, and Fair skin
 - Is Hearty and Airy, and has Compassion as their ideal
 
 ### Organizations

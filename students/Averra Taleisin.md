@@ -2,7 +2,7 @@
 name: Averra Taleisin
 race: Elf
 hair: wavy brunette hair that's put up in a large bun
-eyes: Brown
+eyes: Pale Brown
 skin: Dark Tan
 ideal: Cruelty
 trait1: Lucky
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 31
+tags:
+- Elf
+- Druid
+- Assault
+- 1st
+- Burk
 ---
 # Averra Taleisin
 ---
 ### Description
 - 1st year Elf Druid in Burk
-- wavy brunette hair that's put up in a large bun, Brown eyes, and Dark Tan skin
+- wavy brunette hair that's put up in a large bun, Pale Brown eyes, and Dark Tan skin
 - Is Lucky and Hedonistic, and has Cruelty as their ideal
 
 ### Organizations

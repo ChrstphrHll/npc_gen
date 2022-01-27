@@ -2,7 +2,7 @@
 name: Gabrilo Kulo
 race: Half-Orc
 hair: frizzy auburn hair that's done up in a top knot
-eyes: Amber
+eyes: Gray
 skin: Pale Green
 ideal: Intelligence
 trait1: Easygoing
@@ -36,12 +36,18 @@ stats:
 year: 2
 guild: Elkenval
 partyID: 22
+tags:
+- Half-Orc
+- Cleric
+- Diplomacy
+- 2nd
+- Elkenval
 ---
 # Gabrilo Kulo
 ---
 ### Description
 - 2nd year Half-Orc Cleric in Elkenval
-- frizzy auburn hair that's done up in a top knot, Amber eyes, and Pale Green skin
+- frizzy auburn hair that's done up in a top knot, Gray eyes, and Pale Green skin
 - Is Easygoing and Profligate, and has Intelligence as their ideal
 
 ### Organizations

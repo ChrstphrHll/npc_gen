@@ -2,7 +2,7 @@
 name: Wenge Usunaar
 race: Firbolg
 hair: curly dark red hair that's pulled to the side and buzzed on the right
-eyes: Brown
+eyes: Hazel
 skin: Pale Gray
 ideal: Greed
 trait1: Supportive
@@ -33,12 +33,18 @@ stats:
 year: 8
 guild: Jettenia
 partyID: 80
+tags:
+- Firbolg
+- Monk
+- Exploration
+- 8th
+- Jettenia
 ---
 # Wenge Usunaar
 ---
 ### Description
 - 8th year Firbolg Monk in Jettenia
-- curly dark red hair that's pulled to the side and buzzed on the right, Brown eyes, and Pale Gray skin
+- curly dark red hair that's pulled to the side and buzzed on the right, Hazel eyes, and Pale Gray skin
 - Is Supportive and Opportunistic, and has Greed as their ideal
 
 ### Organizations

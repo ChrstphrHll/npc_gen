@@ -2,7 +2,7 @@
 name: Helera Urkensvall
 race: Halfling
 hair: straight strawberry blond hair that's parted to the left
-eyes: Pale Brown
+eyes: Green
 skin: Brown
 ideal: Change
 trait1: Sociable
@@ -34,12 +34,18 @@ stats:
 year: 3
 guild: Burk
 partyID: 9
+tags:
+- Halfling
+- Barbarian
+- Exploration
+- 3rd
+- Burk
 ---
 # Helera Urkensvall
 ---
 ### Description
 - 3rd year Halfling Barbarian in Burk
-- straight strawberry blond hair that's parted to the left, Pale Brown eyes, and Brown skin
+- straight strawberry blond hair that's parted to the left, Green eyes, and Brown skin
 - Is Sociable and Cantankerous, and has Change as their ideal
 
 ### Organizations

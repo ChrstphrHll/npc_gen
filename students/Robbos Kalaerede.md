@@ -2,7 +2,7 @@
 name: Robbos Kalaerede
 race: Half-Elf
 hair: wavy lighter blonde hair that's parted to the left
-eyes: Hazel
+eyes: Pale Green
 skin: Tan
 ideal: Spontaneity
 trait1: Graceful
@@ -34,12 +34,18 @@ stats:
 year: 4
 guild: Treskal
 partyID: 7
+tags:
+- Half-Elf
+- Artificer
+- Protection
+- 4th
+- Treskal
 ---
 # Robbos Kalaerede
 ---
 ### Description
 - 4th year Half-Elf Artificer in Treskal
-- wavy lighter blonde hair that's parted to the left, Hazel eyes, and Tan skin
+- wavy lighter blonde hair that's parted to the left, Pale Green eyes, and Tan skin
 - Is Graceful and Driving, and has Spontaneity as their ideal
 
 ### Organizations

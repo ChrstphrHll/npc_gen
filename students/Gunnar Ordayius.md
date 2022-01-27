@@ -2,7 +2,7 @@
 name: Gunnar Ordayius
 race: Human
 hair: straight auburn hair that's a tousled bed head
-eyes: Hazel
+eyes: Amber
 skin: Light
 ideal: Enjoyment
 trait1: Shrewd
@@ -35,12 +35,18 @@ stats:
 year: 4
 guild: Burk
 partyID: 59
+tags:
+- Human
+- Druid
+- Diplomacy
+- 4th
+- Burk
 ---
 # Gunnar Ordayius
 ---
 ### Description
 - 4th year Human Druid in Burk
-- straight auburn hair that's a tousled bed head, Hazel eyes, and Light skin
+- straight auburn hair that's a tousled bed head, Amber eyes, and Light skin
 - Is Shrewd and Mean, and has Enjoyment as their ideal
 
 ### Organizations

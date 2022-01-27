@@ -2,7 +2,7 @@
 name: Milae Ditka
 race: Dragonborn
 hair: 5 curled horns
-eyes: Emerald Green
+eyes: Violet Red
 skin: blue
 ideal: Self-Respect
 trait1: Undemanding
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Jettenia
 partyID: 66
+tags:
+- Dragonborn
+- Sorcerer
+- Protection
+- 1st
+- Jettenia
 ---
 # Milae Ditka
 ---
 ### Description
 - 1st year Dragonborn Sorcerer in Jettenia
-- 5 curled horns, Emerald Green eyes, and blue skin
+- 5 curled horns, Violet Red eyes, and blue skin
 - Is Undemanding and Cruel, and has Self-Respect as their ideal
 
 ### Organizations

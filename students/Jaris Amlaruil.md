@@ -2,7 +2,7 @@
 name: Jaris Amlaruil
 race: Triton
 hair: wavy pink hair that's done up in a top knot
-eyes: Aqua
+eyes: Violet Red
 skin: Aqua
 ideal: Wealth
 trait1: Resourceful
@@ -32,12 +32,18 @@ stats:
 year: 7
 guild: Jettenia
 partyID: 10
+tags:
+- Triton
+- Fighter
+- Protection
+- 7th
+- Jettenia
 ---
 # Jaris Amlaruil
 ---
 ### Description
 - 7th year Triton Fighter in Jettenia
-- wavy pink hair that's done up in a top knot, Aqua eyes, and Aqua skin
+- wavy pink hair that's done up in a top knot, Violet Red eyes, and Aqua skin
 - Is Resourceful and Bland, and has Wealth as their ideal
 
 ### Organizations

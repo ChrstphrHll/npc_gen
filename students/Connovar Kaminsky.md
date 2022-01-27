@@ -2,7 +2,7 @@
 name: Connovar Kaminsky
 race: Half-Orc
 hair: straight dark red hair that's put up in a large bun
-eyes: Gray
+eyes: Brown
 skin: Pale Green
 ideal: Creativity
 trait1: Helpful
@@ -30,12 +30,18 @@ stats:
 year: 4
 guild: Treskal
 partyID: 62
+tags:
+- Half-Orc
+- Sorcerer
+- Protection
+- 4th
+- Treskal
 ---
 # Connovar Kaminsky
 ---
 ### Description
 - 4th year Half-Orc Sorcerer in Treskal
-- straight dark red hair that's put up in a large bun, Gray eyes, and Pale Green skin
+- straight dark red hair that's put up in a large bun, Brown eyes, and Pale Green skin
 - Is Helpful and Plodding, and has Creativity as their ideal
 
 ### Organizations

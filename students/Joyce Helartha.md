@@ -2,7 +2,7 @@
 name: Joyce Helartha
 race: Halfling
 hair: curly dark red hair that's a buzz cut
-eyes: Blue
+eyes: Pale Brown
 skin: Dark Tan
 ideal: Compassion
 trait1: Innovative
@@ -31,12 +31,18 @@ stats:
 year: 1
 guild: Treskal
 partyID: 78
+tags:
+- Halfling
+- Cleric
+- Diplomacy
+- 1st
+- Treskal
 ---
 # Joyce Helartha
 ---
 ### Description
 - 1st year Halfling Cleric in Treskal
-- curly dark red hair that's a buzz cut, Blue eyes, and Dark Tan skin
+- curly dark red hair that's a buzz cut, Pale Brown eyes, and Dark Tan skin
 - Is Innovative and Abrasive, and has Compassion as their ideal
 
 ### Organizations

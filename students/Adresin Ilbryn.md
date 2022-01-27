@@ -2,7 +2,7 @@
 name: Adresin Ilbryn
 race: Genasi
 hair: straight blonde hair that's geled back
-eyes: Emerald Green
+eyes: Gray
 skin: air
 ideal: Greed
 trait1: Bashful
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 90
+tags:
+- Genasi
+- Paladin
+- Exploration
+- 1st
+- Elkenval
 ---
 # Adresin Ilbryn
 ---
 ### Description
 - 1st year Genasi Paladin in Elkenval
-- straight blonde hair that's geled back, Emerald Green eyes, and air skin
+- straight blonde hair that's geled back, Gray eyes, and air skin
 - Is Bashful and Insulting, and has Greed as their ideal
 
 ### Organizations

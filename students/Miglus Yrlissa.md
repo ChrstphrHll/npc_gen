@@ -2,7 +2,7 @@
 name: Miglus Yrlissa
 race: Triton
 hair: wavy blonde hair that's loose around the shoulders
-eyes: Emerald Green
+eyes: Pale Brown
 skin: Aqua
 ideal: Generosity
 trait1: Objective
@@ -33,12 +33,18 @@ stats:
 year: 6
 guild: Jettenia
 partyID: 4
+tags:
+- Triton
+- Fighter
+- Assault
+- 6th
+- Jettenia
 ---
 # Miglus Yrlissa
 ---
 ### Description
 - 6th year Triton Fighter in Jettenia
-- wavy blonde hair that's loose around the shoulders, Emerald Green eyes, and Aqua skin
+- wavy blonde hair that's loose around the shoulders, Pale Brown eyes, and Aqua skin
 - Is Objective and Sensual, and has Generosity as their ideal
 
 ### Organizations

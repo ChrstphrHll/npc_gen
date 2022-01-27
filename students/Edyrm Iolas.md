@@ -2,7 +2,7 @@
 name: Edyrm Iolas
 race: Half-Elf
 hair: wavy strawberry blond hair that's parted to the right
-eyes: Hazel
+eyes: Pale Gray
 skin: Light Tan
 ideal: Might
 trait1: Seraphic
@@ -31,12 +31,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 57
+tags:
+- Half-Elf
+- Artificer
+- Diplomacy
+- 2nd
+- Burk
 ---
 # Edyrm Iolas
 ---
 ### Description
 - 2nd year Half-Elf Artificer in Burk
-- wavy strawberry blond hair that's parted to the right, Hazel eyes, and Light Tan skin
+- wavy strawberry blond hair that's parted to the right, Pale Gray eyes, and Light Tan skin
 - Is Seraphic and Unpolished, and has Might as their ideal
 
 ### Organizations

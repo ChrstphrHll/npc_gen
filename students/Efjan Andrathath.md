@@ -2,7 +2,7 @@
 name: Efjan Andrathath
 race: Gnome
 hair: wavy dark red hair that's braided with pink ribbon (long)
-eyes: Pale Gray
+eyes: Amber
 skin: Light
 ideal: Flexibility
 trait1: Invisible
@@ -32,12 +32,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 31
+tags:
+- Gnome
+- Druid
+- Protection
+- 1st
+- Burk
 ---
 # Efjan Andrathath
 ---
 ### Description
 - 1st year Gnome Druid in Burk
-- wavy dark red hair that's braided with pink ribbon (long), Pale Gray eyes, and Light skin
+- wavy dark red hair that's braided with pink ribbon (long), Amber eyes, and Light skin
 - Is Invisible and Brutal, and has Flexibility as their ideal
 
 ### Organizations

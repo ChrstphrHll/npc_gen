@@ -33,6 +33,12 @@ stats:
 year: 6
 guild: Jettenia
 partyID: 4
+tags:
+- Halfling
+- Druid
+- Exploration
+- 6th
+- Jettenia
 ---
 # Skalanis Kobayashi
 ---

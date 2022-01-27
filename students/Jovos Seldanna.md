@@ -2,7 +2,7 @@
 name: Jovos Seldanna
 race: Half-Elf
 hair: straight black hair that's put back in a long pony tail
-eyes: Pale Blue
+eyes: Brown
 skin: Light Tan
 ideal: Peace
 trait1: Suave
@@ -34,12 +34,18 @@ stats:
 year: 3
 guild: Jettenia
 partyID: 28
+tags:
+- Half-Elf
+- Paladin
+- Assault
+- 3rd
+- Jettenia
 ---
 # Jovos Seldanna
 ---
 ### Description
 - 3rd year Half-Elf Paladin in Jettenia
-- straight black hair that's put back in a long pony tail, Pale Blue eyes, and Light Tan skin
+- straight black hair that's put back in a long pony tail, Brown eyes, and Light Tan skin
 - Is Suave and Crude, and has Peace as their ideal
 
 ### Organizations

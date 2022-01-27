@@ -2,7 +2,7 @@
 name: Melcyn Taeral
 race: Firbolg
 hair: wavy brunette hair that's braided with green ribbon (long)
-eyes: Gray
+eyes: Green
 skin: Pale Gray
 ideal: Finesse
 trait1: Devoted
@@ -34,12 +34,18 @@ stats:
 year: 4
 guild: Treskal
 partyID: 7
+tags:
+- Firbolg
+- Sorcerer
+- Diplomacy
+- 4th
+- Treskal
 ---
 # Melcyn Taeral
 ---
 ### Description
 - 4th year Firbolg Sorcerer in Treskal
-- wavy brunette hair that's braided with green ribbon (long), Gray eyes, and Pale Gray skin
+- wavy brunette hair that's braided with green ribbon (long), Green eyes, and Pale Gray skin
 - Is Devoted and Lazy, and has Finesse as their ideal
 
 ### Organizations

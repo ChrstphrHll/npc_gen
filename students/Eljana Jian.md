@@ -2,7 +2,7 @@
 name: Eljana Jian
 race: Goliath
 hair: wavy red hair that's hanging down to their legs
-eyes: Green
+eyes: Blue
 skin: Dark Tan
 ideal: Harmony
 trait1: Challenging
@@ -30,12 +30,18 @@ stats:
 year: 5
 guild: Fiesn
 partyID: 71
+tags:
+- Goliath
+- Fighter
+- Protection
+- 5th
+- Fiesn
 ---
 # Eljana Jian
 ---
 ### Description
 - 5th year Goliath Fighter in Fiesn
-- wavy red hair that's hanging down to their legs, Green eyes, and Dark Tan skin
+- wavy red hair that's hanging down to their legs, Blue eyes, and Dark Tan skin
 - Is Challenging and Confused, and has Harmony as their ideal
 
 ### Organizations

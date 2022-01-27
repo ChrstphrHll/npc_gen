@@ -2,7 +2,7 @@
 name: Halya Jian
 race: Genasi
 hair: curly white hair that's geled back
-eyes: Orange
+eyes: Blue
 skin: fire
 ideal: Home
 trait1: Farsighted
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Fiesn
 partyID: 96
+tags:
+- Genasi
+- Druid
+- Protection
+- 1st
+- Fiesn
 ---
 # Halya Jian
 ---
 ### Description
 - 1st year Genasi Druid in Fiesn
-- curly white hair that's geled back, Orange eyes, and fire skin
+- curly white hair that's geled back, Blue eyes, and fire skin
 - Is Farsighted and Imprudent, and has Home as their ideal
 
 ### Organizations

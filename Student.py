@@ -1,12 +1,12 @@
 from Person import Person
 import roll_tables.specification_tables as spec_gen
 import roll_tables.stat_tables as stat_gen
-from data.number_suffix import suffixes
+import  data.number_suffix as sfx
 
 
 class Student(Person):
     def __init__(self, presets = {}):
-        super().__init__(presets)
+        super().__init__(presets, tag_generation=False)
 
         #Generate Track and Spec
         if not self.set_if_preset("track", presets):
@@ -25,13 +25,15 @@ class Student(Person):
             self.guild = None
         if not self.set_if_preset("partyID", presets):
             self.partyID = None
+        
+        self.tags = self.create_tags()
 
     def get_md(self):
         all_lines = []
         all_lines.append(f"# {self.name}")
         all_lines.append("---")
         all_lines.append("### Description")
-        all_lines.append(f"- {self.year}{suffixes[self.year-1]} year {self.race} {self.spec} in {self.guild}")
+        all_lines.append(f"- {sfx.suffixify_number(self.year)} year {self.race} {self.spec} in {self.guild}")
         all_lines.append(f"- {self.hair}, {self.eyes} eyes, and {self.skin} skin")
         all_lines.append(f"- Is {self.trait1} and {self.trait2}, and has {self.ideal} as their ideal")
         all_lines.append("")
@@ -62,12 +64,14 @@ stats: {stats}
 ```"""
         return stat_block
     
-    def set_tags(self):
-        tags = []
-        tags.append(self.race)
+    def create_tags(self):
+        tags = super().create_tags()
         tags.append(self.spec)
         tags.append(self.track)
-        tags.append(self.year)
+        tags.append(sfx.suffixify_number(self.year))
+        tags.append(self.guild)
+        self.tags = tags
+        return tags
 
     def set_partyID(self, partyID):
         self.partyID = partyID

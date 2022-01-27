@@ -2,7 +2,7 @@
 name: Kimbera Alerathla
 race: Human
 hair: straight brunette hair that's geled back
-eyes: Pale Green
+eyes: Hazel
 skin: Dark Tan
 ideal: Independence
 trait1: Objective
@@ -36,12 +36,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 91
+tags:
+- Human
+- Druid
+- Assault
+- 1st
+- Elkenval
 ---
 # Kimbera Alerathla
 ---
 ### Description
 - 1st year Human Druid in Elkenval
-- straight brunette hair that's geled back, Pale Green eyes, and Dark Tan skin
+- straight brunette hair that's geled back, Hazel eyes, and Dark Tan skin
 - Is Objective and Mannered, and has Independence as their ideal
 
 ### Organizations

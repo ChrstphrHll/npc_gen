@@ -2,7 +2,7 @@
 name: Pippi Langston
 race: Tiefling
 hair: straight platinum hair that's parted to the right
-eyes: Pale Brown
+eyes: Orange
 skin: Olive
 ideal: Competition
 trait1: Passionate
@@ -34,12 +34,18 @@ stats:
 year: 6
 guild: Jettenia
 partyID: 4
+tags:
+- Tiefling
+- Artificer
+- Assault
+- 6th
+- Jettenia
 ---
 # Pippi Langston
 ---
 ### Description
 - 6th year Tiefling Artificer in Jettenia
-- straight platinum hair that's parted to the right, Pale Brown eyes, and Olive skin
+- straight platinum hair that's parted to the right, Orange eyes, and Olive skin
 - Is Passionate and Unimaginative, and has Competition as their ideal
 
 ### Organizations

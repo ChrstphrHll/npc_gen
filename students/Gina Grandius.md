@@ -2,7 +2,7 @@
 name: Gina Grandius
 race: Tiefling
 hair: straight platinum hair that's loose around the shoulders
-eyes: Purple
+eyes: Violet Red
 skin: Yellow
 ideal: Endurance
 trait1: Absentminded
@@ -33,12 +33,18 @@ stats:
 year: 3
 guild: Alderden
 partyID: 24
+tags:
+- Tiefling
+- Monk
+- Exploration
+- 3rd
+- Alderden
 ---
 # Gina Grandius
 ---
 ### Description
 - 3rd year Tiefling Monk in Alderden
-- straight platinum hair that's loose around the shoulders, Purple eyes, and Yellow skin
+- straight platinum hair that's loose around the shoulders, Violet Red eyes, and Yellow skin
 - Is Absentminded and Libidinous, and has Endurance as their ideal
 
 ### Organizations

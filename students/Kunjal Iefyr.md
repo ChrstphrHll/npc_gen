@@ -34,6 +34,12 @@ stats:
 year: 4
 guild: Fiesn
 partyID: 13
+tags:
+- Halfling
+- Cleric
+- Protection
+- 4th
+- Fiesn
 ---
 # Kunjal Iefyr
 ---

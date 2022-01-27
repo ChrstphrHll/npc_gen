@@ -2,7 +2,7 @@
 name: Yorala Tiatha
 race: Triton
 hair: curly pink hair that's parted to the left
-eyes: Blue
+eyes: Deep Blue
 skin: Emerald Green
 ideal: Excitement
 trait1: Educated
@@ -36,12 +36,18 @@ stats:
 year: 5
 guild: Jettenia
 partyID: 35
+tags:
+- Triton
+- Monk
+- Protection
+- 5th
+- Jettenia
 ---
 # Yorala Tiatha
 ---
 ### Description
 - 5th year Triton Monk in Jettenia
-- curly pink hair that's parted to the left, Blue eyes, and Emerald Green skin
+- curly pink hair that's parted to the left, Deep Blue eyes, and Emerald Green skin
 - Is Educated and False, and has Excitement as their ideal
 
 ### Organizations

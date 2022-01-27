@@ -2,7 +2,7 @@
 name: Remus Manchul
 race: Half-Elf
 hair: curly grey hair that's a tousled bed head
-eyes: Pale Blue
+eyes: Brown
 skin: Dark Brown
 ideal: Perseverance
 trait1: Reserved
@@ -35,12 +35,18 @@ stats:
 year: 4
 guild: Burk
 partyID: 59
+tags:
+- Half-Elf
+- Rouge
+- Protection
+- 4th
+- Burk
 ---
 # Remus Manchul
 ---
 ### Description
 - 4th year Half-Elf Rouge in Burk
-- curly grey hair that's a tousled bed head, Pale Blue eyes, and Dark Brown skin
+- curly grey hair that's a tousled bed head, Brown eyes, and Dark Brown skin
 - Is Reserved and Strict, and has Perseverance as their ideal
 
 ### Organizations

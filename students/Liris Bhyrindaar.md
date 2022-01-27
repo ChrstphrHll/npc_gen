@@ -33,6 +33,12 @@ stats:
 year: 2
 guild: Fiesn
 partyID: 54
+tags:
+- Goliath
+- Paladin
+- Protection
+- 2nd
+- Fiesn
 ---
 # Liris Bhyrindaar
 ---

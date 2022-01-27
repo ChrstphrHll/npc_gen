@@ -2,7 +2,7 @@
 name: Vyctor Willow
 race: Elf
 hair: wavy auburn hair that's braided with violet ribbon (med)
-eyes: Pale Green
+eyes: Blue
 skin: Fair
 ideal: Responsibility
 trait1: Wise
@@ -36,12 +36,18 @@ stats:
 year: 6
 guild: Treskal
 partyID: 58
+tags:
+- Elf
+- Bard
+- Assault
+- 6th
+- Treskal
 ---
 # Vyctor Willow
 ---
 ### Description
 - 6th year Elf Bard in Treskal
-- wavy auburn hair that's braided with violet ribbon (med), Pale Green eyes, and Fair skin
+- wavy auburn hair that's braided with violet ribbon (med), Blue eyes, and Fair skin
 - Is Wise and Inhibited, and has Responsibility as their ideal
 
 ### Organizations

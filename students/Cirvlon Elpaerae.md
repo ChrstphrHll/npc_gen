@@ -2,7 +2,7 @@
 name: Cirvlon Elpaerae
 race: Tiefling
 hair: frizzy pink hair that's put back in a short pony tail
-eyes: Spring Green
+eyes: Pale Green
 skin: Pale Gray
 ideal: Logic
 trait1: Impressive
@@ -31,12 +31,18 @@ stats:
 year: 2
 guild: Alderden
 partyID: 73
+tags:
+- Tiefling
+- Druid
+- Assault
+- 2nd
+- Alderden
 ---
 # Cirvlon Elpaerae
 ---
 ### Description
 - 2nd year Tiefling Druid in Alderden
-- frizzy pink hair that's put back in a short pony tail, Spring Green eyes, and Pale Gray skin
+- frizzy pink hair that's put back in a short pony tail, Pale Green eyes, and Pale Gray skin
 - Is Impressive and Callous, and has Logic as their ideal
 
 ### Organizations

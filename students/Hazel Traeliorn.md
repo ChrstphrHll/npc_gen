@@ -2,7 +2,7 @@
 name: Hazel Traeliorn
 race: Tiefling
 hair: curly grey hair that's put up in a large bun
-eyes: Emerald Green
+eyes: Brown
 skin: Blue
 ideal: Caring
 trait1: Adventurous
@@ -30,12 +30,18 @@ stats:
 year: 1
 guild: Burk
 partyID: 41
+tags:
+- Tiefling
+- Monk
+- Diplomacy
+- 1st
+- Burk
 ---
 # Hazel Traeliorn
 ---
 ### Description
 - 1st year Tiefling Monk in Burk
-- curly grey hair that's put up in a large bun, Emerald Green eyes, and Blue skin
+- curly grey hair that's put up in a large bun, Brown eyes, and Blue skin
 - Is Adventurous and Unctuous, and has Caring as their ideal
 
 ### Organizations

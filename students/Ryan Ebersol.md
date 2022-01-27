@@ -2,7 +2,7 @@
 name: Ryan Ebersol
 race: Dragonborn
 hair: frills
-eyes: Blue
+eyes: Emerald Green
 skin: green
 ideal: Intuition
 trait1: Plain
@@ -33,12 +33,18 @@ stats:
 year: 7
 guild: Fiesn
 partyID: 89
+tags:
+- Dragonborn
+- Sorcerer
+- Assault
+- 7th
+- Fiesn
 ---
 # Ryan Ebersol
 ---
 ### Description
 - 7th year Dragonborn Sorcerer in Fiesn
-- frills, Blue eyes, and green skin
+- frills, Emerald Green eyes, and green skin
 - Is Plain and Immature, and has Intuition as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Alyx Nopos
 race: Tiefling
 hair: curly blue hair that's parted to the right
-eyes: Pale Green
+eyes: Aqua
 skin: Sea Green
 ideal: Intelligence
 trait1: Maternal
@@ -29,12 +29,18 @@ stats:
 year: 6
 guild: Fiesn
 partyID: 87
+tags:
+- Tiefling
+- Rouge
+- Assault
+- 6th
+- Fiesn
 ---
 # Alyx Nopos
 ---
 ### Description
 - 6th year Tiefling Rouge in Fiesn
-- curly blue hair that's parted to the right, Pale Green eyes, and Sea Green skin
+- curly blue hair that's parted to the right, Aqua eyes, and Sea Green skin
 - Is Maternal and Freewheeling, and has Intelligence as their ideal
 
 ### Organizations

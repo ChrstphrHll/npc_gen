@@ -2,7 +2,7 @@
 name: Santaegus Etter
 race: Firbolg
 hair: wavy auburn hair that's parted to the left
-eyes: Green
+eyes: Blue
 skin: Pale Brown
 ideal: Courage
 trait1: Emotionally stable
@@ -33,12 +33,18 @@ stats:
 year: 2
 guild: Treskal
 partyID: 3
+tags:
+- Firbolg
+- Bard
+- Exploration
+- 2nd
+- Treskal
 ---
 # Santaegus Etter
 ---
 ### Description
 - 2nd year Firbolg Bard in Treskal
-- wavy auburn hair that's parted to the left, Green eyes, and Pale Brown skin
+- wavy auburn hair that's parted to the left, Blue eyes, and Pale Brown skin
 - Is Emotionally stable and Contradictory, and has Courage as their ideal
 
 ### Organizations

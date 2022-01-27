@@ -2,7 +2,7 @@
 name: Ramona Saida
 race: Dragonborn
 hair: short spines
-eyes: Violet Red
+eyes: Hazel
 skin: green
 ideal: Courage
 trait1: Predictable
@@ -34,12 +34,18 @@ stats:
 year: 3
 guild: Alderden
 partyID: 24
+tags:
+- Dragonborn
+- Druid
+- Exploration
+- 3rd
+- Alderden
 ---
 # Ramona Saida
 ---
 ### Description
 - 3rd year Dragonborn Druid in Alderden
-- short spines, Violet Red eyes, and green skin
+- short spines, Hazel eyes, and green skin
 - Is Predictable and Evil, and has Courage as their ideal
 
 ### Organizations

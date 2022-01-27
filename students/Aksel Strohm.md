@@ -2,7 +2,7 @@
 name: Aksel Strohm
 race: Tiefling
 hair: curly red hair that's put up in a large bun
-eyes: Pale Brown
+eyes: Pale Green
 skin: Spring Green
 ideal: Vengful
 trait1: Hypnotic
@@ -31,12 +31,18 @@ stats:
 year: 7
 guild: Jettenia
 partyID: 10
+tags:
+- Tiefling
+- Sorcerer
+- Assault
+- 7th
+- Jettenia
 ---
 # Aksel Strohm
 ---
 ### Description
 - 7th year Tiefling Sorcerer in Jettenia
-- curly red hair that's put up in a large bun, Pale Brown eyes, and Spring Green skin
+- curly red hair that's put up in a large bun, Pale Green eyes, and Spring Green skin
 - Is Hypnotic and Impractical, and has Vengful as their ideal
 
 ### Organizations

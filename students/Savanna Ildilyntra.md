@@ -2,7 +2,7 @@
 name: Savanna Ildilyntra
 race: Halfling
 hair: straight brunette hair that's hanging down to their legs
-eyes: Blue
+eyes: Gray
 skin: Dark Brown
 ideal: Indulgence
 trait1: Practical
@@ -35,12 +35,18 @@ stats:
 year: 6
 guild: Treskal
 partyID: 46
+tags:
+- Halfling
+- Cleric
+- Diplomacy
+- 6th
+- Treskal
 ---
 # Savanna Ildilyntra
 ---
 ### Description
 - 6th year Halfling Cleric in Treskal
-- straight brunette hair that's hanging down to their legs, Blue eyes, and Dark Brown skin
+- straight brunette hair that's hanging down to their legs, Gray eyes, and Dark Brown skin
 - Is Practical and Uncreative, and has Indulgence as their ideal
 
 ### Organizations

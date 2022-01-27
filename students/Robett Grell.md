@@ -2,7 +2,7 @@
 name: Robett Grell
 race: Dwarf
 hair: wavy red hair that's done up in a top knot
-eyes: Gray
+eyes: Pale Brown
 skin: Dark Brown
 ideal: Forgiveness
 trait1: Solitary
@@ -34,12 +34,18 @@ stats:
 year: 6
 guild: Treskal
 partyID: 46
+tags:
+- Dwarf
+- Monk
+- Assault
+- 6th
+- Treskal
 ---
 # Robett Grell
 ---
 ### Description
 - 6th year Dwarf Monk in Treskal
-- wavy red hair that's done up in a top knot, Gray eyes, and Dark Brown skin
+- wavy red hair that's done up in a top knot, Pale Brown eyes, and Dark Brown skin
 - Is Solitary and Impolite, and has Forgiveness as their ideal
 
 ### Organizations

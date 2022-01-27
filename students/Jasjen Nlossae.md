@@ -2,7 +2,7 @@
 name: Jasjen Nlossae
 race: Dragonborn
 hair: long spines
-eyes: Sea Green
+eyes: Brown
 skin: blue
 ideal: Caring
 trait1: Solitary
@@ -31,12 +31,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 65
+tags:
+- Dragonborn
+- Bard
+- Diplomacy
+- 2nd
+- Burk
 ---
 # Jasjen Nlossae
 ---
 ### Description
 - 2nd year Dragonborn Bard in Burk
-- long spines, Sea Green eyes, and blue skin
+- long spines, Brown eyes, and blue skin
 - Is Solitary and Muddle-headed, and has Caring as their ideal
 
 ### Organizations

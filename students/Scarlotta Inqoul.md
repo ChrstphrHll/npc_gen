@@ -30,6 +30,12 @@ stats:
 year: 4
 guild: Burk
 partyID: 49
+tags:
+- Dwarf
+- Paladin
+- Diplomacy
+- 4th
+- Burk
 ---
 # Scarlotta Inqoul
 ---

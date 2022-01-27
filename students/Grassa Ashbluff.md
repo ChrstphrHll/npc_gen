@@ -2,7 +2,7 @@
 name: Grassa Ashbluff
 race: Dwarf
 hair: wavy dirty blonde hair that's parted to the right
-eyes: Green
+eyes: Gray
 skin: Light
 ideal: Professionalism
 trait1: Thrilling
@@ -33,12 +33,18 @@ stats:
 year: 7
 guild: Fiesn
 partyID: 25
+tags:
+- Dwarf
+- Artificer
+- Protection
+- 7th
+- Fiesn
 ---
 # Grassa Ashbluff
 ---
 ### Description
 - 7th year Dwarf Artificer in Fiesn
-- wavy dirty blonde hair that's parted to the right, Green eyes, and Light skin
+- wavy dirty blonde hair that's parted to the right, Gray eyes, and Light skin
 - Is Thrilling and Arrogant, and has Professionalism as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Sybasten Simimar
 race: Dragonborn
 hair: long spines
-eyes: Amber
+eyes: Hazel
 skin: copper
 ideal: Excitement
 trait1: Self-reliant
@@ -30,12 +30,18 @@ stats:
 year: 4
 guild: Elkenval
 partyID: 76
+tags:
+- Dragonborn
+- Sorcerer
+- Diplomacy
+- 4th
+- Elkenval
 ---
 # Sybasten Simimar
 ---
 ### Description
 - 4th year Dragonborn Sorcerer in Elkenval
-- long spines, Amber eyes, and copper skin
+- long spines, Hazel eyes, and copper skin
 - Is Self-reliant and Complacent, and has Excitement as their ideal
 
 ### Organizations

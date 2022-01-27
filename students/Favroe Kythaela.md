@@ -2,7 +2,7 @@
 name: Favroe Kythaela
 race: Gnome
 hair: curly grey hair that's geled back
-eyes: Gray
+eyes: Green
 skin: Pale
 ideal: Live and Let Live
 trait1: Tough
@@ -29,12 +29,18 @@ stats:
 year: 3
 guild: Treskal
 partyID: 19
+tags:
+- Gnome
+- Ranger
+- Exploration
+- 3rd
+- Treskal
 ---
 # Favroe Kythaela
 ---
 ### Description
 - 3rd year Gnome Ranger in Treskal
-- curly grey hair that's geled back, Gray eyes, and Pale skin
+- curly grey hair that's geled back, Green eyes, and Pale skin
 - Is Tough and Meretricious, and has Live and Let Live as their ideal
 
 ### Organizations

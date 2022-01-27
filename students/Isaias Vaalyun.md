@@ -2,7 +2,7 @@
 name: Isaias Vaalyun
 race: Dwarf
 hair: wavy lighter blonde hair that's braided with green ribbon (med)
-eyes: Hazel
+eyes: Pale Brown
 skin: Dark Brown
 ideal: Logic
 trait1: Discerning
@@ -33,12 +33,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 36
+tags:
+- Dwarf
+- Cleric
+- Diplomacy
+- 2nd
+- Burk
 ---
 # Isaias Vaalyun
 ---
 ### Description
 - 2nd year Dwarf Cleric in Burk
-- wavy lighter blonde hair that's braided with green ribbon (med), Hazel eyes, and Dark Brown skin
+- wavy lighter blonde hair that's braided with green ribbon (med), Pale Brown eyes, and Dark Brown skin
 - Is Discerning and Hidebound, and has Logic as their ideal
 
 ### Organizations

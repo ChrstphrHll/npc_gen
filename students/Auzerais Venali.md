@@ -2,7 +2,7 @@
 name: Auzerais Venali
 race: Dwarf
 hair: curly black hair that's loose around the shoulders
-eyes: Pale Blue
+eyes: Hazel
 skin: Dark Brown
 ideal: Pessimism
 trait1: Unhurried
@@ -30,12 +30,18 @@ stats:
 year: 4
 guild: Elkenval
 partyID: 23
+tags:
+- Dwarf
+- Rouge
+- Exploration
+- 4th
+- Elkenval
 ---
 # Auzerais Venali
 ---
 ### Description
 - 4th year Dwarf Rouge in Elkenval
-- curly black hair that's loose around the shoulders, Pale Blue eyes, and Dark Brown skin
+- curly black hair that's loose around the shoulders, Hazel eyes, and Dark Brown skin
 - Is Unhurried and Neurotic, and has Pessimism as their ideal
 
 ### Organizations

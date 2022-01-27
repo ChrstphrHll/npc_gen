@@ -2,7 +2,7 @@
 name: Theodus Chylnoth
 race: Half-Elf
 hair: curly auburn hair that's braided with violet ribbon (long)
-eyes: Pale Green
+eyes: Pale Gray
 skin: Light
 ideal: Beauty
 trait1: Benevolent
@@ -33,12 +33,18 @@ stats:
 year: 1
 guild: Elkenval
 partyID: 40
+tags:
+- Half-Elf
+- Monk
+- Assault
+- 1st
+- Elkenval
 ---
 # Theodus Chylnoth
 ---
 ### Description
 - 1st year Half-Elf Monk in Elkenval
-- curly auburn hair that's braided with violet ribbon (long), Pale Green eyes, and Light skin
+- curly auburn hair that's braided with violet ribbon (long), Pale Gray eyes, and Light skin
 - Is Benevolent and Pharissical, and has Beauty as their ideal
 
 ### Organizations

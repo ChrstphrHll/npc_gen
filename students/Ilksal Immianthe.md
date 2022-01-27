@@ -2,7 +2,7 @@
 name: Ilksal Immianthe
 race: Triton
 hair: curly brunette hair that's put up in a large bun
-eyes: Spring Green
+eyes: Blue
 skin: Pale Green
 ideal: Spiritualism
 trait1: Friendly
@@ -30,12 +30,18 @@ stats:
 year: 3
 guild: Treskal
 partyID: 8
+tags:
+- Triton
+- Barbarian
+- Protection
+- 3rd
+- Treskal
 ---
 # Ilksal Immianthe
 ---
 ### Description
 - 3rd year Triton Barbarian in Treskal
-- curly brunette hair that's put up in a large bun, Spring Green eyes, and Pale Green skin
+- curly brunette hair that's put up in a large bun, Blue eyes, and Pale Green skin
 - Is Friendly and Shy, and has Spiritualism as their ideal
 
 ### Organizations

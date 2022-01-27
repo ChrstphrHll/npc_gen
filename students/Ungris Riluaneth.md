@@ -2,7 +2,7 @@
 name: Ungris Riluaneth
 race: Dragonborn
 hair: frills
-eyes: Violet Red
+eyes: Deep Blue
 skin: red
 ideal: Beauty
 trait1: Sincere
@@ -32,12 +32,18 @@ stats:
 year: 5
 guild: Treskal
 partyID: 63
+tags:
+- Dragonborn
+- Cleric
+- Diplomacy
+- 5th
+- Treskal
 ---
 # Ungris Riluaneth
 ---
 ### Description
 - 5th year Dragonborn Cleric in Treskal
-- frills, Violet Red eyes, and red skin
+- frills, Deep Blue eyes, and red skin
 - Is Sincere and Cruel, and has Beauty as their ideal
 
 ### Organizations

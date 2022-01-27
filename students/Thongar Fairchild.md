@@ -2,7 +2,7 @@
 name: Thongar Fairchild
 race: Human
 hair: curly lighter blonde hair that's braided with blue ribbon (long)
-eyes: Pale Gray
+eyes: Hazel
 skin: Light
 ideal: Fame
 trait1: Accessible
@@ -32,12 +32,18 @@ stats:
 year: 3
 guild: Burk
 partyID: 5
+tags:
+- Human
+- Cleric
+- Diplomacy
+- 3rd
+- Burk
 ---
 # Thongar Fairchild
 ---
 ### Description
 - 3rd year Human Cleric in Burk
-- curly lighter blonde hair that's braided with blue ribbon (long), Pale Gray eyes, and Light skin
+- curly lighter blonde hair that's braided with blue ribbon (long), Hazel eyes, and Light skin
 - Is Accessible and Fawning, and has Fame as their ideal
 
 ### Organizations

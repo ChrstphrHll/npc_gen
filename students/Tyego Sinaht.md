@@ -2,7 +2,7 @@
 name: Tyego Sinaht
 race: Elf
 hair: curly platinum hair that's hanging down to their back
-eyes: Pale Gray
+eyes: Pale Blue
 skin: Light
 ideal: Power
 trait1: Friendly
@@ -31,12 +31,18 @@ stats:
 year: 3
 guild: Fiesn
 partyID: 98
+tags:
+- Elf
+- Monk
+- Protection
+- 3rd
+- Fiesn
 ---
 # Tyego Sinaht
 ---
 ### Description
 - 3rd year Elf Monk in Fiesn
-- curly platinum hair that's hanging down to their back, Pale Gray eyes, and Light skin
+- curly platinum hair that's hanging down to their back, Pale Blue eyes, and Light skin
 - Is Friendly and Experimental, and has Power as their ideal
 
 ### Organizations

@@ -2,7 +2,7 @@
 name: Goetia Mistale
 race: Human
 hair: straight white hair that's hanging down to their back
-eyes: Amber
+eyes: Hazel
 skin: Light
 ideal: Invention
 trait1: Tough
@@ -34,12 +34,18 @@ stats:
 year: 1
 guild: Fiesn
 partyID: 96
+tags:
+- Human
+- Druid
+- Diplomacy
+- 1st
+- Fiesn
 ---
 # Goetia Mistale
 ---
 ### Description
 - 1st year Human Druid in Fiesn
-- straight white hair that's hanging down to their back, Amber eyes, and Light skin
+- straight white hair that's hanging down to their back, Hazel eyes, and Light skin
 - Is Tough and Mechanical, and has Invention as their ideal
 
 ### Organizations

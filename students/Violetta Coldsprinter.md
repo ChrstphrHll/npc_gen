@@ -2,7 +2,7 @@
 name: Violetta Coldsprinter
 race: Half-Orc
 hair: straight auburn hair that's put back in a long pony tail
-eyes: Brown
+eyes: Amber
 skin: Pale Gray
 ideal: Creativity
 trait1: Original
@@ -34,12 +34,18 @@ stats:
 year: 2
 guild: Burk
 partyID: 93
+tags:
+- Half-Orc
+- Fighter
+- Assault
+- 2nd
+- Burk
 ---
 # Violetta Coldsprinter
 ---
 ### Description
 - 2nd year Half-Orc Fighter in Burk
-- straight auburn hair that's put back in a long pony tail, Brown eyes, and Pale Gray skin
+- straight auburn hair that's put back in a long pony tail, Amber eyes, and Pale Gray skin
 - Is Original and Naughty, and has Creativity as their ideal
 
 ### Organizations
