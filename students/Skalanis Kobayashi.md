@@ -1,17 +1,18 @@
 ---
+name: Skalanis Kobayashi
+race: Halfling
+hair: wavy brunette hair that's kept back by a turquoise headband
+eyes: Pale Blue
+skin: Dark Tan
+ideal: Connection
+trait1: Profound
+trait2: High-handed
+trait: The best way to get me to do something is to tell me I can't do it.
+flaw: I can't keep a secret to save my life, or anyone else's.
+bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 2/30
   written: 30th of Corelent
-bond: I fight for those who cannot fight for themselves.
-eyes: Pale Green
-flaw: I can't keep a secret to save my life, or anyone else's.
-guild: Jettenia
-hair: wavy brunette hair that's kept back by a turquoise headband
-ideal: Connection
-name: Skalanis Kobayashi
-organizations: []
-partyID: 4
-race: Halfling
 relationships:
 - name: Pippi Langston
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Miglus Yrlissa
   type: partymate
-skin: Dark Tan
+organizations: []
+track: Exploration
 spec: Druid
 stats:
   cha: 7
@@ -28,17 +30,15 @@ stats:
   int: 15
   str: 9
   wis: 15
-track: Exploration
-trait: The best way to get me to do something is to tell me I can't do it.
-trait1: Profound
-trait2: High-handed
 year: 6
+guild: Jettenia
+partyID: 4
 ---
 # Skalanis Kobayashi
 ---
 ### Description
 - 6th year Halfling Druid in Jettenia
-- wavy brunette hair that's kept back by a turquoise headband, Pale Green eyes, and Dark Tan skin
+- wavy brunette hair that's kept back by a turquoise headband, Pale Blue eyes, and Dark Tan skin
 - Is Profound and High-handed, and has Connection as their ideal
 
 ### Organizations

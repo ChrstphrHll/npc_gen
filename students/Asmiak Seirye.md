@@ -1,24 +1,26 @@
 ---
+name: Asmiak Seirye
+race: Human
+hair: wavy violet hair that's parted to the right
+eyes: Amber
+skin: Fair
+ideal: Anti-Authority
+trait1: Masculine
+trait2: Impractical
+trait: I face problems head-on. A simple, direct solution is the best path to success.
+flaw: I am slow to trust members of other races, tribes, and societies.
+bond: I will get revenge on the evil forces that destroyed my place of business and
+  ruined my livelihood.
 birthday:
   numeric: 3/28
   written: 28th of Melorent
-bond: I will get revenge on the evil forces that destroyed my place of business and
-  ruined my livelihood.
-eyes: Amber
-flaw: I am slow to trust members of other races, tribes, and societies.
-guild: Alderden
-hair: wavy violet hair that's parted to the right
-ideal: Anti-Authority
-name: Asmiak Seirye
-organizations: []
-partyID: 43
-race: Human
 relationships:
 - name: Kendel Shael
   type: partymate
 - name: Hessos Adorellan
   type: partymate
-skin: Fair
+organizations: []
+track: Exploration
 spec: Paladin
 stats:
   cha: 14
@@ -27,11 +29,9 @@ stats:
   int: 14
   str: 15
   wis: 11
-track: Exploration
-trait: I face problems head-on. A simple, direct solution is the best path to success.
-trait1: Masculine
-trait2: Impractical
 year: 1
+guild: Alderden
+partyID: 43
 ---
 # Asmiak Seirye
 ---

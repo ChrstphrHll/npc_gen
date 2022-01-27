@@ -1,24 +1,26 @@
 ---
+name: Caeleb Embrae
+race: Tiefling
+hair: straight blue hair that's geled back
+eyes: Pale Gray
+skin: Deep Blue
+ideal: Invention
+trait1: Skillful
+trait2: Libidinous
+trait: I never pass up a friendly wager.
+flaw: I'll say anything to avoid having to do extra work.
+bond: Someone saved my life on the battlefield. To this day, I will never leave a
+  friend behind.
 birthday:
   numeric: 5/18
   written: 18th of Iounent
-bond: Someone saved my life on the battlefield. To this day, I will never leave a
-  friend behind.
-eyes: Red
-flaw: I'll say anything to avoid having to do extra work.
-guild: Fiesn
-hair: straight blue hair that's geled back
-ideal: Invention
-name: Caeleb Embrae
-organizations: []
-partyID: 54
-race: Tiefling
 relationships:
 - name: Liris Bhyrindaar
   type: partymate
 - name: Eva Reluvethel
   type: partymate
-skin: Deep Blue
+organizations: []
+track: Assault
 spec: Bard
 stats:
   cha: 14
@@ -27,17 +29,15 @@ stats:
   int: 9
   str: 13
   wis: 9
-track: Assault
-trait: I never pass up a friendly wager.
-trait1: Skillful
-trait2: Libidinous
 year: 2
+guild: Fiesn
+partyID: 54
 ---
 # Caeleb Embrae
 ---
 ### Description
 - 2nd year Tiefling Bard in Fiesn
-- straight blue hair that's geled back, Red eyes, and Deep Blue skin
+- straight blue hair that's geled back, Pale Gray eyes, and Deep Blue skin
 - Is Skillful and Libidinous, and has Invention as their ideal
 
 ### Organizations

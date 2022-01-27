@@ -1,18 +1,19 @@
 ---
+name: Victor Gaelira
+race: Half-Elf
+hair: curly white hair that's loose around the shoulders
+eyes: Pale Brown
+skin: Dark Tan
+ideal: Family
+trait1: Ambitious
+trait2: Evil
+trait: I have a lesson for every situation, drawn from observing nature.
+flaw: I am too enamored of ale, wine, and other intoxicants.
+bond: Someone saved my life on the battlefield. To this day, I will never leave a
+  friend behind.
 birthday:
   numeric: 7/14
   written: 14th of Korent
-bond: Someone saved my life on the battlefield. To this day, I will never leave a
-  friend behind.
-eyes: Pale Blue
-flaw: I am too enamored of ale, wine, and other intoxicants.
-guild: Fiesn
-hair: curly white hair that's loose around the shoulders
-ideal: Family
-name: Victor Gaelira
-organizations: []
-partyID: 96
-race: Half-Elf
 relationships:
 - name: Halya Jian
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Handyr Letryal
   type: partymate
-skin: Dark Tan
+organizations: []
+track: Diplomacy
 spec: Barbarian
 stats:
   cha: 13
@@ -29,17 +31,15 @@ stats:
   int: 13
   str: 14
   wis: 12
-track: Diplomacy
-trait: I have a lesson for every situation, drawn from observing nature.
-trait1: Ambitious
-trait2: Evil
 year: 1
+guild: Fiesn
+partyID: 96
 ---
 # Victor Gaelira
 ---
 ### Description
 - 1st year Half-Elf Barbarian in Fiesn
-- curly white hair that's loose around the shoulders, Pale Blue eyes, and Dark Tan skin
+- curly white hair that's loose around the shoulders, Pale Brown eyes, and Dark Tan skin
 - Is Ambitious and Evil, and has Family as their ideal
 
 ### Organizations

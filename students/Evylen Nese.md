@@ -1,17 +1,18 @@
 ---
+name: Evylen Nese
+race: Gnome
+hair: curly platinum hair that's parted to the right
+eyes: Green
+skin: Dark Brown
+ideal: Perseverance
+trait1: Effeminate
+trait2: Dominating
+trait: I am working on a grand philosophical theory and love sharing my ideas.
+flaw: I speak without really thinking through my words, invariably insulting others.
+bond: I will face any challenge to win the approval of my family.
 birthday:
   numeric: 7/14
   written: 14th of Korent
-bond: I will face any challenge to win the approval of my family.
-eyes: Green
-flaw: I speak without really thinking through my words, invariably insulting others.
-guild: Treskal
-hair: curly platinum hair that's parted to the right
-ideal: Perseverance
-name: Evylen Nese
-organizations: []
-partyID: 69
-race: Gnome
 relationships:
 - name: Kova Tamara
   type: partymate
@@ -21,7 +22,8 @@ relationships:
   type: partymate
 - name: Jaedyn Arbane
   type: partymate
-skin: Dark Brown
+organizations: []
+track: Protection
 spec: Rouge
 stats:
   cha: 13
@@ -30,11 +32,9 @@ stats:
   int: 9
   str: 13
   wis: 13
-track: Protection
-trait: I am working on a grand philosophical theory and love sharing my ideas.
-trait1: Effeminate
-trait2: Dominating
 year: 1
+guild: Treskal
+partyID: 69
 ---
 # Evylen Nese
 ---

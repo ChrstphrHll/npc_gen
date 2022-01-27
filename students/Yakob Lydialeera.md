@@ -1,17 +1,18 @@
 ---
+name: Yakob Lydialeera
+race: Dragonborn
+hair: frills
+eyes: Pale Blue
+skin: blue
+ideal: Fitness
+trait1: Chummy
+trait2: Ambitious
+trait: I don't pay attention to the risks in a situation. Never tell me the odds.
+flaw: I will never fully trust anyone other than myself.
+bond: I owe my guild a great debt for forging me into the person I am today.
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
-bond: I owe my guild a great debt for forging me into the person I am today.
-eyes: Violet Red
-flaw: I will never fully trust anyone other than myself.
-guild: Elkenval
-hair: frills
-ideal: Fitness
-name: Yakob Lydialeera
-organizations: []
-partyID: 82
-race: Dragonborn
 relationships:
 - name: Wulfe Galan
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Lichie Halliwell
   type: partymate
-skin: blue
+organizations: []
+track: Protection
 spec: Fighter
 stats:
   cha: 17
@@ -28,17 +30,15 @@ stats:
   int: 9
   str: 14
   wis: 14
-track: Protection
-trait: I don't pay attention to the risks in a situation. Never tell me the odds.
-trait1: Chummy
-trait2: Ambitious
 year: 1
+guild: Elkenval
+partyID: 82
 ---
 # Yakob Lydialeera
 ---
 ### Description
 - 1st year Dragonborn Fighter in Elkenval
-- frills, Violet Red eyes, and blue skin
+- frills, Pale Blue eyes, and blue skin
 - Is Chummy and Ambitious, and has Fitness as their ideal
 
 ### Organizations

@@ -1,24 +1,27 @@
 ---
+name: Tezani Morthil
+race: Elf
+hair: straight auburn hair that's put up in a large bun
+eyes: Brown
+skin: Light Tan
+ideal: Generosity
+trait1: Deceptive
+trait2: Extreme
+trait: I'm haunted by memories of war. I can't get the images of violence out of my
+  mind.
+flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
+  own hide if the going gets tough.
+bond: My ill-gotten gains go to support my family.
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
-bond: My ill-gotten gains go to support my family.
-eyes: Pale Brown
-flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
-  own hide if the going gets tough.
-guild: Elkenval
-hair: straight auburn hair that's put up in a large bun
-ideal: Generosity
-name: Tezani Morthil
-organizations: []
-partyID: 34
-race: Elf
 relationships:
 - name: Eune Eldratha
   type: partymate
 - name: Evyn Fenton
   type: partymate
-skin: Light Tan
+organizations: []
+track: Assault
 spec: Wizard
 stats:
   cha: 13
@@ -27,18 +30,15 @@ stats:
   int: 15
   str: 10
   wis: 6
-track: Assault
-trait: I'm haunted by memories of war. I can't get the images of violence out of my
-  mind.
-trait1: Deceptive
-trait2: Extreme
 year: 2
+guild: Elkenval
+partyID: 34
 ---
 # Tezani Morthil
 ---
 ### Description
 - 2nd year Elf Wizard in Elkenval
-- straight auburn hair that's put up in a large bun, Pale Brown eyes, and Light Tan skin
+- straight auburn hair that's put up in a large bun, Brown eyes, and Light Tan skin
 - Is Deceptive and Extreme, and has Generosity as their ideal
 
 ### Organizations

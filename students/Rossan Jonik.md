@@ -1,24 +1,26 @@
 ---
+name: Rossan Jonik
+race: Halfling
+hair: straight red hair that's hanging down to their back
+eyes: Hazel
+skin: Fair
+ideal: Might
+trait1: Impartial
+trait2: Unaggressive
+trait: I like to squeeze into small places where no one else can get to me.
+flaw: I'm convinced of the significance of my destiny, and blind to my shortcomings
+  and the risk of failure.
+bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
 birthday:
   numeric: 3/31
   written: 31st of Melorent
-bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
-eyes: Pale Green
-flaw: I'm convinced of the significance of my destiny, and blind to my shortcomings
-  and the risk of failure.
-guild: Treskal
-hair: straight red hair that's hanging down to their back
-ideal: Might
-name: Rossan Jonik
-organizations: []
-partyID: 67
-race: Halfling
 relationships:
 - name: Bela Qwey
   type: partymate
 - name: Lanalia Belt
   type: partymate
-skin: Fair
+organizations: []
+track: Exploration
 spec: Artificer
 stats:
   cha: 10
@@ -27,17 +29,15 @@ stats:
   int: 15
   str: 7
   wis: 12
-track: Exploration
-trait: I like to squeeze into small places where no one else can get to me.
-trait1: Impartial
-trait2: Unaggressive
 year: 3
+guild: Treskal
+partyID: 67
 ---
 # Rossan Jonik
 ---
 ### Description
 - 3rd year Halfling Artificer in Treskal
-- straight red hair that's hanging down to their back, Pale Green eyes, and Fair skin
+- straight red hair that's hanging down to their back, Hazel eyes, and Fair skin
 - Is Impartial and Unaggressive, and has Might as their ideal
 
 ### Organizations

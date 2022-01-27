@@ -1,17 +1,19 @@
 ---
+name: Aurikallos Biafyndar
+race: Gnome
+hair: straight turquoise hair that's put up in a large bun
+eyes: Brown
+skin: Pale
+ideal: Righteous
+trait1: Placid
+trait2: Repugnant
+trait: When I set my mind to something, I follow through no matter what gets in my
+  way.
+flaw: I'm never satisfied with what I have- I always want more.
+bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 3/10
   written: 10th of Melorent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Pale Gray
-flaw: I'm never satisfied with what I have- I always want more.
-guild: Elkenval
-hair: straight turquoise hair that's put up in a large bun
-ideal: Righteous
-name: Aurikallos Biafyndar
-organizations: []
-partyID: 20
-race: Gnome
 relationships:
 - name: Dylan Usunaar
   type: partymate
@@ -19,7 +21,8 @@ relationships:
   type: partymate
 - name: Grace Festus
   type: partymate
-skin: Pale
+organizations: []
+track: Protection
 spec: Monk
 stats:
   cha: 14
@@ -28,18 +31,15 @@ stats:
   int: 14
   str: 14
   wis: 8
-track: Protection
-trait: When I set my mind to something, I follow through no matter what gets in my
-  way.
-trait1: Placid
-trait2: Repugnant
 year: 5
+guild: Elkenval
+partyID: 20
 ---
 # Aurikallos Biafyndar
 ---
 ### Description
 - 5th year Gnome Monk in Elkenval
-- straight turquoise hair that's put up in a large bun, Pale Gray eyes, and Pale skin
+- straight turquoise hair that's put up in a large bun, Brown eyes, and Pale skin
 - Is Placid and Repugnant, and has Righteous as their ideal
 
 ### Organizations

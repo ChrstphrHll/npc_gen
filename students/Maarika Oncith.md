@@ -1,23 +1,25 @@
 ---
+name: Maarika Oncith
+race: Dragonborn
+hair: 4 curled horns
+eyes: Blue
+skin: red
+ideal: Community
+trait1: Tractable
+trait2: Naughty
+trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
+flaw: I can't help but pocket loose coins and other trinkets I come across.
+bond: I work to preserve a library, university, scriptorium, or monastery.
 birthday:
   numeric: 1/30
   written: 30th of Avanent
-bond: I work to preserve a library, university, scriptorium, or monastery.
-eyes: Green
-flaw: I can't help but pocket loose coins and other trinkets I come across.
-guild: Fiesn
-hair: 4 curled horns
-ideal: Community
-name: Maarika Oncith
-organizations: []
-partyID: 94
-race: Dragonborn
 relationships:
 - name: Braddeus Jacaranda
   type: partymate
 - name: Lilia Agrippa
   type: partymate
-skin: red
+organizations: []
+track: Protection
 spec: Artificer
 stats:
   cha: 12
@@ -26,17 +28,15 @@ stats:
   int: 15
   str: 7
   wis: 9
-track: Protection
-trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
-trait1: Tractable
-trait2: Naughty
 year: 3
+guild: Fiesn
+partyID: 94
 ---
 # Maarika Oncith
 ---
 ### Description
 - 3rd year Dragonborn Artificer in Fiesn
-- 4 curled horns, Green eyes, and red skin
+- 4 curled horns, Blue eyes, and red skin
 - Is Tractable and Naughty, and has Community as their ideal
 
 ### Organizations

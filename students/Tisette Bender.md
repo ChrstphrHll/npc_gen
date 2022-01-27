@@ -1,17 +1,18 @@
 ---
+name: Tisette Bender
+race: Gnome
+hair: frizzy green hair that's parted to the right
+eyes: Green
+skin: Brown
+ideal: Logic
+trait1: Profound
+trait2: Plain
+trait: I would rather make a new friend than a new enemy.
+flaw: I overlook obvious solutions in favor of complicated ones.
+bond: Someone stole my precious instrument, and someday I'll get it back.
 birthday:
   numeric: 1/23
   written: 23rd of Avanent
-bond: Someone stole my precious instrument, and someday I'll get it back.
-eyes: Brown
-flaw: I overlook obvious solutions in favor of complicated ones.
-guild: Burk
-hair: frizzy green hair that's parted to the right
-ideal: Logic
-name: Tisette Bender
-organizations: []
-partyID: 95
-race: Gnome
 relationships:
 - name: Brinna Muerlara
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Rosherren Haladavar
   type: partymate
-skin: Brown
+organizations: []
+track: Assault
 spec: Paladin
 stats:
   cha: 12
@@ -28,17 +30,15 @@ stats:
   int: 15
   str: 17
   wis: 13
-track: Assault
-trait: I would rather make a new friend than a new enemy.
-trait1: Profound
-trait2: Plain
 year: 1
+guild: Burk
+partyID: 95
 ---
 # Tisette Bender
 ---
 ### Description
 - 1st year Gnome Paladin in Burk
-- frizzy green hair that's parted to the right, Brown eyes, and Brown skin
+- frizzy green hair that's parted to the right, Green eyes, and Brown skin
 - Is Profound and Plain, and has Logic as their ideal
 
 ### Organizations

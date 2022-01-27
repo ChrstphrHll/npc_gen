@@ -1,25 +1,28 @@
 ---
+name: Gerrimar Vulkor
+race: Firbolg
+hair: wavy auburn hair that's done up in a top knot
+eyes: Blue
+skin: Pale Brown
+ideal: Home
+trait1: Dreamy
+trait2: Artificial
+trait: I'm full of inspiring and cautionary tales from my military experience relevant
+  to almost every combat situation.
+flaw: I too often hear veiled insults and threats in every word addressed to me, and
+  I'm quick to anger.
+bond: My freedom is my most precious possession. I'll never let anyone take it from
+  me again.
 birthday:
   numeric: 8/27
   written: 27th of Ravenent
-bond: My freedom is my most precious possession. I'll never let anyone take it from
-  me again.
-eyes: Blue
-flaw: I too often hear veiled insults and threats in every word addressed to me, and
-  I'm quick to anger.
-guild: Treskal
-hair: wavy auburn hair that's done up in a top knot
-ideal: Home
-name: Gerrimar Vulkor
-organizations: []
-partyID: 63
-race: Firbolg
 relationships:
 - name: Cerridwen Durothil
   type: partymate
 - name: Ungris Riluaneth
   type: partymate
-skin: Pale Brown
+organizations: []
+track: Exploration
 spec: Cleric
 stats:
   cha: 11
@@ -28,12 +31,9 @@ stats:
   int: 14
   str: 7
   wis: 14
-track: Exploration
-trait: I'm full of inspiring and cautionary tales from my military experience relevant
-  to almost every combat situation.
-trait1: Dreamy
-trait2: Artificial
 year: 5
+guild: Treskal
+partyID: 63
 ---
 # Gerrimar Vulkor
 ---

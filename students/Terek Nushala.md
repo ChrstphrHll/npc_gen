@@ -1,23 +1,25 @@
 ---
+name: Terek Nushala
+race: Triton
+hair: straight strawberry blond hair that's hanging down to their back
+eyes: Red
+skin: Deep Blue
+ideal: Self-Fulfillment
+trait1: Circumspect
+trait2: Ridiculous
+trait: I eat like a pig and have bad manners.
+flaw: I'll do anything to get my hands on something rare or priceless.
+bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 3/19
   written: 19th of Melorent
-bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
-eyes: Pale Green
-flaw: I'll do anything to get my hands on something rare or priceless.
-guild: Fiesn
-hair: straight strawberry blond hair that's hanging down to their back
-ideal: Self-Fulfillment
-name: Terek Nushala
-organizations: []
-partyID: 27
-race: Triton
 relationships:
 - name: Scarletta Elora
   type: partymate
 - name: Barak Felaern
   type: partymate
-skin: Deep Blue
+organizations: []
+track: Protection
 spec: Wizard
 stats:
   cha: 13
@@ -26,17 +28,15 @@ stats:
   int: 17
   str: 11
   wis: 14
-track: Protection
-trait: I eat like a pig and have bad manners.
-trait1: Circumspect
-trait2: Ridiculous
 year: 2
+guild: Fiesn
+partyID: 27
 ---
 # Terek Nushala
 ---
 ### Description
 - 2nd year Triton Wizard in Fiesn
-- straight strawberry blond hair that's hanging down to their back, Pale Green eyes, and Deep Blue skin
+- straight strawberry blond hair that's hanging down to their back, Red eyes, and Deep Blue skin
 - Is Circumspect and Ridiculous, and has Self-Fulfillment as their ideal
 
 ### Organizations

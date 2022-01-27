@@ -1,24 +1,26 @@
 ---
+name: Kembley Ralnor
+race: Half-Orc
+hair: curly strawberry blond hair that's put up in a large bun
+eyes: Pale Green
+skin: Pale Gray
+ideal: Entrepreneurial
+trait1: Unaggressive
+trait2: Unimaginative
+trait: I work hard so that I can play hard when the work is done.
+flaw: An innocent person is in prison for a crime that I committed. I'm okay with
+  that.
+bond: I owe a debt I can never repay to the person who took pity on me.
 birthday:
   numeric: 4/15
   written: 15th of Moradent
-bond: I owe a debt I can never repay to the person who took pity on me.
-eyes: Gray
-flaw: An innocent person is in prison for a crime that I committed. I'm okay with
-  that.
-guild: Jettenia
-hair: curly strawberry blond hair that's put up in a large bun
-ideal: Entrepreneurial
-name: Kembley Ralnor
-organizations: []
-partyID: 80
-race: Half-Orc
 relationships:
 - name: Celaeno Amkissra
   type: partymate
 - name: Wenge Usunaar
   type: partymate
-skin: Pale Gray
+organizations: []
+track: Protection
 spec: Sorcerer
 stats:
   cha: 17
@@ -27,17 +29,15 @@ stats:
   int: 11
   str: 13
   wis: 7
-track: Protection
-trait: I work hard so that I can play hard when the work is done.
-trait1: Unaggressive
-trait2: Unimaginative
 year: 8
+guild: Jettenia
+partyID: 80
 ---
 # Kembley Ralnor
 ---
 ### Description
 - 8th year Half-Orc Sorcerer in Jettenia
-- curly strawberry blond hair that's put up in a large bun, Gray eyes, and Pale Gray skin
+- curly strawberry blond hair that's put up in a large bun, Pale Green eyes, and Pale Gray skin
 - Is Unaggressive and Unimaginative, and has Entrepreneurial as their ideal
 
 ### Organizations

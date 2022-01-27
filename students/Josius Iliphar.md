@@ -1,24 +1,26 @@
 ---
+name: Josius Iliphar
+race: Genasi
+hair: curly brunette hair that's parted to the left
+eyes: Amber
+skin: air
+ideal: Kindness
+trait1: Iconoclastic
+trait2: Shallow
+trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
+flaw: I can't resist a pretty face.
+bond: I come from a noble family, and one day I'll reclaim my lands and title from
+  those who stole them from me.
 birthday:
   numeric: 4/9
   written: 9th of Moradent
-bond: I come from a noble family, and one day I'll reclaim my lands and title from
-  those who stole them from me.
-eyes: Violet Red
-flaw: I can't resist a pretty face.
-guild: Fiesn
-hair: curly brunette hair that's parted to the left
-ideal: Kindness
-name: Josius Iliphar
-organizations: []
-partyID: 15
-race: Genasi
 relationships:
 - name: Surge Fayd
   type: partymate
 - name: Delsenora Strohm
   type: partymate
-skin: air
+organizations: []
+track: Assault
 spec: Rouge
 stats:
   cha: 12
@@ -27,17 +29,15 @@ stats:
   int: 14
   str: 10
   wis: 13
-track: Assault
-trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
-trait1: Iconoclastic
-trait2: Shallow
 year: 7
+guild: Fiesn
+partyID: 15
 ---
 # Josius Iliphar
 ---
 ### Description
 - 7th year Genasi Rouge in Fiesn
-- curly brunette hair that's parted to the left, Violet Red eyes, and air skin
+- curly brunette hair that's parted to the left, Amber eyes, and air skin
 - Is Iconoclastic and Shallow, and has Kindness as their ideal
 
 ### Organizations

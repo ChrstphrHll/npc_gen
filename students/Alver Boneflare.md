@@ -1,19 +1,20 @@
 ---
+name: Alver Boneflare
+race: Goliath
+hair: curly brunette hair that's hanging down to their back
+eyes: Pale Gray
+skin: Light Tan
+ideal: Creativity
+trait1: Reflective
+trait2: Cold-hearted
+trait: I'm oblivious to etiquette and social expectations.
+flaw: I made a terrible mistake in battle cost many lives- and I would do anything
+  to keep that mistake secret.
+bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
+  somewhere.
 birthday:
   numeric: 3/27
   written: 27th of Melorent
-bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
-  somewhere.
-eyes: Blue
-flaw: I made a terrible mistake in battle cost many lives- and I would do anything
-  to keep that mistake secret.
-guild: Jettenia
-hair: curly brunette hair that's hanging down to their back
-ideal: Creativity
-name: Alver Boneflare
-organizations: []
-partyID: 68
-race: Goliath
 relationships:
 - name: Matto Divya
   type: partymate
@@ -23,7 +24,8 @@ relationships:
   type: partymate
 - name: Iasono Ynshael
   type: partymate
-skin: Light Tan
+organizations: []
+track: Protection
 spec: Cleric
 stats:
   cha: 9
@@ -32,17 +34,15 @@ stats:
   int: 16
   str: 11
   wis: 18
-track: Protection
-trait: I'm oblivious to etiquette and social expectations.
-trait1: Reflective
-trait2: Cold-hearted
 year: 1
+guild: Jettenia
+partyID: 68
 ---
 # Alver Boneflare
 ---
 ### Description
 - 1st year Goliath Cleric in Jettenia
-- curly brunette hair that's hanging down to their back, Blue eyes, and Light Tan skin
+- curly brunette hair that's hanging down to their back, Pale Gray eyes, and Light Tan skin
 - Is Reflective and Cold-hearted, and has Creativity as their ideal
 
 ### Organizations

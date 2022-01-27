@@ -1,23 +1,25 @@
 ---
+name: Jamie Kesefehon
+race: Gnome
+hair: straight strawberry blond hair that's kept back by a blue headband
+eyes: Amber
+skin: Fair
+ideal: Spiritualism
+trait1: Simple
+trait2: Offhand
+trait: If someone is in trouble, I'm always ready to lend help.
+flaw: I have an insatiable desire for carnal pleasures.
+bond: Someone I loved died because of a mistake I made. That will never happen again.
 birthday:
   numeric: 8/18
   written: 18th of Ravenent
-bond: Someone I loved died because of a mistake I made. That will never happen again.
-eyes: Amber
-flaw: I have an insatiable desire for carnal pleasures.
-guild: Alderden
-hair: straight strawberry blond hair that's kept back by a blue headband
-ideal: Spiritualism
-name: Jamie Kesefehon
-organizations: []
-partyID: 16
-race: Gnome
 relationships:
 - name: Hanro Fieryat
   type: partymate
 - name: Rasy Merlara
   type: partymate
-skin: Fair
+organizations: []
+track: Diplomacy
 spec: Sorcerer
 stats:
   cha: 17
@@ -26,11 +28,9 @@ stats:
   int: 15
   str: 16
   wis: 11
-track: Diplomacy
-trait: If someone is in trouble, I'm always ready to lend help.
-trait1: Simple
-trait2: Offhand
 year: 1
+guild: Alderden
+partyID: 16
 ---
 # Jamie Kesefehon
 ---

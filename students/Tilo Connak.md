@@ -1,18 +1,19 @@
 ---
+name: Tilo Connak
+race: Tiefling
+hair: curly auburn hair that's loose around the shoulders
+eyes: Sea Green
+skin: Olive
+ideal: Humane
+trait1: Gritty
+trait2: Modern
+trait: I pocket anything I see that might have some value.
+flaw: When faced with a choice between money and my friends, I usually choose the
+  money.
+bond: The common folk must see me as a hero of the people.
 birthday:
   numeric: 5/26
   written: 26th of Iounent
-bond: The common folk must see me as a hero of the people.
-eyes: Hazel
-flaw: When faced with a choice between money and my friends, I usually choose the
-  money.
-guild: Treskal
-hair: curly auburn hair that's loose around the shoulders
-ideal: Humane
-name: Tilo Connak
-organizations: []
-partyID: 17
-race: Tiefling
 relationships:
 - name: Leah Faelar
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Angel Nushala
   type: partymate
-skin: Olive
+organizations: []
+track: Diplomacy
 spec: Ranger
 stats:
   cha: 11
@@ -29,17 +31,15 @@ stats:
   int: 15
   str: 8
   wis: 11
-track: Diplomacy
-trait: I pocket anything I see that might have some value.
-trait1: Gritty
-trait2: Modern
 year: 1
+guild: Treskal
+partyID: 17
 ---
 # Tilo Connak
 ---
 ### Description
 - 1st year Tiefling Ranger in Treskal
-- curly auburn hair that's loose around the shoulders, Hazel eyes, and Olive skin
+- curly auburn hair that's loose around the shoulders, Sea Green eyes, and Olive skin
 - Is Gritty and Modern, and has Humane as their ideal
 
 ### Organizations

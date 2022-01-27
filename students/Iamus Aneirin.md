@@ -1,21 +1,23 @@
 ---
+name: Iamus Aneirin
+race: Dwarf
+hair: straight turquoise hair that's parted to the left
+eyes: Pale Blue
+skin: Light
+ideal: Harmony
+trait1: Dynamic
+trait2: Obvious
+trait: I change my mood or my mind as quickly as I change key in a song.
+flaw: I can't help but pocket loose coins and other trinkets I come across.
+bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
-bond: I pursue wealth to secure someone's love.
-eyes: Green
-flaw: I can't help but pocket loose coins and other trinkets I come across.
-guild: Treskal
-hair: straight turquoise hair that's parted to the left
-ideal: Harmony
-name: Iamus Aneirin
-organizations: []
-partyID: 74
-race: Dwarf
 relationships:
 - name: Nebulon Faelyn
   type: partymate
-skin: Light
+organizations: []
+track: Diplomacy
 spec: Paladin
 stats:
   cha: 18
@@ -24,17 +26,15 @@ stats:
   int: 14
   str: 17
   wis: 11
-track: Diplomacy
-trait: I change my mood or my mind as quickly as I change key in a song.
-trait1: Dynamic
-trait2: Obvious
 year: 1
+guild: Treskal
+partyID: 74
 ---
 # Iamus Aneirin
 ---
 ### Description
 - 1st year Dwarf Paladin in Treskal
-- straight turquoise hair that's parted to the left, Green eyes, and Light skin
+- straight turquoise hair that's parted to the left, Pale Blue eyes, and Light skin
 - Is Dynamic and Obvious, and has Harmony as their ideal
 
 ### Organizations

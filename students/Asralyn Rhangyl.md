@@ -1,22 +1,25 @@
 ---
+name: Asralyn Rhangyl
+race: Elf
+hair: curly strawberry blond hair that's put up in a large bun
+eyes: Brown
+skin: Brown
+ideal: Effectiveness
+trait1: Magnanimous
+trait2: Quiet
+trait: I often get lost in my own thoughts and contemplation, becoming oblivious to
+  my surroundings.
+flaw: I'd risk too much to uncover a lost bit of knowledge.
+bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, and
+  left me to die. Vengeance will be mine.
 birthday:
   numeric: 3/16
   written: 16th of Melorent
-bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, and
-  left me to die. Vengeance will be mine.
-eyes: Brown
-flaw: I'd risk too much to uncover a lost bit of knowledge.
-guild: Fiesn
-hair: curly strawberry blond hair that's put up in a large bun
-ideal: Effectiveness
-name: Asralyn Rhangyl
-organizations: []
-partyID: 71
-race: Elf
 relationships:
 - name: Eljana Jian
   type: partymate
-skin: Brown
+organizations: []
+track: Assault
 spec: Ranger
 stats:
   cha: 8
@@ -25,12 +28,9 @@ stats:
   int: 7
   str: 13
   wis: 13
-track: Assault
-trait: I often get lost in my own thoughts and contemplation, becoming oblivious to
-  my surroundings.
-trait1: Magnanimous
-trait2: Quiet
 year: 5
+guild: Fiesn
+partyID: 71
 ---
 # Asralyn Rhangyl
 ---

@@ -1,18 +1,20 @@
 ---
+name: Willam Ardryll
+race: Kenku
+hair: speckled
+eyes: Hazel
+skin: Dark Blue
+ideal: Redemption
+trait1: Resourceful
+trait2: Arrogant
+trait: I'm used to helping out those who aren't as smart as I am, and I patiently
+  explain anything and everything to others.
+flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
+bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
+  somewhere.
 birthday:
   numeric: 4/22
   written: 22nd of Moradent
-bond: I owe everything to my mentor- a horrible person who's probably rotting in jail
-  somewhere.
-eyes: Gray
-flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
-guild: Treskal
-hair: speckled
-ideal: Redemption
-name: Willam Ardryll
-organizations: []
-partyID: 44
-race: Kenku
 relationships:
 - name: Graisen Thalanil
   type: partymate
@@ -20,7 +22,8 @@ relationships:
   type: partymate
 - name: Lucoe Lorelei
   type: partymate
-skin: Dark Blue
+organizations: []
+track: Assault
 spec: Wizard
 stats:
   cha: 10
@@ -29,18 +32,15 @@ stats:
   int: 15
   str: 10
   wis: 12
-track: Assault
-trait: I'm used to helping out those who aren't as smart as I am, and I patiently
-  explain anything and everything to others.
-trait1: Resourceful
-trait2: Arrogant
 year: 2
+guild: Treskal
+partyID: 44
 ---
 # Willam Ardryll
 ---
 ### Description
 - 2nd year Kenku Wizard in Treskal
-- speckled, Gray eyes, and Dark Blue skin
+- speckled, Hazel eyes, and Dark Blue skin
 - Is Resourceful and Arrogant, and has Redemption as their ideal
 
 ### Organizations

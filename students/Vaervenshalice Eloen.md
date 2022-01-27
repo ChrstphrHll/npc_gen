@@ -1,18 +1,20 @@
 ---
+name: Vaervenshalice Eloen
+race: Elf
+hair: curly dirty blonde hair that's geled back
+eyes: Amber
+skin: Dark Brown
+ideal: Power
+trait1: Stubborn
+trait2: Envious
+trait: I keep multiple holy symbols on me and invoke whatever deity might come in
+  useful at any given moment.
+flaw: I hide a truly scandalous secret that could ruin my family forever.
+bond: My tools are symbols of my past life, and I carry them so that I will never
+  forget my roots.
 birthday:
   numeric: 5/3
   written: 3rd of Iounent
-bond: My tools are symbols of my past life, and I carry them so that I will never
-  forget my roots.
-eyes: Blue
-flaw: I hide a truly scandalous secret that could ruin my family forever.
-guild: Treskal
-hair: curly dirty blonde hair that's geled back
-ideal: Power
-name: Vaervenshalice Eloen
-organizations: []
-partyID: 51
-race: Elf
 relationships:
 - name: Ysaac Aelrue
   type: partymate
@@ -20,7 +22,8 @@ relationships:
   type: partymate
 - name: Dejana Keller
   type: partymate
-skin: Dark Brown
+organizations: []
+track: Exploration
 spec: Ranger
 stats:
   cha: 13
@@ -29,18 +32,15 @@ stats:
   int: 14
   str: 13
   wis: 13
-track: Exploration
-trait: I keep multiple holy symbols on me and invoke whatever deity might come in
-  useful at any given moment.
-trait1: Stubborn
-trait2: Envious
 year: 1
+guild: Treskal
+partyID: 51
 ---
 # Vaervenshalice Eloen
 ---
 ### Description
 - 1st year Elf Ranger in Treskal
-- curly dirty blonde hair that's geled back, Blue eyes, and Dark Brown skin
+- curly dirty blonde hair that's geled back, Amber eyes, and Dark Brown skin
 - Is Stubborn and Envious, and has Power as their ideal
 
 ### Organizations

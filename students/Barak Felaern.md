@@ -1,24 +1,26 @@
 ---
+name: Barak Felaern
+race: Kenku
+hair: striped
+eyes: Green
+skin: Dark Blue
+ideal: Order
+trait1: Playful
+trait2: Noncommittal
+trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
+flaw: I'd rather kill someone in their sleep then fight fair.
+bond: My instrument is my most treasured possession, and it reminds me of someone
+  I love.
 birthday:
   numeric: 6/19
   written: 19th of Pelent
-bond: My instrument is my most treasured possession, and it reminds me of someone
-  I love.
-eyes: Pale Green
-flaw: I'd rather kill someone in their sleep then fight fair.
-guild: Fiesn
-hair: striped
-ideal: Order
-name: Barak Felaern
-organizations: []
-partyID: 27
-race: Kenku
 relationships:
 - name: Terek Nushala
   type: partymate
 - name: Scarletta Elora
   type: partymate
-skin: Dark Blue
+organizations: []
+track: Protection
 spec: Monk
 stats:
   cha: 8
@@ -27,17 +29,15 @@ stats:
   int: 9
   str: 12
   wis: 11
-track: Protection
-trait: If you do me an injury, I will crush you, ruin your name, and salt your fields.
-trait1: Playful
-trait2: Noncommittal
 year: 2
+guild: Fiesn
+partyID: 27
 ---
 # Barak Felaern
 ---
 ### Description
 - 2nd year Kenku Monk in Fiesn
-- striped, Pale Green eyes, and Dark Blue skin
+- striped, Green eyes, and Dark Blue skin
 - Is Playful and Noncommittal, and has Order as their ideal
 
 ### Organizations

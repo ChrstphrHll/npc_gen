@@ -1,17 +1,18 @@
 ---
+name: Graisen Thalanil
+race: Half-Orc
+hair: straight dark red hair that's geled back
+eyes: Pale Brown
+skin: Deep Green
+ideal: Encouragement
+trait1: Intense
+trait2: Envious
+trait: I connect everything that happens to me to a grand, cosmic plan.
+flaw: I obey the law, even if the law causes misery.
+bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
 birthday:
   numeric: 5/27
   written: 27th of Iounent
-bond: I am the last of my tribe, and it is up to me to ensure their names enter legend.
-eyes: Pale Gray
-flaw: I obey the law, even if the law causes misery.
-guild: Treskal
-hair: straight dark red hair that's geled back
-ideal: Encouragement
-name: Graisen Thalanil
-organizations: []
-partyID: 44
-race: Half-Orc
 relationships:
 - name: Willam Ardryll
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Lucoe Lorelei
   type: partymate
-skin: Deep Green
+organizations: []
+track: Assault
 spec: Cleric
 stats:
   cha: 15
@@ -28,17 +30,15 @@ stats:
   int: 9
   str: 15
   wis: 16
-track: Assault
-trait: I connect everything that happens to me to a grand, cosmic plan.
-trait1: Intense
-trait2: Envious
 year: 2
+guild: Treskal
+partyID: 44
 ---
 # Graisen Thalanil
 ---
 ### Description
 - 2nd year Half-Orc Cleric in Treskal
-- straight dark red hair that's geled back, Pale Gray eyes, and Deep Green skin
+- straight dark red hair that's geled back, Pale Brown eyes, and Deep Green skin
 - Is Intense and Envious, and has Encouragement as their ideal
 
 ### Organizations

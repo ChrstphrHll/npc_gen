@@ -1,18 +1,19 @@
 ---
+name: Delja Iefyr
+race: Half-Elf
+hair: straight dirty blonde hair that's put up in a large bun
+eyes: Pale Brown
+skin: Light
+ideal: Power
+trait1: Harmonious
+trait2: Risk-taking
+trait: I am utterly serene, even in the face of disaster.
+flaw: Gold seems like a lot of money to me, and I'll do just about anything for more
+  of it.
+bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 4/27
   written: 27th of Moradent
-bond: I would still lay down my life for the people I served with.
-eyes: Amber
-flaw: Gold seems like a lot of money to me, and I'll do just about anything for more
-  of it.
-guild: Burk
-hair: straight dirty blonde hair that's put up in a large bun
-ideal: Power
-name: Delja Iefyr
-organizations: []
-partyID: 38
-race: Half-Elf
 relationships:
 - name: Hodus Belt
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Genesys Mhaenal
   type: partymate
-skin: Light
+organizations: []
+track: Diplomacy
 spec: Druid
 stats:
   cha: 9
@@ -29,17 +31,15 @@ stats:
   int: 15
   str: 10
   wis: 16
-track: Diplomacy
-trait: I am utterly serene, even in the face of disaster.
-trait1: Harmonious
-trait2: Risk-taking
 year: 1
+guild: Burk
+partyID: 38
 ---
 # Delja Iefyr
 ---
 ### Description
 - 1st year Half-Elf Druid in Burk
-- straight dirty blonde hair that's put up in a large bun, Amber eyes, and Light skin
+- straight dirty blonde hair that's put up in a large bun, Pale Brown eyes, and Light skin
 - Is Harmonious and Risk-taking, and has Power as their ideal
 
 ### Organizations

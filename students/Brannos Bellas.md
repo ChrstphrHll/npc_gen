@@ -1,23 +1,25 @@
 ---
+name: Brannos Bellas
+race: Human
+hair: wavy auburn hair that's parted to the left
+eyes: Hazel
+skin: Dark Brown
+ideal: Balance
+trait1: Progressive
+trait2: Opportunistic
+trait: I never pass up a friendly wager.
+flaw: I have trouble trusting in my allies.
+bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 1/13
   written: 13th of Avanent
-bond: I want to be famous, whatever it takes.
-eyes: Pale Blue
-flaw: I have trouble trusting in my allies.
-guild: Fiesn
-hair: wavy auburn hair that's parted to the left
-ideal: Balance
-name: Brannos Bellas
-organizations: []
-partyID: 42
-race: Human
 relationships:
 - name: Tylor Llewellenar
   type: partymate
 - name: Ragnar Illitran
   type: partymate
-skin: Dark Brown
+organizations: []
+track: Protection
 spec: Barbarian
 stats:
   cha: 13
@@ -26,17 +28,15 @@ stats:
   int: 11
   str: 17
   wis: 14
-track: Protection
-trait: I never pass up a friendly wager.
-trait1: Progressive
-trait2: Opportunistic
 year: 6
+guild: Fiesn
+partyID: 42
 ---
 # Brannos Bellas
 ---
 ### Description
 - 6th year Human Barbarian in Fiesn
-- wavy auburn hair that's parted to the left, Pale Blue eyes, and Dark Brown skin
+- wavy auburn hair that's parted to the left, Hazel eyes, and Dark Brown skin
 - Is Progressive and Opportunistic, and has Balance as their ideal
 
 ### Organizations

@@ -1,17 +1,19 @@
 ---
+name: Cartyr Tamsin
+race: Dragonborn
+hair: short spines
+eyes: Blue
+skin: silver
+ideal: Caring
+trait1: Logical
+trait2: Critical
+trait: I've spent so long in the temple that I have little practical experience dealing
+  with people in the outside world.
+flaw: I am too enamored of ale, wine, and other intoxicants.
+bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 8/13
   written: 13th of Ravenent
-bond: I will become the greatest thief that ever lived.
-eyes: Violet Red
-flaw: I am too enamored of ale, wine, and other intoxicants.
-guild: Jettenia
-hair: short spines
-ideal: Caring
-name: Cartyr Tamsin
-organizations: []
-partyID: 28
-race: Dragonborn
 relationships:
 - name: Railyn Retenia
   type: partymate
@@ -19,7 +21,8 @@ relationships:
   type: partymate
 - name: Jaxon Brindarry
   type: partymate
-skin: silver
+organizations: []
+track: Assault
 spec: Druid
 stats:
   cha: 11
@@ -28,18 +31,15 @@ stats:
   int: 12
   str: 9
   wis: 13
-track: Assault
-trait: I've spent so long in the temple that I have little practical experience dealing
-  with people in the outside world.
-trait1: Logical
-trait2: Critical
 year: 3
+guild: Jettenia
+partyID: 28
 ---
 # Cartyr Tamsin
 ---
 ### Description
 - 3rd year Dragonborn Druid in Jettenia
-- short spines, Violet Red eyes, and silver skin
+- short spines, Blue eyes, and silver skin
 - Is Logical and Critical, and has Caring as their ideal
 
 ### Organizations

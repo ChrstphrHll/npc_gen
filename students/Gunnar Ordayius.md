@@ -1,19 +1,20 @@
 ---
+name: Gunnar Ordayius
+race: Human
+hair: straight auburn hair that's a tousled bed head
+eyes: Hazel
+skin: Light
+ideal: Enjoyment
+trait1: Shrewd
+trait2: Mean
+trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
+flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
+  involved.
+bond: I have a family, but I have no idea where they are. One day, I hope to see them
+  again.
 birthday:
   numeric: 1/17
   written: 17th of Avanent
-bond: I have a family, but I have no idea where they are. One day, I hope to see them
-  again.
-eyes: Brown
-flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
-  involved.
-guild: Burk
-hair: straight auburn hair that's a tousled bed head
-ideal: Enjoyment
-name: Gunnar Ordayius
-organizations: []
-partyID: 59
-race: Human
 relationships:
 - name: Noam Shields
   type: partymate
@@ -21,7 +22,8 @@ relationships:
   type: partymate
 - name: Remus Manchul
   type: partymate
-skin: Light
+organizations: []
+track: Diplomacy
 spec: Druid
 stats:
   cha: 9
@@ -30,17 +32,15 @@ stats:
   int: 10
   str: 13
   wis: 12
-track: Diplomacy
-trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
-trait1: Shrewd
-trait2: Mean
 year: 4
+guild: Burk
+partyID: 59
 ---
 # Gunnar Ordayius
 ---
 ### Description
 - 4th year Human Druid in Burk
-- straight auburn hair that's a tousled bed head, Brown eyes, and Light skin
+- straight auburn hair that's a tousled bed head, Hazel eyes, and Light skin
 - Is Shrewd and Mean, and has Enjoyment as their ideal
 
 ### Organizations

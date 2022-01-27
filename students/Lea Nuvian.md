@@ -1,18 +1,19 @@
 ---
+name: Lea Nuvian
+race: Triton
+hair: straight dark red hair that's hanging down to their legs
+eyes: Pale Brown
+skin: Pale Blue
+ideal: Cruelty
+trait1: Ascetic
+trait2: Disputatious
+trait: Whenever I come to a new place, I collect local rumors and spread gossip.
+flaw: The tyrant who rules my land will stop at nothing to see me killed.
+bond: The workshop where I learned my trade is the most important place in the world
+  to me.
 birthday:
   numeric: 8/19
   written: 19th of Ravenent
-bond: The workshop where I learned my trade is the most important place in the world
-  to me.
-eyes: Deep Blue
-flaw: The tyrant who rules my land will stop at nothing to see me killed.
-guild: Alderden
-hair: straight dark red hair that's hanging down to their legs
-ideal: Cruelty
-name: Lea Nuvian
-organizations: []
-partyID: 56
-race: Triton
 relationships:
 - name: Audree Dixon
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Alkindus Llamryl
   type: partymate
-skin: Pale Blue
+organizations: []
+track: Protection
 spec: Rouge
 stats:
   cha: 9
@@ -29,17 +31,15 @@ stats:
   int: 14
   str: 15
   wis: 11
-track: Protection
-trait: Whenever I come to a new place, I collect local rumors and spread gossip.
-trait1: Ascetic
-trait2: Disputatious
 year: 1
+guild: Alderden
+partyID: 56
 ---
 # Lea Nuvian
 ---
 ### Description
 - 1st year Triton Rouge in Alderden
-- straight dark red hair that's hanging down to their legs, Deep Blue eyes, and Pale Blue skin
+- straight dark red hair that's hanging down to their legs, Pale Brown eyes, and Pale Blue skin
 - Is Ascetic and Disputatious, and has Cruelty as their ideal
 
 ### Organizations

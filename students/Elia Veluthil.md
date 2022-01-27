@@ -1,17 +1,18 @@
 ---
+name: Elia Veluthil
+race: Firbolg
+hair: wavy dirty blonde hair that's braided with blue ribbon (long)
+eyes: Amber
+skin: Pale Green
+ideal: Perseverance
+trait1: Charming
+trait2: Unhurried
+trait: I never pass up a friendly wager.
+flaw: I am slow to trust members of other races, tribes, and societies.
+bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 1/10
   written: 10th of Avanent
-bond: I've been searching my whole life for the answer to a certain question.
-eyes: Pale Gray
-flaw: I am slow to trust members of other races, tribes, and societies.
-guild: Burk
-hair: wavy dirty blonde hair that's braided with blue ribbon (long)
-ideal: Perseverance
-name: Elia Veluthil
-organizations: []
-partyID: 9
-race: Firbolg
 relationships:
 - name: Aelisabeth Soliania
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Helera Urkensvall
   type: partymate
-skin: Pale Green
+organizations: []
+track: Exploration
 spec: Bard
 stats:
   cha: 15
@@ -28,17 +30,15 @@ stats:
   int: 13
   str: 10
   wis: 13
-track: Exploration
-trait: I never pass up a friendly wager.
-trait1: Charming
-trait2: Unhurried
 year: 3
+guild: Burk
+partyID: 9
 ---
 # Elia Veluthil
 ---
 ### Description
 - 3rd year Firbolg Bard in Burk
-- wavy dirty blonde hair that's braided with blue ribbon (long), Pale Gray eyes, and Pale Green skin
+- wavy dirty blonde hair that's braided with blue ribbon (long), Amber eyes, and Pale Green skin
 - Is Charming and Unhurried, and has Perseverance as their ideal
 
 ### Organizations

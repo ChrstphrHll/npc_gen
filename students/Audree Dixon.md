@@ -1,18 +1,20 @@
 ---
+name: Audree Dixon
+race: Human
+hair: straight lighter blonde hair that's braided with turquoise ribbon (med)
+eyes: Pale Green
+skin: Fair
+ideal: Commonality
+trait1: Clean
+trait2: Licentious
+trait: I believe that anything worth doing is worth doing right. I can't help it-
+  I'm a perfectionist.
+flaw: Unlocking an ancient mystery is worth the price of a civilization.
+bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
+  eludes me.
 birthday:
   numeric: 3/31
   written: 31st of Melorent
-bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
-  eludes me.
-eyes: Hazel
-flaw: Unlocking an ancient mystery is worth the price of a civilization.
-guild: Alderden
-hair: straight lighter blonde hair that's braided with turquoise ribbon (med)
-ideal: Commonality
-name: Audree Dixon
-organizations: []
-partyID: 56
-race: Human
 relationships:
 - name: Aryana Ahrendue
   type: partymate
@@ -20,7 +22,8 @@ relationships:
   type: partymate
 - name: Lea Nuvian
   type: partymate
-skin: Fair
+organizations: []
+track: Assault
 spec: Monk
 stats:
   cha: 13
@@ -29,18 +32,15 @@ stats:
   int: 10
   str: 9
   wis: 9
-track: Assault
-trait: I believe that anything worth doing is worth doing right. I can't help it-
-  I'm a perfectionist.
-trait1: Clean
-trait2: Licentious
 year: 1
+guild: Alderden
+partyID: 56
 ---
 # Audree Dixon
 ---
 ### Description
 - 1st year Human Monk in Alderden
-- straight lighter blonde hair that's braided with turquoise ribbon (med), Hazel eyes, and Fair skin
+- straight lighter blonde hair that's braided with turquoise ribbon (med), Pale Green eyes, and Fair skin
 - Is Clean and Licentious, and has Commonality as their ideal
 
 ### Organizations

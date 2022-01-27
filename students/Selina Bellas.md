@@ -1,18 +1,19 @@
 ---
+name: Selina Bellas
+race: Aasimar
+hair: curly brunette hair that's put up in a large bun
+eyes: Blue
+skin: Light
+ideal: Optimism
+trait1: Systematic
+trait2: Clumsy
+trait: I always want to know how things work and what makes people tick.
+flaw: Once I pick a goal, I become obsessed with it to the detriment of everything
+  else in my life.
+bond: My honor is my life.
 birthday:
   numeric: 8/20
   written: 20th of Ravenent
-bond: My honor is my life.
-eyes: Pale Brown
-flaw: Once I pick a goal, I become obsessed with it to the detriment of everything
-  else in my life.
-guild: Fiesn
-hair: curly brunette hair that's put up in a large bun
-ideal: Optimism
-name: Selina Bellas
-organizations: []
-partyID: 60
-race: Aasimar
 relationships:
 - name: Mateos Elanil
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Felgie Eldar
   type: partymate
-skin: Light
+organizations: []
+track: Assault
 spec: Paladin
 stats:
   cha: 7
@@ -29,17 +31,15 @@ stats:
   int: 12
   str: 17
   wis: 11
-track: Assault
-trait: I always want to know how things work and what makes people tick.
-trait1: Systematic
-trait2: Clumsy
 year: 2
+guild: Fiesn
+partyID: 60
 ---
 # Selina Bellas
 ---
 ### Description
 - 2nd year Aasimar Paladin in Fiesn
-- curly brunette hair that's put up in a large bun, Pale Brown eyes, and Light skin
+- curly brunette hair that's put up in a large bun, Blue eyes, and Light skin
 - Is Systematic and Clumsy, and has Optimism as their ideal
 
 ### Organizations

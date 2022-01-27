@@ -1,18 +1,20 @@
 ---
+name: Dejana Keller
+race: Firbolg
+hair: curly brunette hair that's hanging down to their back
+eyes: Gray
+skin: Pale Blue
+ideal: Clarity
+trait1: Zealous
+trait2: Angry
+trait: I am always calm, no matter what the situation. I never raise my voice or let
+  emotions control me.
+flaw: I made a terrible mistake in battle cost many lives- and I would do anything
+  to keep that mistake secret.
+bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 4/28
   written: 28th of Moradent
-bond: I want to be famous, whatever it takes.
-eyes: Gray
-flaw: I made a terrible mistake in battle cost many lives- and I would do anything
-  to keep that mistake secret.
-guild: Treskal
-hair: curly brunette hair that's hanging down to their back
-ideal: Clarity
-name: Dejana Keller
-organizations: []
-partyID: 51
-race: Firbolg
 relationships:
 - name: Ysaac Aelrue
   type: partymate
@@ -20,7 +22,8 @@ relationships:
   type: partymate
 - name: Vaervenshalice Eloen
   type: partymate
-skin: Pale Blue
+organizations: []
+track: Exploration
 spec: Cleric
 stats:
   cha: 15
@@ -29,12 +32,9 @@ stats:
   int: 13
   str: 14
   wis: 14
-track: Exploration
-trait: I am always calm, no matter what the situation. I never raise my voice or let
-  emotions control me.
-trait1: Zealous
-trait2: Angry
 year: 1
+guild: Treskal
+partyID: 51
 ---
 # Dejana Keller
 ---

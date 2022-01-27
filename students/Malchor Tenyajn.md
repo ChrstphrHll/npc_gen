@@ -1,24 +1,26 @@
 ---
+name: Malchor Tenyajn
+race: Genasi
+hair: curly red hair that's braided with turquoise ribbon (long)
+eyes: Pale Brown
+skin: water
+ideal: Humanity
+trait1: Affable
+trait2: Regimental
+trait: I express affection or contempt in ways that are unfamiliar to others.
+flaw: Most people scream and run when they see a demon. I stop and take notes on its
+  anatomy.
+bond: I'll always remember my first ship.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
-bond: I'll always remember my first ship.
-eyes: Spring Green
-flaw: Most people scream and run when they see a demon. I stop and take notes on its
-  anatomy.
-guild: Fiesn
-hair: curly red hair that's braided with turquoise ribbon (long)
-ideal: Humanity
-name: Malchor Tenyajn
-organizations: []
-partyID: 81
-race: Genasi
 relationships:
 - name: Santyeg Kuskyn
   type: partymate
 - name: Ahtye Elhieardacil
   type: partymate
-skin: water
+organizations: []
+track: Exploration
 spec: Rouge
 stats:
   cha: 11
@@ -27,17 +29,15 @@ stats:
   int: 10
   str: 5
   wis: 7
-track: Exploration
-trait: I express affection or contempt in ways that are unfamiliar to others.
-trait1: Affable
-trait2: Regimental
 year: 1
+guild: Fiesn
+partyID: 81
 ---
 # Malchor Tenyajn
 ---
 ### Description
 - 1st year Genasi Rouge in Fiesn
-- curly red hair that's braided with turquoise ribbon (long), Spring Green eyes, and water skin
+- curly red hair that's braided with turquoise ribbon (long), Pale Brown eyes, and water skin
 - Is Affable and Regimental, and has Humanity as their ideal
 
 ### Organizations

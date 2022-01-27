@@ -1,17 +1,18 @@
 ---
+name: Gifre Edyrm
+race: Half-Elf
+hair: curly grey hair that's a tousled bed head
+eyes: Hazel
+skin: Dark Brown
+ideal: Humane
+trait1: Moralistic
+trait2: Angry
+trait: I fall in and out of love easily, and am always pursuing someone.
+flaw: I have a weakness for the vices of the city, especially hard drink.
+bond: I idolize a hero of the old tales and measure my deeds against that person's.
 birthday:
   numeric: 2/22
   written: 22nd of Corelent
-bond: I idolize a hero of the old tales and measure my deeds against that person's.
-eyes: Pale Blue
-flaw: I have a weakness for the vices of the city, especially hard drink.
-guild: Treskal
-hair: curly grey hair that's a tousled bed head
-ideal: Humane
-name: Gifre Edyrm
-organizations: []
-partyID: 46
-race: Half-Elf
 relationships:
 - name: Lenn Schimae
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Savanna Ildilyntra
   type: partymate
-skin: Dark Brown
+organizations: []
+track: Exploration
 spec: Paladin
 stats:
   cha: 10
@@ -28,17 +30,15 @@ stats:
   int: 12
   str: 13
   wis: 13
-track: Exploration
-trait: I fall in and out of love easily, and am always pursuing someone.
-trait1: Moralistic
-trait2: Angry
 year: 6
+guild: Treskal
+partyID: 46
 ---
 # Gifre Edyrm
 ---
 ### Description
 - 6th year Half-Elf Paladin in Treskal
-- curly grey hair that's a tousled bed head, Pale Blue eyes, and Dark Brown skin
+- curly grey hair that's a tousled bed head, Hazel eyes, and Dark Brown skin
 - Is Moralistic and Angry, and has Humane as their ideal
 
 ### Organizations

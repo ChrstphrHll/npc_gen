@@ -1,18 +1,19 @@
 ---
+name: Dree Nuala
+race: Gnome
+hair: curly lighter blonde hair that's braided with violet ribbon (long)
+eyes: Hazel
+skin: Brown
+ideal: Stoicism
+trait1: Unreligious
+trait2: Big-thinking
+trait: I'm a snob who looks down on those who can't appreciate fine art.
+flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
+  involved.
+bond: I will bring terrible wrath down on the evildoers who destroyed my homeland.
 birthday:
   numeric: 1/16
   written: 16th of Avanent
-bond: I will bring terrible wrath down on the evildoers who destroyed my homeland.
-eyes: Pale Brown
-flaw: I'm too greedy for my own good. I can't resist taking a risk if there's money
-  involved.
-guild: Treskal
-hair: curly lighter blonde hair that's braided with violet ribbon (long)
-ideal: Stoicism
-name: Dree Nuala
-organizations: []
-partyID: 58
-race: Gnome
 relationships:
 - name: Vyctor Willow
   type: partymate
@@ -22,7 +23,8 @@ relationships:
   type: partymate
 - name: Theriss Deularla
   type: partymate
-skin: Brown
+organizations: []
+track: Diplomacy
 spec: Rouge
 stats:
   cha: 8
@@ -31,17 +33,15 @@ stats:
   int: 13
   str: 10
   wis: 7
-track: Diplomacy
-trait: I'm a snob who looks down on those who can't appreciate fine art.
-trait1: Unreligious
-trait2: Big-thinking
 year: 6
+guild: Treskal
+partyID: 58
 ---
 # Dree Nuala
 ---
 ### Description
 - 6th year Gnome Rouge in Treskal
-- curly lighter blonde hair that's braided with violet ribbon (long), Pale Brown eyes, and Brown skin
+- curly lighter blonde hair that's braided with violet ribbon (long), Hazel eyes, and Brown skin
 - Is Unreligious and Big-thinking, and has Stoicism as their ideal
 
 ### Organizations

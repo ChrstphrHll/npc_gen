@@ -1,22 +1,24 @@
 ---
+name: Sulivan Wylchyr
+race: Dragonborn
+hair: short spines
+eyes: Orange
+skin: blue
+ideal: Forgiveness
+trait1: Joyful
+trait2: Pure
+trait: I hide scraps of food and trinkets away in my pockets.
+flaw: I too often hear veiled insults and threats in every word addressed to me, and
+  I'm quick to anger.
+bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 7/12
   written: 12th of Korent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Red
-flaw: I too often hear veiled insults and threats in every word addressed to me, and
-  I'm quick to anger.
-guild: Elkenval
-hair: short spines
-ideal: Forgiveness
-name: Sulivan Wylchyr
-organizations: []
-partyID: 50
-race: Dragonborn
 relationships:
 - name: Gorlas Vhoadan
   type: partymate
-skin: blue
+organizations: []
+track: Exploration
 spec: Monk
 stats:
   cha: 12
@@ -25,17 +27,15 @@ stats:
   int: 10
   str: 8
   wis: 11
-track: Exploration
-trait: I hide scraps of food and trinkets away in my pockets.
-trait1: Joyful
-trait2: Pure
 year: 2
+guild: Elkenval
+partyID: 50
 ---
 # Sulivan Wylchyr
 ---
 ### Description
 - 2nd year Dragonborn Monk in Elkenval
-- short spines, Red eyes, and blue skin
+- short spines, Orange eyes, and blue skin
 - Is Joyful and Pure, and has Forgiveness as their ideal
 
 ### Organizations

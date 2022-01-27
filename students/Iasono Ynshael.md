@@ -1,17 +1,19 @@
 ---
+name: Iasono Ynshael
+race: Gnome
+hair: frizzy grey hair that's put up in a large bun
+eyes: Green
+skin: Brown
+ideal: Live and Let Live
+trait1: Self-sufficent
+trait2: Unrealistic
+trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
+  living grates on me.
+flaw: I'm quick to assume that someone is trying to cheat me.
+bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
 birthday:
   numeric: 5/14
   written: 14th of Iounent
-bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
-eyes: Pale Brown
-flaw: I'm quick to assume that someone is trying to cheat me.
-guild: Jettenia
-hair: frizzy grey hair that's put up in a large bun
-ideal: Live and Let Live
-name: Iasono Ynshael
-organizations: []
-partyID: 68
-race: Gnome
 relationships:
 - name: Matto Divya
   type: partymate
@@ -21,7 +23,8 @@ relationships:
   type: partymate
 - name: Garan Mirthal
   type: partymate
-skin: Brown
+organizations: []
+track: Protection
 spec: Druid
 stats:
   cha: 10
@@ -30,18 +33,15 @@ stats:
   int: 11
   str: 12
   wis: 12
-track: Protection
-trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
-  living grates on me.
-trait1: Self-sufficent
-trait2: Unrealistic
 year: 1
+guild: Jettenia
+partyID: 68
 ---
 # Iasono Ynshael
 ---
 ### Description
 - 1st year Gnome Druid in Jettenia
-- frizzy grey hair that's put up in a large bun, Pale Brown eyes, and Brown skin
+- frizzy grey hair that's put up in a large bun, Green eyes, and Brown skin
 - Is Self-sufficent and Unrealistic, and has Live and Let Live as their ideal
 
 ### Organizations

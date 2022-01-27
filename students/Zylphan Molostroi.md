@@ -1,18 +1,19 @@
 ---
+name: Zylphan Molostroi
+race: Firbolg
+hair: wavy black hair that's geled back
+eyes: Pale Brown
+skin: Pale Brown
+ideal: Honesty
+trait1: Firm
+trait2: Hateful
+trait: I'm a hopeless romantic, always searching for that "special someone."
+flaw: I don't take kindly to some of the actions and motivations of the people of
+  this land, because these folk are different from me.
+bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 4/21
   written: 21st of Moradent
-bond: I will do anything to protect the temple where I served.
-eyes: Pale Green
-flaw: I don't take kindly to some of the actions and motivations of the people of
-  this land, because these folk are different from me.
-guild: Fiesn
-hair: wavy black hair that's geled back
-ideal: Honesty
-name: Zylphan Molostroi
-organizations: []
-partyID: 79
-race: Firbolg
 relationships:
 - name: Romen Uldreiyn
   type: partymate
@@ -22,7 +23,8 @@ relationships:
   type: partymate
 - name: Tez Bialaer
   type: partymate
-skin: Pale Brown
+organizations: []
+track: Diplomacy
 spec: Rouge
 stats:
   cha: 14
@@ -31,17 +33,15 @@ stats:
   int: 13
   str: 12
   wis: 10
-track: Diplomacy
-trait: I'm a hopeless romantic, always searching for that "special someone."
-trait1: Firm
-trait2: Hateful
 year: 8
+guild: Fiesn
+partyID: 79
 ---
 # Zylphan Molostroi
 ---
 ### Description
 - 8th year Firbolg Rouge in Fiesn
-- wavy black hair that's geled back, Pale Green eyes, and Pale Brown skin
+- wavy black hair that's geled back, Pale Brown eyes, and Pale Brown skin
 - Is Firm and Hateful, and has Honesty as their ideal
 
 ### Organizations

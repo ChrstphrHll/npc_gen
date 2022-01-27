@@ -1,19 +1,21 @@
 ---
+name: Wulfe Galan
+race: Genasi
+hair: curly black hair that's hanging down to their back
+eyes: Green
+skin: fire
+ideal: Vengful
+trait1: Steadfast
+trait2: Mellow
+trait: I once ran twenty-five miles without stopping to warn to my clan of an approaching
+  orc horde. I'd do it again if I had to.
+flaw: I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster
+  than I bring them in.
+bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
+  to see them again one day.
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
-  to see them again one day.
-eyes: Green
-flaw: I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster
-  than I bring them in.
-guild: Elkenval
-hair: curly black hair that's hanging down to their back
-ideal: Vengful
-name: Wulfe Galan
-organizations: []
-partyID: 82
-race: Genasi
 relationships:
 - name: Yakob Lydialeera
   type: partymate
@@ -21,7 +23,8 @@ relationships:
   type: partymate
 - name: Lichie Halliwell
   type: partymate
-skin: fire
+organizations: []
+track: Assault
 spec: Paladin
 stats:
   cha: 13
@@ -30,12 +33,9 @@ stats:
   int: 10
   str: 16
   wis: 12
-track: Assault
-trait: I once ran twenty-five miles without stopping to warn to my clan of an approaching
-  orc horde. I'd do it again if I had to.
-trait1: Steadfast
-trait2: Mellow
 year: 1
+guild: Elkenval
+partyID: 82
 ---
 # Wulfe Galan
 ---

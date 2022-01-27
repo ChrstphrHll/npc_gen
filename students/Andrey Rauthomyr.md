@@ -1,17 +1,18 @@
 ---
+name: Andrey Rauthomyr
+race: Gnome
+hair: wavy red hair that's braided with blue ribbon (med)
+eyes: Blue
+skin: Dark Tan
+ideal: Compassion
+trait1: Trusting
+trait2: Unrealistic
+trait: I would rather make a new friend than a new enemy.
+flaw: I judge others harshly, and myself even more severely.
+bond: I worked the land, I love the land, and I will protect the land.
 birthday:
   numeric: 5/6
   written: 6th of Iounent
-bond: I worked the land, I love the land, and I will protect the land.
-eyes: Blue
-flaw: I judge others harshly, and myself even more severely.
-guild: Elkenval
-hair: wavy red hair that's braided with blue ribbon (med)
-ideal: Compassion
-name: Andrey Rauthomyr
-organizations: []
-partyID: 91
-race: Gnome
 relationships:
 - name: Jandar Pleufan
   type: partymate
@@ -21,7 +22,8 @@ relationships:
   type: partymate
 - name: Emilanus Shields
   type: partymate
-skin: Dark Tan
+organizations: []
+track: Assault
 spec: Artificer
 stats:
   cha: 13
@@ -30,11 +32,9 @@ stats:
   int: 15
   str: 10
   wis: 10
-track: Assault
-trait: I would rather make a new friend than a new enemy.
-trait1: Trusting
-trait2: Unrealistic
 year: 1
+guild: Elkenval
+partyID: 91
 ---
 # Andrey Rauthomyr
 ---

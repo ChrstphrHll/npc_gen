@@ -84,9 +84,13 @@ class Person:
 
 
 
-    def write_char_sheet(self):
-        yaml_frontmatter = yaml.dump(self.__dict__)
-        path = self.get_file_path()
+    def write_char_sheet(self, path_input = -1):
+        yaml_frontmatter = yaml.dump(self.__dict__, sort_keys = False)
+        
+        if path_input == -1:
+            path = self.get_file_path()
+        else:
+            path = path_input
 
         with open(path, "w") as f:
             f.write("---\n")

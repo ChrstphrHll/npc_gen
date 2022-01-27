@@ -1,17 +1,18 @@
 ---
+name: Mavrek Aolis
+race: Dragonborn
+hair: short spines
+eyes: Blue
+skin: gold
+ideal: Connection
+trait1: Realistic
+trait2: Predatory
+trait: I don't like to bathe.
+flaw: I'd rather kill someone in their sleep then fight fair.
+bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 6/25
   written: 25th of Pelent
-bond: I pursue wealth to secure someone's love.
-eyes: Pale Blue
-flaw: I'd rather kill someone in their sleep then fight fair.
-guild: Elkenval
-hair: short spines
-ideal: Connection
-name: Mavrek Aolis
-organizations: []
-partyID: 47
-race: Dragonborn
 relationships:
 - name: Julyo Agassi
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Vila Tassarion
   type: partymate
-skin: gold
+organizations: []
+track: Assault
 spec: Sorcerer
 stats:
   cha: 16
@@ -28,17 +30,15 @@ stats:
   int: 15
   str: 11
   wis: 4
-track: Assault
-trait: I don't like to bathe.
-trait1: Realistic
-trait2: Predatory
 year: 5
+guild: Elkenval
+partyID: 47
 ---
 # Mavrek Aolis
 ---
 ### Description
 - 5th year Dragonborn Sorcerer in Elkenval
-- short spines, Pale Blue eyes, and gold skin
+- short spines, Blue eyes, and gold skin
 - Is Realistic and Predatory, and has Connection as their ideal
 
 ### Organizations

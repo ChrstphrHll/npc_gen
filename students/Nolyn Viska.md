@@ -1,18 +1,19 @@
 ---
+name: Nolyn Viska
+race: Elf
+hair: wavy white hair that's pulled to the side and buzzed on the left
+eyes: Pale Blue
+skin: Brown
+ideal: Security
+trait1: Jovial
+trait2: Political
+trait: I pocket anything I see that might have some value.
+flaw: By my words and actions, I often bring shame to my family.By my words and actions,
+  I often bring shame to my family.
+bond: My house's alliance with another noble family must be sustained at all costs.
 birthday:
   numeric: 4/10
   written: 10th of Moradent
-bond: My house's alliance with another noble family must be sustained at all costs.
-eyes: Pale Green
-flaw: By my words and actions, I often bring shame to my family.By my words and actions,
-  I often bring shame to my family.
-guild: Treskal
-hair: wavy white hair that's pulled to the side and buzzed on the left
-ideal: Security
-name: Nolyn Viska
-organizations: []
-partyID: 51
-race: Elf
 relationships:
 - name: Ysaac Aelrue
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Dejana Keller
   type: partymate
-skin: Brown
+organizations: []
+track: Exploration
 spec: Wizard
 stats:
   cha: 7
@@ -29,17 +31,15 @@ stats:
   int: 13
   str: 6
   wis: 13
-track: Exploration
-trait: I pocket anything I see that might have some value.
-trait1: Jovial
-trait2: Political
 year: 1
+guild: Treskal
+partyID: 51
 ---
 # Nolyn Viska
 ---
 ### Description
 - 1st year Elf Wizard in Treskal
-- wavy white hair that's pulled to the side and buzzed on the left, Pale Green eyes, and Brown skin
+- wavy white hair that's pulled to the side and buzzed on the left, Pale Blue eyes, and Brown skin
 - Is Jovial and Political, and has Security as their ideal
 
 ### Organizations

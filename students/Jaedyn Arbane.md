@@ -1,17 +1,19 @@
 ---
+name: Jaedyn Arbane
+race: Half-Elf
+hair: straight platinum hair that's a buzz cut
+eyes: Hazel
+skin: Dark Tan
+ideal: Invention
+trait1: Private
+trait2: Picky
+trait: I can find common ground between the fiercest enemies, empathizing with them
+  and always working toward peace.
+flaw: I secretly believe that everyone is beneath me.
+bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-bond: I hold no greater cause than my service to my people.
-eyes: Pale Blue
-flaw: I secretly believe that everyone is beneath me.
-guild: Treskal
-hair: straight platinum hair that's a buzz cut
-ideal: Invention
-name: Jaedyn Arbane
-organizations: []
-partyID: 69
-race: Half-Elf
 relationships:
 - name: Kova Tamara
   type: partymate
@@ -21,7 +23,8 @@ relationships:
   type: partymate
 - name: Evylen Nese
   type: partymate
-skin: Dark Tan
+organizations: []
+track: Exploration
 spec: Paladin
 stats:
   cha: 13
@@ -30,18 +33,15 @@ stats:
   int: 6
   str: 13
   wis: 10
-track: Exploration
-trait: I can find common ground between the fiercest enemies, empathizing with them
-  and always working toward peace.
-trait1: Private
-trait2: Picky
 year: 1
+guild: Treskal
+partyID: 69
 ---
 # Jaedyn Arbane
 ---
 ### Description
 - 1st year Half-Elf Paladin in Treskal
-- straight platinum hair that's a buzz cut, Pale Blue eyes, and Dark Tan skin
+- straight platinum hair that's a buzz cut, Hazel eyes, and Dark Tan skin
 - Is Private and Picky, and has Invention as their ideal
 
 ### Organizations

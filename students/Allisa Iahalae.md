@@ -1,24 +1,26 @@
 ---
+name: Allisa Iahalae
+race: Half-Elf
+hair: straight blonde hair that's put back in a long pony tail
+eyes: Blue
+skin: Tan
+ideal: Patience
+trait1: Considerate
+trait2: Delicate
+trait: I eat like a pig and have bad manners.
+flaw: I am suspicious of strangers and expect the worst of them.
+bond: My tools are symbols of my past life, and I carry them so that I will never
+  forget my roots.
 birthday:
   numeric: 6/24
   written: 24th of Pelent
-bond: My tools are symbols of my past life, and I carry them so that I will never
-  forget my roots.
-eyes: Gray
-flaw: I am suspicious of strangers and expect the worst of them.
-guild: Elkenval
-hair: straight blonde hair that's put back in a long pony tail
-ideal: Patience
-name: Allisa Iahalae
-organizations: []
-partyID: 2
-race: Half-Elf
 relationships:
 - name: Aidyn Glynnii
   type: partymate
 - name: Jothen Elway
   type: partymate
-skin: Tan
+organizations: []
+track: Protection
 spec: Sorcerer
 stats:
   cha: 16
@@ -27,17 +29,15 @@ stats:
   int: 16
   str: 8
   wis: 8
-track: Protection
-trait: I eat like a pig and have bad manners.
-trait1: Considerate
-trait2: Delicate
 year: 1
+guild: Elkenval
+partyID: 2
 ---
 # Allisa Iahalae
 ---
 ### Description
 - 1st year Half-Elf Sorcerer in Elkenval
-- straight blonde hair that's put back in a long pony tail, Gray eyes, and Tan skin
+- straight blonde hair that's put back in a long pony tail, Blue eyes, and Tan skin
 - Is Considerate and Delicate, and has Patience as their ideal
 
 ### Organizations

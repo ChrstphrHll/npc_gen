@@ -1,24 +1,26 @@
 ---
+name: Cam Lazziar
+race: Firbolg
+hair: straight auburn hair that's parted to the left
+eyes: Amber
+skin: Pale Blue
+ideal: Spontaneity
+trait1: Obliging
+trait2: Venal
+trait: I feel far more comfortable around animals than people.
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 3/2
   written: 2nd of Melorent
-bond: An injury to the unspoiled wilderness of my home is an injury to me.
-eyes: Hazel
-flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
-  to quell.
-guild: Alderden
-hair: straight auburn hair that's parted to the left
-ideal: Spontaneity
-name: Cam Lazziar
-organizations: []
-partyID: 6
-race: Firbolg
 relationships:
 - name: Jofan Elignoir
   type: partymate
 - name: Rei Mardeiym
   type: partymate
-skin: Pale Blue
+organizations: []
+track: Protection
 spec: Bard
 stats:
   cha: 13
@@ -27,17 +29,15 @@ stats:
   int: 12
   str: 10
   wis: 9
-track: Protection
-trait: I feel far more comfortable around animals than people.
-trait1: Obliging
-trait2: Venal
 year: 7
+guild: Alderden
+partyID: 6
 ---
 # Cam Lazziar
 ---
 ### Description
 - 7th year Firbolg Bard in Alderden
-- straight auburn hair that's parted to the left, Hazel eyes, and Pale Blue skin
+- straight auburn hair that's parted to the left, Amber eyes, and Pale Blue skin
 - Is Obliging and Venal, and has Spontaneity as their ideal
 
 ### Organizations

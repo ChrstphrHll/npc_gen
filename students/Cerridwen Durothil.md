@@ -1,25 +1,27 @@
 ---
+name: Cerridwen Durothil
+race: Half-Elf
+hair: straight white hair that's loose around the shoulders
+eyes: Blue
+skin: Light
+ideal: Competition
+trait1: Gritty
+trait2: Outspoken
+trait: I honor my deities through practices that are foreign to this land.
+flaw: My piety sometimes leads me to blindly trust those that profess faith in my
+  god.
+bond: Someone saved my life on the battlefield. To this day, I will never leave a
+  friend behind.
 birthday:
   numeric: 2/18
   written: 18th of Corelent
-bond: Someone saved my life on the battlefield. To this day, I will never leave a
-  friend behind.
-eyes: Blue
-flaw: My piety sometimes leads me to blindly trust those that profess faith in my
-  god.
-guild: Treskal
-hair: straight white hair that's loose around the shoulders
-ideal: Competition
-name: Cerridwen Durothil
-organizations: []
-partyID: 63
-race: Half-Elf
 relationships:
 - name: Gerrimar Vulkor
   type: partymate
 - name: Ungris Riluaneth
   type: partymate
-skin: Light
+organizations: []
+track: Exploration
 spec: Ranger
 stats:
   cha: 7
@@ -28,11 +30,9 @@ stats:
   int: 8
   str: 9
   wis: 10
-track: Exploration
-trait: I honor my deities through practices that are foreign to this land.
-trait1: Gritty
-trait2: Outspoken
 year: 5
+guild: Treskal
+partyID: 63
 ---
 # Cerridwen Durothil
 ---

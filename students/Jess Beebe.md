@@ -1,23 +1,25 @@
 ---
+name: Jess Beebe
+race: Firbolg
+hair: straight dirty blonde hair that's done up in a top knot
+eyes: Pale Green
+skin: Pale Gray
+ideal: Finesse
+trait1: Impressive
+trait2: Unkind
+trait: I get bored easily. When am I going to get on with my destiny?
+flaw: In fact, the world does revolve around me.
+bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
 birthday:
   numeric: 5/1
   written: 1st of Iounent
-bond: A powerful person killed someone I love. Some day soon, I'll have my revenge.
-eyes: Hazel
-flaw: In fact, the world does revolve around me.
-guild: Fiesn
-hair: straight dirty blonde hair that's done up in a top knot
-ideal: Finesse
-name: Jess Beebe
-organizations: []
-partyID: 98
-race: Firbolg
 relationships:
 - name: Tyego Sinaht
   type: partymate
 - name: Halia Dominguez
   type: partymate
-skin: Pale Gray
+organizations: []
+track: Diplomacy
 spec: Cleric
 stats:
   cha: 14
@@ -26,17 +28,15 @@ stats:
   int: 13
   str: 15
   wis: 15
-track: Diplomacy
-trait: I get bored easily. When am I going to get on with my destiny?
-trait1: Impressive
-trait2: Unkind
 year: 3
+guild: Fiesn
+partyID: 98
 ---
 # Jess Beebe
 ---
 ### Description
 - 3rd year Firbolg Cleric in Fiesn
-- straight dirty blonde hair that's done up in a top knot, Hazel eyes, and Pale Gray skin
+- straight dirty blonde hair that's done up in a top knot, Pale Green eyes, and Pale Gray skin
 - Is Impressive and Unkind, and has Finesse as their ideal
 
 ### Organizations

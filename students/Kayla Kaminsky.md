@@ -1,18 +1,19 @@
 ---
+name: Kayla Kaminsky
+race: Gnome
+hair: straight lighter blonde hair that's braided with green ribbon (long)
+eyes: Blue
+skin: Tan
+ideal: Patience
+trait1: Uninhibited
+trait2: Difficult
+trait: I like a job well done, especially if I can convince someone else to do it.
+flaw: I hide a truly scandalous secret that could ruin my family forever.
+bond: I seek to preserve a sacred text that my enemies consider heretical and seek
+  to destroy.
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-bond: I seek to preserve a sacred text that my enemies consider heretical and seek
-  to destroy.
-eyes: Hazel
-flaw: I hide a truly scandalous secret that could ruin my family forever.
-guild: Elkenval
-hair: straight lighter blonde hair that's braided with green ribbon (long)
-ideal: Patience
-name: Kayla Kaminsky
-organizations: []
-partyID: 90
-race: Gnome
 relationships:
 - name: Diegon Verrona
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Holys Hachaam
   type: partymate
-skin: Tan
+organizations: []
+track: Diplomacy
 spec: Artificer
 stats:
   cha: 16
@@ -29,17 +31,15 @@ stats:
   int: 17
   str: 15
   wis: 15
-track: Diplomacy
-trait: I like a job well done, especially if I can convince someone else to do it.
-trait1: Uninhibited
-trait2: Difficult
 year: 1
+guild: Elkenval
+partyID: 90
 ---
 # Kayla Kaminsky
 ---
 ### Description
 - 1st year Gnome Artificer in Elkenval
-- straight lighter blonde hair that's braided with green ribbon (long), Hazel eyes, and Tan skin
+- straight lighter blonde hair that's braided with green ribbon (long), Blue eyes, and Tan skin
 - Is Uninhibited and Difficult, and has Patience as their ideal
 
 ### Organizations

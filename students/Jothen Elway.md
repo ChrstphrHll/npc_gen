@@ -1,23 +1,25 @@
 ---
+name: Jothen Elway
+race: Human
+hair: curly blonde hair that's braided with turquoise ribbon (long)
+eyes: Pale Gray
+skin: Tan
+ideal: Cruelty
+trait1: Freewheeling
+trait2: Dreamy
+trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
+flaw: Once I start drinking, it's hard for me to stop.
+bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 6/24
   written: 24th of Pelent
-bond: I will become the greatest thief that ever lived.
-eyes: Pale Blue
-flaw: Once I start drinking, it's hard for me to stop.
-guild: Elkenval
-hair: curly blonde hair that's braided with turquoise ribbon (long)
-ideal: Cruelty
-name: Jothen Elway
-organizations: []
-partyID: 2
-race: Human
 relationships:
 - name: Aidyn Glynnii
   type: partymate
 - name: Allisa Iahalae
   type: partymate
-skin: Tan
+organizations: []
+track: Exploration
 spec: Rouge
 stats:
   cha: 14
@@ -26,17 +28,15 @@ stats:
   int: 13
   str: 13
   wis: 13
-track: Exploration
-trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
-trait1: Freewheeling
-trait2: Dreamy
 year: 1
+guild: Elkenval
+partyID: 2
 ---
 # Jothen Elway
 ---
 ### Description
 - 1st year Human Rouge in Elkenval
-- curly blonde hair that's braided with turquoise ribbon (long), Pale Blue eyes, and Tan skin
+- curly blonde hair that's braided with turquoise ribbon (long), Pale Gray eyes, and Tan skin
 - Is Freewheeling and Dreamy, and has Cruelty as their ideal
 
 ### Organizations

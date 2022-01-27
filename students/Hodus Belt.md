@@ -1,18 +1,19 @@
 ---
+name: Hodus Belt
+race: Elf
+hair: wavy white hair that's parted to the left
+eyes: Brown
+skin: Brown
+ideal: Harmony
+trait1: Lucky
+trait2: Vindictive
+trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
+flaw: The people who knew me when I was young know my shameful secret, so I can never
+  go home again.
+bond: In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
 birthday:
   numeric: 1/15
   written: 15th of Avanent
-bond: In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
-eyes: Gray
-flaw: The people who knew me when I was young know my shameful secret, so I can never
-  go home again.
-guild: Burk
-hair: wavy white hair that's parted to the left
-ideal: Harmony
-name: Hodus Belt
-organizations: []
-partyID: 38
-race: Elf
 relationships:
 - name: Shike Thalaera
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Genesys Mhaenal
   type: partymate
-skin: Brown
+organizations: []
+track: Assault
 spec: Bard
 stats:
   cha: 15
@@ -29,17 +31,15 @@ stats:
   int: 15
   str: 9
   wis: 14
-track: Assault
-trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
-trait1: Lucky
-trait2: Vindictive
 year: 1
+guild: Burk
+partyID: 38
 ---
 # Hodus Belt
 ---
 ### Description
 - 1st year Elf Bard in Burk
-- wavy white hair that's parted to the left, Gray eyes, and Brown skin
+- wavy white hair that's parted to the left, Brown eyes, and Brown skin
 - Is Lucky and Vindictive, and has Harmony as their ideal
 
 ### Organizations

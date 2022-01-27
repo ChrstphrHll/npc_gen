@@ -1,18 +1,19 @@
 ---
+name: Jaxon Brindarry
+race: Elf
+hair: curly turquoise hair that's done up in a top knot
+eyes: Hazel
+skin: Brown
+ideal: Wisdom
+trait1: Dreamy
+trait2: Naive
+trait: There's nothing I like more than a good mystery.
+flaw: Once someone questions my courage, I never back down no matter how dangerous
+  the situation.
+bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 4/17
   written: 17th of Moradent
-bond: The gods of my people are a comfort to me so far from home.
-eyes: Amber
-flaw: Once someone questions my courage, I never back down no matter how dangerous
-  the situation.
-guild: Jettenia
-hair: curly turquoise hair that's done up in a top knot
-ideal: Wisdom
-name: Jaxon Brindarry
-organizations: []
-partyID: 28
-race: Elf
 relationships:
 - name: Railyn Retenia
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Jovos Seldanna
   type: partymate
-skin: Brown
+organizations: []
+track: Assault
 spec: Artificer
 stats:
   cha: 9
@@ -29,17 +31,15 @@ stats:
   int: 15
   str: 14
   wis: 13
-track: Assault
-trait: There's nothing I like more than a good mystery.
-trait1: Dreamy
-trait2: Naive
 year: 3
+guild: Jettenia
+partyID: 28
 ---
 # Jaxon Brindarry
 ---
 ### Description
 - 3rd year Elf Artificer in Jettenia
-- curly turquoise hair that's done up in a top knot, Amber eyes, and Brown skin
+- curly turquoise hair that's done up in a top knot, Hazel eyes, and Brown skin
 - Is Dreamy and Naive, and has Wisdom as their ideal
 
 ### Organizations

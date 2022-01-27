@@ -1,24 +1,26 @@
 ---
+name: Ragnar Illitran
+race: Halfling
+hair: curly dark red hair that's done up in a top knot
+eyes: Hazel
+skin: Light
+ideal: Reciprocity
+trait1: Logical
+trait2: Well-meaning
+trait: I am utterly serene, even in the face of disaster.
+flaw: When faced with a choice between money and my friends, I usually choose the
+  money.
+bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 2/9
   written: 9th of Corelent
-bond: I'm fascinated by the beauty and wonder of this new land.
-eyes: Hazel
-flaw: When faced with a choice between money and my friends, I usually choose the
-  money.
-guild: Fiesn
-hair: curly dark red hair that's done up in a top knot
-ideal: Reciprocity
-name: Ragnar Illitran
-organizations: []
-partyID: 42
-race: Halfling
 relationships:
 - name: Brannos Bellas
   type: partymate
 - name: Tylor Llewellenar
   type: partymate
-skin: Light
+organizations: []
+track: Diplomacy
 spec: Artificer
 stats:
   cha: 15
@@ -27,11 +29,9 @@ stats:
   int: 15
   str: 5
   wis: 9
-track: Diplomacy
-trait: I am utterly serene, even in the face of disaster.
-trait1: Logical
-trait2: Well-meaning
 year: 6
+guild: Fiesn
+partyID: 42
 ---
 # Ragnar Illitran
 ---

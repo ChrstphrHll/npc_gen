@@ -1,22 +1,24 @@
 ---
+name: Yathlanae Arkhun
+race: Half-Elf
+hair: straight blonde hair that's put back in a long pony tail
+eyes: Pale Gray
+skin: Brown
+ideal: Wealth
+trait1: Graceful
+trait2: Troublesome
+trait: I change my mood or my mind as quickly as I change key in a song.
+flaw: I overlook obvious solutions in favor of complicated ones.
+bond: The workshop where I learned my trade is the most important place in the world
+  to me.
 birthday:
   numeric: 8/8
   written: 8th of Ravenent
-bond: The workshop where I learned my trade is the most important place in the world
-  to me.
-eyes: Pale Gray
-flaw: I overlook obvious solutions in favor of complicated ones.
-guild: Alderden
-hair: straight blonde hair that's put back in a long pony tail
-ideal: Wealth
-name: Yathlanae Arkhun
-organizations: []
-partyID: 55
-race: Half-Elf
 relationships:
 - name: Halja Dwyer
   type: partymate
-skin: Brown
+organizations: []
+track: Diplomacy
 spec: Sorcerer
 stats:
   cha: 18
@@ -25,11 +27,9 @@ stats:
   int: 17
   str: 12
   wis: 10
-track: Diplomacy
-trait: I change my mood or my mind as quickly as I change key in a song.
-trait1: Graceful
-trait2: Troublesome
 year: 1
+guild: Alderden
+partyID: 55
 ---
 # Yathlanae Arkhun
 ---

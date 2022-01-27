@@ -1,25 +1,28 @@
 ---
+name: Alonnos Xanotter
+race: Tiefling
+hair: wavy red hair that's put up in a large bun
+eyes: Hazel
+skin: Yellow
+ideal: Cooperation
+trait1: Folksy
+trait2: Complex
+trait: I . . . speak . . . slowly . . . when talking . . . to idiots, . . . which
+  . . . almost . . . everyone . . . is . . . compared . . . to me.
+flaw: I'm convinced of the significance of my destiny, and blind to my shortcomings
+  and the risk of failure.
+bond: I entered seclusion to hide from the ones who might still be hunting me. I must
+  someday confront them.
 birthday:
   numeric: 6/2
   written: 2nd of Pelent
-bond: I entered seclusion to hide from the ones who might still be hunting me. I must
-  someday confront them.
-eyes: Green
-flaw: I'm convinced of the significance of my destiny, and blind to my shortcomings
-  and the risk of failure.
-guild: Elkenval
-hair: wavy red hair that's put up in a large bun
-ideal: Cooperation
-name: Alonnos Xanotter
-organizations: []
-partyID: 88
-race: Tiefling
 relationships:
 - name: Shoulree Letryal
   type: partymate
 - name: Levi Kicklighter
   type: partymate
-skin: Yellow
+organizations: []
+track: Protection
 spec: Sorcerer
 stats:
   cha: 17
@@ -28,18 +31,15 @@ stats:
   int: 9
   str: 10
   wis: 16
-track: Protection
-trait: I . . . speak . . . slowly . . . when talking . . . to idiots, . . . which
-  . . . almost . . . everyone . . . is . . . compared . . . to me.
-trait1: Folksy
-trait2: Complex
 year: 1
+guild: Elkenval
+partyID: 88
 ---
 # Alonnos Xanotter
 ---
 ### Description
 - 1st year Tiefling Sorcerer in Elkenval
-- wavy red hair that's put up in a large bun, Green eyes, and Yellow skin
+- wavy red hair that's put up in a large bun, Hazel eyes, and Yellow skin
 - Is Folksy and Complex, and has Cooperation as their ideal
 
 ### Organizations

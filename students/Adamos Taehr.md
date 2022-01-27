@@ -1,23 +1,25 @@
 ---
+name: Adamos Taehr
+race: Elf
+hair: straight brunette hair that's loose around the shoulders
+eyes: Pale Gray
+skin: Tan
+ideal: People
+trait1: Attentive
+trait2: Sensual
+trait: I work hard so that I can play hard when the work is done.
+flaw: I follow orders, even if I think they're wrong.
+bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 4/7
   written: 7th of Moradent
-bond: I'm trying to pay off an old debt I owe to a generous benefactor.
-eyes: Pale Gray
-flaw: I follow orders, even if I think they're wrong.
-guild: Fiesn
-hair: straight brunette hair that's loose around the shoulders
-ideal: People
-name: Adamos Taehr
-organizations: []
-partyID: 53
-race: Elf
 relationships:
 - name: Alexandyr Aulauthar
   type: partymate
 - name: Coriss Biafyndar
   type: partymate
-skin: Tan
+organizations: []
+track: Diplomacy
 spec: Fighter
 stats:
   cha: 17
@@ -26,11 +28,9 @@ stats:
   int: 12
   str: 14
   wis: 9
-track: Diplomacy
-trait: I work hard so that I can play hard when the work is done.
-trait1: Attentive
-trait2: Sensual
 year: 5
+guild: Fiesn
+partyID: 53
 ---
 # Adamos Taehr
 ---

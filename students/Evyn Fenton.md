@@ -1,23 +1,25 @@
 ---
+name: Evyn Fenton
+race: Half-Orc
+hair: curly platinum hair that's hanging down to their back
+eyes: Pale Brown
+skin: Pale Green
+ideal: Spiritualism
+trait1: Well-rounded
+trait2: Perverse
+trait: I hide scraps of food and trinkets away in my pockets.
+flaw: Unlocking an ancient mystery is worth the price of a civilization.
+bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 6/11
   written: 11th of Pelent
-bond: I would do anything for the other members of my old troupe.
-eyes: Pale Gray
-flaw: Unlocking an ancient mystery is worth the price of a civilization.
-guild: Elkenval
-hair: curly platinum hair that's hanging down to their back
-ideal: Spiritualism
-name: Evyn Fenton
-organizations: []
-partyID: 34
-race: Half-Orc
 relationships:
 - name: Eune Eldratha
   type: partymate
 - name: Tezani Morthil
   type: partymate
-skin: Pale Green
+organizations: []
+track: Protection
 spec: Rouge
 stats:
   cha: 10
@@ -26,17 +28,15 @@ stats:
   int: 8
   str: 8
   wis: 8
-track: Protection
-trait: I hide scraps of food and trinkets away in my pockets.
-trait1: Well-rounded
-trait2: Perverse
 year: 2
+guild: Elkenval
+partyID: 34
 ---
 # Evyn Fenton
 ---
 ### Description
 - 2nd year Half-Orc Rouge in Elkenval
-- curly platinum hair that's hanging down to their back, Pale Gray eyes, and Pale Green skin
+- curly platinum hair that's hanging down to their back, Pale Brown eyes, and Pale Green skin
 - Is Well-rounded and Perverse, and has Spiritualism as their ideal
 
 ### Organizations

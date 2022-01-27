@@ -1,24 +1,26 @@
 ---
+name: Uxwy Lazziar
+race: Human
+hair: wavy red hair that's kept back by a turquoise headband
+eyes: Green
+skin: Fair
+ideal: Contentment
+trait1: Admirable
+trait2: Repugnant
+trait: Whenever I come to a new place, I collect local rumors and spread gossip.
+flaw: Gold seems like a lot of money to me, and I'll do just about anything for more
+  of it.
+bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 2/23
   written: 23rd of Corelent
-bond: I will become the greatest thief that ever lived.
-eyes: Brown
-flaw: Gold seems like a lot of money to me, and I'll do just about anything for more
-  of it.
-guild: Fiesn
-hair: wavy red hair that's kept back by a turquoise headband
-ideal: Contentment
-name: Uxwy Lazziar
-organizations: []
-partyID: 48
-race: Human
 relationships:
 - name: Abel Marsh
   type: partymate
 - name: Leonus Triktappic
   type: partymate
-skin: Fair
+organizations: []
+track: Assault
 spec: Sorcerer
 stats:
   cha: 16
@@ -27,17 +29,15 @@ stats:
   int: 11
   str: 13
   wis: 14
-track: Assault
-trait: Whenever I come to a new place, I collect local rumors and spread gossip.
-trait1: Admirable
-trait2: Repugnant
 year: 5
+guild: Fiesn
+partyID: 48
 ---
 # Uxwy Lazziar
 ---
 ### Description
 - 5th year Human Sorcerer in Fiesn
-- wavy red hair that's kept back by a turquoise headband, Brown eyes, and Fair skin
+- wavy red hair that's kept back by a turquoise headband, Green eyes, and Fair skin
 - Is Admirable and Repugnant, and has Contentment as their ideal
 
 ### Organizations

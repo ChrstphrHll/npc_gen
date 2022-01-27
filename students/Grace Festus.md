@@ -1,18 +1,20 @@
 ---
+name: Grace Festus
+race: Human
+hair: wavy auburn hair that's pulled to the side and buzzed on the left
+eyes: Gray
+skin: Pale
+ideal: Charity
+trait1: Anticipative
+trait2: Rigid
+trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
+  accommodations.
+flaw: I remember every insult I've received and nurse a silent resentment toward anyone
+  who's ever wronged me.
+bond: I idolize a hero of the old tales and measure my deeds against that person's.
 birthday:
   numeric: 4/16
   written: 16th of Moradent
-bond: I idolize a hero of the old tales and measure my deeds against that person's.
-eyes: Blue
-flaw: I remember every insult I've received and nurse a silent resentment toward anyone
-  who's ever wronged me.
-guild: Elkenval
-hair: wavy auburn hair that's pulled to the side and buzzed on the left
-ideal: Charity
-name: Grace Festus
-organizations: []
-partyID: 20
-race: Human
 relationships:
 - name: Dylan Usunaar
   type: partymate
@@ -20,7 +22,8 @@ relationships:
   type: partymate
 - name: Aurikallos Biafyndar
   type: partymate
-skin: Pale
+organizations: []
+track: Diplomacy
 spec: Cleric
 stats:
   cha: 9
@@ -29,18 +32,15 @@ stats:
   int: 14
   str: 6
   wis: 14
-track: Diplomacy
-trait: I don't like to get my hands dirty, and I won't be caught dead in unsuitable
-  accommodations.
-trait1: Anticipative
-trait2: Rigid
 year: 5
+guild: Elkenval
+partyID: 20
 ---
 # Grace Festus
 ---
 ### Description
 - 5th year Human Cleric in Elkenval
-- wavy auburn hair that's pulled to the side and buzzed on the left, Blue eyes, and Pale skin
+- wavy auburn hair that's pulled to the side and buzzed on the left, Gray eyes, and Pale skin
 - Is Anticipative and Rigid, and has Charity as their ideal
 
 ### Organizations

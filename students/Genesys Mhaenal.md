@@ -1,17 +1,19 @@
 ---
+name: Genesys Mhaenal
+race: Gnome
+hair: straight black hair that's put back in a short pony tail
+eyes: Hazel
+skin: Dark Brown
+ideal: Prosperity
+trait1: Unchanging
+trait2: Indecisive
+trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
+  living grates on me.
+flaw: I'd rather kill someone in their sleep then fight fair.
+bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 4/26
   written: 26th of Moradent
-bond: The gods of my people are a comfort to me so far from home.
-eyes: Pale Green
-flaw: I'd rather kill someone in their sleep then fight fair.
-guild: Burk
-hair: straight black hair that's put back in a short pony tail
-ideal: Prosperity
-name: Genesys Mhaenal
-organizations: []
-partyID: 38
-race: Gnome
 relationships:
 - name: Hodus Belt
   type: partymate
@@ -19,7 +21,8 @@ relationships:
   type: partymate
 - name: Delja Iefyr
   type: partymate
-skin: Dark Brown
+organizations: []
+track: Assault
 spec: Monk
 stats:
   cha: 13
@@ -28,18 +31,15 @@ stats:
   int: 13
   str: 13
   wis: 12
-track: Assault
-trait: I've enjoyed fine food, drink, and high society among my temple's elite. Rough
-  living grates on me.
-trait1: Unchanging
-trait2: Indecisive
 year: 1
+guild: Burk
+partyID: 38
 ---
 # Genesys Mhaenal
 ---
 ### Description
 - 1st year Gnome Monk in Burk
-- straight black hair that's put back in a short pony tail, Pale Green eyes, and Dark Brown skin
+- straight black hair that's put back in a short pony tail, Hazel eyes, and Dark Brown skin
 - Is Unchanging and Indecisive, and has Prosperity as their ideal
 
 ### Organizations

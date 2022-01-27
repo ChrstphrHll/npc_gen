@@ -1,24 +1,26 @@
 ---
+name: Eliana Saevel
+race: Human
+hair: straight strawberry blond hair that's loose around the shoulders
+eyes: Green
+skin: Pale
+ideal: Caring
+trait1: Iconoclastic
+trait2: Tasteless
+trait: I like a job well done, especially if I can convince someone else to do it.
+flaw: I can't help but pocket loose coins and other trinkets I come across.
+bond: I will get revenge on the evil forces that destroyed my place of business and
+  ruined my livelihood.
 birthday:
   numeric: 6/27
   written: 27th of Pelent
-bond: I will get revenge on the evil forces that destroyed my place of business and
-  ruined my livelihood.
-eyes: Hazel
-flaw: I can't help but pocket loose coins and other trinkets I come across.
-guild: Elkenval
-hair: straight strawberry blond hair that's loose around the shoulders
-ideal: Caring
-name: Eliana Saevel
-organizations: []
-partyID: 77
-race: Human
 relationships:
 - name: Nycola Eroan
   type: partymate
 - name: Aniari Arlayna
   type: partymate
-skin: Pale
+organizations: []
+track: Assault
 spec: Artificer
 stats:
   cha: 8
@@ -27,17 +29,15 @@ stats:
   int: 13
   str: 11
   wis: 4
-track: Assault
-trait: I like a job well done, especially if I can convince someone else to do it.
-trait1: Iconoclastic
-trait2: Tasteless
 year: 1
+guild: Elkenval
+partyID: 77
 ---
 # Eliana Saevel
 ---
 ### Description
 - 1st year Human Artificer in Elkenval
-- straight strawberry blond hair that's loose around the shoulders, Hazel eyes, and Pale skin
+- straight strawberry blond hair that's loose around the shoulders, Green eyes, and Pale skin
 - Is Iconoclastic and Tasteless, and has Caring as their ideal
 
 ### Organizations

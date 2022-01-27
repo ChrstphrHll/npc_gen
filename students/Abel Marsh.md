@@ -1,23 +1,25 @@
 ---
+name: Abel Marsh
+race: Warforged
+hair: smooth copper guilded with silver
+eyes: Pale Blue
+skin: silver
+ideal: Wealth
+trait1: Equitable
+trait2: Hesitant
+trait: I can stare down a hell hound without flinching.
+flaw: I follow orders, even if I think they're wrong.
+bond: It is my duty to protect my students.
 birthday:
   numeric: 4/19
   written: 19th of Moradent
-bond: It is my duty to protect my students.
-eyes: Amber
-flaw: I follow orders, even if I think they're wrong.
-guild: Fiesn
-hair: smooth copper guilded with silver
-ideal: Wealth
-name: Abel Marsh
-organizations: []
-partyID: 48
-race: Warforged
 relationships:
 - name: Uxwy Lazziar
   type: partymate
 - name: Leonus Triktappic
   type: partymate
-skin: silver
+organizations: []
+track: Exploration
 spec: Paladin
 stats:
   cha: 15
@@ -26,17 +28,15 @@ stats:
   int: 14
   str: 15
   wis: 11
-track: Exploration
-trait: I can stare down a hell hound without flinching.
-trait1: Equitable
-trait2: Hesitant
 year: 5
+guild: Fiesn
+partyID: 48
 ---
 # Abel Marsh
 ---
 ### Description
 - 5th year Warforged Paladin in Fiesn
-- smooth copper guilded with silver, Amber eyes, and silver skin
+- smooth copper guilded with silver, Pale Blue eyes, and silver skin
 - Is Equitable and Hesitant, and has Wealth as their ideal
 
 ### Organizations

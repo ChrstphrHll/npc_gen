@@ -1,18 +1,19 @@
 ---
+name: Leya Escobar
+race: Human
+hair: wavy grey hair that's done up in a top knot
+eyes: Pale Blue
+skin: Dark Brown
+ideal: Righteous
+trait1: Self-disciplined
+trait2: Mawkish
+trait: I bluntly say what other people are hinting at or hiding.
+flaw: By my words and actions, I often bring shame to my family.By my words and actions,
+  I often bring shame to my family.
+bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 6/25
   written: 25th of Pelent
-bond: I owe my survival to another urchin who taught me tolive on the streets.
-eyes: Pale Green
-flaw: By my words and actions, I often bring shame to my family.By my words and actions,
-  I often bring shame to my family.
-guild: Alderden
-hair: wavy grey hair that's done up in a top knot
-ideal: Righteous
-name: Leya Escobar
-organizations: []
-partyID: 24
-race: Human
 relationships:
 - name: Gina Grandius
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Hanna Estelar
   type: partymate
-skin: Dark Brown
+organizations: []
+track: Assault
 spec: Fighter
 stats:
   cha: 18
@@ -29,17 +31,15 @@ stats:
   int: 11
   str: 13
   wis: 13
-track: Assault
-trait: I bluntly say what other people are hinting at or hiding.
-trait1: Self-disciplined
-trait2: Mawkish
 year: 3
+guild: Alderden
+partyID: 24
 ---
 # Leya Escobar
 ---
 ### Description
 - 3rd year Human Fighter in Alderden
-- wavy grey hair that's done up in a top knot, Pale Green eyes, and Dark Brown skin
+- wavy grey hair that's done up in a top knot, Pale Blue eyes, and Dark Brown skin
 - Is Self-disciplined and Mawkish, and has Righteous as their ideal
 
 ### Organizations

@@ -1,24 +1,27 @@
 ---
+name: Shoulree Letryal
+race: Tiefling
+hair: wavy violet hair that's parted to the side, slightly obscuring an eye
+eyes: Amber
+skin: Olive
+ideal: Self-Fulfillment
+trait1: Insistent
+trait2: Solemn
+trait: I'm haunted by memories of war. I can't get the images of violence out of my
+  mind.
+flaw: When I see something valuable, I can't think about anything but how to steal
+  it.
+bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 7/16
   written: 16th of Korent
-bond: I will do anything to protect the temple where I served.
-eyes: Pale Brown
-flaw: When I see something valuable, I can't think about anything but how to steal
-  it.
-guild: Elkenval
-hair: wavy violet hair that's parted to the side, slightly obscuring an eye
-ideal: Self-Fulfillment
-name: Shoulree Letryal
-organizations: []
-partyID: 88
-race: Tiefling
 relationships:
 - name: Alonnos Xanotter
   type: partymate
 - name: Levi Kicklighter
   type: partymate
-skin: Olive
+organizations: []
+track: Diplomacy
 spec: Monk
 stats:
   cha: 7
@@ -27,18 +30,15 @@ stats:
   int: 11
   str: 13
   wis: 16
-track: Diplomacy
-trait: I'm haunted by memories of war. I can't get the images of violence out of my
-  mind.
-trait1: Insistent
-trait2: Solemn
 year: 1
+guild: Elkenval
+partyID: 88
 ---
 # Shoulree Letryal
 ---
 ### Description
 - 1st year Tiefling Monk in Elkenval
-- wavy violet hair that's parted to the side, slightly obscuring an eye, Pale Brown eyes, and Olive skin
+- wavy violet hair that's parted to the side, slightly obscuring an eye, Amber eyes, and Olive skin
 - Is Insistent and Solemn, and has Self-Fulfillment as their ideal
 
 ### Organizations

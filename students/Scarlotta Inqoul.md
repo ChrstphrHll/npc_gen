@@ -1,21 +1,24 @@
 ---
+name: Scarlotta Inqoul
+race: Dwarf
+hair: curly blonde hair that's parted to the side, slightly obscuring an eye
+eyes: Pale Brown
+skin: Brown
+ideal: Innovation
+trait1: Iconoclastic
+trait2: Puritanical
+trait: I am always calm, no matter what the situation. I never raise my voice or let
+  emotions control me.
+flaw: I have a "tell" that reveals when I'm lying.
+bond: No one else should have to endure the hardships I've been through.
 birthday:
   numeric: 2/26
   written: 26th of Corelent
-bond: No one else should have to endure the hardships I've been through.
-eyes: Hazel
-flaw: I have a "tell" that reveals when I'm lying.
-guild: Burk
-hair: curly blonde hair that's parted to the side, slightly obscuring an eye
-ideal: Innovation
-name: Scarlotta Inqoul
-organizations: []
-partyID: 49
-race: Dwarf
 relationships:
 - name: Senna Tryton
   type: partymate
-skin: Brown
+organizations: []
+track: Diplomacy
 spec: Paladin
 stats:
   cha: 15
@@ -24,18 +27,15 @@ stats:
   int: 15
   str: 16
   wis: 8
-track: Diplomacy
-trait: I am always calm, no matter what the situation. I never raise my voice or let
-  emotions control me.
-trait1: Iconoclastic
-trait2: Puritanical
 year: 4
+guild: Burk
+partyID: 49
 ---
 # Scarlotta Inqoul
 ---
 ### Description
 - 4th year Dwarf Paladin in Burk
-- curly blonde hair that's parted to the side, slightly obscuring an eye, Hazel eyes, and Brown skin
+- curly blonde hair that's parted to the side, slightly obscuring an eye, Pale Brown eyes, and Brown skin
 - Is Iconoclastic and Puritanical, and has Innovation as their ideal
 
 ### Organizations

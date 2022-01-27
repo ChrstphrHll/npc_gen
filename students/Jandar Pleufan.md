@@ -1,17 +1,19 @@
 ---
+name: Jandar Pleufan
+race: Gnome
+hair: straight dark red hair that's parted to the side, slightly obscuring an eye
+eyes: Blue
+skin: Brown
+ideal: Family
+trait1: Forgiving
+trait2: Domineering
+trait: I'm full of inspiring and cautionary tales from my military experience relevant
+  to almost every combat situation.
+flaw: No one must ever learn that I once stole money from guild coffers.
+bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 8/3
   written: 3rd of Ravenent
-bond: Nothing is more important than the other members of my family.
-eyes: Green
-flaw: No one must ever learn that I once stole money from guild coffers.
-guild: Elkenval
-hair: straight dark red hair that's parted to the side, slightly obscuring an eye
-ideal: Family
-name: Jandar Pleufan
-organizations: []
-partyID: 91
-race: Gnome
 relationships:
 - name: Kimbera Alerathla
   type: partymate
@@ -21,7 +23,8 @@ relationships:
   type: partymate
 - name: Andrey Rauthomyr
   type: partymate
-skin: Brown
+organizations: []
+track: Protection
 spec: Ranger
 stats:
   cha: 11
@@ -30,18 +33,15 @@ stats:
   int: 17
   str: 8
   wis: 16
-track: Protection
-trait: I'm full of inspiring and cautionary tales from my military experience relevant
-  to almost every combat situation.
-trait1: Forgiving
-trait2: Domineering
 year: 1
+guild: Elkenval
+partyID: 91
 ---
 # Jandar Pleufan
 ---
 ### Description
 - 1st year Gnome Ranger in Elkenval
-- straight dark red hair that's parted to the side, slightly obscuring an eye, Green eyes, and Brown skin
+- straight dark red hair that's parted to the side, slightly obscuring an eye, Blue eyes, and Brown skin
 - Is Forgiving and Domineering, and has Family as their ideal
 
 ### Organizations

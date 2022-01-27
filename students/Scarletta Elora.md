@@ -1,23 +1,26 @@
 ---
+name: Scarletta Elora
+race: Gnome
+hair: straight auburn hair that's braided with violet ribbon (long)
+eyes: Gray
+skin: Dark Tan
+ideal: Patience
+trait1: Cooperative
+trait2: Devious
+trait: I keep multiple holy symbols on me and invoke whatever deity might come in
+  useful at any given moment.
+flaw: If I'm outnumbered, I will run away from a fight.
+bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 1/25
   written: 25th of Avanent
-bond: I fight for those who cannot fight for themselves.
-eyes: Gray
-flaw: If I'm outnumbered, I will run away from a fight.
-guild: Fiesn
-hair: straight auburn hair that's braided with violet ribbon (long)
-ideal: Patience
-name: Scarletta Elora
-organizations: []
-partyID: 27
-race: Gnome
 relationships:
 - name: Terek Nushala
   type: partymate
 - name: Barak Felaern
   type: partymate
-skin: Dark Tan
+organizations: []
+track: Protection
 spec: Cleric
 stats:
   cha: 12
@@ -26,12 +29,9 @@ stats:
   int: 8
   str: 13
   wis: 14
-track: Protection
-trait: I keep multiple holy symbols on me and invoke whatever deity might come in
-  useful at any given moment.
-trait1: Cooperative
-trait2: Devious
 year: 2
+guild: Fiesn
+partyID: 27
 ---
 # Scarletta Elora
 ---

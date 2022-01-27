@@ -1,18 +1,19 @@
 ---
+name: Saleas Rilitar
+race: Triton
+hair: straight dark red hair that's hanging down to their legs
+eyes: Yellow
+skin: Aqua
+ideal: Righteous
+trait1: Self-sufficent
+trait2: Boisterous
+trait: I like to talk at length about my profession.
+flaw: Secretly, I believe that things would be better if I were a tyrant lording over
+  the land.
+bond: I'm loyal to my captain first, everything else second.
 birthday:
   numeric: 6/6
   written: 6th of Pelent
-bond: I'm loyal to my captain first, everything else second.
-eyes: Aqua
-flaw: Secretly, I believe that things would be better if I were a tyrant lording over
-  the land.
-guild: Burk
-hair: straight dark red hair that's hanging down to their legs
-ideal: Righteous
-name: Saleas Rilitar
-organizations: []
-partyID: 59
-race: Triton
 relationships:
 - name: Noam Shields
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Remus Manchul
   type: partymate
-skin: Aqua
+organizations: []
+track: Protection
 spec: Wizard
 stats:
   cha: 15
@@ -29,17 +31,15 @@ stats:
   int: 16
   str: 9
   wis: 16
-track: Protection
-trait: I like to talk at length about my profession.
-trait1: Self-sufficent
-trait2: Boisterous
 year: 4
+guild: Burk
+partyID: 59
 ---
 # Saleas Rilitar
 ---
 ### Description
 - 4th year Triton Wizard in Burk
-- straight dark red hair that's hanging down to their legs, Aqua eyes, and Aqua skin
+- straight dark red hair that's hanging down to their legs, Yellow eyes, and Aqua skin
 - Is Self-sufficent and Boisterous, and has Righteous as their ideal
 
 ### Organizations

@@ -1,17 +1,19 @@
 ---
+name: Melcyn Taeral
+race: Firbolg
+hair: wavy brunette hair that's braided with green ribbon (long)
+eyes: Gray
+skin: Pale Gray
+ideal: Finesse
+trait1: Devoted
+trait2: Lazy
+trait: I often get lost in my own thoughts and contemplation, becoming oblivious to
+  my surroundings.
+flaw: I'm convinced that no one could ever fool me the way I fool others.
+bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 7/31
   written: 31st of Korent
-bond: I pursue wealth to secure someone's love.
-eyes: Pale Green
-flaw: I'm convinced that no one could ever fool me the way I fool others.
-guild: Treskal
-hair: wavy brunette hair that's braided with green ribbon (long)
-ideal: Finesse
-name: Melcyn Taeral
-organizations: []
-partyID: 7
-race: Firbolg
 relationships:
 - name: Tadita Edraele
   type: partymate
@@ -19,7 +21,8 @@ relationships:
   type: partymate
 - name: Robbos Kalaerede
   type: partymate
-skin: Pale Gray
+organizations: []
+track: Diplomacy
 spec: Sorcerer
 stats:
   cha: 17
@@ -28,18 +31,15 @@ stats:
   int: 13
   str: 14
   wis: 11
-track: Diplomacy
-trait: I often get lost in my own thoughts and contemplation, becoming oblivious to
-  my surroundings.
-trait1: Devoted
-trait2: Lazy
 year: 4
+guild: Treskal
+partyID: 7
 ---
 # Melcyn Taeral
 ---
 ### Description
 - 4th year Firbolg Sorcerer in Treskal
-- wavy brunette hair that's braided with green ribbon (long), Pale Green eyes, and Pale Gray skin
+- wavy brunette hair that's braided with green ribbon (long), Gray eyes, and Pale Gray skin
 - Is Devoted and Lazy, and has Finesse as their ideal
 
 ### Organizations

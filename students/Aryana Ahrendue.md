@@ -1,17 +1,18 @@
 ---
+name: Aryana Ahrendue
+race: Dragonborn
+hair: long spines
+eyes: Hazel
+skin: white
+ideal: Connection
+trait1: Youthful
+trait2: Money-minded
+trait: I would rather make a new friend than a new enemy.
+flaw: If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
+bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 1/30
   written: 30th of Avanent
-bond: My loyalty to my sovereign is unwavering.
-eyes: Hazel
-flaw: If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.
-guild: Alderden
-hair: long spines
-ideal: Connection
-name: Aryana Ahrendue
-organizations: []
-partyID: 56
-race: Dragonborn
 relationships:
 - name: Audree Dixon
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Lea Nuvian
   type: partymate
-skin: white
+organizations: []
+track: Protection
 spec: Barbarian
 stats:
   cha: 12
@@ -28,11 +30,9 @@ stats:
   int: 12
   str: 14
   wis: 10
-track: Protection
-trait: I would rather make a new friend than a new enemy.
-trait1: Youthful
-trait2: Money-minded
 year: 1
+guild: Alderden
+partyID: 56
 ---
 # Aryana Ahrendue
 ---

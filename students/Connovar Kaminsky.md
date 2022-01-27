@@ -1,22 +1,24 @@
 ---
+name: Connovar Kaminsky
+race: Half-Orc
+hair: straight dark red hair that's put up in a large bun
+eyes: Gray
+skin: Pale Green
+ideal: Creativity
+trait1: Helpful
+trait2: Plodding
+trait: I watch over my friends as if they were a litter of newborn pups.
+flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
+  trouble.
+bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 7/28
   written: 28th of Korent
-bond: I want to be famous, whatever it takes.
-eyes: Gray
-flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
-  trouble.
-guild: Treskal
-hair: straight dark red hair that's put up in a large bun
-ideal: Creativity
-name: Connovar Kaminsky
-organizations: []
-partyID: 62
-race: Half-Orc
 relationships:
 - name: Olbern Uldreiyn
   type: partymate
-skin: Pale Green
+organizations: []
+track: Protection
 spec: Sorcerer
 stats:
   cha: 15
@@ -25,11 +27,9 @@ stats:
   int: 14
   str: 11
   wis: 11
-track: Protection
-trait: I watch over my friends as if they were a litter of newborn pups.
-trait1: Helpful
-trait2: Plodding
 year: 4
+guild: Treskal
+partyID: 62
 ---
 # Connovar Kaminsky
 ---

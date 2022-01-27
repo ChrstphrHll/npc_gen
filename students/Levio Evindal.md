@@ -1,17 +1,18 @@
 ---
+name: Levio Evindal
+race: Half-Orc
+hair: straight black hair that's geled back
+eyes: Pale Blue
+skin: Pale Gray
+ideal: Intelligence
+trait1: Sensual
+trait2: Ignorant
+trait: I pocket anything I see that might have some value.
+flaw: I am slow to trust members of other races, tribes, and societies.
+bond: I'll always remember my first ship.
 birthday:
   numeric: 7/19
   written: 19th of Korent
-bond: I'll always remember my first ship.
-eyes: Pale Gray
-flaw: I am slow to trust members of other races, tribes, and societies.
-guild: Elkenval
-hair: straight black hair that's geled back
-ideal: Intelligence
-name: Levio Evindal
-organizations: []
-partyID: 22
-race: Half-Orc
 relationships:
 - name: Gabrilo Kulo
   type: partymate
@@ -21,7 +22,8 @@ relationships:
   type: partymate
 - name: Tylus Ytharra
   type: partymate
-skin: Pale Gray
+organizations: []
+track: Protection
 spec: Artificer
 stats:
   cha: 12
@@ -30,17 +32,15 @@ stats:
   int: 15
   str: 15
   wis: 13
-track: Protection
-trait: I pocket anything I see that might have some value.
-trait1: Sensual
-trait2: Ignorant
 year: 2
+guild: Elkenval
+partyID: 22
 ---
 # Levio Evindal
 ---
 ### Description
 - 2nd year Half-Orc Artificer in Elkenval
-- straight black hair that's geled back, Pale Gray eyes, and Pale Gray skin
+- straight black hair that's geled back, Pale Blue eyes, and Pale Gray skin
 - Is Sensual and Ignorant, and has Intelligence as their ideal
 
 ### Organizations

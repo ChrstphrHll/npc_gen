@@ -1,24 +1,26 @@
 ---
+name: Thongar Fairchild
+race: Human
+hair: curly lighter blonde hair that's braided with blue ribbon (long)
+eyes: Pale Gray
+skin: Light
+ideal: Fame
+trait1: Accessible
+trait2: Fawning
+trait: My language is as foul as an otyugh nest.
+flaw: Secretly, I believe that things would be better if I were a tyrant lording over
+  the land.
+bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 6/11
   written: 11th of Pelent
-bond: I owe my survival to another urchin who taught me tolive on the streets.
-eyes: Pale Gray
-flaw: Secretly, I believe that things would be better if I were a tyrant lording over
-  the land.
-guild: Burk
-hair: curly lighter blonde hair that's braided with blue ribbon (long)
-ideal: Fame
-name: Thongar Fairchild
-organizations: []
-partyID: 5
-race: Human
 relationships:
 - name: Meira Nuvian
   type: partymate
 - name: Roman Erolith
   type: partymate
-skin: Light
+organizations: []
+track: Diplomacy
 spec: Cleric
 stats:
   cha: 11
@@ -27,11 +29,9 @@ stats:
   int: 12
   str: 13
   wis: 15
-track: Diplomacy
-trait: My language is as foul as an otyugh nest.
-trait1: Accessible
-trait2: Fawning
 year: 3
+guild: Burk
+partyID: 5
 ---
 # Thongar Fairchild
 ---

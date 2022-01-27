@@ -1,23 +1,25 @@
 ---
+name: Avaery Klaern
+race: Halfling
+hair: wavy platinum hair that's loose around the shoulders
+eyes: Pale Brown
+skin: Fair
+ideal: Cooperation
+trait1: Silent
+trait2: Unimaginative
+trait: I get bitter if I'm not the center of attention.
+flaw: Now that I've returned to the world, I enjoy its delights a little too much.
+bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
 birthday:
   numeric: 7/29
   written: 29th of Korent
-bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
-eyes: Green
-flaw: Now that I've returned to the world, I enjoy its delights a little too much.
-guild: Jettenia
-hair: wavy platinum hair that's loose around the shoulders
-ideal: Cooperation
-name: Avaery Klaern
-organizations: []
-partyID: 66
-race: Halfling
 relationships:
 - name: Juppar Kershaw
   type: partymate
 - name: Milae Ditka
   type: partymate
-skin: Fair
+organizations: []
+track: Exploration
 spec: Barbarian
 stats:
   cha: 16
@@ -26,17 +28,15 @@ stats:
   int: 14
   str: 17
   wis: 11
-track: Exploration
-trait: I get bitter if I'm not the center of attention.
-trait1: Silent
-trait2: Unimaginative
 year: 1
+guild: Jettenia
+partyID: 66
 ---
 # Avaery Klaern
 ---
 ### Description
 - 1st year Halfling Barbarian in Jettenia
-- wavy platinum hair that's loose around the shoulders, Green eyes, and Fair skin
+- wavy platinum hair that's loose around the shoulders, Pale Brown eyes, and Fair skin
 - Is Silent and Unimaginative, and has Cooperation as their ideal
 
 ### Organizations

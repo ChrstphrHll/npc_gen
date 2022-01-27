@@ -1,23 +1,26 @@
 ---
+name: Tylor Llewellenar
+race: Warforged
+hair: smooth brass guilded with garnet
+eyes: Spring Green
+skin: gold
+ideal: Abundance
+trait1: Disciplined
+trait2: Naive
+trait: My eloquent flattery makes everyone I talk to feel like the most wonderful
+  and important person in the world.
+flaw: I'm quick to assume that someone is trying to cheat me.
+bond: The common folk must see me as a hero of the people.
 birthday:
   numeric: 8/20
   written: 20th of Ravenent
-bond: The common folk must see me as a hero of the people.
-eyes: Pale Gray
-flaw: I'm quick to assume that someone is trying to cheat me.
-guild: Fiesn
-hair: smooth brass guilded with garnet
-ideal: Abundance
-name: Tylor Llewellenar
-organizations: []
-partyID: 42
-race: Warforged
 relationships:
 - name: Brannos Bellas
   type: partymate
 - name: Ragnar Illitran
   type: partymate
-skin: gold
+organizations: []
+track: Assault
 spec: Sorcerer
 stats:
   cha: 13
@@ -26,18 +29,15 @@ stats:
   int: 8
   str: 11
   wis: 13
-track: Assault
-trait: My eloquent flattery makes everyone I talk to feel like the most wonderful
-  and important person in the world.
-trait1: Disciplined
-trait2: Naive
 year: 6
+guild: Fiesn
+partyID: 42
 ---
 # Tylor Llewellenar
 ---
 ### Description
 - 6th year Warforged Sorcerer in Fiesn
-- smooth brass guilded with garnet, Pale Gray eyes, and gold skin
+- smooth brass guilded with garnet, Spring Green eyes, and gold skin
 - Is Disciplined and Naive, and has Abundance as their ideal
 
 ### Organizations

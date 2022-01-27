@@ -1,23 +1,25 @@
 ---
+name: Jasjen Nlossae
+race: Dragonborn
+hair: long spines
+eyes: Sea Green
+skin: blue
+ideal: Caring
+trait1: Solitary
+trait2: Muddle-headed
+trait: I feel far more comfortable around animals than people.
+flaw: In fact, the world does revolve around me.
+bond: It is my duty to protect my students.
 birthday:
   numeric: 1/8
   written: 8th of Avanent
-bond: It is my duty to protect my students.
-eyes: Deep Blue
-flaw: In fact, the world does revolve around me.
-guild: Burk
-hair: long spines
-ideal: Caring
-name: Jasjen Nlossae
-organizations: []
-partyID: 65
-race: Dragonborn
 relationships:
 - name: Eligio Nevarth
   type: partymate
 - name: Q Yulmanda
   type: partymate
-skin: blue
+organizations: []
+track: Diplomacy
 spec: Bard
 stats:
   cha: 16
@@ -26,17 +28,15 @@ stats:
   int: 14
   str: 8
   wis: 10
-track: Diplomacy
-trait: I feel far more comfortable around animals than people.
-trait1: Solitary
-trait2: Muddle-headed
 year: 2
+guild: Burk
+partyID: 65
 ---
 # Jasjen Nlossae
 ---
 ### Description
 - 2nd year Dragonborn Bard in Burk
-- long spines, Deep Blue eyes, and blue skin
+- long spines, Sea Green eyes, and blue skin
 - Is Solitary and Muddle-headed, and has Caring as their ideal
 
 ### Organizations

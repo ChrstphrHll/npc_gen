@@ -1,17 +1,18 @@
 ---
+name: Lenn Schimae
+race: Human
+hair: curly auburn hair that's put back in a long pony tail
+eyes: Pale Green
+skin: Dark Tan
+ideal: Creativity
+trait1: Inventive
+trait2: Ignorant
+trait: I ask a lot of questions.
+flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
+bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 7/1
   written: 1st of Korent
-bond: I wish my childhood sweetheart had come with me to pursue my destiny.
-eyes: Amber
-flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
-guild: Treskal
-hair: curly auburn hair that's put back in a long pony tail
-ideal: Creativity
-name: Lenn Schimae
-organizations: []
-partyID: 46
-race: Human
 relationships:
 - name: Robett Grell
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Gifre Edyrm
   type: partymate
-skin: Dark Tan
+organizations: []
+track: Assault
 spec: Barbarian
 stats:
   cha: 13
@@ -28,17 +30,15 @@ stats:
   int: 14
   str: 14
   wis: 7
-track: Assault
-trait: I ask a lot of questions.
-trait1: Inventive
-trait2: Ignorant
 year: 6
+guild: Treskal
+partyID: 46
 ---
 # Lenn Schimae
 ---
 ### Description
 - 6th year Human Barbarian in Treskal
-- curly auburn hair that's put back in a long pony tail, Amber eyes, and Dark Tan skin
+- curly auburn hair that's put back in a long pony tail, Pale Green eyes, and Dark Tan skin
 - Is Inventive and Ignorant, and has Creativity as their ideal
 
 ### Organizations

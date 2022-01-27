@@ -1,18 +1,19 @@
 ---
+name: Ivistra Stockton
+race: Tiefling
+hair: wavy grey hair that's put back in a long pony tail
+eyes: Orange
+skin: Pale Yellow
+ideal: Exceptionalism
+trait1: Mellow
+trait2: Single-minded
+trait: There's nothing I like more than a good mystery.
+flaw: My pride will probably lead to my destruction.
+bond: My instrument is my most treasured possession, and it reminds me of someone
+  I love.
 birthday:
   numeric: 1/25
   written: 25th of Avanent
-bond: My instrument is my most treasured possession, and it reminds me of someone
-  I love.
-eyes: Blue
-flaw: My pride will probably lead to my destruction.
-guild: Jettenia
-hair: wavy grey hair that's put back in a long pony tail
-ideal: Exceptionalism
-name: Ivistra Stockton
-organizations: []
-partyID: 35
-race: Tiefling
 relationships:
 - name: Matos Mektal
   type: partymate
@@ -22,7 +23,8 @@ relationships:
   type: partymate
 - name: Yorala Tiatha
   type: partymate
-skin: Pale Yellow
+organizations: []
+track: Diplomacy
 spec: Wizard
 stats:
   cha: 8
@@ -31,17 +33,15 @@ stats:
   int: 18
   str: 14
   wis: 10
-track: Diplomacy
-trait: There's nothing I like more than a good mystery.
-trait1: Mellow
-trait2: Single-minded
 year: 5
+guild: Jettenia
+partyID: 35
 ---
 # Ivistra Stockton
 ---
 ### Description
 - 5th year Tiefling Wizard in Jettenia
-- wavy grey hair that's put back in a long pony tail, Blue eyes, and Pale Yellow skin
+- wavy grey hair that's put back in a long pony tail, Orange eyes, and Pale Yellow skin
 - Is Mellow and Single-minded, and has Exceptionalism as their ideal
 
 ### Organizations

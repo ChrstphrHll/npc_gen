@@ -1,18 +1,20 @@
 ---
+name: Holys Hachaam
+race: Half-Elf
+hair: straight white hair that's pulled to the side and buzzed on the left
+eyes: Hazel
+skin: Brown
+ideal: Hard Work
+trait1: Eloquent
+trait2: Wishy-washy
+trait: I'm well known for my work, and I want to make sure everyone appreciates it.
+  I'm always taken aback when people haven't heard of me.
+flaw: I'd rather kill someone in their sleep then fight fair.
+bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
+  to see them again one day.
 birthday:
   numeric: 8/26
   written: 26th of Ravenent
-bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
-  to see them again one day.
-eyes: Green
-flaw: I'd rather kill someone in their sleep then fight fair.
-guild: Elkenval
-hair: straight white hair that's pulled to the side and buzzed on the left
-ideal: Hard Work
-name: Holys Hachaam
-organizations: []
-partyID: 90
-race: Half-Elf
 relationships:
 - name: Diegon Verrona
   type: partymate
@@ -20,7 +22,8 @@ relationships:
   type: partymate
 - name: Kayla Kaminsky
   type: partymate
-skin: Brown
+organizations: []
+track: Assault
 spec: Rouge
 stats:
   cha: 9
@@ -29,18 +32,15 @@ stats:
   int: 16
   str: 15
   wis: 12
-track: Assault
-trait: I'm well known for my work, and I want to make sure everyone appreciates it.
-  I'm always taken aback when people haven't heard of me.
-trait1: Eloquent
-trait2: Wishy-washy
 year: 1
+guild: Elkenval
+partyID: 90
 ---
 # Holys Hachaam
 ---
 ### Description
 - 1st year Half-Elf Rouge in Elkenval
-- straight white hair that's pulled to the side and buzzed on the left, Green eyes, and Brown skin
+- straight white hair that's pulled to the side and buzzed on the left, Hazel eyes, and Brown skin
 - Is Eloquent and Wishy-washy, and has Hard Work as their ideal
 
 ### Organizations

@@ -1,18 +1,20 @@
 ---
+name: Goshwa Khiipaera
+race: Firbolg
+hair: wavy platinum hair that's parted to the left
+eyes: Pale Green
+skin: Pale Brown
+ideal: Forgiveness
+trait1: Proper
+trait2: Airy
+trait: I believe that anything worth doing is worth doing right. I can't help it-
+  I'm a perfectionist.
+flaw: I'm quick to assume that someone is trying to cheat me.
+bond: I created a great work for someone, and then found them unworthy to receive
+  it. I'm still looking for someone worthy.
 birthday:
   numeric: 6/25
   written: 25th of Pelent
-bond: I created a great work for someone, and then found them unworthy to receive
-  it. I'm still looking for someone worthy.
-eyes: Pale Green
-flaw: I'm quick to assume that someone is trying to cheat me.
-guild: Elkenval
-hair: wavy platinum hair that's parted to the left
-ideal: Forgiveness
-name: Goshwa Khiipaera
-organizations: []
-partyID: 47
-race: Firbolg
 relationships:
 - name: Julyo Agassi
   type: partymate
@@ -20,7 +22,8 @@ relationships:
   type: partymate
 - name: Mavrek Aolis
   type: partymate
-skin: Pale Brown
+organizations: []
+track: Exploration
 spec: Fighter
 stats:
   cha: 8
@@ -29,12 +32,9 @@ stats:
   int: 13
   str: 17
   wis: 17
-track: Exploration
-trait: I believe that anything worth doing is worth doing right. I can't help it-
-  I'm a perfectionist.
-trait1: Proper
-trait2: Airy
 year: 5
+guild: Elkenval
+partyID: 47
 ---
 # Goshwa Khiipaera
 ---

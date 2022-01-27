@@ -1,17 +1,18 @@
 ---
+name: Mya Nelaeryn
+race: Human
+hair: straight auburn hair that's braided with pink ribbon (long)
+eyes: Pale Gray
+skin: Fair
+ideal: Creativity
+trait1: Folksy
+trait2: Evil
+trait: There's nothing I like more than a good mystery.
+flaw: I have a "tell" that reveals when I'm lying.
+bond: I owe my life to the priest who took me in when my parents died.
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
-bond: I owe my life to the priest who took me in when my parents died.
-eyes: Green
-flaw: I have a "tell" that reveals when I'm lying.
-guild: Elkenval
-hair: straight auburn hair that's braided with pink ribbon (long)
-ideal: Creativity
-name: Mya Nelaeryn
-organizations: []
-partyID: 22
-race: Human
 relationships:
 - name: Gabrilo Kulo
   type: partymate
@@ -21,7 +22,8 @@ relationships:
   type: partymate
 - name: Tylus Ytharra
   type: partymate
-skin: Fair
+organizations: []
+track: Protection
 spec: Barbarian
 stats:
   cha: 17
@@ -30,17 +32,15 @@ stats:
   int: 9
   str: 17
   wis: 10
-track: Protection
-trait: There's nothing I like more than a good mystery.
-trait1: Folksy
-trait2: Evil
 year: 2
+guild: Elkenval
+partyID: 22
 ---
 # Mya Nelaeryn
 ---
 ### Description
 - 2nd year Human Barbarian in Elkenval
-- straight auburn hair that's braided with pink ribbon (long), Green eyes, and Fair skin
+- straight auburn hair that's braided with pink ribbon (long), Pale Gray eyes, and Fair skin
 - Is Folksy and Evil, and has Creativity as their ideal
 
 ### Organizations

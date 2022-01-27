@@ -1,18 +1,19 @@
 ---
+name: Leah Faelar
+race: Human
+hair: wavy auburn hair that's braided with blue ribbon (med)
+eyes: Amber
+skin: Light Tan
+ideal: Justice
+trait1: Intense
+trait2: Assertive
+trait: I've lost too many friends, and I'm slow to make new ones.
+flaw: I am slow to trust members of other races, tribes, and societies.
+bond: So long as I have this token from my homeland, I can face any adversity in this
+  strange land.
 birthday:
   numeric: 4/7
   written: 7th of Moradent
-bond: So long as I have this token from my homeland, I can face any adversity in this
-  strange land.
-eyes: Pale Blue
-flaw: I am slow to trust members of other races, tribes, and societies.
-guild: Treskal
-hair: wavy auburn hair that's braided with blue ribbon (med)
-ideal: Justice
-name: Leah Faelar
-organizations: []
-partyID: 17
-race: Human
 relationships:
 - name: Branus Shadegrove
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Angel Nushala
   type: partymate
-skin: Light Tan
+organizations: []
+track: Exploration
 spec: Bard
 stats:
   cha: 14
@@ -29,17 +31,15 @@ stats:
   int: 11
   str: 13
   wis: 12
-track: Exploration
-trait: I've lost too many friends, and I'm slow to make new ones.
-trait1: Intense
-trait2: Assertive
 year: 1
+guild: Treskal
+partyID: 17
 ---
 # Leah Faelar
 ---
 ### Description
 - 1st year Human Bard in Treskal
-- wavy auburn hair that's braided with blue ribbon (med), Pale Blue eyes, and Light Tan skin
+- wavy auburn hair that's braided with blue ribbon (med), Amber eyes, and Light Tan skin
 - Is Intense and Assertive, and has Justice as their ideal
 
 ### Organizations

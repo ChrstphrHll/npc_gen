@@ -1,22 +1,24 @@
 ---
+name: Kessa Keller
+race: Human
+hair: wavy white hair that's kept back by a blue headband
+eyes: Pale Brown
+skin: Tan
+ideal: Integrity
+trait1: Enigmatic
+trait2: Regretful
+trait: I quote (or misquote) sacred texts and proverbs in almost every situation.
+flaw: I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster
+  than I bring them in.
+bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
-bond: I will become the greatest thief that ever lived.
-eyes: Amber
-flaw: I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster
-  than I bring them in.
-guild: Elkenval
-hair: wavy white hair that's kept back by a blue headband
-ideal: Integrity
-name: Kessa Keller
-organizations: []
-partyID: 30
-race: Human
 relationships:
 - name: Rivik Connak
   type: partymate
-skin: Tan
+organizations: []
+track: Assault
 spec: Ranger
 stats:
   cha: 13
@@ -25,17 +27,15 @@ stats:
   int: 11
   str: 9
   wis: 17
-track: Assault
-trait: I quote (or misquote) sacred texts and proverbs in almost every situation.
-trait1: Enigmatic
-trait2: Regretful
 year: 3
+guild: Elkenval
+partyID: 30
 ---
 # Kessa Keller
 ---
 ### Description
 - 3rd year Human Ranger in Elkenval
-- wavy white hair that's kept back by a blue headband, Amber eyes, and Tan skin
+- wavy white hair that's kept back by a blue headband, Pale Brown eyes, and Tan skin
 - Is Enigmatic and Regretful, and has Integrity as their ideal
 
 ### Organizations

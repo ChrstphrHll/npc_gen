@@ -1,25 +1,27 @@
 ---
+name: Liris Bhyrindaar
+race: Goliath
+hair: wavy red hair that's loose around the shoulders
+eyes: Amber
+skin: Dark Brown
+ideal: Connection
+trait1: Emotional
+trait2: Troublesome
+trait: I've lost too many friends, and I'm slow to make new ones.
+flaw: By my words and actions, I often bring shame to my family.By my words and actions,
+  I often bring shame to my family.
+bond: I fleeced the wrong person and must work to ensure that this individual never
+  crosses paths with me or those I care about.
 birthday:
   numeric: 1/18
   written: 18th of Avanent
-bond: I fleeced the wrong person and must work to ensure that this individual never
-  crosses paths with me or those I care about.
-eyes: Amber
-flaw: By my words and actions, I often bring shame to my family.By my words and actions,
-  I often bring shame to my family.
-guild: Fiesn
-hair: wavy red hair that's loose around the shoulders
-ideal: Connection
-name: Liris Bhyrindaar
-organizations: []
-partyID: 54
-race: Goliath
 relationships:
 - name: Caeleb Embrae
   type: partymate
 - name: Eva Reluvethel
   type: partymate
-skin: Dark Brown
+organizations: []
+track: Protection
 spec: Paladin
 stats:
   cha: 12
@@ -28,11 +30,9 @@ stats:
   int: 8
   str: 17
   wis: 13
-track: Protection
-trait: I've lost too many friends, and I'm slow to make new ones.
-trait1: Emotional
-trait2: Troublesome
 year: 2
+guild: Fiesn
+partyID: 54
 ---
 # Liris Bhyrindaar
 ---

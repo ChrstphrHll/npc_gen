@@ -1,24 +1,26 @@
 ---
+name: Hazel Winters
+race: Firbolg
+hair: straight black hair that's put back in a short pony tail
+eyes: Pale Green
+skin: Pale Green
+ideal: Entrepreneurial
+trait1: Political
+trait2: Stupid
+trait: I eat like a pig and have bad manners.
+flaw: There's no room for caution in a life lived to the fullest.
+bond: I seek to preserve a sacred text that my enemies consider heretical and seek
+  to destroy.
 birthday:
   numeric: 6/18
   written: 18th of Pelent
-bond: I seek to preserve a sacred text that my enemies consider heretical and seek
-  to destroy.
-eyes: Green
-flaw: There's no room for caution in a life lived to the fullest.
-guild: Burk
-hair: straight black hair that's put back in a short pony tail
-ideal: Entrepreneurial
-name: Hazel Winters
-organizations: []
-partyID: 75
-race: Firbolg
 relationships:
 - name: Murunay Illfate
   type: partymate
 - name: Lincon Nylaathria
   type: partymate
-skin: Pale Green
+organizations: []
+track: Protection
 spec: Monk
 stats:
   cha: 16
@@ -27,17 +29,15 @@ stats:
   int: 9
   str: 16
   wis: 16
-track: Protection
-trait: I eat like a pig and have bad manners.
-trait1: Political
-trait2: Stupid
 year: 4
+guild: Burk
+partyID: 75
 ---
 # Hazel Winters
 ---
 ### Description
 - 4th year Firbolg Monk in Burk
-- straight black hair that's put back in a short pony tail, Green eyes, and Pale Green skin
+- straight black hair that's put back in a short pony tail, Pale Green eyes, and Pale Green skin
 - Is Political and Stupid, and has Entrepreneurial as their ideal
 
 ### Organizations

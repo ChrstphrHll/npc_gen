@@ -1,24 +1,27 @@
 ---
+name: Hagar Sakrattars
+race: Tiefling
+hair: curly brunette hair that's kept back by a blue headband
+eyes: Pale Gray
+skin: Pale Yellow
+ideal: Competition
+trait1: Conforming
+trait2: Criminal
+trait: I begin or end my day with small traditional rituals that are unfamiliar to
+  those around me.
+flaw: A scandal prevents me from ever going home again. That kind of trouble seems
+  to follow me around.
+bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 2/24
   written: 24th of Corelent
-bond: I will do anything to protect the temple where I served.
-eyes: Green
-flaw: A scandal prevents me from ever going home again. That kind of trouble seems
-  to follow me around.
-guild: Burk
-hair: curly brunette hair that's kept back by a blue headband
-ideal: Competition
-name: Hagar Sakrattars
-organizations: []
-partyID: 86
-race: Tiefling
 relationships:
 - name: Lyonus Ioelena
   type: partymate
 - name: Valygar Lyklor
   type: partymate
-skin: Pale Yellow
+organizations: []
+track: Protection
 spec: Cleric
 stats:
   cha: 14
@@ -27,18 +30,15 @@ stats:
   int: 13
   str: 10
   wis: 17
-track: Protection
-trait: I begin or end my day with small traditional rituals that are unfamiliar to
-  those around me.
-trait1: Conforming
-trait2: Criminal
 year: 2
+guild: Burk
+partyID: 86
 ---
 # Hagar Sakrattars
 ---
 ### Description
 - 2nd year Tiefling Cleric in Burk
-- curly brunette hair that's kept back by a blue headband, Green eyes, and Pale Yellow skin
+- curly brunette hair that's kept back by a blue headband, Pale Gray eyes, and Pale Yellow skin
 - Is Conforming and Criminal, and has Competition as their ideal
 
 ### Organizations

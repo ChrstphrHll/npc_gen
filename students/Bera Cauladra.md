@@ -1,23 +1,25 @@
 ---
+name: Bera Cauladra
+race: Gnome
+hair: curly blonde hair that's parted to the right
+eyes: Gray
+skin: Tan
+ideal: Clarity
+trait1: Modern
+trait2: Destructive
+trait: I express affection or contempt in ways that are unfamiliar to others.
+flaw: I pretend not to understand the local language in order to avoid interactions
+  I would rather not have.
+bond: I entered seclusion to hide from the ones who might still be hunting me. I must
+  someday confront them.
 birthday:
   numeric: 4/25
   written: 25th of Moradent
-bond: I entered seclusion to hide from the ones who might still be hunting me. I must
-  someday confront them.
-eyes: Pale Brown
-flaw: I pretend not to understand the local language in order to avoid interactions
-  I would rather not have.
-guild: Elkenval
-hair: curly blonde hair that's parted to the right
-ideal: Clarity
-name: Bera Cauladra
-organizations: []
-partyID: 23
-race: Gnome
 relationships:
 - name: Auzerais Venali
   type: partymate
-skin: Tan
+organizations: []
+track: Diplomacy
 spec: Cleric
 stats:
   cha: 9
@@ -26,17 +28,15 @@ stats:
   int: 16
   str: 13
   wis: 17
-track: Diplomacy
-trait: I express affection or contempt in ways that are unfamiliar to others.
-trait1: Modern
-trait2: Destructive
 year: 4
+guild: Elkenval
+partyID: 23
 ---
 # Bera Cauladra
 ---
 ### Description
 - 4th year Gnome Cleric in Elkenval
-- curly blonde hair that's parted to the right, Pale Brown eyes, and Tan skin
+- curly blonde hair that's parted to the right, Gray eyes, and Tan skin
 - Is Modern and Destructive, and has Clarity as their ideal
 
 ### Organizations

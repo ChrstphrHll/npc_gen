@@ -1,18 +1,20 @@
 ---
+name: Remus Manchul
+race: Half-Elf
+hair: curly grey hair that's a tousled bed head
+eyes: Pale Blue
+skin: Dark Brown
+ideal: Perseverance
+trait1: Reserved
+trait2: Strict
+trait: I often get lost in my own thoughts and contemplation, becoming oblivious to
+  my surroundings.
+flaw: I'd risk too much to uncover a lost bit of knowledge.
+bond: My instrument is my most treasured possession, and it reminds me of someone
+  I love.
 birthday:
   numeric: 7/31
   written: 31st of Korent
-bond: My instrument is my most treasured possession, and it reminds me of someone
-  I love.
-eyes: Brown
-flaw: I'd risk too much to uncover a lost bit of knowledge.
-guild: Burk
-hair: curly grey hair that's a tousled bed head
-ideal: Perseverance
-name: Remus Manchul
-organizations: []
-partyID: 59
-race: Half-Elf
 relationships:
 - name: Noam Shields
   type: partymate
@@ -20,7 +22,8 @@ relationships:
   type: partymate
 - name: Saleas Rilitar
   type: partymate
-skin: Dark Brown
+organizations: []
+track: Protection
 spec: Rouge
 stats:
   cha: 11
@@ -29,18 +32,15 @@ stats:
   int: 14
   str: 10
   wis: 12
-track: Protection
-trait: I often get lost in my own thoughts and contemplation, becoming oblivious to
-  my surroundings.
-trait1: Reserved
-trait2: Strict
 year: 4
+guild: Burk
+partyID: 59
 ---
 # Remus Manchul
 ---
 ### Description
 - 4th year Half-Elf Rouge in Burk
-- curly grey hair that's a tousled bed head, Brown eyes, and Dark Brown skin
+- curly grey hair that's a tousled bed head, Pale Blue eyes, and Dark Brown skin
 - Is Reserved and Strict, and has Perseverance as their ideal
 
 ### Organizations

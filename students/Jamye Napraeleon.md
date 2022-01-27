@@ -1,24 +1,26 @@
 ---
+name: Jamye Napraeleon
+race: Dragonborn
+hair: frills
+eyes: Violet Red
+skin: red
+ideal: Cunning
+trait1: Experimental
+trait2: Rigid
+trait: I always have a plan for what to do when things go wrong.
+flaw: My pride will probably lead to my destruction.
+bond: I created a great work for someone, and then found them unworthy to receive
+  it. I'm still looking for someone worthy.
 birthday:
   numeric: 5/20
   written: 20th of Iounent
-bond: I created a great work for someone, and then found them unworthy to receive
-  it. I'm still looking for someone worthy.
-eyes: Red
-flaw: My pride will probably lead to my destruction.
-guild: Alderden
-hair: frills
-ideal: Cunning
-name: Jamye Napraeleon
-organizations: []
-partyID: 73
-race: Dragonborn
 relationships:
 - name: Cirvlon Elpaerae
   type: partymate
 - name: Gianna Rhistel
   type: partymate
-skin: red
+organizations: []
+track: Assault
 spec: Wizard
 stats:
   cha: 11
@@ -27,17 +29,15 @@ stats:
   int: 16
   str: 10
   wis: 12
-track: Assault
-trait: I always have a plan for what to do when things go wrong.
-trait1: Experimental
-trait2: Rigid
 year: 2
+guild: Alderden
+partyID: 73
 ---
 # Jamye Napraeleon
 ---
 ### Description
 - 2nd year Dragonborn Wizard in Alderden
-- frills, Red eyes, and red skin
+- frills, Violet Red eyes, and red skin
 - Is Experimental and Rigid, and has Cunning as their ideal
 
 ### Organizations

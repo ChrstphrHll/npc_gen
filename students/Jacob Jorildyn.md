@@ -1,17 +1,18 @@
 ---
+name: Jacob Jorildyn
+race: Dragonborn
+hair: long spines
+eyes: Pale Brown
+skin: brass
+ideal: Appreciation
+trait1: Clear-headed
+trait2: Impassive
+trait: I bluntly say what other people are hinting at or hiding.
+flaw: I like keeping secrets and won't share them with anyone.
+bond: The common folk must see me as a hero of the people.
 birthday:
   numeric: 3/23
   written: 23rd of Melorent
-bond: The common folk must see me as a hero of the people.
-eyes: Red
-flaw: I like keeping secrets and won't share them with anyone.
-guild: Treskal
-hair: long spines
-ideal: Appreciation
-name: Jacob Jorildyn
-organizations: []
-partyID: 45
-race: Dragonborn
 relationships:
 - name: Hudsen Elandorr
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Gabrila Retra
   type: partymate
-skin: brass
+organizations: []
+track: Diplomacy
 spec: Cleric
 stats:
   cha: 12
@@ -28,17 +30,15 @@ stats:
   int: 8
   str: 12
   wis: 14
-track: Diplomacy
-trait: I bluntly say what other people are hinting at or hiding.
-trait1: Clear-headed
-trait2: Impassive
 year: 3
+guild: Treskal
+partyID: 45
 ---
 # Jacob Jorildyn
 ---
 ### Description
 - 3rd year Dragonborn Cleric in Treskal
-- long spines, Red eyes, and brass skin
+- long spines, Pale Brown eyes, and brass skin
 - Is Clear-headed and Impassive, and has Appreciation as their ideal
 
 ### Organizations

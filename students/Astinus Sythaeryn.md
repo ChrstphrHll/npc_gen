@@ -1,23 +1,25 @@
 ---
+name: Astinus Sythaeryn
+race: Human
+hair: straight dark red hair that's put up in a large bun
+eyes: Amber
+skin: Brown
+ideal: Independence
+trait1: Thrifty
+trait2: Aimless
+trait: My favor, once lost, is lost forever.
+flaw: I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go,
+  I'm surrounded by rivals.
+bond: My family, clan, or tribe is the most important thing in my life, even when
+  they are far from me.
 birthday:
   numeric: 1/2
   written: 2nd of Avanent
-bond: My family, clan, or tribe is the most important thing in my life, even when
-  they are far from me.
-eyes: Pale Blue
-flaw: I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go,
-  I'm surrounded by rivals.
-guild: Fiesn
-hair: straight dark red hair that's put up in a large bun
-ideal: Independence
-name: Astinus Sythaeryn
-organizations: []
-partyID: 37
-race: Human
 relationships:
 - name: Hudsen Aluendalee
   type: partymate
-skin: Brown
+organizations: []
+track: Protection
 spec: Bard
 stats:
   cha: 17
@@ -26,17 +28,15 @@ stats:
   int: 9
   str: 10
   wis: 15
-track: Protection
-trait: My favor, once lost, is lost forever.
-trait1: Thrifty
-trait2: Aimless
 year: 4
+guild: Fiesn
+partyID: 37
 ---
 # Astinus Sythaeryn
 ---
 ### Description
 - 4th year Human Bard in Fiesn
-- straight dark red hair that's put up in a large bun, Pale Blue eyes, and Brown skin
+- straight dark red hair that's put up in a large bun, Amber eyes, and Brown skin
 - Is Thrifty and Aimless, and has Independence as their ideal
 
 ### Organizations

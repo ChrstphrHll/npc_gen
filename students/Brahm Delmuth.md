@@ -1,18 +1,19 @@
 ---
+name: Brahm Delmuth
+race: Half-Orc
+hair: curly lighter blonde hair that's kept back by a green headband
+eyes: Amber
+skin: Pale Green
+ideal: Stoicism
+trait1: Exuberant
+trait2: Conservative
+trait: I'm rude to people who lack my commitment to hard work and fair play.
+flaw: I have little respect for anyone who is not a proven warrior.
+bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
+  to see them again one day.
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
-bond: Though I had no choice, I lament having to leave my loved one(s) behind. I hope
-  to see them again one day.
-eyes: Brown
-flaw: I have little respect for anyone who is not a proven warrior.
-guild: Fiesn
-hair: curly lighter blonde hair that's kept back by a green headband
-ideal: Stoicism
-name: Brahm Delmuth
-organizations: []
-partyID: 79
-race: Half-Orc
 relationships:
 - name: Romen Uldreiyn
   type: partymate
@@ -22,7 +23,8 @@ relationships:
   type: partymate
 - name: Zylphan Molostroi
   type: partymate
-skin: Pale Green
+organizations: []
+track: Exploration
 spec: Paladin
 stats:
   cha: 13
@@ -31,17 +33,15 @@ stats:
   int: 14
   str: 15
   wis: 14
-track: Exploration
-trait: I'm rude to people who lack my commitment to hard work and fair play.
-trait1: Exuberant
-trait2: Conservative
 year: 8
+guild: Fiesn
+partyID: 79
 ---
 # Brahm Delmuth
 ---
 ### Description
 - 8th year Half-Orc Paladin in Fiesn
-- curly lighter blonde hair that's kept back by a green headband, Brown eyes, and Pale Green skin
+- curly lighter blonde hair that's kept back by a green headband, Amber eyes, and Pale Green skin
 - Is Exuberant and Conservative, and has Stoicism as their ideal
 
 ### Organizations

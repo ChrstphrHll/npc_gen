@@ -1,23 +1,25 @@
 ---
+name: Alexandyr Aulauthar
+race: Firbolg
+hair: wavy red hair that's geled back
+eyes: Amber
+skin: Pale Blue
+ideal: Home
+trait1: Communicative
+trait2: Ungrateful
+trait: I ask a lot of questions.
+flaw: I hide a truly scandalous secret that could ruin my family forever.
+bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 3/20
   written: 20th of Melorent
-bond: I owe my survival to another urchin who taught me tolive on the streets.
-eyes: Gray
-flaw: I hide a truly scandalous secret that could ruin my family forever.
-guild: Fiesn
-hair: wavy red hair that's geled back
-ideal: Home
-name: Alexandyr Aulauthar
-organizations: []
-partyID: 53
-race: Firbolg
 relationships:
 - name: Coriss Biafyndar
   type: partymate
 - name: Adamos Taehr
   type: partymate
-skin: Pale Blue
+organizations: []
+track: Diplomacy
 spec: Wizard
 stats:
   cha: 14
@@ -26,17 +28,15 @@ stats:
   int: 15
   str: 10
   wis: 12
-track: Diplomacy
-trait: I ask a lot of questions.
-trait1: Communicative
-trait2: Ungrateful
 year: 5
+guild: Fiesn
+partyID: 53
 ---
 # Alexandyr Aulauthar
 ---
 ### Description
 - 5th year Firbolg Wizard in Fiesn
-- wavy red hair that's geled back, Gray eyes, and Pale Blue skin
+- wavy red hair that's geled back, Amber eyes, and Pale Blue skin
 - Is Communicative and Ungrateful, and has Home as their ideal
 
 ### Organizations

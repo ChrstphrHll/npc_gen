@@ -1,18 +1,20 @@
 ---
+name: Estyn Rhangyl
+race: Dragonborn
+hair: frills
+eyes: Hazel
+skin: blue
+ideal: Conformity
+trait1: Harmonious
+trait2: Talkative
+trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
+  breaking them.
+flaw: I have trouble trusting in my allies.
+bond: Nothing is more important than the other members of my hermitage, order, or
+  association.
 birthday:
   numeric: 3/5
   written: 5th of Melorent
-bond: Nothing is more important than the other members of my hermitage, order, or
-  association.
-eyes: Hazel
-flaw: I have trouble trusting in my allies.
-guild: Treskal
-hair: frills
-ideal: Conformity
-name: Estyn Rhangyl
-organizations: []
-partyID: 7
-race: Dragonborn
 relationships:
 - name: Tadita Edraele
   type: partymate
@@ -20,7 +22,8 @@ relationships:
   type: partymate
 - name: Robbos Kalaerede
   type: partymate
-skin: blue
+organizations: []
+track: Protection
 spec: Artificer
 stats:
   cha: 7
@@ -29,12 +32,9 @@ stats:
   int: 15
   str: 13
   wis: 7
-track: Protection
-trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
-  breaking them.
-trait1: Harmonious
-trait2: Talkative
 year: 4
+guild: Treskal
+partyID: 7
 ---
 # Estyn Rhangyl
 ---

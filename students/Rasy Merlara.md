@@ -1,23 +1,26 @@
 ---
+name: Rasy Merlara
+race: Dwarf
+hair: straight brunette hair that's loose around the shoulders
+eyes: Pale Gray
+skin: Dark Tan
+ideal: Spiritualism
+trait1: Reflective
+trait2: Ungrateful
+trait: I'm well known for my work, and I want to make sure everyone appreciates it.
+  I'm always taken aback when people haven't heard of me.
+flaw: I have a weakness for the vices of the city, especially hard drink.
+bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 7/11
   written: 11th of Korent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Brown
-flaw: I have a weakness for the vices of the city, especially hard drink.
-guild: Alderden
-hair: straight brunette hair that's loose around the shoulders
-ideal: Spiritualism
-name: Rasy Merlara
-organizations: []
-partyID: 16
-race: Dwarf
 relationships:
 - name: Hanro Fieryat
   type: partymate
 - name: Jamie Kesefehon
   type: partymate
-skin: Dark Tan
+organizations: []
+track: Exploration
 spec: Wizard
 stats:
   cha: 10
@@ -26,18 +29,15 @@ stats:
   int: 15
   str: 10
   wis: 6
-track: Exploration
-trait: I'm well known for my work, and I want to make sure everyone appreciates it.
-  I'm always taken aback when people haven't heard of me.
-trait1: Reflective
-trait2: Ungrateful
 year: 1
+guild: Alderden
+partyID: 16
 ---
 # Rasy Merlara
 ---
 ### Description
 - 1st year Dwarf Wizard in Alderden
-- straight brunette hair that's loose around the shoulders, Brown eyes, and Dark Tan skin
+- straight brunette hair that's loose around the shoulders, Pale Gray eyes, and Dark Tan skin
 - Is Reflective and Ungrateful, and has Spiritualism as their ideal
 
 ### Organizations

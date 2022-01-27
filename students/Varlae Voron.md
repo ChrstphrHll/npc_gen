@@ -1,18 +1,19 @@
 ---
+name: Varlae Voron
+race: Half-Orc
+hair: curly grey hair that's hanging down to their back
+eyes: Gray
+skin: Pale Gray
+ideal: Peace
+trait1: Friendly
+trait2: Foolish
+trait: I use polysyllabic words that convey the impression of great erudition.
+flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
+  own hide if the going gets tough.
+bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 6/17
   written: 17th of Pelent
-bond: I hold no greater cause than my service to my people.
-eyes: Pale Green
-flaw: I hate to admit it and will hate myself for it, but I'll run and preserve my
-  own hide if the going gets tough.
-guild: Treskal
-hair: curly grey hair that's hanging down to their back
-ideal: Peace
-name: Varlae Voron
-organizations: []
-partyID: 58
-race: Half-Orc
 relationships:
 - name: Vyctor Willow
   type: partymate
@@ -22,7 +23,8 @@ relationships:
   type: partymate
 - name: Theriss Deularla
   type: partymate
-skin: Pale Gray
+organizations: []
+track: Exploration
 spec: Wizard
 stats:
   cha: 13
@@ -31,17 +33,15 @@ stats:
   int: 13
   str: 8
   wis: 7
-track: Exploration
-trait: I use polysyllabic words that convey the impression of great erudition.
-trait1: Friendly
-trait2: Foolish
 year: 6
+guild: Treskal
+partyID: 58
 ---
 # Varlae Voron
 ---
 ### Description
 - 6th year Half-Orc Wizard in Treskal
-- curly grey hair that's hanging down to their back, Pale Green eyes, and Pale Gray skin
+- curly grey hair that's hanging down to their back, Gray eyes, and Pale Gray skin
 - Is Friendly and Foolish, and has Peace as their ideal
 
 ### Organizations

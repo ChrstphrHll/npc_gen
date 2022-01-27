@@ -8,6 +8,15 @@ import roll_tables.look_tables as gen_looks
 
 import json, random
 
+##TODO:
+# fix hair tables
+# add in organizations
+# add friendships based on organizations
+# add in origins
+# relationships
+# familial bonds
+# professors
+
 def update_roster(roster, functions = []):
     for student in roster:
         for function in functions:

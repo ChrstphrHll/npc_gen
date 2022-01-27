@@ -1,24 +1,26 @@
 ---
+name: Levi Kicklighter
+race: Goliath
+hair: curly blonde hair that's geled back
+eyes: Pale Green
+skin: Fair
+ideal: Compassion
+trait1: Hearty
+trait2: Airy
+trait: I never pass up a friendly wager.
+flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
+  trouble.
+bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 5/10
   written: 10th of Iounent
-bond: An injury to the unspoiled wilderness of my home is an injury to me.
-eyes: Pale Green
-flaw: I have trouble keeping my true feelings hidden. My sharp tongue lands me in
-  trouble.
-guild: Elkenval
-hair: curly blonde hair that's geled back
-ideal: Compassion
-name: Levi Kicklighter
-organizations: []
-partyID: 88
-race: Goliath
 relationships:
 - name: Alonnos Xanotter
   type: partymate
 - name: Shoulree Letryal
   type: partymate
-skin: Fair
+organizations: []
+track: Exploration
 spec: Paladin
 stats:
   cha: 6
@@ -27,11 +29,9 @@ stats:
   int: 7
   str: 12
   wis: 10
-track: Exploration
-trait: I never pass up a friendly wager.
-trait1: Hearty
-trait2: Airy
 year: 1
+guild: Elkenval
+partyID: 88
 ---
 # Levi Kicklighter
 ---

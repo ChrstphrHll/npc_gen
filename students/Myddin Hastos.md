@@ -1,17 +1,18 @@
 ---
+name: Myddin Hastos
+race: Half-Elf
+hair: wavy auburn hair that's parted to the left
+eyes: Pale Gray
+skin: Dark Brown
+ideal: Patience
+trait1: Challenging
+trait2: Disorganized
+trait: I bluntly say what other people are hinting at or hiding.
+flaw: Violence is my answer to almost any challenge.
+bond: Should my discovery come to light, it could bring ruin to the world.
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-bond: Should my discovery come to light, it could bring ruin to the world.
-eyes: Amber
-flaw: Violence is my answer to almost any challenge.
-guild: Elkenval
-hair: wavy auburn hair that's parted to the left
-ideal: Patience
-name: Myddin Hastos
-organizations: []
-partyID: 22
-race: Half-Elf
 relationships:
 - name: Gabrilo Kulo
   type: partymate
@@ -21,7 +22,8 @@ relationships:
   type: partymate
 - name: Tylus Ytharra
   type: partymate
-skin: Dark Brown
+organizations: []
+track: Protection
 spec: Rouge
 stats:
   cha: 12
@@ -30,17 +32,15 @@ stats:
   int: 13
   str: 14
   wis: 12
-track: Protection
-trait: I bluntly say what other people are hinting at or hiding.
-trait1: Challenging
-trait2: Disorganized
 year: 2
+guild: Elkenval
+partyID: 22
 ---
 # Myddin Hastos
 ---
 ### Description
 - 2nd year Half-Elf Rouge in Elkenval
-- wavy auburn hair that's parted to the left, Amber eyes, and Dark Brown skin
+- wavy auburn hair that's parted to the left, Pale Gray eyes, and Dark Brown skin
 - Is Challenging and Disorganized, and has Patience as their ideal
 
 ### Organizations

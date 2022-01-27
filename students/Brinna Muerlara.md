@@ -1,17 +1,18 @@
 ---
+name: Brinna Muerlara
+race: Halfling
+hair: straight brunette hair that's pulled to the side and buzzed on the right
+eyes: Green
+skin: Brown
+ideal: Openness
+trait1: Athletic
+trait2: Reserved
+trait: I lie about almost everything, even when there's no good reason to.
+flaw: I have a weakness for the vices of the city, especially hard drink.
+bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 6/26
   written: 26th of Pelent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Pale Green
-flaw: I have a weakness for the vices of the city, especially hard drink.
-guild: Burk
-hair: straight brunette hair that's pulled to the side and buzzed on the right
-ideal: Openness
-name: Brinna Muerlara
-organizations: []
-partyID: 95
-race: Halfling
 relationships:
 - name: Pynelope Valhein
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Tisette Bender
   type: partymate
-skin: Brown
+organizations: []
+track: Exploration
 spec: Barbarian
 stats:
   cha: 13
@@ -28,17 +30,15 @@ stats:
   int: 12
   str: 18
   wis: 9
-track: Exploration
-trait: I lie about almost everything, even when there's no good reason to.
-trait1: Athletic
-trait2: Reserved
 year: 1
+guild: Burk
+partyID: 95
 ---
 # Brinna Muerlara
 ---
 ### Description
 - 1st year Halfling Barbarian in Burk
-- straight brunette hair that's pulled to the side and buzzed on the right, Pale Green eyes, and Brown skin
+- straight brunette hair that's pulled to the side and buzzed on the right, Green eyes, and Brown skin
 - Is Athletic and Reserved, and has Openness as their ideal
 
 ### Organizations

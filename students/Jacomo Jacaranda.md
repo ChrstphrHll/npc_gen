@@ -1,23 +1,25 @@
 ---
+name: Jacomo Jacaranda
+race: Halfling
+hair: straight grey hair that's pulled to the side and buzzed on the left
+eyes: Hazel
+skin: Pale
+ideal: Personal Development
+trait1: Iconoclastic
+trait2: Narrow
+trait: I get bored easily. When am I going to get on with my destiny?
+flaw: I am dogmatic in my thoughts and philosophy.
+bond: I'll always remember my first ship.
 birthday:
   numeric: 3/21
   written: 21st of Melorent
-bond: I'll always remember my first ship.
-eyes: Pale Blue
-flaw: I am dogmatic in my thoughts and philosophy.
-guild: Alderden
-hair: straight grey hair that's pulled to the side and buzzed on the left
-ideal: Personal Development
-name: Jacomo Jacaranda
-organizations: []
-partyID: 11
-race: Halfling
 relationships:
 - name: Alinea Hellsturn
   type: partymate
 - name: Tommos Morgan
   type: partymate
-skin: Pale
+organizations: []
+track: Assault
 spec: Barbarian
 stats:
   cha: 16
@@ -26,17 +28,15 @@ stats:
   int: 14
   str: 18
   wis: 9
-track: Assault
-trait: I get bored easily. When am I going to get on with my destiny?
-trait1: Iconoclastic
-trait2: Narrow
 year: 5
+guild: Alderden
+partyID: 11
 ---
 # Jacomo Jacaranda
 ---
 ### Description
 - 5th year Halfling Barbarian in Alderden
-- straight grey hair that's pulled to the side and buzzed on the left, Pale Blue eyes, and Pale skin
+- straight grey hair that's pulled to the side and buzzed on the left, Hazel eyes, and Pale skin
 - Is Iconoclastic and Narrow, and has Personal Development as their ideal
 
 ### Organizations

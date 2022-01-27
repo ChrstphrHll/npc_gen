@@ -1,24 +1,26 @@
 ---
+name: Milae Ditka
+race: Dragonborn
+hair: 5 curled horns
+eyes: Emerald Green
+skin: blue
+ideal: Self-Respect
+trait1: Undemanding
+trait2: Cruel
+trait: I have a joke for every occasion, especially occasions where humor is inappropriate.
+flaw: Most people scream and run when they see a demon. I stop and take notes on its
+  anatomy.
+bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 2/19
   written: 19th of Corelent
-bond: I would still lay down my life for the people I served with.
-eyes: Emerald Green
-flaw: Most people scream and run when they see a demon. I stop and take notes on its
-  anatomy.
-guild: Jettenia
-hair: 5 curled horns
-ideal: Self-Respect
-name: Milae Ditka
-organizations: []
-partyID: 66
-race: Dragonborn
 relationships:
 - name: Juppar Kershaw
   type: partymate
 - name: Avaery Klaern
   type: partymate
-skin: blue
+organizations: []
+track: Protection
 spec: Sorcerer
 stats:
   cha: 9
@@ -27,11 +29,9 @@ stats:
   int: 6
   str: 7
   wis: 9
-track: Protection
-trait: I have a joke for every occasion, especially occasions where humor is inappropriate.
-trait1: Undemanding
-trait2: Cruel
 year: 1
+guild: Jettenia
+partyID: 66
 ---
 # Milae Ditka
 ---

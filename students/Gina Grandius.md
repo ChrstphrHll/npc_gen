@@ -1,17 +1,18 @@
 ---
+name: Gina Grandius
+race: Tiefling
+hair: straight platinum hair that's loose around the shoulders
+eyes: Purple
+skin: Yellow
+ideal: Endurance
+trait1: Absentminded
+trait2: Libidinous
+trait: I blow up at the slightest insult.
+flaw: I'd rather eat my armor than admit when I'm wrong.
+bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Red
-flaw: I'd rather eat my armor than admit when I'm wrong.
-guild: Alderden
-hair: straight platinum hair that's loose around the shoulders
-ideal: Endurance
-name: Gina Grandius
-organizations: []
-partyID: 24
-race: Tiefling
 relationships:
 - name: Leya Escobar
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Hanna Estelar
   type: partymate
-skin: Yellow
+organizations: []
+track: Exploration
 spec: Monk
 stats:
   cha: 18
@@ -28,17 +30,15 @@ stats:
   int: 6
   str: 12
   wis: 11
-track: Exploration
-trait: I blow up at the slightest insult.
-trait1: Absentminded
-trait2: Libidinous
 year: 3
+guild: Alderden
+partyID: 24
 ---
 # Gina Grandius
 ---
 ### Description
 - 3rd year Tiefling Monk in Alderden
-- straight platinum hair that's loose around the shoulders, Red eyes, and Yellow skin
+- straight platinum hair that's loose around the shoulders, Purple eyes, and Yellow skin
 - Is Absentminded and Libidinous, and has Endurance as their ideal
 
 ### Organizations

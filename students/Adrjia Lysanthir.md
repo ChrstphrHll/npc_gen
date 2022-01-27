@@ -1,18 +1,20 @@
 ---
+name: Adrjia Lysanthir
+race: Triton
+hair: straight grey hair that's kept back by a pink headband
+eyes: Pale Gray
+skin: Aqua
+ideal: Compassion
+trait1: Invisible
+trait2: Circumspect
+trait: Nobody stays angry at me or around me for long, since I can defuse any amount
+  of tension.
+flaw: A scandal prevents me from ever going home again. That kind of trouble seems
+  to follow me around.
+bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 4/15
   written: 15th of Moradent
-bond: An injury to the unspoiled wilderness of my home is an injury to me.
-eyes: Gray
-flaw: A scandal prevents me from ever going home again. That kind of trouble seems
-  to follow me around.
-guild: Treskal
-hair: straight grey hair that's kept back by a pink headband
-ideal: Compassion
-name: Adrjia Lysanthir
-organizations: []
-partyID: 69
-race: Triton
 relationships:
 - name: Kova Tamara
   type: partymate
@@ -22,7 +24,8 @@ relationships:
   type: partymate
 - name: Evylen Nese
   type: partymate
-skin: Aqua
+organizations: []
+track: Assault
 spec: Ranger
 stats:
   cha: 14
@@ -31,18 +34,15 @@ stats:
   int: 7
   str: 13
   wis: 14
-track: Assault
-trait: Nobody stays angry at me or around me for long, since I can defuse any amount
-  of tension.
-trait1: Invisible
-trait2: Circumspect
 year: 1
+guild: Treskal
+partyID: 69
 ---
 # Adrjia Lysanthir
 ---
 ### Description
 - 1st year Triton Ranger in Treskal
-- straight grey hair that's kept back by a pink headband, Gray eyes, and Aqua skin
+- straight grey hair that's kept back by a pink headband, Pale Gray eyes, and Aqua skin
 - Is Invisible and Circumspect, and has Compassion as their ideal
 
 ### Organizations

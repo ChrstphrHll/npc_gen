@@ -1,17 +1,18 @@
 ---
+name: Yan Sorsasta
+race: Dwarf
+hair: wavy auburn hair that's loose around the shoulders
+eyes: Amber
+skin: Pale
+ideal: Reciprocity
+trait1: Adventurous
+trait2: Pretentious
+trait: Thinking is for other people. I prefer action.
+flaw: People who can't take care of themselves get what they deserve.
+bond: In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
 birthday:
   numeric: 7/33
   written: 33rd of Korent
-bond: In a harbor town, I have a paramour whose eyes nearly stole me from the sea.
-eyes: Blue
-flaw: People who can't take care of themselves get what they deserve.
-guild: Burk
-hair: wavy auburn hair that's loose around the shoulders
-ideal: Reciprocity
-name: Yan Sorsasta
-organizations: []
-partyID: 93
-race: Dwarf
 relationships:
 - name: Abryia Rubrae
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Nicholus Morthil
   type: partymate
-skin: Pale
+organizations: []
+track: Diplomacy
 spec: Barbarian
 stats:
   cha: 14
@@ -28,17 +30,15 @@ stats:
   int: 11
   str: 15
   wis: 8
-track: Diplomacy
-trait: Thinking is for other people. I prefer action.
-trait1: Adventurous
-trait2: Pretentious
 year: 2
+guild: Burk
+partyID: 93
 ---
 # Yan Sorsasta
 ---
 ### Description
 - 2nd year Dwarf Barbarian in Burk
-- wavy auburn hair that's loose around the shoulders, Blue eyes, and Pale skin
+- wavy auburn hair that's loose around the shoulders, Amber eyes, and Pale skin
 - Is Adventurous and Pretentious, and has Reciprocity as their ideal
 
 ### Organizations

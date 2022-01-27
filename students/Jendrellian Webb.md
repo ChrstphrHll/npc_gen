@@ -1,23 +1,25 @@
 ---
+name: Jendrellian Webb
+race: Dwarf
+hair: wavy lighter blonde hair that's hanging down to their legs
+eyes: Green
+skin: Brown
+ideal: Goodness
+trait1: Plain
+trait2: Competitive
+trait: I'm a hopeless romantic, always searching for that "special someone."
+flaw: I would kill to acquire a noble title.
+bond: I'm loyal to my captain first, everything else second.
 birthday:
   numeric: 2/22
   written: 22nd of Corelent
-bond: I'm loyal to my captain first, everything else second.
-eyes: Green
-flaw: I would kill to acquire a noble title.
-guild: Elkenval
-hair: wavy lighter blonde hair that's hanging down to their legs
-ideal: Goodness
-name: Jendrellian Webb
-organizations: []
-partyID: 64
-race: Dwarf
 relationships:
 - name: Nathan Laeroth
   type: partymate
 - name: Pike Tethir
   type: partymate
-skin: Brown
+organizations: []
+track: Assault
 spec: Barbarian
 stats:
   cha: 11
@@ -26,11 +28,9 @@ stats:
   int: 7
   str: 13
   wis: 15
-track: Assault
-trait: I'm a hopeless romantic, always searching for that "special someone."
-trait1: Plain
-trait2: Competitive
 year: 1
+guild: Elkenval
+partyID: 64
 ---
 # Jendrellian Webb
 ---

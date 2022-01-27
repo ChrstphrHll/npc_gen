@@ -1,17 +1,19 @@
 ---
+name: Matrell Halafarin
+race: Aasimar
+hair: wavy blonde hair that's hanging down to their back
+eyes: Green
+skin: Dark Brown
+ideal: Abundance
+trait1: Mischievous
+trait2: Repentant
+trait: I am always calm, no matter what the situation. I never raise my voice or let
+  emotions control me.
+flaw: My hatred of my enemies is blind and unreasoning.
+bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 2/19
   written: 19th of Corelent
-bond: My loyalty to my sovereign is unwavering.
-eyes: Pale Blue
-flaw: My hatred of my enemies is blind and unreasoning.
-guild: Treskal
-hair: wavy blonde hair that's hanging down to their back
-ideal: Abundance
-name: Matrell Halafarin
-organizations: []
-partyID: 3
-race: Aasimar
 relationships:
 - name: Giacomo Edraele
   type: partymate
@@ -19,7 +21,8 @@ relationships:
   type: partymate
 - name: Yoshen Arcaena
   type: partymate
-skin: Dark Brown
+organizations: []
+track: Assault
 spec: Artificer
 stats:
   cha: 11
@@ -28,18 +31,15 @@ stats:
   int: 17
   str: 13
   wis: 8
-track: Assault
-trait: I am always calm, no matter what the situation. I never raise my voice or let
-  emotions control me.
-trait1: Mischievous
-trait2: Repentant
 year: 2
+guild: Treskal
+partyID: 3
 ---
 # Matrell Halafarin
 ---
 ### Description
 - 2nd year Aasimar Artificer in Treskal
-- wavy blonde hair that's hanging down to their back, Pale Blue eyes, and Dark Brown skin
+- wavy blonde hair that's hanging down to their back, Green eyes, and Dark Brown skin
 - Is Mischievous and Repentant, and has Abundance as their ideal
 
 ### Organizations

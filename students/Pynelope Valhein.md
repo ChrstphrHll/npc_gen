@@ -1,17 +1,18 @@
 ---
+name: Pynelope Valhein
+race: Dragonborn
+hair: frills
+eyes: Brown
+skin: black
+ideal: Responsibility
+trait1: Unreligious
+trait2: Impassive
+trait: I can stare down a hell hound without flinching.
+flaw: In fact, the world does revolve around me.
+bond: I work to preserve a library, university, scriptorium, or monastery.
 birthday:
   numeric: 8/10
   written: 10th of Ravenent
-bond: I work to preserve a library, university, scriptorium, or monastery.
-eyes: Brown
-flaw: In fact, the world does revolve around me.
-guild: Burk
-hair: frills
-ideal: Responsibility
-name: Pynelope Valhein
-organizations: []
-partyID: 95
-race: Dragonborn
 relationships:
 - name: Brinna Muerlara
   type: partymate
@@ -19,7 +20,8 @@ relationships:
   type: partymate
 - name: Tisette Bender
   type: partymate
-skin: black
+organizations: []
+track: Exploration
 spec: Rouge
 stats:
   cha: 14
@@ -28,11 +30,9 @@ stats:
   int: 13
   str: 16
   wis: 5
-track: Exploration
-trait: I can stare down a hell hound without flinching.
-trait1: Unreligious
-trait2: Impassive
 year: 1
+guild: Burk
+partyID: 95
 ---
 # Pynelope Valhein
 ---

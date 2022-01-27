@@ -1,22 +1,24 @@
 ---
+name: Leja Talila
+race: Elf
+hair: curly grey hair that's put back in a long pony tail
+eyes: Blue
+skin: Fair
+ideal: Prosperity
+trait1: Upright
+trait2: Monstrous
+trait: My friends know they can rely on me, no matter what.
+flaw: I turn tail and run when things look bad.
+bond: I fleeced the wrong person and must work to ensure that this individual never
+  crosses paths with me or those I care about.
 birthday:
   numeric: 1/13
   written: 13th of Avanent
-bond: I fleeced the wrong person and must work to ensure that this individual never
-  crosses paths with me or those I care about.
-eyes: Gray
-flaw: I turn tail and run when things look bad.
-guild: Burk
-hair: curly grey hair that's put back in a long pony tail
-ideal: Prosperity
-name: Leja Talila
-organizations: []
-partyID: 83
-race: Elf
 relationships:
 - name: Natalia Endo
   type: partymate
-skin: Fair
+organizations: []
+track: Diplomacy
 spec: Sorcerer
 stats:
   cha: 14
@@ -25,17 +27,15 @@ stats:
   int: 12
   str: 12
   wis: 11
-track: Diplomacy
-trait: My friends know they can rely on me, no matter what.
-trait1: Upright
-trait2: Monstrous
 year: 3
+guild: Burk
+partyID: 83
 ---
 # Leja Talila
 ---
 ### Description
 - 3rd year Elf Sorcerer in Burk
-- curly grey hair that's put back in a long pony tail, Gray eyes, and Fair skin
+- curly grey hair that's put back in a long pony tail, Blue eyes, and Fair skin
 - Is Upright and Monstrous, and has Prosperity as their ideal
 
 ### Organizations

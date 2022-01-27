@@ -1,24 +1,26 @@
 ---
+name: Ungris Riluaneth
+race: Dragonborn
+hair: frills
+eyes: Violet Red
+skin: red
+ideal: Beauty
+trait1: Sincere
+trait2: Cruel
+trait: The common folk love me for my kindness and generosity.
+flaw: I'd risk too much to uncover a lost bit of knowledge.
+bond: Somewhere out there, I have a child who doesn't know me. I'm making the world
+  better for him or her.
 birthday:
   numeric: 8/19
   written: 19th of Ravenent
-bond: Somewhere out there, I have a child who doesn't know me. I'm making the world
-  better for him or her.
-eyes: Pale Blue
-flaw: I'd risk too much to uncover a lost bit of knowledge.
-guild: Treskal
-hair: frills
-ideal: Beauty
-name: Ungris Riluaneth
-organizations: []
-partyID: 63
-race: Dragonborn
 relationships:
 - name: Gerrimar Vulkor
   type: partymate
 - name: Cerridwen Durothil
   type: partymate
-skin: red
+organizations: []
+track: Diplomacy
 spec: Cleric
 stats:
   cha: 12
@@ -27,17 +29,15 @@ stats:
   int: 12
   str: 12
   wis: 13
-track: Diplomacy
-trait: The common folk love me for my kindness and generosity.
-trait1: Sincere
-trait2: Cruel
 year: 5
+guild: Treskal
+partyID: 63
 ---
 # Ungris Riluaneth
 ---
 ### Description
 - 5th year Dragonborn Cleric in Treskal
-- frills, Pale Blue eyes, and red skin
+- frills, Violet Red eyes, and red skin
 - Is Sincere and Cruel, and has Beauty as their ideal
 
 ### Organizations

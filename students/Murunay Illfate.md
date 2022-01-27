@@ -1,23 +1,26 @@
 ---
+name: Murunay Illfate
+race: Elf
+hair: curly dark red hair that's hanging down to their back
+eyes: Blue
+skin: Brown
+ideal: Affection
+trait1: Restrained
+trait2: Immature
+trait: I've spent so long in the temple that I have little practical experience dealing
+  with people in the outside world.
+flaw: There's no room for caution in a life lived to the fullest.
+bond: Everything I do is for the common people.
 birthday:
   numeric: 6/20
   written: 20th of Pelent
-bond: Everything I do is for the common people.
-eyes: Green
-flaw: There's no room for caution in a life lived to the fullest.
-guild: Burk
-hair: curly dark red hair that's hanging down to their back
-ideal: Affection
-name: Murunay Illfate
-organizations: []
-partyID: 75
-race: Elf
 relationships:
 - name: Hazel Winters
   type: partymate
 - name: Lincon Nylaathria
   type: partymate
-skin: Brown
+organizations: []
+track: Exploration
 spec: Ranger
 stats:
   cha: 10
@@ -26,18 +29,15 @@ stats:
   int: 8
   str: 15
   wis: 12
-track: Exploration
-trait: I've spent so long in the temple that I have little practical experience dealing
-  with people in the outside world.
-trait1: Restrained
-trait2: Immature
 year: 4
+guild: Burk
+partyID: 75
 ---
 # Murunay Illfate
 ---
 ### Description
 - 4th year Elf Ranger in Burk
-- curly dark red hair that's hanging down to their back, Green eyes, and Brown skin
+- curly dark red hair that's hanging down to their back, Blue eyes, and Brown skin
 - Is Restrained and Immature, and has Affection as their ideal
 
 ### Organizations

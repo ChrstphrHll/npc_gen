@@ -1,22 +1,25 @@
 ---
+name: Brynn Opalul
+race: Tiefling
+hair: wavy dark red hair that's loose around the shoulders
+eyes: Amber
+skin: Pale Yellow
+ideal: Charisma
+trait1: Devoted
+trait2: Odd
+trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
+  breaking them.
+flaw: Don't expect me to save those who can't save themselves. It is nature's way
+  that the strong thrive and the weak perish.
+bond: I entered seclusion because I loved someone I could not have.
 birthday:
   numeric: 4/28
   written: 28th of Moradent
-bond: I entered seclusion because I loved someone I could not have.
-eyes: Green
-flaw: Don't expect me to save those who can't save themselves. It is nature's way
-  that the strong thrive and the weak perish.
-guild: Burk
-hair: wavy dark red hair that's loose around the shoulders
-ideal: Charisma
-name: Brynn Opalul
-organizations: []
-partyID: 39
-race: Tiefling
 relationships:
 - name: Alys Ylyndar
   type: partymate
-skin: Pale Yellow
+organizations: []
+track: Exploration
 spec: Paladin
 stats:
   cha: 12
@@ -25,18 +28,15 @@ stats:
   int: 14
   str: 14
   wis: 6
-track: Exploration
-trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
-  breaking them.
-trait1: Devoted
-trait2: Odd
 year: 3
+guild: Burk
+partyID: 39
 ---
 # Brynn Opalul
 ---
 ### Description
 - 3rd year Tiefling Paladin in Burk
-- wavy dark red hair that's loose around the shoulders, Green eyes, and Pale Yellow skin
+- wavy dark red hair that's loose around the shoulders, Amber eyes, and Pale Yellow skin
 - Is Devoted and Odd, and has Charisma as their ideal
 
 ### Organizations

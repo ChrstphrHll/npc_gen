@@ -1,23 +1,26 @@
 ---
+name: Jaris Amlaruil
+race: Triton
+hair: wavy pink hair that's done up in a top knot
+eyes: Aqua
+skin: Aqua
+ideal: Wealth
+trait1: Resourceful
+trait2: Bland
+trait: I keep multiple holy symbols on me and invoke whatever deity might come in
+  useful at any given moment.
+flaw: Now that I've returned to the world, I enjoy its delights a little too much.
+bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 1/1
   written: 1st of Avanent
-bond: I hold no greater cause than my service to my people.
-eyes: Deep Blue
-flaw: Now that I've returned to the world, I enjoy its delights a little too much.
-guild: Jettenia
-hair: wavy pink hair that's done up in a top knot
-ideal: Wealth
-name: Jaris Amlaruil
-organizations: []
-partyID: 10
-race: Triton
 relationships:
 - name: Jareth Tanseril
   type: partymate
 - name: Aksel Strohm
   type: partymate
-skin: Aqua
+organizations: []
+track: Protection
 spec: Fighter
 stats:
   cha: 11
@@ -26,18 +29,15 @@ stats:
   int: 17
   str: 14
   wis: 3
-track: Protection
-trait: I keep multiple holy symbols on me and invoke whatever deity might come in
-  useful at any given moment.
-trait1: Resourceful
-trait2: Bland
 year: 7
+guild: Jettenia
+partyID: 10
 ---
 # Jaris Amlaruil
 ---
 ### Description
 - 7th year Triton Fighter in Jettenia
-- wavy pink hair that's done up in a top knot, Deep Blue eyes, and Aqua skin
+- wavy pink hair that's done up in a top knot, Aqua eyes, and Aqua skin
 - Is Resourceful and Bland, and has Wealth as their ideal
 
 ### Organizations

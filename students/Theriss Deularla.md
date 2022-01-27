@@ -1,18 +1,19 @@
 ---
+name: Theriss Deularla
+race: Gnome
+hair: straight brunette hair that's parted to the side, slightly obscuring an eye
+eyes: Pale Gray
+skin: Dark Tan
+ideal: Knowledge
+trait1: Attentive
+trait2: Fraudulent
+trait: I watch over my friends as if they were a litter of newborn pups.
+flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
+bond: So long as I have this token from my homeland, I can face any adversity in this
+  strange land.
 birthday:
   numeric: 4/4
   written: 4th of Moradent
-bond: So long as I have this token from my homeland, I can face any adversity in this
-  strange land.
-eyes: Brown
-flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
-guild: Treskal
-hair: straight brunette hair that's parted to the side, slightly obscuring an eye
-ideal: Knowledge
-name: Theriss Deularla
-organizations: []
-partyID: 58
-race: Gnome
 relationships:
 - name: Vyctor Willow
   type: partymate
@@ -22,7 +23,8 @@ relationships:
   type: partymate
 - name: Dree Nuala
   type: partymate
-skin: Dark Tan
+organizations: []
+track: Protection
 spec: Cleric
 stats:
   cha: 15
@@ -31,17 +33,15 @@ stats:
   int: 9
   str: 17
   wis: 17
-track: Protection
-trait: I watch over my friends as if they were a litter of newborn pups.
-trait1: Attentive
-trait2: Fraudulent
 year: 6
+guild: Treskal
+partyID: 58
 ---
 # Theriss Deularla
 ---
 ### Description
 - 6th year Gnome Cleric in Treskal
-- straight brunette hair that's parted to the side, slightly obscuring an eye, Brown eyes, and Dark Tan skin
+- straight brunette hair that's parted to the side, slightly obscuring an eye, Pale Gray eyes, and Dark Tan skin
 - Is Attentive and Fraudulent, and has Knowledge as their ideal
 
 ### Organizations

@@ -1,22 +1,24 @@
 ---
+name: Hartwen Galaeron
+race: Human
+hair: wavy auburn hair that's geled back
+eyes: Gray
+skin: Fair
+ideal: Involvement
+trait1: Plain
+trait2: Childish
+trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
+flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
+  to quell.
+bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Pale Gray
-flaw: I harbor dark, bloodthirsty thoughts that my isolation and meditation failed
-  to quell.
-guild: Alderden
-hair: wavy auburn hair that's geled back
-ideal: Involvement
-name: Hartwen Galaeron
-organizations: []
-partyID: 52
-race: Human
 relationships:
 - name: Ian Averescu
   type: partymate
-skin: Fair
+organizations: []
+track: Diplomacy
 spec: Cleric
 stats:
   cha: 10
@@ -25,17 +27,15 @@ stats:
   int: 14
   str: 9
   wis: 18
-track: Diplomacy
-trait: I enjoy sailing into new ports and making new friends over a flagon of ale.
-trait1: Plain
-trait2: Childish
 year: 2
+guild: Alderden
+partyID: 52
 ---
 # Hartwen Galaeron
 ---
 ### Description
 - 2nd year Human Cleric in Alderden
-- wavy auburn hair that's geled back, Pale Gray eyes, and Fair skin
+- wavy auburn hair that's geled back, Gray eyes, and Fair skin
 - Is Plain and Childish, and has Involvement as their ideal
 
 ### Organizations

@@ -1,18 +1,19 @@
 ---
+name: Rotheloe Samblar
+race: Firbolg
+hair: curly red hair that's loose around the shoulders
+eyes: Pale Brown
+skin: Pale Brown
+ideal: Entertain
+trait1: Naughty
+trait2: Skeptical
+trait: I feel far more comfortable around animals than people.
+flaw: Once I pick a goal, I become obsessed with it to the detriment of everything
+  else in my life.
+bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 8/19
   written: 19th of Ravenent
-bond: I wish my childhood sweetheart had come with me to pursue my destiny.
-eyes: Pale Gray
-flaw: Once I pick a goal, I become obsessed with it to the detriment of everything
-  else in my life.
-guild: Burk
-hair: curly red hair that's loose around the shoulders
-ideal: Entertain
-name: Rotheloe Samblar
-organizations: []
-partyID: 9
-race: Firbolg
 relationships:
 - name: Aelisabeth Soliania
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Helera Urkensvall
   type: partymate
-skin: Pale Brown
+organizations: []
+track: Protection
 spec: Barbarian
 stats:
   cha: 16
@@ -29,17 +31,15 @@ stats:
   int: 13
   str: 17
   wis: 11
-track: Protection
-trait: I feel far more comfortable around animals than people.
-trait1: Naughty
-trait2: Skeptical
 year: 3
+guild: Burk
+partyID: 9
 ---
 # Rotheloe Samblar
 ---
 ### Description
 - 3rd year Firbolg Barbarian in Burk
-- curly red hair that's loose around the shoulders, Pale Gray eyes, and Pale Brown skin
+- curly red hair that's loose around the shoulders, Pale Brown eyes, and Pale Brown skin
 - Is Naughty and Skeptical, and has Entertain as their ideal
 
 ### Organizations

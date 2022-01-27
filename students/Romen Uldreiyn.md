@@ -1,18 +1,19 @@
 ---
+name: Romen Uldreiyn
+race: Goliath
+hair: wavy white hair that's loose around the shoulders
+eyes: Blue
+skin: Light Tan
+ideal: Fitness
+trait1: Self-reliant
+trait2: Superficial
+trait: I'm a born gambler who can't resist taking a risk for a potential payoff.
+flaw: I have an insatiable desire for carnal pleasures.
+bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
+  eludes me.
 birthday:
   numeric: 6/17
   written: 17th of Pelent
-bond: I'm still seeking the enlightenment I pursued in my seclusion, and it still
-  eludes me.
-eyes: Pale Green
-flaw: I have an insatiable desire for carnal pleasures.
-guild: Fiesn
-hair: wavy white hair that's loose around the shoulders
-ideal: Fitness
-name: Romen Uldreiyn
-organizations: []
-partyID: 79
-race: Goliath
 relationships:
 - name: Brahm Delmuth
   type: partymate
@@ -22,7 +23,8 @@ relationships:
   type: partymate
 - name: Zylphan Molostroi
   type: partymate
-skin: Light Tan
+organizations: []
+track: Protection
 spec: Druid
 stats:
   cha: 11
@@ -31,17 +33,15 @@ stats:
   int: 12
   str: 11
   wis: 17
-track: Protection
-trait: I'm a born gambler who can't resist taking a risk for a potential payoff.
-trait1: Self-reliant
-trait2: Superficial
 year: 8
+guild: Fiesn
+partyID: 79
 ---
 # Romen Uldreiyn
 ---
 ### Description
 - 8th year Goliath Druid in Fiesn
-- wavy white hair that's loose around the shoulders, Pale Green eyes, and Light Tan skin
+- wavy white hair that's loose around the shoulders, Blue eyes, and Light Tan skin
 - Is Self-reliant and Superficial, and has Fitness as their ideal
 
 ### Organizations

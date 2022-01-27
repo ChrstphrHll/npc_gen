@@ -1,18 +1,20 @@
 ---
+name: Nicolle Shandalar
+race: Triton
+hair: wavy white hair that's parted to the right
+eyes: Purple
+skin: Sea Green
+ideal: Contributing
+trait1: Upright
+trait2: Opinionated
+trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
+  breaking them.
+flaw: Once someone questions my courage, I never back down no matter how dangerous
+  the situation.
+bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 4/3
   written: 3rd of Moradent
-bond: I hold no greater cause than my service to my people.
-eyes: Violet Red
-flaw: Once someone questions my courage, I never back down no matter how dangerous
-  the situation.
-guild: Elkenval
-hair: wavy white hair that's parted to the right
-ideal: Contributing
-name: Nicolle Shandalar
-organizations: []
-partyID: 82
-race: Triton
 relationships:
 - name: Wulfe Galan
   type: partymate
@@ -20,7 +22,8 @@ relationships:
   type: partymate
 - name: Lichie Halliwell
   type: partymate
-skin: Sea Green
+organizations: []
+track: Assault
 spec: Cleric
 stats:
   cha: 8
@@ -29,18 +32,15 @@ stats:
   int: 10
   str: 11
   wis: 12
-track: Assault
-trait: I'm always picking things up, absently fiddling with them, and sometimes accidentally
-  breaking them.
-trait1: Upright
-trait2: Opinionated
 year: 1
+guild: Elkenval
+partyID: 82
 ---
 # Nicolle Shandalar
 ---
 ### Description
 - 1st year Triton Cleric in Elkenval
-- wavy white hair that's parted to the right, Violet Red eyes, and Sea Green skin
+- wavy white hair that's parted to the right, Purple eyes, and Sea Green skin
 - Is Upright and Opinionated, and has Contributing as their ideal
 
 ### Organizations

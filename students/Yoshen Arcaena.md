@@ -1,17 +1,19 @@
 ---
+name: Yoshen Arcaena
+race: Dragonborn
+hair: long spines
+eyes: Hazel
+skin: black
+ideal: Malice
+trait1: Well-bred
+trait2: Superstitious
+trait: Despite my noble birth, I do not place myself above other folk. We all have
+  the same blood.
+flaw: People who can't take care of themselves get what they deserve.
+bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 6/2
   written: 2nd of Pelent
-bond: The ship is most important- crewmates and captains come and go.
-eyes: Deep Blue
-flaw: People who can't take care of themselves get what they deserve.
-guild: Treskal
-hair: long spines
-ideal: Malice
-name: Yoshen Arcaena
-organizations: []
-partyID: 3
-race: Dragonborn
 relationships:
 - name: Giacomo Edraele
   type: partymate
@@ -19,7 +21,8 @@ relationships:
   type: partymate
 - name: Santaegus Etter
   type: partymate
-skin: black
+organizations: []
+track: Exploration
 spec: Ranger
 stats:
   cha: 15
@@ -28,18 +31,15 @@ stats:
   int: 15
   str: 14
   wis: 13
-track: Exploration
-trait: Despite my noble birth, I do not place myself above other folk. We all have
-  the same blood.
-trait1: Well-bred
-trait2: Superstitious
 year: 2
+guild: Treskal
+partyID: 3
 ---
 # Yoshen Arcaena
 ---
 ### Description
 - 2nd year Dragonborn Ranger in Treskal
-- long spines, Deep Blue eyes, and black skin
+- long spines, Hazel eyes, and black skin
 - Is Well-bred and Superstitious, and has Malice as their ideal
 
 ### Organizations

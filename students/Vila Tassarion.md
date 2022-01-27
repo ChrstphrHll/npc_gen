@@ -1,18 +1,20 @@
 ---
+name: Vila Tassarion
+race: Human
+hair: curly pink hair that's hanging down to their legs
+eyes: Pale Green
+skin: Pale
+ideal: Power
+trait1: Educated
+trait2: Effeminate
+trait: I idolize a particular hero of my faith, and constantly refer to that person's
+  deeds and example.
+flaw: I am dogmatic in my thoughts and philosophy.
+bond: I created a great work for someone, and then found them unworthy to receive
+  it. I'm still looking for someone worthy.
 birthday:
   numeric: 3/24
   written: 24th of Melorent
-bond: I created a great work for someone, and then found them unworthy to receive
-  it. I'm still looking for someone worthy.
-eyes: Pale Brown
-flaw: I am dogmatic in my thoughts and philosophy.
-guild: Elkenval
-hair: curly pink hair that's hanging down to their legs
-ideal: Power
-name: Vila Tassarion
-organizations: []
-partyID: 47
-race: Human
 relationships:
 - name: Julyo Agassi
   type: partymate
@@ -20,7 +22,8 @@ relationships:
   type: partymate
 - name: Mavrek Aolis
   type: partymate
-skin: Pale
+organizations: []
+track: Diplomacy
 spec: Bard
 stats:
   cha: 16
@@ -29,18 +32,15 @@ stats:
   int: 4
   str: 9
   wis: 14
-track: Diplomacy
-trait: I idolize a particular hero of my faith, and constantly refer to that person's
-  deeds and example.
-trait1: Educated
-trait2: Effeminate
 year: 5
+guild: Elkenval
+partyID: 47
 ---
 # Vila Tassarion
 ---
 ### Description
 - 5th year Human Bard in Elkenval
-- curly pink hair that's hanging down to their legs, Pale Brown eyes, and Pale skin
+- curly pink hair that's hanging down to their legs, Pale Green eyes, and Pale skin
 - Is Educated and Effeminate, and has Power as their ideal
 
 ### Organizations

@@ -1,24 +1,26 @@
 ---
+name: Delsenora Strohm
+race: Dragonborn
+hair: short spines
+eyes: Emerald Green
+skin: copper
+ideal: Austerity
+trait1: Unambitious
+trait2: Surprising
+trait: I'm a hopeless romantic, always searching for that "special someone."
+flaw: I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go,
+  I'm surrounded by rivals.
+bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
-bond: I will become the greatest thief that ever lived.
-eyes: Pale Green
-flaw: I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go,
-  I'm surrounded by rivals.
-guild: Fiesn
-hair: short spines
-ideal: Austerity
-name: Delsenora Strohm
-organizations: []
-partyID: 15
-race: Dragonborn
 relationships:
 - name: Surge Fayd
   type: partymate
 - name: Josius Iliphar
   type: partymate
-skin: copper
+organizations: []
+track: Protection
 spec: Druid
 stats:
   cha: 11
@@ -27,17 +29,15 @@ stats:
   int: 13
   str: 7
   wis: 14
-track: Protection
-trait: I'm a hopeless romantic, always searching for that "special someone."
-trait1: Unambitious
-trait2: Surprising
 year: 7
+guild: Fiesn
+partyID: 15
 ---
 # Delsenora Strohm
 ---
 ### Description
 - 7th year Dragonborn Druid in Fiesn
-- short spines, Pale Green eyes, and copper skin
+- short spines, Emerald Green eyes, and copper skin
 - Is Unambitious and Surprising, and has Austerity as their ideal
 
 ### Organizations

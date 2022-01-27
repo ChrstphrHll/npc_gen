@@ -1,24 +1,26 @@
 ---
+name: Nathan Laeroth
+race: Gnome
+hair: frizzy auburn hair that's a tousled bed head
+eyes: Gray
+skin: Pale
+ideal: Fun
+trait1: Sweet
+trait2: Wicked
+trait: I'm a hopeless romantic, always searching for that "special someone."
+flaw: I judge others harshly, and myself even more severely.
+bond: My tools are symbols of my past life, and I carry them so that I will never
+  forget my roots.
 birthday:
   numeric: 2/5
   written: 5th of Corelent
-bond: My tools are symbols of my past life, and I carry them so that I will never
-  forget my roots.
-eyes: Pale Brown
-flaw: I judge others harshly, and myself even more severely.
-guild: Elkenval
-hair: frizzy auburn hair that's a tousled bed head
-ideal: Fun
-name: Nathan Laeroth
-organizations: []
-partyID: 64
-race: Gnome
 relationships:
 - name: Jendrellian Webb
   type: partymate
 - name: Pike Tethir
   type: partymate
-skin: Pale
+organizations: []
+track: Diplomacy
 spec: Artificer
 stats:
   cha: 10
@@ -27,17 +29,15 @@ stats:
   int: 18
   str: 9
   wis: 13
-track: Diplomacy
-trait: I'm a hopeless romantic, always searching for that "special someone."
-trait1: Sweet
-trait2: Wicked
 year: 1
+guild: Elkenval
+partyID: 64
 ---
 # Nathan Laeroth
 ---
 ### Description
 - 1st year Gnome Artificer in Elkenval
-- frizzy auburn hair that's a tousled bed head, Pale Brown eyes, and Pale skin
+- frizzy auburn hair that's a tousled bed head, Gray eyes, and Pale skin
 - Is Sweet and Wicked, and has Fun as their ideal
 
 ### Organizations

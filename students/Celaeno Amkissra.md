@@ -1,23 +1,25 @@
 ---
+name: Celaeno Amkissra
+race: Half-Orc
+hair: curly red hair that's done up in a top knot
+eyes: Blue
+skin: Pale Gray
+ideal: Finesse
+trait1: Persuasive
+trait2: Timid
+trait: I get bored easily. When am I going to get on with my destiny?
+flaw: I have a weakness for the vices of the city, especially hard drink.
+bond: Someone stole my precious instrument, and someday I'll get it back.
 birthday:
   numeric: 6/20
   written: 20th of Pelent
-bond: Someone stole my precious instrument, and someday I'll get it back.
-eyes: Green
-flaw: I have a weakness for the vices of the city, especially hard drink.
-guild: Jettenia
-hair: curly red hair that's done up in a top knot
-ideal: Finesse
-name: Celaeno Amkissra
-organizations: []
-partyID: 80
-race: Half-Orc
 relationships:
 - name: Kembley Ralnor
   type: partymate
 - name: Wenge Usunaar
   type: partymate
-skin: Pale Gray
+organizations: []
+track: Assault
 spec: Artificer
 stats:
   cha: 10
@@ -26,17 +28,15 @@ stats:
   int: 15
   str: 13
   wis: 15
-track: Assault
-trait: I get bored easily. When am I going to get on with my destiny?
-trait1: Persuasive
-trait2: Timid
 year: 8
+guild: Jettenia
+partyID: 80
 ---
 # Celaeno Amkissra
 ---
 ### Description
 - 8th year Half-Orc Artificer in Jettenia
-- curly red hair that's done up in a top knot, Green eyes, and Pale Gray skin
+- curly red hair that's done up in a top knot, Blue eyes, and Pale Gray skin
 - Is Persuasive and Timid, and has Finesse as their ideal
 
 ### Organizations

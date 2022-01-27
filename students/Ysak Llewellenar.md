@@ -1,17 +1,18 @@
 ---
+name: Ysak Llewellenar
+race: Dragonborn
+hair: short spines
+eyes: Orange
+skin: silver
+ideal: Renewal
+trait1: Disciplined
+trait2: Narrow-minded
+trait: I like a job well done, especially if I can convince someone else to do it.
+flaw: Unlocking an ancient mystery is worth the price of a civilization.
+bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 5/1
   written: 1st of Iounent
-bond: I wish my childhood sweetheart had come with me to pursue my destiny.
-eyes: Orange
-flaw: Unlocking an ancient mystery is worth the price of a civilization.
-guild: Jettenia
-hair: short spines
-ideal: Renewal
-name: Ysak Llewellenar
-organizations: []
-partyID: 68
-race: Dragonborn
 relationships:
 - name: Matto Divya
   type: partymate
@@ -21,7 +22,8 @@ relationships:
   type: partymate
 - name: Iasono Ynshael
   type: partymate
-skin: silver
+organizations: []
+track: Assault
 spec: Paladin
 stats:
   cha: 12
@@ -30,11 +32,9 @@ stats:
   int: 13
   str: 16
   wis: 10
-track: Assault
-trait: I like a job well done, especially if I can convince someone else to do it.
-trait1: Disciplined
-trait2: Narrow-minded
 year: 1
+guild: Jettenia
+partyID: 68
 ---
 # Ysak Llewellenar
 ---

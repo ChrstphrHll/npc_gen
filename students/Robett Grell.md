@@ -1,18 +1,19 @@
 ---
+name: Robett Grell
+race: Dwarf
+hair: wavy red hair that's done up in a top knot
+eyes: Gray
+skin: Dark Brown
+ideal: Forgiveness
+trait1: Solitary
+trait2: Impolite
+trait: My language is as foul as an otyugh nest.
+flaw: I can't help but pocket loose coins and other trinkets I come across.
+bond: One day I will return to my guild and prove that I am the greatest artisan of
+  them all.
 birthday:
   numeric: 1/4
   written: 4th of Avanent
-bond: One day I will return to my guild and prove that I am the greatest artisan of
-  them all.
-eyes: Blue
-flaw: I can't help but pocket loose coins and other trinkets I come across.
-guild: Treskal
-hair: wavy red hair that's done up in a top knot
-ideal: Forgiveness
-name: Robett Grell
-organizations: []
-partyID: 46
-race: Dwarf
 relationships:
 - name: Lenn Schimae
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Gifre Edyrm
   type: partymate
-skin: Dark Brown
+organizations: []
+track: Assault
 spec: Monk
 stats:
   cha: 8
@@ -29,17 +31,15 @@ stats:
   int: 14
   str: 10
   wis: 15
-track: Assault
-trait: My language is as foul as an otyugh nest.
-trait1: Solitary
-trait2: Impolite
 year: 6
+guild: Treskal
+partyID: 46
 ---
 # Robett Grell
 ---
 ### Description
 - 6th year Dwarf Monk in Treskal
-- wavy red hair that's done up in a top knot, Blue eyes, and Dark Brown skin
+- wavy red hair that's done up in a top knot, Gray eyes, and Dark Brown skin
 - Is Solitary and Impolite, and has Forgiveness as their ideal
 
 ### Organizations

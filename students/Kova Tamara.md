@@ -1,17 +1,19 @@
 ---
+name: Kova Tamara
+race: Firbolg
+hair: straight black hair that's put up in a large bun
+eyes: Pale Gray
+skin: Pale Brown
+ideal: Competition
+trait1: Dynamic
+trait2: Modern
+trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
+  bundle in my arms.
+flaw: Despite my best efforts, I am unreliable to my friends.
+bond: Should my discovery come to light, it could bring ruin to the world.
 birthday:
   numeric: 4/3
   written: 3rd of Moradent
-bond: Should my discovery come to light, it could bring ruin to the world.
-eyes: Green
-flaw: Despite my best efforts, I am unreliable to my friends.
-guild: Treskal
-hair: straight black hair that's put up in a large bun
-ideal: Competition
-name: Kova Tamara
-organizations: []
-partyID: 69
-race: Firbolg
 relationships:
 - name: Adrjia Lysanthir
   type: partymate
@@ -21,7 +23,8 @@ relationships:
   type: partymate
 - name: Evylen Nese
   type: partymate
-skin: Pale Brown
+organizations: []
+track: Assault
 spec: Fighter
 stats:
   cha: 11
@@ -30,18 +33,15 @@ stats:
   int: 8
   str: 15
   wis: 11
-track: Assault
-trait: I sleep with my back to a wall or tree, with everything I own wrapped in a
-  bundle in my arms.
-trait1: Dynamic
-trait2: Modern
 year: 1
+guild: Treskal
+partyID: 69
 ---
 # Kova Tamara
 ---
 ### Description
 - 1st year Firbolg Fighter in Treskal
-- straight black hair that's put up in a large bun, Green eyes, and Pale Brown skin
+- straight black hair that's put up in a large bun, Pale Gray eyes, and Pale Brown skin
 - Is Dynamic and Modern, and has Competition as their ideal
 
 ### Organizations

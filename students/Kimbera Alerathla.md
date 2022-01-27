@@ -1,18 +1,19 @@
 ---
+name: Kimbera Alerathla
+race: Human
+hair: straight brunette hair that's geled back
+eyes: Pale Green
+skin: Dark Tan
+ideal: Independence
+trait1: Objective
+trait2: Mannered
+trait: I never pass up a friendly wager.
+flaw: I can't resist swindling people who are more powerful than me.
+bond: I come from a noble family, and one day I'll reclaim my lands and title from
+  those who stole them from me.
 birthday:
   numeric: 4/14
   written: 14th of Moradent
-bond: I come from a noble family, and one day I'll reclaim my lands and title from
-  those who stole them from me.
-eyes: Pale Green
-flaw: I can't resist swindling people who are more powerful than me.
-guild: Elkenval
-hair: straight brunette hair that's geled back
-ideal: Independence
-name: Kimbera Alerathla
-organizations: []
-partyID: 91
-race: Human
 relationships:
 - name: Jandar Pleufan
   type: partymate
@@ -22,7 +23,8 @@ relationships:
   type: partymate
 - name: Andrey Rauthomyr
   type: partymate
-skin: Dark Tan
+organizations: []
+track: Assault
 spec: Druid
 stats:
   cha: 10
@@ -31,11 +33,9 @@ stats:
   int: 17
   str: 12
   wis: 15
-track: Assault
-trait: I never pass up a friendly wager.
-trait1: Objective
-trait2: Mannered
 year: 1
+guild: Elkenval
+partyID: 91
 ---
 # Kimbera Alerathla
 ---

@@ -1,23 +1,25 @@
 ---
+name: Joyce Helartha
+race: Halfling
+hair: curly dark red hair that's a buzz cut
+eyes: Blue
+skin: Dark Tan
+ideal: Compassion
+trait1: Innovative
+trait2: Abrasive
+trait: I express affection or contempt in ways that are unfamiliar to others.
+flaw: I'd risk too much to uncover a lost bit of knowledge.
+bond: I was cheated out of my fair share of the profits, and I want to get my due.
 birthday:
   numeric: 2/21
   written: 21st of Corelent
-bond: I was cheated out of my fair share of the profits, and I want to get my due.
-eyes: Pale Blue
-flaw: I'd risk too much to uncover a lost bit of knowledge.
-guild: Treskal
-hair: curly dark red hair that's a buzz cut
-ideal: Compassion
-name: Joyce Helartha
-organizations: []
-partyID: 78
-race: Halfling
 relationships:
 - name: Maia Ashsorrow
   type: partymate
 - name: Hanna Arkhun
   type: partymate
-skin: Dark Tan
+organizations: []
+track: Diplomacy
 spec: Cleric
 stats:
   cha: 11
@@ -26,17 +28,15 @@ stats:
   int: 12
   str: 16
   wis: 18
-track: Diplomacy
-trait: I express affection or contempt in ways that are unfamiliar to others.
-trait1: Innovative
-trait2: Abrasive
 year: 1
+guild: Treskal
+partyID: 78
 ---
 # Joyce Helartha
 ---
 ### Description
 - 1st year Halfling Cleric in Treskal
-- curly dark red hair that's a buzz cut, Pale Blue eyes, and Dark Tan skin
+- curly dark red hair that's a buzz cut, Blue eyes, and Dark Tan skin
 - Is Innovative and Abrasive, and has Compassion as their ideal
 
 ### Organizations

@@ -1,18 +1,19 @@
 ---
+name: Lichie Halliwell
+race: Goliath
+hair: curly black hair that's hanging down to their back
+eyes: Amber
+skin: Fair
+ideal: Patience
+trait1: Accessible
+trait2: Intemperate
+trait: Flattery is my preferred trick for getting what I want.
+flaw: In fact, the world does revolve around me.
+bond: My freedom is my most precious possession. I'll never let anyone take it from
+  me again.
 birthday:
   numeric: 4/11
   written: 11th of Moradent
-bond: My freedom is my most precious possession. I'll never let anyone take it from
-  me again.
-eyes: Pale Brown
-flaw: In fact, the world does revolve around me.
-guild: Elkenval
-hair: curly black hair that's hanging down to their back
-ideal: Patience
-name: Lichie Halliwell
-organizations: []
-partyID: 82
-race: Goliath
 relationships:
 - name: Wulfe Galan
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Nicolle Shandalar
   type: partymate
-skin: Fair
+organizations: []
+track: Assault
 spec: Druid
 stats:
   cha: 13
@@ -29,17 +31,15 @@ stats:
   int: 13
   str: 13
   wis: 15
-track: Assault
-trait: Flattery is my preferred trick for getting what I want.
-trait1: Accessible
-trait2: Intemperate
 year: 1
+guild: Elkenval
+partyID: 82
 ---
 # Lichie Halliwell
 ---
 ### Description
 - 1st year Goliath Druid in Elkenval
-- curly black hair that's hanging down to their back, Pale Brown eyes, and Fair skin
+- curly black hair that's hanging down to their back, Amber eyes, and Fair skin
 - Is Accessible and Intemperate, and has Patience as their ideal
 
 ### Organizations

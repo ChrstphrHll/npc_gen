@@ -1,19 +1,21 @@
 ---
+name: Giacomo Edraele
+race: Human
+hair: curly lighter blonde hair that's kept back by a green headband
+eyes: Brown
+skin: Light Tan
+ideal: Exceptionalism
+trait1: Communicative
+trait2: Ungrateful
+trait: I begin or end my day with small traditional rituals that are unfamiliar to
+  those around me.
+flaw: I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster
+  than I bring them in.
+bond: I fleeced the wrong person and must work to ensure that this individual never
+  crosses paths with me or those I care about.
 birthday:
   numeric: 3/18
   written: 18th of Melorent
-bond: I fleeced the wrong person and must work to ensure that this individual never
-  crosses paths with me or those I care about.
-eyes: Pale Blue
-flaw: I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster
-  than I bring them in.
-guild: Treskal
-hair: curly lighter blonde hair that's kept back by a green headband
-ideal: Exceptionalism
-name: Giacomo Edraele
-organizations: []
-partyID: 3
-race: Human
 relationships:
 - name: Matrell Halafarin
   type: partymate
@@ -21,7 +23,8 @@ relationships:
   type: partymate
 - name: Yoshen Arcaena
   type: partymate
-skin: Light Tan
+organizations: []
+track: Diplomacy
 spec: Druid
 stats:
   cha: 11
@@ -30,18 +33,15 @@ stats:
   int: 13
   str: 10
   wis: 14
-track: Diplomacy
-trait: I begin or end my day with small traditional rituals that are unfamiliar to
-  those around me.
-trait1: Communicative
-trait2: Ungrateful
 year: 2
+guild: Treskal
+partyID: 3
 ---
 # Giacomo Edraele
 ---
 ### Description
 - 2nd year Human Druid in Treskal
-- curly lighter blonde hair that's kept back by a green headband, Pale Blue eyes, and Light Tan skin
+- curly lighter blonde hair that's kept back by a green headband, Brown eyes, and Light Tan skin
 - Is Communicative and Ungrateful, and has Exceptionalism as their ideal
 
 ### Organizations

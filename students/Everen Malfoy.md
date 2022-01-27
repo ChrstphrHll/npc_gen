@@ -1,23 +1,25 @@
 ---
+name: Everen Malfoy
+race: Halfling
+hair: curly dirty blonde hair that's hanging down to their legs
+eyes: Pale Gray
+skin: Dark Brown
+ideal: Gratitude
+trait1: Scholarly
+trait2: Subjective
+trait: Whenever I come to a new place, I collect local rumors and spread gossip.
+flaw: I'll do anything to get my hands on something rare or priceless.
+bond: I owe my life to the priest who took me in when my parents died.
 birthday:
   numeric: 4/1
   written: 1st of Moradent
-bond: I owe my life to the priest who took me in when my parents died.
-eyes: Blue
-flaw: I'll do anything to get my hands on something rare or priceless.
-guild: Fiesn
-hair: curly dirty blonde hair that's hanging down to their legs
-ideal: Gratitude
-name: Everen Malfoy
-organizations: []
-partyID: 61
-race: Halfling
 relationships:
 - name: Iaen Dannyd
   type: partymate
 - name: Taewen Llamryl
   type: partymate
-skin: Dark Brown
+organizations: []
+track: Exploration
 spec: Fighter
 stats:
   cha: 8
@@ -26,17 +28,15 @@ stats:
   int: 10
   str: 8
   wis: 12
-track: Exploration
-trait: Whenever I come to a new place, I collect local rumors and spread gossip.
-trait1: Scholarly
-trait2: Subjective
 year: 2
+guild: Fiesn
+partyID: 61
 ---
 # Everen Malfoy
 ---
 ### Description
 - 2nd year Halfling Fighter in Fiesn
-- curly dirty blonde hair that's hanging down to their legs, Blue eyes, and Dark Brown skin
+- curly dirty blonde hair that's hanging down to their legs, Pale Gray eyes, and Dark Brown skin
 - Is Scholarly and Subjective, and has Gratitude as their ideal
 
 ### Organizations

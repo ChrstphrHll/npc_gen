@@ -1,21 +1,23 @@
 ---
+name: Valia Esyae
+race: Elf
+hair: straight auburn hair that's parted to the left
+eyes: Gray
+skin: Tan
+ideal: Lead by example
+trait1: Captivating
+trait2: Unsentimental
+trait: I get bitter if I'm not the center of attention.
+flaw: I have trouble trusting in my allies.
+bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 1/6
   written: 6th of Avanent
-bond: I fight for those who cannot fight for themselves.
-eyes: Green
-flaw: I have trouble trusting in my allies.
-guild: Alderden
-hair: straight auburn hair that's parted to the left
-ideal: Lead by example
-name: Valia Esyae
-organizations: []
-partyID: 21
-race: Elf
 relationships:
 - name: Volkos Halaema
   type: partymate
-skin: Tan
+organizations: []
+track: Assault
 spec: Monk
 stats:
   cha: 13
@@ -24,17 +26,15 @@ stats:
   int: 12
   str: 13
   wis: 11
-track: Assault
-trait: I get bitter if I'm not the center of attention.
-trait1: Captivating
-trait2: Unsentimental
 year: 4
+guild: Alderden
+partyID: 21
 ---
 # Valia Esyae
 ---
 ### Description
 - 4th year Elf Monk in Alderden
-- straight auburn hair that's parted to the left, Green eyes, and Tan skin
+- straight auburn hair that's parted to the left, Gray eyes, and Tan skin
 - Is Captivating and Unsentimental, and has Lead by example as their ideal
 
 ### Organizations

@@ -1,18 +1,19 @@
 ---
+name: Felgie Eldar
+race: Goliath
+hair: wavy dirty blonde hair that's put back in a long pony tail
+eyes: Amber
+skin: Light Tan
+ideal: Spiritualism
+trait1: Dreamer
+trait2: Profligate
+trait: I have a strong code of honor or sense of propriety that others don't comprehend.
+flaw: People who can't take care of themselves get what they deserve.
+bond: Nothing is more important than the other members of my hermitage, order, or
+  association.
 birthday:
   numeric: 4/12
   written: 12th of Moradent
-bond: Nothing is more important than the other members of my hermitage, order, or
-  association.
-eyes: Gray
-flaw: People who can't take care of themselves get what they deserve.
-guild: Fiesn
-hair: wavy dirty blonde hair that's put back in a long pony tail
-ideal: Spiritualism
-name: Felgie Eldar
-organizations: []
-partyID: 60
-race: Goliath
 relationships:
 - name: Selina Bellas
   type: partymate
@@ -20,7 +21,8 @@ relationships:
   type: partymate
 - name: Brianna Kosunten
   type: partymate
-skin: Light Tan
+organizations: []
+track: Protection
 spec: Druid
 stats:
   cha: 13
@@ -29,17 +31,15 @@ stats:
   int: 16
   str: 13
   wis: 15
-track: Protection
-trait: I have a strong code of honor or sense of propriety that others don't comprehend.
-trait1: Dreamer
-trait2: Profligate
 year: 2
+guild: Fiesn
+partyID: 60
 ---
 # Felgie Eldar
 ---
 ### Description
 - 2nd year Goliath Druid in Fiesn
-- wavy dirty blonde hair that's put back in a long pony tail, Gray eyes, and Light Tan skin
+- wavy dirty blonde hair that's put back in a long pony tail, Amber eyes, and Light Tan skin
 - Is Dreamer and Profligate, and has Spiritualism as their ideal
 
 ### Organizations
