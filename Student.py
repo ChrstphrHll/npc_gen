@@ -61,6 +61,13 @@ name: {self.name}
 stats: {stats}
 ```"""
         return stat_block
+    
+    def set_tags(self):
+        tags = []
+        tags.append(self.race)
+        tags.append(self.spec)
+        tags.append(self.track)
+        tags.append(self.year)
 
     def set_partyID(self, partyID):
         self.partyID = partyID

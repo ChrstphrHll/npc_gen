@@ -48,13 +48,20 @@ class Person:
             self.relationships = []
         if not self.set_if_preset("organizations", presets):
             self.organizations = []
+
+        #Set tags
+        self.tags = self.set_tags()
     
     def set_if_preset(self, element, presets):
             if element in presets.keys():
                 setattr(self, element, presets[element])
                 return True
             return False
-    
+
+    def set_tags(self):
+        tags = [self.race]
+        self.tags = tags
+
     def get_description(self):
         current_character_description = ""
         for property, value in vars(self).items():
