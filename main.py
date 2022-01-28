@@ -27,4 +27,10 @@ def update_eyes(person):
     person.eyes = gen_looks.get_eyes(person.race)
 
 
-update_roster(read.load_roster(), [update_eyes])
+# update_roster(read.load_roster(), [update_eyes])
+
+if __name__ == "__main__":
+    for _ in range(1000):
+        person = Person()
+        if 3:
+            print(person.name)

@@ -46,7 +46,11 @@ class Person:
 
         #Generate Origin
         if not self.set_if_preset("origin", presets):
-            self.origin = ori_gen(self.race)
+            self.origin = ori_gen.get_origin(self.race)
+
+        #Set relevance
+        if not self.set_if_preset("relevance", presets):
+            self.relvance = 0
 
         #Initialize placeholders
         if not self.set_if_preset("relationships", presets):
@@ -103,7 +107,7 @@ class Person:
         if path_input == -1:
             path = self.get_file_path()
         else:
-            path = path_input
+            path = f"{path_input}/{self.name}.md"
 
         with open(path, "w") as f:
             f.write("---\n")
