@@ -14,6 +14,8 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 5/20
   written: 20th of Iounent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Cirvlon Elpaerae
   type: partymate

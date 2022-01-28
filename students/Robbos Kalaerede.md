@@ -1,7 +1,7 @@
 ---
 name: Robbos Kalaerede
 race: Half-Elf
-hair: wavy lighter blonde hair that's parted to the left
+hair: short wavy white hair that's plain
 eyes: Pale Green
 skin: Tan
 ideal: Spontaneity
@@ -14,6 +14,8 @@ bond: I'm still seeking the enlightenment I pursued in my seclusion, and it stil
 birthday:
   numeric: 6/17
   written: 17th of Pelent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Tadita Edraele
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 4th year Half-Elf Artificer in Treskal
-- wavy lighter blonde hair that's parted to the left, Pale Green eyes, and Tan skin
+- short wavy white hair that's plain, Pale Green eyes, and Tan skin
 - Is Graceful and Driving, and has Spontaneity as their ideal
 
 ### Organizations

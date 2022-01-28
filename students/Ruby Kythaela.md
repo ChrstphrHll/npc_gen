@@ -1,7 +1,7 @@
 ---
 name: Ruby Kythaela
 race: Triton
-hair: wavy grey hair that's put back in a long pony tail
+hair: shoulder length curly violet hair that's braided
 eyes: Amber
 skin: Spring Green
 ideal: Love
@@ -14,6 +14,8 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 7/32
   written: 32nd of Korent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Eadyth Lora
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 2nd year Triton Fighter in Jettenia
-- wavy grey hair that's put back in a long pony tail, Amber eyes, and Spring Green skin
+- shoulder length curly violet hair that's braided, Amber eyes, and Spring Green skin
 - Is Paternalistic and Pleasing, and has Love as their ideal
 
 ### Organizations

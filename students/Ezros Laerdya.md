@@ -1,7 +1,7 @@
 ---
 name: Ezros Laerdya
 race: Elf
-hair: wavy red hair that's a tousled bed head
+hair: shoulder length wavy platinum hair that's plain
 eyes: Pale Brown
 skin: Light
 ideal: Fame
@@ -13,6 +13,8 @@ bond: It is my duty to protect my students.
 birthday:
   numeric: 2/19
   written: 19th of Corelent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Shinare Bersa
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 1st year Elf Cleric in Fiesn
-- wavy red hair that's a tousled bed head, Pale Brown eyes, and Light skin
+- shoulder length wavy platinum hair that's plain, Pale Brown eyes, and Light skin
 - Is Loving and Monstrous, and has Fame as their ideal
 
 ### Organizations

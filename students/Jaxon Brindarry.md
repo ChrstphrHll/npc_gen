@@ -1,7 +1,7 @@
 ---
 name: Jaxon Brindarry
 race: Elf
-hair: curly turquoise hair that's done up in a top knot
+hair: shoulder length frizzy white hair that's plain
 eyes: Blue
 skin: Brown
 ideal: Wisdom
@@ -14,6 +14,8 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 4/17
   written: 17th of Moradent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Railyn Retenia
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 3rd year Elf Artificer in Jettenia
-- curly turquoise hair that's done up in a top knot, Blue eyes, and Brown skin
+- shoulder length frizzy white hair that's plain, Blue eyes, and Brown skin
 - Is Dreamy and Naive, and has Wisdom as their ideal
 
 ### Organizations

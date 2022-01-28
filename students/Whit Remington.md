@@ -1,7 +1,7 @@
 ---
 name: Whit Remington
 race: Triton
-hair: straight brunette hair that's braided with green ribbon (long)
+hair: shoulder length wavy dirty blonde hair that's plain
 eyes: Pale Blue
 skin: Emerald Green
 ideal: Greed
@@ -14,6 +14,8 @@ bond: I escaped my life of poverty by robbing an important person, and I'm wante
 birthday:
   numeric: 7/23
   written: 23rd of Korent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Hazel Traeliorn
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 1st year Triton Wizard in Burk
-- straight brunette hair that's braided with green ribbon (long), Pale Blue eyes, and Emerald Green skin
+- shoulder length wavy dirty blonde hair that's plain, Pale Blue eyes, and Emerald Green skin
 - Is Risk-taking and Irresponsible, and has Greed as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Eliana Saevel
 race: Human
-hair: straight strawberry blond hair that's loose around the shoulders
+hair: short straight lighter blonde hair that's plain
 eyes: Pale Blue
 skin: Pale
 ideal: Caring
@@ -14,6 +14,8 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 6/27
   written: 27th of Pelent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Nycola Eroan
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Human Artificer in Elkenval
-- straight strawberry blond hair that's loose around the shoulders, Pale Blue eyes, and Pale skin
+- short straight lighter blonde hair that's plain, Pale Blue eyes, and Pale skin
 - Is Iconoclastic and Tasteless, and has Caring as their ideal
 
 ### Organizations

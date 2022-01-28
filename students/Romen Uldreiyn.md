@@ -1,7 +1,7 @@
 ---
 name: Romen Uldreiyn
 race: Goliath
-hair: wavy white hair that's loose around the shoulders
+hair: shoulder length curly lighter blonde hair that's braided
 eyes: Pale Blue
 skin: Light Tan
 ideal: Fitness
@@ -14,6 +14,8 @@ bond: I'm still seeking the enlightenment I pursued in my seclusion, and it stil
 birthday:
   numeric: 6/17
   written: 17th of Pelent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Brahm Delmuth
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 8th year Goliath Druid in Fiesn
-- wavy white hair that's loose around the shoulders, Pale Blue eyes, and Light Tan skin
+- shoulder length curly lighter blonde hair that's braided, Pale Blue eyes, and Light Tan skin
 - Is Self-reliant and Superficial, and has Fitness as their ideal
 
 ### Organizations

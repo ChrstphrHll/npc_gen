@@ -1,7 +1,7 @@
 ---
 name: Lyonus Ioelena
 race: Dragonborn
-hair: long spines
+hair: 2 straight horns
 eyes: Yellow
 skin: silver
 ideal: Wealth
@@ -14,6 +14,8 @@ bond: It is my duty to provide children to sustain my tribe.
 birthday:
   numeric: 2/18
   written: 18th of Corelent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Valygar Lyklor
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 2nd year Dragonborn Fighter in Burk
-- long spines, Yellow eyes, and silver skin
+- 2 straight horns, Yellow eyes, and silver skin
 - Is Courteous and Repressed, and has Wealth as their ideal
 
 ### Organizations

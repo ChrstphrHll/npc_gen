@@ -1,7 +1,7 @@
 ---
 name: Maarika Oncith
 race: Dragonborn
-hair: 4 curled horns
+hair: 5 curled horns
 eyes: Deep Blue
 skin: red
 ideal: Community
@@ -13,6 +13,8 @@ bond: I work to preserve a library, university, scriptorium, or monastery.
 birthday:
   numeric: 1/30
   written: 30th of Avanent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Braddeus Jacaranda
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 3rd year Dragonborn Artificer in Fiesn
-- 4 curled horns, Deep Blue eyes, and red skin
+- 5 curled horns, Deep Blue eyes, and red skin
 - Is Tractable and Naughty, and has Community as their ideal
 
 ### Organizations

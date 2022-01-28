@@ -1,7 +1,7 @@
 ---
 name: Aryana Ahrendue
 race: Dragonborn
-hair: long spines
+hair: short spines
 eyes: Brown
 skin: white
 ideal: Connection
@@ -13,6 +13,8 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 1/30
   written: 30th of Avanent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Audree Dixon
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 1st year Dragonborn Barbarian in Alderden
-- long spines, Brown eyes, and white skin
+- short spines, Brown eyes, and white skin
 - Is Youthful and Money-minded, and has Connection as their ideal
 
 ### Organizations

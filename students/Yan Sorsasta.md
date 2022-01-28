@@ -1,7 +1,7 @@
 ---
 name: Yan Sorsasta
 race: Dwarf
-hair: wavy auburn hair that's loose around the shoulders
+hair: long curly blonde hair that's plain
 eyes: Brown
 skin: Pale
 ideal: Reciprocity
@@ -13,6 +13,8 @@ bond: In a harbor town, I have a paramour whose eyes nearly stole me from the se
 birthday:
   numeric: 7/33
   written: 33rd of Korent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Abryia Rubrae
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 2nd year Dwarf Barbarian in Burk
-- wavy auburn hair that's loose around the shoulders, Brown eyes, and Pale skin
+- long curly blonde hair that's plain, Brown eyes, and Pale skin
 - Is Adventurous and Pretentious, and has Reciprocity as their ideal
 
 ### Organizations

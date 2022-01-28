@@ -1,7 +1,7 @@
 ---
 name: Adrjia Lysanthir
 race: Triton
-hair: straight grey hair that's kept back by a pink headband
+hair: long straight strawberry blond hair that's plain
 eyes: Pale Blue
 skin: Aqua
 ideal: Compassion
@@ -15,6 +15,8 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 4/15
   written: 15th of Moradent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Kova Tamara
   type: partymate
@@ -48,7 +50,7 @@ tags:
 ---
 ### Description
 - 1st year Triton Ranger in Treskal
-- straight grey hair that's kept back by a pink headband, Pale Blue eyes, and Aqua skin
+- long straight strawberry blond hair that's plain, Pale Blue eyes, and Aqua skin
 - Is Invisible and Circumspect, and has Compassion as their ideal
 
 ### Organizations

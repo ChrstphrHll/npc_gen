@@ -1,7 +1,7 @@
 ---
 name: Jerrick Yarbrough
 race: Gnome
-hair: wavy turquoise hair that's parted to the left
+hair: long wavy lighter blonde hair that's braided
 eyes: Brown
 skin: Tan
 ideal: Logic
@@ -15,6 +15,8 @@ bond: My freedom is my most precious possession. I'll never let anyone take it f
 birthday:
   numeric: 5/13
   written: 13th of Iounent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Skalanis Kobayashi
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 6th year Gnome Bard in Jettenia
-- wavy turquoise hair that's parted to the left, Brown eyes, and Tan skin
+- long wavy lighter blonde hair that's braided, Brown eyes, and Tan skin
 - Is Admirable and Cantankerous, and has Logic as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Lea Nuvian
 race: Triton
-hair: straight dark red hair that's hanging down to their legs
+hair: shoulder length wavy auburn hair that's wild
 eyes: Blue
 skin: Pale Blue
 ideal: Cruelty
@@ -14,6 +14,8 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 8/19
   written: 19th of Ravenent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Audree Dixon
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Triton Rouge in Alderden
-- straight dark red hair that's hanging down to their legs, Blue eyes, and Pale Blue skin
+- shoulder length wavy auburn hair that's wild, Blue eyes, and Pale Blue skin
 - Is Ascetic and Disputatious, and has Cruelty as their ideal
 
 ### Organizations

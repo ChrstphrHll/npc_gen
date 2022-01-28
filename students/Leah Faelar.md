@@ -1,7 +1,7 @@
 ---
 name: Leah Faelar
 race: Human
-hair: wavy auburn hair that's braided with blue ribbon (med)
+hair: shoulder length straight blonde hair that's well kept
 eyes: Green
 skin: Light Tan
 ideal: Justice
@@ -14,6 +14,8 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 4/7
   written: 7th of Moradent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Branus Shadegrove
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Human Bard in Treskal
-- wavy auburn hair that's braided with blue ribbon (med), Green eyes, and Light Tan skin
+- shoulder length straight blonde hair that's well kept, Green eyes, and Light Tan skin
 - Is Intense and Assertive, and has Justice as their ideal
 
 ### Organizations

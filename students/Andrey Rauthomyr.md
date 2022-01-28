@@ -1,7 +1,7 @@
 ---
 name: Andrey Rauthomyr
 race: Gnome
-hair: wavy red hair that's braided with blue ribbon (med)
+hair: short curly blonde hair that's wild
 eyes: Hazel
 skin: Dark Tan
 ideal: Compassion
@@ -13,6 +13,8 @@ bond: I worked the land, I love the land, and I will protect the land.
 birthday:
   numeric: 5/6
   written: 6th of Iounent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Jandar Pleufan
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Artificer in Elkenval
-- wavy red hair that's braided with blue ribbon (med), Hazel eyes, and Dark Tan skin
+- short curly blonde hair that's wild, Hazel eyes, and Dark Tan skin
 - Is Trusting and Unrealistic, and has Compassion as their ideal
 
 ### Organizations

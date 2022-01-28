@@ -1,7 +1,7 @@
 ---
 name: Ryan Ebersol
 race: Dragonborn
-hair: frills
+hair: short spines
 eyes: Emerald Green
 skin: green
 ideal: Intuition
@@ -13,6 +13,8 @@ bond: My isolation gave me great insight into a great evil that only I can destr
 birthday:
   numeric: 4/8
   written: 8th of Moradent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Pinna Vanius
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 7th year Dragonborn Sorcerer in Fiesn
-- frills, Emerald Green eyes, and green skin
+- short spines, Emerald Green eyes, and green skin
 - Is Plain and Immature, and has Intuition as their ideal
 
 ### Organizations

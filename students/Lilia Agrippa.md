@@ -1,7 +1,7 @@
 ---
 name: Lilia Agrippa
 race: Tiefling
-hair: wavy lighter blonde hair that's a tousled bed head
+hair: shoulder length straight strawberry blond hair that's well kept
 eyes: Gray
 skin: Purple
 ideal: Appreciation
@@ -14,6 +14,8 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 8/13
   written: 13th of Ravenent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Maarika Oncith
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 3rd year Tiefling Barbarian in Fiesn
-- wavy lighter blonde hair that's a tousled bed head, Gray eyes, and Purple skin
+- shoulder length straight strawberry blond hair that's well kept, Gray eyes, and Purple skin
 - Is Efficient and Lackadaisical, and has Appreciation as their ideal
 
 ### Organizations

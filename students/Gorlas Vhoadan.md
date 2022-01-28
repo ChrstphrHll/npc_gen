@@ -1,7 +1,7 @@
 ---
 name: Gorlas Vhoadan
 race: Gnome
-hair: frizzy platinum hair that's a tousled bed head
+hair: long straight dirty blonde hair that's plain
 eyes: Pale Gray
 skin: Fair
 ideal: Conformity
@@ -14,6 +14,8 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Sulivan Wylchyr
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 2nd year Gnome Barbarian in Elkenval
-- frizzy platinum hair that's a tousled bed head, Pale Gray eyes, and Fair skin
+- long straight dirty blonde hair that's plain, Pale Gray eyes, and Fair skin
 - Is Placid and Animated, and has Conformity as their ideal
 
 ### Organizations

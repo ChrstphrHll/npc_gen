@@ -1,7 +1,7 @@
 ---
 name: Braidyn Kemetra
 race: Dwarf
-hair: wavy blonde hair that's braided with blue ribbon (long)
+hair: long straight lighter blonde hair that's plain
 eyes: Pale Green
 skin: Light
 ideal: Fitness
@@ -13,6 +13,8 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 3/2
   written: 2nd of Melorent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Grassa Ashbluff
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 7th year Dwarf Monk in Fiesn
-- wavy blonde hair that's braided with blue ribbon (long), Pale Green eyes, and Light skin
+- long straight lighter blonde hair that's plain, Pale Green eyes, and Light skin
 - Is Soft and Subjective, and has Fitness as their ideal
 
 ### Organizations

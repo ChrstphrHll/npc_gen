@@ -1,7 +1,7 @@
 ---
 name: Celaeno Amkissra
 race: Half-Orc
-hair: curly red hair that's done up in a top knot
+hair: short wavy auburn hair that's braided
 eyes: Brown
 skin: Pale Gray
 ideal: Finesse
@@ -13,6 +13,8 @@ bond: Someone stole my precious instrument, and someday I'll get it back.
 birthday:
   numeric: 6/20
   written: 20th of Pelent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Kembley Ralnor
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 8th year Half-Orc Artificer in Jettenia
-- curly red hair that's done up in a top knot, Brown eyes, and Pale Gray skin
+- short wavy auburn hair that's braided, Brown eyes, and Pale Gray skin
 - Is Persuasive and Timid, and has Finesse as their ideal
 
 ### Organizations

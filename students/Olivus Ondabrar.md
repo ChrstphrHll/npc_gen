@@ -1,7 +1,7 @@
 ---
 name: Olivus Ondabrar
 race: Halfling
-hair: curly red hair that's hanging down to their legs
+hair: shoulder length wavy blue hair that's messy
 eyes: Hazel
 skin: Tan
 ideal: Wisdom
@@ -14,6 +14,8 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Nom Remington
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 3rd year Halfling Wizard in Fiesn
-- curly red hair that's hanging down to their legs, Hazel eyes, and Tan skin
+- shoulder length wavy blue hair that's messy, Hazel eyes, and Tan skin
 - Is Prudent and Dirty, and has Wisdom as their ideal
 
 ### Organizations

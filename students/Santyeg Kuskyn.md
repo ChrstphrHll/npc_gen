@@ -1,7 +1,7 @@
 ---
 name: Santyeg Kuskyn
 race: Elf
-hair: straight dirty blonde hair that's loose around the shoulders
+hair: shoulder length curly auburn hair that's put up
 eyes: Hazel
 skin: Brown
 ideal: Humane
@@ -15,6 +15,8 @@ bond: My isolation gave me great insight into a great evil that only I can destr
 birthday:
   numeric: 2/4
   written: 4th of Corelent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Malchor Tenyajn
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 1st year Elf Rouge in Fiesn
-- straight dirty blonde hair that's loose around the shoulders, Hazel eyes, and Brown skin
+- shoulder length curly auburn hair that's put up, Hazel eyes, and Brown skin
 - Is Self-critical and Cute, and has Humane as their ideal
 
 ### Organizations

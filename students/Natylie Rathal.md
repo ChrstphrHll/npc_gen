@@ -1,7 +1,7 @@
 ---
 name: Natylie Rathal
 race: Elf
-hair: wavy strawberry blond hair that's hanging down to their legs
+hair: short straight white hair that's plain
 eyes: Pale Gray
 skin: Tan
 ideal: Speed
@@ -15,6 +15,8 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 8/14
   written: 14th of Ravenent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Kloya Kershaw
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 5th year Elf Barbarian in Jettenia
-- wavy strawberry blond hair that's hanging down to their legs, Pale Gray eyes, and Tan skin
+- short straight white hair that's plain, Pale Gray eyes, and Tan skin
 - Is Pleasant and Emotional, and has Speed as their ideal
 
 ### Organizations

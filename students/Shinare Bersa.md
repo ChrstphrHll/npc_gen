@@ -1,7 +1,7 @@
 ---
 name: Shinare Bersa
 race: Tiefling
-hair: curly platinum hair that's put back in a long pony tail
+hair: short curly grey hair that's plain
 eyes: Spring Green
 skin: Violet Red
 ideal: Uncaring
@@ -14,6 +14,8 @@ bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 1/23
   written: 23rd of Avanent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Ezros Laerdya
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Tiefling Ranger in Fiesn
-- curly platinum hair that's put back in a long pony tail, Spring Green eyes, and Violet Red skin
+- short curly grey hair that's plain, Spring Green eyes, and Violet Red skin
 - Is Admirable and Invisible, and has Uncaring as their ideal
 
 ### Organizations

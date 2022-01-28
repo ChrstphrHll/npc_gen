@@ -1,7 +1,7 @@
 ---
 name: Handyr Letryal
 race: Dragonborn
-hair: frills
+hair: long spines
 eyes: Pale Brown
 skin: red
 ideal: Order
@@ -13,6 +13,8 @@ bond: No one else should have to endure the hardships I've been through.
 birthday:
   numeric: 3/6
   written: 6th of Melorent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Halya Jian
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 1st year Dragonborn Artificer in Fiesn
-- frills, Pale Brown eyes, and red skin
+- long spines, Pale Brown eyes, and red skin
 - Is Well-rounded and Smooth, and has Order as their ideal
 
 ### Organizations

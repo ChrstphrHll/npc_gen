@@ -1,7 +1,7 @@
 ---
 name: Delsenora Strohm
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Sea Green
 skin: copper
 ideal: Austerity
@@ -14,6 +14,8 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Surge Fayd
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 7th year Dragonborn Druid in Fiesn
-- short spines, Sea Green eyes, and copper skin
+- frills, Sea Green eyes, and copper skin
 - Is Unambitious and Surprising, and has Austerity as their ideal
 
 ### Organizations

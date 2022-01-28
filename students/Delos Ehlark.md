@@ -1,7 +1,7 @@
 ---
 name: Delos Ehlark
 race: Dragonborn
-hair: frills
+hair: long spines
 eyes: Deep Blue
 skin: silver
 ideal: Family
@@ -13,6 +13,8 @@ bond: Everything I do is for the common people.
 birthday:
   numeric: 2/21
   written: 21st of Corelent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Pinna Vanius
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 7th year Dragonborn Ranger in Fiesn
-- frills, Deep Blue eyes, and silver skin
+- long spines, Deep Blue eyes, and silver skin
 - Is Precise and Condemnatory, and has Family as their ideal
 
 ### Organizations

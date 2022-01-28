@@ -1,7 +1,7 @@
 ---
 name: Kloya Kershaw
 race: Gnome
-hair: straight brunette hair that's a buzz cut
+hair: long wavy dirty blonde hair that's put up
 eyes: Amber
 skin: Pale
 ideal: Involvement
@@ -13,6 +13,8 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 7/27
   written: 27th of Korent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Gavyn Sadalymn
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 5th year Gnome Bard in Jettenia
-- straight brunette hair that's a buzz cut, Amber eyes, and Pale skin
+- long wavy dirty blonde hair that's put up, Amber eyes, and Pale skin
 - Is Heroic and Unconvincing, and has Involvement as their ideal
 
 ### Organizations

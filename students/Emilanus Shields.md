@@ -1,7 +1,7 @@
 ---
 name: Emilanus Shields
 race: Warforged
-hair: smooth bronze guilded with brass
+hair: smooth brass guilded with copper
 eyes: Spring Green
 skin: bronze
 ideal: Speed
@@ -16,6 +16,8 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 5/3
   written: 3rd of Iounent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Jandar Pleufan
   type: partymate
@@ -49,7 +51,7 @@ tags:
 ---
 ### Description
 - 1st year Warforged Paladin in Elkenval
-- smooth bronze guilded with brass, Spring Green eyes, and bronze skin
+- smooth brass guilded with copper, Spring Green eyes, and bronze skin
 - Is Idealistic and Dirty, and has Speed as their ideal
 
 ### Organizations

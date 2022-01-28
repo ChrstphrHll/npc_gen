@@ -1,7 +1,7 @@
 ---
 name: Scarletta Elora
 race: Gnome
-hair: straight auburn hair that's braided with violet ribbon (long)
+hair: long wavy black hair that's put up
 eyes: Hazel
 skin: Dark Tan
 ideal: Patience
@@ -14,6 +14,8 @@ bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 1/25
   written: 25th of Avanent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Terek Nushala
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 2nd year Gnome Cleric in Fiesn
-- straight auburn hair that's braided with violet ribbon (long), Hazel eyes, and Dark Tan skin
+- long wavy black hair that's put up, Hazel eyes, and Dark Tan skin
 - Is Cooperative and Devious, and has Patience as their ideal
 
 ### Organizations

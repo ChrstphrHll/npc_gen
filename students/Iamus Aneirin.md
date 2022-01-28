@@ -1,7 +1,7 @@
 ---
 name: Iamus Aneirin
 race: Dwarf
-hair: straight turquoise hair that's parted to the left
+hair: short frizzy lighter blonde hair that's plain
 eyes: Pale Gray
 skin: Light
 ideal: Harmony
@@ -13,6 +13,8 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Nebulon Faelyn
   type: partymate
@@ -40,7 +42,7 @@ tags:
 ---
 ### Description
 - 1st year Dwarf Paladin in Treskal
-- straight turquoise hair that's parted to the left, Pale Gray eyes, and Light skin
+- short frizzy lighter blonde hair that's plain, Pale Gray eyes, and Light skin
 - Is Dynamic and Obvious, and has Harmony as their ideal
 
 ### Organizations

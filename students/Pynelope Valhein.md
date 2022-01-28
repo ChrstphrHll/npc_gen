@@ -13,6 +13,8 @@ bond: I work to preserve a library, university, scriptorium, or monastery.
 birthday:
   numeric: 8/10
   written: 10th of Ravenent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Brinna Muerlara
   type: partymate

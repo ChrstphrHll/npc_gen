@@ -1,7 +1,7 @@
 ---
 name: Grassa Ashbluff
 race: Dwarf
-hair: wavy dirty blonde hair that's parted to the right
+hair: short wavy brunette hair that's plain
 eyes: Gray
 skin: Light
 ideal: Professionalism
@@ -15,6 +15,8 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Braidyn Kemetra
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 7th year Dwarf Artificer in Fiesn
-- wavy dirty blonde hair that's parted to the right, Gray eyes, and Light skin
+- short wavy brunette hair that's plain, Gray eyes, and Light skin
 - Is Thrilling and Arrogant, and has Professionalism as their ideal
 
 ### Organizations

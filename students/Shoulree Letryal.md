@@ -1,7 +1,7 @@
 ---
 name: Shoulree Letryal
 race: Tiefling
-hair: wavy violet hair that's parted to the side, slightly obscuring an eye
+hair: long straight auburn hair that's braided
 eyes: Emerald Green
 skin: Olive
 ideal: Self-Fulfillment
@@ -15,6 +15,8 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 7/16
   written: 16th of Korent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Alonnos Xanotter
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 1st year Tiefling Monk in Elkenval
-- wavy violet hair that's parted to the side, slightly obscuring an eye, Emerald Green eyes, and Olive skin
+- long straight auburn hair that's braided, Emerald Green eyes, and Olive skin
 - Is Insistent and Solemn, and has Self-Fulfillment as their ideal
 
 ### Organizations

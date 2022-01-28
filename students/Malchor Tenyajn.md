@@ -1,7 +1,7 @@
 ---
 name: Malchor Tenyajn
 race: Genasi
-hair: curly red hair that's braided with turquoise ribbon (long)
+hair: short wavy dark red hair that's plain
 eyes: Amber
 skin: water
 ideal: Humanity
@@ -14,6 +14,8 @@ bond: I'll always remember my first ship.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Santyeg Kuskyn
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Genasi Rouge in Fiesn
-- curly red hair that's braided with turquoise ribbon (long), Amber eyes, and water skin
+- short wavy dark red hair that's plain, Amber eyes, and water skin
 - Is Affable and Regimental, and has Humanity as their ideal
 
 ### Organizations

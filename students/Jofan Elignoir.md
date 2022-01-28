@@ -1,7 +1,7 @@
 ---
 name: Jofan Elignoir
 race: Triton
-hair: frizzy strawberry blond hair that's done up in a top knot
+hair: short wavy dark red hair that's well kept
 eyes: Hazel
 skin: Pale Gray
 ideal: Pride
@@ -14,6 +14,8 @@ bond: I will someday get revenge on the corrupt temple hierarchy who branded me 
 birthday:
   numeric: 3/17
   written: 17th of Melorent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Cam Lazziar
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 7th year Triton Ranger in Alderden
-- frizzy strawberry blond hair that's done up in a top knot, Hazel eyes, and Pale Gray skin
+- short wavy dark red hair that's well kept, Hazel eyes, and Pale Gray skin
 - Is Modest and Snobbish, and has Pride as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Ilksal Immianthe
 race: Triton
-hair: curly brunette hair that's put up in a large bun
+hair: short straight blue hair that's messy
 eyes: Blue
 skin: Pale Green
 ideal: Spiritualism
@@ -14,6 +14,8 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 5/22
   written: 22nd of Iounent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Den Ualair
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 3rd year Triton Barbarian in Treskal
-- curly brunette hair that's put up in a large bun, Blue eyes, and Pale Green skin
+- short straight blue hair that's messy, Blue eyes, and Pale Green skin
 - Is Friendly and Shy, and has Spiritualism as their ideal
 
 ### Organizations

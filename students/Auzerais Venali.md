@@ -1,7 +1,7 @@
 ---
 name: Auzerais Venali
 race: Dwarf
-hair: curly black hair that's loose around the shoulders
+hair: long straight white hair that's put up
 eyes: Hazel
 skin: Dark Brown
 ideal: Pessimism
@@ -14,6 +14,8 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 6/19
   written: 19th of Pelent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Bera Cauladra
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 4th year Dwarf Rouge in Elkenval
-- curly black hair that's loose around the shoulders, Hazel eyes, and Dark Brown skin
+- long straight white hair that's put up, Hazel eyes, and Dark Brown skin
 - Is Unhurried and Neurotic, and has Pessimism as their ideal
 
 ### Organizations

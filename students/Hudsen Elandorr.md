@@ -1,7 +1,7 @@
 ---
 name: Hudsen Elandorr
 race: Half-Orc
-hair: curly black hair that's put back in a short pony tail
+hair: long curly white hair that's messy
 eyes: Pale Blue
 skin: Green Blue
 ideal: Success
@@ -13,6 +13,8 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 4/4
   written: 4th of Moradent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Brooka Whesker
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 3rd year Half-Orc Druid in Treskal
-- curly black hair that's put back in a short pony tail, Pale Blue eyes, and Green Blue skin
+- long curly white hair that's messy, Pale Blue eyes, and Green Blue skin
 - Is Cooperative and Venomous, and has Success as their ideal
 
 ### Organizations

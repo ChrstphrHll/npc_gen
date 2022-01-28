@@ -1,7 +1,7 @@
 ---
 name: Levio Evindal
 race: Half-Orc
-hair: straight black hair that's geled back
+hair: short curly grey hair that's plain
 eyes: Pale Green
 skin: Pale Gray
 ideal: Intelligence
@@ -13,6 +13,8 @@ bond: I'll always remember my first ship.
 birthday:
   numeric: 7/19
   written: 19th of Korent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Gabrilo Kulo
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 2nd year Half-Orc Artificer in Elkenval
-- straight black hair that's geled back, Pale Green eyes, and Pale Gray skin
+- short curly grey hair that's plain, Pale Green eyes, and Pale Gray skin
 - Is Sensual and Ignorant, and has Intelligence as their ideal
 
 ### Organizations

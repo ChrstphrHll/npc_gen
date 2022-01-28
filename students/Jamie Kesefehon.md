@@ -1,7 +1,7 @@
 ---
 name: Jamie Kesefehon
 race: Gnome
-hair: straight strawberry blond hair that's kept back by a blue headband
+hair: shoulder length curly dirty blonde hair that's plain
 eyes: Pale Gray
 skin: Fair
 ideal: Spiritualism
@@ -13,6 +13,8 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 8/18
   written: 18th of Ravenent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Hanro Fieryat
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Sorcerer in Alderden
-- straight strawberry blond hair that's kept back by a blue headband, Pale Gray eyes, and Fair skin
+- shoulder length curly dirty blonde hair that's plain, Pale Gray eyes, and Fair skin
 - Is Simple and Offhand, and has Spiritualism as their ideal
 
 ### Organizations

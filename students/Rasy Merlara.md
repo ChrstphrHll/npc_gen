@@ -1,7 +1,7 @@
 ---
 name: Rasy Merlara
 race: Dwarf
-hair: straight brunette hair that's loose around the shoulders
+hair: long wavy lighter blonde hair that's plain
 eyes: Pale Brown
 skin: Dark Tan
 ideal: Spiritualism
@@ -14,6 +14,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 7/11
   written: 11th of Korent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Hanro Fieryat
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Dwarf Wizard in Alderden
-- straight brunette hair that's loose around the shoulders, Pale Brown eyes, and Dark Tan skin
+- long wavy lighter blonde hair that's plain, Pale Brown eyes, and Dark Tan skin
 - Is Reflective and Ungrateful, and has Spiritualism as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Vaervenshalice Eloen
 race: Elf
-hair: curly dirty blonde hair that's geled back
+hair: long curly lighter blonde hair that's plain
 eyes: Green
 skin: Dark Brown
 ideal: Power
@@ -15,6 +15,8 @@ bond: My tools are symbols of my past life, and I carry them so that I will neve
 birthday:
   numeric: 5/3
   written: 3rd of Iounent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Ysaac Aelrue
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 1st year Elf Ranger in Treskal
-- curly dirty blonde hair that's geled back, Green eyes, and Dark Brown skin
+- long curly lighter blonde hair that's plain, Green eyes, and Dark Brown skin
 - Is Stubborn and Envious, and has Power as their ideal
 
 ### Organizations

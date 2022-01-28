@@ -1,7 +1,7 @@
 ---
 name: Avaery Klaern
 race: Halfling
-hair: wavy platinum hair that's loose around the shoulders
+hair: long wavy lighter blonde hair that's put up
 eyes: Amber
 skin: Fair
 ideal: Cooperation
@@ -13,6 +13,8 @@ bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
 birthday:
   numeric: 7/29
   written: 29th of Korent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Juppar Kershaw
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Halfling Barbarian in Jettenia
-- wavy platinum hair that's loose around the shoulders, Amber eyes, and Fair skin
+- long wavy lighter blonde hair that's put up, Amber eyes, and Fair skin
 - Is Silent and Unimaginative, and has Cooperation as their ideal
 
 ### Organizations

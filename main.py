@@ -26,11 +26,10 @@ def update_roster(roster, functions = []):
 def update_eyes(person):
     person.eyes = gen_looks.get_eyes(person.race)
 
+def update_hair(person):
+    person.hair = gen_looks.get_hair(person.race)
 
 # update_roster(read.load_roster(), [update_eyes])
 
 if __name__ == "__main__":
-    for _ in range(1000):
-        person = Person()
-        if 3:
-            print(person.name)
+    update_roster(read.load_roster(), [update_hair])

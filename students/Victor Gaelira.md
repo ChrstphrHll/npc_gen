@@ -1,7 +1,7 @@
 ---
 name: Victor Gaelira
 race: Half-Elf
-hair: curly white hair that's loose around the shoulders
+hair: short straight platinum hair that's put up
 eyes: Pale Blue
 skin: Dark Tan
 ideal: Family
@@ -14,6 +14,8 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 7/14
   written: 14th of Korent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Halya Jian
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Half-Elf Barbarian in Fiesn
-- curly white hair that's loose around the shoulders, Pale Blue eyes, and Dark Tan skin
+- short straight platinum hair that's put up, Pale Blue eyes, and Dark Tan skin
 - Is Ambitious and Evil, and has Family as their ideal
 
 ### Organizations

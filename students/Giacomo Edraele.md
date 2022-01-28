@@ -1,7 +1,7 @@
 ---
 name: Giacomo Edraele
 race: Human
-hair: curly lighter blonde hair that's kept back by a green headband
+hair: short straight dirty blonde hair that's wild
 eyes: Green
 skin: Light Tan
 ideal: Exceptionalism
@@ -16,6 +16,8 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 3/18
   written: 18th of Melorent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Matrell Halafarin
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 2nd year Human Druid in Treskal
-- curly lighter blonde hair that's kept back by a green headband, Green eyes, and Light Tan skin
+- short straight dirty blonde hair that's wild, Green eyes, and Light Tan skin
 - Is Communicative and Ungrateful, and has Exceptionalism as their ideal
 
 ### Organizations

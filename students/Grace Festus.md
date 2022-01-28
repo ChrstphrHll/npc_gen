@@ -1,7 +1,7 @@
 ---
 name: Grace Festus
 race: Human
-hair: wavy auburn hair that's pulled to the side and buzzed on the left
+hair: shoulder length straight auburn hair that's plain
 eyes: Pale Gray
 skin: Pale
 ideal: Charity
@@ -15,6 +15,8 @@ bond: I idolize a hero of the old tales and measure my deeds against that person
 birthday:
   numeric: 4/16
   written: 16th of Moradent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Dylan Usunaar
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 5th year Human Cleric in Elkenval
-- wavy auburn hair that's pulled to the side and buzzed on the left, Pale Gray eyes, and Pale skin
+- shoulder length straight auburn hair that's plain, Pale Gray eyes, and Pale skin
 - Is Anticipative and Rigid, and has Charity as their ideal
 
 ### Organizations

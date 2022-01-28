@@ -1,7 +1,7 @@
 ---
 name: Mateos Elanil
 race: Halfling
-hair: curly lighter blonde hair that's parted to the right
+hair: short wavy white hair that's put up
 eyes: Amber
 skin: Dark Tan
 ideal: Gratitude
@@ -14,6 +14,8 @@ bond: A proud noble once gave me a horrible beating, and I will take my revenge 
 birthday:
   numeric: 5/17
   written: 17th of Iounent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Selina Bellas
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 2nd year Halfling Rouge in Fiesn
-- curly lighter blonde hair that's parted to the right, Amber eyes, and Dark Tan skin
+- short wavy white hair that's put up, Amber eyes, and Dark Tan skin
 - Is Understanding and Neglectful, and has Gratitude as their ideal
 
 ### Organizations

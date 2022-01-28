@@ -1,7 +1,7 @@
 ---
 name: Faliah Oluevaera
 race: Gnome
-hair: wavy strawberry blond hair that's put up in a large bun
+hair: long curly dirty blonde hair that's plain
 eyes: Pale Brown
 skin: Tan
 ideal: Ambition
@@ -14,6 +14,8 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 3/5
   written: 5th of Melorent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Wulfe Fulcrux
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 8th year Gnome Cleric in Elkenval
-- wavy strawberry blond hair that's put up in a large bun, Pale Brown eyes, and Tan skin
+- long curly dirty blonde hair that's plain, Pale Brown eyes, and Tan skin
 - Is Anticipative and Competitive, and has Ambition as their ideal
 
 ### Organizations

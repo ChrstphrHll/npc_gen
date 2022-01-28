@@ -1,7 +1,7 @@
 ---
 name: Harperia Winchell
 race: Human
-hair: curly platinum hair that's put back in a long pony tail
+hair: short straight strawberry blond hair that's well kept
 eyes: Green
 skin: Fair
 ideal: Involvement
@@ -15,6 +15,8 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 7/33
   written: 33rd of Korent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Wren Urmicca
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Human Barbarian in Elkenval
-- curly platinum hair that's put back in a long pony tail, Green eyes, and Fair skin
+- short straight strawberry blond hair that's well kept, Green eyes, and Fair skin
 - Is Unfathomable and Dishonest, and has Involvement as their ideal
 
 ### Organizations

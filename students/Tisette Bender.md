@@ -1,7 +1,7 @@
 ---
 name: Tisette Bender
 race: Gnome
-hair: frizzy green hair that's parted to the right
+hair: shoulder length wavy grey hair that's plain
 eyes: Gray
 skin: Brown
 ideal: Logic
@@ -13,6 +13,8 @@ bond: Someone stole my precious instrument, and someday I'll get it back.
 birthday:
   numeric: 1/23
   written: 23rd of Avanent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Brinna Muerlara
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Paladin in Burk
-- frizzy green hair that's parted to the right, Gray eyes, and Brown skin
+- shoulder length wavy grey hair that's plain, Gray eyes, and Brown skin
 - Is Profound and Plain, and has Logic as their ideal
 
 ### Organizations

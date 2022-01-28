@@ -1,7 +1,7 @@
 ---
 name: Holys Hachaam
 race: Half-Elf
-hair: straight white hair that's pulled to the side and buzzed on the left
+hair: long wavy black hair that's plain
 eyes: Pale Blue
 skin: Brown
 ideal: Hard Work
@@ -15,6 +15,8 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 8/26
   written: 26th of Ravenent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Diegon Verrona
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 1st year Half-Elf Rouge in Elkenval
-- straight white hair that's pulled to the side and buzzed on the left, Pale Blue eyes, and Brown skin
+- long wavy black hair that's plain, Pale Blue eyes, and Brown skin
 - Is Eloquent and Wishy-washy, and has Hard Work as their ideal
 
 ### Organizations

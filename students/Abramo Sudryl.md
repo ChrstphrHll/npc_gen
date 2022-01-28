@@ -1,7 +1,7 @@
 ---
 name: Abramo Sudryl
 race: Dragonborn
-hair: long spines
+hair: frills
 eyes: Pale Gray
 skin: black
 ideal: Intelligence
@@ -14,6 +14,8 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 3/28
   written: 28th of Melorent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Aryana Velethuil
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 4th year Dragonborn Fighter in Elkenval
-- long spines, Pale Gray eyes, and black skin
+- frills, Pale Gray eyes, and black skin
 - Is Purposeful and Stern, and has Intelligence as their ideal
 
 ### Organizations

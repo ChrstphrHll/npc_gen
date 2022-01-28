@@ -1,7 +1,7 @@
 ---
 name: Saleas Rilitar
 race: Triton
-hair: straight dark red hair that's hanging down to their legs
+hair: long straight red hair that's braided
 eyes: Sea Green
 skin: Aqua
 ideal: Righteous
@@ -14,6 +14,8 @@ bond: I'm loyal to my captain first, everything else second.
 birthday:
   numeric: 6/6
   written: 6th of Pelent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Noam Shields
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 4th year Triton Wizard in Burk
-- straight dark red hair that's hanging down to their legs, Sea Green eyes, and Aqua skin
+- long straight red hair that's braided, Sea Green eyes, and Aqua skin
 - Is Self-sufficent and Boisterous, and has Righteous as their ideal
 
 ### Organizations

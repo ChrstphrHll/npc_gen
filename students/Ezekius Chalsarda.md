@@ -1,7 +1,7 @@
 ---
 name: Ezekius Chalsarda
 race: Halfling
-hair: wavy dark red hair that's loose around the shoulders
+hair: short wavy brunette hair that's plain
 eyes: Pale Brown
 skin: Light
 ideal: Cunning
@@ -14,6 +14,8 @@ bond: I owe a debt I can never repay to the person who took pity on me.
 birthday:
   numeric: 8/12
   written: 12th of Ravenent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Moki Aelynthi
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 6th year Halfling Wizard in Burk
-- wavy dark red hair that's loose around the shoulders, Pale Brown eyes, and Light skin
+- short wavy brunette hair that's plain, Pale Brown eyes, and Light skin
 - Is Magnanimous and Excitable, and has Cunning as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Eva Reluvethel
 race: Human
-hair: straight brunette hair that's hanging down to their back
+hair: shoulder length straight strawberry blond hair that's plain
 eyes: Pale Brown
 skin: Light
 ideal: Learning
@@ -15,6 +15,8 @@ bond: Somewhere out there, I have a child who doesn't know me. I'm making the wo
 birthday:
   numeric: 6/31
   written: 31st of Pelent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Liris Bhyrindaar
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 2nd year Human Wizard in Fiesn
-- straight brunette hair that's hanging down to their back, Pale Brown eyes, and Light skin
+- shoulder length straight strawberry blond hair that's plain, Pale Brown eyes, and Light skin
 - Is Lucky and Restrained, and has Learning as their ideal
 
 ### Organizations

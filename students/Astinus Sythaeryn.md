@@ -1,7 +1,7 @@
 ---
 name: Astinus Sythaeryn
 race: Human
-hair: straight dark red hair that's put up in a large bun
+hair: short straight lighter blonde hair that's wild
 eyes: Pale Blue
 skin: Brown
 ideal: Independence
@@ -15,6 +15,8 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 1/2
   written: 2nd of Avanent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Hudsen Aluendalee
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 4th year Human Bard in Fiesn
-- straight dark red hair that's put up in a large bun, Pale Blue eyes, and Brown skin
+- short straight lighter blonde hair that's wild, Pale Blue eyes, and Brown skin
 - Is Thrifty and Aimless, and has Independence as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Leja Talila
 race: Elf
-hair: curly grey hair that's put back in a long pony tail
+hair: short wavy lighter blonde hair that's messy
 eyes: Hazel
 skin: Fair
 ideal: Prosperity
@@ -14,6 +14,8 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 1/13
   written: 13th of Avanent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Natalia Endo
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 3rd year Elf Sorcerer in Burk
-- curly grey hair that's put back in a long pony tail, Hazel eyes, and Fair skin
+- short wavy lighter blonde hair that's messy, Hazel eyes, and Fair skin
 - Is Upright and Monstrous, and has Prosperity as their ideal
 
 ### Organizations

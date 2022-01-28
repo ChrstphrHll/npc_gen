@@ -1,7 +1,7 @@
 ---
 name: Kendel Shael
 race: Firbolg
-hair: frizzy lighter blonde hair that's loose around the shoulders
+hair: long curly green hair that's plain
 eyes: Gray
 skin: Pale Blue
 ideal: Finesse
@@ -14,6 +14,8 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 7/26
   written: 26th of Korent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Hessos Adorellan
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Firbolg Rouge in Alderden
-- frizzy lighter blonde hair that's loose around the shoulders, Gray eyes, and Pale Blue skin
+- long curly green hair that's plain, Gray eyes, and Pale Blue skin
 - Is Concerned and Muddle-headed, and has Finesse as their ideal
 
 ### Organizations

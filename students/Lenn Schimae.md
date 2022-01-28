@@ -1,7 +1,7 @@
 ---
 name: Lenn Schimae
 race: Human
-hair: curly auburn hair that's put back in a long pony tail
+hair: long curly brunette hair that's braided
 eyes: Hazel
 skin: Dark Tan
 ideal: Creativity
@@ -13,6 +13,8 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 7/1
   written: 1st of Korent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Robett Grell
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 6th year Human Barbarian in Treskal
-- curly auburn hair that's put back in a long pony tail, Hazel eyes, and Dark Tan skin
+- long curly brunette hair that's braided, Hazel eyes, and Dark Tan skin
 - Is Inventive and Ignorant, and has Creativity as their ideal
 
 ### Organizations

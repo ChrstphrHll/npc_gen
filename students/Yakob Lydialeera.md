@@ -1,7 +1,7 @@
 ---
 name: Yakob Lydialeera
 race: Dragonborn
-hair: frills
+hair: 4 jagged horns
 eyes: Deep Blue
 skin: blue
 ideal: Fitness
@@ -13,6 +13,8 @@ bond: I owe my guild a great debt for forging me into the person I am today.
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Wulfe Galan
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 1st year Dragonborn Fighter in Elkenval
-- frills, Deep Blue eyes, and blue skin
+- 4 jagged horns, Deep Blue eyes, and blue skin
 - Is Chummy and Ambitious, and has Fitness as their ideal
 
 ### Organizations

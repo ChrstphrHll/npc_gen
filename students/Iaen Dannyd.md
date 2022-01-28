@@ -1,7 +1,7 @@
 ---
 name: Iaen Dannyd
 race: Dragonborn
-hair: many straight horns
+hair: short spines
 eyes: Deep Blue
 skin: copper
 ideal: Wellness
@@ -13,6 +13,8 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 1/11
   written: 11th of Avanent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Everen Malfoy
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 2nd year Dragonborn Rouge in Fiesn
-- many straight horns, Deep Blue eyes, and copper skin
+- short spines, Deep Blue eyes, and copper skin
 - Is Trusting and Determined, and has Wellness as their ideal
 
 ### Organizations

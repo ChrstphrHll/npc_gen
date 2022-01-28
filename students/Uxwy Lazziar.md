@@ -1,7 +1,7 @@
 ---
 name: Uxwy Lazziar
 race: Human
-hair: wavy red hair that's kept back by a turquoise headband
+hair: short straight auburn hair that's messy
 eyes: Hazel
 skin: Fair
 ideal: Contentment
@@ -14,6 +14,8 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 2/23
   written: 23rd of Corelent
+origin: Chilliwld Peaks
+relvance: 0
 relationships:
 - name: Abel Marsh
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 5th year Human Sorcerer in Fiesn
-- wavy red hair that's kept back by a turquoise headband, Hazel eyes, and Fair skin
+- short straight auburn hair that's messy, Hazel eyes, and Fair skin
 - Is Admirable and Repugnant, and has Contentment as their ideal
 
 ### Organizations

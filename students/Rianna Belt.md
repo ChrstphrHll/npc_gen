@@ -1,7 +1,7 @@
 ---
 name: Rianna Belt
 race: Elf
-hair: wavy platinum hair that's loose around the shoulders
+hair: short straight dirty blonde hair that's well kept
 eyes: Pale Brown
 skin: Brown
 ideal: Excitement
@@ -14,6 +14,8 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 4/20
   written: 20th of Moradent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Romen Uldreiyn
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 8th year Elf Barbarian in Fiesn
-- wavy platinum hair that's loose around the shoulders, Pale Brown eyes, and Brown skin
+- short straight dirty blonde hair that's well kept, Pale Brown eyes, and Brown skin
 - Is Thrifty and Repugnant, and has Excitement as their ideal
 
 ### Organizations

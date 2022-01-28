@@ -1,7 +1,7 @@
 ---
 name: Q Yulmanda
 race: Tiefling
-hair: wavy grey hair that's put up in a large bun
+hair: long straight auburn hair that's braided
 eyes: Gray
 skin: Dark Red
 ideal: Security
@@ -13,6 +13,8 @@ bond: In a harbor town, I have a paramour whose eyes nearly stole me from the se
 birthday:
   numeric: 7/19
   written: 19th of Korent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Eligio Nevarth
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 2nd year Tiefling Barbarian in Burk
-- wavy grey hair that's put up in a large bun, Gray eyes, and Dark Red skin
+- long straight auburn hair that's braided, Gray eyes, and Dark Red skin
 - Is Appreciative and Mystical, and has Security as their ideal
 
 ### Organizations

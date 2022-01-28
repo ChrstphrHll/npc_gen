@@ -1,7 +1,7 @@
 ---
 name: Alkindus Llamryl
 race: Half-Elf
-hair: wavy blonde hair that's braided with green ribbon (long)
+hair: shoulder length curly auburn hair that's wild
 eyes: Hazel
 skin: Light
 ideal: Order
@@ -14,6 +14,8 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 4/19
   written: 19th of Moradent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Audree Dixon
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Half-Elf Sorcerer in Alderden
-- wavy blonde hair that's braided with green ribbon (long), Hazel eyes, and Light skin
+- shoulder length curly auburn hair that's wild, Hazel eyes, and Light skin
 - Is Rustic and Pessimistic, and has Order as their ideal
 
 ### Organizations

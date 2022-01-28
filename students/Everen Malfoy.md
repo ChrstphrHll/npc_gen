@@ -1,7 +1,7 @@
 ---
 name: Everen Malfoy
 race: Halfling
-hair: curly dirty blonde hair that's hanging down to their legs
+hair: short wavy blonde hair that's plain
 eyes: Hazel
 skin: Dark Brown
 ideal: Gratitude
@@ -13,6 +13,8 @@ bond: I owe my life to the priest who took me in when my parents died.
 birthday:
   numeric: 4/1
   written: 1st of Moradent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Iaen Dannyd
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 2nd year Halfling Fighter in Fiesn
-- curly dirty blonde hair that's hanging down to their legs, Hazel eyes, and Dark Brown skin
+- short wavy blonde hair that's plain, Hazel eyes, and Dark Brown skin
 - Is Scholarly and Subjective, and has Gratitude as their ideal
 
 ### Organizations

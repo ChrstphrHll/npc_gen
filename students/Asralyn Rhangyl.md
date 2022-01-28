@@ -1,7 +1,7 @@
 ---
 name: Asralyn Rhangyl
 race: Elf
-hair: curly strawberry blond hair that's put up in a large bun
+hair: short curly lighter blonde hair that's messy
 eyes: Pale Blue
 skin: Brown
 ideal: Effectiveness
@@ -15,6 +15,8 @@ bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, an
 birthday:
   numeric: 3/16
   written: 16th of Melorent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Eljana Jian
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 5th year Elf Ranger in Fiesn
-- curly strawberry blond hair that's put up in a large bun, Pale Blue eyes, and Brown skin
+- short curly lighter blonde hair that's messy, Pale Blue eyes, and Brown skin
 - Is Magnanimous and Quiet, and has Effectiveness as their ideal
 
 ### Organizations

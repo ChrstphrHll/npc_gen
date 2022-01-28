@@ -1,7 +1,7 @@
 ---
 name: Bela Qwey
 race: Human
-hair: straight black hair that's put back in a long pony tail
+hair: shoulder length straight strawberry blond hair that's plain
 eyes: Hazel
 skin: Dark Brown
 ideal: Conformity
@@ -13,6 +13,8 @@ bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 5/10
   written: 10th of Iounent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Rossan Jonik
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 3rd year Human Druid in Treskal
-- straight black hair that's put back in a long pony tail, Hazel eyes, and Dark Brown skin
+- shoulder length straight strawberry blond hair that's plain, Hazel eyes, and Dark Brown skin
 - Is Conciliatory and Modern, and has Conformity as their ideal
 
 ### Organizations

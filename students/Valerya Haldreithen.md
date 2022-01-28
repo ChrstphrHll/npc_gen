@@ -1,7 +1,7 @@
 ---
 name: Valerya Haldreithen
 race: Triton
-hair: straight brunette hair that's put back in a long pony tail
+hair: shoulder length wavy pink hair that's put up
 eyes: Pale Brown
 skin: Spring Green
 ideal: Courage
@@ -14,6 +14,8 @@ bond: I will face any challenge to win the approval of my family.
 birthday:
   numeric: 4/26
   written: 26th of Moradent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Shinare Bersa
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Triton Druid in Fiesn
-- straight brunette hair that's put back in a long pony tail, Pale Brown eyes, and Spring Green skin
+- shoulder length wavy pink hair that's put up, Pale Brown eyes, and Spring Green skin
 - Is Fair and Mechanical, and has Courage as their ideal
 
 ### Organizations

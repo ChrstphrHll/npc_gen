@@ -1,7 +1,7 @@
 ---
 name: Selina Ochyllyss
 race: Dwarf
-hair: straight lighter blonde hair that's loose around the shoulders
+hair: short wavy platinum hair that's put up
 eyes: Blue
 skin: Light Tan
 ideal: Logic
@@ -14,6 +14,8 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 3/20
   written: 20th of Melorent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Matos Mektal
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 5th year Dwarf Monk in Jettenia
-- straight lighter blonde hair that's loose around the shoulders, Blue eyes, and Light Tan skin
+- short wavy platinum hair that's put up, Blue eyes, and Light Tan skin
 - Is Droll and Restrained, and has Logic as their ideal
 
 ### Organizations

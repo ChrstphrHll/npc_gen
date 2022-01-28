@@ -1,7 +1,7 @@
 ---
 name: Dylan Usunaar
 race: Half-Orc
-hair: wavy auburn hair that's pulled to the side and buzzed on the left
+hair: short curly grey hair that's messy
 eyes: Pale Blue
 skin: Deep Green
 ideal: Enjoyment
@@ -13,6 +13,8 @@ bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 2/2
   written: 2nd of Corelent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Delila Felaern
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 5th year Half-Orc Rouge in Elkenval
-- wavy auburn hair that's pulled to the side and buzzed on the left, Pale Blue eyes, and Deep Green skin
+- short curly grey hair that's messy, Pale Blue eyes, and Deep Green skin
 - Is Focused and Naughty, and has Enjoyment as their ideal
 
 ### Organizations

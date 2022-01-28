@@ -1,7 +1,7 @@
 ---
 name: Rotheloe Samblar
 race: Firbolg
-hair: curly red hair that's loose around the shoulders
+hair: short wavy lighter blonde hair that's braided
 eyes: Pale Gray
 skin: Pale Brown
 ideal: Entertain
@@ -14,6 +14,8 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 8/19
   written: 19th of Ravenent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Aelisabeth Soliania
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 3rd year Firbolg Barbarian in Burk
-- curly red hair that's loose around the shoulders, Pale Gray eyes, and Pale Brown skin
+- short wavy lighter blonde hair that's braided, Pale Gray eyes, and Pale Brown skin
 - Is Naughty and Skeptical, and has Entertain as their ideal
 
 ### Organizations

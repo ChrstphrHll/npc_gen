@@ -1,7 +1,7 @@
 ---
 name: Braddeus Jacaranda
 race: Halfling
-hair: curly platinum hair that's kept back by a turquoise headband
+hair: long straight strawberry blond hair that's messy
 eyes: Amber
 skin: Pale
 ideal: Appreciation
@@ -15,6 +15,8 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 6/19
   written: 19th of Pelent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Maarika Oncith
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 3rd year Halfling Paladin in Fiesn
-- curly platinum hair that's kept back by a turquoise headband, Amber eyes, and Pale skin
+- long straight strawberry blond hair that's messy, Amber eyes, and Pale skin
 - Is Strong-willed and Pretentious, and has Appreciation as their ideal
 
 ### Organizations

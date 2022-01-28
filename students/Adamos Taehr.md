@@ -1,7 +1,7 @@
 ---
 name: Adamos Taehr
 race: Elf
-hair: straight brunette hair that's loose around the shoulders
+hair: long wavy dirty blonde hair that's messy
 eyes: Blue
 skin: Tan
 ideal: People
@@ -13,6 +13,8 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 4/7
   written: 7th of Moradent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Alexandyr Aulauthar
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 5th year Elf Fighter in Fiesn
-- straight brunette hair that's loose around the shoulders, Blue eyes, and Tan skin
+- long wavy dirty blonde hair that's messy, Blue eyes, and Tan skin
 - Is Attentive and Sensual, and has People as their ideal
 
 ### Organizations

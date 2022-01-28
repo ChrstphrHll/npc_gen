@@ -1,7 +1,7 @@
 ---
 name: Theodus Chylnoth
 race: Half-Elf
-hair: curly auburn hair that's braided with violet ribbon (long)
+hair: short curly auburn hair that's messy
 eyes: Pale Gray
 skin: Light
 ideal: Beauty
@@ -15,6 +15,8 @@ bond: I will someday get revenge on the corrupt temple hierarchy who branded me 
 birthday:
   numeric: 3/8
   written: 8th of Melorent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Velmona Elway
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 1st year Half-Elf Monk in Elkenval
-- curly auburn hair that's braided with violet ribbon (long), Pale Gray eyes, and Light skin
+- short curly auburn hair that's messy, Pale Gray eyes, and Light skin
 - Is Benevolent and Pharissical, and has Beauty as their ideal
 
 ### Organizations

@@ -14,6 +14,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 7/12
   written: 12th of Korent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Gorlas Vhoadan
   type: partymate

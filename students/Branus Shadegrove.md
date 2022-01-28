@@ -1,7 +1,7 @@
 ---
 name: Branus Shadegrove
 race: Gnome
-hair: straight auburn hair that's parted to the side, slightly obscuring an eye
+hair: shoulder length straight lighter blonde hair that's plain
 eyes: Gray
 skin: Light Tan
 ideal: Charity
@@ -14,6 +14,8 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 8/2
   written: 2nd of Ravenent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Leah Faelar
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Barbarian in Treskal
-- straight auburn hair that's parted to the side, slightly obscuring an eye, Gray eyes, and Light Tan skin
+- shoulder length straight lighter blonde hair that's plain, Gray eyes, and Light Tan skin
 - Is Sophisticated and Vague, and has Charity as their ideal
 
 ### Organizations

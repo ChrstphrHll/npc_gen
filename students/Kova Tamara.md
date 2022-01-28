@@ -1,7 +1,7 @@
 ---
 name: Kova Tamara
 race: Firbolg
-hair: straight black hair that's put up in a large bun
+hair: long curly dark red hair that's plain
 eyes: Green
 skin: Pale Brown
 ideal: Competition
@@ -14,6 +14,8 @@ bond: Should my discovery come to light, it could bring ruin to the world.
 birthday:
   numeric: 4/3
   written: 3rd of Moradent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Adrjia Lysanthir
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 1st year Firbolg Fighter in Treskal
-- straight black hair that's put up in a large bun, Green eyes, and Pale Brown skin
+- long curly dark red hair that's plain, Green eyes, and Pale Brown skin
 - Is Dynamic and Modern, and has Competition as their ideal
 
 ### Organizations

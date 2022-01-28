@@ -1,7 +1,7 @@
 ---
 name: Efjan Andrathath
 race: Gnome
-hair: wavy dark red hair that's braided with pink ribbon (long)
+hair: short wavy brunette hair that's plain
 eyes: Amber
 skin: Light
 ideal: Flexibility
@@ -14,6 +14,8 @@ bond: I work to preserve a library, university, scriptorium, or monastery.
 birthday:
   numeric: 4/7
   written: 7th of Moradent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Taanyth Seeker
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Druid in Burk
-- wavy dark red hair that's braided with pink ribbon (long), Amber eyes, and Light skin
+- short wavy brunette hair that's plain, Amber eyes, and Light skin
 - Is Invisible and Brutal, and has Flexibility as their ideal
 
 ### Organizations

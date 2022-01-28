@@ -1,7 +1,7 @@
 ---
 name: Puorlaas Anklos
 race: Tiefling
-hair: wavy dark red hair that's put back in a short pony tail
+hair: shoulder length curly red hair that's plain
 eyes: Red
 skin: Sea Green
 ideal: Freedom
@@ -14,6 +14,8 @@ bond: I sponsor an orphanage to keep others from enduring what I was forced to e
 birthday:
   numeric: 8/13
   written: 13th of Ravenent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Marl Ahrendaaria
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 2nd year Tiefling Wizard in Jettenia
-- wavy dark red hair that's put back in a short pony tail, Red eyes, and Sea Green skin
+- shoulder length curly red hair that's plain, Red eyes, and Sea Green skin
 - Is Popular and Reactive, and has Freedom as their ideal
 
 ### Organizations

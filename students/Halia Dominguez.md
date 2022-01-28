@@ -1,7 +1,7 @@
 ---
 name: Halia Dominguez
 race: Triton
-hair: wavy white hair that's braided with blue ribbon (long)
+hair: short wavy lighter blonde hair that's well kept
 eyes: Purple
 skin: Emerald Green
 ideal: Learning
@@ -16,6 +16,8 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 3/22
   written: 22nd of Melorent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Jess Beebe
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 3rd year Triton Paladin in Fiesn
-- wavy white hair that's braided with blue ribbon (long), Purple eyes, and Emerald Green skin
+- short wavy lighter blonde hair that's well kept, Purple eyes, and Emerald Green skin
 - Is Earthy and Unfriendly, and has Learning as their ideal
 
 ### Organizations

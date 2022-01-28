@@ -1,7 +1,7 @@
 ---
 name: Nycola Eroan
 race: Dragonborn
-hair: long spines
+hair: short spines
 eyes: Amber
 skin: copper
 ideal: Creativity
@@ -16,6 +16,8 @@ bond: One day I will return to my guild and prove that I am the greatest artisan
 birthday:
   numeric: 6/32
   written: 32nd of Pelent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Aniari Arlayna
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Dragonborn Bard in Elkenval
-- long spines, Amber eyes, and copper skin
+- short spines, Amber eyes, and copper skin
 - Is Frank and Cruel, and has Creativity as their ideal
 
 ### Organizations

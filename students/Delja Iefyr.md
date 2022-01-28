@@ -1,7 +1,7 @@
 ---
 name: Delja Iefyr
 race: Half-Elf
-hair: straight dirty blonde hair that's put up in a large bun
+hair: long straight grey hair that's messy
 eyes: Amber
 skin: Light
 ideal: Power
@@ -14,6 +14,8 @@ bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 4/27
   written: 27th of Moradent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Hodus Belt
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Half-Elf Druid in Burk
-- straight dirty blonde hair that's put up in a large bun, Amber eyes, and Light skin
+- long straight grey hair that's messy, Amber eyes, and Light skin
 - Is Harmonious and Risk-taking, and has Power as their ideal
 
 ### Organizations

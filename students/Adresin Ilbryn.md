@@ -1,7 +1,7 @@
 ---
 name: Adresin Ilbryn
 race: Genasi
-hair: straight blonde hair that's geled back
+hair: shoulder length straight auburn hair that's well kept
 eyes: Gray
 skin: air
 ideal: Greed
@@ -14,6 +14,8 @@ bond: Something important was taken from me, and I aim to steal it back.
 birthday:
   numeric: 4/22
   written: 22nd of Moradent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Diegon Verrona
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Genasi Paladin in Elkenval
-- straight blonde hair that's geled back, Gray eyes, and air skin
+- shoulder length straight auburn hair that's well kept, Gray eyes, and air skin
 - Is Bashful and Insulting, and has Greed as their ideal
 
 ### Organizations

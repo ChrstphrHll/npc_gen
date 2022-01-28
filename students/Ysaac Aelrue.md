@@ -1,7 +1,7 @@
 ---
 name: Ysaac Aelrue
 race: Halfling
-hair: wavy black hair that's hanging down to their back
+hair: shoulder length curly green hair that's braided
 eyes: Brown
 skin: Light
 ideal: Contentment
@@ -14,6 +14,8 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 2/30
   written: 30th of Corelent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Nolyn Viska
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Halfling Fighter in Treskal
-- wavy black hair that's hanging down to their back, Brown eyes, and Light skin
+- shoulder length curly green hair that's braided, Brown eyes, and Light skin
 - Is Respectful and Superstitious, and has Contentment as their ideal
 
 ### Organizations

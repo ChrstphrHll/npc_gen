@@ -1,7 +1,7 @@
 ---
 name: Allyson Vindinglag
 race: Aasimar
-hair: frizzy auburn hair that's geled back
+hair: short curly brunette hair that's braided
 eyes: Pale Gray
 skin: Dark Brown
 ideal: Reciprocity
@@ -14,6 +14,8 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 1/32
   written: 32nd of Avanent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Jandar Pleufan
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 1st year Aasimar Cleric in Elkenval
-- frizzy auburn hair that's geled back, Pale Gray eyes, and Dark Brown skin
+- short curly brunette hair that's braided, Pale Gray eyes, and Dark Brown skin
 - Is Forceful and Stif, and has Reciprocity as their ideal
 
 ### Organizations

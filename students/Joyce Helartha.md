@@ -1,7 +1,7 @@
 ---
 name: Joyce Helartha
 race: Halfling
-hair: curly dark red hair that's a buzz cut
+hair: short wavy red hair that's messy
 eyes: Pale Brown
 skin: Dark Tan
 ideal: Compassion
@@ -13,6 +13,8 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 2/21
   written: 21st of Corelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Maia Ashsorrow
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Halfling Cleric in Treskal
-- curly dark red hair that's a buzz cut, Pale Brown eyes, and Dark Tan skin
+- short wavy red hair that's messy, Pale Brown eyes, and Dark Tan skin
 - Is Innovative and Abrasive, and has Compassion as their ideal
 
 ### Organizations

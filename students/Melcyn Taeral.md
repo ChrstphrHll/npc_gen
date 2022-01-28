@@ -1,7 +1,7 @@
 ---
 name: Melcyn Taeral
 race: Firbolg
-hair: wavy brunette hair that's braided with green ribbon (long)
+hair: short curly auburn hair that's well kept
 eyes: Green
 skin: Pale Gray
 ideal: Finesse
@@ -14,6 +14,8 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 7/31
   written: 31st of Korent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Tadita Edraele
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 4th year Firbolg Sorcerer in Treskal
-- wavy brunette hair that's braided with green ribbon (long), Green eyes, and Pale Gray skin
+- short curly auburn hair that's well kept, Green eyes, and Pale Gray skin
 - Is Devoted and Lazy, and has Finesse as their ideal
 
 ### Organizations

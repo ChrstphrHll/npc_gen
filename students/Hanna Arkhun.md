@@ -1,7 +1,7 @@
 ---
 name: Hanna Arkhun
 race: Triton
-hair: straight auburn hair that's parted to the side, slightly obscuring an eye
+hair: long straight blonde hair that's braided
 eyes: Purple
 skin: Pale Gray
 ideal: Involvement
@@ -13,6 +13,8 @@ bond: My town or city is my home, and I'll fight to defend it.
 birthday:
   numeric: 1/23
   written: 23rd of Avanent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Maia Ashsorrow
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Triton Paladin in Treskal
-- straight auburn hair that's parted to the side, slightly obscuring an eye, Purple eyes, and Pale Gray skin
+- long straight blonde hair that's braided, Purple eyes, and Pale Gray skin
 - Is Dependable and Enigmatic, and has Involvement as their ideal
 
 ### Organizations

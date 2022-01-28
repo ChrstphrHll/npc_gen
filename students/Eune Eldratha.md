@@ -1,7 +1,7 @@
 ---
 name: Eune Eldratha
 race: Triton
-hair: curly white hair that's braided with blue ribbon (long)
+hair: shoulder length curly strawberry blond hair that's plain
 eyes: Violet Red
 skin: Emerald Green
 ideal: Forgiveness
@@ -13,6 +13,8 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 1/28
   written: 28th of Avanent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Evyn Fenton
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 2nd year Triton Druid in Elkenval
-- curly white hair that's braided with blue ribbon (long), Violet Red eyes, and Emerald Green skin
+- shoulder length curly strawberry blond hair that's plain, Violet Red eyes, and Emerald Green skin
 - Is Unreligious and Libidinous, and has Forgiveness as their ideal
 
 ### Organizations

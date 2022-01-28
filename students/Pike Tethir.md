@@ -1,7 +1,7 @@
 ---
 name: Pike Tethir
 race: Human
-hair: curly lighter blonde hair that's braided with blue ribbon (med)
+hair: long curly brunette hair that's well kept
 eyes: Pale Gray
 skin: Brown
 ideal: Cooperation
@@ -15,6 +15,8 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 2/24
   written: 24th of Corelent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Nathan Laeroth
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 1st year Human Barbarian in Elkenval
-- curly lighter blonde hair that's braided with blue ribbon (med), Pale Gray eyes, and Brown skin
+- long curly brunette hair that's well kept, Pale Gray eyes, and Brown skin
 - Is Seraphic and Boisterous, and has Cooperation as their ideal
 
 ### Organizations

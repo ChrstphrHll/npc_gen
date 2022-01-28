@@ -1,7 +1,7 @@
 ---
 name: Cam Lazziar
 race: Firbolg
-hair: straight auburn hair that's parted to the left
+hair: short straight dark red hair that's braided
 eyes: Hazel
 skin: Pale Blue
 ideal: Spontaneity
@@ -14,6 +14,8 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 3/2
   written: 2nd of Melorent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Jofan Elignoir
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 7th year Firbolg Bard in Alderden
-- straight auburn hair that's parted to the left, Hazel eyes, and Pale Blue skin
+- short straight dark red hair that's braided, Hazel eyes, and Pale Blue skin
 - Is Obliging and Venal, and has Spontaneity as their ideal
 
 ### Organizations

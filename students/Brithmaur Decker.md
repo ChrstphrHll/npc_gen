@@ -1,7 +1,7 @@
 ---
 name: Brithmaur Decker
 race: Half-Orc
-hair: curly brunette hair that's put up in a large bun
+hair: shoulder length frizzy brunette hair that's well kept
 eyes: Pale Brown
 skin: Green Blue
 ideal: Independence
@@ -14,6 +14,8 @@ bond: I'll never forget the crushing defeat my company suffered or the enemies w
 birthday:
   numeric: 7/33
   written: 33rd of Korent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Grassa Ashbluff
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 7th year Half-Orc Druid in Fiesn
-- curly brunette hair that's put up in a large bun, Pale Brown eyes, and Green Blue skin
+- shoulder length frizzy brunette hair that's well kept, Pale Brown eyes, and Green Blue skin
 - Is Strong-willed and Boorish, and has Independence as their ideal
 
 ### Organizations

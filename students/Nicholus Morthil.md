@@ -1,7 +1,7 @@
 ---
 name: Nicholus Morthil
 race: Firbolg
-hair: straight strawberry blond hair that's loose around the shoulders
+hair: short curly dirty blonde hair that's braided
 eyes: Pale Green
 skin: Pale Green
 ideal: Cooperation
@@ -13,6 +13,8 @@ bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 7/10
   written: 10th of Korent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Abryia Rubrae
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 2nd year Firbolg Paladin in Burk
-- straight strawberry blond hair that's loose around the shoulders, Pale Green eyes, and Pale Green skin
+- short curly dirty blonde hair that's braided, Pale Green eyes, and Pale Green skin
 - Is Heroic and Noncompetitive, and has Cooperation as their ideal
 
 ### Organizations

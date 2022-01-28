@@ -1,7 +1,7 @@
 ---
 name: Allisa Iahalae
 race: Half-Elf
-hair: straight blonde hair that's put back in a long pony tail
+hair: shoulder length wavy strawberry blond hair that's well kept
 eyes: Green
 skin: Tan
 ideal: Patience
@@ -14,6 +14,8 @@ bond: My tools are symbols of my past life, and I carry them so that I will neve
 birthday:
   numeric: 6/24
   written: 24th of Pelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Aidyn Glynnii
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Half-Elf Sorcerer in Elkenval
-- straight blonde hair that's put back in a long pony tail, Green eyes, and Tan skin
+- shoulder length wavy strawberry blond hair that's well kept, Green eyes, and Tan skin
 - Is Considerate and Delicate, and has Patience as their ideal
 
 ### Organizations

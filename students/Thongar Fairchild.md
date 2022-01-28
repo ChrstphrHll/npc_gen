@@ -1,7 +1,7 @@
 ---
 name: Thongar Fairchild
 race: Human
-hair: curly lighter blonde hair that's braided with blue ribbon (long)
+hair: short straight white hair that's plain
 eyes: Hazel
 skin: Light
 ideal: Fame
@@ -14,6 +14,8 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 6/11
   written: 11th of Pelent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Meira Nuvian
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 3rd year Human Cleric in Burk
-- curly lighter blonde hair that's braided with blue ribbon (long), Hazel eyes, and Light skin
+- short straight white hair that's plain, Hazel eyes, and Light skin
 - Is Accessible and Fawning, and has Fame as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Tez Bialaer
 race: Aasimar
-hair: straight grey hair that's parted to the left
+hair: short straight dirty blonde hair that's plain
 eyes: Gray
 skin: Pale
 ideal: Austerity
@@ -13,6 +13,8 @@ bond: I entered seclusion because I loved someone I could not have.
 birthday:
   numeric: 5/14
   written: 14th of Iounent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Romen Uldreiyn
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 8th year Aasimar Fighter in Fiesn
-- straight grey hair that's parted to the left, Gray eyes, and Pale skin
+- short straight dirty blonde hair that's plain, Gray eyes, and Pale skin
 - Is Sharing and Modern, and has Austerity as their ideal
 
 ### Organizations

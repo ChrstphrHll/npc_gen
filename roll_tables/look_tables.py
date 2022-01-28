@@ -65,7 +65,30 @@ hair_texture = Table(
     ("frizzy", 5)
 )
 
+hair_length_simple = Table(
+    ("short", 1),
+    ("shoulder length", 1),
+    ("long", 1)
+)
+
+hair_description = Table(
+    ("messy", 1),
+    ("well kept", 1),
+    ("braided", 1),
+    ("plain", 3),
+    ("put up", 1),
+    ("wild", 1),
+)
+
 hair = MultiRoll(
+    "{} {} {} hair that's {}",
+    hair_length_simple,
+    hair_texture,
+    hair_color,
+    hair_description
+)
+
+hair_old_version = MultiRoll(
     "{} {} hair that's {}",
     hair_texture,
     hair_color,

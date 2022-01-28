@@ -1,7 +1,7 @@
 ---
 name: Cerridwen Durothil
 race: Half-Elf
-hair: straight white hair that's loose around the shoulders
+hair: short straight black hair that's well kept
 eyes: Pale Gray
 skin: Light
 ideal: Competition
@@ -15,6 +15,8 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 2/18
   written: 18th of Corelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Gerrimar Vulkor
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 5th year Half-Elf Ranger in Treskal
-- straight white hair that's loose around the shoulders, Pale Gray eyes, and Light skin
+- short straight black hair that's well kept, Pale Gray eyes, and Light skin
 - Is Gritty and Outspoken, and has Competition as their ideal
 
 ### Organizations

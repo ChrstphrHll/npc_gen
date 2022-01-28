@@ -1,7 +1,7 @@
 ---
 name: Cirvlon Elpaerae
 race: Tiefling
-hair: frizzy pink hair that's put back in a short pony tail
+hair: long wavy strawberry blond hair that's wild
 eyes: Pale Green
 skin: Pale Gray
 ideal: Logic
@@ -13,6 +13,8 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 1/28
   written: 28th of Avanent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Jamye Napraeleon
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 2nd year Tiefling Druid in Alderden
-- frizzy pink hair that's put back in a short pony tail, Pale Green eyes, and Pale Gray skin
+- long wavy strawberry blond hair that's wild, Pale Green eyes, and Pale Gray skin
 - Is Impressive and Callous, and has Logic as their ideal
 
 ### Organizations

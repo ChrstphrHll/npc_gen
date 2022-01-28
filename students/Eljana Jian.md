@@ -1,7 +1,7 @@
 ---
 name: Eljana Jian
 race: Goliath
-hair: wavy red hair that's hanging down to their legs
+hair: shoulder length straight strawberry blond hair that's well kept
 eyes: Blue
 skin: Dark Tan
 ideal: Harmony
@@ -14,6 +14,8 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 4/18
   written: 18th of Moradent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Asralyn Rhangyl
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 5th year Goliath Fighter in Fiesn
-- wavy red hair that's hanging down to their legs, Blue eyes, and Dark Tan skin
+- shoulder length straight strawberry blond hair that's well kept, Blue eyes, and Dark Tan skin
 - Is Challenging and Confused, and has Harmony as their ideal
 
 ### Organizations

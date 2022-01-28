@@ -1,7 +1,7 @@
 ---
 name: Kayla Kaminsky
 race: Gnome
-hair: straight lighter blonde hair that's braided with green ribbon (long)
+hair: long straight white hair that's braided
 eyes: Pale Green
 skin: Tan
 ideal: Patience
@@ -14,6 +14,8 @@ bond: I seek to preserve a sacred text that my enemies consider heretical and se
 birthday:
   numeric: 4/8
   written: 8th of Moradent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Diegon Verrona
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Artificer in Elkenval
-- straight lighter blonde hair that's braided with green ribbon (long), Pale Green eyes, and Tan skin
+- long straight white hair that's braided, Pale Green eyes, and Tan skin
 - Is Uninhibited and Difficult, and has Patience as their ideal
 
 ### Organizations

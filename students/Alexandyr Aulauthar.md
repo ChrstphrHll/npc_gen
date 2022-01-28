@@ -1,7 +1,7 @@
 ---
 name: Alexandyr Aulauthar
 race: Firbolg
-hair: wavy red hair that's geled back
+hair: short curly grey hair that's put up
 eyes: Pale Blue
 skin: Pale Blue
 ideal: Home
@@ -13,6 +13,8 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 3/20
   written: 20th of Melorent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Coriss Biafyndar
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 5th year Firbolg Wizard in Fiesn
-- wavy red hair that's geled back, Pale Blue eyes, and Pale Blue skin
+- short curly grey hair that's put up, Pale Blue eyes, and Pale Blue skin
 - Is Communicative and Ungrateful, and has Home as their ideal
 
 ### Organizations

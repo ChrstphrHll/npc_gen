@@ -1,7 +1,7 @@
 ---
 name: Alonnos Xanotter
 race: Tiefling
-hair: wavy red hair that's put up in a large bun
+hair: shoulder length wavy grey hair that's messy
 eyes: Spring Green
 skin: Yellow
 ideal: Cooperation
@@ -16,6 +16,8 @@ bond: I entered seclusion to hide from the ones who might still be hunting me. I
 birthday:
   numeric: 6/2
   written: 2nd of Pelent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Shoulree Letryal
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Tiefling Sorcerer in Elkenval
-- wavy red hair that's put up in a large bun, Spring Green eyes, and Yellow skin
+- shoulder length wavy grey hair that's messy, Spring Green eyes, and Yellow skin
 - Is Folksy and Complex, and has Cooperation as their ideal
 
 ### Organizations

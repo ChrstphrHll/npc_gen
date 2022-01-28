@@ -1,7 +1,7 @@
 ---
 name: Edyrm Iolas
 race: Half-Elf
-hair: wavy strawberry blond hair that's parted to the right
+hair: short curly auburn hair that's wild
 eyes: Pale Gray
 skin: Light Tan
 ideal: Might
@@ -13,6 +13,8 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 6/17
   written: 17th of Pelent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Jacus Kosunten
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 2nd year Half-Elf Artificer in Burk
-- wavy strawberry blond hair that's parted to the right, Pale Gray eyes, and Light Tan skin
+- short curly auburn hair that's wild, Pale Gray eyes, and Light Tan skin
 - Is Seraphic and Unpolished, and has Might as their ideal
 
 ### Organizations

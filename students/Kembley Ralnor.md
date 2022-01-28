@@ -1,7 +1,7 @@
 ---
 name: Kembley Ralnor
 race: Half-Orc
-hair: curly strawberry blond hair that's put up in a large bun
+hair: short curly red hair that's wild
 eyes: Blue
 skin: Pale Gray
 ideal: Entrepreneurial
@@ -14,6 +14,8 @@ bond: I owe a debt I can never repay to the person who took pity on me.
 birthday:
   numeric: 4/15
   written: 15th of Moradent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Celaeno Amkissra
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 8th year Half-Orc Sorcerer in Jettenia
-- curly strawberry blond hair that's put up in a large bun, Blue eyes, and Pale Gray skin
+- short curly red hair that's wild, Blue eyes, and Pale Gray skin
 - Is Unaggressive and Unimaginative, and has Entrepreneurial as their ideal
 
 ### Organizations

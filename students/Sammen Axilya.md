@@ -1,7 +1,7 @@
 ---
 name: Sammen Axilya
 race: Human
-hair: straight platinum hair that's geled back
+hair: shoulder length wavy black hair that's wild
 eyes: Pale Green
 skin: Tan
 ideal: Creativity
@@ -14,6 +14,8 @@ bond: I worked the land, I love the land, and I will protect the land.
 birthday:
   numeric: 7/13
   written: 13th of Korent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Ruby Kythaela
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 2nd year Human Paladin in Jettenia
-- straight platinum hair that's geled back, Pale Green eyes, and Tan skin
+- shoulder length wavy black hair that's wild, Pale Green eyes, and Tan skin
 - Is Dedicated and Absentminded, and has Creativity as their ideal
 
 ### Organizations

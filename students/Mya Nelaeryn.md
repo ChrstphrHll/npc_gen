@@ -1,7 +1,7 @@
 ---
 name: Mya Nelaeryn
 race: Human
-hair: straight auburn hair that's braided with pink ribbon (long)
+hair: shoulder length wavy blonde hair that's messy
 eyes: Pale Brown
 skin: Fair
 ideal: Creativity
@@ -13,6 +13,8 @@ bond: I owe my life to the priest who took me in when my parents died.
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Gabrilo Kulo
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 2nd year Human Barbarian in Elkenval
-- straight auburn hair that's braided with pink ribbon (long), Pale Brown eyes, and Fair skin
+- shoulder length wavy blonde hair that's messy, Pale Brown eyes, and Fair skin
 - Is Folksy and Evil, and has Creativity as their ideal
 
 ### Organizations

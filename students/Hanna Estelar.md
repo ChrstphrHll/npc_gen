@@ -1,7 +1,7 @@
 ---
 name: Hanna Estelar
 race: Human
-hair: curly strawberry blond hair that's put back in a short pony tail
+hair: shoulder length straight strawberry blond hair that's wild
 eyes: Pale Gray
 skin: Dark Tan
 ideal: Independence
@@ -14,6 +14,8 @@ bond: I sponsor an orphanage to keep others from enduring what I was forced to e
 birthday:
   numeric: 8/5
   written: 5th of Ravenent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Gina Grandius
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 3rd year Human Bard in Alderden
-- curly strawberry blond hair that's put back in a short pony tail, Pale Gray eyes, and Dark Tan skin
+- shoulder length straight strawberry blond hair that's wild, Pale Gray eyes, and Dark Tan skin
 - Is Responsive and Unrestrained, and has Independence as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Jacus Kosunten
 race: Human
-hair: wavy platinum hair that's a tousled bed head
+hair: short wavy brunette hair that's put up
 eyes: Pale Gray
 skin: Brown
 ideal: Strength
@@ -14,6 +14,8 @@ bond: I come from a noble family, and one day I'll reclaim my lands and title fr
 birthday:
   numeric: 3/23
   written: 23rd of Melorent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Edyrm Iolas
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 2nd year Human Monk in Burk
-- wavy platinum hair that's a tousled bed head, Pale Gray eyes, and Brown skin
+- short wavy brunette hair that's put up, Pale Gray eyes, and Brown skin
 - Is Risk-taking and Pure, and has Strength as their ideal
 
 ### Organizations

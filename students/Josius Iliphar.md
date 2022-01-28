@@ -1,7 +1,7 @@
 ---
 name: Josius Iliphar
 race: Genasi
-hair: curly brunette hair that's parted to the left
+hair: short wavy violet hair that's braided
 eyes: Violet Red
 skin: air
 ideal: Kindness
@@ -14,6 +14,8 @@ bond: I come from a noble family, and one day I'll reclaim my lands and title fr
 birthday:
   numeric: 4/9
   written: 9th of Moradent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Surge Fayd
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 7th year Genasi Rouge in Fiesn
-- curly brunette hair that's parted to the left, Violet Red eyes, and air skin
+- short wavy violet hair that's braided, Violet Red eyes, and air skin
 - Is Iconoclastic and Shallow, and has Kindness as their ideal
 
 ### Organizations

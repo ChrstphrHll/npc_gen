@@ -1,7 +1,7 @@
 ---
 name: Hodus Belt
 race: Elf
-hair: wavy white hair that's parted to the left
+hair: shoulder length wavy blonde hair that's well kept
 eyes: Pale Gray
 skin: Brown
 ideal: Harmony
@@ -14,6 +14,8 @@ bond: In a harbor town, I have a paramour whose eyes nearly stole me from the se
 birthday:
   numeric: 1/15
   written: 15th of Avanent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Shike Thalaera
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Elf Bard in Burk
-- wavy white hair that's parted to the left, Pale Gray eyes, and Brown skin
+- shoulder length wavy blonde hair that's well kept, Pale Gray eyes, and Brown skin
 - Is Lucky and Vindictive, and has Harmony as their ideal
 
 ### Organizations

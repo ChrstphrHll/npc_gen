@@ -1,7 +1,7 @@
 ---
 name: Thenol Shialaevar
 race: Half-Orc
-hair: wavy lighter blonde hair that's geled back
+hair: short curly brunette hair that's well kept
 eyes: Brown
 skin: Pale Green
 ideal: Security
@@ -15,6 +15,8 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 5/5
   written: 5th of Iounent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Secarr Ashbluff
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 6th year Half-Orc Barbarian in Burk
-- wavy lighter blonde hair that's geled back, Brown eyes, and Pale Green skin
+- short curly brunette hair that's well kept, Brown eyes, and Pale Green skin
 - Is Sensitive and Indolent, and has Security as their ideal
 
 ### Organizations

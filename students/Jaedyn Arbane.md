@@ -1,7 +1,7 @@
 ---
 name: Jaedyn Arbane
 race: Half-Elf
-hair: straight platinum hair that's a buzz cut
+hair: long wavy strawberry blond hair that's plain
 eyes: Amber
 skin: Dark Tan
 ideal: Invention
@@ -14,6 +14,8 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 3/17
   written: 17th of Melorent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Kova Tamara
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 1st year Half-Elf Paladin in Treskal
-- straight platinum hair that's a buzz cut, Amber eyes, and Dark Tan skin
+- long wavy strawberry blond hair that's plain, Amber eyes, and Dark Tan skin
 - Is Private and Picky, and has Invention as their ideal
 
 ### Organizations

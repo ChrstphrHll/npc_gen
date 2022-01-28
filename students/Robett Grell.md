@@ -1,7 +1,7 @@
 ---
 name: Robett Grell
 race: Dwarf
-hair: wavy red hair that's done up in a top knot
+hair: shoulder length frizzy grey hair that's well kept
 eyes: Pale Brown
 skin: Dark Brown
 ideal: Forgiveness
@@ -14,6 +14,8 @@ bond: One day I will return to my guild and prove that I am the greatest artisan
 birthday:
   numeric: 1/4
   written: 4th of Avanent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Lenn Schimae
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 6th year Dwarf Monk in Treskal
-- wavy red hair that's done up in a top knot, Pale Brown eyes, and Dark Brown skin
+- shoulder length frizzy grey hair that's well kept, Pale Brown eyes, and Dark Brown skin
 - Is Solitary and Impolite, and has Forgiveness as their ideal
 
 ### Organizations

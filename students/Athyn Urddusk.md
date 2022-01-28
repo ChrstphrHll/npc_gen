@@ -1,7 +1,7 @@
 ---
 name: Athyn Urddusk
 race: Human
-hair: curly red hair that's put back in a short pony tail
+hair: short wavy red hair that's braided
 eyes: Brown
 skin: Light
 ideal: Wisdom
@@ -13,6 +13,8 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 8/20
   written: 20th of Ravenent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Theodus Chylnoth
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Human Artificer in Elkenval
-- curly red hair that's put back in a short pony tail, Brown eyes, and Light skin
+- short wavy red hair that's braided, Brown eyes, and Light skin
 - Is Purposeful and Ill-bred, and has Wisdom as their ideal
 
 ### Organizations

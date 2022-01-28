@@ -1,7 +1,7 @@
 ---
 name: Vyctor Willow
 race: Elf
-hair: wavy auburn hair that's braided with violet ribbon (med)
+hair: short curly dirty blonde hair that's wild
 eyes: Blue
 skin: Fair
 ideal: Responsibility
@@ -14,6 +14,8 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 3/11
   written: 11th of Melorent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Karl Cauladra
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 6th year Elf Bard in Treskal
-- wavy auburn hair that's braided with violet ribbon (med), Blue eyes, and Fair skin
+- short curly dirty blonde hair that's wild, Blue eyes, and Fair skin
 - Is Wise and Inhibited, and has Responsibility as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Tyego Sinaht
 race: Elf
-hair: curly platinum hair that's hanging down to their back
+hair: long straight platinum hair that's messy
 eyes: Pale Blue
 skin: Light
 ideal: Power
@@ -13,6 +13,8 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 7/29
   written: 29th of Korent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Jess Beebe
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 3rd year Elf Monk in Fiesn
-- curly platinum hair that's hanging down to their back, Pale Blue eyes, and Light skin
+- long straight platinum hair that's messy, Pale Blue eyes, and Light skin
 - Is Friendly and Experimental, and has Power as their ideal
 
 ### Organizations

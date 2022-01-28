@@ -1,7 +1,7 @@
 ---
 name: Jareth Tanseril
 race: Gnome
-hair: wavy blue hair that's put back in a long pony tail
+hair: short curly platinum hair that's plain
 eyes: Blue
 skin: Light
 ideal: Learning
@@ -15,6 +15,8 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 6/2
   written: 2nd of Pelent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Jaris Amlaruil
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 7th year Gnome Artificer in Jettenia
-- wavy blue hair that's put back in a long pony tail, Blue eyes, and Light skin
+- short curly platinum hair that's plain, Blue eyes, and Light skin
 - Is Sage and Unreliable, and has Learning as their ideal
 
 ### Organizations

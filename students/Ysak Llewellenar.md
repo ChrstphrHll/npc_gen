@@ -1,7 +1,7 @@
 ---
 name: Ysak Llewellenar
 race: Dragonborn
-hair: short spines
+hair: 2 straight horns
 eyes: Violet Red
 skin: silver
 ideal: Renewal
@@ -13,6 +13,8 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 5/1
   written: 1st of Iounent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Matto Divya
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 1st year Dragonborn Paladin in Jettenia
-- short spines, Violet Red eyes, and silver skin
+- 2 straight horns, Violet Red eyes, and silver skin
 - Is Disciplined and Narrow-minded, and has Renewal as their ideal
 
 ### Organizations

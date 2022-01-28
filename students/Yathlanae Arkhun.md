@@ -1,7 +1,7 @@
 ---
 name: Yathlanae Arkhun
 race: Half-Elf
-hair: straight blonde hair that's put back in a long pony tail
+hair: short curly brunette hair that's messy
 eyes: Pale Blue
 skin: Brown
 ideal: Wealth
@@ -14,6 +14,8 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 8/8
   written: 8th of Ravenent
+origin: Chilliwld Peaks
+relvance: 0
 relationships:
 - name: Halja Dwyer
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 1st year Half-Elf Sorcerer in Alderden
-- straight blonde hair that's put back in a long pony tail, Pale Blue eyes, and Brown skin
+- short curly brunette hair that's messy, Pale Blue eyes, and Brown skin
 - Is Graceful and Troublesome, and has Wealth as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Es'beth Yesheln
 race: Elf
-hair: curly dirty blonde hair that's loose around the shoulders
+hair: long wavy white hair that's put up
 eyes: Pale Blue
 skin: Light
 ideal: Simplicity
@@ -13,6 +13,8 @@ bond: My life's work is a series of tomes related to a specific field of lore.
 birthday:
   numeric: 7/3
   written: 3rd of Korent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Kova Tamara
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 1st year Elf Monk in Treskal
-- curly dirty blonde hair that's loose around the shoulders, Pale Blue eyes, and Light skin
+- long wavy white hair that's put up, Pale Blue eyes, and Light skin
 - Is Stylish and Neurotic, and has Simplicity as their ideal
 
 ### Organizations

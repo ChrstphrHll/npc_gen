@@ -1,7 +1,7 @@
 ---
 name: Jendrellian Webb
 race: Dwarf
-hair: wavy lighter blonde hair that's hanging down to their legs
+hair: long straight green hair that's wild
 eyes: Gray
 skin: Brown
 ideal: Goodness
@@ -13,6 +13,8 @@ bond: I'm loyal to my captain first, everything else second.
 birthday:
   numeric: 2/22
   written: 22nd of Corelent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Nathan Laeroth
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Dwarf Barbarian in Elkenval
-- wavy lighter blonde hair that's hanging down to their legs, Gray eyes, and Brown skin
+- long straight green hair that's wild, Gray eyes, and Brown skin
 - Is Plain and Competitive, and has Goodness as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Brianna Kosunten
 race: Dwarf
-hair: frizzy dirty blonde hair that's put back in a long pony tail
+hair: short straight black hair that's plain
 eyes: Gray
 skin: Dark Brown
 ideal: Security
@@ -13,6 +13,8 @@ bond: Should my discovery come to light, it could bring ruin to the world.
 birthday:
   numeric: 3/17
   written: 17th of Melorent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Selina Bellas
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 2nd year Dwarf Fighter in Fiesn
-- frizzy dirty blonde hair that's put back in a long pony tail, Gray eyes, and Dark Brown skin
+- short straight black hair that's plain, Gray eyes, and Dark Brown skin
 - Is Secure and Sedentary, and has Security as their ideal
 
 ### Organizations

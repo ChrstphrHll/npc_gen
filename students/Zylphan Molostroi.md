@@ -1,7 +1,7 @@
 ---
 name: Zylphan Molostroi
 race: Firbolg
-hair: wavy black hair that's geled back
+hair: long wavy white hair that's plain
 eyes: Amber
 skin: Pale Brown
 ideal: Honesty
@@ -14,6 +14,8 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 4/21
   written: 21st of Moradent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Romen Uldreiyn
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 8th year Firbolg Rouge in Fiesn
-- wavy black hair that's geled back, Amber eyes, and Pale Brown skin
+- long wavy white hair that's plain, Amber eyes, and Pale Brown skin
 - Is Firm and Hateful, and has Honesty as their ideal
 
 ### Organizations

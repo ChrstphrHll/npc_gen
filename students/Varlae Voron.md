@@ -1,7 +1,7 @@
 ---
 name: Varlae Voron
 race: Half-Orc
-hair: curly grey hair that's hanging down to their back
+hair: shoulder length wavy blonde hair that's put up
 eyes: Pale Gray
 skin: Pale Gray
 ideal: Peace
@@ -14,6 +14,8 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 6/17
   written: 17th of Pelent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Vyctor Willow
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 6th year Half-Orc Wizard in Treskal
-- curly grey hair that's hanging down to their back, Pale Gray eyes, and Pale Gray skin
+- shoulder length wavy blonde hair that's put up, Pale Gray eyes, and Pale Gray skin
 - Is Friendly and Foolish, and has Peace as their ideal
 
 ### Organizations

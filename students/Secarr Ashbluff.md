@@ -1,7 +1,7 @@
 ---
 name: Secarr Ashbluff
 race: Dragonborn
-hair: 3 straight horns
+hair: 4 jagged horns
 eyes: Emerald Green
 skin: blue
 ideal: Compassion
@@ -14,6 +14,8 @@ bond: I seek to preserve a sacred text that my enemies consider heretical and se
 birthday:
   numeric: 4/14
   written: 14th of Moradent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Thenol Shialaevar
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 6th year Dragonborn Barbarian in Burk
-- 3 straight horns, Emerald Green eyes, and blue skin
+- 4 jagged horns, Emerald Green eyes, and blue skin
 - Is Relaxed and Liar, and has Compassion as their ideal
 
 ### Organizations

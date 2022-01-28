@@ -1,7 +1,7 @@
 ---
 name: Kymber Korrigash
 race: Elf
-hair: wavy black hair that's parted to the side, slightly obscuring an eye
+hair: short straight platinum hair that's wild
 eyes: Amber
 skin: Dark Brown
 ideal: Abundance
@@ -14,6 +14,8 @@ bond: I owe a debt I can never repay to the person who took pity on me.
 birthday:
   numeric: 4/7
   written: 7th of Moradent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Gormoth Shyrrik
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 2nd year Elf Paladin in Jettenia
-- wavy black hair that's parted to the side, slightly obscuring an eye, Amber eyes, and Dark Brown skin
+- short straight platinum hair that's wild, Amber eyes, and Dark Brown skin
 - Is Just and Physical, and has Abundance as their ideal
 
 ### Organizations

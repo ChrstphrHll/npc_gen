@@ -1,8 +1,7 @@
 ---
 name: Themistoklea Nevarth
 race: Human
-hair: straight strawberry blond hair that's parted to the side, slightly obscuring
-  an eye
+hair: short wavy white hair that's braided
 eyes: Pale Brown
 skin: Dark Brown
 ideal: Patience
@@ -15,6 +14,8 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 5/27
   written: 27th of Iounent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Willam Ardryll
   type: partymate
@@ -46,7 +47,7 @@ tags:
 ---
 ### Description
 - 2nd year Human Monk in Treskal
-- straight strawberry blond hair that's parted to the side, slightly obscuring an eye, Pale Brown eyes, and Dark Brown skin
+- short wavy white hair that's braided, Pale Brown eyes, and Dark Brown skin
 - Is Invulnerable and Neglectful, and has Patience as their ideal
 
 ### Organizations

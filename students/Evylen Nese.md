@@ -1,7 +1,7 @@
 ---
 name: Evylen Nese
 race: Gnome
-hair: curly platinum hair that's parted to the right
+hair: short straight black hair that's put up
 eyes: Hazel
 skin: Dark Brown
 ideal: Perseverance
@@ -13,6 +13,8 @@ bond: I will face any challenge to win the approval of my family.
 birthday:
   numeric: 7/14
   written: 14th of Korent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Kova Tamara
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Rouge in Treskal
-- curly platinum hair that's parted to the right, Hazel eyes, and Dark Brown skin
+- short straight black hair that's put up, Hazel eyes, and Dark Brown skin
 - Is Effeminate and Dominating, and has Perseverance as their ideal
 
 ### Organizations

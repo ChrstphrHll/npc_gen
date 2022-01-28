@@ -1,7 +1,7 @@
 ---
 name: Audree Dixon
 race: Human
-hair: straight lighter blonde hair that's braided with turquoise ribbon (med)
+hair: long curly strawberry blond hair that's plain
 eyes: Blue
 skin: Fair
 ideal: Commonality
@@ -15,6 +15,8 @@ bond: I'm still seeking the enlightenment I pursued in my seclusion, and it stil
 birthday:
   numeric: 3/31
   written: 31st of Melorent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Aryana Ahrendue
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 1st year Human Monk in Alderden
-- straight lighter blonde hair that's braided with turquoise ribbon (med), Blue eyes, and Fair skin
+- long curly strawberry blond hair that's plain, Blue eyes, and Fair skin
 - Is Clean and Licentious, and has Commonality as their ideal
 
 ### Organizations

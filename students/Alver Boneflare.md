@@ -1,7 +1,7 @@
 ---
 name: Alver Boneflare
 race: Goliath
-hair: curly brunette hair that's hanging down to their back
+hair: long curly dirty blonde hair that's plain
 eyes: Pale Green
 skin: Light Tan
 ideal: Creativity
@@ -15,6 +15,8 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 3/27
   written: 27th of Melorent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Matto Divya
   type: partymate
@@ -48,7 +50,7 @@ tags:
 ---
 ### Description
 - 1st year Goliath Cleric in Jettenia
-- curly brunette hair that's hanging down to their back, Pale Green eyes, and Light Tan skin
+- long curly dirty blonde hair that's plain, Pale Green eyes, and Light Tan skin
 - Is Reflective and Cold-hearted, and has Creativity as their ideal
 
 ### Organizations

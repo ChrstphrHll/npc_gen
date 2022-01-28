@@ -1,7 +1,7 @@
 ---
 name: Aksel Strohm
 race: Tiefling
-hair: curly red hair that's put up in a large bun
+hair: long straight grey hair that's well kept
 eyes: Pale Green
 skin: Spring Green
 ideal: Vengful
@@ -13,6 +13,8 @@ bond: My house's alliance with another noble family must be sustained at all cos
 birthday:
   numeric: 6/6
   written: 6th of Pelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Jareth Tanseril
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 7th year Tiefling Sorcerer in Jettenia
-- curly red hair that's put up in a large bun, Pale Green eyes, and Spring Green skin
+- long straight grey hair that's well kept, Pale Green eyes, and Spring Green skin
 - Is Hypnotic and Impractical, and has Vengful as their ideal
 
 ### Organizations

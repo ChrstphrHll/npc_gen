@@ -1,7 +1,7 @@
 ---
 name: Ungris Riluaneth
 race: Dragonborn
-hair: frills
+hair: short spines
 eyes: Deep Blue
 skin: red
 ideal: Beauty
@@ -14,6 +14,8 @@ bond: Somewhere out there, I have a child who doesn't know me. I'm making the wo
 birthday:
   numeric: 8/19
   written: 19th of Ravenent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Gerrimar Vulkor
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 5th year Dragonborn Cleric in Treskal
-- frills, Deep Blue eyes, and red skin
+- short spines, Deep Blue eyes, and red skin
 - Is Sincere and Cruel, and has Beauty as their ideal
 
 ### Organizations

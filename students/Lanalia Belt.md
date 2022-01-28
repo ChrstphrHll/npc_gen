@@ -1,7 +1,7 @@
 ---
 name: Lanalia Belt
 race: Elf
-hair: straight strawberry blond hair that's hanging down to their back
+hair: short straight red hair that's plain
 eyes: Brown
 skin: Light Tan
 ideal: Hard Work
@@ -16,6 +16,8 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 7/6
   written: 6th of Korent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Bela Qwey
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 3rd year Elf Paladin in Treskal
-- straight strawberry blond hair that's hanging down to their back, Brown eyes, and Light Tan skin
+- short straight red hair that's plain, Brown eyes, and Light Tan skin
 - Is Organised and Insecure, and has Hard Work as their ideal
 
 ### Organizations

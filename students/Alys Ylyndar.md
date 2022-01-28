@@ -1,7 +1,7 @@
 ---
 name: Alys Ylyndar
 race: Human
-hair: straight auburn hair that's braided with violet ribbon (med)
+hair: long straight blue hair that's wild
 eyes: Blue
 skin: Fair
 ideal: Contributing
@@ -15,6 +15,8 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 2/11
   written: 11th of Corelent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Brynn Opalul
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 3rd year Human Monk in Burk
-- straight auburn hair that's braided with violet ribbon (med), Blue eyes, and Fair skin
+- long straight blue hair that's wild, Blue eyes, and Fair skin
 - Is Contented and Licentious, and has Contributing as their ideal
 
 ### Organizations

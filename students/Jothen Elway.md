@@ -1,7 +1,7 @@
 ---
 name: Jothen Elway
 race: Human
-hair: curly blonde hair that's braided with turquoise ribbon (long)
+hair: long wavy platinum hair that's braided
 eyes: Pale Green
 skin: Tan
 ideal: Cruelty
@@ -13,6 +13,8 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 6/24
   written: 24th of Pelent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Aidyn Glynnii
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Human Rouge in Elkenval
-- curly blonde hair that's braided with turquoise ribbon (long), Pale Green eyes, and Tan skin
+- long wavy platinum hair that's braided, Pale Green eyes, and Tan skin
 - Is Freewheeling and Dreamy, and has Cruelty as their ideal
 
 ### Organizations

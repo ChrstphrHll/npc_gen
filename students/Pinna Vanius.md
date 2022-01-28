@@ -1,7 +1,7 @@
 ---
 name: Pinna Vanius
 race: Elf
-hair: wavy black hair that's pulled to the side and buzzed on the left
+hair: shoulder length curly brunette hair that's braided
 eyes: Amber
 skin: Fair
 ideal: Redemption
@@ -14,6 +14,8 @@ bond: I have an ancient text that holds terrible secrets that must not fall into
 birthday:
   numeric: 4/8
   written: 8th of Moradent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Delos Ehlark
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 7th year Elf Bard in Fiesn
-- wavy black hair that's pulled to the side and buzzed on the left, Amber eyes, and Fair skin
+- shoulder length curly brunette hair that's braided, Amber eyes, and Fair skin
 - Is Original and Impractical, and has Redemption as their ideal
 
 ### Organizations

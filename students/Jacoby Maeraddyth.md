@@ -1,7 +1,7 @@
 ---
 name: Jacoby Maeraddyth
 race: Goliath
-hair: curly strawberry blond hair that's braided with pink ribbon (med)
+hair: short wavy brunette hair that's plain
 eyes: Pale Brown
 skin: Light
 ideal: Integrity
@@ -14,6 +14,8 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 5/25
   written: 25th of Iounent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Levy Maendellyn
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 2nd year Goliath Monk in Burk
-- curly strawberry blond hair that's braided with pink ribbon (med), Pale Brown eyes, and Light skin
+- short wavy brunette hair that's plain, Pale Brown eyes, and Light skin
 - Is Conservative and Invisible, and has Integrity as their ideal
 
 ### Organizations

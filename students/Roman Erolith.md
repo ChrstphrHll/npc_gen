@@ -1,7 +1,7 @@
 ---
 name: Roman Erolith
 race: Dragonborn
-hair: long spines
+hair: frills
 eyes: Pale Blue
 skin: blue
 ideal: Logic
@@ -14,6 +14,8 @@ bond: I idolize a hero of the old tales and measure my deeds against that person
 birthday:
   numeric: 5/19
   written: 19th of Iounent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Meira Nuvian
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 3rd year Dragonborn Monk in Burk
-- long spines, Pale Blue eyes, and blue skin
+- frills, Pale Blue eyes, and blue skin
 - Is Scrupulous and Shy, and has Logic as their ideal
 
 ### Organizations

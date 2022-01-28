@@ -1,7 +1,7 @@
 ---
 name: Aryana Velethuil
 race: Kenku
-hair: speckled
+hair: striped
 eyes: Pale Brown
 skin: Red
 ideal: Fun
@@ -15,6 +15,8 @@ bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, an
 birthday:
   numeric: 5/4
   written: 4th of Iounent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Abramo Sudryl
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 4th year Kenku Wizard in Elkenval
-- speckled, Pale Brown eyes, and Red skin
+- striped, Pale Brown eyes, and Red skin
 - Is Clear-headed and Fawning, and has Fun as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Adros Tolthe
 race: Goliath
-hair: straight strawberry blond hair that's put up in a large bun
+hair: short straight blue hair that's put up
 eyes: Pale Blue
 skin: Tan
 ideal: Uncaring
@@ -14,6 +14,8 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 1/33
   written: 33rd of Avanent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Matos Mektal
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 5th year Goliath Bard in Jettenia
-- straight strawberry blond hair that's put up in a large bun, Pale Blue eyes, and Tan skin
+- short straight blue hair that's put up, Pale Blue eyes, and Tan skin
 - Is Scholarly and Overimaginative, and has Uncaring as their ideal
 
 ### Organizations

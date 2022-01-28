@@ -1,7 +1,7 @@
 ---
 name: Theriss Deularla
 race: Gnome
-hair: straight brunette hair that's parted to the side, slightly obscuring an eye
+hair: shoulder length wavy dark red hair that's put up
 eyes: Pale Gray
 skin: Dark Tan
 ideal: Knowledge
@@ -14,6 +14,8 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 4/4
   written: 4th of Moradent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Vyctor Willow
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 6th year Gnome Cleric in Treskal
-- straight brunette hair that's parted to the side, slightly obscuring an eye, Pale Gray eyes, and Dark Tan skin
+- shoulder length wavy dark red hair that's put up, Pale Gray eyes, and Dark Tan skin
 - Is Attentive and Fraudulent, and has Knowledge as their ideal
 
 ### Organizations

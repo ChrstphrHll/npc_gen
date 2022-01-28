@@ -1,7 +1,7 @@
 ---
 name: Rivik Connak
 race: Triton
-hair: wavy white hair that's parted to the right
+hair: long wavy brunette hair that's well kept
 eyes: Aqua
 skin: Olive
 ideal: Humanity
@@ -15,6 +15,8 @@ bond: I have a family, but I have no idea where they are. One day, I hope to see
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Kessa Keller
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 3rd year Triton Monk in Elkenval
-- wavy white hair that's parted to the right, Aqua eyes, and Olive skin
+- long wavy brunette hair that's well kept, Aqua eyes, and Olive skin
 - Is Hearty and Neutral, and has Humanity as their ideal
 
 ### Organizations

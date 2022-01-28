@@ -1,7 +1,7 @@
 ---
 name: Diegon Verrona
 race: Dragonborn
-hair: frills
+hair: short spines
 eyes: Deep Blue
 skin: bronze
 ideal: Loyalty
@@ -15,6 +15,8 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 5/2
   written: 2nd of Iounent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Adresin Ilbryn
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 1st year Dragonborn Rouge in Elkenval
-- frills, Deep Blue eyes, and bronze skin
+- short spines, Deep Blue eyes, and bronze skin
 - Is Trustworthy and Weak, and has Loyalty as their ideal
 
 ### Organizations

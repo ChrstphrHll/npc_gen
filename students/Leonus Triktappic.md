@@ -1,7 +1,7 @@
 ---
 name: Leonus Triktappic
 race: Halfling
-hair: wavy grey hair that's loose around the shoulders
+hair: long straight lighter blonde hair that's messy
 eyes: Amber
 skin: Fair
 ideal: Redemption
@@ -14,6 +14,8 @@ bond: I seek to preserve a sacred text that my enemies consider heretical and se
 birthday:
   numeric: 5/29
   written: 29th of Iounent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Abel Marsh
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 5th year Halfling Barbarian in Fiesn
-- wavy grey hair that's loose around the shoulders, Amber eyes, and Fair skin
+- long straight lighter blonde hair that's messy, Amber eyes, and Fair skin
 - Is Extraordinary and Prejudiced, and has Redemption as their ideal
 
 ### Organizations

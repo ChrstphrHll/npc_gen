@@ -1,7 +1,7 @@
 ---
 name: Jess Beebe
 race: Firbolg
-hair: straight dirty blonde hair that's done up in a top knot
+hair: shoulder length curly auburn hair that's wild
 eyes: Hazel
 skin: Pale Gray
 ideal: Finesse
@@ -13,6 +13,8 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 5/1
   written: 1st of Iounent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Tyego Sinaht
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 3rd year Firbolg Cleric in Fiesn
-- straight dirty blonde hair that's done up in a top knot, Hazel eyes, and Pale Gray skin
+- shoulder length curly auburn hair that's wild, Hazel eyes, and Pale Gray skin
 - Is Impressive and Unkind, and has Finesse as their ideal
 
 ### Organizations

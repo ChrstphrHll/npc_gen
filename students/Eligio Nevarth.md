@@ -1,7 +1,7 @@
 ---
 name: Eligio Nevarth
 race: Dragonborn
-hair: short spines
+hair: many twisted horns
 eyes: Amber
 skin: brass
 ideal: Lead by example
@@ -13,6 +13,8 @@ bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 4/1
   written: 1st of Moradent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Q Yulmanda
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 2nd year Dragonborn Ranger in Burk
-- short spines, Amber eyes, and brass skin
+- many twisted horns, Amber eyes, and brass skin
 - Is Neat and Troublesome, and has Lead by example as their ideal
 
 ### Organizations

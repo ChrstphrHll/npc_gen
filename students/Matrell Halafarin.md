@@ -1,7 +1,7 @@
 ---
 name: Matrell Halafarin
 race: Aasimar
-hair: wavy blonde hair that's hanging down to their back
+hair: long curly strawberry blond hair that's well kept
 eyes: Pale Gray
 skin: Dark Brown
 ideal: Abundance
@@ -14,6 +14,8 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 2/19
   written: 19th of Corelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Giacomo Edraele
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 2nd year Aasimar Artificer in Treskal
-- wavy blonde hair that's hanging down to their back, Pale Gray eyes, and Dark Brown skin
+- long curly strawberry blond hair that's well kept, Pale Gray eyes, and Dark Brown skin
 - Is Mischievous and Repentant, and has Abundance as their ideal
 
 ### Organizations

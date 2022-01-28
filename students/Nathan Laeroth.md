@@ -1,7 +1,7 @@
 ---
 name: Nathan Laeroth
 race: Gnome
-hair: frizzy auburn hair that's a tousled bed head
+hair: shoulder length straight red hair that's plain
 eyes: Blue
 skin: Pale
 ideal: Fun
@@ -14,6 +14,8 @@ bond: My tools are symbols of my past life, and I carry them so that I will neve
 birthday:
   numeric: 2/5
   written: 5th of Corelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Jendrellian Webb
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Artificer in Elkenval
-- frizzy auburn hair that's a tousled bed head, Blue eyes, and Pale skin
+- shoulder length straight red hair that's plain, Blue eyes, and Pale skin
 - Is Sweet and Wicked, and has Fun as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Alyx Nopos
 race: Tiefling
-hair: curly blue hair that's parted to the right
+hair: shoulder length curly brunette hair that's wild
 eyes: Aqua
 skin: Sea Green
 ideal: Intelligence
@@ -13,6 +13,8 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Asten Alavara
   type: partymate
@@ -40,7 +42,7 @@ tags:
 ---
 ### Description
 - 6th year Tiefling Rouge in Fiesn
-- curly blue hair that's parted to the right, Aqua eyes, and Sea Green skin
+- shoulder length curly brunette hair that's wild, Aqua eyes, and Sea Green skin
 - Is Maternal and Freewheeling, and has Intelligence as their ideal
 
 ### Organizations

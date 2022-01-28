@@ -1,7 +1,7 @@
 ---
 name: Ivistra Stockton
 race: Tiefling
-hair: wavy grey hair that's put back in a long pony tail
+hair: short wavy platinum hair that's braided
 eyes: Green
 skin: Pale Yellow
 ideal: Exceptionalism
@@ -14,6 +14,8 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 1/25
   written: 25th of Avanent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Matos Mektal
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 5th year Tiefling Wizard in Jettenia
-- wavy grey hair that's put back in a long pony tail, Green eyes, and Pale Yellow skin
+- short wavy platinum hair that's braided, Green eyes, and Pale Yellow skin
 - Is Mellow and Single-minded, and has Exceptionalism as their ideal
 
 ### Organizations

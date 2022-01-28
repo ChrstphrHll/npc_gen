@@ -1,7 +1,7 @@
 ---
 name: Jovos Seldanna
 race: Half-Elf
-hair: straight black hair that's put back in a long pony tail
+hair: short wavy blonde hair that's put up
 eyes: Brown
 skin: Light Tan
 ideal: Peace
@@ -14,6 +14,8 @@ bond: It is my duty to protect my students.
 birthday:
   numeric: 3/23
   written: 23rd of Melorent
+origin: Chilliwld Peaks
+relvance: 0
 relationships:
 - name: Railyn Retenia
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 3rd year Half-Elf Paladin in Jettenia
-- straight black hair that's put back in a long pony tail, Brown eyes, and Light Tan skin
+- short wavy blonde hair that's put up, Brown eyes, and Light Tan skin
 - Is Suave and Crude, and has Peace as their ideal
 
 ### Organizations

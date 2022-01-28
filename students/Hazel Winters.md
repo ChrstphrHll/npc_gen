@@ -1,7 +1,7 @@
 ---
 name: Hazel Winters
 race: Firbolg
-hair: straight black hair that's put back in a short pony tail
+hair: short curly auburn hair that's braided
 eyes: Hazel
 skin: Pale Green
 ideal: Entrepreneurial
@@ -14,6 +14,8 @@ bond: I seek to preserve a sacred text that my enemies consider heretical and se
 birthday:
   numeric: 6/18
   written: 18th of Pelent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Murunay Illfate
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 4th year Firbolg Monk in Burk
-- straight black hair that's put back in a short pony tail, Hazel eyes, and Pale Green skin
+- short curly auburn hair that's braided, Hazel eyes, and Pale Green skin
 - Is Political and Stupid, and has Entrepreneurial as their ideal
 
 ### Organizations

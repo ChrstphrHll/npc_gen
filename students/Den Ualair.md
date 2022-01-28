@@ -1,7 +1,7 @@
 ---
 name: Den Ualair
 race: Half-Orc
-hair: straight strawberry blond hair that's hanging down to their back
+hair: short curly platinum hair that's braided
 eyes: Pale Blue
 skin: Green Blue
 ideal: Vengful
@@ -13,6 +13,8 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 1/18
   written: 18th of Avanent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Ilksal Immianthe
   type: partymate
@@ -40,7 +42,7 @@ tags:
 ---
 ### Description
 - 3rd year Half-Orc Artificer in Treskal
-- straight strawberry blond hair that's hanging down to their back, Pale Blue eyes, and Green Blue skin
+- short curly platinum hair that's braided, Pale Blue eyes, and Green Blue skin
 - Is Impressive and Faithless, and has Vengful as their ideal
 
 ### Organizations

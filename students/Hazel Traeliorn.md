@@ -1,7 +1,7 @@
 ---
 name: Hazel Traeliorn
 race: Tiefling
-hair: curly grey hair that's put up in a large bun
+hair: shoulder length wavy strawberry blond hair that's plain
 eyes: Brown
 skin: Blue
 ideal: Caring
@@ -14,6 +14,8 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 7/12
   written: 12th of Korent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Whit Remington
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 1st year Tiefling Monk in Burk
-- curly grey hair that's put up in a large bun, Brown eyes, and Blue skin
+- shoulder length wavy strawberry blond hair that's plain, Brown eyes, and Blue skin
 - Is Adventurous and Unctuous, and has Caring as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Asmiak Seirye
 race: Human
-hair: wavy violet hair that's parted to the right
+hair: shoulder length wavy strawberry blond hair that's plain
 eyes: Brown
 skin: Fair
 ideal: Anti-Authority
@@ -14,6 +14,8 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 3/28
   written: 28th of Melorent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Kendel Shael
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Human Paladin in Alderden
-- wavy violet hair that's parted to the right, Brown eyes, and Fair skin
+- shoulder length wavy strawberry blond hair that's plain, Brown eyes, and Fair skin
 - Is Masculine and Impractical, and has Anti-Authority as their ideal
 
 ### Organizations

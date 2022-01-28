@@ -1,7 +1,7 @@
 ---
 name: Halja Dwyer
 race: Tiefling
-hair: straight grey hair that's done up in a top knot
+hair: short wavy pink hair that's plain
 eyes: Spring Green
 skin: Pale Blue
 ideal: Prosperity
@@ -13,6 +13,8 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 5/10
   written: 10th of Iounent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Yathlanae Arkhun
   type: partymate
@@ -40,7 +42,7 @@ tags:
 ---
 ### Description
 - 1st year Tiefling Fighter in Alderden
-- straight grey hair that's done up in a top knot, Spring Green eyes, and Pale Blue skin
+- short wavy pink hair that's plain, Spring Green eyes, and Pale Blue skin
 - Is Iconoclastic and Stingy, and has Prosperity as their ideal
 
 ### Organizations

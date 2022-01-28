@@ -1,7 +1,7 @@
 ---
 name: Lynx Galather
 race: Human
-hair: wavy brunette hair that's parted to the right
+hair: long wavy dirty blonde hair that's plain
 eyes: Amber
 skin: Tan
 ideal: Responsibility
@@ -14,6 +14,8 @@ bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, an
 birthday:
   numeric: 7/30
   written: 30th of Korent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Corliss Akkar
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Human Monk in Burk
-- wavy brunette hair that's parted to the right, Amber eyes, and Tan skin
+- long wavy dirty blonde hair that's plain, Amber eyes, and Tan skin
 - Is Reasonable and Resentful, and has Responsibility as their ideal
 
 ### Organizations

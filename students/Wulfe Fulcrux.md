@@ -1,7 +1,7 @@
 ---
 name: Wulfe Fulcrux
 race: Firbolg
-hair: wavy platinum hair that's parted to the side, slightly obscuring an eye
+hair: shoulder length wavy grey hair that's plain
 eyes: Hazel
 skin: Pale Brown
 ideal: Personal Development
@@ -13,6 +13,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 5/7
   written: 7th of Iounent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Faliah Oluevaera
   type: partymate
@@ -40,7 +42,7 @@ tags:
 ---
 ### Description
 - 8th year Firbolg Wizard in Elkenval
-- wavy platinum hair that's parted to the side, slightly obscuring an eye, Hazel eyes, and Pale Brown skin
+- shoulder length wavy grey hair that's plain, Hazel eyes, and Pale Brown skin
 - Is Courteous and Deceptive, and has Personal Development as their ideal
 
 ### Organizations

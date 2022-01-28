@@ -1,7 +1,7 @@
 ---
 name: Gianesia Onvyr
 race: Dwarf
-hair: straight blonde hair that's loose around the shoulders
+hair: shoulder length curly black hair that's plain
 eyes: Blue
 skin: Light
 ideal: Competition
@@ -13,6 +13,8 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 1/25
   written: 25th of Avanent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Moki Aelynthi
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 6th year Dwarf Monk in Burk
-- straight blonde hair that's loose around the shoulders, Blue eyes, and Light skin
+- shoulder length curly black hair that's plain, Blue eyes, and Light skin
 - Is Humorous and Opportunistic, and has Competition as their ideal
 
 ### Organizations

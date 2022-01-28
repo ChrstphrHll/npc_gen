@@ -1,7 +1,7 @@
 ---
 name: Averra Taleisin
 race: Elf
-hair: wavy brunette hair that's put up in a large bun
+hair: long straight auburn hair that's well kept
 eyes: Pale Brown
 skin: Dark Tan
 ideal: Cruelty
@@ -14,6 +14,8 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 7/15
   written: 15th of Korent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Efjan Andrathath
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Elf Druid in Burk
-- wavy brunette hair that's put up in a large bun, Pale Brown eyes, and Dark Tan skin
+- long straight auburn hair that's well kept, Pale Brown eyes, and Dark Tan skin
 - Is Lucky and Hedonistic, and has Cruelty as their ideal
 
 ### Organizations

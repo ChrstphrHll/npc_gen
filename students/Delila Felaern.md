@@ -1,7 +1,7 @@
 ---
 name: Delila Felaern
 race: Gnome
-hair: wavy grey hair that's parted to the side, slightly obscuring an eye
+hair: long frizzy brunette hair that's wild
 eyes: Gray
 skin: Pale
 ideal: Success
@@ -13,6 +13,8 @@ bond: I'm loyal to my captain first, everything else second.
 birthday:
   numeric: 4/8
   written: 8th of Moradent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Dylan Usunaar
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 5th year Gnome Druid in Elkenval
-- wavy grey hair that's parted to the side, slightly obscuring an eye, Gray eyes, and Pale skin
+- long frizzy brunette hair that's wild, Gray eyes, and Pale skin
 - Is Ordinary and Insulting, and has Success as their ideal
 
 ### Organizations

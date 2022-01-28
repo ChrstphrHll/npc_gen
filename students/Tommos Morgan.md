@@ -1,7 +1,7 @@
 ---
 name: Tommos Morgan
 race: Elf
-hair: curly auburn hair that's parted to the left
+hair: long straight auburn hair that's plain
 eyes: Hazel
 skin: Dark Brown
 ideal: Commonality
@@ -13,6 +13,8 @@ bond: Everything I do is for the common people.
 birthday:
   numeric: 6/23
   written: 23rd of Pelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Alinea Hellsturn
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 5th year Elf Sorcerer in Alderden
-- curly auburn hair that's parted to the left, Hazel eyes, and Dark Brown skin
+- long straight auburn hair that's plain, Hazel eyes, and Dark Brown skin
 - Is Undemanding and Tough, and has Commonality as their ideal
 
 ### Organizations

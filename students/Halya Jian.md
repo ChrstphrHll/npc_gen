@@ -1,7 +1,7 @@
 ---
 name: Halya Jian
 race: Genasi
-hair: curly white hair that's geled back
+hair: shoulder length curly blonde hair that's braided
 eyes: Blue
 skin: fire
 ideal: Home
@@ -14,6 +14,8 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Victor Gaelira
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Genasi Druid in Fiesn
-- curly white hair that's geled back, Blue eyes, and fire skin
+- shoulder length curly blonde hair that's braided, Blue eyes, and fire skin
 - Is Farsighted and Imprudent, and has Home as their ideal
 
 ### Organizations

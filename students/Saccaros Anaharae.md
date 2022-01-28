@@ -1,7 +1,7 @@
 ---
 name: Saccaros Anaharae
 race: Tiefling
-hair: wavy auburn hair that's put back in a short pony tail
+hair: short straight auburn hair that's plain
 eyes: Purple
 skin: Aqua
 ideal: Hard Work
@@ -13,6 +13,8 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 5/13
   written: 13th of Iounent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Kazoan Windward
   type: partymate
@@ -40,7 +42,7 @@ tags:
 ---
 ### Description
 - 2nd year Tiefling Ranger in Treskal
-- wavy auburn hair that's put back in a short pony tail, Purple eyes, and Aqua skin
+- short straight auburn hair that's plain, Purple eyes, and Aqua skin
 - Is Confident and Naïve, and has Hard Work as their ideal
 
 ### Organizations

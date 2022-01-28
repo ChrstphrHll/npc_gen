@@ -1,7 +1,7 @@
 ---
 name: Tezani Morthil
 race: Elf
-hair: straight auburn hair that's put up in a large bun
+hair: short wavy brunette hair that's plain
 eyes: Gray
 skin: Light Tan
 ideal: Generosity
@@ -15,6 +15,8 @@ bond: My ill-gotten gains go to support my family.
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Eune Eldratha
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 2nd year Elf Wizard in Elkenval
-- straight auburn hair that's put up in a large bun, Gray eyes, and Light Tan skin
+- short wavy brunette hair that's plain, Gray eyes, and Light Tan skin
 - Is Deceptive and Extreme, and has Generosity as their ideal
 
 ### Organizations

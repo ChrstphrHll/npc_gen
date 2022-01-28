@@ -1,7 +1,7 @@
 ---
 name: Dejana Keller
 race: Firbolg
-hair: curly brunette hair that's hanging down to their back
+hair: long wavy white hair that's plain
 eyes: Brown
 skin: Pale Blue
 ideal: Clarity
@@ -15,6 +15,8 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 4/28
   written: 28th of Moradent
+origin: Chilliwld Peaks
+relvance: 0
 relationships:
 - name: Ysaac Aelrue
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 1st year Firbolg Cleric in Treskal
-- curly brunette hair that's hanging down to their back, Brown eyes, and Pale Blue skin
+- long wavy white hair that's plain, Brown eyes, and Pale Blue skin
 - Is Zealous and Angry, and has Clarity as their ideal
 
 ### Organizations

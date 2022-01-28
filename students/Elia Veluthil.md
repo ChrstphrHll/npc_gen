@@ -1,7 +1,7 @@
 ---
 name: Elia Veluthil
 race: Firbolg
-hair: wavy dirty blonde hair that's braided with blue ribbon (long)
+hair: shoulder length frizzy white hair that's wild
 eyes: Pale Blue
 skin: Pale Green
 ideal: Perseverance
@@ -13,6 +13,8 @@ bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 1/10
   written: 10th of Avanent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Aelisabeth Soliania
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 3rd year Firbolg Bard in Burk
-- wavy dirty blonde hair that's braided with blue ribbon (long), Pale Blue eyes, and Pale Green skin
+- shoulder length frizzy white hair that's wild, Pale Blue eyes, and Pale Green skin
 - Is Charming and Unhurried, and has Perseverance as their ideal
 
 ### Organizations

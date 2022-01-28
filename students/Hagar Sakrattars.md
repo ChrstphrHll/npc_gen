@@ -1,7 +1,7 @@
 ---
 name: Hagar Sakrattars
 race: Tiefling
-hair: curly brunette hair that's kept back by a blue headband
+hair: shoulder length straight strawberry blond hair that's well kept
 eyes: Blue
 skin: Pale Yellow
 ideal: Competition
@@ -15,6 +15,8 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 2/24
   written: 24th of Corelent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Lyonus Ioelena
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 2nd year Tiefling Cleric in Burk
-- curly brunette hair that's kept back by a blue headband, Blue eyes, and Pale Yellow skin
+- shoulder length straight strawberry blond hair that's well kept, Blue eyes, and Pale Yellow skin
 - Is Conforming and Criminal, and has Competition as their ideal
 
 ### Organizations

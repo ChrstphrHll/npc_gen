@@ -1,7 +1,7 @@
 ---
 name: Aniari Arlayna
 race: Elf
-hair: wavy dark red hair that's put back in a short pony tail
+hair: long wavy white hair that's plain
 eyes: Pale Brown
 skin: Light
 ideal: Courage
@@ -14,6 +14,8 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 3/3
   written: 3rd of Melorent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Nycola Eroan
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Elf Barbarian in Elkenval
-- wavy dark red hair that's put back in a short pony tail, Pale Brown eyes, and Light skin
+- long wavy white hair that's plain, Pale Brown eyes, and Light skin
 - Is Knowledgeable and Dishonest, and has Courage as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Hudsen Aluendalee
 race: Half-Elf
-hair: curly brunette hair that's hanging down to their back
+hair: long wavy brunette hair that's plain
 eyes: Blue
 skin: Dark Tan
 ideal: Logic
@@ -15,6 +15,8 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 3/22
   written: 22nd of Melorent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Astinus Sythaeryn
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 4th year Half-Elf Wizard in Fiesn
-- curly brunette hair that's hanging down to their back, Blue eyes, and Dark Tan skin
+- long wavy brunette hair that's plain, Blue eyes, and Dark Tan skin
 - Is Jolly and Noncompetitive, and has Logic as their ideal
 
 ### Organizations

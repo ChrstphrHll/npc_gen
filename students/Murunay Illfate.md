@@ -1,7 +1,7 @@
 ---
 name: Murunay Illfate
 race: Elf
-hair: curly dark red hair that's hanging down to their back
+hair: shoulder length straight brunette hair that's messy
 eyes: Brown
 skin: Brown
 ideal: Affection
@@ -14,6 +14,8 @@ bond: Everything I do is for the common people.
 birthday:
   numeric: 6/20
   written: 20th of Pelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Hazel Winters
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 4th year Elf Ranger in Burk
-- curly dark red hair that's hanging down to their back, Brown eyes, and Brown skin
+- shoulder length straight brunette hair that's messy, Brown eyes, and Brown skin
 - Is Restrained and Immature, and has Affection as their ideal
 
 ### Organizations

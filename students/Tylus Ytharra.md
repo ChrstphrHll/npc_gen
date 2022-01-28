@@ -1,7 +1,7 @@
 ---
 name: Tylus Ytharra
 race: Tiefling
-hair: curly red hair that's hanging down to their back
+hair: shoulder length curly brunette hair that's messy
 eyes: Yellow
 skin: Pale Brown
 ideal: Learning
@@ -14,6 +14,8 @@ bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 6/32
   written: 32nd of Pelent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Gabrilo Kulo
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 2nd year Tiefling Monk in Elkenval
-- curly red hair that's hanging down to their back, Yellow eyes, and Pale Brown skin
+- shoulder length curly brunette hair that's messy, Yellow eyes, and Pale Brown skin
 - Is Freewheeling and Conforming, and has Learning as their ideal
 
 ### Organizations

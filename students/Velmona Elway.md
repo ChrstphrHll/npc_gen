@@ -1,7 +1,7 @@
 ---
 name: Velmona Elway
 race: Kenku
-hair: striped
+hair: speckled
 eyes: Hazel
 skin: Red
 ideal: Generosity
@@ -13,6 +13,8 @@ bond: I am in love with the heir of a family that my family despises.
 birthday:
   numeric: 1/6
   written: 6th of Avanent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Theodus Chylnoth
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Kenku Monk in Elkenval
-- striped, Hazel eyes, and Red skin
+- speckled, Hazel eyes, and Red skin
 - Is Civilised and Sadistic, and has Generosity as their ideal
 
 ### Organizations

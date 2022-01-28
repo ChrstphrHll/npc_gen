@@ -1,7 +1,7 @@
 ---
 name: Kessa Keller
 race: Human
-hair: wavy white hair that's kept back by a blue headband
+hair: long straight black hair that's braided
 eyes: Hazel
 skin: Tan
 ideal: Integrity
@@ -14,6 +14,8 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Rivik Connak
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 3rd year Human Ranger in Elkenval
-- wavy white hair that's kept back by a blue headband, Hazel eyes, and Tan skin
+- long straight black hair that's braided, Hazel eyes, and Tan skin
 - Is Enigmatic and Regretful, and has Integrity as their ideal
 
 ### Organizations

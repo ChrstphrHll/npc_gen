@@ -1,7 +1,7 @@
 ---
 name: Leya Escobar
 race: Human
-hair: wavy grey hair that's done up in a top knot
+hair: shoulder length wavy platinum hair that's plain
 eyes: Pale Gray
 skin: Dark Brown
 ideal: Righteous
@@ -14,6 +14,8 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 6/25
   written: 25th of Pelent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Gina Grandius
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 3rd year Human Fighter in Alderden
-- wavy grey hair that's done up in a top knot, Pale Gray eyes, and Dark Brown skin
+- shoulder length wavy platinum hair that's plain, Pale Gray eyes, and Dark Brown skin
 - Is Self-disciplined and Mawkish, and has Righteous as their ideal
 
 ### Organizations

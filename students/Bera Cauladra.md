@@ -1,7 +1,7 @@
 ---
 name: Bera Cauladra
 race: Gnome
-hair: curly blonde hair that's parted to the right
+hair: short wavy auburn hair that's wild
 eyes: Pale Blue
 skin: Tan
 ideal: Clarity
@@ -15,6 +15,8 @@ bond: I entered seclusion to hide from the ones who might still be hunting me. I
 birthday:
   numeric: 4/25
   written: 25th of Moradent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Auzerais Venali
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 4th year Gnome Cleric in Elkenval
-- curly blonde hair that's parted to the right, Pale Blue eyes, and Tan skin
+- short wavy auburn hair that's wild, Pale Blue eyes, and Tan skin
 - Is Modern and Destructive, and has Clarity as their ideal
 
 ### Organizations

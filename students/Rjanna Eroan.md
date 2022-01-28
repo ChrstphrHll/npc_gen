@@ -1,7 +1,7 @@
 ---
 name: Rjanna Eroan
 race: Tiefling
-hair: straight white hair that's done up in a top knot
+hair: short wavy violet hair that's wild
 eyes: Pale Brown
 skin: Pale Blue
 ideal: Stoicism
@@ -15,6 +15,8 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 8/6
   written: 6th of Ravenent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Shinare Bersa
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 1st year Tiefling Paladin in Fiesn
-- straight white hair that's done up in a top knot, Pale Brown eyes, and Pale Blue skin
+- short wavy violet hair that's wild, Pale Brown eyes, and Pale Blue skin
 - Is Sentimental and Procrastinating, and has Stoicism as their ideal
 
 ### Organizations

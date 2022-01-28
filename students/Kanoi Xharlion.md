@@ -1,7 +1,7 @@
 ---
 name: Kanoi Xharlion
 race: Dwarf
-hair: straight brunette hair that's put up in a large bun
+hair: shoulder length curly auburn hair that's wild
 eyes: Pale Brown
 skin: Tan
 ideal: Professionalism
@@ -14,6 +14,8 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 7/20
   written: 20th of Korent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Ljuk Vulkor
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 2nd year Dwarf Artificer in Elkenval
-- straight brunette hair that's put up in a large bun, Pale Brown eyes, and Tan skin
+- shoulder length curly auburn hair that's wild, Pale Brown eyes, and Tan skin
 - Is Sarcastic and Odd, and has Professionalism as their ideal
 
 ### Organizations

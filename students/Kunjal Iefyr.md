@@ -1,7 +1,7 @@
 ---
 name: Kunjal Iefyr
 race: Halfling
-hair: curly lighter blonde hair that's done up in a top knot
+hair: long curly dark red hair that's plain
 eyes: Pale Gray
 skin: Light Tan
 ideal: Faith
@@ -16,6 +16,8 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 6/6
   written: 6th of Pelent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Guliemos Nym
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 4th year Halfling Cleric in Fiesn
-- curly lighter blonde hair that's done up in a top knot, Pale Gray eyes, and Light Tan skin
+- long curly dark red hair that's plain, Pale Gray eyes, and Light Tan skin
 - Is Carefree and Mannerless, and has Faith as their ideal
 
 ### Organizations

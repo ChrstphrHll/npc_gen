@@ -1,7 +1,7 @@
 ---
 name: Brynn Opalul
 race: Tiefling
-hair: wavy dark red hair that's loose around the shoulders
+hair: short curly dark red hair that's plain
 eyes: Red
 skin: Pale Yellow
 ideal: Charisma
@@ -15,6 +15,8 @@ bond: I entered seclusion because I loved someone I could not have.
 birthday:
   numeric: 4/28
   written: 28th of Moradent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Alys Ylyndar
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 3rd year Tiefling Paladin in Burk
-- wavy dark red hair that's loose around the shoulders, Red eyes, and Pale Yellow skin
+- short curly dark red hair that's plain, Red eyes, and Pale Yellow skin
 - Is Devoted and Odd, and has Charisma as their ideal
 
 ### Organizations

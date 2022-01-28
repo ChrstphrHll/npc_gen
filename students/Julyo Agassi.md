@@ -1,7 +1,7 @@
 ---
 name: Julyo Agassi
 race: Dwarf
-hair: wavy dark red hair that's braided with blue ribbon (long)
+hair: short curly black hair that's plain
 eyes: Green
 skin: Dark Brown
 ideal: Peace
@@ -14,6 +14,8 @@ bond: My life's work is a series of tomes related to a specific field of lore.
 birthday:
   numeric: 4/11
   written: 11th of Moradent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Goshwa Khiipaera
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 5th year Dwarf Sorcerer in Elkenval
-- wavy dark red hair that's braided with blue ribbon (long), Green eyes, and Dark Brown skin
+- short curly black hair that's plain, Green eyes, and Dark Brown skin
 - Is Stable and Harsh, and has Peace as their ideal
 
 ### Organizations

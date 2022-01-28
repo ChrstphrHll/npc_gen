@@ -1,7 +1,7 @@
 ---
 name: Guliemos Nym
 race: Half-Elf
-hair: curly white hair that's done up in a top knot
+hair: long wavy white hair that's plain
 eyes: Pale Green
 skin: Dark Tan
 ideal: Affection
@@ -15,6 +15,8 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 6/9
   written: 9th of Pelent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Kunjal Iefyr
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 4th year Half-Elf Fighter in Fiesn
-- curly white hair that's done up in a top knot, Pale Green eyes, and Dark Tan skin
+- long wavy white hair that's plain, Pale Green eyes, and Dark Tan skin
 - Is Solemn and Critical, and has Affection as their ideal
 
 ### Organizations

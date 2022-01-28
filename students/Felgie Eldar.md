@@ -1,7 +1,7 @@
 ---
 name: Felgie Eldar
 race: Goliath
-hair: wavy dirty blonde hair that's put back in a long pony tail
+hair: long curly white hair that's plain
 eyes: Hazel
 skin: Light Tan
 ideal: Spiritualism
@@ -14,6 +14,8 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 4/12
   written: 12th of Moradent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Selina Bellas
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 2nd year Goliath Druid in Fiesn
-- wavy dirty blonde hair that's put back in a long pony tail, Hazel eyes, and Light Tan skin
+- long curly white hair that's plain, Hazel eyes, and Light Tan skin
 - Is Dreamer and Profligate, and has Spiritualism as their ideal
 
 ### Organizations

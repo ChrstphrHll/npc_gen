@@ -1,7 +1,7 @@
 ---
 name: Caeleb Embrae
 race: Tiefling
-hair: straight blue hair that's geled back
+hair: short curly lighter blonde hair that's put up
 eyes: Aqua
 skin: Deep Blue
 ideal: Invention
@@ -14,6 +14,8 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 5/18
   written: 18th of Iounent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Liris Bhyrindaar
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 2nd year Tiefling Bard in Fiesn
-- straight blue hair that's geled back, Aqua eyes, and Deep Blue skin
+- short curly lighter blonde hair that's put up, Aqua eyes, and Deep Blue skin
 - Is Skillful and Libidinous, and has Invention as their ideal
 
 ### Organizations

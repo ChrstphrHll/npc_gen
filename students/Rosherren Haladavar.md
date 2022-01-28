@@ -1,7 +1,7 @@
 ---
 name: Rosherren Haladavar
 race: Genasi
-hair: wavy platinum hair that's loose around the shoulders
+hair: long curly blonde hair that's put up
 eyes: Pale Green
 skin: earth
 ideal: Excitement
@@ -14,6 +14,8 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 6/31
   written: 31st of Pelent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Brinna Muerlara
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Genasi Fighter in Burk
-- wavy platinum hair that's loose around the shoulders, Pale Green eyes, and earth skin
+- long curly blonde hair that's put up, Pale Green eyes, and earth skin
 - Is Discerning and Artificial, and has Excitement as their ideal
 
 ### Organizations

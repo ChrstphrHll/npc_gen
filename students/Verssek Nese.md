@@ -1,7 +1,7 @@
 ---
 name: Verssek Nese
 race: Half-Elf
-hair: wavy dirty blonde hair that's hanging down to their back
+hair: short straight strawberry blond hair that's plain
 eyes: Gray
 skin: Light
 ideal: Logic
@@ -16,6 +16,8 @@ bond: I have an ancient text that holds terrible secrets that must not fall into
 birthday:
   numeric: 6/13
   written: 13th of Pelent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Favroe Kythaela
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 3rd year Half-Elf Artificer in Treskal
-- wavy dirty blonde hair that's hanging down to their back, Gray eyes, and Light skin
+- short straight strawberry blond hair that's plain, Gray eyes, and Light skin
 - Is Gentle and Impassive, and has Logic as their ideal
 
 ### Organizations

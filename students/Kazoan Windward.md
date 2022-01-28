@@ -1,7 +1,7 @@
 ---
 name: Kazoan Windward
 race: Firbolg
-hair: curly white hair that's parted to the side, slightly obscuring an eye
+hair: short frizzy white hair that's plain
 eyes: Pale Green
 skin: Pale Gray
 ideal: Austerity
@@ -14,6 +14,8 @@ bond: In a harbor town, I have a paramour whose eyes nearly stole me from the se
 birthday:
   numeric: 2/4
   written: 4th of Corelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Saccaros Anaharae
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 2nd year Firbolg Ranger in Treskal
-- curly white hair that's parted to the side, slightly obscuring an eye, Pale Green eyes, and Pale Gray skin
+- short frizzy white hair that's plain, Pale Green eyes, and Pale Gray skin
 - Is Restrained and Vague, and has Austerity as their ideal
 
 ### Organizations

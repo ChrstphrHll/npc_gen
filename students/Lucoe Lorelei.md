@@ -1,7 +1,7 @@
 ---
 name: Lucoe Lorelei
 race: Dwarf
-hair: curly dark red hair that's put back in a long pony tail
+hair: shoulder length curly dark red hair that's well kept
 eyes: Amber
 skin: Dark Tan
 ideal: Creativity
@@ -14,6 +14,8 @@ bond: My life's work is a series of tomes related to a specific field of lore.
 birthday:
   numeric: 6/24
   written: 24th of Pelent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Willam Ardryll
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 2nd year Dwarf Barbarian in Treskal
-- curly dark red hair that's put back in a long pony tail, Amber eyes, and Dark Tan skin
+- shoulder length curly dark red hair that's well kept, Amber eyes, and Dark Tan skin
 - Is Modest and Contemptible, and has Creativity as their ideal
 
 ### Organizations

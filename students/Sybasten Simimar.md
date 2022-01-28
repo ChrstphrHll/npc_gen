@@ -14,6 +14,8 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 1/14
   written: 14th of Avanent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Oyara Faoraar
   type: partymate

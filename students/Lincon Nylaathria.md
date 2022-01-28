@@ -1,7 +1,7 @@
 ---
 name: Lincon Nylaathria
 race: Aasimar
-hair: curly grey hair that's kept back by a green headband
+hair: long straight grey hair that's messy
 eyes: Hazel
 skin: Pale
 ideal: Respect
@@ -15,6 +15,8 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 6/6
   written: 6th of Pelent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Murunay Illfate
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 4th year Aasimar Barbarian in Burk
-- curly grey hair that's kept back by a green headband, Hazel eyes, and Pale skin
+- long straight grey hair that's messy, Hazel eyes, and Pale skin
 - Is Tractable and Artful, and has Respect as their ideal
 
 ### Organizations

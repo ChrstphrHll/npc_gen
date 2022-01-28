@@ -1,7 +1,7 @@
 ---
 name: Ragnar Illitran
 race: Halfling
-hair: curly dark red hair that's done up in a top knot
+hair: short straight dark red hair that's plain
 eyes: Brown
 skin: Light
 ideal: Reciprocity
@@ -14,6 +14,8 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 2/9
   written: 9th of Corelent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Brannos Bellas
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 6th year Halfling Artificer in Fiesn
-- curly dark red hair that's done up in a top knot, Brown eyes, and Light skin
+- short straight dark red hair that's plain, Brown eyes, and Light skin
 - Is Logical and Well-meaning, and has Reciprocity as their ideal
 
 ### Organizations

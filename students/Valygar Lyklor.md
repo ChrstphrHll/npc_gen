@@ -1,7 +1,7 @@
 ---
 name: Valygar Lyklor
 race: Firbolg
-hair: frizzy white hair that's put back in a short pony tail
+hair: long straight auburn hair that's plain
 eyes: Pale Blue
 skin: Pale Green
 ideal: Responsibility
@@ -14,6 +14,8 @@ bond: I entered seclusion because I loved someone I could not have.
 birthday:
   numeric: 5/26
   written: 26th of Iounent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Lyonus Ioelena
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 2nd year Firbolg Cleric in Burk
-- frizzy white hair that's put back in a short pony tail, Pale Blue eyes, and Pale Green skin
+- long straight auburn hair that's plain, Pale Blue eyes, and Pale Green skin
 - Is Invulnerable and Assertive, and has Responsibility as their ideal
 
 ### Organizations

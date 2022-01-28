@@ -1,7 +1,7 @@
 ---
 name: Gavyn Sadalymn
 race: Human
-hair: curly platinum hair that's a tousled bed head
+hair: short curly platinum hair that's put up
 eyes: Hazel
 skin: Light Tan
 ideal: Nature
@@ -14,6 +14,8 @@ bond: I protect those who cannot protect themselves.
 birthday:
   numeric: 4/14
   written: 14th of Moradent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Kloya Kershaw
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 5th year Human Ranger in Jettenia
-- curly platinum hair that's a tousled bed head, Hazel eyes, and Light Tan skin
+- short curly platinum hair that's put up, Hazel eyes, and Light Tan skin
 - Is Efficient and Retiring, and has Nature as their ideal
 
 ### Organizations

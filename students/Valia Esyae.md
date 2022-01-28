@@ -1,7 +1,7 @@
 ---
 name: Valia Esyae
 race: Elf
-hair: straight auburn hair that's parted to the left
+hair: long curly auburn hair that's well kept
 eyes: Hazel
 skin: Tan
 ideal: Lead by example
@@ -13,6 +13,8 @@ bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 1/6
   written: 6th of Avanent
+origin: Chilliwld Peaks
+relvance: 0
 relationships:
 - name: Volkos Halaema
   type: partymate
@@ -40,7 +42,7 @@ tags:
 ---
 ### Description
 - 4th year Elf Monk in Alderden
-- straight auburn hair that's parted to the left, Hazel eyes, and Tan skin
+- long curly auburn hair that's well kept, Hazel eyes, and Tan skin
 - Is Captivating and Unsentimental, and has Lead by example as their ideal
 
 ### Organizations

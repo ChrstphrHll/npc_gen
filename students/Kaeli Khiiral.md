@@ -1,7 +1,7 @@
 ---
 name: Kaeli Khiiral
 race: Triton
-hair: curly lighter blonde hair that's parted to the right
+hair: short curly auburn hair that's wild
 eyes: Brown
 skin: Pale Gray
 ideal: Reciprocity
@@ -15,6 +15,8 @@ bond: I come from a noble family, and one day I'll reclaim my lands and title fr
 birthday:
   numeric: 5/23
   written: 23rd of Iounent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Pinna Vanius
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 7th year Triton Wizard in Fiesn
-- curly lighter blonde hair that's parted to the right, Brown eyes, and Pale Gray skin
+- short curly auburn hair that's wild, Brown eyes, and Pale Gray skin
 - Is Winning and Meretricious, and has Reciprocity as their ideal
 
 ### Organizations

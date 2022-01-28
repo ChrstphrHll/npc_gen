@@ -1,7 +1,7 @@
 ---
 name: Skalanis Kobayashi
 race: Halfling
-hair: wavy brunette hair that's kept back by a turquoise headband
+hair: short curly strawberry blond hair that's plain
 eyes: Pale Blue
 skin: Dark Tan
 ideal: Connection
@@ -13,6 +13,8 @@ bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 2/30
   written: 30th of Corelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Pippi Langston
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 6th year Halfling Druid in Jettenia
-- wavy brunette hair that's kept back by a turquoise headband, Pale Blue eyes, and Dark Tan skin
+- short curly strawberry blond hair that's plain, Pale Blue eyes, and Dark Tan skin
 - Is Profound and High-handed, and has Connection as their ideal
 
 ### Organizations

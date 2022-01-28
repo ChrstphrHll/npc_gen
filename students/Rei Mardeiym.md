@@ -1,7 +1,7 @@
 ---
 name: Rei Mardeiym
 race: Firbolg
-hair: straight pink hair that's put back in a short pony tail
+hair: shoulder length wavy red hair that's put up
 eyes: Pale Blue
 skin: Pale Green
 ideal: Grace
@@ -15,6 +15,8 @@ bond: I entered seclusion to hide from the ones who might still be hunting me. I
 birthday:
   numeric: 5/24
   written: 24th of Iounent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Cam Lazziar
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 7th year Firbolg Sorcerer in Alderden
-- straight pink hair that's put back in a short pony tail, Pale Blue eyes, and Pale Green skin
+- shoulder length wavy red hair that's put up, Pale Blue eyes, and Pale Green skin
 - Is Patient and Narrow-minded, and has Grace as their ideal
 
 ### Organizations

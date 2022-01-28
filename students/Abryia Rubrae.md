@@ -1,7 +1,7 @@
 ---
 name: Abryia Rubrae
 race: Halfling
-hair: wavy dark red hair that's parted to the left
+hair: long wavy brunette hair that's plain
 eyes: Green
 skin: Light
 ideal: Leadership
@@ -14,6 +14,8 @@ bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 3/26
   written: 26th of Melorent
+origin: Chilliwld Peaks
+relvance: 0
 relationships:
 - name: Yan Sorsasta
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 2nd year Halfling Monk in Burk
-- wavy dark red hair that's parted to the left, Green eyes, and Light skin
+- long wavy brunette hair that's plain, Green eyes, and Light skin
 - Is Dreamer and Scheming, and has Leadership as their ideal
 
 ### Organizations

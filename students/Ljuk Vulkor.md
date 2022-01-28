@@ -1,7 +1,7 @@
 ---
 name: Ljuk Vulkor
 race: Dwarf
-hair: curly lighter blonde hair that's loose around the shoulders
+hair: short wavy auburn hair that's wild
 eyes: Pale Green
 skin: Tan
 ideal: Teamwork
@@ -13,6 +13,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 1/15
   written: 15th of Avanent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Kanoi Xharlion
   type: partymate
@@ -40,7 +42,7 @@ tags:
 ---
 ### Description
 - 2nd year Dwarf Sorcerer in Elkenval
-- curly lighter blonde hair that's loose around the shoulders, Pale Green eyes, and Tan skin
+- short wavy auburn hair that's wild, Pale Green eyes, and Tan skin
 - Is Mystical and Negligent, and has Teamwork as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Juppar Kershaw
 race: Human
-hair: curly strawberry blond hair that's loose around the shoulders
+hair: short straight black hair that's plain
 eyes: Gray
 skin: Fair
 ideal: Charisma
@@ -16,6 +16,8 @@ bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, an
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Milae Ditka
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Human Druid in Jettenia
-- curly strawberry blond hair that's loose around the shoulders, Gray eyes, and Fair skin
+- short straight black hair that's plain, Gray eyes, and Fair skin
 - Is Playful and Fanciful, and has Charisma as their ideal
 
 ### Organizations

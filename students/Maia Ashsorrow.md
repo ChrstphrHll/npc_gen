@@ -1,7 +1,7 @@
 ---
 name: Maia Ashsorrow
 race: Halfling
-hair: frizzy dark red hair that's parted to the left
+hair: short curly grey hair that's messy
 eyes: Blue
 skin: Fair
 ideal: Religion
@@ -13,6 +13,8 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 2/1
   written: 1st of Corelent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Hanna Arkhun
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Halfling Rouge in Treskal
-- frizzy dark red hair that's parted to the left, Blue eyes, and Fair skin
+- short curly grey hair that's messy, Blue eyes, and Fair skin
 - Is Idiosyncratic and Overimaginative, and has Religion as their ideal
 
 ### Organizations

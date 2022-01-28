@@ -1,7 +1,7 @@
 ---
 name: Iasono Ynshael
 race: Gnome
-hair: frizzy grey hair that's put up in a large bun
+hair: short wavy auburn hair that's well kept
 eyes: Amber
 skin: Brown
 ideal: Live and Let Live
@@ -14,6 +14,8 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 5/14
   written: 14th of Iounent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Matto Divya
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Druid in Jettenia
-- frizzy grey hair that's put up in a large bun, Amber eyes, and Brown skin
+- short wavy auburn hair that's well kept, Amber eyes, and Brown skin
 - Is Self-sufficent and Unrealistic, and has Live and Let Live as their ideal
 
 ### Organizations

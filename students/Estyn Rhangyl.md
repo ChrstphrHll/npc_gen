@@ -1,7 +1,7 @@
 ---
 name: Estyn Rhangyl
 race: Dragonborn
-hair: frills
+hair: 3 jagged horns
 eyes: Gray
 skin: blue
 ideal: Conformity
@@ -15,6 +15,8 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 3/5
   written: 5th of Melorent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Tadita Edraele
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 4th year Dragonborn Artificer in Treskal
-- frills, Gray eyes, and blue skin
+- 3 jagged horns, Gray eyes, and blue skin
 - Is Harmonious and Talkative, and has Conformity as their ideal
 
 ### Organizations

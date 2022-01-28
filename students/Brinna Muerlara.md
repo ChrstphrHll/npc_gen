@@ -1,7 +1,7 @@
 ---
 name: Brinna Muerlara
 race: Halfling
-hair: straight brunette hair that's pulled to the side and buzzed on the right
+hair: shoulder length straight grey hair that's plain
 eyes: Gray
 skin: Brown
 ideal: Openness
@@ -13,6 +13,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 6/26
   written: 26th of Pelent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Pynelope Valhein
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 1st year Halfling Barbarian in Burk
-- straight brunette hair that's pulled to the side and buzzed on the right, Gray eyes, and Brown skin
+- shoulder length straight grey hair that's plain, Gray eyes, and Brown skin
 - Is Athletic and Reserved, and has Openness as their ideal
 
 ### Organizations

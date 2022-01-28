@@ -1,7 +1,7 @@
 ---
 name: Brahm Delmuth
 race: Half-Orc
-hair: curly lighter blonde hair that's kept back by a green headband
+hair: long straight brunette hair that's braided
 eyes: Pale Blue
 skin: Pale Green
 ideal: Stoicism
@@ -14,6 +14,8 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Romen Uldreiyn
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 8th year Half-Orc Paladin in Fiesn
-- curly lighter blonde hair that's kept back by a green headband, Pale Blue eyes, and Pale Green skin
+- long straight brunette hair that's braided, Pale Blue eyes, and Pale Green skin
 - Is Exuberant and Conservative, and has Stoicism as their ideal
 
 ### Organizations

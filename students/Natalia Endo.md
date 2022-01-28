@@ -1,7 +1,7 @@
 ---
 name: Natalia Endo
 race: Halfling
-hair: wavy red hair that's parted to the left
+hair: long straight platinum hair that's wild
 eyes: Pale Brown
 skin: Fair
 ideal: Renewal
@@ -14,6 +14,8 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 6/5
   written: 5th of Pelent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Leja Talila
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 3rd year Halfling Barbarian in Burk
-- wavy red hair that's parted to the left, Pale Brown eyes, and Fair skin
+- long straight platinum hair that's wild, Pale Brown eyes, and Fair skin
 - Is Inoffensive and Agonizing, and has Renewal as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Ramona Saida
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Hazel
 skin: green
 ideal: Courage
@@ -14,6 +14,8 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 3/11
   written: 11th of Melorent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Gina Grandius
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 3rd year Dragonborn Druid in Alderden
-- short spines, Hazel eyes, and green skin
+- frills, Hazel eyes, and green skin
 - Is Predictable and Evil, and has Courage as their ideal
 
 ### Organizations

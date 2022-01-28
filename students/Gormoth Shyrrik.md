@@ -1,7 +1,7 @@
 ---
 name: Gormoth Shyrrik
 race: Dwarf
-hair: wavy platinum hair that's a tousled bed head
+hair: short straight dirty blonde hair that's plain
 eyes: Brown
 skin: Pale
 ideal: Spiritualism
@@ -13,6 +13,8 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 4/19
   written: 19th of Moradent
+origin: Chilliwld Peaks
+relvance: 0
 relationships:
 - name: Kymber Korrigash
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 2nd year Dwarf Paladin in Jettenia
-- wavy platinum hair that's a tousled bed head, Brown eyes, and Pale skin
+- short straight dirty blonde hair that's plain, Brown eyes, and Pale skin
 - Is Lucky and Finicky, and has Spiritualism as their ideal
 
 ### Organizations

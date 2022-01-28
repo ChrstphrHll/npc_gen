@@ -1,7 +1,7 @@
 ---
 name: Myddin Hastos
 race: Half-Elf
-hair: wavy auburn hair that's parted to the left
+hair: short straight brunette hair that's wild
 eyes: Brown
 skin: Dark Brown
 ideal: Patience
@@ -13,6 +13,8 @@ bond: Should my discovery come to light, it could bring ruin to the world.
 birthday:
   numeric: 4/8
   written: 8th of Moradent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Gabrilo Kulo
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 2nd year Half-Elf Rouge in Elkenval
-- wavy auburn hair that's parted to the left, Brown eyes, and Dark Brown skin
+- short straight brunette hair that's wild, Brown eyes, and Dark Brown skin
 - Is Challenging and Disorganized, and has Patience as their ideal
 
 ### Organizations

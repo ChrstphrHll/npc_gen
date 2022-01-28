@@ -1,7 +1,7 @@
 ---
 name: Gifre Edyrm
 race: Half-Elf
-hair: curly grey hair that's a tousled bed head
+hair: short straight lighter blonde hair that's braided
 eyes: Amber
 skin: Dark Brown
 ideal: Humane
@@ -13,6 +13,8 @@ bond: I idolize a hero of the old tales and measure my deeds against that person
 birthday:
   numeric: 2/22
   written: 22nd of Corelent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Lenn Schimae
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 6th year Half-Elf Paladin in Treskal
-- curly grey hair that's a tousled bed head, Amber eyes, and Dark Brown skin
+- short straight lighter blonde hair that's braided, Amber eyes, and Dark Brown skin
 - Is Moralistic and Angry, and has Humane as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Gabrilo Kulo
 race: Half-Orc
-hair: frizzy auburn hair that's done up in a top knot
+hair: shoulder length curly green hair that's plain
 eyes: Gray
 skin: Pale Green
 ideal: Intelligence
@@ -14,6 +14,8 @@ bond: I have an ancient text that holds terrible secrets that must not fall into
 birthday:
   numeric: 7/26
   written: 26th of Korent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Mya Nelaeryn
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 2nd year Half-Orc Cleric in Elkenval
-- frizzy auburn hair that's done up in a top knot, Gray eyes, and Pale Green skin
+- shoulder length curly green hair that's plain, Gray eyes, and Pale Green skin
 - Is Easygoing and Profligate, and has Intelligence as their ideal
 
 ### Organizations

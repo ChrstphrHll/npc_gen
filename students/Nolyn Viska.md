@@ -1,7 +1,7 @@
 ---
 name: Nolyn Viska
 race: Elf
-hair: wavy white hair that's pulled to the side and buzzed on the left
+hair: shoulder length straight dirty blonde hair that's wild
 eyes: Pale Gray
 skin: Brown
 ideal: Security
@@ -14,6 +14,8 @@ bond: My house's alliance with another noble family must be sustained at all cos
 birthday:
   numeric: 4/10
   written: 10th of Moradent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Ysaac Aelrue
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Elf Wizard in Treskal
-- wavy white hair that's pulled to the side and buzzed on the left, Pale Gray eyes, and Brown skin
+- shoulder length straight dirty blonde hair that's wild, Pale Gray eyes, and Brown skin
 - Is Jovial and Political, and has Security as their ideal
 
 ### Organizations

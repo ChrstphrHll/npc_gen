@@ -1,7 +1,7 @@
 ---
 name: Levi Kicklighter
 race: Goliath
-hair: curly blonde hair that's geled back
+hair: long curly auburn hair that's put up
 eyes: Pale Gray
 skin: Fair
 ideal: Compassion
@@ -14,6 +14,8 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 5/10
   written: 10th of Iounent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Alonnos Xanotter
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Goliath Paladin in Elkenval
-- curly blonde hair that's geled back, Pale Gray eyes, and Fair skin
+- long curly auburn hair that's put up, Pale Gray eyes, and Fair skin
 - Is Hearty and Airy, and has Compassion as their ideal
 
 ### Organizations

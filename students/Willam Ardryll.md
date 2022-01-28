@@ -1,7 +1,7 @@
 ---
 name: Willam Ardryll
 race: Kenku
-hair: speckled
+hair: ruffled
 eyes: Amber
 skin: Dark Blue
 ideal: Redemption
@@ -15,6 +15,8 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 4/22
   written: 22nd of Moradent
+origin: Chilliwld Peaks
+relvance: 0
 relationships:
 - name: Graisen Thalanil
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 2nd year Kenku Wizard in Treskal
-- speckled, Amber eyes, and Dark Blue skin
+- ruffled, Amber eyes, and Dark Blue skin
 - Is Resourceful and Arrogant, and has Redemption as their ideal
 
 ### Organizations

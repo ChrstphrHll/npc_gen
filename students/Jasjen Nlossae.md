@@ -1,7 +1,7 @@
 ---
 name: Jasjen Nlossae
 race: Dragonborn
-hair: long spines
+hair: 2 straight horns
 eyes: Brown
 skin: blue
 ideal: Caring
@@ -13,6 +13,8 @@ bond: It is my duty to protect my students.
 birthday:
   numeric: 1/8
   written: 8th of Avanent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Eligio Nevarth
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 2nd year Dragonborn Bard in Burk
-- long spines, Brown eyes, and blue skin
+- 2 straight horns, Brown eyes, and blue skin
 - Is Solitary and Muddle-headed, and has Caring as their ideal
 
 ### Organizations

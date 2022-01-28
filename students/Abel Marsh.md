@@ -1,7 +1,7 @@
 ---
 name: Abel Marsh
 race: Warforged
-hair: smooth copper guilded with silver
+hair: smooth silver guilded with brass
 eyes: Yellow
 skin: silver
 ideal: Wealth
@@ -13,6 +13,8 @@ bond: It is my duty to protect my students.
 birthday:
   numeric: 4/19
   written: 19th of Moradent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Uxwy Lazziar
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 5th year Warforged Paladin in Fiesn
-- smooth copper guilded with silver, Yellow eyes, and silver skin
+- smooth silver guilded with brass, Yellow eyes, and silver skin
 - Is Equitable and Hesitant, and has Wealth as their ideal
 
 ### Organizations

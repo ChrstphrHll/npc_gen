@@ -1,7 +1,7 @@
 ---
 name: Oyara Faoraar
 race: Halfling
-hair: wavy turquoise hair that's geled back
+hair: long curly strawberry blond hair that's plain
 eyes: Blue
 skin: Pale
 ideal: Change
@@ -13,6 +13,8 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 7/25
   written: 25th of Korent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Sybasten Simimar
   type: partymate
@@ -40,7 +42,7 @@ tags:
 ---
 ### Description
 - 4th year Halfling Ranger in Elkenval
-- wavy turquoise hair that's geled back, Blue eyes, and Pale skin
+- long curly strawberry blond hair that's plain, Blue eyes, and Pale skin
 - Is Skeptical and Steely, and has Change as their ideal
 
 ### Organizations

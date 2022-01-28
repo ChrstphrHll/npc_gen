@@ -1,7 +1,7 @@
 ---
 name: Moki Aelynthi
 race: Gnome
-hair: straight auburn hair that's hanging down to their back
+hair: long curly white hair that's plain
 eyes: Pale Gray
 skin: Tan
 ideal: Live and Let Live
@@ -15,6 +15,8 @@ bond: One day I will return to my guild and prove that I am the greatest artisan
 birthday:
   numeric: 3/11
   written: 11th of Melorent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Ezekius Chalsarda
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 6th year Gnome Druid in Burk
-- straight auburn hair that's hanging down to their back, Pale Gray eyes, and Tan skin
+- long curly white hair that's plain, Pale Gray eyes, and Tan skin
 - Is Open and Devious, and has Live and Let Live as their ideal
 
 ### Organizations

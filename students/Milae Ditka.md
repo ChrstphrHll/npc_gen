@@ -1,7 +1,7 @@
 ---
 name: Milae Ditka
 race: Dragonborn
-hair: 5 curled horns
+hair: long spines
 eyes: Violet Red
 skin: blue
 ideal: Self-Respect
@@ -14,6 +14,8 @@ bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 2/19
   written: 19th of Corelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Juppar Kershaw
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Dragonborn Sorcerer in Jettenia
-- 5 curled horns, Violet Red eyes, and blue skin
+- long spines, Violet Red eyes, and blue skin
 - Is Undemanding and Cruel, and has Self-Respect as their ideal
 
 ### Organizations

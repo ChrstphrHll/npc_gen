@@ -1,7 +1,7 @@
 ---
 name: Jacomo Jacaranda
 race: Halfling
-hair: straight grey hair that's pulled to the side and buzzed on the left
+hair: short straight grey hair that's braided
 eyes: Pale Blue
 skin: Pale
 ideal: Personal Development
@@ -13,6 +13,8 @@ bond: I'll always remember my first ship.
 birthday:
   numeric: 3/21
   written: 21st of Melorent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Alinea Hellsturn
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 5th year Halfling Barbarian in Alderden
-- straight grey hair that's pulled to the side and buzzed on the left, Pale Blue eyes, and Pale skin
+- short straight grey hair that's braided, Pale Blue eyes, and Pale skin
 - Is Iconoclastic and Narrow, and has Personal Development as their ideal
 
 ### Organizations

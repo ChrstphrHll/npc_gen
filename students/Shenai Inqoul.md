@@ -1,7 +1,7 @@
 ---
 name: Shenai Inqoul
 race: Tiefling
-hair: wavy dirty blonde hair that's a tousled bed head
+hair: long wavy white hair that's messy
 eyes: Deep Blue
 skin: Olive
 ideal: Pessimism
@@ -15,6 +15,8 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 7/16
   written: 16th of Korent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Edyrm Iolas
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 2nd year Tiefling Monk in Burk
-- wavy dirty blonde hair that's a tousled bed head, Deep Blue eyes, and Olive skin
+- long wavy white hair that's messy, Deep Blue eyes, and Olive skin
 - Is Intrepid and Immature, and has Pessimism as their ideal
 
 ### Organizations

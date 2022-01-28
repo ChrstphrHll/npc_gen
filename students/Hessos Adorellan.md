@@ -1,7 +1,7 @@
 ---
 name: Hessos Adorellan
 race: Gnome
-hair: wavy blue hair that's geled back
+hair: shoulder length curly brunette hair that's plain
 eyes: Gray
 skin: Tan
 ideal: Optimism
@@ -14,6 +14,8 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 4/11
   written: 11th of Moradent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Kendel Shael
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Wizard in Alderden
-- wavy blue hair that's geled back, Gray eyes, and Tan skin
+- shoulder length curly brunette hair that's plain, Gray eyes, and Tan skin
 - Is Punctual and Pharissical, and has Optimism as their ideal
 
 ### Organizations

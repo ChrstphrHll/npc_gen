@@ -1,7 +1,7 @@
 ---
 name: Kimbera Alerathla
 race: Human
-hair: straight brunette hair that's geled back
+hair: short wavy white hair that's plain
 eyes: Hazel
 skin: Dark Tan
 ideal: Independence
@@ -14,6 +14,8 @@ bond: I come from a noble family, and one day I'll reclaim my lands and title fr
 birthday:
   numeric: 4/14
   written: 14th of Moradent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Jandar Pleufan
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 1st year Human Druid in Elkenval
-- straight brunette hair that's geled back, Hazel eyes, and Dark Tan skin
+- short wavy white hair that's plain, Hazel eyes, and Dark Tan skin
 - Is Objective and Mannered, and has Independence as their ideal
 
 ### Organizations

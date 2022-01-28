@@ -1,7 +1,7 @@
 ---
 name: Corliss Akkar
 race: Half-Orc
-hair: curly green hair that's braided with green ribbon (med)
+hair: short curly auburn hair that's well kept
 eyes: Hazel
 skin: Deep Green
 ideal: Self-Fulfillment
@@ -13,6 +13,8 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 6/32
   written: 32nd of Pelent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Lynx Galather
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Half-Orc Rouge in Burk
-- curly green hair that's braided with green ribbon (med), Hazel eyes, and Deep Green skin
+- short curly auburn hair that's well kept, Hazel eyes, and Deep Green skin
 - Is Sneaky and Hidebound, and has Self-Fulfillment as their ideal
 
 ### Organizations

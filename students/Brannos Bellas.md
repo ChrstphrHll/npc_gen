@@ -1,7 +1,7 @@
 ---
 name: Brannos Bellas
 race: Human
-hair: wavy auburn hair that's parted to the left
+hair: shoulder length straight auburn hair that's plain
 eyes: Amber
 skin: Dark Brown
 ideal: Balance
@@ -13,6 +13,8 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 1/13
   written: 13th of Avanent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Tylor Llewellenar
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 6th year Human Barbarian in Fiesn
-- wavy auburn hair that's parted to the left, Amber eyes, and Dark Brown skin
+- shoulder length straight auburn hair that's plain, Amber eyes, and Dark Brown skin
 - Is Progressive and Opportunistic, and has Balance as their ideal
 
 ### Organizations

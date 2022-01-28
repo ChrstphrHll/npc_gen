@@ -1,7 +1,7 @@
 ---
 name: Graisen Thalanil
 race: Half-Orc
-hair: straight dark red hair that's geled back
+hair: shoulder length straight black hair that's wild
 eyes: Pale Green
 skin: Deep Green
 ideal: Encouragement
@@ -13,6 +13,8 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 5/27
   written: 27th of Iounent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Willam Ardryll
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 2nd year Half-Orc Cleric in Treskal
-- straight dark red hair that's geled back, Pale Green eyes, and Deep Green skin
+- shoulder length straight black hair that's wild, Pale Green eyes, and Deep Green skin
 - Is Intense and Envious, and has Encouragement as their ideal
 
 ### Organizations

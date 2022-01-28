@@ -1,7 +1,7 @@
 ---
 name: Aidyn Glynnii
 race: Half-Orc
-hair: wavy dirty blonde hair that's hanging down to their back
+hair: shoulder length wavy strawberry blond hair that's wild
 eyes: Pale Blue
 skin: Deep Green
 ideal: Dishonesty
@@ -14,6 +14,8 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 1/33
   written: 33rd of Avanent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Jothen Elway
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Half-Orc Monk in Elkenval
-- wavy dirty blonde hair that's hanging down to their back, Pale Blue eyes, and Deep Green skin
+- shoulder length wavy strawberry blond hair that's wild, Pale Blue eyes, and Deep Green skin
 - Is Meticulous and Bizarre, and has Dishonesty as their ideal
 
 ### Organizations

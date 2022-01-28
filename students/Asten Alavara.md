@@ -1,7 +1,7 @@
 ---
 name: Asten Alavara
 race: Gnome
-hair: straight brunette hair that's hanging down to their back
+hair: long curly blonde hair that's well kept
 eyes: Pale Brown
 skin: Light Tan
 ideal: Integrity
@@ -15,6 +15,8 @@ bond: A proud noble once gave me a horrible beating, and I will take my revenge 
 birthday:
   numeric: 4/19
   written: 19th of Moradent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Alyx Nopos
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 6th year Gnome Wizard in Fiesn
-- straight brunette hair that's hanging down to their back, Pale Brown eyes, and Light Tan skin
+- long curly blonde hair that's well kept, Pale Brown eyes, and Light Tan skin
 - Is Mellow and Oppressed, and has Integrity as their ideal
 
 ### Organizations

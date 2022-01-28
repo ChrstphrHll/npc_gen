@@ -1,7 +1,7 @@
 ---
 name: Jaris Amlaruil
 race: Triton
-hair: wavy pink hair that's done up in a top knot
+hair: long straight black hair that's put up
 eyes: Violet Red
 skin: Aqua
 ideal: Wealth
@@ -14,6 +14,8 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 1/1
   written: 1st of Avanent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Jareth Tanseril
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 7th year Triton Fighter in Jettenia
-- wavy pink hair that's done up in a top knot, Violet Red eyes, and Aqua skin
+- long straight black hair that's put up, Violet Red eyes, and Aqua skin
 - Is Resourceful and Bland, and has Wealth as their ideal
 
 ### Organizations

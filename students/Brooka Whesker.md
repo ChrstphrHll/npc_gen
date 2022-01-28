@@ -1,7 +1,7 @@
 ---
 name: Brooka Whesker
 race: Half-Elf
-hair: curly green hair that's hanging down to their back
+hair: short straight red hair that's messy
 eyes: Pale Brown
 skin: Pale
 ideal: Impartiality
@@ -13,6 +13,8 @@ bond: I am in love with the heir of a family that my family despises.
 birthday:
   numeric: 6/25
   written: 25th of Pelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Hudsen Elandorr
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 3rd year Half-Elf Fighter in Treskal
-- curly green hair that's hanging down to their back, Pale Brown eyes, and Pale skin
+- short straight red hair that's messy, Pale Brown eyes, and Pale skin
 - Is Private and Predictable, and has Impartiality as their ideal
 
 ### Organizations

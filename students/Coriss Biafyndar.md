@@ -1,7 +1,7 @@
 ---
 name: Coriss Biafyndar
 race: Elf
-hair: wavy white hair that's geled back
+hair: short curly brunette hair that's plain
 eyes: Brown
 skin: Light Tan
 ideal: Personal Development
@@ -14,6 +14,8 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Alexandyr Aulauthar
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 5th year Elf Druid in Fiesn
-- wavy white hair that's geled back, Brown eyes, and Light Tan skin
+- short curly brunette hair that's plain, Brown eyes, and Light Tan skin
 - Is Equitable and Unmerciful, and has Personal Development as their ideal
 
 ### Organizations

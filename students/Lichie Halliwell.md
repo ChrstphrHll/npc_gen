@@ -1,7 +1,7 @@
 ---
 name: Lichie Halliwell
 race: Goliath
-hair: curly black hair that's hanging down to their back
+hair: short straight brunette hair that's braided
 eyes: Gray
 skin: Fair
 ideal: Patience
@@ -14,6 +14,8 @@ bond: My freedom is my most precious possession. I'll never let anyone take it f
 birthday:
   numeric: 4/11
   written: 11th of Moradent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Wulfe Galan
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Goliath Druid in Elkenval
-- curly black hair that's hanging down to their back, Gray eyes, and Fair skin
+- short straight brunette hair that's braided, Gray eyes, and Fair skin
 - Is Accessible and Intemperate, and has Patience as their ideal
 
 ### Organizations

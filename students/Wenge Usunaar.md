@@ -1,7 +1,7 @@
 ---
 name: Wenge Usunaar
 race: Firbolg
-hair: curly dark red hair that's pulled to the side and buzzed on the right
+hair: long frizzy blue hair that's put up
 eyes: Hazel
 skin: Pale Gray
 ideal: Greed
@@ -15,6 +15,8 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 2/24
   written: 24th of Corelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Kembley Ralnor
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 8th year Firbolg Monk in Jettenia
-- curly dark red hair that's pulled to the side and buzzed on the right, Hazel eyes, and Pale Gray skin
+- long frizzy blue hair that's put up, Hazel eyes, and Pale Gray skin
 - Is Supportive and Opportunistic, and has Greed as their ideal
 
 ### Organizations

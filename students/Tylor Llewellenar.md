@@ -1,7 +1,7 @@
 ---
 name: Tylor Llewellenar
 race: Warforged
-hair: smooth brass guilded with garnet
+hair: smooth brass guilded with gold
 eyes: Amber
 skin: gold
 ideal: Abundance
@@ -14,6 +14,8 @@ bond: The common folk must see me as a hero of the people.
 birthday:
   numeric: 8/20
   written: 20th of Ravenent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Brannos Bellas
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 6th year Warforged Sorcerer in Fiesn
-- smooth brass guilded with garnet, Amber eyes, and gold skin
+- smooth brass guilded with gold, Amber eyes, and gold skin
 - Is Disciplined and Naive, and has Abundance as their ideal
 
 ### Organizations

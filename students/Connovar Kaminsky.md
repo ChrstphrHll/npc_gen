@@ -1,7 +1,7 @@
 ---
 name: Connovar Kaminsky
 race: Half-Orc
-hair: straight dark red hair that's put up in a large bun
+hair: short wavy brunette hair that's messy
 eyes: Brown
 skin: Pale Green
 ideal: Creativity
@@ -14,6 +14,8 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 7/28
   written: 28th of Korent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Olbern Uldreiyn
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 4th year Half-Orc Sorcerer in Treskal
-- straight dark red hair that's put up in a large bun, Brown eyes, and Pale Green skin
+- short wavy brunette hair that's messy, Brown eyes, and Pale Green skin
 - Is Helpful and Plodding, and has Creativity as their ideal
 
 ### Organizations

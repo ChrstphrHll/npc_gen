@@ -1,7 +1,7 @@
 ---
 name: Gunnar Ordayius
 race: Human
-hair: straight auburn hair that's a tousled bed head
+hair: short frizzy strawberry blond hair that's well kept
 eyes: Amber
 skin: Light
 ideal: Enjoyment
@@ -15,6 +15,8 @@ bond: I have a family, but I have no idea where they are. One day, I hope to see
 birthday:
   numeric: 1/17
   written: 17th of Avanent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Noam Shields
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 4th year Human Druid in Burk
-- straight auburn hair that's a tousled bed head, Amber eyes, and Light skin
+- short frizzy strawberry blond hair that's well kept, Amber eyes, and Light skin
 - Is Shrewd and Mean, and has Enjoyment as their ideal
 
 ### Organizations

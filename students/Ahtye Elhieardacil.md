@@ -1,7 +1,7 @@
 ---
 name: Ahtye Elhieardacil
 race: Elf
-hair: curly brunette hair that's put up in a large bun
+hair: shoulder length wavy green hair that's plain
 eyes: Amber
 skin: Light Tan
 ideal: Balance
@@ -13,6 +13,8 @@ bond: Something important was taken from me, and I aim to steal it back.
 birthday:
   numeric: 3/17
   written: 17th of Melorent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Santyeg Kuskyn
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Elf Druid in Fiesn
-- curly brunette hair that's put up in a large bun, Amber eyes, and Light Tan skin
+- shoulder length wavy green hair that's plain, Amber eyes, and Light Tan skin
 - Is Sentimental and Immature, and has Balance as their ideal
 
 ### Organizations

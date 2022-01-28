@@ -1,7 +1,7 @@
 ---
 name: Karl Cauladra
 race: Gnome
-hair: straight lighter blonde hair that's parted to the right
+hair: shoulder length wavy blonde hair that's plain
 eyes: Gray
 skin: Pale
 ideal: Teamwork
@@ -14,6 +14,8 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 2/3
   written: 3rd of Corelent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Vyctor Willow
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 6th year Gnome Rouge in Treskal
-- straight lighter blonde hair that's parted to the right, Gray eyes, and Pale skin
+- shoulder length wavy blonde hair that's plain, Gray eyes, and Pale skin
 - Is Incorruptible and Self-centered, and has Teamwork as their ideal
 
 ### Organizations

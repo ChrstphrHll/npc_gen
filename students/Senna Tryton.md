@@ -1,7 +1,7 @@
 ---
 name: Senna Tryton
 race: Gnome
-hair: wavy white hair that's braided with green ribbon (med)
+hair: long wavy lighter blonde hair that's plain
 eyes: Pale Blue
 skin: Light Tan
 ideal: Religion
@@ -14,6 +14,8 @@ bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, an
 birthday:
   numeric: 3/3
   written: 3rd of Melorent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Scarlotta Inqoul
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 4th year Gnome Fighter in Burk
-- wavy white hair that's braided with green ribbon (med), Pale Blue eyes, and Light Tan skin
+- long wavy lighter blonde hair that's plain, Pale Blue eyes, and Light Tan skin
 - Is Pleasant and Breezy, and has Religion as their ideal
 
 ### Organizations

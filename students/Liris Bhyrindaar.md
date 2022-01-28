@@ -1,7 +1,7 @@
 ---
 name: Liris Bhyrindaar
 race: Goliath
-hair: wavy red hair that's loose around the shoulders
+hair: long wavy auburn hair that's plain
 eyes: Amber
 skin: Dark Brown
 ideal: Connection
@@ -15,6 +15,8 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 1/18
   written: 18th of Avanent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Caeleb Embrae
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 2nd year Goliath Paladin in Fiesn
-- wavy red hair that's loose around the shoulders, Amber eyes, and Dark Brown skin
+- long wavy auburn hair that's plain, Amber eyes, and Dark Brown skin
 - Is Emotional and Troublesome, and has Connection as their ideal
 
 ### Organizations

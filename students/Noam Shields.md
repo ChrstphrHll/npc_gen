@@ -1,7 +1,7 @@
 ---
 name: Noam Shields
 race: Half-Orc
-hair: straight brunette hair that's put back in a long pony tail
+hair: shoulder length straight dirty blonde hair that's braided
 eyes: Blue
 skin: Pale Green
 ideal: Fitness
@@ -15,6 +15,8 @@ bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 7/13
   written: 13th of Korent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Gunnar Ordayius
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 4th year Half-Orc Barbarian in Burk
-- straight brunette hair that's put back in a long pony tail, Blue eyes, and Pale Green skin
+- shoulder length straight dirty blonde hair that's braided, Blue eyes, and Pale Green skin
 - Is Quality and Colorless, and has Fitness as their ideal
 
 ### Organizations

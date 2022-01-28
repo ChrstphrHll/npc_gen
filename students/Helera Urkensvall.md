@@ -1,7 +1,7 @@
 ---
 name: Helera Urkensvall
 race: Halfling
-hair: straight strawberry blond hair that's parted to the left
+hair: long straight white hair that's wild
 eyes: Green
 skin: Brown
 ideal: Change
@@ -14,6 +14,8 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 7/27
   written: 27th of Korent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Aelisabeth Soliania
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 3rd year Halfling Barbarian in Burk
-- straight strawberry blond hair that's parted to the left, Green eyes, and Brown skin
+- long straight white hair that's wild, Green eyes, and Brown skin
 - Is Sociable and Cantankerous, and has Change as their ideal
 
 ### Organizations

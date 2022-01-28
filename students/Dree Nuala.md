@@ -1,7 +1,7 @@
 ---
 name: Dree Nuala
 race: Gnome
-hair: curly lighter blonde hair that's braided with violet ribbon (long)
+hair: short wavy blonde hair that's well kept
 eyes: Amber
 skin: Brown
 ideal: Stoicism
@@ -14,6 +14,8 @@ bond: I will bring terrible wrath down on the evildoers who destroyed my homelan
 birthday:
   numeric: 1/16
   written: 16th of Avanent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Vyctor Willow
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 6th year Gnome Rouge in Treskal
-- curly lighter blonde hair that's braided with violet ribbon (long), Amber eyes, and Brown skin
+- short wavy blonde hair that's well kept, Amber eyes, and Brown skin
 - Is Unreligious and Big-thinking, and has Stoicism as their ideal
 
 ### Organizations

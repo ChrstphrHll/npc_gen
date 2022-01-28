@@ -1,7 +1,7 @@
 ---
 name: Goshwa Khiipaera
 race: Firbolg
-hair: wavy platinum hair that's parted to the left
+hair: long wavy blonde hair that's messy
 eyes: Hazel
 skin: Pale Brown
 ideal: Forgiveness
@@ -15,6 +15,8 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 6/25
   written: 25th of Pelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Julyo Agassi
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 5th year Firbolg Fighter in Elkenval
-- wavy platinum hair that's parted to the left, Hazel eyes, and Pale Brown skin
+- long wavy blonde hair that's messy, Hazel eyes, and Pale Brown skin
 - Is Proper and Airy, and has Forgiveness as their ideal
 
 ### Organizations

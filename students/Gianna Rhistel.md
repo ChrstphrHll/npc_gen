@@ -1,7 +1,7 @@
 ---
 name: Gianna Rhistel
 race: Tiefling
-hair: wavy brunette hair that's parted to the left
+hair: shoulder length wavy grey hair that's put up
 eyes: Gray
 skin: Purple
 ideal: Speed
@@ -15,6 +15,8 @@ bond: Somewhere out there, I have a child who doesn't know me. I'm making the wo
 birthday:
   numeric: 4/10
   written: 10th of Moradent
+origin: Chilliwld Peaks
+relvance: 0
 relationships:
 - name: Jamye Napraeleon
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 2nd year Tiefling Druid in Alderden
-- wavy brunette hair that's parted to the left, Gray eyes, and Purple skin
+- shoulder length wavy grey hair that's put up, Gray eyes, and Purple skin
 - Is Dynamic and Shy, and has Speed as their ideal
 
 ### Organizations

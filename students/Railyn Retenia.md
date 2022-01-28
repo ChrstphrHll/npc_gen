@@ -1,7 +1,7 @@
 ---
 name: Railyn Retenia
 race: Half-Orc
-hair: curly dark red hair that's kept back by a green headband
+hair: short wavy black hair that's well kept
 eyes: Blue
 skin: Pale Gray
 ideal: Contributing
@@ -14,6 +14,8 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 3/26
   written: 26th of Melorent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Cartyr Tamsin
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 3rd year Half-Orc Ranger in Jettenia
-- curly dark red hair that's kept back by a green headband, Blue eyes, and Pale Gray skin
+- short wavy black hair that's well kept, Blue eyes, and Pale Gray skin
 - Is Obliging and Abrasive, and has Contributing as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Remus Manchul
 race: Half-Elf
-hair: curly grey hair that's a tousled bed head
+hair: long frizzy strawberry blond hair that's plain
 eyes: Brown
 skin: Dark Brown
 ideal: Perseverance
@@ -15,6 +15,8 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 7/31
   written: 31st of Korent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Noam Shields
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 4th year Half-Elf Rouge in Burk
-- curly grey hair that's a tousled bed head, Brown eyes, and Dark Brown skin
+- long frizzy strawberry blond hair that's plain, Brown eyes, and Dark Brown skin
 - Is Reserved and Strict, and has Perseverance as their ideal
 
 ### Organizations

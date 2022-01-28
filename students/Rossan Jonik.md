@@ -1,7 +1,7 @@
 ---
 name: Rossan Jonik
 race: Halfling
-hair: straight red hair that's hanging down to their back
+hair: shoulder length straight white hair that's messy
 eyes: Pale Blue
 skin: Fair
 ideal: Might
@@ -14,6 +14,8 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 3/31
   written: 31st of Melorent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Bela Qwey
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 3rd year Halfling Artificer in Treskal
-- straight red hair that's hanging down to their back, Pale Blue eyes, and Fair skin
+- shoulder length straight white hair that's messy, Pale Blue eyes, and Fair skin
 - Is Impartial and Unaggressive, and has Might as their ideal
 
 ### Organizations

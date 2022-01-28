@@ -1,7 +1,7 @@
 ---
 name: Vaellyn Esyae
 race: Triton
-hair: frizzy brunette hair that's loose around the shoulders
+hair: shoulder length wavy pink hair that's well kept
 eyes: Yellow
 skin: Pale Blue
 ideal: Success
@@ -14,6 +14,8 @@ bond: I will bring terrible wrath down on the evildoers who destroyed my homelan
 birthday:
   numeric: 3/30
   written: 30th of Melorent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Kymber Korrigash
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 2nd year Triton Cleric in Jettenia
-- frizzy brunette hair that's loose around the shoulders, Yellow eyes, and Pale Blue skin
+- shoulder length wavy pink hair that's well kept, Yellow eyes, and Pale Blue skin
 - Is Thrilling and Oppressed, and has Success as their ideal
 
 ### Organizations

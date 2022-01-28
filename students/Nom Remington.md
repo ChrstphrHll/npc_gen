@@ -1,7 +1,7 @@
 ---
 name: Nom Remington
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Purple
 skin: copper
 ideal: Power
@@ -13,6 +13,8 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 3/26
   written: 26th of Melorent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Olivus Ondabrar
   type: partymate
@@ -40,7 +42,7 @@ tags:
 ---
 ### Description
 - 3rd year Dragonborn Monk in Fiesn
-- short spines, Purple eyes, and copper skin
+- frills, Purple eyes, and copper skin
 - Is Unfathomable and Hesitant, and has Power as their ideal
 
 ### Organizations

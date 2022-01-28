@@ -1,7 +1,7 @@
 ---
 name: Evyn Fenton
 race: Half-Orc
-hair: curly platinum hair that's hanging down to their back
+hair: shoulder length wavy platinum hair that's messy
 eyes: Pale Blue
 skin: Pale Green
 ideal: Spiritualism
@@ -13,6 +13,8 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 6/11
   written: 11th of Pelent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Eune Eldratha
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 2nd year Half-Orc Rouge in Elkenval
-- curly platinum hair that's hanging down to their back, Pale Blue eyes, and Pale Green skin
+- shoulder length wavy platinum hair that's messy, Pale Blue eyes, and Pale Green skin
 - Is Well-rounded and Perverse, and has Spiritualism as their ideal
 
 ### Organizations

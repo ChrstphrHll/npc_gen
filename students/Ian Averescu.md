@@ -1,7 +1,7 @@
 ---
 name: Ian Averescu
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Amber
 skin: black
 ideal: Loyalty
@@ -13,6 +13,8 @@ bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 5/7
   written: 7th of Iounent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Hartwen Galaeron
   type: partymate
@@ -40,7 +42,7 @@ tags:
 ---
 ### Description
 - 2nd year Dragonborn Sorcerer in Alderden
-- short spines, Amber eyes, and black skin
+- frills, Amber eyes, and black skin
 - Is Imaginative and Extreme, and has Loyalty as their ideal
 
 ### Organizations

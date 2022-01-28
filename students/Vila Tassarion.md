@@ -1,7 +1,7 @@
 ---
 name: Vila Tassarion
 race: Human
-hair: curly pink hair that's hanging down to their legs
+hair: long wavy auburn hair that's wild
 eyes: Pale Green
 skin: Pale
 ideal: Power
@@ -15,6 +15,8 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 3/24
   written: 24th of Melorent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Julyo Agassi
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 5th year Human Bard in Elkenval
-- curly pink hair that's hanging down to their legs, Pale Green eyes, and Pale skin
+- long wavy auburn hair that's wild, Pale Green eyes, and Pale skin
 - Is Educated and Effeminate, and has Power as their ideal
 
 ### Organizations

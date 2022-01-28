@@ -1,7 +1,7 @@
 ---
 name: Favroe Kythaela
 race: Gnome
-hair: curly grey hair that's geled back
+hair: short straight green hair that's plain
 eyes: Green
 skin: Pale
 ideal: Live and Let Live
@@ -13,6 +13,8 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 5/13
   written: 13th of Iounent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Verssek Nese
   type: partymate
@@ -40,7 +42,7 @@ tags:
 ---
 ### Description
 - 3rd year Gnome Ranger in Treskal
-- curly grey hair that's geled back, Green eyes, and Pale skin
+- short straight green hair that's plain, Green eyes, and Pale skin
 - Is Tough and Meretricious, and has Live and Let Live as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Tilo Connak
 race: Tiefling
-hair: curly auburn hair that's loose around the shoulders
+hair: shoulder length wavy strawberry blond hair that's messy
 eyes: Pale Brown
 skin: Olive
 ideal: Humane
@@ -14,6 +14,8 @@ bond: The common folk must see me as a hero of the people.
 birthday:
   numeric: 5/26
   written: 26th of Iounent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Leah Faelar
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Tiefling Ranger in Treskal
-- curly auburn hair that's loose around the shoulders, Pale Brown eyes, and Olive skin
+- shoulder length wavy strawberry blond hair that's messy, Pale Brown eyes, and Olive skin
 - Is Gritty and Modern, and has Humane as their ideal
 
 ### Organizations

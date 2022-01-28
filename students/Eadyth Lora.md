@@ -1,7 +1,7 @@
 ---
 name: Eadyth Lora
 race: Goliath
-hair: curly auburn hair that's braided with violet ribbon (med)
+hair: short frizzy red hair that's messy
 eyes: Blue
 skin: Light
 ideal: Contentment
@@ -14,6 +14,8 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 3/25
   written: 25th of Melorent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Ruby Kythaela
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 2nd year Goliath Rouge in Jettenia
-- curly auburn hair that's braided with violet ribbon (med), Blue eyes, and Light skin
+- short frizzy red hair that's messy, Blue eyes, and Light skin
 - Is Feisty and Iconoclastic, and has Contentment as their ideal
 
 ### Organizations

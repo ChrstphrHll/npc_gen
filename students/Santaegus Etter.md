@@ -1,7 +1,7 @@
 ---
 name: Santaegus Etter
 race: Firbolg
-hair: wavy auburn hair that's parted to the left
+hair: long wavy lighter blonde hair that's plain
 eyes: Blue
 skin: Pale Brown
 ideal: Courage
@@ -13,6 +13,8 @@ bond: My house's alliance with another noble family must be sustained at all cos
 birthday:
   numeric: 8/6
   written: 6th of Ravenent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Giacomo Edraele
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 2nd year Firbolg Bard in Treskal
-- wavy auburn hair that's parted to the left, Blue eyes, and Pale Brown skin
+- long wavy lighter blonde hair that's plain, Blue eyes, and Pale Brown skin
 - Is Emotionally stable and Contradictory, and has Courage as their ideal
 
 ### Organizations

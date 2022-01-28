@@ -1,7 +1,7 @@
 ---
 name: Mavrek Aolis
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Red
 skin: gold
 ideal: Connection
@@ -13,6 +13,8 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 6/25
   written: 25th of Pelent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Julyo Agassi
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 5th year Dragonborn Sorcerer in Elkenval
-- short spines, Red eyes, and gold skin
+- frills, Red eyes, and gold skin
 - Is Realistic and Predatory, and has Connection as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Volkos Halaema
 race: Tiefling
-hair: frizzy dark red hair that's hanging down to their back
+hair: long curly brunette hair that's put up
 eyes: Aqua
 skin: Aqua
 ideal: Security
@@ -15,6 +15,8 @@ bond: Everything I do is for the common people.
 birthday:
   numeric: 5/26
   written: 26th of Iounent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Valia Esyae
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 4th year Tiefling Ranger in Alderden
-- frizzy dark red hair that's hanging down to their back, Aqua eyes, and Aqua skin
+- long curly brunette hair that's put up, Aqua eyes, and Aqua skin
 - Is Capable and Mealymouthed, and has Security as their ideal
 
 ### Organizations

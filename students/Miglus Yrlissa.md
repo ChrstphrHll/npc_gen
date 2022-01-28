@@ -1,7 +1,7 @@
 ---
 name: Miglus Yrlissa
 race: Triton
-hair: wavy blonde hair that's loose around the shoulders
+hair: shoulder length straight lighter blonde hair that's wild
 eyes: Pale Brown
 skin: Aqua
 ideal: Generosity
@@ -13,6 +13,8 @@ bond: I owe my guild a great debt for forging me into the person I am today.
 birthday:
   numeric: 1/21
   written: 21st of Avanent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Skalanis Kobayashi
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 6th year Triton Fighter in Jettenia
-- wavy blonde hair that's loose around the shoulders, Pale Brown eyes, and Aqua skin
+- shoulder length straight lighter blonde hair that's wild, Pale Brown eyes, and Aqua skin
 - Is Objective and Sensual, and has Generosity as their ideal
 
 ### Organizations

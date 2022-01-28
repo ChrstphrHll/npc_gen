@@ -1,7 +1,7 @@
 ---
 name: Olbern Uldreiyn
 race: Human
-hair: curly lighter blonde hair that's loose around the shoulders
+hair: shoulder length straight dark red hair that's braided
 eyes: Blue
 skin: Pale
 ideal: Leadership
@@ -14,6 +14,8 @@ bond: I have a family, but I have no idea where they are. One day, I hope to see
 birthday:
   numeric: 6/32
   written: 32nd of Pelent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Connovar Kaminsky
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 4th year Human Sorcerer in Treskal
-- curly lighter blonde hair that's loose around the shoulders, Blue eyes, and Pale skin
+- shoulder length straight dark red hair that's braided, Blue eyes, and Pale skin
 - Is Merciful and Stubborn, and has Leadership as their ideal
 
 ### Organizations

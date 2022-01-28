@@ -1,7 +1,7 @@
 ---
 name: Selina Bellas
 race: Aasimar
-hair: curly brunette hair that's put up in a large bun
+hair: long straight platinum hair that's well kept
 eyes: Pale Gray
 skin: Light
 ideal: Optimism
@@ -14,6 +14,8 @@ bond: My honor is my life.
 birthday:
   numeric: 8/20
   written: 20th of Ravenent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Mateos Elanil
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 2nd year Aasimar Paladin in Fiesn
-- curly brunette hair that's put up in a large bun, Pale Gray eyes, and Light skin
+- long straight platinum hair that's well kept, Pale Gray eyes, and Light skin
 - Is Systematic and Clumsy, and has Optimism as their ideal
 
 ### Organizations

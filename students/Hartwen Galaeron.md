@@ -1,7 +1,7 @@
 ---
 name: Hartwen Galaeron
 race: Human
-hair: wavy auburn hair that's geled back
+hair: shoulder length frizzy grey hair that's braided
 eyes: Pale Blue
 skin: Fair
 ideal: Involvement
@@ -14,6 +14,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 4/8
   written: 8th of Moradent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Ian Averescu
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 2nd year Human Cleric in Alderden
-- wavy auburn hair that's geled back, Pale Blue eyes, and Fair skin
+- shoulder length frizzy grey hair that's braided, Pale Blue eyes, and Fair skin
 - Is Plain and Childish, and has Involvement as their ideal
 
 ### Organizations

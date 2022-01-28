@@ -1,7 +1,7 @@
 ---
 name: Shike Thalaera
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Deep Blue
 skin: black
 ideal: Fun
@@ -14,6 +14,8 @@ bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 3/9
   written: 9th of Melorent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Hodus Belt
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Dragonborn Paladin in Burk
-- short spines, Deep Blue eyes, and black skin
+- frills, Deep Blue eyes, and black skin
 - Is Prudent and Mechanical, and has Fun as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Pippi Langston
 race: Tiefling
-hair: straight platinum hair that's parted to the right
+hair: shoulder length straight grey hair that's well kept
 eyes: Orange
 skin: Olive
 ideal: Competition
@@ -14,6 +14,8 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 2/11
   written: 11th of Corelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Skalanis Kobayashi
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 6th year Tiefling Artificer in Jettenia
-- straight platinum hair that's parted to the right, Orange eyes, and Olive skin
+- shoulder length straight grey hair that's well kept, Orange eyes, and Olive skin
 - Is Passionate and Unimaginative, and has Competition as their ideal
 
 ### Organizations

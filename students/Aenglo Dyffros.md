@@ -1,7 +1,7 @@
 ---
 name: Aenglo Dyffros
 race: Elf
-hair: straight red hair that's pulled to the side and buzzed on the left
+hair: short wavy auburn hair that's braided
 eyes: Pale Brown
 skin: Light Tan
 ideal: Happiness
@@ -13,6 +13,8 @@ bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 6/27
   written: 27th of Pelent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Lynx Galather
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Elf Cleric in Burk
-- straight red hair that's pulled to the side and buzzed on the left, Pale Brown eyes, and Light Tan skin
+- short wavy auburn hair that's braided, Pale Brown eyes, and Light Tan skin
 - Is Deferential and Dissonant, and has Happiness as their ideal
 
 ### Organizations

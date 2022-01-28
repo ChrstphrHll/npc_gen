@@ -16,6 +16,8 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 4/10
   written: 10th of Moradent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Leah Faelar
   type: partymate

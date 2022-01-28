@@ -1,7 +1,7 @@
 ---
 name: Terek Nushala
 race: Triton
-hair: straight strawberry blond hair that's hanging down to their back
+hair: short curly pink hair that's well kept
 eyes: Purple
 skin: Deep Blue
 ideal: Self-Fulfillment
@@ -13,6 +13,8 @@ bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 3/19
   written: 19th of Melorent
+origin: Chilliwld Peaks
+relvance: 0
 relationships:
 - name: Scarletta Elora
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 2nd year Triton Wizard in Fiesn
-- straight strawberry blond hair that's hanging down to their back, Purple eyes, and Deep Blue skin
+- short curly pink hair that's well kept, Purple eyes, and Deep Blue skin
 - Is Circumspect and Ridiculous, and has Self-Fulfillment as their ideal
 
 ### Organizations

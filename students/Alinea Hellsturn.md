@@ -1,7 +1,7 @@
 ---
 name: Alinea Hellsturn
 race: Elf
-hair: straight brunette hair that's braided with violet ribbon (med)
+hair: short wavy red hair that's braided
 eyes: Brown
 skin: Tan
 ideal: Renewal
@@ -14,6 +14,8 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Tommos Morgan
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 5th year Elf Ranger in Alderden
-- straight brunette hair that's braided with violet ribbon (med), Brown eyes, and Tan skin
+- short wavy red hair that's braided, Brown eyes, and Tan skin
 - Is Merciful and Sloppy, and has Renewal as their ideal
 
 ### Organizations

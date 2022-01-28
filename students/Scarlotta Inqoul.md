@@ -1,7 +1,7 @@
 ---
 name: Scarlotta Inqoul
 race: Dwarf
-hair: curly blonde hair that's parted to the side, slightly obscuring an eye
+hair: long curly brunette hair that's wild
 eyes: Pale Brown
 skin: Brown
 ideal: Innovation
@@ -14,6 +14,8 @@ bond: No one else should have to endure the hardships I've been through.
 birthday:
   numeric: 2/26
   written: 26th of Corelent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Senna Tryton
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 4th year Dwarf Paladin in Burk
-- curly blonde hair that's parted to the side, slightly obscuring an eye, Pale Brown eyes, and Brown skin
+- long curly brunette hair that's wild, Pale Brown eyes, and Brown skin
 - Is Iconoclastic and Puritanical, and has Innovation as their ideal
 
 ### Organizations

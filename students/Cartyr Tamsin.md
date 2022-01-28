@@ -1,7 +1,7 @@
 ---
 name: Cartyr Tamsin
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Hazel
 skin: silver
 ideal: Caring
@@ -14,6 +14,8 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 8/13
   written: 13th of Ravenent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Railyn Retenia
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 3rd year Dragonborn Druid in Jettenia
-- short spines, Hazel eyes, and silver skin
+- frills, Hazel eyes, and silver skin
 - Is Logical and Critical, and has Caring as their ideal
 
 ### Organizations

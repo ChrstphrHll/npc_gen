@@ -1,7 +1,7 @@
 ---
 name: Wulfe Galan
 race: Genasi
-hair: curly black hair that's hanging down to their back
+hair: long wavy platinum hair that's plain
 eyes: Emerald Green
 skin: fire
 ideal: Vengful
@@ -16,6 +16,8 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 3/17
   written: 17th of Melorent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Yakob Lydialeera
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 1st year Genasi Paladin in Elkenval
-- curly black hair that's hanging down to their back, Emerald Green eyes, and fire skin
+- long wavy platinum hair that's plain, Emerald Green eyes, and fire skin
 - Is Steadfast and Mellow, and has Vengful as their ideal
 
 ### Organizations

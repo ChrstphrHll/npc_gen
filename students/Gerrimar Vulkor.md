@@ -1,7 +1,7 @@
 ---
 name: Gerrimar Vulkor
 race: Firbolg
-hair: wavy auburn hair that's done up in a top knot
+hair: long straight platinum hair that's well kept
 eyes: Brown
 skin: Pale Brown
 ideal: Home
@@ -16,6 +16,8 @@ bond: My freedom is my most precious possession. I'll never let anyone take it f
 birthday:
   numeric: 8/27
   written: 27th of Ravenent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Cerridwen Durothil
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 5th year Firbolg Cleric in Treskal
-- wavy auburn hair that's done up in a top knot, Brown eyes, and Pale Brown skin
+- long straight platinum hair that's well kept, Brown eyes, and Pale Brown skin
 - Is Dreamy and Artificial, and has Home as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Nebulon Faelyn
 race: Gnome
-hair: wavy brunette hair that's loose around the shoulders
+hair: short curly pink hair that's plain
 eyes: Green
 skin: Pale
 ideal: People
@@ -15,6 +15,8 @@ bond: I owe my life to the priest who took me in when my parents died.
 birthday:
   numeric: 8/2
   written: 2nd of Ravenent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Iamus Aneirin
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Ranger in Treskal
-- wavy brunette hair that's loose around the shoulders, Green eyes, and Pale skin
+- short curly pink hair that's plain, Green eyes, and Pale skin
 - Is Impassive and Contradictory, and has People as their ideal
 
 ### Organizations

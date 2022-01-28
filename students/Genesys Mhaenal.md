@@ -1,7 +1,7 @@
 ---
 name: Genesys Mhaenal
 race: Gnome
-hair: straight black hair that's put back in a short pony tail
+hair: short frizzy strawberry blond hair that's plain
 eyes: Amber
 skin: Dark Brown
 ideal: Prosperity
@@ -14,6 +14,8 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 4/26
   written: 26th of Moradent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Hodus Belt
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Monk in Burk
-- straight black hair that's put back in a short pony tail, Amber eyes, and Dark Brown skin
+- short frizzy strawberry blond hair that's plain, Amber eyes, and Dark Brown skin
 - Is Unchanging and Indecisive, and has Prosperity as their ideal
 
 ### Organizations

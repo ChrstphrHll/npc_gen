@@ -1,7 +1,7 @@
 ---
 name: Nicolle Shandalar
 race: Triton
-hair: wavy white hair that's parted to the right
+hair: shoulder length straight strawberry blond hair that's plain
 eyes: Green
 skin: Sea Green
 ideal: Contributing
@@ -15,6 +15,8 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 4/3
   written: 3rd of Moradent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Wulfe Galan
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 1st year Triton Cleric in Elkenval
-- wavy white hair that's parted to the right, Green eyes, and Sea Green skin
+- shoulder length straight strawberry blond hair that's plain, Green eyes, and Sea Green skin
 - Is Upright and Opinionated, and has Contributing as their ideal
 
 ### Organizations

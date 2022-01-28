@@ -1,7 +1,7 @@
 ---
 name: Aurikallos Biafyndar
 race: Gnome
-hair: straight turquoise hair that's put up in a large bun
+hair: short straight black hair that's braided
 eyes: Gray
 skin: Pale
 ideal: Righteous
@@ -14,6 +14,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 3/10
   written: 10th of Melorent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Dylan Usunaar
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 5th year Gnome Monk in Elkenval
-- straight turquoise hair that's put up in a large bun, Gray eyes, and Pale skin
+- short straight black hair that's braided, Gray eyes, and Pale skin
 - Is Placid and Repugnant, and has Righteous as their ideal
 
 ### Organizations

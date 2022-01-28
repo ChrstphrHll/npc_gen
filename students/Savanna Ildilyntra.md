@@ -1,7 +1,7 @@
 ---
 name: Savanna Ildilyntra
 race: Halfling
-hair: straight brunette hair that's hanging down to their legs
+hair: shoulder length wavy lighter blonde hair that's braided
 eyes: Gray
 skin: Dark Brown
 ideal: Indulgence
@@ -15,6 +15,8 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 7/15
   written: 15th of Korent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Lenn Schimae
   type: partymate
@@ -46,7 +48,7 @@ tags:
 ---
 ### Description
 - 6th year Halfling Cleric in Treskal
-- straight brunette hair that's hanging down to their legs, Gray eyes, and Dark Brown skin
+- shoulder length wavy lighter blonde hair that's braided, Gray eyes, and Dark Brown skin
 - Is Practical and Uncreative, and has Indulgence as their ideal
 
 ### Organizations

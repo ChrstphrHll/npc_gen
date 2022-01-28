@@ -1,7 +1,7 @@
 ---
 name: Turi Chandrelle
 race: Gnome
-hair: straight white hair that's braided with violet ribbon (long)
+hair: shoulder length straight pink hair that's put up
 eyes: Blue
 skin: Fair
 ideal: Indulgence
@@ -13,6 +13,8 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 4/20
   written: 20th of Moradent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Kunjal Iefyr
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 4th year Gnome Rouge in Fiesn
-- straight white hair that's braided with violet ribbon (long), Blue eyes, and Fair skin
+- shoulder length straight pink hair that's put up, Blue eyes, and Fair skin
 - Is Mature and Enigmatic, and has Indulgence as their ideal
 
 ### Organizations

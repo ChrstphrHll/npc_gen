@@ -1,7 +1,7 @@
 ---
 name: Gabrila Retra
 race: Dwarf
-hair: frizzy black hair that's a tousled bed head
+hair: shoulder length straight dark red hair that's well kept
 eyes: Amber
 skin: Fair
 ideal: Contributing
@@ -13,6 +13,8 @@ bond: I would die to recover an ancient relic of my faith that was lost long ago
 birthday:
   numeric: 6/21
   written: 21st of Pelent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Hudsen Elandorr
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 3rd year Dwarf Druid in Treskal
-- frizzy black hair that's a tousled bed head, Amber eyes, and Fair skin
+- shoulder length straight dark red hair that's well kept, Amber eyes, and Fair skin
 - Is Intrepid and Reactive, and has Contributing as their ideal
 
 ### Organizations

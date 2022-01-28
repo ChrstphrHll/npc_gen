@@ -1,7 +1,7 @@
 ---
 name: Gina Grandius
 race: Tiefling
-hair: straight platinum hair that's loose around the shoulders
+hair: short wavy grey hair that's braided
 eyes: Violet Red
 skin: Yellow
 ideal: Endurance
@@ -13,6 +13,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
+origin: Shadesburry Initiative
+relvance: 0
 relationships:
 - name: Leya Escobar
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 3rd year Tiefling Monk in Alderden
-- straight platinum hair that's loose around the shoulders, Violet Red eyes, and Yellow skin
+- short wavy grey hair that's braided, Violet Red eyes, and Yellow skin
 - Is Absentminded and Libidinous, and has Endurance as their ideal
 
 ### Organizations

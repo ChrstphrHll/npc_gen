@@ -1,8 +1,7 @@
 ---
 name: Taewen Llamryl
 race: Human
-hair: straight lighter blonde hair that's parted to the side, slightly obscuring an
-  eye
+hair: long curly white hair that's messy
 eyes: Amber
 skin: Tan
 ideal: Renewal
@@ -16,6 +15,8 @@ bond: Somewhere out there, I have a child who doesn't know me. I'm making the wo
 birthday:
   numeric: 5/25
   written: 25th of Iounent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Everen Malfoy
   type: partymate
@@ -45,7 +46,7 @@ tags:
 ---
 ### Description
 - 2nd year Human Artificer in Fiesn
-- straight lighter blonde hair that's parted to the side, slightly obscuring an eye, Amber eyes, and Tan skin
+- long curly white hair that's messy, Amber eyes, and Tan skin
 - Is Fearless and High-spirited, and has Renewal as their ideal
 
 ### Organizations

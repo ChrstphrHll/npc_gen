@@ -1,7 +1,7 @@
 ---
 name: Goetia Mistale
 race: Human
-hair: straight white hair that's hanging down to their back
+hair: long curly lighter blonde hair that's wild
 eyes: Hazel
 skin: Light
 ideal: Invention
@@ -14,6 +14,8 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 4/28
   written: 28th of Moradent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Halya Jian
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 1st year Human Druid in Fiesn
-- straight white hair that's hanging down to their back, Hazel eyes, and Light skin
+- long curly lighter blonde hair that's wild, Hazel eyes, and Light skin
 - Is Tough and Mechanical, and has Invention as their ideal
 
 ### Organizations

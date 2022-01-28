@@ -1,7 +1,7 @@
 ---
 name: Surge Fayd
 race: Triton
-hair: wavy dark red hair that's geled back
+hair: long straight grey hair that's wild
 eyes: Orange
 skin: Aqua
 ideal: Cunning
@@ -14,6 +14,8 @@ bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 6/22
   written: 22nd of Pelent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Josius Iliphar
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 7th year Triton Monk in Fiesn
-- wavy dark red hair that's geled back, Orange eyes, and Aqua skin
+- long straight grey hair that's wild, Orange eyes, and Aqua skin
 - Is Concerned and Busy, and has Cunning as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Jacob Jorildyn
 race: Dragonborn
-hair: long spines
+hair: 5 jagged horns
 eyes: Brown
 skin: brass
 ideal: Appreciation
@@ -13,6 +13,8 @@ bond: The common folk must see me as a hero of the people.
 birthday:
   numeric: 3/23
   written: 23rd of Melorent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Hudsen Elandorr
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 3rd year Dragonborn Cleric in Treskal
-- long spines, Brown eyes, and brass skin
+- 5 jagged horns, Brown eyes, and brass skin
 - Is Clear-headed and Impassive, and has Appreciation as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Marl Ahrendaaria
 race: Gnome
-hair: wavy black hair that's kept back by a violet headband
+hair: shoulder length curly strawberry blond hair that's braided
 eyes: Pale Gray
 skin: Dark Brown
 ideal: People
@@ -14,6 +14,8 @@ bond: I entered seclusion to hide from the ones who might still be hunting me. I
 birthday:
   numeric: 4/27
   written: 27th of Moradent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Puorlaas Anklos
   type: partymate
@@ -41,7 +43,7 @@ tags:
 ---
 ### Description
 - 2nd year Gnome Fighter in Jettenia
-- wavy black hair that's kept back by a violet headband, Pale Gray eyes, and Dark Brown skin
+- shoulder length curly strawberry blond hair that's braided, Pale Gray eyes, and Dark Brown skin
 - Is Unpredictable and Progressive, and has People as their ideal
 
 ### Organizations

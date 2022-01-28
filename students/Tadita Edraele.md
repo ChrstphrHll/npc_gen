@@ -1,7 +1,7 @@
 ---
 name: Tadita Edraele
 race: Gnome
-hair: wavy lighter blonde hair that's braided with violet ribbon (med)
+hair: short wavy blonde hair that's wild
 eyes: Green
 skin: Light
 ideal: Flexibility
@@ -16,6 +16,8 @@ bond: I will bring terrible wrath down on the evildoers who destroyed my homelan
 birthday:
   numeric: 3/1
   written: 1st of Melorent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Estyn Rhangyl
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 4th year Gnome Paladin in Treskal
-- wavy lighter blonde hair that's braided with violet ribbon (med), Green eyes, and Light skin
+- short wavy blonde hair that's wild, Green eyes, and Light skin
 - Is Thoughtful and Invisible, and has Flexibility as their ideal
 
 ### Organizations

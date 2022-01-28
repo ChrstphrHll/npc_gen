@@ -1,7 +1,7 @@
 ---
 name: Garan Mirthal
 race: Halfling
-hair: frizzy brunette hair that's put up in a large bun
+hair: short curly dirty blonde hair that's well kept
 eyes: Pale Gray
 skin: Pale
 ideal: Friendship
@@ -16,6 +16,8 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 2/33
   written: 33rd of Corelent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Matto Divya
   type: partymate
@@ -49,7 +51,7 @@ tags:
 ---
 ### Description
 - 1st year Halfling Ranger in Jettenia
-- frizzy brunette hair that's put up in a large bun, Pale Gray eyes, and Pale skin
+- short curly dirty blonde hair that's well kept, Pale Gray eyes, and Pale skin
 - Is Neutral and Bashful, and has Friendship as their ideal
 
 ### Organizations

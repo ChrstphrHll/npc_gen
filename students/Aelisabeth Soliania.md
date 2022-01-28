@@ -1,7 +1,7 @@
 ---
 name: Aelisabeth Soliania
 race: Halfling
-hair: curly lighter blonde hair that's braided with turquoise ribbon (med)
+hair: shoulder length straight brunette hair that's put up
 eyes: Hazel
 skin: Light Tan
 ideal: Pessimism
@@ -16,6 +16,8 @@ bond: My freedom is my most precious possession. I'll never let anyone take it f
 birthday:
   numeric: 7/30
   written: 30th of Korent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Elia Veluthil
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 3rd year Halfling Barbarian in Burk
-- curly lighter blonde hair that's braided with turquoise ribbon (med), Hazel eyes, and Light Tan skin
+- shoulder length straight brunette hair that's put up, Hazel eyes, and Light Tan skin
 - Is Vivacious and Artificial, and has Pessimism as their ideal
 
 ### Organizations

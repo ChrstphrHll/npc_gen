@@ -1,7 +1,7 @@
 ---
 name: Violetta Coldsprinter
 race: Half-Orc
-hair: straight auburn hair that's put back in a long pony tail
+hair: short curly red hair that's messy
 eyes: Amber
 skin: Pale Gray
 ideal: Creativity
@@ -14,6 +14,8 @@ bond: Something important was taken from me, and I aim to steal it back.
 birthday:
   numeric: 1/9
   written: 9th of Avanent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Abryia Rubrae
   type: partymate
@@ -45,7 +47,7 @@ tags:
 ---
 ### Description
 - 2nd year Half-Orc Fighter in Burk
-- straight auburn hair that's put back in a long pony tail, Amber eyes, and Pale Gray skin
+- short curly red hair that's messy, Amber eyes, and Pale Gray skin
 - Is Original and Naughty, and has Creativity as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Yorala Tiatha
 race: Triton
-hair: curly pink hair that's parted to the left
+hair: short wavy grey hair that's plain
 eyes: Deep Blue
 skin: Emerald Green
 ideal: Excitement
@@ -14,6 +14,8 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
+origin: Qualnis
+relvance: 0
 relationships:
 - name: Matos Mektal
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 5th year Triton Monk in Jettenia
-- curly pink hair that's parted to the left, Deep Blue eyes, and Emerald Green skin
+- short wavy grey hair that's plain, Deep Blue eyes, and Emerald Green skin
 - Is Educated and False, and has Excitement as their ideal
 
 ### Organizations

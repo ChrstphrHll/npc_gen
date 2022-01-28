@@ -1,7 +1,7 @@
 ---
 name: Matto Divya
 race: Gnome
-hair: curly grey hair that's put back in a short pony tail
+hair: long straight green hair that's put up
 eyes: Brown
 skin: Fair
 ideal: Fitness
@@ -14,6 +14,8 @@ bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 7/21
   written: 21st of Korent
+origin: Verdain
+relvance: 0
 relationships:
 - name: Ysak Llewellenar
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Ranger in Jettenia
-- curly grey hair that's put back in a short pony tail, Brown eyes, and Fair skin
+- long straight green hair that's put up, Brown eyes, and Fair skin
 - Is Stern and Lackadaisical, and has Fitness as their ideal
 
 ### Organizations

@@ -14,6 +14,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 6/2
   written: 2nd of Pelent
+origin: Principality of the Palus Peoples
+relvance: 0
 relationships:
 - name: Giacomo Edraele
   type: partymate

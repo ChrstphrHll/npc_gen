@@ -1,7 +1,7 @@
 ---
 name: Meira Nuvian
 race: Half-Elf
-hair: straight lighter blonde hair that's put back in a long pony tail
+hair: short straight auburn hair that's well kept
 eyes: Gray
 skin: Dark Tan
 ideal: Compassion
@@ -13,6 +13,8 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 5/14
   written: 14th of Iounent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Thongar Fairchild
   type: partymate
@@ -42,7 +44,7 @@ tags:
 ---
 ### Description
 - 3rd year Half-Elf Ranger in Burk
-- straight lighter blonde hair that's put back in a long pony tail, Gray eyes, and Dark Tan skin
+- short straight auburn hair that's well kept, Gray eyes, and Dark Tan skin
 - Is Well-bred and Disconcerting, and has Compassion as their ideal
 
 ### Organizations

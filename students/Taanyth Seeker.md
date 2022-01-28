@@ -1,7 +1,7 @@
 ---
 name: Taanyth Seeker
 race: Human
-hair: straight black hair that's parted to the side, slightly obscuring an eye
+hair: short straight auburn hair that's plain
 eyes: Pale Green
 skin: Tan
 ideal: Gratitude
@@ -15,6 +15,8 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 8/28
   written: 28th of Ravenent
+origin: Magmus Centerhold
+relvance: 0
 relationships:
 - name: Efjan Andrathath
   type: partymate
@@ -44,7 +46,7 @@ tags:
 ---
 ### Description
 - 1st year Human Monk in Burk
-- straight black hair that's parted to the side, slightly obscuring an eye, Pale Green eyes, and Tan skin
+- short straight auburn hair that's plain, Pale Green eyes, and Tan skin
 - Is Active and Insolent, and has Gratitude as their ideal
 
 ### Organizations

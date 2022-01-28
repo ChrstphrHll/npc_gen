@@ -1,7 +1,7 @@
 ---
 name: Hanro Fieryat
 race: Triton
-hair: straight brunette hair that's kept back by a blue headband
+hair: short curly black hair that's plain
 eyes: Pale Gray
 skin: Pale Green
 ideal: Charisma
@@ -14,6 +14,8 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
+origin: Beleriand
+relvance: 0
 relationships:
 - name: Rasy Merlara
   type: partymate
@@ -43,7 +45,7 @@ tags:
 ---
 ### Description
 - 1st year Triton Paladin in Alderden
-- straight brunette hair that's kept back by a blue headband, Pale Gray eyes, and Pale Green skin
+- short curly black hair that's plain, Pale Gray eyes, and Pale Green skin
 - Is Gentle and Sedentary, and has Charisma as their ideal
 
 ### Organizations

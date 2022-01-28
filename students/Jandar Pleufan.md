@@ -1,7 +1,7 @@
 ---
 name: Jandar Pleufan
 race: Gnome
-hair: straight dark red hair that's parted to the side, slightly obscuring an eye
+hair: shoulder length wavy black hair that's messy
 eyes: Green
 skin: Brown
 ideal: Family
@@ -14,6 +14,8 @@ bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 8/3
   written: 3rd of Ravenent
+origin: Kordinia
+relvance: 0
 relationships:
 - name: Kimbera Alerathla
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 1st year Gnome Ranger in Elkenval
-- straight dark red hair that's parted to the side, slightly obscuring an eye, Green eyes, and Brown skin
+- shoulder length wavy black hair that's messy, Green eyes, and Brown skin
 - Is Forgiving and Domineering, and has Family as their ideal
 
 ### Organizations

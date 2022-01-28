@@ -1,7 +1,7 @@
 ---
 name: Matos Mektal
 race: Kenku
-hair: sleek
+hair: striped
 eyes: Pale Brown
 skin: Dark Blue
 ideal: Generosity
@@ -14,6 +14,8 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 2/1
   written: 1st of Corelent
+origin: Aldercrown Empire
+relvance: 0
 relationships:
 - name: Adros Tolthe
   type: partymate
@@ -47,7 +49,7 @@ tags:
 ---
 ### Description
 - 5th year Kenku Barbarian in Jettenia
-- sleek, Pale Brown eyes, and Dark Blue skin
+- striped, Pale Brown eyes, and Dark Blue skin
 - Is Meek and Treacherous, and has Generosity as their ideal
 
 ### Organizations
