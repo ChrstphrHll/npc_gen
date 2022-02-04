@@ -1,7 +1,7 @@
 ---
 name: Hanna Estelar
 race: Human
-hair: shoulder length straight strawberry blond hair that's wild
+hair: shoulder length curly platinum hair that's plain
 eyes: Pale Gray
 skin: Dark Tan
 ideal: Independence
@@ -14,7 +14,8 @@ bond: I sponsor an orphanage to keep others from enduring what I was forced to e
 birthday:
   numeric: 8/5
   written: 5th of Ravenent
-origin: Verdain
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Gina Grandius
@@ -24,6 +25,7 @@ relationships:
 - name: Ramona Saida
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Bard
 stats:
@@ -38,6 +40,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Human
+- Magmus Centerhold
 - Bard
 - Diplomacy
 - 3rd
@@ -46,15 +49,20 @@ tags:
 # Hanna Estelar
 ---
 ### Description
-- 3rd year Human Bard in Alderden
-- shoulder length straight strawberry blond hair that's wild, Pale Gray eyes, and Dark Tan skin
+- Human Bard from Aldercrown Empire
+- 3rd year Diplomacy student in Alderden
+- shoulder length curly platinum hair that's plain, Pale Gray eyes, and Dark Tan skin
 - Is Responsive and Unrestrained, and has Independence as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Gina Grandius]]: partymate
 [[Leya Escobar]]: partymate
 [[Ramona Saida]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Hanna Estelar

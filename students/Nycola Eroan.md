@@ -16,7 +16,8 @@ bond: One day I will return to my guild and prove that I am the greatest artisan
 birthday:
   numeric: 6/32
   written: 32nd of Pelent
-origin: Verdain
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Aniari Arlayna
@@ -24,6 +25,7 @@ relationships:
 - name: Eliana Saevel
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Bard
 stats:
@@ -38,6 +40,7 @@ guild: Elkenval
 partyID: 77
 tags:
 - Dragonborn
+- Draconia
 - Bard
 - Protection
 - 1st
@@ -46,14 +49,19 @@ tags:
 # Nycola Eroan
 ---
 ### Description
-- 1st year Dragonborn Bard in Elkenval
+- Dragonborn Bard from Draconia
+- 1st year Protection student in Elkenval
 - short spines, Amber eyes, and copper skin
 - Is Frank and Cruel, and has Creativity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Aniari Arlayna]]: partymate
 [[Eliana Saevel]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Nycola Eroan

@@ -1,7 +1,7 @@
 ---
 name: Adros Tolthe
 race: Goliath
-hair: short straight blue hair that's put up
+hair: long straight dirty blonde hair that's plain
 eyes: Pale Blue
 skin: Tan
 ideal: Uncaring
@@ -14,7 +14,8 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 1/33
   written: 33rd of Avanent
-origin: Principality of the Palus Peoples
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Matos Mektal
@@ -26,6 +27,7 @@ relationships:
 - name: Ivistra Stockton
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Bard
 stats:
@@ -40,6 +42,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Goliath
+- Aldercrown Empire
 - Bard
 - Exploration
 - 5th
@@ -48,16 +51,21 @@ tags:
 # Adros Tolthe
 ---
 ### Description
-- 5th year Goliath Bard in Jettenia
-- short straight blue hair that's put up, Pale Blue eyes, and Tan skin
+- Goliath Bard from Aldercrown Empire
+- 5th year Exploration student in Jettenia
+- long straight dirty blonde hair that's plain, Pale Blue eyes, and Tan skin
 - Is Scholarly and Overimaginative, and has Uncaring as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Matos Mektal]]: partymate
 [[Selina Ochyllyss]]: partymate
 [[Yorala Tiatha]]: partymate
 [[Ivistra Stockton]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Adros Tolthe

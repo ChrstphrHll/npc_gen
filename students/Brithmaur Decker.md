@@ -1,7 +1,7 @@
 ---
 name: Brithmaur Decker
 race: Half-Orc
-hair: shoulder length frizzy brunette hair that's well kept
+hair: long straight dirty blonde hair that's messy
 eyes: Pale Brown
 skin: Green Blue
 ideal: Independence
@@ -14,7 +14,8 @@ bond: I'll never forget the crushing defeat my company suffered or the enemies w
 birthday:
   numeric: 7/33
   written: 33rd of Korent
-origin: Kordinia
+origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Grassa Ashbluff
@@ -22,6 +23,7 @@ relationships:
 - name: Braidyn Kemetra
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Druid
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 25
 tags:
 - Half-Orc
+- Chillwild Peaks
 - Druid
 - Diplomacy
 - 7th
@@ -44,14 +47,19 @@ tags:
 # Brithmaur Decker
 ---
 ### Description
-- 7th year Half-Orc Druid in Fiesn
-- shoulder length frizzy brunette hair that's well kept, Pale Brown eyes, and Green Blue skin
+- Half-Orc Druid from Principality of the Palus Peoples
+- 7th year Diplomacy student in Fiesn
+- long straight dirty blonde hair that's messy, Pale Brown eyes, and Green Blue skin
 - Is Strong-willed and Boorish, and has Independence as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Grassa Ashbluff]]: partymate
 [[Braidyn Kemetra]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Brithmaur Decker

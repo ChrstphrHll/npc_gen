@@ -1,7 +1,7 @@
 ---
 name: Joyce Helartha
 race: Halfling
-hair: short wavy red hair that's messy
+hair: long straight brunette hair that's braided
 eyes: Pale Brown
 skin: Dark Tan
 ideal: Compassion
@@ -13,7 +13,8 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 2/21
   written: 21st of Corelent
-origin: Magmus Centerhold
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Maia Ashsorrow
@@ -21,6 +22,7 @@ relationships:
 - name: Hanna Arkhun
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Cleric
 stats:
@@ -35,6 +37,7 @@ guild: Treskal
 partyID: 78
 tags:
 - Halfling
+- Qualnis
 - Cleric
 - Diplomacy
 - 1st
@@ -43,14 +46,19 @@ tags:
 # Joyce Helartha
 ---
 ### Description
-- 1st year Halfling Cleric in Treskal
-- short wavy red hair that's messy, Pale Brown eyes, and Dark Tan skin
+- Halfling Cleric from Verdain
+- 1st year Diplomacy student in Treskal
+- long straight brunette hair that's braided, Pale Brown eyes, and Dark Tan skin
 - Is Innovative and Abrasive, and has Compassion as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Maia Ashsorrow]]: partymate
 [[Hanna Arkhun]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Joyce Helartha

@@ -1,7 +1,7 @@
 ---
 name: Kembley Ralnor
 race: Half-Orc
-hair: short curly red hair that's wild
+hair: short straight auburn hair that's braided
 eyes: Blue
 skin: Pale Gray
 ideal: Entrepreneurial
@@ -14,7 +14,8 @@ bond: I owe a debt I can never repay to the person who took pity on me.
 birthday:
   numeric: 4/15
   written: 15th of Moradent
-origin: Aldercrown Empire
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Celaeno Amkissra
@@ -22,6 +23,7 @@ relationships:
 - name: Wenge Usunaar
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Sorcerer
 stats:
@@ -36,6 +38,7 @@ guild: Jettenia
 partyID: 80
 tags:
 - Half-Orc
+- Magmus Centerhold
 - Sorcerer
 - Protection
 - 8th
@@ -44,14 +47,19 @@ tags:
 # Kembley Ralnor
 ---
 ### Description
-- 8th year Half-Orc Sorcerer in Jettenia
-- short curly red hair that's wild, Blue eyes, and Pale Gray skin
+- Half-Orc Sorcerer from Verdain
+- 8th year Protection student in Jettenia
+- short straight auburn hair that's braided, Blue eyes, and Pale Gray skin
 - Is Unaggressive and Unimaginative, and has Entrepreneurial as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Celaeno Amkissra]]: partymate
 [[Wenge Usunaar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Kembley Ralnor

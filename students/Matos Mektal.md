@@ -1,7 +1,7 @@
 ---
 name: Matos Mektal
 race: Kenku
-hair: striped
+hair: sleek
 eyes: Pale Brown
 skin: Dark Blue
 ideal: Generosity
@@ -14,7 +14,8 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 2/1
   written: 1st of Corelent
-origin: Aldercrown Empire
+origin: Black Rock
+voice: null
 relvance: 0
 relationships:
 - name: Adros Tolthe
@@ -26,6 +27,7 @@ relationships:
 - name: Ivistra Stockton
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Barbarian
 stats:
@@ -40,6 +42,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Kenku
+- Black Rock
 - Barbarian
 - Diplomacy
 - 5th
@@ -48,16 +51,21 @@ tags:
 # Matos Mektal
 ---
 ### Description
-- 5th year Kenku Barbarian in Jettenia
-- striped, Pale Brown eyes, and Dark Blue skin
+- Kenku Barbarian from Black Rock
+- 5th year Diplomacy student in Jettenia
+- sleek, Pale Brown eyes, and Dark Blue skin
 - Is Meek and Treacherous, and has Generosity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Adros Tolthe]]: partymate
 [[Selina Ochyllyss]]: partymate
 [[Yorala Tiatha]]: partymate
 [[Ivistra Stockton]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Matos Mektal

@@ -1,7 +1,7 @@
 ---
 name: Abryia Rubrae
 race: Halfling
-hair: long wavy brunette hair that's plain
+hair: short wavy auburn hair that's wild
 eyes: Green
 skin: Light
 ideal: Leadership
@@ -14,7 +14,8 @@ bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 3/26
   written: 26th of Melorent
-origin: Chilliwld Peaks
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Yan Sorsasta
@@ -24,6 +25,7 @@ relationships:
 - name: Nicholus Morthil
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Monk
 stats:
@@ -38,6 +40,7 @@ guild: Burk
 partyID: 93
 tags:
 - Halfling
+- Verdain
 - Monk
 - Exploration
 - 2nd
@@ -46,15 +49,20 @@ tags:
 # Abryia Rubrae
 ---
 ### Description
-- 2nd year Halfling Monk in Burk
-- long wavy brunette hair that's plain, Green eyes, and Light skin
+- Halfling Monk from Magmus Centerhold
+- 2nd year Exploration student in Burk
+- short wavy auburn hair that's wild, Green eyes, and Light skin
 - Is Dreamer and Scheming, and has Leadership as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Yan Sorsasta]]: partymate
 [[Violetta Coldsprinter]]: partymate
 [[Nicholus Morthil]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Abryia Rubrae

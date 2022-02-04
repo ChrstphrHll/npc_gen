@@ -1,7 +1,7 @@
 ---
 name: Brianna Kosunten
 race: Dwarf
-hair: short straight black hair that's plain
+hair: long curly pink hair that's plain
 eyes: Gray
 skin: Dark Brown
 ideal: Security
@@ -14,6 +14,7 @@ birthday:
   numeric: 3/17
   written: 17th of Melorent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Selina Bellas
@@ -23,6 +24,7 @@ relationships:
 - name: Felgie Eldar
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Fighter
 stats:
@@ -37,6 +39,7 @@ guild: Fiesn
 partyID: 60
 tags:
 - Dwarf
+- Aldercrown Empire
 - Fighter
 - Assault
 - 2nd
@@ -45,15 +48,20 @@ tags:
 # Brianna Kosunten
 ---
 ### Description
-- 2nd year Dwarf Fighter in Fiesn
-- short straight black hair that's plain, Gray eyes, and Dark Brown skin
+- Dwarf Fighter from Aldercrown Empire
+- 2nd year Assault student in Fiesn
+- long curly pink hair that's plain, Gray eyes, and Dark Brown skin
 - Is Secure and Sedentary, and has Security as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Selina Bellas]]: partymate
 [[Mateos Elanil]]: partymate
 [[Felgie Eldar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Brianna Kosunten

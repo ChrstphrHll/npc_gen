@@ -1,7 +1,7 @@
 ---
 name: Athyn Urddusk
 race: Human
-hair: short wavy red hair that's braided
+hair: short wavy red hair that's plain
 eyes: Brown
 skin: Light
 ideal: Wisdom
@@ -13,7 +13,8 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 8/20
   written: 20th of Ravenent
-origin: Qualnis
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Theodus Chylnoth
@@ -21,6 +22,7 @@ relationships:
 - name: Velmona Elway
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Artificer
 stats:
@@ -35,6 +37,7 @@ guild: Elkenval
 partyID: 40
 tags:
 - Human
+- Aldercrown Empire
 - Artificer
 - Assault
 - 1st
@@ -43,14 +46,19 @@ tags:
 # Athyn Urddusk
 ---
 ### Description
-- 1st year Human Artificer in Elkenval
-- short wavy red hair that's braided, Brown eyes, and Light skin
+- Human Artificer from Magmus Centerhold
+- 1st year Assault student in Elkenval
+- short wavy red hair that's plain, Brown eyes, and Light skin
 - Is Purposeful and Ill-bred, and has Wisdom as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Theodus Chylnoth]]: partymate
 [[Velmona Elway]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Athyn Urddusk

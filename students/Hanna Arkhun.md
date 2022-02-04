@@ -1,7 +1,7 @@
 ---
 name: Hanna Arkhun
 race: Triton
-hair: long straight blonde hair that's braided
+hair: long straight platinum hair that's put up
 eyes: Purple
 skin: Pale Gray
 ideal: Involvement
@@ -13,7 +13,8 @@ bond: My town or city is my home, and I'll fight to defend it.
 birthday:
   numeric: 1/23
   written: 23rd of Avanent
-origin: Magmus Centerhold
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Maia Ashsorrow
@@ -21,6 +22,7 @@ relationships:
 - name: Joyce Helartha
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Paladin
 stats:
@@ -35,6 +37,7 @@ guild: Treskal
 partyID: 78
 tags:
 - Triton
+- Whyndiem
 - Paladin
 - Protection
 - 1st
@@ -43,14 +46,19 @@ tags:
 # Hanna Arkhun
 ---
 ### Description
-- 1st year Triton Paladin in Treskal
-- long straight blonde hair that's braided, Purple eyes, and Pale Gray skin
+- Triton Paladin from Whyndiem
+- 1st year Protection student in Treskal
+- long straight platinum hair that's put up, Purple eyes, and Pale Gray skin
 - Is Dependable and Enigmatic, and has Involvement as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Maia Ashsorrow]]: partymate
 [[Joyce Helartha]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Hanna Arkhun

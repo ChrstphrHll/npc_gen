@@ -1,7 +1,7 @@
 ---
 name: Oyara Faoraar
 race: Halfling
-hair: long curly strawberry blond hair that's plain
+hair: short wavy dark red hair that's wild
 eyes: Blue
 skin: Pale
 ideal: Change
@@ -13,12 +13,14 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 7/25
   written: 25th of Korent
-origin: Magmus Centerhold
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Sybasten Simimar
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Ranger
 stats:
@@ -33,6 +35,7 @@ guild: Elkenval
 partyID: 76
 tags:
 - Halfling
+- Verdain
 - Ranger
 - Protection
 - 4th
@@ -41,13 +44,18 @@ tags:
 # Oyara Faoraar
 ---
 ### Description
-- 4th year Halfling Ranger in Elkenval
-- long curly strawberry blond hair that's plain, Blue eyes, and Pale skin
+- Halfling Ranger from Verdain
+- 4th year Protection student in Elkenval
+- short wavy dark red hair that's wild, Blue eyes, and Pale skin
 - Is Skeptical and Steely, and has Change as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Sybasten Simimar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Oyara Faoraar

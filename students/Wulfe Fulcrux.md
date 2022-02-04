@@ -1,7 +1,7 @@
 ---
 name: Wulfe Fulcrux
 race: Firbolg
-hair: shoulder length wavy grey hair that's plain
+hair: shoulder length wavy grey hair that's braided
 eyes: Hazel
 skin: Pale Brown
 ideal: Personal Development
@@ -13,12 +13,14 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 5/7
   written: 7th of Iounent
-origin: Kordinia
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Faliah Oluevaera
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Wizard
 stats:
@@ -33,6 +35,7 @@ guild: Elkenval
 partyID: 92
 tags:
 - Firbolg
+- Verdain
 - Wizard
 - Assault
 - 8th
@@ -41,13 +44,18 @@ tags:
 # Wulfe Fulcrux
 ---
 ### Description
-- 8th year Firbolg Wizard in Elkenval
-- shoulder length wavy grey hair that's plain, Hazel eyes, and Pale Brown skin
+- Firbolg Wizard from Verdain
+- 8th year Assault student in Elkenval
+- shoulder length wavy grey hair that's braided, Hazel eyes, and Pale Brown skin
 - Is Courteous and Deceptive, and has Personal Development as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Faliah Oluevaera]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Wulfe Fulcrux

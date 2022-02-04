@@ -1,7 +1,7 @@
 ---
 name: Allyson Vindinglag
 race: Aasimar
-hair: short curly brunette hair that's braided
+hair: long straight auburn hair that's put up
 eyes: Pale Gray
 skin: Dark Brown
 ideal: Reciprocity
@@ -14,7 +14,8 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 1/32
   written: 32nd of Avanent
-origin: Magmus Centerhold
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Jandar Pleufan
@@ -26,6 +27,7 @@ relationships:
 - name: Andrey Rauthomyr
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Cleric
 stats:
@@ -40,6 +42,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Aasimar
+- Magmus Centerhold
 - Cleric
 - Protection
 - 1st
@@ -48,16 +51,21 @@ tags:
 # Allyson Vindinglag
 ---
 ### Description
-- 1st year Aasimar Cleric in Elkenval
-- short curly brunette hair that's braided, Pale Gray eyes, and Dark Brown skin
+- Aasimar Cleric from Beleriand
+- 1st year Protection student in Elkenval
+- long straight auburn hair that's put up, Pale Gray eyes, and Dark Brown skin
 - Is Forceful and Stif, and has Reciprocity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jandar Pleufan]]: partymate
 [[Kimbera Alerathla]]: partymate
 [[Emilanus Shields]]: partymate
 [[Andrey Rauthomyr]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Allyson Vindinglag

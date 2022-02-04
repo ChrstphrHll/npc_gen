@@ -1,7 +1,7 @@
 ---
 name: Selina Bellas
 race: Aasimar
-hair: long straight platinum hair that's well kept
+hair: short wavy lighter blonde hair that's plain
 eyes: Pale Gray
 skin: Light
 ideal: Optimism
@@ -14,7 +14,8 @@ bond: My honor is my life.
 birthday:
   numeric: 8/20
   written: 20th of Ravenent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Mateos Elanil
@@ -24,6 +25,7 @@ relationships:
 - name: Felgie Eldar
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Paladin
 stats:
@@ -38,6 +40,7 @@ guild: Fiesn
 partyID: 60
 tags:
 - Aasimar
+- Beleriand
 - Paladin
 - Assault
 - 2nd
@@ -46,15 +49,20 @@ tags:
 # Selina Bellas
 ---
 ### Description
-- 2nd year Aasimar Paladin in Fiesn
-- long straight platinum hair that's well kept, Pale Gray eyes, and Light skin
+- Aasimar Paladin from Aldercrown Empire
+- 2nd year Assault student in Fiesn
+- short wavy lighter blonde hair that's plain, Pale Gray eyes, and Light skin
 - Is Systematic and Clumsy, and has Optimism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Mateos Elanil]]: partymate
 [[Brianna Kosunten]]: partymate
 [[Felgie Eldar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Selina Bellas

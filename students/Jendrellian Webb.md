@@ -1,7 +1,7 @@
 ---
 name: Jendrellian Webb
 race: Dwarf
-hair: long straight green hair that's wild
+hair: shoulder length wavy dark red hair that's put up
 eyes: Gray
 skin: Brown
 ideal: Goodness
@@ -13,7 +13,8 @@ bond: I'm loyal to my captain first, everything else second.
 birthday:
   numeric: 2/22
   written: 22nd of Corelent
-origin: Verdain
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Nathan Laeroth
@@ -21,6 +22,7 @@ relationships:
 - name: Pike Tethir
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Barbarian
 stats:
@@ -35,6 +37,7 @@ guild: Elkenval
 partyID: 64
 tags:
 - Dwarf
+- Aldercrown Empire
 - Barbarian
 - Assault
 - 1st
@@ -43,14 +46,19 @@ tags:
 # Jendrellian Webb
 ---
 ### Description
-- 1st year Dwarf Barbarian in Elkenval
-- long straight green hair that's wild, Gray eyes, and Brown skin
+- Dwarf Barbarian from Aldercrown Empire
+- 1st year Assault student in Elkenval
+- shoulder length wavy dark red hair that's put up, Gray eyes, and Brown skin
 - Is Plain and Competitive, and has Goodness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Nathan Laeroth]]: partymate
 [[Pike Tethir]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jendrellian Webb

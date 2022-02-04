@@ -1,7 +1,7 @@
 ---
 name: Wren Urmicca
 race: Half-Orc
-hair: shoulder length curly brunette hair that's wild
+hair: long wavy red hair that's put up
 eyes: Gray
 skin: Deep Green
 ideal: Righteous
@@ -15,11 +15,13 @@ birthday:
   numeric: 4/2
   written: 2nd of Moradent
 origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Harperia Winchell
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Monk
 stats:
@@ -34,6 +36,7 @@ guild: Elkenval
 partyID: 14
 tags:
 - Half-Orc
+- Magmus Centerhold
 - Monk
 - Protection
 - 1st
@@ -42,13 +45,18 @@ tags:
 # Wren Urmicca
 ---
 ### Description
-- 1st year Half-Orc Monk in Elkenval
-- shoulder length curly brunette hair that's wild, Gray eyes, and Deep Green skin
+- Half-Orc Monk from Magmus Centerhold
+- 1st year Protection student in Elkenval
+- long wavy red hair that's put up, Gray eyes, and Deep Green skin
 - Is Venturesome and Suspicious, and has Righteous as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Harperia Winchell]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Wren Urmicca

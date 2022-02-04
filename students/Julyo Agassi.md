@@ -1,7 +1,7 @@
 ---
 name: Julyo Agassi
 race: Dwarf
-hair: short curly black hair that's plain
+hair: long curly lighter blonde hair that's messy
 eyes: Green
 skin: Dark Brown
 ideal: Peace
@@ -15,6 +15,7 @@ birthday:
   numeric: 4/11
   written: 11th of Moradent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Goshwa Khiipaera
@@ -24,6 +25,7 @@ relationships:
 - name: Mavrek Aolis
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Sorcerer
 stats:
@@ -38,6 +40,7 @@ guild: Elkenval
 partyID: 47
 tags:
 - Dwarf
+- Aldercrown Empire
 - Sorcerer
 - Assault
 - 5th
@@ -46,15 +49,20 @@ tags:
 # Julyo Agassi
 ---
 ### Description
-- 5th year Dwarf Sorcerer in Elkenval
-- short curly black hair that's plain, Green eyes, and Dark Brown skin
+- Dwarf Sorcerer from Aldercrown Empire
+- 5th year Assault student in Elkenval
+- long curly lighter blonde hair that's messy, Green eyes, and Dark Brown skin
 - Is Stable and Harsh, and has Peace as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Goshwa Khiipaera]]: partymate
 [[Vila Tassarion]]: partymate
 [[Mavrek Aolis]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Julyo Agassi

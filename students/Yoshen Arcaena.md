@@ -1,7 +1,7 @@
 ---
 name: Yoshen Arcaena
 race: Dragonborn
-hair: long spines
+hair: frills
 eyes: Yellow
 skin: black
 ideal: Malice
@@ -14,7 +14,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 6/2
   written: 2nd of Pelent
-origin: Principality of the Palus Peoples
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Giacomo Edraele
@@ -24,6 +25,7 @@ relationships:
 - name: Santaegus Etter
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Ranger
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Dragonborn
+- Draconia
 - Ranger
 - Exploration
 - 2nd
@@ -46,15 +49,20 @@ tags:
 # Yoshen Arcaena
 ---
 ### Description
-- 2nd year Dragonborn Ranger in Treskal
-- long spines, Yellow eyes, and black skin
+- Dragonborn Ranger from Magmus Centerhold
+- 2nd year Exploration student in Treskal
+- frills, Yellow eyes, and black skin
 - Is Well-bred and Superstitious, and has Malice as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Giacomo Edraele]]: partymate
 [[Matrell Halafarin]]: partymate
 [[Santaegus Etter]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Yoshen Arcaena

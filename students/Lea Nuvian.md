@@ -1,7 +1,7 @@
 ---
 name: Lea Nuvian
 race: Triton
-hair: shoulder length wavy auburn hair that's wild
+hair: shoulder length curly grey hair that's plain
 eyes: Blue
 skin: Pale Blue
 ideal: Cruelty
@@ -14,7 +14,8 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 8/19
   written: 19th of Ravenent
-origin: Kordinia
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Audree Dixon
@@ -24,6 +25,7 @@ relationships:
 - name: Alkindus Llamryl
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Rouge
 stats:
@@ -38,6 +40,7 @@ guild: Alderden
 partyID: 56
 tags:
 - Triton
+- Whyndiem
 - Rouge
 - Protection
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Lea Nuvian
 ---
 ### Description
-- 1st year Triton Rouge in Alderden
-- shoulder length wavy auburn hair that's wild, Blue eyes, and Pale Blue skin
+- Triton Rouge from Magmus Centerhold
+- 1st year Protection student in Alderden
+- shoulder length curly grey hair that's plain, Blue eyes, and Pale Blue skin
 - Is Ascetic and Disputatious, and has Cruelty as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Audree Dixon]]: partymate
 [[Aryana Ahrendue]]: partymate
 [[Alkindus Llamryl]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Lea Nuvian

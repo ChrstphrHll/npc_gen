@@ -1,7 +1,7 @@
 ---
 name: Levi Kicklighter
 race: Goliath
-hair: long curly auburn hair that's put up
+hair: short wavy red hair that's braided
 eyes: Pale Gray
 skin: Fair
 ideal: Compassion
@@ -14,7 +14,8 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 5/10
   written: 10th of Iounent
-origin: Verdain
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Alonnos Xanotter
@@ -22,6 +23,7 @@ relationships:
 - name: Shoulree Letryal
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Paladin
 stats:
@@ -36,6 +38,7 @@ guild: Elkenval
 partyID: 88
 tags:
 - Goliath
+- Chillwild Peaks
 - Paladin
 - Exploration
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Levi Kicklighter
 ---
 ### Description
-- 1st year Goliath Paladin in Elkenval
-- long curly auburn hair that's put up, Pale Gray eyes, and Fair skin
+- Goliath Paladin from Beleriand
+- 1st year Exploration student in Elkenval
+- short wavy red hair that's braided, Pale Gray eyes, and Fair skin
 - Is Hearty and Airy, and has Compassion as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Alonnos Xanotter]]: partymate
 [[Shoulree Letryal]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Levi Kicklighter

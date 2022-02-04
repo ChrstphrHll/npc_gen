@@ -1,7 +1,7 @@
 ---
 name: Savanna Ildilyntra
 race: Halfling
-hair: shoulder length wavy lighter blonde hair that's braided
+hair: long curly platinum hair that's plain
 eyes: Gray
 skin: Dark Brown
 ideal: Indulgence
@@ -15,7 +15,8 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 7/15
   written: 15th of Korent
-origin: Verdain
+origin: Kordinia
+voice: null
 relvance: 0
 relationships:
 - name: Lenn Schimae
@@ -25,6 +26,7 @@ relationships:
 - name: Gifre Edyrm
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Cleric
 stats:
@@ -39,6 +41,7 @@ guild: Treskal
 partyID: 46
 tags:
 - Halfling
+- Kordinia
 - Cleric
 - Diplomacy
 - 6th
@@ -47,15 +50,20 @@ tags:
 # Savanna Ildilyntra
 ---
 ### Description
-- 6th year Halfling Cleric in Treskal
-- shoulder length wavy lighter blonde hair that's braided, Gray eyes, and Dark Brown skin
+- Halfling Cleric from Kordinia
+- 6th year Diplomacy student in Treskal
+- long curly platinum hair that's plain, Gray eyes, and Dark Brown skin
 - Is Practical and Uncreative, and has Indulgence as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Lenn Schimae]]: partymate
 [[Robett Grell]]: partymate
 [[Gifre Edyrm]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Savanna Ildilyntra

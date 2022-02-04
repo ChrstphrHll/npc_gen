@@ -1,7 +1,7 @@
 ---
 name: Romen Uldreiyn
 race: Goliath
-hair: shoulder length curly lighter blonde hair that's braided
+hair: short straight violet hair that's plain
 eyes: Pale Blue
 skin: Light Tan
 ideal: Fitness
@@ -14,7 +14,8 @@ bond: I'm still seeking the enlightenment I pursued in my seclusion, and it stil
 birthday:
   numeric: 6/17
   written: 17th of Pelent
-origin: Shadesburry Initiative
+origin: Chillwild Peaks
+voice: null
 relvance: 0
 relationships:
 - name: Brahm Delmuth
@@ -26,6 +27,7 @@ relationships:
 - name: Zylphan Molostroi
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Druid
 stats:
@@ -40,6 +42,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Goliath
+- Chillwild Peaks
 - Druid
 - Protection
 - 8th
@@ -48,16 +51,21 @@ tags:
 # Romen Uldreiyn
 ---
 ### Description
-- 8th year Goliath Druid in Fiesn
-- shoulder length curly lighter blonde hair that's braided, Pale Blue eyes, and Light Tan skin
+- Goliath Druid from Chillwild Peaks
+- 8th year Protection student in Fiesn
+- short straight violet hair that's plain, Pale Blue eyes, and Light Tan skin
 - Is Self-reliant and Superficial, and has Fitness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Brahm Delmuth]]: partymate
 [[Rianna Belt]]: partymate
 [[Tez Bialaer]]: partymate
 [[Zylphan Molostroi]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Romen Uldreiyn

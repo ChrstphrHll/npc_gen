@@ -1,7 +1,7 @@
 ---
 name: Matrell Halafarin
 race: Aasimar
-hair: long curly strawberry blond hair that's well kept
+hair: short wavy auburn hair that's plain
 eyes: Pale Gray
 skin: Dark Brown
 ideal: Abundance
@@ -14,7 +14,8 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 2/19
   written: 19th of Corelent
-origin: Magmus Centerhold
+origin: Chillwild Peaks
+voice: null
 relvance: 0
 relationships:
 - name: Giacomo Edraele
@@ -24,6 +25,7 @@ relationships:
 - name: Yoshen Arcaena
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Artificer
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Aasimar
+- Aldercrown Empire
 - Artificer
 - Assault
 - 2nd
@@ -46,15 +49,20 @@ tags:
 # Matrell Halafarin
 ---
 ### Description
-- 2nd year Aasimar Artificer in Treskal
-- long curly strawberry blond hair that's well kept, Pale Gray eyes, and Dark Brown skin
+- Aasimar Artificer from Chillwild Peaks
+- 2nd year Assault student in Treskal
+- short wavy auburn hair that's plain, Pale Gray eyes, and Dark Brown skin
 - Is Mischievous and Repentant, and has Abundance as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Giacomo Edraele]]: partymate
 [[Santaegus Etter]]: partymate
 [[Yoshen Arcaena]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Matrell Halafarin

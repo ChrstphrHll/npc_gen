@@ -1,7 +1,7 @@
 ---
 name: Bela Qwey
 race: Human
-hair: shoulder length straight strawberry blond hair that's plain
+hair: short wavy white hair that's messy
 eyes: Hazel
 skin: Dark Brown
 ideal: Conformity
@@ -13,7 +13,8 @@ bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 5/10
   written: 10th of Iounent
-origin: Aldercrown Empire
+origin: Kordinia
+voice: null
 relvance: 0
 relationships:
 - name: Rossan Jonik
@@ -21,6 +22,7 @@ relationships:
 - name: Lanalia Belt
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Druid
 stats:
@@ -35,6 +37,7 @@ guild: Treskal
 partyID: 67
 tags:
 - Human
+- Aldercrown Empire
 - Druid
 - Assault
 - 3rd
@@ -43,14 +46,19 @@ tags:
 # Bela Qwey
 ---
 ### Description
-- 3rd year Human Druid in Treskal
-- shoulder length straight strawberry blond hair that's plain, Hazel eyes, and Dark Brown skin
+- Human Druid from Kordinia
+- 3rd year Assault student in Treskal
+- short wavy white hair that's messy, Hazel eyes, and Dark Brown skin
 - Is Conciliatory and Modern, and has Conformity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Rossan Jonik]]: partymate
 [[Lanalia Belt]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Bela Qwey

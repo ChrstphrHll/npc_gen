@@ -1,7 +1,7 @@
 ---
 name: Everen Malfoy
 race: Halfling
-hair: short wavy blonde hair that's plain
+hair: long straight white hair that's messy
 eyes: Hazel
 skin: Dark Brown
 ideal: Gratitude
@@ -13,7 +13,8 @@ bond: I owe my life to the priest who took me in when my parents died.
 birthday:
   numeric: 4/1
   written: 1st of Moradent
-origin: Kordinia
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Iaen Dannyd
@@ -21,6 +22,7 @@ relationships:
 - name: Taewen Llamryl
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Fighter
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 61
 tags:
 - Halfling
+- Magmus Centerhold
 - Fighter
 - Exploration
 - 2nd
@@ -43,14 +46,19 @@ tags:
 # Everen Malfoy
 ---
 ### Description
-- 2nd year Halfling Fighter in Fiesn
-- short wavy blonde hair that's plain, Hazel eyes, and Dark Brown skin
+- Halfling Fighter from Aldercrown Empire
+- 2nd year Exploration student in Fiesn
+- long straight white hair that's messy, Hazel eyes, and Dark Brown skin
 - Is Scholarly and Subjective, and has Gratitude as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Iaen Dannyd]]: partymate
 [[Taewen Llamryl]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Everen Malfoy

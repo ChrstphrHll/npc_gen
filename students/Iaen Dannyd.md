@@ -1,7 +1,7 @@
 ---
 name: Iaen Dannyd
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Deep Blue
 skin: copper
 ideal: Wellness
@@ -13,7 +13,8 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 1/11
   written: 11th of Avanent
-origin: Verdain
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Everen Malfoy
@@ -21,6 +22,7 @@ relationships:
 - name: Taewen Llamryl
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Rouge
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 61
 tags:
 - Dragonborn
+- Draconia
 - Rouge
 - Protection
 - 2nd
@@ -43,14 +46,19 @@ tags:
 # Iaen Dannyd
 ---
 ### Description
-- 2nd year Dragonborn Rouge in Fiesn
-- short spines, Deep Blue eyes, and copper skin
+- Dragonborn Rouge from Draconia
+- 2nd year Protection student in Fiesn
+- frills, Deep Blue eyes, and copper skin
 - Is Trusting and Determined, and has Wellness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Everen Malfoy]]: partymate
 [[Taewen Llamryl]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Iaen Dannyd

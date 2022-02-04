@@ -1,7 +1,7 @@
 ---
 name: Nathan Laeroth
 race: Gnome
-hair: shoulder length straight red hair that's plain
+hair: long wavy strawberry blond hair that's plain
 eyes: Blue
 skin: Pale
 ideal: Fun
@@ -14,7 +14,8 @@ bond: My tools are symbols of my past life, and I carry them so that I will neve
 birthday:
   numeric: 2/5
   written: 5th of Corelent
-origin: Magmus Centerhold
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Jendrellian Webb
@@ -22,6 +23,7 @@ relationships:
 - name: Pike Tethir
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Artificer
 stats:
@@ -36,6 +38,7 @@ guild: Elkenval
 partyID: 64
 tags:
 - Gnome
+- Shadesburry Initiative
 - Artificer
 - Diplomacy
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Nathan Laeroth
 ---
 ### Description
-- 1st year Gnome Artificer in Elkenval
-- shoulder length straight red hair that's plain, Blue eyes, and Pale skin
+- Gnome Artificer from Shadesburry Initiative
+- 1st year Diplomacy student in Elkenval
+- long wavy strawberry blond hair that's plain, Blue eyes, and Pale skin
 - Is Sweet and Wicked, and has Fun as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jendrellian Webb]]: partymate
 [[Pike Tethir]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Nathan Laeroth

@@ -1,7 +1,7 @@
 ---
 name: Brahm Delmuth
 race: Half-Orc
-hair: long straight brunette hair that's braided
+hair: short curly grey hair that's messy
 eyes: Pale Blue
 skin: Pale Green
 ideal: Stoicism
@@ -14,7 +14,8 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
-origin: Verdain
+origin: Chillwild Peaks
+voice: null
 relvance: 0
 relationships:
 - name: Romen Uldreiyn
@@ -26,6 +27,7 @@ relationships:
 - name: Zylphan Molostroi
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Paladin
 stats:
@@ -40,6 +42,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Half-Orc
+- Magmus Centerhold
 - Paladin
 - Exploration
 - 8th
@@ -48,16 +51,21 @@ tags:
 # Brahm Delmuth
 ---
 ### Description
-- 8th year Half-Orc Paladin in Fiesn
-- long straight brunette hair that's braided, Pale Blue eyes, and Pale Green skin
+- Half-Orc Paladin from Chillwild Peaks
+- 8th year Exploration student in Fiesn
+- short curly grey hair that's messy, Pale Blue eyes, and Pale Green skin
 - Is Exuberant and Conservative, and has Stoicism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Romen Uldreiyn]]: partymate
 [[Rianna Belt]]: partymate
 [[Tez Bialaer]]: partymate
 [[Zylphan Molostroi]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Brahm Delmuth

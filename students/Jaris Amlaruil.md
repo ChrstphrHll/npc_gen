@@ -1,7 +1,7 @@
 ---
 name: Jaris Amlaruil
 race: Triton
-hair: long straight black hair that's put up
+hair: shoulder length straight auburn hair that's well kept
 eyes: Violet Red
 skin: Aqua
 ideal: Wealth
@@ -14,7 +14,8 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 1/1
   written: 1st of Avanent
-origin: Kordinia
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Jareth Tanseril
@@ -22,6 +23,7 @@ relationships:
 - name: Aksel Strohm
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Fighter
 stats:
@@ -36,6 +38,7 @@ guild: Jettenia
 partyID: 10
 tags:
 - Triton
+- Whyndiem
 - Fighter
 - Protection
 - 7th
@@ -44,14 +47,19 @@ tags:
 # Jaris Amlaruil
 ---
 ### Description
-- 7th year Triton Fighter in Jettenia
-- long straight black hair that's put up, Violet Red eyes, and Aqua skin
+- Triton Fighter from Whyndiem
+- 7th year Protection student in Jettenia
+- shoulder length straight auburn hair that's well kept, Violet Red eyes, and Aqua skin
 - Is Resourceful and Bland, and has Wealth as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jareth Tanseril]]: partymate
 [[Aksel Strohm]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jaris Amlaruil

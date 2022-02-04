@@ -1,7 +1,7 @@
 ---
 name: Zylphan Molostroi
 race: Firbolg
-hair: long wavy white hair that's plain
+hair: shoulder length wavy dark red hair that's braided
 eyes: Amber
 skin: Pale Brown
 ideal: Honesty
@@ -14,7 +14,8 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 4/21
   written: 21st of Moradent
-origin: Beleriand
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Romen Uldreiyn
@@ -26,6 +27,7 @@ relationships:
 - name: Tez Bialaer
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Rouge
 stats:
@@ -40,6 +42,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Firbolg
+- Verdain
 - Rouge
 - Diplomacy
 - 8th
@@ -48,16 +51,21 @@ tags:
 # Zylphan Molostroi
 ---
 ### Description
-- 8th year Firbolg Rouge in Fiesn
-- long wavy white hair that's plain, Amber eyes, and Pale Brown skin
+- Firbolg Rouge from Verdain
+- 8th year Diplomacy student in Fiesn
+- shoulder length wavy dark red hair that's braided, Amber eyes, and Pale Brown skin
 - Is Firm and Hateful, and has Honesty as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Romen Uldreiyn]]: partymate
 [[Brahm Delmuth]]: partymate
 [[Rianna Belt]]: partymate
 [[Tez Bialaer]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Zylphan Molostroi

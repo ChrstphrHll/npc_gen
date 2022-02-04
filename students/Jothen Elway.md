@@ -1,7 +1,7 @@
 ---
 name: Jothen Elway
 race: Human
-hair: long wavy platinum hair that's braided
+hair: long wavy platinum hair that's messy
 eyes: Pale Green
 skin: Tan
 ideal: Cruelty
@@ -14,6 +14,7 @@ birthday:
   numeric: 6/24
   written: 24th of Pelent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Aidyn Glynnii
@@ -21,6 +22,7 @@ relationships:
 - name: Allisa Iahalae
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Rouge
 stats:
@@ -35,6 +37,7 @@ guild: Elkenval
 partyID: 2
 tags:
 - Human
+- Qualnis
 - Rouge
 - Exploration
 - 1st
@@ -43,14 +46,19 @@ tags:
 # Jothen Elway
 ---
 ### Description
-- 1st year Human Rouge in Elkenval
-- long wavy platinum hair that's braided, Pale Green eyes, and Tan skin
+- Human Rouge from Aldercrown Empire
+- 1st year Exploration student in Elkenval
+- long wavy platinum hair that's messy, Pale Green eyes, and Tan skin
 - Is Freewheeling and Dreamy, and has Cruelty as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Aidyn Glynnii]]: partymate
 [[Allisa Iahalae]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jothen Elway

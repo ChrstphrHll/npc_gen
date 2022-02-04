@@ -1,7 +1,7 @@
 ---
 name: Ruby Kythaela
 race: Triton
-hair: shoulder length curly violet hair that's braided
+hair: short frizzy dirty blonde hair that's messy
 eyes: Amber
 skin: Spring Green
 ideal: Love
@@ -14,7 +14,8 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 7/32
   written: 32nd of Korent
-origin: Qualnis
+origin: Glasscliff Garisons
+voice: null
 relvance: 0
 relationships:
 - name: Eadyth Lora
@@ -22,6 +23,7 @@ relationships:
 - name: Sammen Axilya
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Fighter
 stats:
@@ -36,6 +38,7 @@ guild: Jettenia
 partyID: 26
 tags:
 - Triton
+- Magmus Centerhold
 - Fighter
 - Protection
 - 2nd
@@ -44,14 +47,19 @@ tags:
 # Ruby Kythaela
 ---
 ### Description
-- 2nd year Triton Fighter in Jettenia
-- shoulder length curly violet hair that's braided, Amber eyes, and Spring Green skin
+- Triton Fighter from Glasscliff Garisons
+- 2nd year Protection student in Jettenia
+- short frizzy dirty blonde hair that's messy, Amber eyes, and Spring Green skin
 - Is Paternalistic and Pleasing, and has Love as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Eadyth Lora]]: partymate
 [[Sammen Axilya]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ruby Kythaela

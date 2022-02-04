@@ -1,7 +1,7 @@
 ---
 name: Eljana Jian
 race: Goliath
-hair: shoulder length straight strawberry blond hair that's well kept
+hair: long straight platinum hair that's plain
 eyes: Blue
 skin: Dark Tan
 ideal: Harmony
@@ -14,12 +14,14 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 4/18
   written: 18th of Moradent
-origin: Aldercrown Empire
+origin: Chillwild Peaks
+voice: null
 relvance: 0
 relationships:
 - name: Asralyn Rhangyl
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Fighter
 stats:
@@ -34,6 +36,7 @@ guild: Fiesn
 partyID: 71
 tags:
 - Goliath
+- Magmus Centerhold
 - Fighter
 - Protection
 - 5th
@@ -42,13 +45,18 @@ tags:
 # Eljana Jian
 ---
 ### Description
-- 5th year Goliath Fighter in Fiesn
-- shoulder length straight strawberry blond hair that's well kept, Blue eyes, and Dark Tan skin
+- Goliath Fighter from Chillwild Peaks
+- 5th year Protection student in Fiesn
+- long straight platinum hair that's plain, Blue eyes, and Dark Tan skin
 - Is Challenging and Confused, and has Harmony as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Asralyn Rhangyl]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Eljana Jian

@@ -1,7 +1,7 @@
 ---
 name: Corliss Akkar
 race: Half-Orc
-hair: short curly auburn hair that's well kept
+hair: short wavy blonde hair that's plain
 eyes: Hazel
 skin: Deep Green
 ideal: Self-Fulfillment
@@ -13,7 +13,8 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 6/32
   written: 32nd of Pelent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Lynx Galather
@@ -21,6 +22,7 @@ relationships:
 - name: Aenglo Dyffros
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Rouge
 stats:
@@ -35,6 +37,7 @@ guild: Burk
 partyID: 72
 tags:
 - Half-Orc
+- Aldercrown Empire
 - Rouge
 - Exploration
 - 1st
@@ -43,14 +46,19 @@ tags:
 # Corliss Akkar
 ---
 ### Description
-- 1st year Half-Orc Rouge in Burk
-- short curly auburn hair that's well kept, Hazel eyes, and Deep Green skin
+- Half-Orc Rouge from Magmus Centerhold
+- 1st year Exploration student in Burk
+- short wavy blonde hair that's plain, Hazel eyes, and Deep Green skin
 - Is Sneaky and Hidebound, and has Self-Fulfillment as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Lynx Galather]]: partymate
 [[Aenglo Dyffros]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Corliss Akkar

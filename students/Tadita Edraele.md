@@ -1,7 +1,7 @@
 ---
 name: Tadita Edraele
 race: Gnome
-hair: short wavy blonde hair that's wild
+hair: long curly strawberry blond hair that's put up
 eyes: Green
 skin: Light
 ideal: Flexibility
@@ -16,7 +16,8 @@ bond: I will bring terrible wrath down on the evildoers who destroyed my homelan
 birthday:
   numeric: 3/1
   written: 1st of Melorent
-origin: Kordinia
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Estyn Rhangyl
@@ -26,6 +27,7 @@ relationships:
 - name: Robbos Kalaerede
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Paladin
 stats:
@@ -40,6 +42,7 @@ guild: Treskal
 partyID: 7
 tags:
 - Gnome
+- Shadesburry Initiative
 - Paladin
 - Assault
 - 4th
@@ -48,15 +51,20 @@ tags:
 # Tadita Edraele
 ---
 ### Description
-- 4th year Gnome Paladin in Treskal
-- short wavy blonde hair that's wild, Green eyes, and Light skin
+- Gnome Paladin from Aldercrown Empire
+- 4th year Assault student in Treskal
+- long curly strawberry blond hair that's put up, Green eyes, and Light skin
 - Is Thoughtful and Invisible, and has Flexibility as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Estyn Rhangyl]]: partymate
 [[Melcyn Taeral]]: partymate
 [[Robbos Kalaerede]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Tadita Edraele

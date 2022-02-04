@@ -1,7 +1,7 @@
 ---
 name: Wulfe Galan
 race: Genasi
-hair: long wavy platinum hair that's plain
+hair: shoulder length curly black hair that's messy
 eyes: Emerald Green
 skin: fire
 ideal: Vengful
@@ -16,7 +16,8 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Yakob Lydialeera
@@ -26,6 +27,7 @@ relationships:
 - name: Lichie Halliwell
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Paladin
 stats:
@@ -40,6 +42,7 @@ guild: Elkenval
 partyID: 82
 tags:
 - Genasi
+- Verdain
 - Paladin
 - Assault
 - 1st
@@ -48,15 +51,20 @@ tags:
 # Wulfe Galan
 ---
 ### Description
-- 1st year Genasi Paladin in Elkenval
-- long wavy platinum hair that's plain, Emerald Green eyes, and fire skin
+- Genasi Paladin from Magmus Centerhold
+- 1st year Assault student in Elkenval
+- shoulder length curly black hair that's messy, Emerald Green eyes, and fire skin
 - Is Steadfast and Mellow, and has Vengful as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Yakob Lydialeera]]: partymate
 [[Nicolle Shandalar]]: partymate
 [[Lichie Halliwell]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Wulfe Galan

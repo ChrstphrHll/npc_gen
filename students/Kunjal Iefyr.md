@@ -1,7 +1,7 @@
 ---
 name: Kunjal Iefyr
 race: Halfling
-hair: long curly dark red hair that's plain
+hair: short wavy grey hair that's plain
 eyes: Pale Gray
 skin: Light Tan
 ideal: Faith
@@ -16,7 +16,8 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 6/6
   written: 6th of Pelent
-origin: Verdain
+origin: Kordinia
+voice: null
 relvance: 0
 relationships:
 - name: Guliemos Nym
@@ -24,6 +25,7 @@ relationships:
 - name: Turi Chandrelle
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Cleric
 stats:
@@ -38,6 +40,7 @@ guild: Fiesn
 partyID: 13
 tags:
 - Halfling
+- Verdain
 - Cleric
 - Protection
 - 4th
@@ -46,14 +49,19 @@ tags:
 # Kunjal Iefyr
 ---
 ### Description
-- 4th year Halfling Cleric in Fiesn
-- long curly dark red hair that's plain, Pale Gray eyes, and Light Tan skin
+- Halfling Cleric from Kordinia
+- 4th year Protection student in Fiesn
+- short wavy grey hair that's plain, Pale Gray eyes, and Light Tan skin
 - Is Carefree and Mannerless, and has Faith as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Guliemos Nym]]: partymate
 [[Turi Chandrelle]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Kunjal Iefyr

@@ -1,7 +1,7 @@
 ---
 name: Leja Talila
 race: Elf
-hair: short wavy lighter blonde hair that's messy
+hair: long wavy red hair that's well kept
 eyes: Hazel
 skin: Fair
 ideal: Prosperity
@@ -14,12 +14,14 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 1/13
   written: 13th of Avanent
-origin: Kordinia
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Natalia Endo
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Sorcerer
 stats:
@@ -34,6 +36,7 @@ guild: Burk
 partyID: 83
 tags:
 - Elf
+- Beleriand
 - Sorcerer
 - Diplomacy
 - 3rd
@@ -42,13 +45,18 @@ tags:
 # Leja Talila
 ---
 ### Description
-- 3rd year Elf Sorcerer in Burk
-- short wavy lighter blonde hair that's messy, Hazel eyes, and Fair skin
+- Elf Sorcerer from Shadesburry Initiative
+- 3rd year Diplomacy student in Burk
+- long wavy red hair that's well kept, Hazel eyes, and Fair skin
 - Is Upright and Monstrous, and has Prosperity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Natalia Endo]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Leja Talila

@@ -1,7 +1,7 @@
 ---
 name: Eune Eldratha
 race: Triton
-hair: shoulder length curly strawberry blond hair that's plain
+hair: long straight brunette hair that's put up
 eyes: Violet Red
 skin: Emerald Green
 ideal: Forgiveness
@@ -13,7 +13,8 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 1/28
   written: 28th of Avanent
-origin: Qualnis
+origin: Glasscliff Garisons
+voice: null
 relvance: 0
 relationships:
 - name: Evyn Fenton
@@ -21,6 +22,7 @@ relationships:
 - name: Tezani Morthil
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Druid
 stats:
@@ -35,6 +37,7 @@ guild: Elkenval
 partyID: 34
 tags:
 - Triton
+- Magmus Centerhold
 - Druid
 - Protection
 - 2nd
@@ -43,14 +46,19 @@ tags:
 # Eune Eldratha
 ---
 ### Description
-- 2nd year Triton Druid in Elkenval
-- shoulder length curly strawberry blond hair that's plain, Violet Red eyes, and Emerald Green skin
+- Triton Druid from Glasscliff Garisons
+- 2nd year Protection student in Elkenval
+- long straight brunette hair that's put up, Violet Red eyes, and Emerald Green skin
 - Is Unreligious and Libidinous, and has Forgiveness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Evyn Fenton]]: partymate
 [[Tezani Morthil]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Eune Eldratha

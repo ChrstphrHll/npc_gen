@@ -1,7 +1,7 @@
 ---
 name: Hudsen Elandorr
 race: Half-Orc
-hair: long curly white hair that's messy
+hair: short curly red hair that's messy
 eyes: Pale Blue
 skin: Green Blue
 ideal: Success
@@ -13,7 +13,8 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 4/4
   written: 4th of Moradent
-origin: Qualnis
+origin: Chillwild Peaks
+voice: null
 relvance: 0
 relationships:
 - name: Brooka Whesker
@@ -23,6 +24,7 @@ relationships:
 - name: Gabrila Retra
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Druid
 stats:
@@ -37,6 +39,7 @@ guild: Treskal
 partyID: 45
 tags:
 - Half-Orc
+- Magmus Centerhold
 - Druid
 - Assault
 - 3rd
@@ -45,15 +48,20 @@ tags:
 # Hudsen Elandorr
 ---
 ### Description
-- 3rd year Half-Orc Druid in Treskal
-- long curly white hair that's messy, Pale Blue eyes, and Green Blue skin
+- Half-Orc Druid from Chillwild Peaks
+- 3rd year Assault student in Treskal
+- short curly red hair that's messy, Pale Blue eyes, and Green Blue skin
 - Is Cooperative and Venomous, and has Success as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Brooka Whesker]]: partymate
 [[Jacob Jorildyn]]: partymate
 [[Gabrila Retra]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Hudsen Elandorr

@@ -1,7 +1,7 @@
 ---
 name: Aurikallos Biafyndar
 race: Gnome
-hair: short straight black hair that's braided
+hair: short straight pink hair that's braided
 eyes: Gray
 skin: Pale
 ideal: Righteous
@@ -14,7 +14,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 3/10
   written: 10th of Melorent
-origin: Beleriand
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Dylan Usunaar
@@ -24,6 +25,7 @@ relationships:
 - name: Grace Festus
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Monk
 stats:
@@ -38,6 +40,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Gnome
+- Shadesburry Initiative
 - Monk
 - Protection
 - 5th
@@ -46,15 +49,20 @@ tags:
 # Aurikallos Biafyndar
 ---
 ### Description
-- 5th year Gnome Monk in Elkenval
-- short straight black hair that's braided, Gray eyes, and Pale skin
+- Gnome Monk from Aldercrown Empire
+- 5th year Protection student in Elkenval
+- short straight pink hair that's braided, Gray eyes, and Pale skin
 - Is Placid and Repugnant, and has Righteous as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Dylan Usunaar]]: partymate
 [[Delila Felaern]]: partymate
 [[Grace Festus]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Aurikallos Biafyndar

@@ -1,7 +1,7 @@
 ---
 name: Brynn Opalul
 race: Tiefling
-hair: short curly dark red hair that's plain
+hair: short straight black hair that's wild
 eyes: Red
 skin: Pale Yellow
 ideal: Charisma
@@ -15,12 +15,14 @@ bond: I entered seclusion because I loved someone I could not have.
 birthday:
   numeric: 4/28
   written: 28th of Moradent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Alys Ylyndar
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Paladin
 stats:
@@ -35,6 +37,7 @@ guild: Burk
 partyID: 39
 tags:
 - Tiefling
+- Aldercrown Empire
 - Paladin
 - Exploration
 - 3rd
@@ -43,13 +46,18 @@ tags:
 # Brynn Opalul
 ---
 ### Description
-- 3rd year Tiefling Paladin in Burk
-- short curly dark red hair that's plain, Red eyes, and Pale Yellow skin
+- Tiefling Paladin from Aldercrown Empire
+- 3rd year Exploration student in Burk
+- short straight black hair that's wild, Red eyes, and Pale Yellow skin
 - Is Devoted and Odd, and has Charisma as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Alys Ylyndar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Brynn Opalul

@@ -1,7 +1,7 @@
 ---
 name: Ramona Saida
 race: Dragonborn
-hair: frills
+hair: 5 jagged horns
 eyes: Hazel
 skin: green
 ideal: Courage
@@ -14,7 +14,8 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 3/11
   written: 11th of Melorent
-origin: Principality of the Palus Peoples
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Gina Grandius
@@ -24,6 +25,7 @@ relationships:
 - name: Hanna Estelar
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Druid
 stats:
@@ -38,6 +40,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Dragonborn
+- Draconia
 - Druid
 - Exploration
 - 3rd
@@ -46,15 +49,20 @@ tags:
 # Ramona Saida
 ---
 ### Description
-- 3rd year Dragonborn Druid in Alderden
-- frills, Hazel eyes, and green skin
+- Dragonborn Druid from Draconia
+- 3rd year Exploration student in Alderden
+- 5 jagged horns, Hazel eyes, and green skin
 - Is Predictable and Evil, and has Courage as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Gina Grandius]]: partymate
 [[Leya Escobar]]: partymate
 [[Hanna Estelar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ramona Saida

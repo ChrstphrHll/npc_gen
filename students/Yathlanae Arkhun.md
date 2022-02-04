@@ -1,7 +1,7 @@
 ---
 name: Yathlanae Arkhun
 race: Half-Elf
-hair: short curly brunette hair that's messy
+hair: short wavy platinum hair that's messy
 eyes: Pale Blue
 skin: Brown
 ideal: Wealth
@@ -14,12 +14,14 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 8/8
   written: 8th of Ravenent
-origin: Chilliwld Peaks
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Halja Dwyer
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Sorcerer
 stats:
@@ -34,6 +36,7 @@ guild: Alderden
 partyID: 55
 tags:
 - Half-Elf
+- Beleriand
 - Sorcerer
 - Diplomacy
 - 1st
@@ -42,13 +45,18 @@ tags:
 # Yathlanae Arkhun
 ---
 ### Description
-- 1st year Half-Elf Sorcerer in Alderden
-- short curly brunette hair that's messy, Pale Blue eyes, and Brown skin
+- Half-Elf Sorcerer from Beleriand
+- 1st year Diplomacy student in Alderden
+- short wavy platinum hair that's messy, Pale Blue eyes, and Brown skin
 - Is Graceful and Troublesome, and has Wealth as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Halja Dwyer]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Yathlanae Arkhun

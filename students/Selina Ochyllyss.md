@@ -1,7 +1,7 @@
 ---
 name: Selina Ochyllyss
 race: Dwarf
-hair: short wavy platinum hair that's put up
+hair: short curly brunette hair that's put up
 eyes: Blue
 skin: Light Tan
 ideal: Logic
@@ -14,7 +14,8 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 3/20
   written: 20th of Melorent
-origin: Magmus Centerhold
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Matos Mektal
@@ -26,6 +27,7 @@ relationships:
 - name: Ivistra Stockton
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Monk
 stats:
@@ -40,6 +42,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Dwarf
+- Aldercrown Empire
 - Monk
 - Exploration
 - 5th
@@ -48,16 +51,21 @@ tags:
 # Selina Ochyllyss
 ---
 ### Description
-- 5th year Dwarf Monk in Jettenia
-- short wavy platinum hair that's put up, Blue eyes, and Light Tan skin
+- Dwarf Monk from Shadesburry Initiative
+- 5th year Exploration student in Jettenia
+- short curly brunette hair that's put up, Blue eyes, and Light Tan skin
 - Is Droll and Restrained, and has Logic as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Matos Mektal]]: partymate
 [[Adros Tolthe]]: partymate
 [[Yorala Tiatha]]: partymate
 [[Ivistra Stockton]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Selina Ochyllyss

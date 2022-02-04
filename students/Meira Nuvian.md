@@ -1,7 +1,7 @@
 ---
 name: Meira Nuvian
 race: Half-Elf
-hair: short straight auburn hair that's well kept
+hair: short frizzy black hair that's plain
 eyes: Gray
 skin: Dark Tan
 ideal: Compassion
@@ -13,7 +13,8 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 5/14
   written: 14th of Iounent
-origin: Magmus Centerhold
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Thongar Fairchild
@@ -21,6 +22,7 @@ relationships:
 - name: Roman Erolith
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Ranger
 stats:
@@ -35,6 +37,7 @@ guild: Burk
 partyID: 5
 tags:
 - Half-Elf
+- Beleriand
 - Ranger
 - Assault
 - 3rd
@@ -43,14 +46,19 @@ tags:
 # Meira Nuvian
 ---
 ### Description
-- 3rd year Half-Elf Ranger in Burk
-- short straight auburn hair that's well kept, Gray eyes, and Dark Tan skin
+- Half-Elf Ranger from Beleriand
+- 3rd year Assault student in Burk
+- short frizzy black hair that's plain, Gray eyes, and Dark Tan skin
 - Is Well-bred and Disconcerting, and has Compassion as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Thongar Fairchild]]: partymate
 [[Roman Erolith]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Meira Nuvian

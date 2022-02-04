@@ -1,7 +1,7 @@
 ---
 name: Uxwy Lazziar
 race: Human
-hair: short straight auburn hair that's messy
+hair: short wavy blue hair that's wild
 eyes: Hazel
 skin: Fair
 ideal: Contentment
@@ -14,7 +14,8 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 2/23
   written: 23rd of Corelent
-origin: Chilliwld Peaks
+origin: Floating Island
+voice: null
 relvance: 0
 relationships:
 - name: Abel Marsh
@@ -22,6 +23,7 @@ relationships:
 - name: Leonus Triktappic
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Sorcerer
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 48
 tags:
 - Human
+- Aldercrown Empire
 - Sorcerer
 - Assault
 - 5th
@@ -44,14 +47,19 @@ tags:
 # Uxwy Lazziar
 ---
 ### Description
-- 5th year Human Sorcerer in Fiesn
-- short straight auburn hair that's messy, Hazel eyes, and Fair skin
+- Human Sorcerer from Floating Island
+- 5th year Assault student in Fiesn
+- short wavy blue hair that's wild, Hazel eyes, and Fair skin
 - Is Admirable and Repugnant, and has Contentment as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Abel Marsh]]: partymate
 [[Leonus Triktappic]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Uxwy Lazziar

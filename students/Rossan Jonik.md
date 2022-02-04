@@ -1,7 +1,7 @@
 ---
 name: Rossan Jonik
 race: Halfling
-hair: shoulder length straight white hair that's messy
+hair: long curly lighter blonde hair that's put up
 eyes: Pale Blue
 skin: Fair
 ideal: Might
@@ -14,7 +14,8 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 3/31
   written: 31st of Melorent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Bela Qwey
@@ -22,6 +23,7 @@ relationships:
 - name: Lanalia Belt
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Artificer
 stats:
@@ -36,6 +38,7 @@ guild: Treskal
 partyID: 67
 tags:
 - Halfling
+- Kordinia
 - Artificer
 - Exploration
 - 3rd
@@ -44,14 +47,19 @@ tags:
 # Rossan Jonik
 ---
 ### Description
-- 3rd year Halfling Artificer in Treskal
-- shoulder length straight white hair that's messy, Pale Blue eyes, and Fair skin
+- Halfling Artificer from Aldercrown Empire
+- 3rd year Exploration student in Treskal
+- long curly lighter blonde hair that's put up, Pale Blue eyes, and Fair skin
 - Is Impartial and Unaggressive, and has Might as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Bela Qwey]]: partymate
 [[Lanalia Belt]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Rossan Jonik

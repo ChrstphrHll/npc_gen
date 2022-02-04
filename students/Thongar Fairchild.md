@@ -1,7 +1,7 @@
 ---
 name: Thongar Fairchild
 race: Human
-hair: short straight white hair that's plain
+hair: long curly white hair that's well kept
 eyes: Hazel
 skin: Light
 ideal: Fame
@@ -14,7 +14,8 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 6/11
   written: 11th of Pelent
-origin: Aldercrown Empire
+origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Meira Nuvian
@@ -22,6 +23,7 @@ relationships:
 - name: Roman Erolith
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Cleric
 stats:
@@ -36,6 +38,7 @@ guild: Burk
 partyID: 5
 tags:
 - Human
+- Qualnis
 - Cleric
 - Diplomacy
 - 3rd
@@ -44,14 +47,19 @@ tags:
 # Thongar Fairchild
 ---
 ### Description
-- 3rd year Human Cleric in Burk
-- short straight white hair that's plain, Hazel eyes, and Light skin
+- Human Cleric from Principality of the Palus Peoples
+- 3rd year Diplomacy student in Burk
+- long curly white hair that's well kept, Hazel eyes, and Light skin
 - Is Accessible and Fawning, and has Fame as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Meira Nuvian]]: partymate
 [[Roman Erolith]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Thongar Fairchild

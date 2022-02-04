@@ -1,7 +1,7 @@
 ---
 name: Sulivan Wylchyr
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Spring Green
 skin: blue
 ideal: Forgiveness
@@ -14,12 +14,14 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 7/12
   written: 12th of Korent
-origin: Shadesburry Initiative
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Gorlas Vhoadan
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Monk
 stats:
@@ -34,6 +36,7 @@ guild: Elkenval
 partyID: 50
 tags:
 - Dragonborn
+- Draconia
 - Monk
 - Exploration
 - 2nd
@@ -42,13 +45,18 @@ tags:
 # Sulivan Wylchyr
 ---
 ### Description
-- 2nd year Dragonborn Monk in Elkenval
-- short spines, Spring Green eyes, and blue skin
+- Dragonborn Monk from Draconia
+- 2nd year Exploration student in Elkenval
+- frills, Spring Green eyes, and blue skin
 - Is Joyful and Pure, and has Forgiveness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Gorlas Vhoadan]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Sulivan Wylchyr

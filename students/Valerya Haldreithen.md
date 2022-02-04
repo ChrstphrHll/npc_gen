@@ -1,7 +1,7 @@
 ---
 name: Valerya Haldreithen
 race: Triton
-hair: shoulder length wavy pink hair that's put up
+hair: short wavy brunette hair that's messy
 eyes: Pale Brown
 skin: Spring Green
 ideal: Courage
@@ -14,7 +14,8 @@ bond: I will face any challenge to win the approval of my family.
 birthday:
   numeric: 4/26
   written: 26th of Moradent
-origin: Qualnis
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Shinare Bersa
@@ -24,6 +25,7 @@ relationships:
 - name: Rjanna Eroan
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Druid
 stats:
@@ -38,6 +40,7 @@ guild: Fiesn
 partyID: 18
 tags:
 - Triton
+- Whyndiem
 - Druid
 - Assault
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Valerya Haldreithen
 ---
 ### Description
-- 1st year Triton Druid in Fiesn
-- shoulder length wavy pink hair that's put up, Pale Brown eyes, and Spring Green skin
+- Triton Druid from Whyndiem
+- 1st year Assault student in Fiesn
+- short wavy brunette hair that's messy, Pale Brown eyes, and Spring Green skin
 - Is Fair and Mechanical, and has Courage as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Shinare Bersa]]: partymate
 [[Ezros Laerdya]]: partymate
 [[Rjanna Eroan]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Valerya Haldreithen

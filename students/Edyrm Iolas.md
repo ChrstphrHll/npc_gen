@@ -1,7 +1,7 @@
 ---
 name: Edyrm Iolas
 race: Half-Elf
-hair: short curly auburn hair that's wild
+hair: shoulder length frizzy grey hair that's braided
 eyes: Pale Gray
 skin: Light Tan
 ideal: Might
@@ -13,7 +13,8 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 6/17
   written: 17th of Pelent
-origin: Verdain
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Jacus Kosunten
@@ -21,6 +22,7 @@ relationships:
 - name: Shenai Inqoul
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Artificer
 stats:
@@ -35,6 +37,7 @@ guild: Burk
 partyID: 57
 tags:
 - Half-Elf
+- Beleriand
 - Artificer
 - Diplomacy
 - 2nd
@@ -43,14 +46,19 @@ tags:
 # Edyrm Iolas
 ---
 ### Description
-- 2nd year Half-Elf Artificer in Burk
-- short curly auburn hair that's wild, Pale Gray eyes, and Light Tan skin
+- Half-Elf Artificer from Beleriand
+- 2nd year Diplomacy student in Burk
+- shoulder length frizzy grey hair that's braided, Pale Gray eyes, and Light Tan skin
 - Is Seraphic and Unpolished, and has Might as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jacus Kosunten]]: partymate
 [[Shenai Inqoul]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Edyrm Iolas

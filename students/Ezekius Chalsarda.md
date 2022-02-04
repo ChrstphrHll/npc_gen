@@ -1,7 +1,7 @@
 ---
 name: Ezekius Chalsarda
 race: Halfling
-hair: short wavy brunette hair that's plain
+hair: short wavy red hair that's plain
 eyes: Pale Brown
 skin: Light
 ideal: Cunning
@@ -14,7 +14,8 @@ bond: I owe a debt I can never repay to the person who took pity on me.
 birthday:
   numeric: 8/12
   written: 12th of Ravenent
-origin: Beleriand
+origin: Kordinia
+voice: null
 relvance: 0
 relationships:
 - name: Moki Aelynthi
@@ -22,6 +23,7 @@ relationships:
 - name: Gianesia Onvyr
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Wizard
 stats:
@@ -36,6 +38,7 @@ guild: Burk
 partyID: 29
 tags:
 - Halfling
+- Verdain
 - Wizard
 - Diplomacy
 - 6th
@@ -44,14 +47,19 @@ tags:
 # Ezekius Chalsarda
 ---
 ### Description
-- 6th year Halfling Wizard in Burk
-- short wavy brunette hair that's plain, Pale Brown eyes, and Light skin
+- Halfling Wizard from Kordinia
+- 6th year Diplomacy student in Burk
+- short wavy red hair that's plain, Pale Brown eyes, and Light skin
 - Is Magnanimous and Excitable, and has Cunning as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Moki Aelynthi]]: partymate
 [[Gianesia Onvyr]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ezekius Chalsarda

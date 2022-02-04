@@ -1,7 +1,7 @@
 ---
 name: Celaeno Amkissra
 race: Half-Orc
-hair: short wavy auburn hair that's braided
+hair: shoulder length curly black hair that's plain
 eyes: Brown
 skin: Pale Gray
 ideal: Finesse
@@ -13,7 +13,8 @@ bond: Someone stole my precious instrument, and someday I'll get it back.
 birthday:
   numeric: 6/20
   written: 20th of Pelent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Kembley Ralnor
@@ -21,6 +22,7 @@ relationships:
 - name: Wenge Usunaar
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Artificer
 stats:
@@ -35,6 +37,7 @@ guild: Jettenia
 partyID: 80
 tags:
 - Half-Orc
+- Magmus Centerhold
 - Artificer
 - Assault
 - 8th
@@ -43,14 +46,19 @@ tags:
 # Celaeno Amkissra
 ---
 ### Description
-- 8th year Half-Orc Artificer in Jettenia
-- short wavy auburn hair that's braided, Brown eyes, and Pale Gray skin
+- Half-Orc Artificer from Magmus Centerhold
+- 8th year Assault student in Jettenia
+- shoulder length curly black hair that's plain, Brown eyes, and Pale Gray skin
 - Is Persuasive and Timid, and has Finesse as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kembley Ralnor]]: partymate
 [[Wenge Usunaar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Celaeno Amkissra

@@ -1,7 +1,7 @@
 ---
 name: Barak Felaern
 race: Kenku
-hair: ruffled
+hair: speckled
 eyes: Hazel
 skin: Dark Blue
 ideal: Order
@@ -14,7 +14,8 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 6/19
   written: 19th of Pelent
-origin: Beleriand
+origin: Black Rock
+voice: null
 relvance: 0
 relationships:
 - name: Terek Nushala
@@ -22,6 +23,7 @@ relationships:
 - name: Scarletta Elora
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Monk
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 27
 tags:
 - Kenku
+- Shadesburry Initiative
 - Monk
 - Protection
 - 2nd
@@ -44,14 +47,19 @@ tags:
 # Barak Felaern
 ---
 ### Description
-- 2nd year Kenku Monk in Fiesn
-- ruffled, Hazel eyes, and Dark Blue skin
+- Kenku Monk from Black Rock
+- 2nd year Protection student in Fiesn
+- speckled, Hazel eyes, and Dark Blue skin
 - Is Playful and Noncommittal, and has Order as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Terek Nushala]]: partymate
 [[Scarletta Elora]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Barak Felaern

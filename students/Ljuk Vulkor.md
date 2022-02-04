@@ -1,7 +1,7 @@
 ---
 name: Ljuk Vulkor
 race: Dwarf
-hair: short wavy auburn hair that's wild
+hair: long wavy platinum hair that's braided
 eyes: Pale Green
 skin: Tan
 ideal: Teamwork
@@ -13,12 +13,14 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 1/15
   written: 15th of Avanent
-origin: Principality of the Palus Peoples
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Kanoi Xharlion
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Sorcerer
 stats:
@@ -33,6 +35,7 @@ guild: Elkenval
 partyID: 84
 tags:
 - Dwarf
+- Aldercrown Empire
 - Sorcerer
 - Assault
 - 2nd
@@ -41,13 +44,18 @@ tags:
 # Ljuk Vulkor
 ---
 ### Description
-- 2nd year Dwarf Sorcerer in Elkenval
-- short wavy auburn hair that's wild, Pale Green eyes, and Tan skin
+- Dwarf Sorcerer from Shadesburry Initiative
+- 2nd year Assault student in Elkenval
+- long wavy platinum hair that's braided, Pale Green eyes, and Tan skin
 - Is Mystical and Negligent, and has Teamwork as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kanoi Xharlion]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ljuk Vulkor

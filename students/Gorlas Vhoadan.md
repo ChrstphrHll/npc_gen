@@ -1,7 +1,7 @@
 ---
 name: Gorlas Vhoadan
 race: Gnome
-hair: long straight dirty blonde hair that's plain
+hair: long curly auburn hair that's plain
 eyes: Pale Gray
 skin: Fair
 ideal: Conformity
@@ -14,12 +14,14 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
-origin: Beleriand
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Sulivan Wylchyr
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Barbarian
 stats:
@@ -34,6 +36,7 @@ guild: Elkenval
 partyID: 50
 tags:
 - Gnome
+- Shadesburry Initiative
 - Barbarian
 - Exploration
 - 2nd
@@ -42,13 +45,18 @@ tags:
 # Gorlas Vhoadan
 ---
 ### Description
-- 2nd year Gnome Barbarian in Elkenval
-- long straight dirty blonde hair that's plain, Pale Gray eyes, and Fair skin
+- Gnome Barbarian from Shadesburry Initiative
+- 2nd year Exploration student in Elkenval
+- long curly auburn hair that's plain, Pale Gray eyes, and Fair skin
 - Is Placid and Animated, and has Conformity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Sulivan Wylchyr]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Gorlas Vhoadan

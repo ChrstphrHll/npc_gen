@@ -1,7 +1,7 @@
 ---
 name: Evyn Fenton
 race: Half-Orc
-hair: shoulder length wavy platinum hair that's messy
+hair: short curly auburn hair that's wild
 eyes: Pale Blue
 skin: Pale Green
 ideal: Spiritualism
@@ -13,7 +13,8 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 6/11
   written: 11th of Pelent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Eune Eldratha
@@ -21,6 +22,7 @@ relationships:
 - name: Tezani Morthil
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Rouge
 stats:
@@ -35,6 +37,7 @@ guild: Elkenval
 partyID: 34
 tags:
 - Half-Orc
+- Aldercrown Empire
 - Rouge
 - Protection
 - 2nd
@@ -43,14 +46,19 @@ tags:
 # Evyn Fenton
 ---
 ### Description
-- 2nd year Half-Orc Rouge in Elkenval
-- shoulder length wavy platinum hair that's messy, Pale Blue eyes, and Pale Green skin
+- Half-Orc Rouge from Magmus Centerhold
+- 2nd year Protection student in Elkenval
+- short curly auburn hair that's wild, Pale Blue eyes, and Pale Green skin
 - Is Well-rounded and Perverse, and has Spiritualism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Eune Eldratha]]: partymate
 [[Tezani Morthil]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Evyn Fenton

@@ -1,7 +1,7 @@
 ---
 name: Santaegus Etter
 race: Firbolg
-hair: long wavy lighter blonde hair that's plain
+hair: short wavy brunette hair that's braided
 eyes: Blue
 skin: Pale Brown
 ideal: Courage
@@ -13,7 +13,8 @@ bond: My house's alliance with another noble family must be sustained at all cos
 birthday:
   numeric: 8/6
   written: 6th of Ravenent
-origin: Beleriand
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Giacomo Edraele
@@ -23,6 +24,7 @@ relationships:
 - name: Yoshen Arcaena
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Bard
 stats:
@@ -37,6 +39,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Firbolg
+- Aldercrown Empire
 - Bard
 - Exploration
 - 2nd
@@ -45,15 +48,20 @@ tags:
 # Santaegus Etter
 ---
 ### Description
-- 2nd year Firbolg Bard in Treskal
-- long wavy lighter blonde hair that's plain, Blue eyes, and Pale Brown skin
+- Firbolg Bard from Verdain
+- 2nd year Exploration student in Treskal
+- short wavy brunette hair that's braided, Blue eyes, and Pale Brown skin
 - Is Emotionally stable and Contradictory, and has Courage as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Giacomo Edraele]]: partymate
 [[Matrell Halafarin]]: partymate
 [[Yoshen Arcaena]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Santaegus Etter

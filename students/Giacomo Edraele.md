@@ -1,7 +1,7 @@
 ---
 name: Giacomo Edraele
 race: Human
-hair: short straight dirty blonde hair that's wild
+hair: long curly dark red hair that's messy
 eyes: Green
 skin: Light Tan
 ideal: Exceptionalism
@@ -17,6 +17,7 @@ birthday:
   numeric: 3/18
   written: 18th of Melorent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Matrell Halafarin
@@ -26,6 +27,7 @@ relationships:
 - name: Yoshen Arcaena
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Druid
 stats:
@@ -40,6 +42,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Human
+- Shadesburry Initiative
 - Druid
 - Diplomacy
 - 2nd
@@ -48,15 +51,20 @@ tags:
 # Giacomo Edraele
 ---
 ### Description
-- 2nd year Human Druid in Treskal
-- short straight dirty blonde hair that's wild, Green eyes, and Light Tan skin
+- Human Druid from Aldercrown Empire
+- 2nd year Diplomacy student in Treskal
+- long curly dark red hair that's messy, Green eyes, and Light Tan skin
 - Is Communicative and Ungrateful, and has Exceptionalism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Matrell Halafarin]]: partymate
 [[Santaegus Etter]]: partymate
 [[Yoshen Arcaena]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Giacomo Edraele

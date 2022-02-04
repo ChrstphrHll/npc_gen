@@ -1,7 +1,7 @@
 ---
 name: Nicholus Morthil
 race: Firbolg
-hair: short curly dirty blonde hair that's braided
+hair: short curly white hair that's plain
 eyes: Pale Green
 skin: Pale Green
 ideal: Cooperation
@@ -13,7 +13,8 @@ bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 7/10
   written: 10th of Korent
-origin: Beleriand
+origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Abryia Rubrae
@@ -23,6 +24,7 @@ relationships:
 - name: Violetta Coldsprinter
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Paladin
 stats:
@@ -37,6 +39,7 @@ guild: Burk
 partyID: 93
 tags:
 - Firbolg
+- Verdain
 - Paladin
 - Exploration
 - 2nd
@@ -45,15 +48,20 @@ tags:
 # Nicholus Morthil
 ---
 ### Description
-- 2nd year Firbolg Paladin in Burk
-- short curly dirty blonde hair that's braided, Pale Green eyes, and Pale Green skin
+- Firbolg Paladin from Principality of the Palus Peoples
+- 2nd year Exploration student in Burk
+- short curly white hair that's plain, Pale Green eyes, and Pale Green skin
 - Is Heroic and Noncompetitive, and has Cooperation as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Abryia Rubrae]]: partymate
 [[Yan Sorsasta]]: partymate
 [[Violetta Coldsprinter]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Nicholus Morthil

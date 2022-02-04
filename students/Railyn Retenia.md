@@ -1,7 +1,7 @@
 ---
 name: Railyn Retenia
 race: Half-Orc
-hair: short wavy black hair that's well kept
+hair: short straight red hair that's plain
 eyes: Blue
 skin: Pale Gray
 ideal: Contributing
@@ -14,7 +14,8 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 3/26
   written: 26th of Melorent
-origin: Beleriand
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Cartyr Tamsin
@@ -24,6 +25,7 @@ relationships:
 - name: Jaxon Brindarry
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Ranger
 stats:
@@ -38,6 +40,7 @@ guild: Jettenia
 partyID: 28
 tags:
 - Half-Orc
+- Magmus Centerhold
 - Ranger
 - Assault
 - 3rd
@@ -46,15 +49,20 @@ tags:
 # Railyn Retenia
 ---
 ### Description
-- 3rd year Half-Orc Ranger in Jettenia
-- short wavy black hair that's well kept, Blue eyes, and Pale Gray skin
+- Half-Orc Ranger from Magmus Centerhold
+- 3rd year Assault student in Jettenia
+- short straight red hair that's plain, Blue eyes, and Pale Gray skin
 - Is Obliging and Abrasive, and has Contributing as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Cartyr Tamsin]]: partymate
 [[Jovos Seldanna]]: partymate
 [[Jaxon Brindarry]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Railyn Retenia

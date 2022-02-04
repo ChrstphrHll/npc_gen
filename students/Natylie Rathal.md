@@ -1,7 +1,7 @@
 ---
 name: Natylie Rathal
 race: Elf
-hair: short straight white hair that's plain
+hair: shoulder length wavy platinum hair that's plain
 eyes: Pale Gray
 skin: Tan
 ideal: Speed
@@ -15,7 +15,8 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 8/14
   written: 14th of Ravenent
-origin: Aldercrown Empire
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Kloya Kershaw
@@ -23,6 +24,7 @@ relationships:
 - name: Gavyn Sadalymn
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Barbarian
 stats:
@@ -37,6 +39,7 @@ guild: Jettenia
 partyID: 97
 tags:
 - Elf
+- Beleriand
 - Barbarian
 - Assault
 - 5th
@@ -45,14 +48,19 @@ tags:
 # Natylie Rathal
 ---
 ### Description
-- 5th year Elf Barbarian in Jettenia
-- short straight white hair that's plain, Pale Gray eyes, and Tan skin
+- Elf Barbarian from Beleriand
+- 5th year Assault student in Jettenia
+- shoulder length wavy platinum hair that's plain, Pale Gray eyes, and Tan skin
 - Is Pleasant and Emotional, and has Speed as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kloya Kershaw]]: partymate
 [[Gavyn Sadalymn]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Natylie Rathal

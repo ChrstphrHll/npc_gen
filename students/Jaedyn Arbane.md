@@ -1,7 +1,7 @@
 ---
 name: Jaedyn Arbane
 race: Half-Elf
-hair: long wavy strawberry blond hair that's plain
+hair: short straight lighter blonde hair that's plain
 eyes: Amber
 skin: Dark Tan
 ideal: Invention
@@ -14,7 +14,8 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-origin: Principality of the Palus Peoples
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Kova Tamara
@@ -26,6 +27,7 @@ relationships:
 - name: Evylen Nese
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Paladin
 stats:
@@ -40,6 +42,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Half-Elf
+- Aldercrown Empire
 - Paladin
 - Exploration
 - 1st
@@ -48,16 +51,21 @@ tags:
 # Jaedyn Arbane
 ---
 ### Description
-- 1st year Half-Elf Paladin in Treskal
-- long wavy strawberry blond hair that's plain, Amber eyes, and Dark Tan skin
+- Half-Elf Paladin from Beleriand
+- 1st year Exploration student in Treskal
+- short straight lighter blonde hair that's plain, Amber eyes, and Dark Tan skin
 - Is Private and Picky, and has Invention as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kova Tamara]]: partymate
 [[Adrjia Lysanthir]]: partymate
 [[Es'beth Yesheln]]: partymate
 [[Evylen Nese]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jaedyn Arbane

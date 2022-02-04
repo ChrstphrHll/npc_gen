@@ -1,7 +1,7 @@
 ---
 name: Rianna Belt
 race: Elf
-hair: short straight dirty blonde hair that's well kept
+hair: long wavy auburn hair that's put up
 eyes: Pale Brown
 skin: Brown
 ideal: Excitement
@@ -14,7 +14,8 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 4/20
   written: 20th of Moradent
-origin: Principality of the Palus Peoples
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Romen Uldreiyn
@@ -26,6 +27,7 @@ relationships:
 - name: Zylphan Molostroi
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Barbarian
 stats:
@@ -40,6 +42,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Elf
+- Beleriand
 - Barbarian
 - Assault
 - 8th
@@ -48,16 +51,21 @@ tags:
 # Rianna Belt
 ---
 ### Description
-- 8th year Elf Barbarian in Fiesn
-- short straight dirty blonde hair that's well kept, Pale Brown eyes, and Brown skin
+- Elf Barbarian from Beleriand
+- 8th year Assault student in Fiesn
+- long wavy auburn hair that's put up, Pale Brown eyes, and Brown skin
 - Is Thrifty and Repugnant, and has Excitement as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Romen Uldreiyn]]: partymate
 [[Brahm Delmuth]]: partymate
 [[Tez Bialaer]]: partymate
 [[Zylphan Molostroi]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Rianna Belt

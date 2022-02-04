@@ -1,7 +1,7 @@
 ---
 name: Branus Shadegrove
 race: Gnome
-hair: shoulder length straight lighter blonde hair that's plain
+hair: shoulder length straight blonde hair that's plain
 eyes: Gray
 skin: Light Tan
 ideal: Charity
@@ -14,7 +14,8 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 8/2
   written: 2nd of Ravenent
-origin: Principality of the Palus Peoples
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Leah Faelar
@@ -24,6 +25,7 @@ relationships:
 - name: Angel Nushala
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Barbarian
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 17
 tags:
 - Gnome
+- Shadesburry Initiative
 - Barbarian
 - Diplomacy
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Branus Shadegrove
 ---
 ### Description
-- 1st year Gnome Barbarian in Treskal
-- shoulder length straight lighter blonde hair that's plain, Gray eyes, and Light Tan skin
+- Gnome Barbarian from Shadesburry Initiative
+- 1st year Diplomacy student in Treskal
+- shoulder length straight blonde hair that's plain, Gray eyes, and Light Tan skin
 - Is Sophisticated and Vague, and has Charity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Leah Faelar]]: partymate
 [[Tilo Connak]]: partymate
 [[Angel Nushala]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Branus Shadegrove

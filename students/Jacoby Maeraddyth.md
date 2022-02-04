@@ -1,7 +1,7 @@
 ---
 name: Jacoby Maeraddyth
 race: Goliath
-hair: short wavy brunette hair that's plain
+hair: long straight pink hair that's wild
 eyes: Pale Brown
 skin: Light
 ideal: Integrity
@@ -15,6 +15,7 @@ birthday:
   numeric: 5/25
   written: 25th of Iounent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Levy Maendellyn
@@ -22,6 +23,7 @@ relationships:
 - name: Isaias Vaalyun
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Monk
 stats:
@@ -36,6 +38,7 @@ guild: Burk
 partyID: 36
 tags:
 - Goliath
+- Chillwild Peaks
 - Monk
 - Assault
 - 2nd
@@ -44,14 +47,19 @@ tags:
 # Jacoby Maeraddyth
 ---
 ### Description
-- 2nd year Goliath Monk in Burk
-- short wavy brunette hair that's plain, Pale Brown eyes, and Light skin
+- Goliath Monk from Aldercrown Empire
+- 2nd year Assault student in Burk
+- long straight pink hair that's wild, Pale Brown eyes, and Light skin
 - Is Conservative and Invisible, and has Integrity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Levy Maendellyn]]: partymate
 [[Isaias Vaalyun]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jacoby Maeraddyth

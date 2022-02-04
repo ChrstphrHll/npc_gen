@@ -13,12 +13,14 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 3/26
   written: 26th of Melorent
-origin: Principality of the Palus Peoples
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Olivus Ondabrar
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Monk
 stats:
@@ -33,6 +35,7 @@ guild: Fiesn
 partyID: 85
 tags:
 - Dragonborn
+- Draconia
 - Monk
 - Exploration
 - 3rd
@@ -41,13 +44,18 @@ tags:
 # Nom Remington
 ---
 ### Description
-- 3rd year Dragonborn Monk in Fiesn
+- Dragonborn Monk from Draconia
+- 3rd year Exploration student in Fiesn
 - frills, Purple eyes, and copper skin
 - Is Unfathomable and Hesitant, and has Power as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Olivus Ondabrar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Nom Remington

@@ -1,7 +1,7 @@
 ---
 name: Averra Taleisin
 race: Elf
-hair: long straight auburn hair that's well kept
+hair: shoulder length straight red hair that's messy
 eyes: Pale Brown
 skin: Dark Tan
 ideal: Cruelty
@@ -14,7 +14,8 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 7/15
   written: 15th of Korent
-origin: Aldercrown Empire
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Efjan Andrathath
@@ -22,6 +23,7 @@ relationships:
 - name: Taanyth Seeker
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Druid
 stats:
@@ -36,6 +38,7 @@ guild: Burk
 partyID: 31
 tags:
 - Elf
+- Aldercrown Empire
 - Druid
 - Assault
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Averra Taleisin
 ---
 ### Description
-- 1st year Elf Druid in Burk
-- long straight auburn hair that's well kept, Pale Brown eyes, and Dark Tan skin
+- Elf Druid from Whyndiem
+- 1st year Assault student in Burk
+- shoulder length straight red hair that's messy, Pale Brown eyes, and Dark Tan skin
 - Is Lucky and Hedonistic, and has Cruelty as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Efjan Andrathath]]: partymate
 [[Taanyth Seeker]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Averra Taleisin

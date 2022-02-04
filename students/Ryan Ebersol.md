@@ -1,7 +1,7 @@
 ---
 name: Ryan Ebersol
 race: Dragonborn
-hair: short spines
+hair: long spines
 eyes: Emerald Green
 skin: green
 ideal: Intuition
@@ -13,7 +13,8 @@ bond: My isolation gave me great insight into a great evil that only I can destr
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Verdain
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Pinna Vanius
@@ -23,6 +24,7 @@ relationships:
 - name: Kaeli Khiiral
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Sorcerer
 stats:
@@ -37,6 +39,7 @@ guild: Fiesn
 partyID: 89
 tags:
 - Dragonborn
+- Magmus Centerhold
 - Sorcerer
 - Assault
 - 7th
@@ -45,15 +48,20 @@ tags:
 # Ryan Ebersol
 ---
 ### Description
-- 7th year Dragonborn Sorcerer in Fiesn
-- short spines, Emerald Green eyes, and green skin
+- Dragonborn Sorcerer from Shadesburry Initiative
+- 7th year Assault student in Fiesn
+- long spines, Emerald Green eyes, and green skin
 - Is Plain and Immature, and has Intuition as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Pinna Vanius]]: partymate
 [[Delos Ehlark]]: partymate
 [[Kaeli Khiiral]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ryan Ebersol

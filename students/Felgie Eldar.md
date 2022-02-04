@@ -1,7 +1,7 @@
 ---
 name: Felgie Eldar
 race: Goliath
-hair: long curly white hair that's plain
+hair: long frizzy auburn hair that's put up
 eyes: Hazel
 skin: Light Tan
 ideal: Spiritualism
@@ -14,7 +14,8 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 4/12
   written: 12th of Moradent
-origin: Kordinia
+origin: Chillwild Peaks
+voice: null
 relvance: 0
 relationships:
 - name: Selina Bellas
@@ -24,6 +25,7 @@ relationships:
 - name: Brianna Kosunten
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Druid
 stats:
@@ -38,6 +40,7 @@ guild: Fiesn
 partyID: 60
 tags:
 - Goliath
+- Chillwild Peaks
 - Druid
 - Protection
 - 2nd
@@ -46,15 +49,20 @@ tags:
 # Felgie Eldar
 ---
 ### Description
-- 2nd year Goliath Druid in Fiesn
-- long curly white hair that's plain, Hazel eyes, and Light Tan skin
+- Goliath Druid from Chillwild Peaks
+- 2nd year Protection student in Fiesn
+- long frizzy auburn hair that's put up, Hazel eyes, and Light Tan skin
 - Is Dreamer and Profligate, and has Spiritualism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Selina Bellas]]: partymate
 [[Mateos Elanil]]: partymate
 [[Brianna Kosunten]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Felgie Eldar

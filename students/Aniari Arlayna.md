@@ -1,7 +1,7 @@
 ---
 name: Aniari Arlayna
 race: Elf
-hair: long wavy white hair that's plain
+hair: short straight blonde hair that's braided
 eyes: Pale Brown
 skin: Light
 ideal: Courage
@@ -14,7 +14,8 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 3/3
   written: 3rd of Melorent
-origin: Principality of the Palus Peoples
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Nycola Eroan
@@ -22,6 +23,7 @@ relationships:
 - name: Eliana Saevel
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Barbarian
 stats:
@@ -36,6 +38,7 @@ guild: Elkenval
 partyID: 77
 tags:
 - Elf
+- Aldercrown Empire
 - Barbarian
 - Assault
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Aniari Arlayna
 ---
 ### Description
-- 1st year Elf Barbarian in Elkenval
-- long wavy white hair that's plain, Pale Brown eyes, and Light skin
+- Elf Barbarian from Beleriand
+- 1st year Assault student in Elkenval
+- short straight blonde hair that's braided, Pale Brown eyes, and Light skin
 - Is Knowledgeable and Dishonest, and has Courage as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Nycola Eroan]]: partymate
 [[Eliana Saevel]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Aniari Arlayna

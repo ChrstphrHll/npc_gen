@@ -1,7 +1,7 @@
 ---
 name: Eadyth Lora
 race: Goliath
-hair: short frizzy red hair that's messy
+hair: long wavy blonde hair that's put up
 eyes: Blue
 skin: Light
 ideal: Contentment
@@ -14,7 +14,8 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 3/25
   written: 25th of Melorent
-origin: Qualnis
+origin: Chillwild Peaks
+voice: null
 relvance: 0
 relationships:
 - name: Ruby Kythaela
@@ -22,6 +23,7 @@ relationships:
 - name: Sammen Axilya
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Rouge
 stats:
@@ -36,6 +38,7 @@ guild: Jettenia
 partyID: 26
 tags:
 - Goliath
+- Aldercrown Empire
 - Rouge
 - Protection
 - 2nd
@@ -44,14 +47,19 @@ tags:
 # Eadyth Lora
 ---
 ### Description
-- 2nd year Goliath Rouge in Jettenia
-- short frizzy red hair that's messy, Blue eyes, and Light skin
+- Goliath Rouge from Chillwild Peaks
+- 2nd year Protection student in Jettenia
+- long wavy blonde hair that's put up, Blue eyes, and Light skin
 - Is Feisty and Iconoclastic, and has Contentment as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Ruby Kythaela]]: partymate
 [[Sammen Axilya]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Eadyth Lora

@@ -1,7 +1,7 @@
 ---
 name: Caeleb Embrae
 race: Tiefling
-hair: short curly lighter blonde hair that's put up
+hair: shoulder length wavy auburn hair that's braided
 eyes: Aqua
 skin: Deep Blue
 ideal: Invention
@@ -14,7 +14,8 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 5/18
   written: 18th of Iounent
-origin: Shadesburry Initiative
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Liris Bhyrindaar
@@ -22,6 +23,7 @@ relationships:
 - name: Eva Reluvethel
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Bard
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 54
 tags:
 - Tiefling
+- Aldercrown Empire
 - Bard
 - Assault
 - 2nd
@@ -44,14 +47,19 @@ tags:
 # Caeleb Embrae
 ---
 ### Description
-- 2nd year Tiefling Bard in Fiesn
-- short curly lighter blonde hair that's put up, Aqua eyes, and Deep Blue skin
+- Tiefling Bard from Aldercrown Empire
+- 2nd year Assault student in Fiesn
+- shoulder length wavy auburn hair that's braided, Aqua eyes, and Deep Blue skin
 - Is Skillful and Libidinous, and has Invention as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Liris Bhyrindaar]]: partymate
 [[Eva Reluvethel]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Caeleb Embrae

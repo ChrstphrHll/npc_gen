@@ -1,7 +1,7 @@
 ---
 name: Rotheloe Samblar
 race: Firbolg
-hair: short wavy lighter blonde hair that's braided
+hair: shoulder length straight brunette hair that's messy
 eyes: Pale Gray
 skin: Pale Brown
 ideal: Entertain
@@ -14,7 +14,8 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 8/19
   written: 19th of Ravenent
-origin: Beleriand
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Aelisabeth Soliania
@@ -24,6 +25,7 @@ relationships:
 - name: Helera Urkensvall
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Barbarian
 stats:
@@ -38,6 +40,7 @@ guild: Burk
 partyID: 9
 tags:
 - Firbolg
+- Verdain
 - Barbarian
 - Protection
 - 3rd
@@ -46,15 +49,20 @@ tags:
 # Rotheloe Samblar
 ---
 ### Description
-- 3rd year Firbolg Barbarian in Burk
-- short wavy lighter blonde hair that's braided, Pale Gray eyes, and Pale Brown skin
+- Firbolg Barbarian from Verdain
+- 3rd year Protection student in Burk
+- shoulder length straight brunette hair that's messy, Pale Gray eyes, and Pale Brown skin
 - Is Naughty and Skeptical, and has Entertain as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Aelisabeth Soliania]]: partymate
 [[Elia Veluthil]]: partymate
 [[Helera Urkensvall]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Rotheloe Samblar

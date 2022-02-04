@@ -1,7 +1,7 @@
 ---
 name: Jerrick Yarbrough
 race: Gnome
-hair: long wavy lighter blonde hair that's braided
+hair: short curly auburn hair that's messy
 eyes: Brown
 skin: Tan
 ideal: Logic
@@ -15,7 +15,8 @@ bond: My freedom is my most precious possession. I'll never let anyone take it f
 birthday:
   numeric: 5/13
   written: 13th of Iounent
-origin: Magmus Centerhold
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Skalanis Kobayashi
@@ -25,6 +26,7 @@ relationships:
 - name: Miglus Yrlissa
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Bard
 stats:
@@ -39,6 +41,7 @@ guild: Jettenia
 partyID: 4
 tags:
 - Gnome
+- Shadesburry Initiative
 - Bard
 - Assault
 - 6th
@@ -47,15 +50,20 @@ tags:
 # Jerrick Yarbrough
 ---
 ### Description
-- 6th year Gnome Bard in Jettenia
-- long wavy lighter blonde hair that's braided, Brown eyes, and Tan skin
+- Gnome Bard from Shadesburry Initiative
+- 6th year Assault student in Jettenia
+- short curly auburn hair that's messy, Brown eyes, and Tan skin
 - Is Admirable and Cantankerous, and has Logic as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Skalanis Kobayashi]]: partymate
 [[Pippi Langston]]: partymate
 [[Miglus Yrlissa]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jerrick Yarbrough

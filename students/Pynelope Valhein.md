@@ -13,7 +13,8 @@ bond: I work to preserve a library, university, scriptorium, or monastery.
 birthday:
   numeric: 8/10
   written: 10th of Ravenent
-origin: Kordinia
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Brinna Muerlara
@@ -23,6 +24,7 @@ relationships:
 - name: Tisette Bender
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Rouge
 stats:
@@ -37,6 +39,7 @@ guild: Burk
 partyID: 95
 tags:
 - Dragonborn
+- Draconia
 - Rouge
 - Exploration
 - 1st
@@ -45,15 +48,20 @@ tags:
 # Pynelope Valhein
 ---
 ### Description
-- 1st year Dragonborn Rouge in Burk
+- Dragonborn Rouge from Draconia
+- 1st year Exploration student in Burk
 - frills, Blue eyes, and black skin
 - Is Unreligious and Impassive, and has Responsibility as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Brinna Muerlara]]: partymate
 [[Rosherren Haladavar]]: partymate
 [[Tisette Bender]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Pynelope Valhein

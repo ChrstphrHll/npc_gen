@@ -1,7 +1,7 @@
 ---
 name: Josius Iliphar
 race: Genasi
-hair: short wavy violet hair that's braided
+hair: short straight auburn hair that's wild
 eyes: Violet Red
 skin: air
 ideal: Kindness
@@ -14,7 +14,8 @@ bond: I come from a noble family, and one day I'll reclaim my lands and title fr
 birthday:
   numeric: 4/9
   written: 9th of Moradent
-origin: Qualnis
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Surge Fayd
@@ -22,6 +23,7 @@ relationships:
 - name: Delsenora Strohm
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Rouge
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 15
 tags:
 - Genasi
+- Principality of the Palus Peoples
 - Rouge
 - Assault
 - 7th
@@ -44,14 +47,19 @@ tags:
 # Josius Iliphar
 ---
 ### Description
-- 7th year Genasi Rouge in Fiesn
-- short wavy violet hair that's braided, Violet Red eyes, and air skin
+- Genasi Rouge from Magmus Centerhold
+- 7th year Assault student in Fiesn
+- short straight auburn hair that's wild, Violet Red eyes, and air skin
 - Is Iconoclastic and Shallow, and has Kindness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Surge Fayd]]: partymate
 [[Delsenora Strohm]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Josius Iliphar

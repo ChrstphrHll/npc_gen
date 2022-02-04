@@ -1,7 +1,7 @@
 ---
 name: Vila Tassarion
 race: Human
-hair: long wavy auburn hair that's wild
+hair: long frizzy brunette hair that's plain
 eyes: Pale Green
 skin: Pale
 ideal: Power
@@ -15,7 +15,8 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 3/24
   written: 24th of Melorent
-origin: Magmus Centerhold
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Julyo Agassi
@@ -25,6 +26,7 @@ relationships:
 - name: Mavrek Aolis
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Bard
 stats:
@@ -39,6 +41,7 @@ guild: Elkenval
 partyID: 47
 tags:
 - Human
+- Floating Island
 - Bard
 - Diplomacy
 - 5th
@@ -47,15 +50,20 @@ tags:
 # Vila Tassarion
 ---
 ### Description
-- 5th year Human Bard in Elkenval
-- long wavy auburn hair that's wild, Pale Green eyes, and Pale skin
+- Human Bard from Verdain
+- 5th year Diplomacy student in Elkenval
+- long frizzy brunette hair that's plain, Pale Green eyes, and Pale skin
 - Is Educated and Effeminate, and has Power as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Julyo Agassi]]: partymate
 [[Goshwa Khiipaera]]: partymate
 [[Mavrek Aolis]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Vila Tassarion

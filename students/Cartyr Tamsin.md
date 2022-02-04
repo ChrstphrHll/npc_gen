@@ -1,7 +1,7 @@
 ---
 name: Cartyr Tamsin
 race: Dragonborn
-hair: frills
+hair: 5 barbed horns
 eyes: Hazel
 skin: silver
 ideal: Caring
@@ -14,7 +14,8 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 8/13
   written: 13th of Ravenent
-origin: Qualnis
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Railyn Retenia
@@ -24,6 +25,7 @@ relationships:
 - name: Jaxon Brindarry
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Druid
 stats:
@@ -38,6 +40,7 @@ guild: Jettenia
 partyID: 28
 tags:
 - Dragonborn
+- Draconia
 - Druid
 - Assault
 - 3rd
@@ -46,15 +49,20 @@ tags:
 # Cartyr Tamsin
 ---
 ### Description
-- 3rd year Dragonborn Druid in Jettenia
-- frills, Hazel eyes, and silver skin
+- Dragonborn Druid from Draconia
+- 3rd year Assault student in Jettenia
+- 5 barbed horns, Hazel eyes, and silver skin
 - Is Logical and Critical, and has Caring as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Railyn Retenia]]: partymate
 [[Jovos Seldanna]]: partymate
 [[Jaxon Brindarry]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Cartyr Tamsin

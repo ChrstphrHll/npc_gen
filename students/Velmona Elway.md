@@ -1,7 +1,7 @@
 ---
 name: Velmona Elway
 race: Kenku
-hair: speckled
+hair: sleek
 eyes: Hazel
 skin: Red
 ideal: Generosity
@@ -13,7 +13,8 @@ bond: I am in love with the heir of a family that my family despises.
 birthday:
   numeric: 1/6
   written: 6th of Avanent
-origin: Qualnis
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Theodus Chylnoth
@@ -21,6 +22,7 @@ relationships:
 - name: Athyn Urddusk
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Monk
 stats:
@@ -35,6 +37,7 @@ guild: Elkenval
 partyID: 40
 tags:
 - Kenku
+- Verdain
 - Monk
 - Assault
 - 1st
@@ -43,14 +46,19 @@ tags:
 # Velmona Elway
 ---
 ### Description
-- 1st year Kenku Monk in Elkenval
-- speckled, Hazel eyes, and Red skin
+- Kenku Monk from Aldercrown Empire
+- 1st year Assault student in Elkenval
+- sleek, Hazel eyes, and Red skin
 - Is Civilised and Sadistic, and has Generosity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Theodus Chylnoth]]: partymate
 [[Athyn Urddusk]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Velmona Elway

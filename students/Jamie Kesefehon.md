@@ -1,7 +1,7 @@
 ---
 name: Jamie Kesefehon
 race: Gnome
-hair: shoulder length curly dirty blonde hair that's plain
+hair: long wavy platinum hair that's messy
 eyes: Pale Gray
 skin: Fair
 ideal: Spiritualism
@@ -13,7 +13,8 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 8/18
   written: 18th of Ravenent
-origin: Principality of the Palus Peoples
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Hanro Fieryat
@@ -21,6 +22,7 @@ relationships:
 - name: Rasy Merlara
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Sorcerer
 stats:
@@ -35,6 +37,7 @@ guild: Alderden
 partyID: 16
 tags:
 - Gnome
+- Shadesburry Initiative
 - Sorcerer
 - Diplomacy
 - 1st
@@ -43,14 +46,19 @@ tags:
 # Jamie Kesefehon
 ---
 ### Description
-- 1st year Gnome Sorcerer in Alderden
-- shoulder length curly dirty blonde hair that's plain, Pale Gray eyes, and Fair skin
+- Gnome Sorcerer from Shadesburry Initiative
+- 1st year Diplomacy student in Alderden
+- long wavy platinum hair that's messy, Pale Gray eyes, and Fair skin
 - Is Simple and Offhand, and has Spiritualism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Hanro Fieryat]]: partymate
 [[Rasy Merlara]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jamie Kesefehon

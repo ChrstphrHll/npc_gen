@@ -1,7 +1,7 @@
 ---
 name: Thenol Shialaevar
 race: Half-Orc
-hair: short curly brunette hair that's well kept
+hair: long straight blonde hair that's plain
 eyes: Brown
 skin: Pale Green
 ideal: Security
@@ -15,12 +15,14 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 5/5
   written: 5th of Iounent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Secarr Ashbluff
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Barbarian
 stats:
@@ -35,6 +37,7 @@ guild: Burk
 partyID: 1
 tags:
 - Half-Orc
+- Aldercrown Empire
 - Barbarian
 - Exploration
 - 6th
@@ -43,13 +46,18 @@ tags:
 # Thenol Shialaevar
 ---
 ### Description
-- 6th year Half-Orc Barbarian in Burk
-- short curly brunette hair that's well kept, Brown eyes, and Pale Green skin
+- Half-Orc Barbarian from Aldercrown Empire
+- 6th year Exploration student in Burk
+- long straight blonde hair that's plain, Brown eyes, and Pale Green skin
 - Is Sensitive and Indolent, and has Security as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Secarr Ashbluff]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Thenol Shialaevar

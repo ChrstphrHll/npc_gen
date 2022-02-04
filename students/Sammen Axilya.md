@@ -1,7 +1,7 @@
 ---
 name: Sammen Axilya
 race: Human
-hair: shoulder length wavy black hair that's wild
+hair: long curly grey hair that's messy
 eyes: Pale Green
 skin: Tan
 ideal: Creativity
@@ -15,6 +15,7 @@ birthday:
   numeric: 7/13
   written: 13th of Korent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Ruby Kythaela
@@ -22,6 +23,7 @@ relationships:
 - name: Eadyth Lora
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Paladin
 stats:
@@ -36,6 +38,7 @@ guild: Jettenia
 partyID: 26
 tags:
 - Human
+- Chillwild Peaks
 - Paladin
 - Diplomacy
 - 2nd
@@ -44,14 +47,19 @@ tags:
 # Sammen Axilya
 ---
 ### Description
-- 2nd year Human Paladin in Jettenia
-- shoulder length wavy black hair that's wild, Pale Green eyes, and Tan skin
+- Human Paladin from Aldercrown Empire
+- 2nd year Diplomacy student in Jettenia
+- long curly grey hair that's messy, Pale Green eyes, and Tan skin
 - Is Dedicated and Absentminded, and has Creativity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Ruby Kythaela]]: partymate
 [[Eadyth Lora]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Sammen Axilya

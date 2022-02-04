@@ -1,7 +1,7 @@
 ---
 name: Tisette Bender
 race: Gnome
-hair: shoulder length wavy grey hair that's plain
+hair: short straight dirty blonde hair that's plain
 eyes: Gray
 skin: Brown
 ideal: Logic
@@ -13,7 +13,8 @@ bond: Someone stole my precious instrument, and someday I'll get it back.
 birthday:
   numeric: 1/23
   written: 23rd of Avanent
-origin: Qualnis
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Brinna Muerlara
@@ -23,6 +24,7 @@ relationships:
 - name: Rosherren Haladavar
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Paladin
 stats:
@@ -37,6 +39,7 @@ guild: Burk
 partyID: 95
 tags:
 - Gnome
+- Shadesburry Initiative
 - Paladin
 - Assault
 - 1st
@@ -45,15 +48,20 @@ tags:
 # Tisette Bender
 ---
 ### Description
-- 1st year Gnome Paladin in Burk
-- shoulder length wavy grey hair that's plain, Gray eyes, and Brown skin
+- Gnome Paladin from Shadesburry Initiative
+- 1st year Assault student in Burk
+- short straight dirty blonde hair that's plain, Gray eyes, and Brown skin
 - Is Profound and Plain, and has Logic as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Brinna Muerlara]]: partymate
 [[Pynelope Valhein]]: partymate
 [[Rosherren Haladavar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Tisette Bender

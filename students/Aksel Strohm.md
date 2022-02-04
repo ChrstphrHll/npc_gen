@@ -1,7 +1,7 @@
 ---
 name: Aksel Strohm
 race: Tiefling
-hair: long straight grey hair that's well kept
+hair: long wavy auburn hair that's put up
 eyes: Pale Green
 skin: Spring Green
 ideal: Vengful
@@ -13,7 +13,8 @@ bond: My house's alliance with another noble family must be sustained at all cos
 birthday:
   numeric: 6/6
   written: 6th of Pelent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Jareth Tanseril
@@ -21,6 +22,7 @@ relationships:
 - name: Jaris Amlaruil
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Sorcerer
 stats:
@@ -35,6 +37,7 @@ guild: Jettenia
 partyID: 10
 tags:
 - Tiefling
+- Aldercrown Empire
 - Sorcerer
 - Assault
 - 7th
@@ -43,14 +46,19 @@ tags:
 # Aksel Strohm
 ---
 ### Description
-- 7th year Tiefling Sorcerer in Jettenia
-- long straight grey hair that's well kept, Pale Green eyes, and Spring Green skin
+- Tiefling Sorcerer from Aldercrown Empire
+- 7th year Assault student in Jettenia
+- long wavy auburn hair that's put up, Pale Green eyes, and Spring Green skin
 - Is Hypnotic and Impractical, and has Vengful as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jareth Tanseril]]: partymate
 [[Jaris Amlaruil]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Aksel Strohm

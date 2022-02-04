@@ -1,7 +1,7 @@
 ---
 name: Theriss Deularla
 race: Gnome
-hair: shoulder length wavy dark red hair that's put up
+hair: shoulder length straight platinum hair that's plain
 eyes: Pale Gray
 skin: Dark Tan
 ideal: Knowledge
@@ -14,7 +14,8 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 4/4
   written: 4th of Moradent
-origin: Verdain
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Vyctor Willow
@@ -26,6 +27,7 @@ relationships:
 - name: Dree Nuala
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Cleric
 stats:
@@ -40,6 +42,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Gnome
+- Shadesburry Initiative
 - Cleric
 - Protection
 - 6th
@@ -48,16 +51,21 @@ tags:
 # Theriss Deularla
 ---
 ### Description
-- 6th year Gnome Cleric in Treskal
-- shoulder length wavy dark red hair that's put up, Pale Gray eyes, and Dark Tan skin
+- Gnome Cleric from Shadesburry Initiative
+- 6th year Protection student in Treskal
+- shoulder length straight platinum hair that's plain, Pale Gray eyes, and Dark Tan skin
 - Is Attentive and Fraudulent, and has Knowledge as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Vyctor Willow]]: partymate
 [[Karl Cauladra]]: partymate
 [[Varlae Voron]]: partymate
 [[Dree Nuala]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Theriss Deularla

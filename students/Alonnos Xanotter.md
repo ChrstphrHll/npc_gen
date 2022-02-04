@@ -1,7 +1,7 @@
 ---
 name: Alonnos Xanotter
 race: Tiefling
-hair: shoulder length wavy grey hair that's messy
+hair: short curly auburn hair that's plain
 eyes: Spring Green
 skin: Yellow
 ideal: Cooperation
@@ -17,6 +17,7 @@ birthday:
   numeric: 6/2
   written: 2nd of Pelent
 origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Shoulree Letryal
@@ -24,6 +25,7 @@ relationships:
 - name: Levi Kicklighter
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Sorcerer
 stats:
@@ -38,6 +40,7 @@ guild: Elkenval
 partyID: 88
 tags:
 - Tiefling
+- Aldercrown Empire
 - Sorcerer
 - Protection
 - 1st
@@ -46,14 +49,19 @@ tags:
 # Alonnos Xanotter
 ---
 ### Description
-- 1st year Tiefling Sorcerer in Elkenval
-- shoulder length wavy grey hair that's messy, Spring Green eyes, and Yellow skin
+- Tiefling Sorcerer from Principality of the Palus Peoples
+- 1st year Protection student in Elkenval
+- short curly auburn hair that's plain, Spring Green eyes, and Yellow skin
 - Is Folksy and Complex, and has Cooperation as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Shoulree Letryal]]: partymate
 [[Levi Kicklighter]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Alonnos Xanotter

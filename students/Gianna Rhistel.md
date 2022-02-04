@@ -1,7 +1,7 @@
 ---
 name: Gianna Rhistel
 race: Tiefling
-hair: shoulder length wavy grey hair that's put up
+hair: long straight black hair that's messy
 eyes: Gray
 skin: Purple
 ideal: Speed
@@ -15,7 +15,8 @@ bond: Somewhere out there, I have a child who doesn't know me. I'm making the wo
 birthday:
   numeric: 4/10
   written: 10th of Moradent
-origin: Chilliwld Peaks
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Jamye Napraeleon
@@ -23,6 +24,7 @@ relationships:
 - name: Cirvlon Elpaerae
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Druid
 stats:
@@ -37,6 +39,7 @@ guild: Alderden
 partyID: 73
 tags:
 - Tiefling
+- Beleriand
 - Druid
 - Protection
 - 2nd
@@ -45,14 +48,19 @@ tags:
 # Gianna Rhistel
 ---
 ### Description
-- 2nd year Tiefling Druid in Alderden
-- shoulder length wavy grey hair that's put up, Gray eyes, and Purple skin
+- Tiefling Druid from Aldercrown Empire
+- 2nd year Protection student in Alderden
+- long straight black hair that's messy, Gray eyes, and Purple skin
 - Is Dynamic and Shy, and has Speed as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jamye Napraeleon]]: partymate
 [[Cirvlon Elpaerae]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Gianna Rhistel

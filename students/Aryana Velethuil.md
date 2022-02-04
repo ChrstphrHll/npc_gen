@@ -1,7 +1,7 @@
 ---
 name: Aryana Velethuil
 race: Kenku
-hair: striped
+hair: ruffled
 eyes: Pale Brown
 skin: Red
 ideal: Fun
@@ -15,12 +15,14 @@ bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, an
 birthday:
   numeric: 5/4
   written: 4th of Iounent
-origin: Aldercrown Empire
+origin: Black Rock
+voice: null
 relvance: 0
 relationships:
 - name: Abramo Sudryl
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Wizard
 stats:
@@ -35,6 +37,7 @@ guild: Elkenval
 partyID: 32
 tags:
 - Kenku
+- Aldercrown Empire
 - Wizard
 - Diplomacy
 - 4th
@@ -43,13 +46,18 @@ tags:
 # Aryana Velethuil
 ---
 ### Description
-- 4th year Kenku Wizard in Elkenval
-- striped, Pale Brown eyes, and Red skin
+- Kenku Wizard from Black Rock
+- 4th year Diplomacy student in Elkenval
+- ruffled, Pale Brown eyes, and Red skin
 - Is Clear-headed and Fawning, and has Fun as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Abramo Sudryl]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Aryana Velethuil

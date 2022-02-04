@@ -1,7 +1,7 @@
 ---
 name: Saleas Rilitar
 race: Triton
-hair: long straight red hair that's braided
+hair: short wavy blonde hair that's wild
 eyes: Sea Green
 skin: Aqua
 ideal: Righteous
@@ -14,7 +14,8 @@ bond: I'm loyal to my captain first, everything else second.
 birthday:
   numeric: 6/6
   written: 6th of Pelent
-origin: Beleriand
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Noam Shields
@@ -24,6 +25,7 @@ relationships:
 - name: Remus Manchul
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Wizard
 stats:
@@ -38,6 +40,7 @@ guild: Burk
 partyID: 59
 tags:
 - Triton
+- Whyndiem
 - Wizard
 - Protection
 - 4th
@@ -46,15 +49,20 @@ tags:
 # Saleas Rilitar
 ---
 ### Description
-- 4th year Triton Wizard in Burk
-- long straight red hair that's braided, Sea Green eyes, and Aqua skin
+- Triton Wizard from Whyndiem
+- 4th year Protection student in Burk
+- short wavy blonde hair that's wild, Sea Green eyes, and Aqua skin
 - Is Self-sufficent and Boisterous, and has Righteous as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Noam Shields]]: partymate
 [[Gunnar Ordayius]]: partymate
 [[Remus Manchul]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Saleas Rilitar

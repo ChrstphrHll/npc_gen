@@ -1,7 +1,7 @@
 ---
 name: Goshwa Khiipaera
 race: Firbolg
-hair: long wavy blonde hair that's messy
+hair: shoulder length straight strawberry blond hair that's wild
 eyes: Hazel
 skin: Pale Brown
 ideal: Forgiveness
@@ -15,7 +15,8 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 6/25
   written: 25th of Pelent
-origin: Magmus Centerhold
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Julyo Agassi
@@ -25,6 +26,7 @@ relationships:
 - name: Mavrek Aolis
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Fighter
 stats:
@@ -39,6 +41,7 @@ guild: Elkenval
 partyID: 47
 tags:
 - Firbolg
+- Verdain
 - Fighter
 - Exploration
 - 5th
@@ -47,15 +50,20 @@ tags:
 # Goshwa Khiipaera
 ---
 ### Description
-- 5th year Firbolg Fighter in Elkenval
-- long wavy blonde hair that's messy, Hazel eyes, and Pale Brown skin
+- Firbolg Fighter from Shadesburry Initiative
+- 5th year Exploration student in Elkenval
+- shoulder length straight strawberry blond hair that's wild, Hazel eyes, and Pale Brown skin
 - Is Proper and Airy, and has Forgiveness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Julyo Agassi]]: partymate
 [[Vila Tassarion]]: partymate
 [[Mavrek Aolis]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Goshwa Khiipaera

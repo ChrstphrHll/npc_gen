@@ -1,7 +1,7 @@
 ---
 name: Adrjia Lysanthir
 race: Triton
-hair: long straight strawberry blond hair that's plain
+hair: shoulder length curly brunette hair that's messy
 eyes: Pale Blue
 skin: Aqua
 ideal: Compassion
@@ -15,7 +15,8 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 4/15
   written: 15th of Moradent
-origin: Principality of the Palus Peoples
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Kova Tamara
@@ -27,6 +28,7 @@ relationships:
 - name: Evylen Nese
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Ranger
 stats:
@@ -41,6 +43,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Triton
+- Shadesburry Initiative
 - Ranger
 - Assault
 - 1st
@@ -49,16 +52,21 @@ tags:
 # Adrjia Lysanthir
 ---
 ### Description
-- 1st year Triton Ranger in Treskal
-- long straight strawberry blond hair that's plain, Pale Blue eyes, and Aqua skin
+- Triton Ranger from Whyndiem
+- 1st year Assault student in Treskal
+- shoulder length curly brunette hair that's messy, Pale Blue eyes, and Aqua skin
 - Is Invisible and Circumspect, and has Compassion as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kova Tamara]]: partymate
 [[Es'beth Yesheln]]: partymate
 [[Jaedyn Arbane]]: partymate
 [[Evylen Nese]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Adrjia Lysanthir

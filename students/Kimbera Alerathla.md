@@ -1,7 +1,7 @@
 ---
 name: Kimbera Alerathla
 race: Human
-hair: short wavy white hair that's plain
+hair: long curly grey hair that's braided
 eyes: Hazel
 skin: Dark Tan
 ideal: Independence
@@ -14,7 +14,8 @@ bond: I come from a noble family, and one day I'll reclaim my lands and title fr
 birthday:
   numeric: 4/14
   written: 14th of Moradent
-origin: Qualnis
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Jandar Pleufan
@@ -26,6 +27,7 @@ relationships:
 - name: Andrey Rauthomyr
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Druid
 stats:
@@ -40,6 +42,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Human
+- Qualnis
 - Druid
 - Assault
 - 1st
@@ -48,16 +51,21 @@ tags:
 # Kimbera Alerathla
 ---
 ### Description
-- 1st year Human Druid in Elkenval
-- short wavy white hair that's plain, Hazel eyes, and Dark Tan skin
+- Human Druid from Beleriand
+- 1st year Assault student in Elkenval
+- long curly grey hair that's braided, Hazel eyes, and Dark Tan skin
 - Is Objective and Mannered, and has Independence as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jandar Pleufan]]: partymate
 [[Allyson Vindinglag]]: partymate
 [[Emilanus Shields]]: partymate
 [[Andrey Rauthomyr]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Kimbera Alerathla

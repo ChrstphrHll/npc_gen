@@ -1,7 +1,7 @@
 ---
 name: Natalia Endo
 race: Halfling
-hair: long straight platinum hair that's wild
+hair: long straight dirty blonde hair that's plain
 eyes: Pale Brown
 skin: Fair
 ideal: Renewal
@@ -14,12 +14,14 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 6/5
   written: 5th of Pelent
-origin: Beleriand
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Leja Talila
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Barbarian
 stats:
@@ -34,6 +36,7 @@ guild: Burk
 partyID: 83
 tags:
 - Halfling
+- Beleriand
 - Barbarian
 - Exploration
 - 3rd
@@ -42,13 +45,18 @@ tags:
 # Natalia Endo
 ---
 ### Description
-- 3rd year Halfling Barbarian in Burk
-- long straight platinum hair that's wild, Pale Brown eyes, and Fair skin
+- Halfling Barbarian from Verdain
+- 3rd year Exploration student in Burk
+- long straight dirty blonde hair that's plain, Pale Brown eyes, and Fair skin
 - Is Inoffensive and Agonizing, and has Renewal as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Leja Talila]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Natalia Endo

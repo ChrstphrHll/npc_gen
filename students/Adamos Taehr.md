@@ -1,7 +1,7 @@
 ---
 name: Adamos Taehr
 race: Elf
-hair: long wavy dirty blonde hair that's messy
+hair: shoulder length wavy white hair that's plain
 eyes: Blue
 skin: Tan
 ideal: People
@@ -13,7 +13,8 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 4/7
   written: 7th of Moradent
-origin: Verdain
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Alexandyr Aulauthar
@@ -21,6 +22,7 @@ relationships:
 - name: Coriss Biafyndar
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Fighter
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 53
 tags:
 - Elf
+- Beleriand
 - Fighter
 - Diplomacy
 - 5th
@@ -43,14 +46,19 @@ tags:
 # Adamos Taehr
 ---
 ### Description
-- 5th year Elf Fighter in Fiesn
-- long wavy dirty blonde hair that's messy, Blue eyes, and Tan skin
+- Elf Fighter from Beleriand
+- 5th year Diplomacy student in Fiesn
+- shoulder length wavy white hair that's plain, Blue eyes, and Tan skin
 - Is Attentive and Sensual, and has People as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Alexandyr Aulauthar]]: partymate
 [[Coriss Biafyndar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Adamos Taehr

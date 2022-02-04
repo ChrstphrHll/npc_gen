@@ -1,7 +1,7 @@
 ---
 name: Guliemos Nym
 race: Half-Elf
-hair: long wavy white hair that's plain
+hair: long curly white hair that's plain
 eyes: Pale Green
 skin: Dark Tan
 ideal: Affection
@@ -15,7 +15,8 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 6/9
   written: 9th of Pelent
-origin: Kordinia
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Kunjal Iefyr
@@ -23,6 +24,7 @@ relationships:
 - name: Turi Chandrelle
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Fighter
 stats:
@@ -37,6 +39,7 @@ guild: Fiesn
 partyID: 13
 tags:
 - Half-Elf
+- Beleriand
 - Fighter
 - Diplomacy
 - 4th
@@ -45,14 +48,19 @@ tags:
 # Guliemos Nym
 ---
 ### Description
-- 4th year Half-Elf Fighter in Fiesn
-- long wavy white hair that's plain, Pale Green eyes, and Dark Tan skin
+- Half-Elf Fighter from Beleriand
+- 4th year Diplomacy student in Fiesn
+- long curly white hair that's plain, Pale Green eyes, and Dark Tan skin
 - Is Solemn and Critical, and has Affection as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kunjal Iefyr]]: partymate
 [[Turi Chandrelle]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Guliemos Nym

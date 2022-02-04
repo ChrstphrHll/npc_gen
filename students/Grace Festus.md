@@ -1,7 +1,7 @@
 ---
 name: Grace Festus
 race: Human
-hair: shoulder length straight auburn hair that's plain
+hair: short wavy white hair that's plain
 eyes: Pale Gray
 skin: Pale
 ideal: Charity
@@ -15,7 +15,8 @@ bond: I idolize a hero of the old tales and measure my deeds against that person
 birthday:
   numeric: 4/16
   written: 16th of Moradent
-origin: Beleriand
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Dylan Usunaar
@@ -25,6 +26,7 @@ relationships:
 - name: Aurikallos Biafyndar
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Cleric
 stats:
@@ -39,6 +41,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Human
+- Shadesburry Initiative
 - Cleric
 - Diplomacy
 - 5th
@@ -47,15 +50,20 @@ tags:
 # Grace Festus
 ---
 ### Description
-- 5th year Human Cleric in Elkenval
-- shoulder length straight auburn hair that's plain, Pale Gray eyes, and Pale skin
+- Human Cleric from Aldercrown Empire
+- 5th year Diplomacy student in Elkenval
+- short wavy white hair that's plain, Pale Gray eyes, and Pale skin
 - Is Anticipative and Rigid, and has Charity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Dylan Usunaar]]: partymate
 [[Delila Felaern]]: partymate
 [[Aurikallos Biafyndar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Grace Festus

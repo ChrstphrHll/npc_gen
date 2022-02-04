@@ -1,7 +1,7 @@
 ---
 name: Ivistra Stockton
 race: Tiefling
-hair: short wavy platinum hair that's braided
+hair: short straight lighter blonde hair that's messy
 eyes: Green
 skin: Pale Yellow
 ideal: Exceptionalism
@@ -14,7 +14,8 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 1/25
   written: 25th of Avanent
-origin: Aldercrown Empire
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Matos Mektal
@@ -26,6 +27,7 @@ relationships:
 - name: Yorala Tiatha
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Wizard
 stats:
@@ -40,6 +42,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Tiefling
+- Shadesburry Initiative
 - Wizard
 - Diplomacy
 - 5th
@@ -48,16 +51,21 @@ tags:
 # Ivistra Stockton
 ---
 ### Description
-- 5th year Tiefling Wizard in Jettenia
-- short wavy platinum hair that's braided, Green eyes, and Pale Yellow skin
+- Tiefling Wizard from Verdain
+- 5th year Diplomacy student in Jettenia
+- short straight lighter blonde hair that's messy, Green eyes, and Pale Yellow skin
 - Is Mellow and Single-minded, and has Exceptionalism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Matos Mektal]]: partymate
 [[Adros Tolthe]]: partymate
 [[Selina Ochyllyss]]: partymate
 [[Yorala Tiatha]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ivistra Stockton

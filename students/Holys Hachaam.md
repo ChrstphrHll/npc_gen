@@ -1,7 +1,7 @@
 ---
 name: Holys Hachaam
 race: Half-Elf
-hair: long wavy black hair that's plain
+hair: long wavy blonde hair that's plain
 eyes: Pale Blue
 skin: Brown
 ideal: Hard Work
@@ -15,7 +15,8 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 8/26
   written: 26th of Ravenent
-origin: Verdain
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Diegon Verrona
@@ -25,6 +26,7 @@ relationships:
 - name: Kayla Kaminsky
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Rouge
 stats:
@@ -39,6 +41,7 @@ guild: Elkenval
 partyID: 90
 tags:
 - Half-Elf
+- Aldercrown Empire
 - Rouge
 - Assault
 - 1st
@@ -47,15 +50,20 @@ tags:
 # Holys Hachaam
 ---
 ### Description
-- 1st year Half-Elf Rouge in Elkenval
-- long wavy black hair that's plain, Pale Blue eyes, and Brown skin
+- Half-Elf Rouge from Aldercrown Empire
+- 1st year Assault student in Elkenval
+- long wavy blonde hair that's plain, Pale Blue eyes, and Brown skin
 - Is Eloquent and Wishy-washy, and has Hard Work as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Diegon Verrona]]: partymate
 [[Adresin Ilbryn]]: partymate
 [[Kayla Kaminsky]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Holys Hachaam

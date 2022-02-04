@@ -1,7 +1,7 @@
 ---
 name: Nicolle Shandalar
 race: Triton
-hair: shoulder length straight strawberry blond hair that's plain
+hair: long straight white hair that's messy
 eyes: Green
 skin: Sea Green
 ideal: Contributing
@@ -15,7 +15,8 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 4/3
   written: 3rd of Moradent
-origin: Aldercrown Empire
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Wulfe Galan
@@ -25,6 +26,7 @@ relationships:
 - name: Lichie Halliwell
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Cleric
 stats:
@@ -39,6 +41,7 @@ guild: Elkenval
 partyID: 82
 tags:
 - Triton
+- Whyndiem
 - Cleric
 - Assault
 - 1st
@@ -47,15 +50,20 @@ tags:
 # Nicolle Shandalar
 ---
 ### Description
-- 1st year Triton Cleric in Elkenval
-- shoulder length straight strawberry blond hair that's plain, Green eyes, and Sea Green skin
+- Triton Cleric from Whyndiem
+- 1st year Assault student in Elkenval
+- long straight white hair that's messy, Green eyes, and Sea Green skin
 - Is Upright and Opinionated, and has Contributing as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Wulfe Galan]]: partymate
 [[Yakob Lydialeera]]: partymate
 [[Lichie Halliwell]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Nicolle Shandalar

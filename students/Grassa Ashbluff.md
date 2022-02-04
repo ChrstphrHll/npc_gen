@@ -1,7 +1,7 @@
 ---
 name: Grassa Ashbluff
 race: Dwarf
-hair: short wavy brunette hair that's plain
+hair: shoulder length straight blonde hair that's wild
 eyes: Gray
 skin: Light
 ideal: Professionalism
@@ -15,7 +15,8 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
-origin: Magmus Centerhold
+origin: Floating Island
+voice: null
 relvance: 0
 relationships:
 - name: Braidyn Kemetra
@@ -23,6 +24,7 @@ relationships:
 - name: Brithmaur Decker
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Artificer
 stats:
@@ -37,6 +39,7 @@ guild: Fiesn
 partyID: 25
 tags:
 - Dwarf
+- Aldercrown Empire
 - Artificer
 - Protection
 - 7th
@@ -45,14 +48,19 @@ tags:
 # Grassa Ashbluff
 ---
 ### Description
-- 7th year Dwarf Artificer in Fiesn
-- short wavy brunette hair that's plain, Gray eyes, and Light skin
+- Dwarf Artificer from Floating Island
+- 7th year Protection student in Fiesn
+- shoulder length straight blonde hair that's wild, Gray eyes, and Light skin
 - Is Thrilling and Arrogant, and has Professionalism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Braidyn Kemetra]]: partymate
 [[Brithmaur Decker]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Grassa Ashbluff

@@ -1,7 +1,7 @@
 ---
 name: Alys Ylyndar
 race: Human
-hair: long straight blue hair that's wild
+hair: short wavy pink hair that's wild
 eyes: Blue
 skin: Fair
 ideal: Contributing
@@ -16,11 +16,13 @@ birthday:
   numeric: 2/11
   written: 11th of Corelent
 origin: Qualnis
+voice: null
 relvance: 0
 relationships:
 - name: Brynn Opalul
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Monk
 stats:
@@ -35,6 +37,7 @@ guild: Burk
 partyID: 39
 tags:
 - Human
+- Qualnis
 - Monk
 - Diplomacy
 - 3rd
@@ -43,13 +46,18 @@ tags:
 # Alys Ylyndar
 ---
 ### Description
-- 3rd year Human Monk in Burk
-- long straight blue hair that's wild, Blue eyes, and Fair skin
+- Human Monk from Qualnis
+- 3rd year Diplomacy student in Burk
+- short wavy pink hair that's wild, Blue eyes, and Fair skin
 - Is Contented and Licentious, and has Contributing as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Brynn Opalul]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Alys Ylyndar

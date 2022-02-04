@@ -1,7 +1,7 @@
 ---
 name: Tez Bialaer
 race: Aasimar
-hair: short straight dirty blonde hair that's plain
+hair: short wavy auburn hair that's wild
 eyes: Gray
 skin: Pale
 ideal: Austerity
@@ -13,7 +13,8 @@ bond: I entered seclusion because I loved someone I could not have.
 birthday:
   numeric: 5/14
   written: 14th of Iounent
-origin: Shadesburry Initiative
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Romen Uldreiyn
@@ -25,6 +26,7 @@ relationships:
 - name: Zylphan Molostroi
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Fighter
 stats:
@@ -39,6 +41,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Aasimar
+- Shadesburry Initiative
 - Fighter
 - Protection
 - 8th
@@ -47,16 +50,21 @@ tags:
 # Tez Bialaer
 ---
 ### Description
-- 8th year Aasimar Fighter in Fiesn
-- short straight dirty blonde hair that's plain, Gray eyes, and Pale skin
+- Aasimar Fighter from Whyndiem
+- 8th year Protection student in Fiesn
+- short wavy auburn hair that's wild, Gray eyes, and Pale skin
 - Is Sharing and Modern, and has Austerity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Romen Uldreiyn]]: partymate
 [[Brahm Delmuth]]: partymate
 [[Rianna Belt]]: partymate
 [[Zylphan Molostroi]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Tez Bialaer

@@ -1,7 +1,7 @@
 ---
 name: Cirvlon Elpaerae
 race: Tiefling
-hair: long wavy strawberry blond hair that's wild
+hair: short straight white hair that's put up
 eyes: Pale Green
 skin: Pale Gray
 ideal: Logic
@@ -13,7 +13,8 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 1/28
   written: 28th of Avanent
-origin: Kordinia
+origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Jamye Napraeleon
@@ -21,6 +22,7 @@ relationships:
 - name: Gianna Rhistel
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Druid
 stats:
@@ -35,6 +37,7 @@ guild: Alderden
 partyID: 73
 tags:
 - Tiefling
+- Aldercrown Empire
 - Druid
 - Assault
 - 2nd
@@ -43,14 +46,19 @@ tags:
 # Cirvlon Elpaerae
 ---
 ### Description
-- 2nd year Tiefling Druid in Alderden
-- long wavy strawberry blond hair that's wild, Pale Green eyes, and Pale Gray skin
+- Tiefling Druid from Principality of the Palus Peoples
+- 2nd year Assault student in Alderden
+- short straight white hair that's put up, Pale Green eyes, and Pale Gray skin
 - Is Impressive and Callous, and has Logic as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jamye Napraeleon]]: partymate
 [[Gianna Rhistel]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Cirvlon Elpaerae

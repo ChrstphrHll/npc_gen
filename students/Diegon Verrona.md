@@ -1,7 +1,7 @@
 ---
 name: Diegon Verrona
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Deep Blue
 skin: bronze
 ideal: Loyalty
@@ -15,7 +15,8 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 5/2
   written: 2nd of Iounent
-origin: Qualnis
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Adresin Ilbryn
@@ -25,6 +26,7 @@ relationships:
 - name: Holys Hachaam
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Rouge
 stats:
@@ -39,6 +41,7 @@ guild: Elkenval
 partyID: 90
 tags:
 - Dragonborn
+- Aldercrown Empire
 - Rouge
 - Diplomacy
 - 1st
@@ -47,15 +50,20 @@ tags:
 # Diegon Verrona
 ---
 ### Description
-- 1st year Dragonborn Rouge in Elkenval
-- short spines, Deep Blue eyes, and bronze skin
+- Dragonborn Rouge from Draconia
+- 1st year Diplomacy student in Elkenval
+- frills, Deep Blue eyes, and bronze skin
 - Is Trustworthy and Weak, and has Loyalty as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Adresin Ilbryn]]: partymate
 [[Kayla Kaminsky]]: partymate
 [[Holys Hachaam]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Diegon Verrona

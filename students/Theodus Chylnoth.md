@@ -1,7 +1,7 @@
 ---
 name: Theodus Chylnoth
 race: Half-Elf
-hair: short curly auburn hair that's messy
+hair: short straight strawberry blond hair that's wild
 eyes: Pale Gray
 skin: Light
 ideal: Beauty
@@ -15,7 +15,8 @@ bond: I will someday get revenge on the corrupt temple hierarchy who branded me 
 birthday:
   numeric: 3/8
   written: 8th of Melorent
-origin: Magmus Centerhold
+origin: Kordinia
+voice: null
 relvance: 0
 relationships:
 - name: Velmona Elway
@@ -23,6 +24,7 @@ relationships:
 - name: Athyn Urddusk
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Monk
 stats:
@@ -37,6 +39,7 @@ guild: Elkenval
 partyID: 40
 tags:
 - Half-Elf
+- Aldercrown Empire
 - Monk
 - Assault
 - 1st
@@ -45,14 +48,19 @@ tags:
 # Theodus Chylnoth
 ---
 ### Description
-- 1st year Half-Elf Monk in Elkenval
-- short curly auburn hair that's messy, Pale Gray eyes, and Light skin
+- Half-Elf Monk from Kordinia
+- 1st year Assault student in Elkenval
+- short straight strawberry blond hair that's wild, Pale Gray eyes, and Light skin
 - Is Benevolent and Pharissical, and has Beauty as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Velmona Elway]]: partymate
 [[Athyn Urddusk]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Theodus Chylnoth

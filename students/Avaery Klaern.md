@@ -1,7 +1,7 @@
 ---
 name: Avaery Klaern
 race: Halfling
-hair: long wavy lighter blonde hair that's put up
+hair: shoulder length curly black hair that's plain
 eyes: Amber
 skin: Fair
 ideal: Cooperation
@@ -13,7 +13,8 @@ bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
 birthday:
   numeric: 7/29
   written: 29th of Korent
-origin: Aldercrown Empire
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Juppar Kershaw
@@ -21,6 +22,7 @@ relationships:
 - name: Milae Ditka
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Barbarian
 stats:
@@ -35,6 +37,7 @@ guild: Jettenia
 partyID: 66
 tags:
 - Halfling
+- Aldercrown Empire
 - Barbarian
 - Exploration
 - 1st
@@ -43,14 +46,19 @@ tags:
 # Avaery Klaern
 ---
 ### Description
-- 1st year Halfling Barbarian in Jettenia
-- long wavy lighter blonde hair that's put up, Amber eyes, and Fair skin
+- Halfling Barbarian from Beleriand
+- 1st year Exploration student in Jettenia
+- shoulder length curly black hair that's plain, Amber eyes, and Fair skin
 - Is Silent and Unimaginative, and has Cooperation as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Juppar Kershaw]]: partymate
 [[Milae Ditka]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Avaery Klaern

@@ -1,7 +1,7 @@
 ---
 name: Gianesia Onvyr
 race: Dwarf
-hair: shoulder length curly black hair that's plain
+hair: short wavy dark red hair that's plain
 eyes: Blue
 skin: Light
 ideal: Competition
@@ -13,7 +13,8 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 1/25
   written: 25th of Avanent
-origin: Magmus Centerhold
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Moki Aelynthi
@@ -21,6 +22,7 @@ relationships:
 - name: Ezekius Chalsarda
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Monk
 stats:
@@ -35,6 +37,7 @@ guild: Burk
 partyID: 29
 tags:
 - Dwarf
+- Beleriand
 - Monk
 - Protection
 - 6th
@@ -43,14 +46,19 @@ tags:
 # Gianesia Onvyr
 ---
 ### Description
-- 6th year Dwarf Monk in Burk
-- shoulder length curly black hair that's plain, Blue eyes, and Light skin
+- Dwarf Monk from Beleriand
+- 6th year Protection student in Burk
+- short wavy dark red hair that's plain, Blue eyes, and Light skin
 - Is Humorous and Opportunistic, and has Competition as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Moki Aelynthi]]: partymate
 [[Ezekius Chalsarda]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Gianesia Onvyr

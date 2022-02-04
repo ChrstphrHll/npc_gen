@@ -1,7 +1,7 @@
 ---
 name: Tylus Ytharra
 race: Tiefling
-hair: shoulder length curly brunette hair that's messy
+hair: long straight grey hair that's plain
 eyes: Yellow
 skin: Pale Brown
 ideal: Learning
@@ -14,7 +14,8 @@ bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 6/32
   written: 32nd of Pelent
-origin: Shadesburry Initiative
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Gabrilo Kulo
@@ -26,6 +27,7 @@ relationships:
 - name: Myddin Hastos
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Monk
 stats:
@@ -40,6 +42,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Tiefling
+- Aldercrown Empire
 - Monk
 - Diplomacy
 - 2nd
@@ -48,16 +51,21 @@ tags:
 # Tylus Ytharra
 ---
 ### Description
-- 2nd year Tiefling Monk in Elkenval
-- shoulder length curly brunette hair that's messy, Yellow eyes, and Pale Brown skin
+- Tiefling Monk from Magmus Centerhold
+- 2nd year Diplomacy student in Elkenval
+- long straight grey hair that's plain, Yellow eyes, and Pale Brown skin
 - Is Freewheeling and Conforming, and has Learning as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Gabrilo Kulo]]: partymate
 [[Mya Nelaeryn]]: partymate
 [[Levio Evindal]]: partymate
 [[Myddin Hastos]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Tylus Ytharra

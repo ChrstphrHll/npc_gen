@@ -1,7 +1,7 @@
 ---
 name: Iasono Ynshael
 race: Gnome
-hair: short wavy auburn hair that's well kept
+hair: shoulder length straight lighter blonde hair that's plain
 eyes: Amber
 skin: Brown
 ideal: Live and Let Live
@@ -14,7 +14,8 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 5/14
   written: 14th of Iounent
-origin: Verdain
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Matto Divya
@@ -26,6 +27,7 @@ relationships:
 - name: Garan Mirthal
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Druid
 stats:
@@ -40,6 +42,7 @@ guild: Jettenia
 partyID: 68
 tags:
 - Gnome
+- Shadesburry Initiative
 - Druid
 - Protection
 - 1st
@@ -48,16 +51,21 @@ tags:
 # Iasono Ynshael
 ---
 ### Description
-- 1st year Gnome Druid in Jettenia
-- short wavy auburn hair that's well kept, Amber eyes, and Brown skin
+- Gnome Druid from Shadesburry Initiative
+- 1st year Protection student in Jettenia
+- shoulder length straight lighter blonde hair that's plain, Amber eyes, and Brown skin
 - Is Self-sufficent and Unrealistic, and has Live and Let Live as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Matto Divya]]: partymate
 [[Ysak Llewellenar]]: partymate
 [[Alver Boneflare]]: partymate
 [[Garan Mirthal]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Iasono Ynshael

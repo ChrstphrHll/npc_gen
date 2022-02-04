@@ -1,7 +1,7 @@
 ---
 name: Hudsen Aluendalee
 race: Half-Elf
-hair: long wavy brunette hair that's plain
+hair: short straight lighter blonde hair that's wild
 eyes: Blue
 skin: Dark Tan
 ideal: Logic
@@ -15,12 +15,14 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 3/22
   written: 22nd of Melorent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Astinus Sythaeryn
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Wizard
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 37
 tags:
 - Half-Elf
+- Shadesburry Initiative
 - Wizard
 - Exploration
 - 4th
@@ -43,13 +46,18 @@ tags:
 # Hudsen Aluendalee
 ---
 ### Description
-- 4th year Half-Elf Wizard in Fiesn
-- long wavy brunette hair that's plain, Blue eyes, and Dark Tan skin
+- Half-Elf Wizard from Aldercrown Empire
+- 4th year Exploration student in Fiesn
+- short straight lighter blonde hair that's wild, Blue eyes, and Dark Tan skin
 - Is Jolly and Noncompetitive, and has Logic as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Astinus Sythaeryn]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Hudsen Aluendalee

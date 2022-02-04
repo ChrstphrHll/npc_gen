@@ -1,7 +1,7 @@
 ---
 name: Volkos Halaema
 race: Tiefling
-hair: long curly brunette hair that's put up
+hair: short wavy brunette hair that's plain
 eyes: Aqua
 skin: Aqua
 ideal: Security
@@ -15,12 +15,14 @@ bond: Everything I do is for the common people.
 birthday:
   numeric: 5/26
   written: 26th of Iounent
-origin: Kordinia
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Valia Esyae
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Ranger
 stats:
@@ -35,6 +37,7 @@ guild: Alderden
 partyID: 21
 tags:
 - Tiefling
+- Beleriand
 - Ranger
 - Diplomacy
 - 4th
@@ -43,13 +46,18 @@ tags:
 # Volkos Halaema
 ---
 ### Description
-- 4th year Tiefling Ranger in Alderden
-- long curly brunette hair that's put up, Aqua eyes, and Aqua skin
+- Tiefling Ranger from Aldercrown Empire
+- 4th year Diplomacy student in Alderden
+- short wavy brunette hair that's plain, Aqua eyes, and Aqua skin
 - Is Capable and Mealymouthed, and has Security as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Valia Esyae]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Volkos Halaema

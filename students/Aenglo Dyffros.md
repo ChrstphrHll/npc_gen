@@ -1,7 +1,7 @@
 ---
 name: Aenglo Dyffros
 race: Elf
-hair: short wavy auburn hair that's braided
+hair: shoulder length straight auburn hair that's wild
 eyes: Pale Brown
 skin: Light Tan
 ideal: Happiness
@@ -13,7 +13,8 @@ bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 6/27
   written: 27th of Pelent
-origin: Verdain
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Lynx Galather
@@ -21,6 +22,7 @@ relationships:
 - name: Corliss Akkar
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Cleric
 stats:
@@ -35,6 +37,7 @@ guild: Burk
 partyID: 72
 tags:
 - Elf
+- Verdain
 - Cleric
 - Diplomacy
 - 1st
@@ -43,14 +46,19 @@ tags:
 # Aenglo Dyffros
 ---
 ### Description
-- 1st year Elf Cleric in Burk
-- short wavy auburn hair that's braided, Pale Brown eyes, and Light Tan skin
+- Elf Cleric from Aldercrown Empire
+- 1st year Diplomacy student in Burk
+- shoulder length straight auburn hair that's wild, Pale Brown eyes, and Light Tan skin
 - Is Deferential and Dissonant, and has Happiness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Lynx Galather]]: partymate
 [[Corliss Akkar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Aenglo Dyffros

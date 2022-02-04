@@ -1,7 +1,7 @@
 ---
 name: Tommos Morgan
 race: Elf
-hair: long straight auburn hair that's plain
+hair: short wavy brunette hair that's wild
 eyes: Hazel
 skin: Dark Brown
 ideal: Commonality
@@ -13,7 +13,8 @@ bond: Everything I do is for the common people.
 birthday:
   numeric: 6/23
   written: 23rd of Pelent
-origin: Magmus Centerhold
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Alinea Hellsturn
@@ -21,6 +22,7 @@ relationships:
 - name: Jacomo Jacaranda
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Sorcerer
 stats:
@@ -35,6 +37,7 @@ guild: Alderden
 partyID: 11
 tags:
 - Elf
+- Beleriand
 - Sorcerer
 - Exploration
 - 5th
@@ -43,14 +46,19 @@ tags:
 # Tommos Morgan
 ---
 ### Description
-- 5th year Elf Sorcerer in Alderden
-- long straight auburn hair that's plain, Hazel eyes, and Dark Brown skin
+- Elf Sorcerer from Beleriand
+- 5th year Exploration student in Alderden
+- short wavy brunette hair that's wild, Hazel eyes, and Dark Brown skin
 - Is Undemanding and Tough, and has Commonality as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Alinea Hellsturn]]: partymate
 [[Jacomo Jacaranda]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Tommos Morgan

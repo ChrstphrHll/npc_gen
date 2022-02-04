@@ -1,7 +1,7 @@
 ---
 name: Robbos Kalaerede
 race: Half-Elf
-hair: short wavy white hair that's plain
+hair: long curly auburn hair that's wild
 eyes: Pale Green
 skin: Tan
 ideal: Spontaneity
@@ -15,6 +15,7 @@ birthday:
   numeric: 6/17
   written: 17th of Pelent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Tadita Edraele
@@ -24,6 +25,7 @@ relationships:
 - name: Melcyn Taeral
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Artificer
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 7
 tags:
 - Half-Elf
+- Beleriand
 - Artificer
 - Protection
 - 4th
@@ -46,15 +49,20 @@ tags:
 # Robbos Kalaerede
 ---
 ### Description
-- 4th year Half-Elf Artificer in Treskal
-- short wavy white hair that's plain, Pale Green eyes, and Tan skin
+- Half-Elf Artificer from Aldercrown Empire
+- 4th year Protection student in Treskal
+- long curly auburn hair that's wild, Pale Green eyes, and Tan skin
 - Is Graceful and Driving, and has Spontaneity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Tadita Edraele]]: partymate
 [[Estyn Rhangyl]]: partymate
 [[Melcyn Taeral]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Robbos Kalaerede

@@ -1,7 +1,7 @@
 ---
 name: Allisa Iahalae
 race: Half-Elf
-hair: shoulder length wavy strawberry blond hair that's well kept
+hair: short curly violet hair that's well kept
 eyes: Green
 skin: Tan
 ideal: Patience
@@ -14,7 +14,8 @@ bond: My tools are symbols of my past life, and I carry them so that I will neve
 birthday:
   numeric: 6/24
   written: 24th of Pelent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Aidyn Glynnii
@@ -22,6 +23,7 @@ relationships:
 - name: Jothen Elway
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Sorcerer
 stats:
@@ -36,6 +38,7 @@ guild: Elkenval
 partyID: 2
 tags:
 - Half-Elf
+- Beleriand
 - Sorcerer
 - Protection
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Allisa Iahalae
 ---
 ### Description
-- 1st year Half-Elf Sorcerer in Elkenval
-- shoulder length wavy strawberry blond hair that's well kept, Green eyes, and Tan skin
+- Half-Elf Sorcerer from Aldercrown Empire
+- 1st year Protection student in Elkenval
+- short curly violet hair that's well kept, Green eyes, and Tan skin
 - Is Considerate and Delicate, and has Patience as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Aidyn Glynnii]]: partymate
 [[Jothen Elway]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Allisa Iahalae

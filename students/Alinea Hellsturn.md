@@ -1,7 +1,7 @@
 ---
 name: Alinea Hellsturn
 race: Elf
-hair: short wavy red hair that's braided
+hair: long straight blue hair that's braided
 eyes: Brown
 skin: Tan
 ideal: Renewal
@@ -15,6 +15,7 @@ birthday:
   numeric: 1/22
   written: 22nd of Avanent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Tommos Morgan
@@ -22,6 +23,7 @@ relationships:
 - name: Jacomo Jacaranda
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Ranger
 stats:
@@ -36,6 +38,7 @@ guild: Alderden
 partyID: 11
 tags:
 - Elf
+- Chillwild Peaks
 - Ranger
 - Assault
 - 5th
@@ -44,14 +47,19 @@ tags:
 # Alinea Hellsturn
 ---
 ### Description
-- 5th year Elf Ranger in Alderden
-- short wavy red hair that's braided, Brown eyes, and Tan skin
+- Elf Ranger from Aldercrown Empire
+- 5th year Assault student in Alderden
+- long straight blue hair that's braided, Brown eyes, and Tan skin
 - Is Merciful and Sloppy, and has Renewal as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Tommos Morgan]]: partymate
 [[Jacomo Jacaranda]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Alinea Hellsturn

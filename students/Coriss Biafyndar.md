@@ -1,7 +1,7 @@
 ---
 name: Coriss Biafyndar
 race: Elf
-hair: short curly brunette hair that's plain
+hair: long straight red hair that's put up
 eyes: Brown
 skin: Light Tan
 ideal: Personal Development
@@ -14,7 +14,8 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
-origin: Verdain
+origin: Floating Island
+voice: null
 relvance: 0
 relationships:
 - name: Alexandyr Aulauthar
@@ -22,6 +23,7 @@ relationships:
 - name: Adamos Taehr
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Druid
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 53
 tags:
 - Elf
+- Beleriand
 - Druid
 - Protection
 - 5th
@@ -44,14 +47,19 @@ tags:
 # Coriss Biafyndar
 ---
 ### Description
-- 5th year Elf Druid in Fiesn
-- short curly brunette hair that's plain, Brown eyes, and Light Tan skin
+- Elf Druid from Floating Island
+- 5th year Protection student in Fiesn
+- long straight red hair that's put up, Brown eyes, and Light Tan skin
 - Is Equitable and Unmerciful, and has Personal Development as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Alexandyr Aulauthar]]: partymate
 [[Adamos Taehr]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Coriss Biafyndar

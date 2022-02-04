@@ -1,7 +1,7 @@
 ---
 name: Helera Urkensvall
 race: Halfling
-hair: long straight white hair that's wild
+hair: long straight strawberry blond hair that's well kept
 eyes: Green
 skin: Brown
 ideal: Change
@@ -14,7 +14,8 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 7/27
   written: 27th of Korent
-origin: Principality of the Palus Peoples
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Aelisabeth Soliania
@@ -24,6 +25,7 @@ relationships:
 - name: Rotheloe Samblar
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Barbarian
 stats:
@@ -38,6 +40,7 @@ guild: Burk
 partyID: 9
 tags:
 - Halfling
+- Aldercrown Empire
 - Barbarian
 - Exploration
 - 3rd
@@ -46,15 +49,20 @@ tags:
 # Helera Urkensvall
 ---
 ### Description
-- 3rd year Halfling Barbarian in Burk
-- long straight white hair that's wild, Green eyes, and Brown skin
+- Halfling Barbarian from Beleriand
+- 3rd year Exploration student in Burk
+- long straight strawberry blond hair that's well kept, Green eyes, and Brown skin
 - Is Sociable and Cantankerous, and has Change as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Aelisabeth Soliania]]: partymate
 [[Elia Veluthil]]: partymate
 [[Rotheloe Samblar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Helera Urkensvall

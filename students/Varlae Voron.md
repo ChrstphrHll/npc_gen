@@ -1,7 +1,7 @@
 ---
 name: Varlae Voron
 race: Half-Orc
-hair: shoulder length wavy blonde hair that's put up
+hair: short frizzy blonde hair that's plain
 eyes: Pale Gray
 skin: Pale Gray
 ideal: Peace
@@ -14,7 +14,8 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 6/17
   written: 17th of Pelent
-origin: Kordinia
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Vyctor Willow
@@ -26,6 +27,7 @@ relationships:
 - name: Theriss Deularla
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Wizard
 stats:
@@ -40,6 +42,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Half-Orc
+- Magmus Centerhold
 - Wizard
 - Exploration
 - 6th
@@ -48,16 +51,21 @@ tags:
 # Varlae Voron
 ---
 ### Description
-- 6th year Half-Orc Wizard in Treskal
-- shoulder length wavy blonde hair that's put up, Pale Gray eyes, and Pale Gray skin
+- Half-Orc Wizard from Beleriand
+- 6th year Exploration student in Treskal
+- short frizzy blonde hair that's plain, Pale Gray eyes, and Pale Gray skin
 - Is Friendly and Foolish, and has Peace as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Vyctor Willow]]: partymate
 [[Karl Cauladra]]: partymate
 [[Dree Nuala]]: partymate
 [[Theriss Deularla]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Varlae Voron

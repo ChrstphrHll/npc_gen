@@ -1,7 +1,7 @@
 ---
 name: Marl Ahrendaaria
 race: Gnome
-hair: shoulder length curly strawberry blond hair that's braided
+hair: shoulder length wavy blonde hair that's plain
 eyes: Pale Gray
 skin: Dark Brown
 ideal: People
@@ -14,12 +14,14 @@ bond: I entered seclusion to hide from the ones who might still be hunting me. I
 birthday:
   numeric: 4/27
   written: 27th of Moradent
-origin: Beleriand
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Puorlaas Anklos
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Fighter
 stats:
@@ -34,6 +36,7 @@ guild: Jettenia
 partyID: 12
 tags:
 - Gnome
+- Shadesburry Initiative
 - Fighter
 - Exploration
 - 2nd
@@ -42,13 +45,18 @@ tags:
 # Marl Ahrendaaria
 ---
 ### Description
-- 2nd year Gnome Fighter in Jettenia
-- shoulder length curly strawberry blond hair that's braided, Pale Gray eyes, and Dark Brown skin
+- Gnome Fighter from Shadesburry Initiative
+- 2nd year Exploration student in Jettenia
+- shoulder length wavy blonde hair that's plain, Pale Gray eyes, and Dark Brown skin
 - Is Unpredictable and Progressive, and has People as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Puorlaas Anklos]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Marl Ahrendaaria

@@ -1,7 +1,7 @@
 ---
 name: Gerrimar Vulkor
 race: Firbolg
-hair: long straight platinum hair that's well kept
+hair: long frizzy black hair that's wild
 eyes: Brown
 skin: Pale Brown
 ideal: Home
@@ -16,7 +16,8 @@ bond: My freedom is my most precious possession. I'll never let anyone take it f
 birthday:
   numeric: 8/27
   written: 27th of Ravenent
-origin: Magmus Centerhold
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Cerridwen Durothil
@@ -24,6 +25,7 @@ relationships:
 - name: Ungris Riluaneth
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Cleric
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 63
 tags:
 - Firbolg
+- Verdain
 - Cleric
 - Exploration
 - 5th
@@ -46,14 +49,19 @@ tags:
 # Gerrimar Vulkor
 ---
 ### Description
-- 5th year Firbolg Cleric in Treskal
-- long straight platinum hair that's well kept, Brown eyes, and Pale Brown skin
+- Firbolg Cleric from Verdain
+- 5th year Exploration student in Treskal
+- long frizzy black hair that's wild, Brown eyes, and Pale Brown skin
 - Is Dreamy and Artificial, and has Home as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Cerridwen Durothil]]: partymate
 [[Ungris Riluaneth]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Gerrimar Vulkor

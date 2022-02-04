@@ -1,7 +1,7 @@
 ---
 name: Shoulree Letryal
 race: Tiefling
-hair: long straight auburn hair that's braided
+hair: long curly platinum hair that's plain
 eyes: Emerald Green
 skin: Olive
 ideal: Self-Fulfillment
@@ -15,7 +15,8 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 7/16
   written: 16th of Korent
-origin: Beleriand
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Alonnos Xanotter
@@ -23,6 +24,7 @@ relationships:
 - name: Levi Kicklighter
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Monk
 stats:
@@ -37,6 +39,7 @@ guild: Elkenval
 partyID: 88
 tags:
 - Tiefling
+- Magmus Centerhold
 - Monk
 - Diplomacy
 - 1st
@@ -45,14 +48,19 @@ tags:
 # Shoulree Letryal
 ---
 ### Description
-- 1st year Tiefling Monk in Elkenval
-- long straight auburn hair that's braided, Emerald Green eyes, and Olive skin
+- Tiefling Monk from Aldercrown Empire
+- 1st year Diplomacy student in Elkenval
+- long curly platinum hair that's plain, Emerald Green eyes, and Olive skin
 - Is Insistent and Solemn, and has Self-Fulfillment as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Alonnos Xanotter]]: partymate
 [[Levi Kicklighter]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Shoulree Letryal

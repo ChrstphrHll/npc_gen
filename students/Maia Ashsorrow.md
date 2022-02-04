@@ -1,7 +1,7 @@
 ---
 name: Maia Ashsorrow
 race: Halfling
-hair: short curly grey hair that's messy
+hair: long wavy red hair that's plain
 eyes: Blue
 skin: Fair
 ideal: Religion
@@ -13,7 +13,8 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 2/1
   written: 1st of Corelent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Hanna Arkhun
@@ -21,6 +22,7 @@ relationships:
 - name: Joyce Helartha
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Rouge
 stats:
@@ -35,6 +37,7 @@ guild: Treskal
 partyID: 78
 tags:
 - Halfling
+- Beleriand
 - Rouge
 - Assault
 - 1st
@@ -43,14 +46,19 @@ tags:
 # Maia Ashsorrow
 ---
 ### Description
-- 1st year Halfling Rouge in Treskal
-- short curly grey hair that's messy, Blue eyes, and Fair skin
+- Halfling Rouge from Magmus Centerhold
+- 1st year Assault student in Treskal
+- long wavy red hair that's plain, Blue eyes, and Fair skin
 - Is Idiosyncratic and Overimaginative, and has Religion as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Hanna Arkhun]]: partymate
 [[Joyce Helartha]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Maia Ashsorrow

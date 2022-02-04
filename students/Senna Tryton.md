@@ -1,7 +1,7 @@
 ---
 name: Senna Tryton
 race: Gnome
-hair: long wavy lighter blonde hair that's plain
+hair: long wavy grey hair that's plain
 eyes: Pale Blue
 skin: Light Tan
 ideal: Religion
@@ -14,12 +14,14 @@ bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, an
 birthday:
   numeric: 3/3
   written: 3rd of Melorent
-origin: Magmus Centerhold
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Scarlotta Inqoul
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Fighter
 stats:
@@ -34,6 +36,7 @@ guild: Burk
 partyID: 49
 tags:
 - Gnome
+- Shadesburry Initiative
 - Fighter
 - Exploration
 - 4th
@@ -42,13 +45,18 @@ tags:
 # Senna Tryton
 ---
 ### Description
-- 4th year Gnome Fighter in Burk
-- long wavy lighter blonde hair that's plain, Pale Blue eyes, and Light Tan skin
+- Gnome Fighter from Shadesburry Initiative
+- 4th year Exploration student in Burk
+- long wavy grey hair that's plain, Pale Blue eyes, and Light Tan skin
 - Is Pleasant and Breezy, and has Religion as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Scarlotta Inqoul]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Senna Tryton

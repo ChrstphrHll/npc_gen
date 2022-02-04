@@ -1,7 +1,7 @@
 ---
 name: Abel Marsh
 race: Warforged
-hair: smooth silver guilded with brass
+hair: smooth bronze guilded with copper
 eyes: Yellow
 skin: silver
 ideal: Wealth
@@ -13,7 +13,8 @@ bond: It is my duty to protect my students.
 birthday:
   numeric: 4/19
   written: 19th of Moradent
-origin: Shadesburry Initiative
+origin: Qualnis
+voice: null
 relvance: 0
 relationships:
 - name: Uxwy Lazziar
@@ -21,6 +22,8 @@ relationships:
 - name: Leonus Triktappic
   type: partymate
 organizations: []
+notes:
+- the best char
 track: Exploration
 spec: Paladin
 stats:
@@ -35,6 +38,7 @@ guild: Fiesn
 partyID: 48
 tags:
 - Warforged
+- Qualnis
 - Paladin
 - Exploration
 - 5th
@@ -43,14 +47,20 @@ tags:
 # Abel Marsh
 ---
 ### Description
-- 5th year Warforged Paladin in Fiesn
-- smooth silver guilded with brass, Yellow eyes, and silver skin
+- Warforged Paladin from Qualnis
+- 5th year Exploration student in Fiesn
+- smooth bronze guilded with copper, Yellow eyes, and silver skin
 - Is Equitable and Hesitant, and has Wealth as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Uxwy Lazziar]]: partymate
 [[Leonus Triktappic]]: partymate
+
+### Notes
+- the best char
+
 ### Stats
 ```statblock
 name: Abel Marsh

@@ -1,7 +1,7 @@
 ---
 name: Leonus Triktappic
 race: Halfling
-hair: long straight lighter blonde hair that's messy
+hair: shoulder length wavy white hair that's plain
 eyes: Amber
 skin: Fair
 ideal: Redemption
@@ -14,7 +14,8 @@ bond: I seek to preserve a sacred text that my enemies consider heretical and se
 birthday:
   numeric: 5/29
   written: 29th of Iounent
-origin: Kordinia
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Abel Marsh
@@ -22,6 +23,7 @@ relationships:
 - name: Uxwy Lazziar
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Barbarian
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 48
 tags:
 - Halfling
+- Kordinia
 - Barbarian
 - Protection
 - 5th
@@ -44,14 +47,19 @@ tags:
 # Leonus Triktappic
 ---
 ### Description
-- 5th year Halfling Barbarian in Fiesn
-- long straight lighter blonde hair that's messy, Amber eyes, and Fair skin
+- Halfling Barbarian from Verdain
+- 5th year Protection student in Fiesn
+- shoulder length wavy white hair that's plain, Amber eyes, and Fair skin
 - Is Extraordinary and Prejudiced, and has Redemption as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Abel Marsh]]: partymate
 [[Uxwy Lazziar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Leonus Triktappic

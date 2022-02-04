@@ -1,7 +1,7 @@
 ---
 name: Garan Mirthal
 race: Halfling
-hair: short curly dirty blonde hair that's well kept
+hair: short wavy grey hair that's wild
 eyes: Pale Gray
 skin: Pale
 ideal: Friendship
@@ -16,7 +16,8 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 2/33
   written: 33rd of Corelent
-origin: Qualnis
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Matto Divya
@@ -28,6 +29,7 @@ relationships:
 - name: Iasono Ynshael
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Ranger
 stats:
@@ -42,6 +44,7 @@ guild: Jettenia
 partyID: 68
 tags:
 - Halfling
+- Verdain
 - Ranger
 - Exploration
 - 1st
@@ -50,16 +53,21 @@ tags:
 # Garan Mirthal
 ---
 ### Description
-- 1st year Halfling Ranger in Jettenia
-- short curly dirty blonde hair that's well kept, Pale Gray eyes, and Pale skin
+- Halfling Ranger from Aldercrown Empire
+- 1st year Exploration student in Jettenia
+- short wavy grey hair that's wild, Pale Gray eyes, and Pale skin
 - Is Neutral and Bashful, and has Friendship as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Matto Divya]]: partymate
 [[Ysak Llewellenar]]: partymate
 [[Alver Boneflare]]: partymate
 [[Iasono Ynshael]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Garan Mirthal

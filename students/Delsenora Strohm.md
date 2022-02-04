@@ -1,7 +1,7 @@
 ---
 name: Delsenora Strohm
 race: Dragonborn
-hair: frills
+hair: 5 straight horns
 eyes: Sea Green
 skin: copper
 ideal: Austerity
@@ -14,7 +14,8 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
-origin: Aldercrown Empire
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Surge Fayd
@@ -22,6 +23,7 @@ relationships:
 - name: Josius Iliphar
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Druid
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 15
 tags:
 - Dragonborn
+- Draconia
 - Druid
 - Protection
 - 7th
@@ -44,14 +47,19 @@ tags:
 # Delsenora Strohm
 ---
 ### Description
-- 7th year Dragonborn Druid in Fiesn
-- frills, Sea Green eyes, and copper skin
+- Dragonborn Druid from Draconia
+- 7th year Protection student in Fiesn
+- 5 straight horns, Sea Green eyes, and copper skin
 - Is Unambitious and Surprising, and has Austerity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Surge Fayd]]: partymate
 [[Josius Iliphar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Delsenora Strohm

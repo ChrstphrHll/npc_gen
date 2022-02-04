@@ -1,7 +1,7 @@
 ---
 name: Braidyn Kemetra
 race: Dwarf
-hair: long straight lighter blonde hair that's plain
+hair: shoulder length frizzy grey hair that's plain
 eyes: Pale Green
 skin: Light
 ideal: Fitness
@@ -13,7 +13,8 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 3/2
   written: 2nd of Melorent
-origin: Principality of the Palus Peoples
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Grassa Ashbluff
@@ -21,6 +22,7 @@ relationships:
 - name: Brithmaur Decker
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Monk
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 25
 tags:
 - Dwarf
+- Aldercrown Empire
 - Monk
 - Exploration
 - 7th
@@ -43,14 +46,19 @@ tags:
 # Braidyn Kemetra
 ---
 ### Description
-- 7th year Dwarf Monk in Fiesn
-- long straight lighter blonde hair that's plain, Pale Green eyes, and Light skin
+- Dwarf Monk from Aldercrown Empire
+- 7th year Exploration student in Fiesn
+- shoulder length frizzy grey hair that's plain, Pale Green eyes, and Light skin
 - Is Soft and Subjective, and has Fitness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Grassa Ashbluff]]: partymate
 [[Brithmaur Decker]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Braidyn Kemetra

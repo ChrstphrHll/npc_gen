@@ -1,7 +1,7 @@
 ---
 name: Lincon Nylaathria
 race: Aasimar
-hair: long straight grey hair that's messy
+hair: short straight brunette hair that's messy
 eyes: Hazel
 skin: Pale
 ideal: Respect
@@ -15,7 +15,8 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 6/6
   written: 6th of Pelent
-origin: Beleriand
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Murunay Illfate
@@ -23,6 +24,7 @@ relationships:
 - name: Hazel Winters
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Barbarian
 stats:
@@ -37,6 +39,7 @@ guild: Burk
 partyID: 75
 tags:
 - Aasimar
+- Aldercrown Empire
 - Barbarian
 - Assault
 - 4th
@@ -45,14 +48,19 @@ tags:
 # Lincon Nylaathria
 ---
 ### Description
-- 4th year Aasimar Barbarian in Burk
-- long straight grey hair that's messy, Hazel eyes, and Pale skin
+- Aasimar Barbarian from Aldercrown Empire
+- 4th year Assault student in Burk
+- short straight brunette hair that's messy, Hazel eyes, and Pale skin
 - Is Tractable and Artful, and has Respect as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Murunay Illfate]]: partymate
 [[Hazel Winters]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Lincon Nylaathria

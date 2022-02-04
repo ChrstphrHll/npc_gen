@@ -1,7 +1,7 @@
 ---
 name: Juppar Kershaw
 race: Human
-hair: short straight black hair that's plain
+hair: shoulder length curly dark red hair that's braided
 eyes: Gray
 skin: Fair
 ideal: Charisma
@@ -16,7 +16,8 @@ bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, an
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Milae Ditka
@@ -24,6 +25,7 @@ relationships:
 - name: Avaery Klaern
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Druid
 stats:
@@ -38,6 +40,7 @@ guild: Jettenia
 partyID: 66
 tags:
 - Human
+- Qualnis
 - Druid
 - Diplomacy
 - 1st
@@ -46,14 +49,19 @@ tags:
 # Juppar Kershaw
 ---
 ### Description
-- 1st year Human Druid in Jettenia
-- short straight black hair that's plain, Gray eyes, and Fair skin
+- Human Druid from Aldercrown Empire
+- 1st year Diplomacy student in Jettenia
+- shoulder length curly dark red hair that's braided, Gray eyes, and Fair skin
 - Is Playful and Fanciful, and has Charisma as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Milae Ditka]]: partymate
 [[Avaery Klaern]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Juppar Kershaw

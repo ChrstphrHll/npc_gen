@@ -1,7 +1,7 @@
 ---
 name: Nebulon Faelyn
 race: Gnome
-hair: short curly pink hair that's plain
+hair: long straight strawberry blond hair that's plain
 eyes: Green
 skin: Pale
 ideal: People
@@ -16,11 +16,13 @@ birthday:
   numeric: 8/2
   written: 2nd of Ravenent
 origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Iamus Aneirin
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Ranger
 stats:
@@ -35,6 +37,7 @@ guild: Treskal
 partyID: 74
 tags:
 - Gnome
+- Shadesburry Initiative
 - Ranger
 - Assault
 - 1st
@@ -43,13 +46,18 @@ tags:
 # Nebulon Faelyn
 ---
 ### Description
-- 1st year Gnome Ranger in Treskal
-- short curly pink hair that's plain, Green eyes, and Pale skin
+- Gnome Ranger from Shadesburry Initiative
+- 1st year Assault student in Treskal
+- long straight strawberry blond hair that's plain, Green eyes, and Pale skin
 - Is Impassive and Contradictory, and has People as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Iamus Aneirin]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Nebulon Faelyn

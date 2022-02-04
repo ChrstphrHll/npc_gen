@@ -1,7 +1,7 @@
 ---
 name: Willam Ardryll
 race: Kenku
-hair: ruffled
+hair: sleek
 eyes: Amber
 skin: Dark Blue
 ideal: Redemption
@@ -15,7 +15,8 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 4/22
   written: 22nd of Moradent
-origin: Chilliwld Peaks
+origin: Black Rock
+voice: null
 relvance: 0
 relationships:
 - name: Graisen Thalanil
@@ -25,6 +26,7 @@ relationships:
 - name: Lucoe Lorelei
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Wizard
 stats:
@@ -39,6 +41,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Kenku
+- Verdain
 - Wizard
 - Assault
 - 2nd
@@ -47,15 +50,20 @@ tags:
 # Willam Ardryll
 ---
 ### Description
-- 2nd year Kenku Wizard in Treskal
-- ruffled, Amber eyes, and Dark Blue skin
+- Kenku Wizard from Black Rock
+- 2nd year Assault student in Treskal
+- sleek, Amber eyes, and Dark Blue skin
 - Is Resourceful and Arrogant, and has Redemption as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Graisen Thalanil]]: partymate
 [[Themistoklea Nevarth]]: partymate
 [[Lucoe Lorelei]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Willam Ardryll

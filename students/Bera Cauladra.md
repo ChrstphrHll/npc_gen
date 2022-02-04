@@ -1,7 +1,7 @@
 ---
 name: Bera Cauladra
 race: Gnome
-hair: short wavy auburn hair that's wild
+hair: long wavy red hair that's plain
 eyes: Pale Blue
 skin: Tan
 ideal: Clarity
@@ -15,12 +15,14 @@ bond: I entered seclusion to hide from the ones who might still be hunting me. I
 birthday:
   numeric: 4/25
   written: 25th of Moradent
-origin: Qualnis
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Auzerais Venali
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Cleric
 stats:
@@ -35,6 +37,7 @@ guild: Elkenval
 partyID: 23
 tags:
 - Gnome
+- Shadesburry Initiative
 - Cleric
 - Diplomacy
 - 4th
@@ -43,13 +46,18 @@ tags:
 # Bera Cauladra
 ---
 ### Description
-- 4th year Gnome Cleric in Elkenval
-- short wavy auburn hair that's wild, Pale Blue eyes, and Tan skin
+- Gnome Cleric from Shadesburry Initiative
+- 4th year Diplomacy student in Elkenval
+- long wavy red hair that's plain, Pale Blue eyes, and Tan skin
 - Is Modern and Destructive, and has Clarity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Auzerais Venali]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Bera Cauladra

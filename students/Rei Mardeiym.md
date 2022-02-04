@@ -1,7 +1,7 @@
 ---
 name: Rei Mardeiym
 race: Firbolg
-hair: shoulder length wavy red hair that's put up
+hair: short straight auburn hair that's wild
 eyes: Pale Blue
 skin: Pale Green
 ideal: Grace
@@ -15,7 +15,8 @@ bond: I entered seclusion to hide from the ones who might still be hunting me. I
 birthday:
   numeric: 5/24
   written: 24th of Iounent
-origin: Principality of the Palus Peoples
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Cam Lazziar
@@ -23,6 +24,7 @@ relationships:
 - name: Jofan Elignoir
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Sorcerer
 stats:
@@ -37,6 +39,7 @@ guild: Alderden
 partyID: 6
 tags:
 - Firbolg
+- Principality of the Palus Peoples
 - Sorcerer
 - Protection
 - 7th
@@ -45,14 +48,19 @@ tags:
 # Rei Mardeiym
 ---
 ### Description
-- 7th year Firbolg Sorcerer in Alderden
-- shoulder length wavy red hair that's put up, Pale Blue eyes, and Pale Green skin
+- Firbolg Sorcerer from Verdain
+- 7th year Protection student in Alderden
+- short straight auburn hair that's wild, Pale Blue eyes, and Pale Green skin
 - Is Patient and Narrow-minded, and has Grace as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Cam Lazziar]]: partymate
 [[Jofan Elignoir]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Rei Mardeiym

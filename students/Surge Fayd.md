@@ -1,7 +1,7 @@
 ---
 name: Surge Fayd
 race: Triton
-hair: long straight grey hair that's wild
+hair: short wavy auburn hair that's plain
 eyes: Orange
 skin: Aqua
 ideal: Cunning
@@ -14,7 +14,8 @@ bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 6/22
   written: 22nd of Pelent
-origin: Magmus Centerhold
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Josius Iliphar
@@ -22,6 +23,7 @@ relationships:
 - name: Delsenora Strohm
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Monk
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 15
 tags:
 - Triton
+- Whyndiem
 - Monk
 - Protection
 - 7th
@@ -44,14 +47,19 @@ tags:
 # Surge Fayd
 ---
 ### Description
-- 7th year Triton Monk in Fiesn
-- long straight grey hair that's wild, Orange eyes, and Aqua skin
+- Triton Monk from Whyndiem
+- 7th year Protection student in Fiesn
+- short wavy auburn hair that's plain, Orange eyes, and Aqua skin
 - Is Concerned and Busy, and has Cunning as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Josius Iliphar]]: partymate
 [[Delsenora Strohm]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Surge Fayd

@@ -1,7 +1,7 @@
 ---
 name: Dylan Usunaar
 race: Half-Orc
-hair: short curly grey hair that's messy
+hair: shoulder length curly strawberry blond hair that's well kept
 eyes: Pale Blue
 skin: Deep Green
 ideal: Enjoyment
@@ -13,7 +13,8 @@ bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 2/2
   written: 2nd of Corelent
-origin: Qualnis
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Delila Felaern
@@ -23,6 +24,7 @@ relationships:
 - name: Grace Festus
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Rouge
 stats:
@@ -37,6 +39,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Half-Orc
+- Aldercrown Empire
 - Rouge
 - Diplomacy
 - 5th
@@ -45,15 +48,20 @@ tags:
 # Dylan Usunaar
 ---
 ### Description
-- 5th year Half-Orc Rouge in Elkenval
-- short curly grey hair that's messy, Pale Blue eyes, and Deep Green skin
+- Half-Orc Rouge from Verdain
+- 5th year Diplomacy student in Elkenval
+- shoulder length curly strawberry blond hair that's well kept, Pale Blue eyes, and Deep Green skin
 - Is Focused and Naughty, and has Enjoyment as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Delila Felaern]]: partymate
 [[Aurikallos Biafyndar]]: partymate
 [[Grace Festus]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Dylan Usunaar

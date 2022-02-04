@@ -1,7 +1,7 @@
 ---
 name: Robett Grell
 race: Dwarf
-hair: shoulder length frizzy grey hair that's well kept
+hair: shoulder length wavy brunette hair that's put up
 eyes: Pale Brown
 skin: Dark Brown
 ideal: Forgiveness
@@ -15,6 +15,7 @@ birthday:
   numeric: 1/4
   written: 4th of Avanent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Lenn Schimae
@@ -24,6 +25,7 @@ relationships:
 - name: Gifre Edyrm
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Monk
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 46
 tags:
 - Dwarf
+- Beleriand
 - Monk
 - Assault
 - 6th
@@ -46,15 +49,20 @@ tags:
 # Robett Grell
 ---
 ### Description
-- 6th year Dwarf Monk in Treskal
-- shoulder length frizzy grey hair that's well kept, Pale Brown eyes, and Dark Brown skin
+- Dwarf Monk from Aldercrown Empire
+- 6th year Assault student in Treskal
+- shoulder length wavy brunette hair that's put up, Pale Brown eyes, and Dark Brown skin
 - Is Solitary and Impolite, and has Forgiveness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Lenn Schimae]]: partymate
 [[Savanna Ildilyntra]]: partymate
 [[Gifre Edyrm]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Robett Grell

@@ -1,7 +1,7 @@
 ---
 name: Asmiak Seirye
 race: Human
-hair: shoulder length wavy strawberry blond hair that's plain
+hair: long frizzy lighter blonde hair that's plain
 eyes: Brown
 skin: Fair
 ideal: Anti-Authority
@@ -14,7 +14,8 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 3/28
   written: 28th of Melorent
-origin: Beleriand
+origin: Qualnis
+voice: null
 relvance: 0
 relationships:
 - name: Kendel Shael
@@ -22,6 +23,7 @@ relationships:
 - name: Hessos Adorellan
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Paladin
 stats:
@@ -36,6 +38,7 @@ guild: Alderden
 partyID: 43
 tags:
 - Human
+- Beleriand
 - Paladin
 - Exploration
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Asmiak Seirye
 ---
 ### Description
-- 1st year Human Paladin in Alderden
-- shoulder length wavy strawberry blond hair that's plain, Brown eyes, and Fair skin
+- Human Paladin from Qualnis
+- 1st year Exploration student in Alderden
+- long frizzy lighter blonde hair that's plain, Brown eyes, and Fair skin
 - Is Masculine and Impractical, and has Anti-Authority as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kendel Shael]]: partymate
 [[Hessos Adorellan]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Asmiak Seirye

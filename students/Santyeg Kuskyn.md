@@ -1,7 +1,7 @@
 ---
 name: Santyeg Kuskyn
 race: Elf
-hair: shoulder length curly auburn hair that's put up
+hair: long wavy grey hair that's plain
 eyes: Hazel
 skin: Brown
 ideal: Humane
@@ -15,7 +15,8 @@ bond: My isolation gave me great insight into a great evil that only I can destr
 birthday:
   numeric: 2/4
   written: 4th of Corelent
-origin: Aldercrown Empire
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Malchor Tenyajn
@@ -23,6 +24,7 @@ relationships:
 - name: Ahtye Elhieardacil
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Rouge
 stats:
@@ -37,6 +39,7 @@ guild: Fiesn
 partyID: 81
 tags:
 - Elf
+- Beleriand
 - Rouge
 - Assault
 - 1st
@@ -45,14 +48,19 @@ tags:
 # Santyeg Kuskyn
 ---
 ### Description
-- 1st year Elf Rouge in Fiesn
-- shoulder length curly auburn hair that's put up, Hazel eyes, and Brown skin
+- Elf Rouge from Beleriand
+- 1st year Assault student in Fiesn
+- long wavy grey hair that's plain, Hazel eyes, and Brown skin
 - Is Self-critical and Cute, and has Humane as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Malchor Tenyajn]]: partymate
 [[Ahtye Elhieardacil]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Santyeg Kuskyn

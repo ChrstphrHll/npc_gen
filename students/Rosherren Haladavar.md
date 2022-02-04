@@ -1,7 +1,7 @@
 ---
 name: Rosherren Haladavar
 race: Genasi
-hair: long curly blonde hair that's put up
+hair: long curly black hair that's plain
 eyes: Pale Green
 skin: earth
 ideal: Excitement
@@ -14,7 +14,8 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 6/31
   written: 31st of Pelent
-origin: Principality of the Palus Peoples
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Brinna Muerlara
@@ -24,6 +25,7 @@ relationships:
 - name: Tisette Bender
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Fighter
 stats:
@@ -38,6 +40,7 @@ guild: Burk
 partyID: 95
 tags:
 - Genasi
+- Aldercrown Empire
 - Fighter
 - Protection
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Rosherren Haladavar
 ---
 ### Description
-- 1st year Genasi Fighter in Burk
-- long curly blonde hair that's put up, Pale Green eyes, and earth skin
+- Genasi Fighter from Magmus Centerhold
+- 1st year Protection student in Burk
+- long curly black hair that's plain, Pale Green eyes, and earth skin
 - Is Discerning and Artificial, and has Excitement as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Brinna Muerlara]]: partymate
 [[Pynelope Valhein]]: partymate
 [[Tisette Bender]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Rosherren Haladavar

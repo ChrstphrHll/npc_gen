@@ -1,7 +1,7 @@
 ---
 name: Faliah Oluevaera
 race: Gnome
-hair: long curly dirty blonde hair that's plain
+hair: long straight grey hair that's put up
 eyes: Pale Brown
 skin: Tan
 ideal: Ambition
@@ -15,11 +15,13 @@ birthday:
   numeric: 3/5
   written: 5th of Melorent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Wulfe Fulcrux
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Cleric
 stats:
@@ -34,6 +36,7 @@ guild: Elkenval
 partyID: 92
 tags:
 - Gnome
+- Shadesburry Initiative
 - Cleric
 - Protection
 - 8th
@@ -42,13 +45,18 @@ tags:
 # Faliah Oluevaera
 ---
 ### Description
-- 8th year Gnome Cleric in Elkenval
-- long curly dirty blonde hair that's plain, Pale Brown eyes, and Tan skin
+- Gnome Cleric from Aldercrown Empire
+- 8th year Protection student in Elkenval
+- long straight grey hair that's put up, Pale Brown eyes, and Tan skin
 - Is Anticipative and Competitive, and has Ambition as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Wulfe Fulcrux]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Faliah Oluevaera

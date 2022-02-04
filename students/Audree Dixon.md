@@ -1,7 +1,7 @@
 ---
 name: Audree Dixon
 race: Human
-hair: long curly strawberry blond hair that's plain
+hair: short curly platinum hair that's braided
 eyes: Blue
 skin: Fair
 ideal: Commonality
@@ -16,6 +16,7 @@ birthday:
   numeric: 3/31
   written: 31st of Melorent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Aryana Ahrendue
@@ -25,6 +26,7 @@ relationships:
 - name: Lea Nuvian
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Monk
 stats:
@@ -39,6 +41,7 @@ guild: Alderden
 partyID: 56
 tags:
 - Human
+- Shadesburry Initiative
 - Monk
 - Assault
 - 1st
@@ -47,15 +50,20 @@ tags:
 # Audree Dixon
 ---
 ### Description
-- 1st year Human Monk in Alderden
-- long curly strawberry blond hair that's plain, Blue eyes, and Fair skin
+- Human Monk from Aldercrown Empire
+- 1st year Assault student in Alderden
+- short curly platinum hair that's braided, Blue eyes, and Fair skin
 - Is Clean and Licentious, and has Commonality as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Aryana Ahrendue]]: partymate
 [[Alkindus Llamryl]]: partymate
 [[Lea Nuvian]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Audree Dixon

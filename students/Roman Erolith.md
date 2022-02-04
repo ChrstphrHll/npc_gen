@@ -1,7 +1,7 @@
 ---
 name: Roman Erolith
 race: Dragonborn
-hair: frills
+hair: long spines
 eyes: Pale Blue
 skin: blue
 ideal: Logic
@@ -14,7 +14,8 @@ bond: I idolize a hero of the old tales and measure my deeds against that person
 birthday:
   numeric: 5/19
   written: 19th of Iounent
-origin: Magmus Centerhold
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Meira Nuvian
@@ -22,6 +23,7 @@ relationships:
 - name: Thongar Fairchild
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Monk
 stats:
@@ -36,6 +38,7 @@ guild: Burk
 partyID: 5
 tags:
 - Dragonborn
+- Draconia
 - Monk
 - Exploration
 - 3rd
@@ -44,14 +47,19 @@ tags:
 # Roman Erolith
 ---
 ### Description
-- 3rd year Dragonborn Monk in Burk
-- frills, Pale Blue eyes, and blue skin
+- Dragonborn Monk from Draconia
+- 3rd year Exploration student in Burk
+- long spines, Pale Blue eyes, and blue skin
 - Is Scrupulous and Shy, and has Logic as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Meira Nuvian]]: partymate
 [[Thongar Fairchild]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Roman Erolith

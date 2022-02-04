@@ -1,7 +1,7 @@
 ---
 name: Rasy Merlara
 race: Dwarf
-hair: long wavy lighter blonde hair that's plain
+hair: shoulder length straight brunette hair that's braided
 eyes: Pale Brown
 skin: Dark Tan
 ideal: Spiritualism
@@ -14,7 +14,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 7/11
   written: 11th of Korent
-origin: Shadesburry Initiative
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Hanro Fieryat
@@ -22,6 +23,7 @@ relationships:
 - name: Jamie Kesefehon
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Wizard
 stats:
@@ -36,6 +38,7 @@ guild: Alderden
 partyID: 16
 tags:
 - Dwarf
+- Aldercrown Empire
 - Wizard
 - Exploration
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Rasy Merlara
 ---
 ### Description
-- 1st year Dwarf Wizard in Alderden
-- long wavy lighter blonde hair that's plain, Pale Brown eyes, and Dark Tan skin
+- Dwarf Wizard from Aldercrown Empire
+- 1st year Exploration student in Alderden
+- shoulder length straight brunette hair that's braided, Pale Brown eyes, and Dark Tan skin
 - Is Reflective and Ungrateful, and has Spiritualism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Hanro Fieryat]]: partymate
 [[Jamie Kesefehon]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Rasy Merlara

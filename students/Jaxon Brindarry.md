@@ -1,7 +1,7 @@
 ---
 name: Jaxon Brindarry
 race: Elf
-hair: shoulder length frizzy white hair that's plain
+hair: shoulder length curly dirty blonde hair that's plain
 eyes: Blue
 skin: Brown
 ideal: Wisdom
@@ -15,6 +15,7 @@ birthday:
   numeric: 4/17
   written: 17th of Moradent
 origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Railyn Retenia
@@ -24,6 +25,7 @@ relationships:
 - name: Jovos Seldanna
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Artificer
 stats:
@@ -38,6 +40,7 @@ guild: Jettenia
 partyID: 28
 tags:
 - Elf
+- Aldercrown Empire
 - Artificer
 - Assault
 - 3rd
@@ -46,15 +49,20 @@ tags:
 # Jaxon Brindarry
 ---
 ### Description
-- 3rd year Elf Artificer in Jettenia
-- shoulder length frizzy white hair that's plain, Blue eyes, and Brown skin
+- Elf Artificer from Beleriand
+- 3rd year Assault student in Jettenia
+- shoulder length curly dirty blonde hair that's plain, Blue eyes, and Brown skin
 - Is Dreamy and Naive, and has Wisdom as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Railyn Retenia]]: partymate
 [[Cartyr Tamsin]]: partymate
 [[Jovos Seldanna]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jaxon Brindarry

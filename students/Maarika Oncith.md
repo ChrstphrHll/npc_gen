@@ -1,7 +1,7 @@
 ---
 name: Maarika Oncith
 race: Dragonborn
-hair: 5 curled horns
+hair: long spines
 eyes: Deep Blue
 skin: red
 ideal: Community
@@ -13,7 +13,8 @@ bond: I work to preserve a library, university, scriptorium, or monastery.
 birthday:
   numeric: 1/30
   written: 30th of Avanent
-origin: Magmus Centerhold
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Braddeus Jacaranda
@@ -21,6 +22,7 @@ relationships:
 - name: Lilia Agrippa
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Artificer
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 94
 tags:
 - Dragonborn
+- Draconia
 - Artificer
 - Protection
 - 3rd
@@ -43,14 +46,19 @@ tags:
 # Maarika Oncith
 ---
 ### Description
-- 3rd year Dragonborn Artificer in Fiesn
-- 5 curled horns, Deep Blue eyes, and red skin
+- Dragonborn Artificer from Verdain
+- 3rd year Protection student in Fiesn
+- long spines, Deep Blue eyes, and red skin
 - Is Tractable and Naughty, and has Community as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Braddeus Jacaranda]]: partymate
 [[Lilia Agrippa]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Maarika Oncith

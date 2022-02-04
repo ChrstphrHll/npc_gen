@@ -1,7 +1,7 @@
 ---
 name: Iamus Aneirin
 race: Dwarf
-hair: short frizzy lighter blonde hair that's plain
+hair: shoulder length straight strawberry blond hair that's well kept
 eyes: Pale Gray
 skin: Light
 ideal: Harmony
@@ -13,12 +13,14 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
-origin: Qualnis
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Nebulon Faelyn
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Paladin
 stats:
@@ -33,6 +35,7 @@ guild: Treskal
 partyID: 74
 tags:
 - Dwarf
+- Aldercrown Empire
 - Paladin
 - Diplomacy
 - 1st
@@ -41,13 +44,18 @@ tags:
 # Iamus Aneirin
 ---
 ### Description
-- 1st year Dwarf Paladin in Treskal
-- short frizzy lighter blonde hair that's plain, Pale Gray eyes, and Light skin
+- Dwarf Paladin from Shadesburry Initiative
+- 1st year Diplomacy student in Treskal
+- shoulder length straight strawberry blond hair that's well kept, Pale Gray eyes, and Light skin
 - Is Dynamic and Obvious, and has Harmony as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Nebulon Faelyn]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Iamus Aneirin

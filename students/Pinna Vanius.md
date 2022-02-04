@@ -1,7 +1,7 @@
 ---
 name: Pinna Vanius
 race: Elf
-hair: shoulder length curly brunette hair that's braided
+hair: long wavy platinum hair that's plain
 eyes: Amber
 skin: Fair
 ideal: Redemption
@@ -14,7 +14,8 @@ bond: I have an ancient text that holds terrible secrets that must not fall into
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Magmus Centerhold
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Delos Ehlark
@@ -24,6 +25,7 @@ relationships:
 - name: Kaeli Khiiral
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Bard
 stats:
@@ -38,6 +40,7 @@ guild: Fiesn
 partyID: 89
 tags:
 - Elf
+- Aldercrown Empire
 - Bard
 - Assault
 - 7th
@@ -46,15 +49,20 @@ tags:
 # Pinna Vanius
 ---
 ### Description
-- 7th year Elf Bard in Fiesn
-- shoulder length curly brunette hair that's braided, Amber eyes, and Fair skin
+- Elf Bard from Beleriand
+- 7th year Assault student in Fiesn
+- long wavy platinum hair that's plain, Amber eyes, and Fair skin
 - Is Original and Impractical, and has Redemption as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Delos Ehlark]]: partymate
 [[Ryan Ebersol]]: partymate
 [[Kaeli Khiiral]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Pinna Vanius

@@ -1,7 +1,7 @@
 ---
 name: Aidyn Glynnii
 race: Half-Orc
-hair: shoulder length wavy strawberry blond hair that's wild
+hair: long straight platinum hair that's put up
 eyes: Pale Blue
 skin: Deep Green
 ideal: Dishonesty
@@ -14,7 +14,8 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 1/33
   written: 33rd of Avanent
-origin: Beleriand
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Jothen Elway
@@ -22,6 +23,7 @@ relationships:
 - name: Allisa Iahalae
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Monk
 stats:
@@ -36,6 +38,7 @@ guild: Elkenval
 partyID: 2
 tags:
 - Half-Orc
+- Beleriand
 - Monk
 - Exploration
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Aidyn Glynnii
 ---
 ### Description
-- 1st year Half-Orc Monk in Elkenval
-- shoulder length wavy strawberry blond hair that's wild, Pale Blue eyes, and Deep Green skin
+- Half-Orc Monk from Verdain
+- 1st year Exploration student in Elkenval
+- long straight platinum hair that's put up, Pale Blue eyes, and Deep Green skin
 - Is Meticulous and Bizarre, and has Dishonesty as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jothen Elway]]: partymate
 [[Allisa Iahalae]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Aidyn Glynnii

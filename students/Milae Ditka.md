@@ -1,7 +1,7 @@
 ---
 name: Milae Ditka
 race: Dragonborn
-hair: long spines
+hair: short spines
 eyes: Violet Red
 skin: blue
 ideal: Self-Respect
@@ -14,7 +14,8 @@ bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 2/19
   written: 19th of Corelent
-origin: Magmus Centerhold
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Juppar Kershaw
@@ -22,6 +23,7 @@ relationships:
 - name: Avaery Klaern
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Sorcerer
 stats:
@@ -36,6 +38,7 @@ guild: Jettenia
 partyID: 66
 tags:
 - Dragonborn
+- Magmus Centerhold
 - Sorcerer
 - Protection
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Milae Ditka
 ---
 ### Description
-- 1st year Dragonborn Sorcerer in Jettenia
-- long spines, Violet Red eyes, and blue skin
+- Dragonborn Sorcerer from Beleriand
+- 1st year Protection student in Jettenia
+- short spines, Violet Red eyes, and blue skin
 - Is Undemanding and Cruel, and has Self-Respect as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Juppar Kershaw]]: partymate
 [[Avaery Klaern]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Milae Ditka

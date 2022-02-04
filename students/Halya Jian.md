@@ -1,7 +1,7 @@
 ---
 name: Halya Jian
 race: Genasi
-hair: shoulder length curly blonde hair that's braided
+hair: shoulder length straight dirty blonde hair that's put up
 eyes: Blue
 skin: fire
 ideal: Home
@@ -14,7 +14,8 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
-origin: Verdain
+origin: Floating Island
+voice: null
 relvance: 0
 relationships:
 - name: Victor Gaelira
@@ -24,6 +25,7 @@ relationships:
 - name: Handyr Letryal
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Druid
 stats:
@@ -38,6 +40,7 @@ guild: Fiesn
 partyID: 96
 tags:
 - Genasi
+- Aldercrown Empire
 - Druid
 - Protection
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Halya Jian
 ---
 ### Description
-- 1st year Genasi Druid in Fiesn
-- shoulder length curly blonde hair that's braided, Blue eyes, and fire skin
+- Genasi Druid from Floating Island
+- 1st year Protection student in Fiesn
+- shoulder length straight dirty blonde hair that's put up, Blue eyes, and fire skin
 - Is Farsighted and Imprudent, and has Home as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Victor Gaelira]]: partymate
 [[Goetia Mistale]]: partymate
 [[Handyr Letryal]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Halya Jian

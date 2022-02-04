@@ -1,7 +1,7 @@
 ---
 name: Ezros Laerdya
 race: Elf
-hair: shoulder length wavy platinum hair that's plain
+hair: shoulder length straight red hair that's braided
 eyes: Pale Brown
 skin: Light
 ideal: Fame
@@ -13,7 +13,8 @@ bond: It is my duty to protect my students.
 birthday:
   numeric: 2/19
   written: 19th of Corelent
-origin: Aldercrown Empire
+origin: Floating Island
+voice: null
 relvance: 0
 relationships:
 - name: Shinare Bersa
@@ -23,6 +24,7 @@ relationships:
 - name: Valerya Haldreithen
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Cleric
 stats:
@@ -37,6 +39,7 @@ guild: Fiesn
 partyID: 18
 tags:
 - Elf
+- Aldercrown Empire
 - Cleric
 - Exploration
 - 1st
@@ -45,15 +48,20 @@ tags:
 # Ezros Laerdya
 ---
 ### Description
-- 1st year Elf Cleric in Fiesn
-- shoulder length wavy platinum hair that's plain, Pale Brown eyes, and Light skin
+- Elf Cleric from Floating Island
+- 1st year Exploration student in Fiesn
+- shoulder length straight red hair that's braided, Pale Brown eyes, and Light skin
 - Is Loving and Monstrous, and has Fame as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Shinare Bersa]]: partymate
 [[Rjanna Eroan]]: partymate
 [[Valerya Haldreithen]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ezros Laerdya

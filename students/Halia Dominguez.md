@@ -1,7 +1,7 @@
 ---
 name: Halia Dominguez
 race: Triton
-hair: short wavy lighter blonde hair that's well kept
+hair: short wavy dark red hair that's plain
 eyes: Purple
 skin: Emerald Green
 ideal: Learning
@@ -16,7 +16,8 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 3/22
   written: 22nd of Melorent
-origin: Principality of the Palus Peoples
+origin: Glasscliff Garisons
+voice: null
 relvance: 0
 relationships:
 - name: Jess Beebe
@@ -24,6 +25,7 @@ relationships:
 - name: Tyego Sinaht
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Paladin
 stats:
@@ -38,6 +40,7 @@ guild: Fiesn
 partyID: 98
 tags:
 - Triton
+- Whyndiem
 - Paladin
 - Protection
 - 3rd
@@ -46,14 +49,19 @@ tags:
 # Halia Dominguez
 ---
 ### Description
-- 3rd year Triton Paladin in Fiesn
-- short wavy lighter blonde hair that's well kept, Purple eyes, and Emerald Green skin
+- Triton Paladin from Glasscliff Garisons
+- 3rd year Protection student in Fiesn
+- short wavy dark red hair that's plain, Purple eyes, and Emerald Green skin
 - Is Earthy and Unfriendly, and has Learning as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jess Beebe]]: partymate
 [[Tyego Sinaht]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Halia Dominguez

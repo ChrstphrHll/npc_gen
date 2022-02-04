@@ -1,7 +1,7 @@
 ---
 name: Miglus Yrlissa
 race: Triton
-hair: shoulder length straight lighter blonde hair that's wild
+hair: short curly dark red hair that's braided
 eyes: Pale Brown
 skin: Aqua
 ideal: Generosity
@@ -13,7 +13,8 @@ bond: I owe my guild a great debt for forging me into the person I am today.
 birthday:
   numeric: 1/21
   written: 21st of Avanent
-origin: Verdain
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Skalanis Kobayashi
@@ -23,6 +24,7 @@ relationships:
 - name: Jerrick Yarbrough
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Fighter
 stats:
@@ -37,6 +39,7 @@ guild: Jettenia
 partyID: 4
 tags:
 - Triton
+- Whyndiem
 - Fighter
 - Assault
 - 6th
@@ -45,15 +48,20 @@ tags:
 # Miglus Yrlissa
 ---
 ### Description
-- 6th year Triton Fighter in Jettenia
-- shoulder length straight lighter blonde hair that's wild, Pale Brown eyes, and Aqua skin
+- Triton Fighter from Whyndiem
+- 6th year Assault student in Jettenia
+- short curly dark red hair that's braided, Pale Brown eyes, and Aqua skin
 - Is Objective and Sensual, and has Generosity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Skalanis Kobayashi]]: partymate
 [[Pippi Langston]]: partymate
 [[Jerrick Yarbrough]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Miglus Yrlissa

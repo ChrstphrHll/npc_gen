@@ -1,7 +1,7 @@
 ---
 name: Delja Iefyr
 race: Half-Elf
-hair: long straight grey hair that's messy
+hair: long curly blonde hair that's messy
 eyes: Amber
 skin: Light
 ideal: Power
@@ -15,6 +15,7 @@ birthday:
   numeric: 4/27
   written: 27th of Moradent
 origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Hodus Belt
@@ -24,6 +25,7 @@ relationships:
 - name: Genesys Mhaenal
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Druid
 stats:
@@ -38,6 +40,7 @@ guild: Burk
 partyID: 38
 tags:
 - Half-Elf
+- Aldercrown Empire
 - Druid
 - Diplomacy
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Delja Iefyr
 ---
 ### Description
-- 1st year Half-Elf Druid in Burk
-- long straight grey hair that's messy, Amber eyes, and Light skin
+- Half-Elf Druid from Shadesburry Initiative
+- 1st year Diplomacy student in Burk
+- long curly blonde hair that's messy, Amber eyes, and Light skin
 - Is Harmonious and Risk-taking, and has Power as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Hodus Belt]]: partymate
 [[Shike Thalaera]]: partymate
 [[Genesys Mhaenal]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Delja Iefyr

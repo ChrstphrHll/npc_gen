@@ -1,7 +1,7 @@
 ---
 name: Wenge Usunaar
 race: Firbolg
-hair: long frizzy blue hair that's put up
+hair: shoulder length straight white hair that's braided
 eyes: Hazel
 skin: Pale Gray
 ideal: Greed
@@ -15,7 +15,8 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 2/24
   written: 24th of Corelent
-origin: Magmus Centerhold
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Kembley Ralnor
@@ -23,6 +24,7 @@ relationships:
 - name: Celaeno Amkissra
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Monk
 stats:
@@ -37,6 +39,7 @@ guild: Jettenia
 partyID: 80
 tags:
 - Firbolg
+- Verdain
 - Monk
 - Exploration
 - 8th
@@ -45,14 +48,19 @@ tags:
 # Wenge Usunaar
 ---
 ### Description
-- 8th year Firbolg Monk in Jettenia
-- long frizzy blue hair that's put up, Hazel eyes, and Pale Gray skin
+- Firbolg Monk from Verdain
+- 8th year Exploration student in Jettenia
+- shoulder length straight white hair that's braided, Hazel eyes, and Pale Gray skin
 - Is Supportive and Opportunistic, and has Greed as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kembley Ralnor]]: partymate
 [[Celaeno Amkissra]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Wenge Usunaar

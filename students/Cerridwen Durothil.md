@@ -1,7 +1,7 @@
 ---
 name: Cerridwen Durothil
 race: Half-Elf
-hair: short straight black hair that's well kept
+hair: long wavy auburn hair that's wild
 eyes: Pale Gray
 skin: Light
 ideal: Competition
@@ -15,7 +15,8 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 2/18
   written: 18th of Corelent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Gerrimar Vulkor
@@ -23,6 +24,7 @@ relationships:
 - name: Ungris Riluaneth
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Ranger
 stats:
@@ -37,6 +39,7 @@ guild: Treskal
 partyID: 63
 tags:
 - Half-Elf
+- Magmus Centerhold
 - Ranger
 - Exploration
 - 5th
@@ -45,14 +48,19 @@ tags:
 # Cerridwen Durothil
 ---
 ### Description
-- 5th year Half-Elf Ranger in Treskal
-- short straight black hair that's well kept, Pale Gray eyes, and Light skin
+- Half-Elf Ranger from Aldercrown Empire
+- 5th year Exploration student in Treskal
+- long wavy auburn hair that's wild, Pale Gray eyes, and Light skin
 - Is Gritty and Outspoken, and has Competition as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Gerrimar Vulkor]]: partymate
 [[Ungris Riluaneth]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Cerridwen Durothil

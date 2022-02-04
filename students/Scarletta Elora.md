@@ -1,7 +1,7 @@
 ---
 name: Scarletta Elora
 race: Gnome
-hair: long wavy black hair that's put up
+hair: short straight brunette hair that's well kept
 eyes: Hazel
 skin: Dark Tan
 ideal: Patience
@@ -15,6 +15,7 @@ birthday:
   numeric: 1/25
   written: 25th of Avanent
 origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Terek Nushala
@@ -22,6 +23,7 @@ relationships:
 - name: Barak Felaern
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Cleric
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 27
 tags:
 - Gnome
+- Shadesburry Initiative
 - Cleric
 - Protection
 - 2nd
@@ -44,14 +47,19 @@ tags:
 # Scarletta Elora
 ---
 ### Description
-- 2nd year Gnome Cleric in Fiesn
-- long wavy black hair that's put up, Hazel eyes, and Dark Tan skin
+- Gnome Cleric from Shadesburry Initiative
+- 2nd year Protection student in Fiesn
+- short straight brunette hair that's well kept, Hazel eyes, and Dark Tan skin
 - Is Cooperative and Devious, and has Patience as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Terek Nushala]]: partymate
 [[Barak Felaern]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Scarletta Elora

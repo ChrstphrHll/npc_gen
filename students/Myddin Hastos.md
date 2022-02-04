@@ -1,7 +1,7 @@
 ---
 name: Myddin Hastos
 race: Half-Elf
-hair: short straight brunette hair that's wild
+hair: short wavy blonde hair that's put up
 eyes: Brown
 skin: Dark Brown
 ideal: Patience
@@ -13,7 +13,8 @@ bond: Should my discovery come to light, it could bring ruin to the world.
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Aldercrown Empire
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Gabrilo Kulo
@@ -25,6 +26,7 @@ relationships:
 - name: Tylus Ytharra
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Rouge
 stats:
@@ -39,6 +41,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Half-Elf
+- Aldercrown Empire
 - Rouge
 - Protection
 - 2nd
@@ -47,16 +50,21 @@ tags:
 # Myddin Hastos
 ---
 ### Description
-- 2nd year Half-Elf Rouge in Elkenval
-- short straight brunette hair that's wild, Brown eyes, and Dark Brown skin
+- Half-Elf Rouge from Beleriand
+- 2nd year Protection student in Elkenval
+- short wavy blonde hair that's put up, Brown eyes, and Dark Brown skin
 - Is Challenging and Disorganized, and has Patience as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Gabrilo Kulo]]: partymate
 [[Mya Nelaeryn]]: partymate
 [[Levio Evindal]]: partymate
 [[Tylus Ytharra]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Myddin Hastos

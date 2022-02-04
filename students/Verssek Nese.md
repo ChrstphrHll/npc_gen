@@ -1,7 +1,7 @@
 ---
 name: Verssek Nese
 race: Half-Elf
-hair: short straight strawberry blond hair that's plain
+hair: shoulder length straight white hair that's plain
 eyes: Gray
 skin: Light
 ideal: Logic
@@ -16,12 +16,14 @@ bond: I have an ancient text that holds terrible secrets that must not fall into
 birthday:
   numeric: 6/13
   written: 13th of Pelent
-origin: Qualnis
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Favroe Kythaela
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Artificer
 stats:
@@ -36,6 +38,7 @@ guild: Treskal
 partyID: 19
 tags:
 - Half-Elf
+- Aldercrown Empire
 - Artificer
 - Protection
 - 3rd
@@ -44,13 +47,18 @@ tags:
 # Verssek Nese
 ---
 ### Description
-- 3rd year Half-Elf Artificer in Treskal
-- short straight strawberry blond hair that's plain, Gray eyes, and Light skin
+- Half-Elf Artificer from Beleriand
+- 3rd year Protection student in Treskal
+- shoulder length straight white hair that's plain, Gray eyes, and Light skin
 - Is Gentle and Impassive, and has Logic as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Favroe Kythaela]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Verssek Nese

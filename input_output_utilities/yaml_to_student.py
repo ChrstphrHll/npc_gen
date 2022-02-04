@@ -1,6 +1,6 @@
 from os import listdir, getcwd
 from os.path import isfile, join
-import yaml
+import yaml, re
 
 from Student import Student
 
@@ -33,10 +33,38 @@ def student_from_md(path):
     loaded_file = open_file(path)
     yaml_string = extract_yaml(loaded_file)
 
+    #TODO: implement get_notes function
+    notes = get_section_elements("Notes", loaded_file)
+
     student_presets = yaml.load(yaml_string, Loader=yaml.CLoader)
+    student_presets["notes"] = notes
     student = Student(student_presets)
 
     return student
+
+def get_section_elements(section_title: str, md_file_contents: str):
+    """takes a section title and the string of a md_file and returns the elements under 
+    that section"""
+    regex_string = r"### " + section_title + r"\n(- .*\n)*"
+    regex = re.compile(regex_string)
+    result_match = regex.search(md_file_contents)
+
+    ##Results is a list that starts with ### section_title and ends with a ""
+    results = result_match.group().split("\n")
+
+    processed_results = process_section(results)
+
+    return processed_results
+
+def process_section(section_array: list):
+    """takes a section array from get_section and returns its entries without their
+    bullet points"""
+    processed_elements = []
+    for entry in section_array:
+        if entry != "" and  entry[0] == "-":
+            processed_elements.append(entry[2:])
+    return processed_elements
+
 
 ###Loads in a folder of student.md files as Student objects and 
 ###    returns it as a list

@@ -1,7 +1,7 @@
 ---
 name: Remus Manchul
 race: Half-Elf
-hair: long frizzy strawberry blond hair that's plain
+hair: short straight brunette hair that's plain
 eyes: Brown
 skin: Dark Brown
 ideal: Perseverance
@@ -15,7 +15,8 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 7/31
   written: 31st of Korent
-origin: Aldercrown Empire
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Noam Shields
@@ -25,6 +26,7 @@ relationships:
 - name: Saleas Rilitar
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Rouge
 stats:
@@ -39,6 +41,7 @@ guild: Burk
 partyID: 59
 tags:
 - Half-Elf
+- Principality of the Palus Peoples
 - Rouge
 - Protection
 - 4th
@@ -47,15 +50,20 @@ tags:
 # Remus Manchul
 ---
 ### Description
-- 4th year Half-Elf Rouge in Burk
-- long frizzy strawberry blond hair that's plain, Brown eyes, and Dark Brown skin
+- Half-Elf Rouge from Beleriand
+- 4th year Protection student in Burk
+- short straight brunette hair that's plain, Brown eyes, and Dark Brown skin
 - Is Reserved and Strict, and has Perseverance as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Noam Shields]]: partymate
 [[Gunnar Ordayius]]: partymate
 [[Saleas Rilitar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Remus Manchul

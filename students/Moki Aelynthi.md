@@ -1,7 +1,7 @@
 ---
 name: Moki Aelynthi
 race: Gnome
-hair: long curly white hair that's plain
+hair: shoulder length wavy auburn hair that's plain
 eyes: Pale Gray
 skin: Tan
 ideal: Live and Let Live
@@ -16,6 +16,7 @@ birthday:
   numeric: 3/11
   written: 11th of Melorent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Ezekius Chalsarda
@@ -23,6 +24,7 @@ relationships:
 - name: Gianesia Onvyr
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Druid
 stats:
@@ -37,6 +39,7 @@ guild: Burk
 partyID: 29
 tags:
 - Gnome
+- Principality of the Palus Peoples
 - Druid
 - Protection
 - 6th
@@ -45,14 +48,19 @@ tags:
 # Moki Aelynthi
 ---
 ### Description
-- 6th year Gnome Druid in Burk
-- long curly white hair that's plain, Pale Gray eyes, and Tan skin
+- Gnome Druid from Aldercrown Empire
+- 6th year Protection student in Burk
+- shoulder length wavy auburn hair that's plain, Pale Gray eyes, and Tan skin
 - Is Open and Devious, and has Live and Let Live as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Ezekius Chalsarda]]: partymate
 [[Gianesia Onvyr]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Moki Aelynthi

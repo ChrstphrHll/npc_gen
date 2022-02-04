@@ -1,7 +1,7 @@
 ---
 name: Gavyn Sadalymn
 race: Human
-hair: short curly platinum hair that's put up
+hair: short wavy grey hair that's plain
 eyes: Hazel
 skin: Light Tan
 ideal: Nature
@@ -14,7 +14,8 @@ bond: I protect those who cannot protect themselves.
 birthday:
   numeric: 4/14
   written: 14th of Moradent
-origin: Aldercrown Empire
+origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Kloya Kershaw
@@ -22,6 +23,7 @@ relationships:
 - name: Natylie Rathal
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Ranger
 stats:
@@ -36,6 +38,7 @@ guild: Jettenia
 partyID: 97
 tags:
 - Human
+- Aldercrown Empire
 - Ranger
 - Diplomacy
 - 5th
@@ -44,14 +47,19 @@ tags:
 # Gavyn Sadalymn
 ---
 ### Description
-- 5th year Human Ranger in Jettenia
-- short curly platinum hair that's put up, Hazel eyes, and Light Tan skin
+- Human Ranger from Principality of the Palus Peoples
+- 5th year Diplomacy student in Jettenia
+- short wavy grey hair that's plain, Hazel eyes, and Light Tan skin
 - Is Efficient and Retiring, and has Nature as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kloya Kershaw]]: partymate
 [[Natylie Rathal]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Gavyn Sadalymn

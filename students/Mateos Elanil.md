@@ -1,7 +1,7 @@
 ---
 name: Mateos Elanil
 race: Halfling
-hair: short wavy white hair that's put up
+hair: short straight grey hair that's plain
 eyes: Amber
 skin: Dark Tan
 ideal: Gratitude
@@ -14,7 +14,8 @@ bond: A proud noble once gave me a horrible beating, and I will take my revenge 
 birthday:
   numeric: 5/17
   written: 17th of Iounent
-origin: Magmus Centerhold
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Selina Bellas
@@ -24,6 +25,7 @@ relationships:
 - name: Felgie Eldar
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Rouge
 stats:
@@ -38,6 +40,7 @@ guild: Fiesn
 partyID: 60
 tags:
 - Halfling
+- Verdain
 - Rouge
 - Exploration
 - 2nd
@@ -46,15 +49,20 @@ tags:
 # Mateos Elanil
 ---
 ### Description
-- 2nd year Halfling Rouge in Fiesn
-- short wavy white hair that's put up, Amber eyes, and Dark Tan skin
+- Halfling Rouge from Beleriand
+- 2nd year Exploration student in Fiesn
+- short straight grey hair that's plain, Amber eyes, and Dark Tan skin
 - Is Understanding and Neglectful, and has Gratitude as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Selina Bellas]]: partymate
 [[Brianna Kosunten]]: partymate
 [[Felgie Eldar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Mateos Elanil

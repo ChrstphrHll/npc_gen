@@ -1,7 +1,7 @@
 ---
 name: Emilanus Shields
 race: Warforged
-hair: smooth brass guilded with copper
+hair: smooth gold guilded with copper
 eyes: Spring Green
 skin: bronze
 ideal: Speed
@@ -17,6 +17,7 @@ birthday:
   numeric: 5/3
   written: 3rd of Iounent
 origin: Qualnis
+voice: null
 relvance: 0
 relationships:
 - name: Jandar Pleufan
@@ -28,6 +29,7 @@ relationships:
 - name: Andrey Rauthomyr
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Paladin
 stats:
@@ -42,6 +44,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Warforged
+- Qualnis
 - Paladin
 - Exploration
 - 1st
@@ -50,16 +53,21 @@ tags:
 # Emilanus Shields
 ---
 ### Description
-- 1st year Warforged Paladin in Elkenval
-- smooth brass guilded with copper, Spring Green eyes, and bronze skin
+- Warforged Paladin from Qualnis
+- 1st year Exploration student in Elkenval
+- smooth gold guilded with copper, Spring Green eyes, and bronze skin
 - Is Idealistic and Dirty, and has Speed as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jandar Pleufan]]: partymate
 [[Kimbera Alerathla]]: partymate
 [[Allyson Vindinglag]]: partymate
 [[Andrey Rauthomyr]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Emilanus Shields

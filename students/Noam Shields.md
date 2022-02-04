@@ -1,7 +1,7 @@
 ---
 name: Noam Shields
 race: Half-Orc
-hair: shoulder length straight dirty blonde hair that's braided
+hair: shoulder length frizzy platinum hair that's put up
 eyes: Blue
 skin: Pale Green
 ideal: Fitness
@@ -15,7 +15,8 @@ bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 7/13
   written: 13th of Korent
-origin: Qualnis
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Gunnar Ordayius
@@ -25,6 +26,7 @@ relationships:
 - name: Remus Manchul
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Barbarian
 stats:
@@ -39,6 +41,7 @@ guild: Burk
 partyID: 59
 tags:
 - Half-Orc
+- Magmus Centerhold
 - Barbarian
 - Assault
 - 4th
@@ -47,15 +50,20 @@ tags:
 # Noam Shields
 ---
 ### Description
-- 4th year Half-Orc Barbarian in Burk
-- shoulder length straight dirty blonde hair that's braided, Blue eyes, and Pale Green skin
+- Half-Orc Barbarian from Magmus Centerhold
+- 4th year Assault student in Burk
+- shoulder length frizzy platinum hair that's put up, Blue eyes, and Pale Green skin
 - Is Quality and Colorless, and has Fitness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Gunnar Ordayius]]: partymate
 [[Saleas Rilitar]]: partymate
 [[Remus Manchul]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Noam Shields

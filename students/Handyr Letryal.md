@@ -1,7 +1,7 @@
 ---
 name: Handyr Letryal
 race: Dragonborn
-hair: long spines
+hair: short spines
 eyes: Pale Brown
 skin: red
 ideal: Order
@@ -13,7 +13,8 @@ bond: No one else should have to endure the hardships I've been through.
 birthday:
   numeric: 3/6
   written: 6th of Melorent
-origin: Shadesburry Initiative
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Halya Jian
@@ -23,6 +24,7 @@ relationships:
 - name: Goetia Mistale
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Artificer
 stats:
@@ -37,6 +39,7 @@ guild: Fiesn
 partyID: 96
 tags:
 - Dragonborn
+- Draconia
 - Artificer
 - Diplomacy
 - 1st
@@ -45,15 +48,20 @@ tags:
 # Handyr Letryal
 ---
 ### Description
-- 1st year Dragonborn Artificer in Fiesn
-- long spines, Pale Brown eyes, and red skin
+- Dragonborn Artificer from Draconia
+- 1st year Diplomacy student in Fiesn
+- short spines, Pale Brown eyes, and red skin
 - Is Well-rounded and Smooth, and has Order as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Halya Jian]]: partymate
 [[Victor Gaelira]]: partymate
 [[Goetia Mistale]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Handyr Letryal

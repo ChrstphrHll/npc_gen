@@ -1,7 +1,7 @@
 ---
 name: Dree Nuala
 race: Gnome
-hair: short wavy blonde hair that's well kept
+hair: long straight brunette hair that's messy
 eyes: Amber
 skin: Brown
 ideal: Stoicism
@@ -14,7 +14,8 @@ bond: I will bring terrible wrath down on the evildoers who destroyed my homelan
 birthday:
   numeric: 1/16
   written: 16th of Avanent
-origin: Principality of the Palus Peoples
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Vyctor Willow
@@ -26,6 +27,7 @@ relationships:
 - name: Theriss Deularla
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Rouge
 stats:
@@ -40,6 +42,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Gnome
+- Shadesburry Initiative
 - Rouge
 - Diplomacy
 - 6th
@@ -48,16 +51,21 @@ tags:
 # Dree Nuala
 ---
 ### Description
-- 6th year Gnome Rouge in Treskal
-- short wavy blonde hair that's well kept, Amber eyes, and Brown skin
+- Gnome Rouge from Verdain
+- 6th year Diplomacy student in Treskal
+- long straight brunette hair that's messy, Amber eyes, and Brown skin
 - Is Unreligious and Big-thinking, and has Stoicism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Vyctor Willow]]: partymate
 [[Karl Cauladra]]: partymate
 [[Varlae Voron]]: partymate
 [[Theriss Deularla]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Dree Nuala

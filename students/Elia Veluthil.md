@@ -1,7 +1,7 @@
 ---
 name: Elia Veluthil
 race: Firbolg
-hair: shoulder length frizzy white hair that's wild
+hair: shoulder length wavy brunette hair that's plain
 eyes: Pale Blue
 skin: Pale Green
 ideal: Perseverance
@@ -13,7 +13,8 @@ bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 1/10
   written: 10th of Avanent
-origin: Qualnis
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Aelisabeth Soliania
@@ -23,6 +24,7 @@ relationships:
 - name: Helera Urkensvall
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Bard
 stats:
@@ -37,6 +39,7 @@ guild: Burk
 partyID: 9
 tags:
 - Firbolg
+- Principality of the Palus Peoples
 - Bard
 - Exploration
 - 3rd
@@ -45,15 +48,20 @@ tags:
 # Elia Veluthil
 ---
 ### Description
-- 3rd year Firbolg Bard in Burk
-- shoulder length frizzy white hair that's wild, Pale Blue eyes, and Pale Green skin
+- Firbolg Bard from Aldercrown Empire
+- 3rd year Exploration student in Burk
+- shoulder length wavy brunette hair that's plain, Pale Blue eyes, and Pale Green skin
 - Is Charming and Unhurried, and has Perseverance as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Aelisabeth Soliania]]: partymate
 [[Rotheloe Samblar]]: partymate
 [[Helera Urkensvall]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Elia Veluthil

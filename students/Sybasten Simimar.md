@@ -14,12 +14,14 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 1/14
   written: 14th of Avanent
-origin: Qualnis
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Oyara Faoraar
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Sorcerer
 stats:
@@ -34,6 +36,7 @@ guild: Elkenval
 partyID: 76
 tags:
 - Dragonborn
+- Draconia
 - Sorcerer
 - Diplomacy
 - 4th
@@ -42,13 +45,18 @@ tags:
 # Sybasten Simimar
 ---
 ### Description
-- 4th year Dragonborn Sorcerer in Elkenval
+- Dragonborn Sorcerer from Magmus Centerhold
+- 4th year Diplomacy student in Elkenval
 - long spines, Hazel eyes, and copper skin
 - Is Self-reliant and Complacent, and has Excitement as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Oyara Faoraar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Sybasten Simimar

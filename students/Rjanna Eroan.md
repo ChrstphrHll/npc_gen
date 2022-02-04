@@ -1,7 +1,7 @@
 ---
 name: Rjanna Eroan
 race: Tiefling
-hair: short wavy violet hair that's wild
+hair: long wavy blonde hair that's plain
 eyes: Pale Brown
 skin: Pale Blue
 ideal: Stoicism
@@ -15,7 +15,8 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 8/6
   written: 6th of Ravenent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Shinare Bersa
@@ -25,6 +26,7 @@ relationships:
 - name: Valerya Haldreithen
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Paladin
 stats:
@@ -39,6 +41,7 @@ guild: Fiesn
 partyID: 18
 tags:
 - Tiefling
+- Aldercrown Empire
 - Paladin
 - Protection
 - 1st
@@ -47,15 +50,20 @@ tags:
 # Rjanna Eroan
 ---
 ### Description
-- 1st year Tiefling Paladin in Fiesn
-- short wavy violet hair that's wild, Pale Brown eyes, and Pale Blue skin
+- Tiefling Paladin from Magmus Centerhold
+- 1st year Protection student in Fiesn
+- long wavy blonde hair that's plain, Pale Brown eyes, and Pale Blue skin
 - Is Sentimental and Procrastinating, and has Stoicism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Shinare Bersa]]: partymate
 [[Ezros Laerdya]]: partymate
 [[Valerya Haldreithen]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Rjanna Eroan

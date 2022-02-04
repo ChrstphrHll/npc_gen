@@ -1,7 +1,7 @@
 ---
 name: Jacomo Jacaranda
 race: Halfling
-hair: short straight grey hair that's braided
+hair: long straight brunette hair that's wild
 eyes: Pale Blue
 skin: Pale
 ideal: Personal Development
@@ -13,7 +13,8 @@ bond: I'll always remember my first ship.
 birthday:
   numeric: 3/21
   written: 21st of Melorent
-origin: Magmus Centerhold
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Alinea Hellsturn
@@ -21,6 +22,7 @@ relationships:
 - name: Tommos Morgan
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Barbarian
 stats:
@@ -35,6 +37,7 @@ guild: Alderden
 partyID: 11
 tags:
 - Halfling
+- Kordinia
 - Barbarian
 - Assault
 - 5th
@@ -43,14 +46,19 @@ tags:
 # Jacomo Jacaranda
 ---
 ### Description
-- 5th year Halfling Barbarian in Alderden
-- short straight grey hair that's braided, Pale Blue eyes, and Pale skin
+- Halfling Barbarian from Verdain
+- 5th year Assault student in Alderden
+- long straight brunette hair that's wild, Pale Blue eyes, and Pale skin
 - Is Iconoclastic and Narrow, and has Personal Development as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Alinea Hellsturn]]: partymate
 [[Tommos Morgan]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jacomo Jacaranda

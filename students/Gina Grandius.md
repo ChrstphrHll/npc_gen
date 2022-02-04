@@ -1,7 +1,7 @@
 ---
 name: Gina Grandius
 race: Tiefling
-hair: short wavy grey hair that's braided
+hair: short straight auburn hair that's well kept
 eyes: Violet Red
 skin: Yellow
 ideal: Endurance
@@ -13,7 +13,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
-origin: Shadesburry Initiative
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Leya Escobar
@@ -23,6 +24,7 @@ relationships:
 - name: Hanna Estelar
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Monk
 stats:
@@ -37,6 +39,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Tiefling
+- Aldercrown Empire
 - Monk
 - Exploration
 - 3rd
@@ -45,15 +48,20 @@ tags:
 # Gina Grandius
 ---
 ### Description
-- 3rd year Tiefling Monk in Alderden
-- short wavy grey hair that's braided, Violet Red eyes, and Yellow skin
+- Tiefling Monk from Beleriand
+- 3rd year Exploration student in Alderden
+- short straight auburn hair that's well kept, Violet Red eyes, and Yellow skin
 - Is Absentminded and Libidinous, and has Endurance as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Leya Escobar]]: partymate
 [[Ramona Saida]]: partymate
 [[Hanna Estelar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Gina Grandius

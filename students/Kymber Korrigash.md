@@ -1,7 +1,7 @@
 ---
 name: Kymber Korrigash
 race: Elf
-hair: short straight platinum hair that's wild
+hair: long wavy green hair that's wild
 eyes: Amber
 skin: Dark Brown
 ideal: Abundance
@@ -14,7 +14,8 @@ bond: I owe a debt I can never repay to the person who took pity on me.
 birthday:
   numeric: 4/7
   written: 7th of Moradent
-origin: Magmus Centerhold
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Gormoth Shyrrik
@@ -22,6 +23,7 @@ relationships:
 - name: Vaellyn Esyae
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Paladin
 stats:
@@ -36,6 +38,7 @@ guild: Jettenia
 partyID: 33
 tags:
 - Elf
+- Verdain
 - Paladin
 - Assault
 - 2nd
@@ -44,14 +47,19 @@ tags:
 # Kymber Korrigash
 ---
 ### Description
-- 2nd year Elf Paladin in Jettenia
-- short straight platinum hair that's wild, Amber eyes, and Dark Brown skin
+- Elf Paladin from Beleriand
+- 2nd year Assault student in Jettenia
+- long wavy green hair that's wild, Amber eyes, and Dark Brown skin
 - Is Just and Physical, and has Abundance as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Gormoth Shyrrik]]: partymate
 [[Vaellyn Esyae]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Kymber Korrigash

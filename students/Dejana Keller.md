@@ -1,7 +1,7 @@
 ---
 name: Dejana Keller
 race: Firbolg
-hair: long wavy white hair that's plain
+hair: long straight black hair that's well kept
 eyes: Brown
 skin: Pale Blue
 ideal: Clarity
@@ -15,7 +15,8 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 4/28
   written: 28th of Moradent
-origin: Chilliwld Peaks
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Ysaac Aelrue
@@ -25,6 +26,7 @@ relationships:
 - name: Vaervenshalice Eloen
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Cleric
 stats:
@@ -39,6 +41,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Firbolg
+- Magmus Centerhold
 - Cleric
 - Exploration
 - 1st
@@ -47,15 +50,20 @@ tags:
 # Dejana Keller
 ---
 ### Description
-- 1st year Firbolg Cleric in Treskal
-- long wavy white hair that's plain, Brown eyes, and Pale Blue skin
+- Firbolg Cleric from Verdain
+- 1st year Exploration student in Treskal
+- long straight black hair that's well kept, Brown eyes, and Pale Blue skin
 - Is Zealous and Angry, and has Clarity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Ysaac Aelrue]]: partymate
 [[Nolyn Viska]]: partymate
 [[Vaervenshalice Eloen]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Dejana Keller

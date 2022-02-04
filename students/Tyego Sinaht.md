@@ -1,7 +1,7 @@
 ---
 name: Tyego Sinaht
 race: Elf
-hair: long straight platinum hair that's messy
+hair: long wavy white hair that's put up
 eyes: Pale Blue
 skin: Light
 ideal: Power
@@ -13,7 +13,8 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 7/29
   written: 29th of Korent
-origin: Qualnis
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Jess Beebe
@@ -21,6 +22,7 @@ relationships:
 - name: Halia Dominguez
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Monk
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 98
 tags:
 - Elf
+- Beleriand
 - Monk
 - Protection
 - 3rd
@@ -43,14 +46,19 @@ tags:
 # Tyego Sinaht
 ---
 ### Description
-- 3rd year Elf Monk in Fiesn
-- long straight platinum hair that's messy, Pale Blue eyes, and Light skin
+- Elf Monk from Beleriand
+- 3rd year Protection student in Fiesn
+- long wavy white hair that's put up, Pale Blue eyes, and Light skin
 - Is Friendly and Experimental, and has Power as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jess Beebe]]: partymate
 [[Halia Dominguez]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Tyego Sinaht

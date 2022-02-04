@@ -1,7 +1,7 @@
 ---
 name: Brinna Muerlara
 race: Halfling
-hair: shoulder length straight grey hair that's plain
+hair: long wavy white hair that's put up
 eyes: Gray
 skin: Brown
 ideal: Openness
@@ -13,7 +13,8 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 6/26
   written: 26th of Pelent
-origin: Qualnis
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Pynelope Valhein
@@ -23,6 +24,7 @@ relationships:
 - name: Tisette Bender
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Barbarian
 stats:
@@ -37,6 +39,7 @@ guild: Burk
 partyID: 95
 tags:
 - Halfling
+- Aldercrown Empire
 - Barbarian
 - Exploration
 - 1st
@@ -45,15 +48,20 @@ tags:
 # Brinna Muerlara
 ---
 ### Description
-- 1st year Halfling Barbarian in Burk
-- shoulder length straight grey hair that's plain, Gray eyes, and Brown skin
+- Halfling Barbarian from Verdain
+- 1st year Exploration student in Burk
+- long wavy white hair that's put up, Gray eyes, and Brown skin
 - Is Athletic and Reserved, and has Openness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Pynelope Valhein]]: partymate
 [[Rosherren Haladavar]]: partymate
 [[Tisette Bender]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Brinna Muerlara

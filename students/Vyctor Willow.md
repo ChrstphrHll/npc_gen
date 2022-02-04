@@ -1,7 +1,7 @@
 ---
 name: Vyctor Willow
 race: Elf
-hair: short curly dirty blonde hair that's wild
+hair: short wavy auburn hair that's braided
 eyes: Blue
 skin: Fair
 ideal: Responsibility
@@ -14,7 +14,8 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 3/11
   written: 11th of Melorent
-origin: Principality of the Palus Peoples
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Karl Cauladra
@@ -26,6 +27,7 @@ relationships:
 - name: Theriss Deularla
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Bard
 stats:
@@ -40,6 +42,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Elf
+- Aldercrown Empire
 - Bard
 - Assault
 - 6th
@@ -48,16 +51,21 @@ tags:
 # Vyctor Willow
 ---
 ### Description
-- 6th year Elf Bard in Treskal
-- short curly dirty blonde hair that's wild, Blue eyes, and Fair skin
+- Elf Bard from Aldercrown Empire
+- 6th year Assault student in Treskal
+- short wavy auburn hair that's braided, Blue eyes, and Fair skin
 - Is Wise and Inhibited, and has Responsibility as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Karl Cauladra]]: partymate
 [[Varlae Voron]]: partymate
 [[Dree Nuala]]: partymate
 [[Theriss Deularla]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Vyctor Willow

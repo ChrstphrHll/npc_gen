@@ -1,7 +1,7 @@
 ---
 name: Malchor Tenyajn
 race: Genasi
-hair: short wavy dark red hair that's plain
+hair: long wavy grey hair that's plain
 eyes: Amber
 skin: water
 ideal: Humanity
@@ -14,7 +14,8 @@ bond: I'll always remember my first ship.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
-origin: Qualnis
+origin: Kordinia
+voice: null
 relvance: 0
 relationships:
 - name: Santyeg Kuskyn
@@ -22,6 +23,7 @@ relationships:
 - name: Ahtye Elhieardacil
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Rouge
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 81
 tags:
 - Genasi
+- Beleriand
 - Rouge
 - Exploration
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Malchor Tenyajn
 ---
 ### Description
-- 1st year Genasi Rouge in Fiesn
-- short wavy dark red hair that's plain, Amber eyes, and water skin
+- Genasi Rouge from Kordinia
+- 1st year Exploration student in Fiesn
+- long wavy grey hair that's plain, Amber eyes, and water skin
 - Is Affable and Regimental, and has Humanity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Santyeg Kuskyn]]: partymate
 [[Ahtye Elhieardacil]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Malchor Tenyajn

@@ -1,7 +1,7 @@
 ---
 name: Lynx Galather
 race: Human
-hair: long wavy dirty blonde hair that's plain
+hair: long straight black hair that's well kept
 eyes: Amber
 skin: Tan
 ideal: Responsibility
@@ -14,7 +14,8 @@ bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, an
 birthday:
   numeric: 7/30
   written: 30th of Korent
-origin: Beleriand
+origin: Qualnis
+voice: null
 relvance: 0
 relationships:
 - name: Corliss Akkar
@@ -22,6 +23,7 @@ relationships:
 - name: Aenglo Dyffros
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Monk
 stats:
@@ -36,6 +38,7 @@ guild: Burk
 partyID: 72
 tags:
 - Human
+- Aldercrown Empire
 - Monk
 - Exploration
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Lynx Galather
 ---
 ### Description
-- 1st year Human Monk in Burk
-- long wavy dirty blonde hair that's plain, Amber eyes, and Tan skin
+- Human Monk from Qualnis
+- 1st year Exploration student in Burk
+- long straight black hair that's well kept, Amber eyes, and Tan skin
 - Is Reasonable and Resentful, and has Responsibility as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Corliss Akkar]]: partymate
 [[Aenglo Dyffros]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Lynx Galather

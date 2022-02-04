@@ -1,7 +1,7 @@
 ---
 name: Q Yulmanda
 race: Tiefling
-hair: long straight auburn hair that's braided
+hair: long curly dark red hair that's messy
 eyes: Gray
 skin: Dark Red
 ideal: Security
@@ -13,7 +13,8 @@ bond: In a harbor town, I have a paramour whose eyes nearly stole me from the se
 birthday:
   numeric: 7/19
   written: 19th of Korent
-origin: Qualnis
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Eligio Nevarth
@@ -21,6 +22,7 @@ relationships:
 - name: Jasjen Nlossae
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Barbarian
 stats:
@@ -35,6 +37,7 @@ guild: Burk
 partyID: 65
 tags:
 - Tiefling
+- Aldercrown Empire
 - Barbarian
 - Exploration
 - 2nd
@@ -43,14 +46,19 @@ tags:
 # Q Yulmanda
 ---
 ### Description
-- 2nd year Tiefling Barbarian in Burk
-- long straight auburn hair that's braided, Gray eyes, and Dark Red skin
+- Tiefling Barbarian from Verdain
+- 2nd year Exploration student in Burk
+- long curly dark red hair that's messy, Gray eyes, and Dark Red skin
 - Is Appreciative and Mystical, and has Security as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Eligio Nevarth]]: partymate
 [[Jasjen Nlossae]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Q Yulmanda

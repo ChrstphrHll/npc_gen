@@ -1,7 +1,7 @@
 ---
 name: Evylen Nese
 race: Gnome
-hair: short straight black hair that's put up
+hair: long wavy blonde hair that's well kept
 eyes: Hazel
 skin: Dark Brown
 ideal: Perseverance
@@ -13,7 +13,8 @@ bond: I will face any challenge to win the approval of my family.
 birthday:
   numeric: 7/14
   written: 14th of Korent
-origin: Qualnis
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Kova Tamara
@@ -25,6 +26,7 @@ relationships:
 - name: Jaedyn Arbane
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Rouge
 stats:
@@ -39,6 +41,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Gnome
+- Shadesburry Initiative
 - Rouge
 - Protection
 - 1st
@@ -47,16 +50,21 @@ tags:
 # Evylen Nese
 ---
 ### Description
-- 1st year Gnome Rouge in Treskal
-- short straight black hair that's put up, Hazel eyes, and Dark Brown skin
+- Gnome Rouge from Shadesburry Initiative
+- 1st year Protection student in Treskal
+- long wavy blonde hair that's well kept, Hazel eyes, and Dark Brown skin
 - Is Effeminate and Dominating, and has Perseverance as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kova Tamara]]: partymate
 [[Adrjia Lysanthir]]: partymate
 [[Es'beth Yesheln]]: partymate
 [[Jaedyn Arbane]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Evylen Nese

@@ -1,7 +1,7 @@
 ---
 name: Abramo Sudryl
 race: Dragonborn
-hair: frills
+hair: 5 barbed horns
 eyes: Pale Gray
 skin: black
 ideal: Intelligence
@@ -14,12 +14,14 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 3/28
   written: 28th of Melorent
-origin: Beleriand
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Aryana Velethuil
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Fighter
 stats:
@@ -34,6 +36,7 @@ guild: Elkenval
 partyID: 32
 tags:
 - Dragonborn
+- Magmus Centerhold
 - Fighter
 - Protection
 - 4th
@@ -42,13 +45,18 @@ tags:
 # Abramo Sudryl
 ---
 ### Description
-- 4th year Dragonborn Fighter in Elkenval
-- frills, Pale Gray eyes, and black skin
+- Dragonborn Fighter from Draconia
+- 4th year Protection student in Elkenval
+- 5 barbed horns, Pale Gray eyes, and black skin
 - Is Purposeful and Stern, and has Intelligence as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Aryana Velethuil]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Abramo Sudryl

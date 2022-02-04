@@ -1,7 +1,7 @@
 ---
 name: Lenn Schimae
 race: Human
-hair: long curly brunette hair that's braided
+hair: short curly brunette hair that's wild
 eyes: Hazel
 skin: Dark Tan
 ideal: Creativity
@@ -13,7 +13,8 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 7/1
   written: 1st of Korent
-origin: Magmus Centerhold
+origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Robett Grell
@@ -23,6 +24,7 @@ relationships:
 - name: Gifre Edyrm
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Barbarian
 stats:
@@ -37,6 +39,7 @@ guild: Treskal
 partyID: 46
 tags:
 - Human
+- Magmus Centerhold
 - Barbarian
 - Assault
 - 6th
@@ -45,15 +48,20 @@ tags:
 # Lenn Schimae
 ---
 ### Description
-- 6th year Human Barbarian in Treskal
-- long curly brunette hair that's braided, Hazel eyes, and Dark Tan skin
+- Human Barbarian from Principality of the Palus Peoples
+- 6th year Assault student in Treskal
+- short curly brunette hair that's wild, Hazel eyes, and Dark Tan skin
 - Is Inventive and Ignorant, and has Creativity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Robett Grell]]: partymate
 [[Savanna Ildilyntra]]: partymate
 [[Gifre Edyrm]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Lenn Schimae

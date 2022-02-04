@@ -1,7 +1,7 @@
 ---
 name: Nolyn Viska
 race: Elf
-hair: shoulder length straight dirty blonde hair that's wild
+hair: long straight grey hair that's plain
 eyes: Pale Gray
 skin: Brown
 ideal: Security
@@ -15,6 +15,7 @@ birthday:
   numeric: 4/10
   written: 10th of Moradent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Ysaac Aelrue
@@ -24,6 +25,7 @@ relationships:
 - name: Dejana Keller
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Wizard
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Elf
+- Aldercrown Empire
 - Wizard
 - Exploration
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Nolyn Viska
 ---
 ### Description
-- 1st year Elf Wizard in Treskal
-- shoulder length straight dirty blonde hair that's wild, Pale Gray eyes, and Brown skin
+- Elf Wizard from Aldercrown Empire
+- 1st year Exploration student in Treskal
+- long straight grey hair that's plain, Pale Gray eyes, and Brown skin
 - Is Jovial and Political, and has Security as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Ysaac Aelrue]]: partymate
 [[Vaervenshalice Eloen]]: partymate
 [[Dejana Keller]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Nolyn Viska

@@ -1,7 +1,7 @@
 ---
 name: Mya Nelaeryn
 race: Human
-hair: shoulder length wavy blonde hair that's messy
+hair: long wavy brunette hair that's plain
 eyes: Pale Brown
 skin: Fair
 ideal: Creativity
@@ -13,7 +13,8 @@ bond: I owe my life to the priest who took me in when my parents died.
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
-origin: Magmus Centerhold
+origin: Qualnis
+voice: null
 relvance: 0
 relationships:
 - name: Gabrilo Kulo
@@ -25,6 +26,7 @@ relationships:
 - name: Tylus Ytharra
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Barbarian
 stats:
@@ -39,6 +41,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Human
+- Beleriand
 - Barbarian
 - Protection
 - 2nd
@@ -47,16 +50,21 @@ tags:
 # Mya Nelaeryn
 ---
 ### Description
-- 2nd year Human Barbarian in Elkenval
-- shoulder length wavy blonde hair that's messy, Pale Brown eyes, and Fair skin
+- Human Barbarian from Qualnis
+- 2nd year Protection student in Elkenval
+- long wavy brunette hair that's plain, Pale Brown eyes, and Fair skin
 - Is Folksy and Evil, and has Creativity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Gabrilo Kulo]]: partymate
 [[Levio Evindal]]: partymate
 [[Myddin Hastos]]: partymate
 [[Tylus Ytharra]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Mya Nelaeryn

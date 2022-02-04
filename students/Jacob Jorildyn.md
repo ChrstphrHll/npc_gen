@@ -1,7 +1,7 @@
 ---
 name: Jacob Jorildyn
 race: Dragonborn
-hair: 5 jagged horns
+hair: short spines
 eyes: Brown
 skin: brass
 ideal: Appreciation
@@ -13,7 +13,8 @@ bond: The common folk must see me as a hero of the people.
 birthday:
   numeric: 3/23
   written: 23rd of Melorent
-origin: Qualnis
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Hudsen Elandorr
@@ -23,6 +24,7 @@ relationships:
 - name: Gabrila Retra
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Cleric
 stats:
@@ -37,6 +39,7 @@ guild: Treskal
 partyID: 45
 tags:
 - Dragonborn
+- Draconia
 - Cleric
 - Diplomacy
 - 3rd
@@ -45,15 +48,20 @@ tags:
 # Jacob Jorildyn
 ---
 ### Description
-- 3rd year Dragonborn Cleric in Treskal
-- 5 jagged horns, Brown eyes, and brass skin
+- Dragonborn Cleric from Draconia
+- 3rd year Diplomacy student in Treskal
+- short spines, Brown eyes, and brass skin
 - Is Clear-headed and Impassive, and has Appreciation as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Hudsen Elandorr]]: partymate
 [[Brooka Whesker]]: partymate
 [[Gabrila Retra]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jacob Jorildyn

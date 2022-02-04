@@ -4,11 +4,17 @@ import roll_tables.personality_tables as person_gen
 import roll_tables.race_tables as race_gen
 import roll_tables.birthday_tables as bday_gen
 import roll_tables.origin_tables as ori_gen
+import roll_tables.voice_tables as voice_gen
 
 import yaml
 
 class Person:
-    def __init__(self, presets = {}, tag_generation = True):
+    def __init__(self, presets = {}):
+        self.base_generation(presets)
+        self.tags = self.create_tags()
+    
+    def base_generation(self, presets):
+        #Makes sets the core attributes of the person
         ##Set Name
         if not self.set_if_preset("name", presets):
             self.name = name_gen.create_names(1)[0]
@@ -48,6 +54,10 @@ class Person:
         if not self.set_if_preset("origin", presets):
             self.origin = ori_gen.get_origin(self.race)
 
+        #Generate Voice
+        if not self.set_if_preset("voice", presets):
+            self.voice = voice_gen.get_voice()
+
         #Set relevance
         if not self.set_if_preset("relevance", presets):
             self.relvance = 0
@@ -57,11 +67,9 @@ class Person:
             self.relationships = []
         if not self.set_if_preset("organizations", presets):
             self.organizations = []
+        if not self.set_if_preset("notes", presets):
+            self.notes = []
 
-        #Set tags
-        if tag_generation:
-            self.tags = self.create_tags()
-    
     def set_if_preset(self, element, presets):
             if element in presets.keys():
                 setattr(self, element, presets[element])
@@ -69,10 +77,12 @@ class Person:
             return False
 
     def create_tags(self):
-        tags = [self.race]
+        tags = [self.race, self.origin]
+        for org in self.organizations:
+            tags.append(org["name"])
         return tags
 
-    def get_description(self):
+    def __str__(self):
         current_character_description = ""
         for property, value in vars(self).items():
             current_character_description += f"{property}: {value}\n"
@@ -86,20 +96,54 @@ class Person:
         all_lines = []
         all_lines.append(f"# {self.name}")
         all_lines.append("---")
-        all_lines.append("### Description")
-        all_lines.append(f"- {self.race}")
-        all_lines.append(f"- {self.hair}, {self.eyes} eyes, and {self.skin} skin")
-        all_lines.append(f"- Is {self.trait1} and {self.trait2}, and has {self.ideal} as their ideal")
-        all_lines.append("")
-        all_lines.append("### Relationships")
+        all_lines.extend(self.readable_description())
+        all_lines.extend(self.readable_organizations())
+        all_lines.extend(self.readable_relationships())
+        return "\n".join(all_lines)
+
+    def readable_description(self):
+        """Function to be used by get_md. Returns a list of lines that describe the person"""
+        description = []
+        description.append("### Description")
+        description.append(f"- {self.race} from {self.origin}")
+        description.append(f"- {self.hair}, {self.eyes} eyes, and {self.skin} skin")
+        description.append(f"- Is {self.trait1} and {self.trait2}, and has {self.ideal} as their ideal")
+        description.append("")
+        return description
+
+    def readable_organizations(self):
+        """Function to be used by get_md. Returns a list of lines that describe the organizations
+        a person is a part of"""
+        organizations = []
+        organizations.append("### Organizations")
+        for org in self.organizations:
+            member_type = org["type"]
+            org_name = org["name"]
+            organizations.append(f"{member_type} of [[{org_name}]]")
+        organizations.append("")
+        return organizations
+
+    def readable_relationships(self):
+        """Function to be used by get_md. Returns a list of lines that describe the
+        relationships of the person"""
+        relationships = []
+        relationships.append("### Relationships")
         for relationship in self.relationships:
             rel_type = relationship["type"]
             rel_name = relationship["name"]
-            all_lines.append(f"[[{rel_name}]]: {rel_type}")
+            relationships.append(f"[[{rel_name}]]: {rel_type}")
+        relationships.append("")
+        return relationships
 
-        return "\n".join(all_lines)
-
-
+    def readable_notes(self):
+        """Function to be used by get_md. Returns a list of lines that are notes 
+        about the person"""
+        notes_lines = []
+        notes_lines.append("### Notes")
+        for note in self.notes:
+            notes_lines.append(f"- {note}")
+        notes_lines.append("")
+        return notes_lines
 
     def write_char_sheet(self, path_input = -1):
         yaml_frontmatter = yaml.dump(self.__dict__, sort_keys = False)

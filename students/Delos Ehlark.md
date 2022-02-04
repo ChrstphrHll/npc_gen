@@ -1,7 +1,7 @@
 ---
 name: Delos Ehlark
 race: Dragonborn
-hair: long spines
+hair: short spines
 eyes: Deep Blue
 skin: silver
 ideal: Family
@@ -13,7 +13,8 @@ bond: Everything I do is for the common people.
 birthday:
   numeric: 2/21
   written: 21st of Corelent
-origin: Kordinia
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Pinna Vanius
@@ -23,6 +24,7 @@ relationships:
 - name: Kaeli Khiiral
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Ranger
 stats:
@@ -37,6 +39,7 @@ guild: Fiesn
 partyID: 89
 tags:
 - Dragonborn
+- Draconia
 - Ranger
 - Protection
 - 7th
@@ -45,15 +48,20 @@ tags:
 # Delos Ehlark
 ---
 ### Description
-- 7th year Dragonborn Ranger in Fiesn
-- long spines, Deep Blue eyes, and silver skin
+- Dragonborn Ranger from Beleriand
+- 7th year Protection student in Fiesn
+- short spines, Deep Blue eyes, and silver skin
 - Is Precise and Condemnatory, and has Family as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Pinna Vanius]]: partymate
 [[Ryan Ebersol]]: partymate
 [[Kaeli Khiiral]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Delos Ehlark

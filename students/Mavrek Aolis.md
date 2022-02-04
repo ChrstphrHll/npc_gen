@@ -13,7 +13,8 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 6/25
   written: 25th of Pelent
-origin: Beleriand
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Julyo Agassi
@@ -23,6 +24,7 @@ relationships:
 - name: Vila Tassarion
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Sorcerer
 stats:
@@ -37,6 +39,7 @@ guild: Elkenval
 partyID: 47
 tags:
 - Dragonborn
+- Draconia
 - Sorcerer
 - Assault
 - 5th
@@ -45,15 +48,20 @@ tags:
 # Mavrek Aolis
 ---
 ### Description
-- 5th year Dragonborn Sorcerer in Elkenval
+- Dragonborn Sorcerer from Draconia
+- 5th year Assault student in Elkenval
 - frills, Red eyes, and gold skin
 - Is Realistic and Predatory, and has Connection as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Julyo Agassi]]: partymate
 [[Goshwa Khiipaera]]: partymate
 [[Vila Tassarion]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Mavrek Aolis

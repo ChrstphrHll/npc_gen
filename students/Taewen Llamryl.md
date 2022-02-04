@@ -1,7 +1,7 @@
 ---
 name: Taewen Llamryl
 race: Human
-hair: long curly white hair that's messy
+hair: long wavy auburn hair that's plain
 eyes: Amber
 skin: Tan
 ideal: Renewal
@@ -15,7 +15,8 @@ bond: Somewhere out there, I have a child who doesn't know me. I'm making the wo
 birthday:
   numeric: 5/25
   written: 25th of Iounent
-origin: Principality of the Palus Peoples
+origin: Qualnis
+voice: null
 relvance: 0
 relationships:
 - name: Everen Malfoy
@@ -23,6 +24,7 @@ relationships:
 - name: Iaen Dannyd
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Artificer
 stats:
@@ -37,6 +39,7 @@ guild: Fiesn
 partyID: 61
 tags:
 - Human
+- Beleriand
 - Artificer
 - Assault
 - 2nd
@@ -45,14 +48,19 @@ tags:
 # Taewen Llamryl
 ---
 ### Description
-- 2nd year Human Artificer in Fiesn
-- long curly white hair that's messy, Amber eyes, and Tan skin
+- Human Artificer from Qualnis
+- 2nd year Assault student in Fiesn
+- long wavy auburn hair that's plain, Amber eyes, and Tan skin
 - Is Fearless and High-spirited, and has Renewal as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Everen Malfoy]]: partymate
 [[Iaen Dannyd]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Taewen Llamryl

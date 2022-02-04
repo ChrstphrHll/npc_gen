@@ -1,7 +1,7 @@
 ---
 name: Terek Nushala
 race: Triton
-hair: short curly pink hair that's well kept
+hair: long wavy platinum hair that's put up
 eyes: Purple
 skin: Deep Blue
 ideal: Self-Fulfillment
@@ -13,7 +13,8 @@ bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 3/19
   written: 19th of Melorent
-origin: Chilliwld Peaks
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Scarletta Elora
@@ -21,6 +22,7 @@ relationships:
 - name: Barak Felaern
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Wizard
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 27
 tags:
 - Triton
+- Whyndiem
 - Wizard
 - Protection
 - 2nd
@@ -43,14 +46,19 @@ tags:
 # Terek Nushala
 ---
 ### Description
-- 2nd year Triton Wizard in Fiesn
-- short curly pink hair that's well kept, Purple eyes, and Deep Blue skin
+- Triton Wizard from Whyndiem
+- 2nd year Protection student in Fiesn
+- long wavy platinum hair that's put up, Purple eyes, and Deep Blue skin
 - Is Circumspect and Ridiculous, and has Self-Fulfillment as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Scarletta Elora]]: partymate
 [[Barak Felaern]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Terek Nushala

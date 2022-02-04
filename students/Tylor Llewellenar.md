@@ -1,7 +1,7 @@
 ---
 name: Tylor Llewellenar
 race: Warforged
-hair: smooth brass guilded with gold
+hair: smooth bronze guilded with silver
 eyes: Amber
 skin: gold
 ideal: Abundance
@@ -14,7 +14,8 @@ bond: The common folk must see me as a hero of the people.
 birthday:
   numeric: 8/20
   written: 20th of Ravenent
-origin: Verdain
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Brannos Bellas
@@ -22,6 +23,7 @@ relationships:
 - name: Ragnar Illitran
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Sorcerer
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 42
 tags:
 - Warforged
+- Qualnis
 - Sorcerer
 - Assault
 - 6th
@@ -44,14 +47,19 @@ tags:
 # Tylor Llewellenar
 ---
 ### Description
-- 6th year Warforged Sorcerer in Fiesn
-- smooth brass guilded with gold, Amber eyes, and gold skin
+- Warforged Sorcerer from Shadesburry Initiative
+- 6th year Assault student in Fiesn
+- smooth bronze guilded with silver, Amber eyes, and gold skin
 - Is Disciplined and Naive, and has Abundance as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Brannos Bellas]]: partymate
 [[Ragnar Illitran]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Tylor Llewellenar

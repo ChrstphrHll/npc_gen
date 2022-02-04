@@ -1,4 +1,3 @@
-
 class Organization():
     def __init__(self, name, size, validators):
         self.name = name

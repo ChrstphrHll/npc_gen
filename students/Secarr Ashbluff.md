@@ -1,7 +1,7 @@
 ---
 name: Secarr Ashbluff
 race: Dragonborn
-hair: 4 jagged horns
+hair: long spines
 eyes: Emerald Green
 skin: blue
 ideal: Compassion
@@ -14,12 +14,14 @@ bond: I seek to preserve a sacred text that my enemies consider heretical and se
 birthday:
   numeric: 4/14
   written: 14th of Moradent
-origin: Beleriand
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Thenol Shialaevar
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Barbarian
 stats:
@@ -34,6 +36,7 @@ guild: Burk
 partyID: 1
 tags:
 - Dragonborn
+- Floating Island
 - Barbarian
 - Exploration
 - 6th
@@ -42,13 +45,18 @@ tags:
 # Secarr Ashbluff
 ---
 ### Description
-- 6th year Dragonborn Barbarian in Burk
-- 4 jagged horns, Emerald Green eyes, and blue skin
+- Dragonborn Barbarian from Draconia
+- 6th year Exploration student in Burk
+- long spines, Emerald Green eyes, and blue skin
 - Is Relaxed and Liar, and has Compassion as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Thenol Shialaevar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Secarr Ashbluff

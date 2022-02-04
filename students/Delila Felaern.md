@@ -1,7 +1,7 @@
 ---
 name: Delila Felaern
 race: Gnome
-hair: long frizzy brunette hair that's wild
+hair: short curly white hair that's plain
 eyes: Gray
 skin: Pale
 ideal: Success
@@ -13,7 +13,8 @@ bond: I'm loyal to my captain first, everything else second.
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Qualnis
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Dylan Usunaar
@@ -23,6 +24,7 @@ relationships:
 - name: Grace Festus
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Druid
 stats:
@@ -37,6 +39,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Gnome
+- Magmus Centerhold
 - Druid
 - Diplomacy
 - 5th
@@ -45,15 +48,20 @@ tags:
 # Delila Felaern
 ---
 ### Description
-- 5th year Gnome Druid in Elkenval
-- long frizzy brunette hair that's wild, Gray eyes, and Pale skin
+- Gnome Druid from Shadesburry Initiative
+- 5th year Diplomacy student in Elkenval
+- short curly white hair that's plain, Gray eyes, and Pale skin
 - Is Ordinary and Insulting, and has Success as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Dylan Usunaar]]: partymate
 [[Aurikallos Biafyndar]]: partymate
 [[Grace Festus]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Delila Felaern

@@ -1,7 +1,7 @@
 ---
 name: Gabrilo Kulo
 race: Half-Orc
-hair: shoulder length curly green hair that's plain
+hair: short straight red hair that's braided
 eyes: Gray
 skin: Pale Green
 ideal: Intelligence
@@ -14,7 +14,8 @@ bond: I have an ancient text that holds terrible secrets that must not fall into
 birthday:
   numeric: 7/26
   written: 26th of Korent
-origin: Qualnis
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Mya Nelaeryn
@@ -26,6 +27,7 @@ relationships:
 - name: Tylus Ytharra
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Cleric
 stats:
@@ -40,6 +42,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Half-Orc
+- Magmus Centerhold
 - Cleric
 - Diplomacy
 - 2nd
@@ -48,16 +51,21 @@ tags:
 # Gabrilo Kulo
 ---
 ### Description
-- 2nd year Half-Orc Cleric in Elkenval
-- shoulder length curly green hair that's plain, Gray eyes, and Pale Green skin
+- Half-Orc Cleric from Magmus Centerhold
+- 2nd year Diplomacy student in Elkenval
+- short straight red hair that's braided, Gray eyes, and Pale Green skin
 - Is Easygoing and Profligate, and has Intelligence as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Mya Nelaeryn]]: partymate
 [[Levio Evindal]]: partymate
 [[Myddin Hastos]]: partymate
 [[Tylus Ytharra]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Gabrilo Kulo

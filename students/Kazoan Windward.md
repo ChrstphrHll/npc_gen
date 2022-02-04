@@ -1,7 +1,7 @@
 ---
 name: Kazoan Windward
 race: Firbolg
-hair: short frizzy white hair that's plain
+hair: shoulder length wavy black hair that's well kept
 eyes: Pale Green
 skin: Pale Gray
 ideal: Austerity
@@ -14,12 +14,14 @@ bond: In a harbor town, I have a paramour whose eyes nearly stole me from the se
 birthday:
   numeric: 2/4
   written: 4th of Corelent
-origin: Magmus Centerhold
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Saccaros Anaharae
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Ranger
 stats:
@@ -34,6 +36,7 @@ guild: Treskal
 partyID: 70
 tags:
 - Firbolg
+- Aldercrown Empire
 - Ranger
 - Assault
 - 2nd
@@ -42,13 +45,18 @@ tags:
 # Kazoan Windward
 ---
 ### Description
-- 2nd year Firbolg Ranger in Treskal
-- short frizzy white hair that's plain, Pale Green eyes, and Pale Gray skin
+- Firbolg Ranger from Verdain
+- 2nd year Assault student in Treskal
+- shoulder length wavy black hair that's well kept, Pale Green eyes, and Pale Gray skin
 - Is Restrained and Vague, and has Austerity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Saccaros Anaharae]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Kazoan Windward

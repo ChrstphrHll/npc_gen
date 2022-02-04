@@ -1,7 +1,7 @@
 ---
 name: Melcyn Taeral
 race: Firbolg
-hair: short curly auburn hair that's well kept
+hair: short frizzy brunette hair that's plain
 eyes: Green
 skin: Pale Gray
 ideal: Finesse
@@ -14,7 +14,8 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 7/31
   written: 31st of Korent
-origin: Shadesburry Initiative
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Tadita Edraele
@@ -24,6 +25,7 @@ relationships:
 - name: Robbos Kalaerede
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Sorcerer
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 7
 tags:
 - Firbolg
+- Verdain
 - Sorcerer
 - Diplomacy
 - 4th
@@ -46,15 +49,20 @@ tags:
 # Melcyn Taeral
 ---
 ### Description
-- 4th year Firbolg Sorcerer in Treskal
-- short curly auburn hair that's well kept, Green eyes, and Pale Gray skin
+- Firbolg Sorcerer from Aldercrown Empire
+- 4th year Diplomacy student in Treskal
+- short frizzy brunette hair that's plain, Green eyes, and Pale Gray skin
 - Is Devoted and Lazy, and has Finesse as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Tadita Edraele]]: partymate
 [[Estyn Rhangyl]]: partymate
 [[Robbos Kalaerede]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Melcyn Taeral

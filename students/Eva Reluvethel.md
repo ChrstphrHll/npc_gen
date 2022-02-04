@@ -1,7 +1,7 @@
 ---
 name: Eva Reluvethel
 race: Human
-hair: shoulder length straight strawberry blond hair that's plain
+hair: short curly auburn hair that's braided
 eyes: Pale Brown
 skin: Light
 ideal: Learning
@@ -16,6 +16,7 @@ birthday:
   numeric: 6/31
   written: 31st of Pelent
 origin: Qualnis
+voice: null
 relvance: 0
 relationships:
 - name: Liris Bhyrindaar
@@ -23,6 +24,7 @@ relationships:
 - name: Caeleb Embrae
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Wizard
 stats:
@@ -37,6 +39,7 @@ guild: Fiesn
 partyID: 54
 tags:
 - Human
+- Aldercrown Empire
 - Wizard
 - Assault
 - 2nd
@@ -45,14 +48,19 @@ tags:
 # Eva Reluvethel
 ---
 ### Description
-- 2nd year Human Wizard in Fiesn
-- shoulder length straight strawberry blond hair that's plain, Pale Brown eyes, and Light skin
+- Human Wizard from Qualnis
+- 2nd year Assault student in Fiesn
+- short curly auburn hair that's braided, Pale Brown eyes, and Light skin
 - Is Lucky and Restrained, and has Learning as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Liris Bhyrindaar]]: partymate
 [[Caeleb Embrae]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Eva Reluvethel

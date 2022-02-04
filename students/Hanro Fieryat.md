@@ -1,7 +1,7 @@
 ---
 name: Hanro Fieryat
 race: Triton
-hair: short curly black hair that's plain
+hair: short curly lighter blonde hair that's plain
 eyes: Pale Gray
 skin: Pale Green
 ideal: Charisma
@@ -14,7 +14,8 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
-origin: Beleriand
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Rasy Merlara
@@ -22,6 +23,7 @@ relationships:
 - name: Jamie Kesefehon
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Paladin
 stats:
@@ -36,6 +38,7 @@ guild: Alderden
 partyID: 16
 tags:
 - Triton
+- Aldercrown Empire
 - Paladin
 - Exploration
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Hanro Fieryat
 ---
 ### Description
-- 1st year Triton Paladin in Alderden
-- short curly black hair that's plain, Pale Gray eyes, and Pale Green skin
+- Triton Paladin from Whyndiem
+- 1st year Exploration student in Alderden
+- short curly lighter blonde hair that's plain, Pale Gray eyes, and Pale Green skin
 - Is Gentle and Sedentary, and has Charisma as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Rasy Merlara]]: partymate
 [[Jamie Kesefehon]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Hanro Fieryat

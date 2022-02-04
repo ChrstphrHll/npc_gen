@@ -1,7 +1,7 @@
 ---
 name: Aelisabeth Soliania
 race: Halfling
-hair: shoulder length straight brunette hair that's put up
+hair: short curly white hair that's plain
 eyes: Hazel
 skin: Light Tan
 ideal: Pessimism
@@ -16,7 +16,8 @@ bond: My freedom is my most precious possession. I'll never let anyone take it f
 birthday:
   numeric: 7/30
   written: 30th of Korent
-origin: Beleriand
+origin: Kordinia
+voice: null
 relvance: 0
 relationships:
 - name: Elia Veluthil
@@ -26,6 +27,7 @@ relationships:
 - name: Helera Urkensvall
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Barbarian
 stats:
@@ -40,6 +42,7 @@ guild: Burk
 partyID: 9
 tags:
 - Halfling
+- Verdain
 - Barbarian
 - Assault
 - 3rd
@@ -48,15 +51,20 @@ tags:
 # Aelisabeth Soliania
 ---
 ### Description
-- 3rd year Halfling Barbarian in Burk
-- shoulder length straight brunette hair that's put up, Hazel eyes, and Light Tan skin
+- Halfling Barbarian from Kordinia
+- 3rd year Assault student in Burk
+- short curly white hair that's plain, Hazel eyes, and Light Tan skin
 - Is Vivacious and Artificial, and has Pessimism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Elia Veluthil]]: partymate
 [[Rotheloe Samblar]]: partymate
 [[Helera Urkensvall]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Aelisabeth Soliania

@@ -1,7 +1,7 @@
 ---
 name: Shenai Inqoul
 race: Tiefling
-hair: long wavy white hair that's messy
+hair: shoulder length straight black hair that's well kept
 eyes: Deep Blue
 skin: Olive
 ideal: Pessimism
@@ -15,7 +15,8 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 7/16
   written: 16th of Korent
-origin: Beleriand
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Edyrm Iolas
@@ -23,6 +24,7 @@ relationships:
 - name: Jacus Kosunten
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Monk
 stats:
@@ -37,6 +39,7 @@ guild: Burk
 partyID: 57
 tags:
 - Tiefling
+- Aldercrown Empire
 - Monk
 - Assault
 - 2nd
@@ -45,14 +48,19 @@ tags:
 # Shenai Inqoul
 ---
 ### Description
-- 2nd year Tiefling Monk in Burk
-- long wavy white hair that's messy, Deep Blue eyes, and Olive skin
+- Tiefling Monk from Aldercrown Empire
+- 2nd year Assault student in Burk
+- shoulder length straight black hair that's well kept, Deep Blue eyes, and Olive skin
 - Is Intrepid and Immature, and has Pessimism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Edyrm Iolas]]: partymate
 [[Jacus Kosunten]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Shenai Inqoul

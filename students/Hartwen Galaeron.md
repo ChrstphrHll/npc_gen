@@ -1,7 +1,7 @@
 ---
 name: Hartwen Galaeron
 race: Human
-hair: shoulder length frizzy grey hair that's braided
+hair: shoulder length curly red hair that's messy
 eyes: Pale Blue
 skin: Fair
 ideal: Involvement
@@ -14,12 +14,14 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Aldercrown Empire
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Ian Averescu
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Cleric
 stats:
@@ -34,6 +36,7 @@ guild: Alderden
 partyID: 52
 tags:
 - Human
+- Shadesburry Initiative
 - Cleric
 - Diplomacy
 - 2nd
@@ -42,13 +45,18 @@ tags:
 # Hartwen Galaeron
 ---
 ### Description
-- 2nd year Human Cleric in Alderden
-- shoulder length frizzy grey hair that's braided, Pale Blue eyes, and Fair skin
+- Human Cleric from Beleriand
+- 2nd year Diplomacy student in Alderden
+- shoulder length curly red hair that's messy, Pale Blue eyes, and Fair skin
 - Is Plain and Childish, and has Involvement as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Ian Averescu]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Hartwen Galaeron

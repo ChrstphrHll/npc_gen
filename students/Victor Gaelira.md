@@ -1,7 +1,7 @@
 ---
 name: Victor Gaelira
 race: Half-Elf
-hair: short straight platinum hair that's put up
+hair: short straight brunette hair that's plain
 eyes: Pale Blue
 skin: Dark Tan
 ideal: Family
@@ -14,7 +14,8 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 7/14
   written: 14th of Korent
-origin: Qualnis
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Halya Jian
@@ -24,6 +25,7 @@ relationships:
 - name: Handyr Letryal
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Barbarian
 stats:
@@ -38,6 +40,7 @@ guild: Fiesn
 partyID: 96
 tags:
 - Half-Elf
+- Aldercrown Empire
 - Barbarian
 - Diplomacy
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Victor Gaelira
 ---
 ### Description
-- 1st year Half-Elf Barbarian in Fiesn
-- short straight platinum hair that's put up, Pale Blue eyes, and Dark Tan skin
+- Half-Elf Barbarian from Aldercrown Empire
+- 1st year Diplomacy student in Fiesn
+- short straight brunette hair that's plain, Pale Blue eyes, and Dark Tan skin
 - Is Ambitious and Evil, and has Family as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Halya Jian]]: partymate
 [[Goetia Mistale]]: partymate
 [[Handyr Letryal]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Victor Gaelira

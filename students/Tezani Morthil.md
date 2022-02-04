@@ -1,7 +1,7 @@
 ---
 name: Tezani Morthil
 race: Elf
-hair: short wavy brunette hair that's plain
+hair: long wavy auburn hair that's plain
 eyes: Gray
 skin: Light Tan
 ideal: Generosity
@@ -15,7 +15,8 @@ bond: My ill-gotten gains go to support my family.
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
-origin: Aldercrown Empire
+origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Eune Eldratha
@@ -23,6 +24,7 @@ relationships:
 - name: Evyn Fenton
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Wizard
 stats:
@@ -37,6 +39,7 @@ guild: Elkenval
 partyID: 34
 tags:
 - Elf
+- Beleriand
 - Wizard
 - Assault
 - 2nd
@@ -45,14 +48,19 @@ tags:
 # Tezani Morthil
 ---
 ### Description
-- 2nd year Elf Wizard in Elkenval
-- short wavy brunette hair that's plain, Gray eyes, and Light Tan skin
+- Elf Wizard from Principality of the Palus Peoples
+- 2nd year Assault student in Elkenval
+- long wavy auburn hair that's plain, Gray eyes, and Light Tan skin
 - Is Deceptive and Extreme, and has Generosity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Eune Eldratha]]: partymate
 [[Evyn Fenton]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Tezani Morthil

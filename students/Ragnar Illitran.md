@@ -1,7 +1,7 @@
 ---
 name: Ragnar Illitran
 race: Halfling
-hair: short straight dark red hair that's plain
+hair: shoulder length straight violet hair that's messy
 eyes: Brown
 skin: Light
 ideal: Reciprocity
@@ -15,6 +15,7 @@ birthday:
   numeric: 2/9
   written: 9th of Corelent
 origin: Kordinia
+voice: null
 relvance: 0
 relationships:
 - name: Brannos Bellas
@@ -22,6 +23,7 @@ relationships:
 - name: Tylor Llewellenar
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Artificer
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 42
 tags:
 - Halfling
+- Kordinia
 - Artificer
 - Diplomacy
 - 6th
@@ -44,14 +47,19 @@ tags:
 # Ragnar Illitran
 ---
 ### Description
-- 6th year Halfling Artificer in Fiesn
-- short straight dark red hair that's plain, Brown eyes, and Light skin
+- Halfling Artificer from Kordinia
+- 6th year Diplomacy student in Fiesn
+- shoulder length straight violet hair that's messy, Brown eyes, and Light skin
 - Is Logical and Well-meaning, and has Reciprocity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Brannos Bellas]]: partymate
 [[Tylor Llewellenar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ragnar Illitran

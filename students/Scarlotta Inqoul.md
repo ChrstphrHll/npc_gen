@@ -1,7 +1,7 @@
 ---
 name: Scarlotta Inqoul
 race: Dwarf
-hair: long curly brunette hair that's wild
+hair: long curly violet hair that's plain
 eyes: Pale Brown
 skin: Brown
 ideal: Innovation
@@ -14,12 +14,14 @@ bond: No one else should have to endure the hardships I've been through.
 birthday:
   numeric: 2/26
   written: 26th of Corelent
-origin: Verdain
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Senna Tryton
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Paladin
 stats:
@@ -34,6 +36,7 @@ guild: Burk
 partyID: 49
 tags:
 - Dwarf
+- Aldercrown Empire
 - Paladin
 - Diplomacy
 - 4th
@@ -42,13 +45,18 @@ tags:
 # Scarlotta Inqoul
 ---
 ### Description
-- 4th year Dwarf Paladin in Burk
-- long curly brunette hair that's wild, Pale Brown eyes, and Brown skin
+- Dwarf Paladin from Beleriand
+- 4th year Diplomacy student in Burk
+- long curly violet hair that's plain, Pale Brown eyes, and Brown skin
 - Is Iconoclastic and Puritanical, and has Innovation as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Senna Tryton]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Scarlotta Inqoul

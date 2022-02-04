@@ -1,7 +1,7 @@
 ---
 name: Hessos Adorellan
 race: Gnome
-hair: shoulder length curly brunette hair that's plain
+hair: long curly red hair that's plain
 eyes: Gray
 skin: Tan
 ideal: Optimism
@@ -14,7 +14,8 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 4/11
   written: 11th of Moradent
-origin: Aldercrown Empire
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Kendel Shael
@@ -22,6 +23,7 @@ relationships:
 - name: Asmiak Seirye
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Wizard
 stats:
@@ -36,6 +38,7 @@ guild: Alderden
 partyID: 43
 tags:
 - Gnome
+- Shadesburry Initiative
 - Wizard
 - Exploration
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Hessos Adorellan
 ---
 ### Description
-- 1st year Gnome Wizard in Alderden
-- shoulder length curly brunette hair that's plain, Gray eyes, and Tan skin
+- Gnome Wizard from Shadesburry Initiative
+- 1st year Exploration student in Alderden
+- long curly red hair that's plain, Gray eyes, and Tan skin
 - Is Punctual and Pharissical, and has Optimism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kendel Shael]]: partymate
 [[Asmiak Seirye]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Hessos Adorellan

@@ -1,7 +1,7 @@
 ---
 name: Violetta Coldsprinter
 race: Half-Orc
-hair: short curly red hair that's messy
+hair: shoulder length curly dirty blonde hair that's plain
 eyes: Amber
 skin: Pale Gray
 ideal: Creativity
@@ -14,7 +14,8 @@ bond: Something important was taken from me, and I aim to steal it back.
 birthday:
   numeric: 1/9
   written: 9th of Avanent
-origin: Beleriand
+origin: Qualnis
+voice: null
 relvance: 0
 relationships:
 - name: Abryia Rubrae
@@ -24,6 +25,7 @@ relationships:
 - name: Nicholus Morthil
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Fighter
 stats:
@@ -38,6 +40,7 @@ guild: Burk
 partyID: 93
 tags:
 - Half-Orc
+- Magmus Centerhold
 - Fighter
 - Assault
 - 2nd
@@ -46,15 +49,20 @@ tags:
 # Violetta Coldsprinter
 ---
 ### Description
-- 2nd year Half-Orc Fighter in Burk
-- short curly red hair that's messy, Amber eyes, and Pale Gray skin
+- Half-Orc Fighter from Qualnis
+- 2nd year Assault student in Burk
+- shoulder length curly dirty blonde hair that's plain, Amber eyes, and Pale Gray skin
 - Is Original and Naughty, and has Creativity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Abryia Rubrae]]: partymate
 [[Yan Sorsasta]]: partymate
 [[Nicholus Morthil]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Violetta Coldsprinter

@@ -1,7 +1,7 @@
 ---
 name: Taanyth Seeker
 race: Human
-hair: short straight auburn hair that's plain
+hair: short curly dirty blonde hair that's messy
 eyes: Pale Green
 skin: Tan
 ideal: Gratitude
@@ -16,6 +16,7 @@ birthday:
   numeric: 8/28
   written: 28th of Ravenent
 origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Efjan Andrathath
@@ -23,6 +24,7 @@ relationships:
 - name: Averra Taleisin
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Monk
 stats:
@@ -37,6 +39,7 @@ guild: Burk
 partyID: 31
 tags:
 - Human
+- Principality of the Palus Peoples
 - Monk
 - Assault
 - 1st
@@ -45,14 +48,19 @@ tags:
 # Taanyth Seeker
 ---
 ### Description
-- 1st year Human Monk in Burk
-- short straight auburn hair that's plain, Pale Green eyes, and Tan skin
+- Human Monk from Magmus Centerhold
+- 1st year Assault student in Burk
+- short curly dirty blonde hair that's messy, Pale Green eyes, and Tan skin
 - Is Active and Insolent, and has Gratitude as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Efjan Andrathath]]: partymate
 [[Averra Taleisin]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Taanyth Seeker

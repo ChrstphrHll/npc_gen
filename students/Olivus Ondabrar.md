@@ -1,7 +1,7 @@
 ---
 name: Olivus Ondabrar
 race: Halfling
-hair: shoulder length wavy blue hair that's messy
+hair: shoulder length wavy red hair that's put up
 eyes: Hazel
 skin: Tan
 ideal: Wisdom
@@ -14,12 +14,14 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
-origin: Verdain
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Nom Remington
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Wizard
 stats:
@@ -34,6 +36,7 @@ guild: Fiesn
 partyID: 85
 tags:
 - Halfling
+- Aldercrown Empire
 - Wizard
 - Assault
 - 3rd
@@ -42,13 +45,18 @@ tags:
 # Olivus Ondabrar
 ---
 ### Description
-- 3rd year Halfling Wizard in Fiesn
-- shoulder length wavy blue hair that's messy, Hazel eyes, and Tan skin
+- Halfling Wizard from Aldercrown Empire
+- 3rd year Assault student in Fiesn
+- shoulder length wavy red hair that's put up, Hazel eyes, and Tan skin
 - Is Prudent and Dirty, and has Wisdom as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Nom Remington]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Olivus Ondabrar

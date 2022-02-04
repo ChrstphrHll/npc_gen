@@ -1,7 +1,7 @@
 ---
 name: Levy Maendellyn
 race: Gnome
-hair: long wavy dark red hair that's plain
+hair: short wavy red hair that's plain
 eyes: Pale Blue
 skin: Brown
 ideal: Righteous
@@ -13,7 +13,8 @@ bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 8/8
   written: 8th of Ravenent
-origin: Qualnis
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Isaias Vaalyun
@@ -21,6 +22,7 @@ relationships:
 - name: Jacoby Maeraddyth
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Fighter
 stats:
@@ -35,6 +37,7 @@ guild: Burk
 partyID: 36
 tags:
 - Gnome
+- Shadesburry Initiative
 - Fighter
 - Assault
 - 2nd
@@ -43,14 +46,19 @@ tags:
 # Levy Maendellyn
 ---
 ### Description
-- 2nd year Gnome Fighter in Burk
-- long wavy dark red hair that's plain, Pale Blue eyes, and Brown skin
+- Gnome Fighter from Shadesburry Initiative
+- 2nd year Assault student in Burk
+- short wavy red hair that's plain, Pale Blue eyes, and Brown skin
 - Is Hospitable and Sly, and has Righteous as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Isaias Vaalyun]]: partymate
 [[Jacoby Maeraddyth]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Levy Maendellyn

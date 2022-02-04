@@ -1,7 +1,7 @@
 ---
 name: Den Ualair
 race: Half-Orc
-hair: short curly platinum hair that's braided
+hair: shoulder length curly strawberry blond hair that's messy
 eyes: Pale Blue
 skin: Green Blue
 ideal: Vengful
@@ -14,11 +14,13 @@ birthday:
   numeric: 1/18
   written: 18th of Avanent
 origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Ilksal Immianthe
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Artificer
 stats:
@@ -33,6 +35,7 @@ guild: Treskal
 partyID: 8
 tags:
 - Half-Orc
+- Magmus Centerhold
 - Artificer
 - Diplomacy
 - 3rd
@@ -41,13 +44,18 @@ tags:
 # Den Ualair
 ---
 ### Description
-- 3rd year Half-Orc Artificer in Treskal
-- short curly platinum hair that's braided, Pale Blue eyes, and Green Blue skin
+- Half-Orc Artificer from Principality of the Palus Peoples
+- 3rd year Diplomacy student in Treskal
+- shoulder length curly strawberry blond hair that's messy, Pale Blue eyes, and Green Blue skin
 - Is Impressive and Faithless, and has Vengful as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Ilksal Immianthe]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Den Ualair

@@ -1,7 +1,7 @@
 ---
 name: Lilia Agrippa
 race: Tiefling
-hair: shoulder length straight strawberry blond hair that's well kept
+hair: short wavy lighter blonde hair that's put up
 eyes: Gray
 skin: Purple
 ideal: Appreciation
@@ -15,6 +15,7 @@ birthday:
   numeric: 8/13
   written: 13th of Ravenent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Maarika Oncith
@@ -22,6 +23,7 @@ relationships:
 - name: Braddeus Jacaranda
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Barbarian
 stats:
@@ -36,6 +38,7 @@ guild: Fiesn
 partyID: 94
 tags:
 - Tiefling
+- Aldercrown Empire
 - Barbarian
 - Assault
 - 3rd
@@ -44,14 +47,19 @@ tags:
 # Lilia Agrippa
 ---
 ### Description
-- 3rd year Tiefling Barbarian in Fiesn
-- shoulder length straight strawberry blond hair that's well kept, Gray eyes, and Purple skin
+- Tiefling Barbarian from Aldercrown Empire
+- 3rd year Assault student in Fiesn
+- short wavy lighter blonde hair that's put up, Gray eyes, and Purple skin
 - Is Efficient and Lackadaisical, and has Appreciation as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Maarika Oncith]]: partymate
 [[Braddeus Jacaranda]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Lilia Agrippa

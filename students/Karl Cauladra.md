@@ -1,7 +1,7 @@
 ---
 name: Karl Cauladra
 race: Gnome
-hair: shoulder length wavy blonde hair that's plain
+hair: short straight strawberry blond hair that's wild
 eyes: Gray
 skin: Pale
 ideal: Teamwork
@@ -14,7 +14,8 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 2/3
   written: 3rd of Corelent
-origin: Beleriand
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Vyctor Willow
@@ -26,6 +27,7 @@ relationships:
 - name: Theriss Deularla
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Rouge
 stats:
@@ -40,6 +42,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Gnome
+- Shadesburry Initiative
 - Rouge
 - Protection
 - 6th
@@ -48,16 +51,21 @@ tags:
 # Karl Cauladra
 ---
 ### Description
-- 6th year Gnome Rouge in Treskal
-- shoulder length wavy blonde hair that's plain, Gray eyes, and Pale skin
+- Gnome Rouge from Shadesburry Initiative
+- 6th year Protection student in Treskal
+- short straight strawberry blond hair that's wild, Gray eyes, and Pale skin
 - Is Incorruptible and Self-centered, and has Teamwork as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Vyctor Willow]]: partymate
 [[Varlae Voron]]: partymate
 [[Dree Nuala]]: partymate
 [[Theriss Deularla]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Karl Cauladra

@@ -1,7 +1,7 @@
 ---
 name: Leya Escobar
 race: Human
-hair: shoulder length wavy platinum hair that's plain
+hair: shoulder length curly white hair that's put up
 eyes: Pale Gray
 skin: Dark Brown
 ideal: Righteous
@@ -14,7 +14,8 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 6/25
   written: 25th of Pelent
-origin: Qualnis
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Gina Grandius
@@ -24,6 +25,7 @@ relationships:
 - name: Hanna Estelar
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Fighter
 stats:
@@ -38,6 +40,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Human
+- Principality of the Palus Peoples
 - Fighter
 - Assault
 - 3rd
@@ -46,15 +49,20 @@ tags:
 # Leya Escobar
 ---
 ### Description
-- 3rd year Human Fighter in Alderden
-- shoulder length wavy platinum hair that's plain, Pale Gray eyes, and Dark Brown skin
+- Human Fighter from Beleriand
+- 3rd year Assault student in Alderden
+- shoulder length curly white hair that's put up, Pale Gray eyes, and Dark Brown skin
 - Is Self-disciplined and Mawkish, and has Righteous as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Gina Grandius]]: partymate
 [[Ramona Saida]]: partymate
 [[Hanna Estelar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Leya Escobar

@@ -1,7 +1,7 @@
 ---
 name: Ian Averescu
 race: Dragonborn
-hair: frills
+hair: short spines
 eyes: Amber
 skin: black
 ideal: Loyalty
@@ -13,12 +13,14 @@ bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 5/7
   written: 7th of Iounent
-origin: Kordinia
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Hartwen Galaeron
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Sorcerer
 stats:
@@ -33,6 +35,7 @@ guild: Alderden
 partyID: 52
 tags:
 - Dragonborn
+- Draconia
 - Sorcerer
 - Assault
 - 2nd
@@ -41,13 +44,18 @@ tags:
 # Ian Averescu
 ---
 ### Description
-- 2nd year Dragonborn Sorcerer in Alderden
-- frills, Amber eyes, and black skin
+- Dragonborn Sorcerer from Draconia
+- 2nd year Assault student in Alderden
+- short spines, Amber eyes, and black skin
 - Is Imaginative and Extreme, and has Loyalty as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Hartwen Galaeron]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ian Averescu

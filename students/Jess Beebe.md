@@ -1,7 +1,7 @@
 ---
 name: Jess Beebe
 race: Firbolg
-hair: shoulder length curly auburn hair that's wild
+hair: long straight grey hair that's put up
 eyes: Hazel
 skin: Pale Gray
 ideal: Finesse
@@ -13,7 +13,8 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 5/1
   written: 1st of Iounent
-origin: Qualnis
+origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Tyego Sinaht
@@ -21,6 +22,7 @@ relationships:
 - name: Halia Dominguez
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Cleric
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 98
 tags:
 - Firbolg
+- Aldercrown Empire
 - Cleric
 - Diplomacy
 - 3rd
@@ -43,14 +46,19 @@ tags:
 # Jess Beebe
 ---
 ### Description
-- 3rd year Firbolg Cleric in Fiesn
-- shoulder length curly auburn hair that's wild, Hazel eyes, and Pale Gray skin
+- Firbolg Cleric from Principality of the Palus Peoples
+- 3rd year Diplomacy student in Fiesn
+- long straight grey hair that's put up, Hazel eyes, and Pale Gray skin
 - Is Impressive and Unkind, and has Finesse as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Tyego Sinaht]]: partymate
 [[Halia Dominguez]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jess Beebe

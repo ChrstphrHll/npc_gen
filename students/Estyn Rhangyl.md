@@ -1,7 +1,7 @@
 ---
 name: Estyn Rhangyl
 race: Dragonborn
-hair: 3 jagged horns
+hair: long spines
 eyes: Gray
 skin: blue
 ideal: Conformity
@@ -15,7 +15,8 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 3/5
   written: 5th of Melorent
-origin: Qualnis
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Tadita Edraele
@@ -25,6 +26,7 @@ relationships:
 - name: Robbos Kalaerede
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Artificer
 stats:
@@ -39,6 +41,7 @@ guild: Treskal
 partyID: 7
 tags:
 - Dragonborn
+- Draconia
 - Artificer
 - Protection
 - 4th
@@ -47,15 +50,20 @@ tags:
 # Estyn Rhangyl
 ---
 ### Description
-- 4th year Dragonborn Artificer in Treskal
-- 3 jagged horns, Gray eyes, and blue skin
+- Dragonborn Artificer from Aldercrown Empire
+- 4th year Protection student in Treskal
+- long spines, Gray eyes, and blue skin
 - Is Harmonious and Talkative, and has Conformity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Tadita Edraele]]: partymate
 [[Melcyn Taeral]]: partymate
 [[Robbos Kalaerede]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Estyn Rhangyl

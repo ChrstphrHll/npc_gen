@@ -1,7 +1,7 @@
 ---
 name: Turi Chandrelle
 race: Gnome
-hair: shoulder length straight pink hair that's put up
+hair: shoulder length curly strawberry blond hair that's messy
 eyes: Blue
 skin: Fair
 ideal: Indulgence
@@ -13,7 +13,8 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 4/20
   written: 20th of Moradent
-origin: Qualnis
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Kunjal Iefyr
@@ -21,6 +22,7 @@ relationships:
 - name: Guliemos Nym
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Rouge
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 13
 tags:
 - Gnome
+- Shadesburry Initiative
 - Rouge
 - Protection
 - 4th
@@ -43,14 +46,19 @@ tags:
 # Turi Chandrelle
 ---
 ### Description
-- 4th year Gnome Rouge in Fiesn
-- shoulder length straight pink hair that's put up, Blue eyes, and Fair skin
+- Gnome Rouge from Shadesburry Initiative
+- 4th year Protection student in Fiesn
+- shoulder length curly strawberry blond hair that's messy, Blue eyes, and Fair skin
 - Is Mature and Enigmatic, and has Indulgence as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kunjal Iefyr]]: partymate
 [[Guliemos Nym]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Turi Chandrelle

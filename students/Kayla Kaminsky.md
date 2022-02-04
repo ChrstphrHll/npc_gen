@@ -1,7 +1,7 @@
 ---
 name: Kayla Kaminsky
 race: Gnome
-hair: long straight white hair that's braided
+hair: short straight auburn hair that's braided
 eyes: Pale Green
 skin: Tan
 ideal: Patience
@@ -14,7 +14,8 @@ bond: I seek to preserve a sacred text that my enemies consider heretical and se
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Qualnis
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Diegon Verrona
@@ -24,6 +25,7 @@ relationships:
 - name: Holys Hachaam
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Artificer
 stats:
@@ -38,6 +40,7 @@ guild: Elkenval
 partyID: 90
 tags:
 - Gnome
+- Shadesburry Initiative
 - Artificer
 - Diplomacy
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Kayla Kaminsky
 ---
 ### Description
-- 1st year Gnome Artificer in Elkenval
-- long straight white hair that's braided, Pale Green eyes, and Tan skin
+- Gnome Artificer from Shadesburry Initiative
+- 1st year Diplomacy student in Elkenval
+- short straight auburn hair that's braided, Pale Green eyes, and Tan skin
 - Is Uninhibited and Difficult, and has Patience as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Diegon Verrona]]: partymate
 [[Adresin Ilbryn]]: partymate
 [[Holys Hachaam]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Kayla Kaminsky

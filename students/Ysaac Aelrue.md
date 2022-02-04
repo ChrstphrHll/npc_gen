@@ -1,7 +1,7 @@
 ---
 name: Ysaac Aelrue
 race: Halfling
-hair: shoulder length curly green hair that's braided
+hair: shoulder length straight auburn hair that's messy
 eyes: Brown
 skin: Light
 ideal: Contentment
@@ -14,7 +14,8 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 2/30
   written: 30th of Corelent
-origin: Verdain
+origin: Kordinia
+voice: null
 relvance: 0
 relationships:
 - name: Nolyn Viska
@@ -24,6 +25,7 @@ relationships:
 - name: Dejana Keller
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Fighter
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Halfling
+- Aldercrown Empire
 - Fighter
 - Exploration
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Ysaac Aelrue
 ---
 ### Description
-- 1st year Halfling Fighter in Treskal
-- shoulder length curly green hair that's braided, Brown eyes, and Light skin
+- Halfling Fighter from Kordinia
+- 1st year Exploration student in Treskal
+- shoulder length straight auburn hair that's messy, Brown eyes, and Light skin
 - Is Respectful and Superstitious, and has Contentment as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Nolyn Viska]]: partymate
 [[Vaervenshalice Eloen]]: partymate
 [[Dejana Keller]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ysaac Aelrue

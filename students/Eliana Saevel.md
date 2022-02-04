@@ -1,7 +1,7 @@
 ---
 name: Eliana Saevel
 race: Human
-hair: short straight lighter blonde hair that's plain
+hair: short curly dark red hair that's plain
 eyes: Pale Blue
 skin: Pale
 ideal: Caring
@@ -14,7 +14,8 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 6/27
   written: 27th of Pelent
-origin: Verdain
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Nycola Eroan
@@ -22,6 +23,7 @@ relationships:
 - name: Aniari Arlayna
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Artificer
 stats:
@@ -36,6 +38,7 @@ guild: Elkenval
 partyID: 77
 tags:
 - Human
+- Qualnis
 - Artificer
 - Assault
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Eliana Saevel
 ---
 ### Description
-- 1st year Human Artificer in Elkenval
-- short straight lighter blonde hair that's plain, Pale Blue eyes, and Pale skin
+- Human Artificer from Beleriand
+- 1st year Assault student in Elkenval
+- short curly dark red hair that's plain, Pale Blue eyes, and Pale skin
 - Is Iconoclastic and Tasteless, and has Caring as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Nycola Eroan]]: partymate
 [[Aniari Arlayna]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Eliana Saevel

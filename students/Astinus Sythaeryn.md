@@ -1,7 +1,7 @@
 ---
 name: Astinus Sythaeryn
 race: Human
-hair: short straight lighter blonde hair that's wild
+hair: long curly auburn hair that's plain
 eyes: Pale Blue
 skin: Brown
 ideal: Independence
@@ -15,12 +15,14 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 1/2
   written: 2nd of Avanent
-origin: Aldercrown Empire
+origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Hudsen Aluendalee
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Bard
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 37
 tags:
 - Human
+- Floating Island
 - Bard
 - Protection
 - 4th
@@ -43,13 +46,18 @@ tags:
 # Astinus Sythaeryn
 ---
 ### Description
-- 4th year Human Bard in Fiesn
-- short straight lighter blonde hair that's wild, Pale Blue eyes, and Brown skin
+- Human Bard from Principality of the Palus Peoples
+- 4th year Protection student in Fiesn
+- long curly auburn hair that's plain, Pale Blue eyes, and Brown skin
 - Is Thrifty and Aimless, and has Independence as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Hudsen Aluendalee]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Astinus Sythaeryn

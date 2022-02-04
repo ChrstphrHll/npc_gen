@@ -1,7 +1,7 @@
 ---
 name: Jasjen Nlossae
 race: Dragonborn
-hair: 2 straight horns
+hair: frills
 eyes: Brown
 skin: blue
 ideal: Caring
@@ -13,7 +13,8 @@ bond: It is my duty to protect my students.
 birthday:
   numeric: 1/8
   written: 8th of Avanent
-origin: Beleriand
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Eligio Nevarth
@@ -21,6 +22,7 @@ relationships:
 - name: Q Yulmanda
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Bard
 stats:
@@ -35,6 +37,7 @@ guild: Burk
 partyID: 65
 tags:
 - Dragonborn
+- Beleriand
 - Bard
 - Diplomacy
 - 2nd
@@ -43,14 +46,19 @@ tags:
 # Jasjen Nlossae
 ---
 ### Description
-- 2nd year Dragonborn Bard in Burk
-- 2 straight horns, Brown eyes, and blue skin
+- Dragonborn Bard from Draconia
+- 2nd year Diplomacy student in Burk
+- frills, Brown eyes, and blue skin
 - Is Solitary and Muddle-headed, and has Caring as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Eligio Nevarth]]: partymate
 [[Q Yulmanda]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jasjen Nlossae

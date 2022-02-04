@@ -1,7 +1,7 @@
 ---
 name: Kaeli Khiiral
 race: Triton
-hair: short curly auburn hair that's wild
+hair: short straight black hair that's messy
 eyes: Brown
 skin: Pale Gray
 ideal: Reciprocity
@@ -15,7 +15,8 @@ bond: I come from a noble family, and one day I'll reclaim my lands and title fr
 birthday:
   numeric: 5/23
   written: 23rd of Iounent
-origin: Aldercrown Empire
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Pinna Vanius
@@ -25,6 +26,7 @@ relationships:
 - name: Ryan Ebersol
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Wizard
 stats:
@@ -39,6 +41,7 @@ guild: Fiesn
 partyID: 89
 tags:
 - Triton
+- Whyndiem
 - Wizard
 - Assault
 - 7th
@@ -47,15 +50,20 @@ tags:
 # Kaeli Khiiral
 ---
 ### Description
-- 7th year Triton Wizard in Fiesn
-- short curly auburn hair that's wild, Brown eyes, and Pale Gray skin
+- Triton Wizard from Whyndiem
+- 7th year Assault student in Fiesn
+- short straight black hair that's messy, Brown eyes, and Pale Gray skin
 - Is Winning and Meretricious, and has Reciprocity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Pinna Vanius]]: partymate
 [[Delos Ehlark]]: partymate
 [[Ryan Ebersol]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Kaeli Khiiral

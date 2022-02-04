@@ -1,7 +1,7 @@
 ---
 name: Jacus Kosunten
 race: Human
-hair: short wavy brunette hair that's put up
+hair: short wavy brunette hair that's plain
 eyes: Pale Gray
 skin: Brown
 ideal: Strength
@@ -15,6 +15,7 @@ birthday:
   numeric: 3/23
   written: 23rd of Melorent
 origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Edyrm Iolas
@@ -22,6 +23,7 @@ relationships:
 - name: Shenai Inqoul
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Monk
 stats:
@@ -36,6 +38,7 @@ guild: Burk
 partyID: 57
 tags:
 - Human
+- Beleriand
 - Monk
 - Exploration
 - 2nd
@@ -44,14 +47,19 @@ tags:
 # Jacus Kosunten
 ---
 ### Description
-- 2nd year Human Monk in Burk
-- short wavy brunette hair that's put up, Pale Gray eyes, and Brown skin
+- Human Monk from Magmus Centerhold
+- 2nd year Exploration student in Burk
+- short wavy brunette hair that's plain, Pale Gray eyes, and Brown skin
 - Is Risk-taking and Pure, and has Strength as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Edyrm Iolas]]: partymate
 [[Shenai Inqoul]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jacus Kosunten

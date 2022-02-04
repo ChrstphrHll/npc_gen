@@ -1,7 +1,7 @@
 ---
 name: Angel Nushala
 race: Dragonborn
-hair: short spines
+hair: many curled horns
 eyes: Pale Blue
 skin: brass
 ideal: Caring
@@ -16,7 +16,8 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 4/10
   written: 10th of Moradent
-origin: Aldercrown Empire
+origin: Floating Island
+voice: null
 relvance: 0
 relationships:
 - name: Leah Faelar
@@ -26,6 +27,7 @@ relationships:
 - name: Tilo Connak
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Artificer
 stats:
@@ -40,6 +42,7 @@ guild: Treskal
 partyID: 17
 tags:
 - Dragonborn
+- Draconia
 - Artificer
 - Diplomacy
 - 1st
@@ -48,15 +51,20 @@ tags:
 # Angel Nushala
 ---
 ### Description
-- 1st year Dragonborn Artificer in Treskal
-- short spines, Pale Blue eyes, and brass skin
+- Dragonborn Artificer from Floating Island
+- 1st year Diplomacy student in Treskal
+- many curled horns, Pale Blue eyes, and brass skin
 - Is Self-conscious and Anxious, and has Caring as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Leah Faelar]]: partymate
 [[Branus Shadegrove]]: partymate
 [[Tilo Connak]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Angel Nushala

@@ -1,7 +1,7 @@
 ---
 name: Hazel Winters
 race: Firbolg
-hair: short curly auburn hair that's braided
+hair: shoulder length wavy red hair that's plain
 eyes: Hazel
 skin: Pale Green
 ideal: Entrepreneurial
@@ -14,7 +14,8 @@ bond: I seek to preserve a sacred text that my enemies consider heretical and se
 birthday:
   numeric: 6/18
   written: 18th of Pelent
-origin: Qualnis
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Murunay Illfate
@@ -22,6 +23,7 @@ relationships:
 - name: Lincon Nylaathria
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Monk
 stats:
@@ -36,6 +38,7 @@ guild: Burk
 partyID: 75
 tags:
 - Firbolg
+- Aldercrown Empire
 - Monk
 - Protection
 - 4th
@@ -44,14 +47,19 @@ tags:
 # Hazel Winters
 ---
 ### Description
-- 4th year Firbolg Monk in Burk
-- short curly auburn hair that's braided, Hazel eyes, and Pale Green skin
+- Firbolg Monk from Aldercrown Empire
+- 4th year Protection student in Burk
+- shoulder length wavy red hair that's plain, Hazel eyes, and Pale Green skin
 - Is Political and Stupid, and has Entrepreneurial as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Murunay Illfate]]: partymate
 [[Lincon Nylaathria]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Hazel Winters

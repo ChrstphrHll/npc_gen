@@ -1,7 +1,7 @@
 ---
 name: Whit Remington
 race: Triton
-hair: shoulder length wavy dirty blonde hair that's plain
+hair: long wavy platinum hair that's messy
 eyes: Pale Blue
 skin: Emerald Green
 ideal: Greed
@@ -14,12 +14,14 @@ bond: I escaped my life of poverty by robbing an important person, and I'm wante
 birthday:
   numeric: 7/23
   written: 23rd of Korent
-origin: Magmus Centerhold
+origin: Kordinia
+voice: null
 relvance: 0
 relationships:
 - name: Hazel Traeliorn
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Wizard
 stats:
@@ -34,6 +36,7 @@ guild: Burk
 partyID: 41
 tags:
 - Triton
+- Whyndiem
 - Wizard
 - Protection
 - 1st
@@ -42,13 +45,18 @@ tags:
 # Whit Remington
 ---
 ### Description
-- 1st year Triton Wizard in Burk
-- shoulder length wavy dirty blonde hair that's plain, Pale Blue eyes, and Emerald Green skin
+- Triton Wizard from Kordinia
+- 1st year Protection student in Burk
+- long wavy platinum hair that's messy, Pale Blue eyes, and Emerald Green skin
 - Is Risk-taking and Irresponsible, and has Greed as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Hazel Traeliorn]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Whit Remington

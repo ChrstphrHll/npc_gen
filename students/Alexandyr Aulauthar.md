@@ -1,7 +1,7 @@
 ---
 name: Alexandyr Aulauthar
 race: Firbolg
-hair: short curly grey hair that's put up
+hair: short curly dark red hair that's messy
 eyes: Pale Blue
 skin: Pale Blue
 ideal: Home
@@ -13,7 +13,8 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 3/20
   written: 20th of Melorent
-origin: Principality of the Palus Peoples
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Coriss Biafyndar
@@ -21,6 +22,7 @@ relationships:
 - name: Adamos Taehr
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Wizard
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 53
 tags:
 - Firbolg
+- Verdain
 - Wizard
 - Diplomacy
 - 5th
@@ -43,14 +46,19 @@ tags:
 # Alexandyr Aulauthar
 ---
 ### Description
-- 5th year Firbolg Wizard in Fiesn
-- short curly grey hair that's put up, Pale Blue eyes, and Pale Blue skin
+- Firbolg Wizard from Verdain
+- 5th year Diplomacy student in Fiesn
+- short curly dark red hair that's messy, Pale Blue eyes, and Pale Blue skin
 - Is Communicative and Ungrateful, and has Home as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Coriss Biafyndar]]: partymate
 [[Adamos Taehr]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Alexandyr Aulauthar

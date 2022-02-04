@@ -1,7 +1,7 @@
 ---
 name: Jofan Elignoir
 race: Triton
-hair: short wavy dark red hair that's well kept
+hair: shoulder length frizzy strawberry blond hair that's well kept
 eyes: Hazel
 skin: Pale Gray
 ideal: Pride
@@ -14,7 +14,8 @@ bond: I will someday get revenge on the corrupt temple hierarchy who branded me 
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-origin: Kordinia
+origin: Glasscliff Garisons
+voice: null
 relvance: 0
 relationships:
 - name: Cam Lazziar
@@ -22,6 +23,7 @@ relationships:
 - name: Rei Mardeiym
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Ranger
 stats:
@@ -36,6 +38,7 @@ guild: Alderden
 partyID: 6
 tags:
 - Triton
+- Whyndiem
 - Ranger
 - Diplomacy
 - 7th
@@ -44,14 +47,19 @@ tags:
 # Jofan Elignoir
 ---
 ### Description
-- 7th year Triton Ranger in Alderden
-- short wavy dark red hair that's well kept, Hazel eyes, and Pale Gray skin
+- Triton Ranger from Glasscliff Garisons
+- 7th year Diplomacy student in Alderden
+- shoulder length frizzy strawberry blond hair that's well kept, Hazel eyes, and Pale Gray skin
 - Is Modest and Snobbish, and has Pride as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Cam Lazziar]]: partymate
 [[Rei Mardeiym]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jofan Elignoir

@@ -1,7 +1,7 @@
 ---
 name: Jareth Tanseril
 race: Gnome
-hair: short curly platinum hair that's plain
+hair: long curly platinum hair that's braided
 eyes: Blue
 skin: Light
 ideal: Learning
@@ -15,7 +15,8 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 6/2
   written: 2nd of Pelent
-origin: Qualnis
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Jaris Amlaruil
@@ -23,6 +24,7 @@ relationships:
 - name: Aksel Strohm
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Artificer
 stats:
@@ -37,6 +39,7 @@ guild: Jettenia
 partyID: 10
 tags:
 - Gnome
+- Shadesburry Initiative
 - Artificer
 - Exploration
 - 7th
@@ -45,14 +48,19 @@ tags:
 # Jareth Tanseril
 ---
 ### Description
-- 7th year Gnome Artificer in Jettenia
-- short curly platinum hair that's plain, Blue eyes, and Light skin
+- Gnome Artificer from Shadesburry Initiative
+- 7th year Exploration student in Jettenia
+- long curly platinum hair that's braided, Blue eyes, and Light skin
 - Is Sage and Unreliable, and has Learning as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jaris Amlaruil]]: partymate
 [[Aksel Strohm]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jareth Tanseril

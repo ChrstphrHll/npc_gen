@@ -1,7 +1,7 @@
 ---
 name: Pippi Langston
 race: Tiefling
-hair: shoulder length straight grey hair that's well kept
+hair: long curly blonde hair that's well kept
 eyes: Orange
 skin: Olive
 ideal: Competition
@@ -14,7 +14,8 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 2/11
   written: 11th of Corelent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Skalanis Kobayashi
@@ -24,6 +25,7 @@ relationships:
 - name: Miglus Yrlissa
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Artificer
 stats:
@@ -38,6 +40,7 @@ guild: Jettenia
 partyID: 4
 tags:
 - Tiefling
+- Aldercrown Empire
 - Artificer
 - Assault
 - 6th
@@ -46,15 +49,20 @@ tags:
 # Pippi Langston
 ---
 ### Description
-- 6th year Tiefling Artificer in Jettenia
-- shoulder length straight grey hair that's well kept, Orange eyes, and Olive skin
+- Tiefling Artificer from Aldercrown Empire
+- 6th year Assault student in Jettenia
+- long curly blonde hair that's well kept, Orange eyes, and Olive skin
 - Is Passionate and Unimaginative, and has Competition as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Skalanis Kobayashi]]: partymate
 [[Jerrick Yarbrough]]: partymate
 [[Miglus Yrlissa]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Pippi Langston

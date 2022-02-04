@@ -1,7 +1,7 @@
 ---
 name: Matto Divya
 race: Gnome
-hair: long straight green hair that's put up
+hair: shoulder length wavy brunette hair that's put up
 eyes: Brown
 skin: Fair
 ideal: Fitness
@@ -14,7 +14,8 @@ bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 7/21
   written: 21st of Korent
-origin: Verdain
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Ysak Llewellenar
@@ -26,6 +27,7 @@ relationships:
 - name: Iasono Ynshael
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Ranger
 stats:
@@ -40,6 +42,7 @@ guild: Jettenia
 partyID: 68
 tags:
 - Gnome
+- Shadesburry Initiative
 - Ranger
 - Assault
 - 1st
@@ -48,16 +51,21 @@ tags:
 # Matto Divya
 ---
 ### Description
-- 1st year Gnome Ranger in Jettenia
-- long straight green hair that's put up, Brown eyes, and Fair skin
+- Gnome Ranger from Shadesburry Initiative
+- 1st year Assault student in Jettenia
+- shoulder length wavy brunette hair that's put up, Brown eyes, and Fair skin
 - Is Stern and Lackadaisical, and has Fitness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Ysak Llewellenar]]: partymate
 [[Alver Boneflare]]: partymate
 [[Garan Mirthal]]: partymate
 [[Iasono Ynshael]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Matto Divya

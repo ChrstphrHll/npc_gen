@@ -1,7 +1,7 @@
 ---
 name: Cam Lazziar
 race: Firbolg
-hair: short straight dark red hair that's braided
+hair: long curly brunette hair that's wild
 eyes: Hazel
 skin: Pale Blue
 ideal: Spontaneity
@@ -14,7 +14,8 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 3/2
   written: 2nd of Melorent
-origin: Magmus Centerhold
+origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Jofan Elignoir
@@ -22,6 +23,7 @@ relationships:
 - name: Rei Mardeiym
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Bard
 stats:
@@ -36,6 +38,7 @@ guild: Alderden
 partyID: 6
 tags:
 - Firbolg
+- Principality of the Palus Peoples
 - Bard
 - Protection
 - 7th
@@ -44,14 +47,19 @@ tags:
 # Cam Lazziar
 ---
 ### Description
-- 7th year Firbolg Bard in Alderden
-- short straight dark red hair that's braided, Hazel eyes, and Pale Blue skin
+- Firbolg Bard from Verdain
+- 7th year Protection student in Alderden
+- long curly brunette hair that's wild, Hazel eyes, and Pale Blue skin
 - Is Obliging and Venal, and has Spontaneity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jofan Elignoir]]: partymate
 [[Rei Mardeiym]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Cam Lazziar

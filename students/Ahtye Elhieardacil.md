@@ -1,7 +1,7 @@
 ---
 name: Ahtye Elhieardacil
 race: Elf
-hair: shoulder length wavy green hair that's plain
+hair: long curly black hair that's plain
 eyes: Amber
 skin: Light Tan
 ideal: Balance
@@ -13,7 +13,8 @@ bond: Something important was taken from me, and I aim to steal it back.
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-origin: Verdain
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Santyeg Kuskyn
@@ -21,6 +22,7 @@ relationships:
 - name: Malchor Tenyajn
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Druid
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 81
 tags:
 - Elf
+- Aldercrown Empire
 - Druid
 - Diplomacy
 - 1st
@@ -43,14 +46,19 @@ tags:
 # Ahtye Elhieardacil
 ---
 ### Description
-- 1st year Elf Druid in Fiesn
-- shoulder length wavy green hair that's plain, Amber eyes, and Light Tan skin
+- Elf Druid from Beleriand
+- 1st year Diplomacy student in Fiesn
+- long curly black hair that's plain, Amber eyes, and Light Tan skin
 - Is Sentimental and Immature, and has Balance as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Santyeg Kuskyn]]: partymate
 [[Malchor Tenyajn]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ahtye Elhieardacil

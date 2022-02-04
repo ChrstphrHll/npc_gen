@@ -1,7 +1,7 @@
 ---
 name: Isaias Vaalyun
 race: Dwarf
-hair: long straight grey hair that's well kept
+hair: short curly auburn hair that's plain
 eyes: Pale Brown
 skin: Dark Brown
 ideal: Logic
@@ -15,7 +15,8 @@ bond: A proud noble once gave me a horrible beating, and I will take my revenge 
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Levy Maendellyn
@@ -23,6 +24,7 @@ relationships:
 - name: Jacoby Maeraddyth
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Cleric
 stats:
@@ -37,6 +39,7 @@ guild: Burk
 partyID: 36
 tags:
 - Dwarf
+- Magmus Centerhold
 - Cleric
 - Diplomacy
 - 2nd
@@ -45,14 +48,19 @@ tags:
 # Isaias Vaalyun
 ---
 ### Description
-- 2nd year Dwarf Cleric in Burk
-- long straight grey hair that's well kept, Pale Brown eyes, and Dark Brown skin
+- Dwarf Cleric from Aldercrown Empire
+- 2nd year Diplomacy student in Burk
+- short curly auburn hair that's plain, Pale Brown eyes, and Dark Brown skin
 - Is Discerning and Hidebound, and has Logic as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Levy Maendellyn]]: partymate
 [[Jacoby Maeraddyth]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Isaias Vaalyun

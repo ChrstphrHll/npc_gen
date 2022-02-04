@@ -1,7 +1,7 @@
 ---
 name: Valygar Lyklor
 race: Firbolg
-hair: long straight auburn hair that's plain
+hair: short straight brunette hair that's wild
 eyes: Pale Blue
 skin: Pale Green
 ideal: Responsibility
@@ -15,6 +15,7 @@ birthday:
   numeric: 5/26
   written: 26th of Iounent
 origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Lyonus Ioelena
@@ -22,6 +23,7 @@ relationships:
 - name: Hagar Sakrattars
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Cleric
 stats:
@@ -36,6 +38,7 @@ guild: Burk
 partyID: 86
 tags:
 - Firbolg
+- Verdain
 - Cleric
 - Protection
 - 2nd
@@ -44,14 +47,19 @@ tags:
 # Valygar Lyklor
 ---
 ### Description
-- 2nd year Firbolg Cleric in Burk
-- long straight auburn hair that's plain, Pale Blue eyes, and Pale Green skin
+- Firbolg Cleric from Magmus Centerhold
+- 2nd year Protection student in Burk
+- short straight brunette hair that's wild, Pale Blue eyes, and Pale Green skin
 - Is Invulnerable and Assertive, and has Responsibility as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Lyonus Ioelena]]: partymate
 [[Hagar Sakrattars]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Valygar Lyklor

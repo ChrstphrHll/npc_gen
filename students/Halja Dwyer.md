@@ -1,7 +1,7 @@
 ---
 name: Halja Dwyer
 race: Tiefling
-hair: short wavy pink hair that's plain
+hair: shoulder length curly grey hair that's plain
 eyes: Spring Green
 skin: Pale Blue
 ideal: Prosperity
@@ -13,12 +13,14 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 5/10
   written: 10th of Iounent
-origin: Beleriand
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Yathlanae Arkhun
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Fighter
 stats:
@@ -33,6 +35,7 @@ guild: Alderden
 partyID: 55
 tags:
 - Tiefling
+- Beleriand
 - Fighter
 - Exploration
 - 1st
@@ -41,13 +44,18 @@ tags:
 # Halja Dwyer
 ---
 ### Description
-- 1st year Tiefling Fighter in Alderden
-- short wavy pink hair that's plain, Spring Green eyes, and Pale Blue skin
+- Tiefling Fighter from Aldercrown Empire
+- 1st year Exploration student in Alderden
+- shoulder length curly grey hair that's plain, Spring Green eyes, and Pale Blue skin
 - Is Iconoclastic and Stingy, and has Prosperity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Yathlanae Arkhun]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Halja Dwyer

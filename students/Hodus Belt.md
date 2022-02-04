@@ -1,7 +1,7 @@
 ---
 name: Hodus Belt
 race: Elf
-hair: shoulder length wavy blonde hair that's well kept
+hair: shoulder length straight brunette hair that's wild
 eyes: Pale Gray
 skin: Brown
 ideal: Harmony
@@ -14,7 +14,8 @@ bond: In a harbor town, I have a paramour whose eyes nearly stole me from the se
 birthday:
   numeric: 1/15
   written: 15th of Avanent
-origin: Qualnis
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Shike Thalaera
@@ -24,6 +25,7 @@ relationships:
 - name: Genesys Mhaenal
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Bard
 stats:
@@ -38,6 +40,7 @@ guild: Burk
 partyID: 38
 tags:
 - Elf
+- Beleriand
 - Bard
 - Assault
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Hodus Belt
 ---
 ### Description
-- 1st year Elf Bard in Burk
-- shoulder length wavy blonde hair that's well kept, Pale Gray eyes, and Brown skin
+- Elf Bard from Aldercrown Empire
+- 1st year Assault student in Burk
+- shoulder length straight brunette hair that's wild, Pale Gray eyes, and Brown skin
 - Is Lucky and Vindictive, and has Harmony as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Shike Thalaera]]: partymate
 [[Delja Iefyr]]: partymate
 [[Genesys Mhaenal]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Hodus Belt

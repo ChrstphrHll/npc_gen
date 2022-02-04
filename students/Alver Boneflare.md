@@ -1,7 +1,7 @@
 ---
 name: Alver Boneflare
 race: Goliath
-hair: long curly dirty blonde hair that's plain
+hair: short curly auburn hair that's braided
 eyes: Pale Green
 skin: Light Tan
 ideal: Creativity
@@ -15,7 +15,8 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 3/27
   written: 27th of Melorent
-origin: Principality of the Palus Peoples
+origin: Chillwild Peaks
+voice: null
 relvance: 0
 relationships:
 - name: Matto Divya
@@ -27,6 +28,7 @@ relationships:
 - name: Iasono Ynshael
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Cleric
 stats:
@@ -41,6 +43,7 @@ guild: Jettenia
 partyID: 68
 tags:
 - Goliath
+- Chillwild Peaks
 - Cleric
 - Protection
 - 1st
@@ -49,16 +52,21 @@ tags:
 # Alver Boneflare
 ---
 ### Description
-- 1st year Goliath Cleric in Jettenia
-- long curly dirty blonde hair that's plain, Pale Green eyes, and Light Tan skin
+- Goliath Cleric from Chillwild Peaks
+- 1st year Protection student in Jettenia
+- short curly auburn hair that's braided, Pale Green eyes, and Light Tan skin
 - Is Reflective and Cold-hearted, and has Creativity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Matto Divya]]: partymate
 [[Ysak Llewellenar]]: partymate
 [[Garan Mirthal]]: partymate
 [[Iasono Ynshael]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Alver Boneflare

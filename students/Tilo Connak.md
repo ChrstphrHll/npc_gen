@@ -1,7 +1,7 @@
 ---
 name: Tilo Connak
 race: Tiefling
-hair: shoulder length wavy strawberry blond hair that's messy
+hair: short straight platinum hair that's plain
 eyes: Pale Brown
 skin: Olive
 ideal: Humane
@@ -14,7 +14,8 @@ bond: The common folk must see me as a hero of the people.
 birthday:
   numeric: 5/26
   written: 26th of Iounent
-origin: Beleriand
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Leah Faelar
@@ -24,6 +25,7 @@ relationships:
 - name: Angel Nushala
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Ranger
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 17
 tags:
 - Tiefling
+- Verdain
 - Ranger
 - Diplomacy
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Tilo Connak
 ---
 ### Description
-- 1st year Tiefling Ranger in Treskal
-- shoulder length wavy strawberry blond hair that's messy, Pale Brown eyes, and Olive skin
+- Tiefling Ranger from Magmus Centerhold
+- 1st year Diplomacy student in Treskal
+- short straight platinum hair that's plain, Pale Brown eyes, and Olive skin
 - Is Gritty and Modern, and has Humane as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Leah Faelar]]: partymate
 [[Branus Shadegrove]]: partymate
 [[Angel Nushala]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Tilo Connak

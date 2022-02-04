@@ -1,7 +1,7 @@
 ---
 name: Gormoth Shyrrik
 race: Dwarf
-hair: short straight dirty blonde hair that's plain
+hair: shoulder length wavy dirty blonde hair that's plain
 eyes: Brown
 skin: Pale
 ideal: Spiritualism
@@ -13,7 +13,8 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 4/19
   written: 19th of Moradent
-origin: Chilliwld Peaks
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Kymber Korrigash
@@ -21,6 +22,7 @@ relationships:
 - name: Vaellyn Esyae
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Paladin
 stats:
@@ -35,6 +37,7 @@ guild: Jettenia
 partyID: 33
 tags:
 - Dwarf
+- Magmus Centerhold
 - Paladin
 - Exploration
 - 2nd
@@ -43,14 +46,19 @@ tags:
 # Gormoth Shyrrik
 ---
 ### Description
-- 2nd year Dwarf Paladin in Jettenia
-- short straight dirty blonde hair that's plain, Brown eyes, and Pale skin
+- Dwarf Paladin from Aldercrown Empire
+- 2nd year Exploration student in Jettenia
+- shoulder length wavy dirty blonde hair that's plain, Brown eyes, and Pale skin
 - Is Lucky and Finicky, and has Spiritualism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kymber Korrigash]]: partymate
 [[Vaellyn Esyae]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Gormoth Shyrrik

@@ -1,7 +1,7 @@
 ---
 name: Yakob Lydialeera
 race: Dragonborn
-hair: 4 jagged horns
+hair: 2 barbed horns
 eyes: Deep Blue
 skin: blue
 ideal: Fitness
@@ -13,7 +13,8 @@ bond: I owe my guild a great debt for forging me into the person I am today.
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
-origin: Magmus Centerhold
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Wulfe Galan
@@ -23,6 +24,7 @@ relationships:
 - name: Lichie Halliwell
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Fighter
 stats:
@@ -37,6 +39,7 @@ guild: Elkenval
 partyID: 82
 tags:
 - Dragonborn
+- Draconia
 - Fighter
 - Protection
 - 1st
@@ -45,15 +48,20 @@ tags:
 # Yakob Lydialeera
 ---
 ### Description
-- 1st year Dragonborn Fighter in Elkenval
-- 4 jagged horns, Deep Blue eyes, and blue skin
+- Dragonborn Fighter from Draconia
+- 1st year Protection student in Elkenval
+- 2 barbed horns, Deep Blue eyes, and blue skin
 - Is Chummy and Ambitious, and has Fitness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Wulfe Galan]]: partymate
 [[Nicolle Shandalar]]: partymate
 [[Lichie Halliwell]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Yakob Lydialeera

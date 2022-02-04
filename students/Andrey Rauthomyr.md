@@ -1,7 +1,7 @@
 ---
 name: Andrey Rauthomyr
 race: Gnome
-hair: short curly blonde hair that's wild
+hair: long straight brunette hair that's messy
 eyes: Hazel
 skin: Dark Tan
 ideal: Compassion
@@ -13,7 +13,8 @@ bond: I worked the land, I love the land, and I will protect the land.
 birthday:
   numeric: 5/6
   written: 6th of Iounent
-origin: Qualnis
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Jandar Pleufan
@@ -25,6 +26,7 @@ relationships:
 - name: Emilanus Shields
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Artificer
 stats:
@@ -39,6 +41,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Gnome
+- Shadesburry Initiative
 - Artificer
 - Assault
 - 1st
@@ -47,16 +50,21 @@ tags:
 # Andrey Rauthomyr
 ---
 ### Description
-- 1st year Gnome Artificer in Elkenval
-- short curly blonde hair that's wild, Hazel eyes, and Dark Tan skin
+- Gnome Artificer from Magmus Centerhold
+- 1st year Assault student in Elkenval
+- long straight brunette hair that's messy, Hazel eyes, and Dark Tan skin
 - Is Trusting and Unrealistic, and has Compassion as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Jandar Pleufan]]: partymate
 [[Kimbera Alerathla]]: partymate
 [[Allyson Vindinglag]]: partymate
 [[Emilanus Shields]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Andrey Rauthomyr

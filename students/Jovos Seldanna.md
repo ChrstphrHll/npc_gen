@@ -1,7 +1,7 @@
 ---
 name: Jovos Seldanna
 race: Half-Elf
-hair: short wavy blonde hair that's put up
+hair: long straight white hair that's messy
 eyes: Brown
 skin: Light Tan
 ideal: Peace
@@ -14,7 +14,8 @@ bond: It is my duty to protect my students.
 birthday:
   numeric: 3/23
   written: 23rd of Melorent
-origin: Chilliwld Peaks
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Railyn Retenia
@@ -24,6 +25,7 @@ relationships:
 - name: Jaxon Brindarry
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Paladin
 stats:
@@ -38,6 +40,7 @@ guild: Jettenia
 partyID: 28
 tags:
 - Half-Elf
+- Magmus Centerhold
 - Paladin
 - Assault
 - 3rd
@@ -46,15 +49,20 @@ tags:
 # Jovos Seldanna
 ---
 ### Description
-- 3rd year Half-Elf Paladin in Jettenia
-- short wavy blonde hair that's put up, Brown eyes, and Light Tan skin
+- Half-Elf Paladin from Beleriand
+- 3rd year Assault student in Jettenia
+- long straight white hair that's messy, Brown eyes, and Light Tan skin
 - Is Suave and Crude, and has Peace as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Railyn Retenia]]: partymate
 [[Cartyr Tamsin]]: partymate
 [[Jaxon Brindarry]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jovos Seldanna

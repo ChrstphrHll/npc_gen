@@ -1,7 +1,7 @@
 ---
 name: Olbern Uldreiyn
 race: Human
-hair: shoulder length straight dark red hair that's braided
+hair: short wavy strawberry blond hair that's messy
 eyes: Blue
 skin: Pale
 ideal: Leadership
@@ -14,12 +14,14 @@ bond: I have a family, but I have no idea where they are. One day, I hope to see
 birthday:
   numeric: 6/32
   written: 32nd of Pelent
-origin: Shadesburry Initiative
+origin: Qualnis
+voice: null
 relvance: 0
 relationships:
 - name: Connovar Kaminsky
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Sorcerer
 stats:
@@ -34,6 +36,7 @@ guild: Treskal
 partyID: 62
 tags:
 - Human
+- Magmus Centerhold
 - Sorcerer
 - Assault
 - 4th
@@ -42,13 +45,18 @@ tags:
 # Olbern Uldreiyn
 ---
 ### Description
-- 4th year Human Sorcerer in Treskal
-- shoulder length straight dark red hair that's braided, Blue eyes, and Pale skin
+- Human Sorcerer from Qualnis
+- 4th year Assault student in Treskal
+- short wavy strawberry blond hair that's messy, Blue eyes, and Pale skin
 - Is Merciful and Stubborn, and has Leadership as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Connovar Kaminsky]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Olbern Uldreiyn

@@ -1,7 +1,7 @@
 ---
 name: Kova Tamara
 race: Firbolg
-hair: long curly dark red hair that's plain
+hair: shoulder length straight red hair that's well kept
 eyes: Green
 skin: Pale Brown
 ideal: Competition
@@ -14,7 +14,8 @@ bond: Should my discovery come to light, it could bring ruin to the world.
 birthday:
   numeric: 4/3
   written: 3rd of Moradent
-origin: Verdain
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Adrjia Lysanthir
@@ -26,6 +27,7 @@ relationships:
 - name: Evylen Nese
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Fighter
 stats:
@@ -40,6 +42,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Firbolg
+- Verdain
 - Fighter
 - Assault
 - 1st
@@ -48,16 +51,21 @@ tags:
 # Kova Tamara
 ---
 ### Description
-- 1st year Firbolg Fighter in Treskal
-- long curly dark red hair that's plain, Green eyes, and Pale Brown skin
+- Firbolg Fighter from Aldercrown Empire
+- 1st year Assault student in Treskal
+- shoulder length straight red hair that's well kept, Green eyes, and Pale Brown skin
 - Is Dynamic and Modern, and has Competition as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Adrjia Lysanthir]]: partymate
 [[Es'beth Yesheln]]: partymate
 [[Jaedyn Arbane]]: partymate
 [[Evylen Nese]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Kova Tamara

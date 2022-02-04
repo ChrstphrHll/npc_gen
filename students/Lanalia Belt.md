@@ -1,7 +1,7 @@
 ---
 name: Lanalia Belt
 race: Elf
-hair: short straight red hair that's plain
+hair: short wavy auburn hair that's plain
 eyes: Brown
 skin: Light Tan
 ideal: Hard Work
@@ -16,7 +16,8 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 7/6
   written: 6th of Korent
-origin: Verdain
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Bela Qwey
@@ -24,6 +25,7 @@ relationships:
 - name: Rossan Jonik
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Paladin
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 67
 tags:
 - Elf
+- Aldercrown Empire
 - Paladin
 - Diplomacy
 - 3rd
@@ -46,14 +49,19 @@ tags:
 # Lanalia Belt
 ---
 ### Description
-- 3rd year Elf Paladin in Treskal
-- short straight red hair that's plain, Brown eyes, and Light Tan skin
+- Elf Paladin from Aldercrown Empire
+- 3rd year Diplomacy student in Treskal
+- short wavy auburn hair that's plain, Brown eyes, and Light Tan skin
 - Is Organised and Insecure, and has Hard Work as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Bela Qwey]]: partymate
 [[Rossan Jonik]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Lanalia Belt

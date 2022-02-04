@@ -1,7 +1,7 @@
 ---
 name: Kendel Shael
 race: Firbolg
-hair: long curly green hair that's plain
+hair: shoulder length wavy blonde hair that's plain
 eyes: Gray
 skin: Pale Blue
 ideal: Finesse
@@ -15,6 +15,7 @@ birthday:
   numeric: 7/26
   written: 26th of Korent
 origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Hessos Adorellan
@@ -22,6 +23,7 @@ relationships:
 - name: Asmiak Seirye
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Rouge
 stats:
@@ -36,6 +38,7 @@ guild: Alderden
 partyID: 43
 tags:
 - Firbolg
+- Verdain
 - Rouge
 - Exploration
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Kendel Shael
 ---
 ### Description
-- 1st year Firbolg Rouge in Alderden
-- long curly green hair that's plain, Gray eyes, and Pale Blue skin
+- Firbolg Rouge from Principality of the Palus Peoples
+- 1st year Exploration student in Alderden
+- shoulder length wavy blonde hair that's plain, Gray eyes, and Pale Blue skin
 - Is Concerned and Muddle-headed, and has Finesse as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Hessos Adorellan]]: partymate
 [[Asmiak Seirye]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Kendel Shael

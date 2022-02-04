@@ -1,7 +1,7 @@
 ---
 name: Jamye Napraeleon
 race: Dragonborn
-hair: frills
+hair: long spines
 eyes: Purple
 skin: red
 ideal: Cunning
@@ -14,7 +14,8 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 5/20
   written: 20th of Iounent
-origin: Qualnis
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Cirvlon Elpaerae
@@ -22,6 +23,7 @@ relationships:
 - name: Gianna Rhistel
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Wizard
 stats:
@@ -36,6 +38,7 @@ guild: Alderden
 partyID: 73
 tags:
 - Dragonborn
+- Magmus Centerhold
 - Wizard
 - Assault
 - 2nd
@@ -44,14 +47,19 @@ tags:
 # Jamye Napraeleon
 ---
 ### Description
-- 2nd year Dragonborn Wizard in Alderden
-- frills, Purple eyes, and red skin
+- Dragonborn Wizard from Draconia
+- 2nd year Assault student in Alderden
+- long spines, Purple eyes, and red skin
 - Is Experimental and Rigid, and has Cunning as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Cirvlon Elpaerae]]: partymate
 [[Gianna Rhistel]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Jamye Napraeleon

@@ -1,7 +1,7 @@
 ---
 name: Ungris Riluaneth
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Deep Blue
 skin: red
 ideal: Beauty
@@ -14,7 +14,8 @@ bond: Somewhere out there, I have a child who doesn't know me. I'm making the wo
 birthday:
   numeric: 8/19
   written: 19th of Ravenent
-origin: Principality of the Palus Peoples
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Gerrimar Vulkor
@@ -22,6 +23,7 @@ relationships:
 - name: Cerridwen Durothil
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Cleric
 stats:
@@ -36,6 +38,7 @@ guild: Treskal
 partyID: 63
 tags:
 - Dragonborn
+- Draconia
 - Cleric
 - Diplomacy
 - 5th
@@ -44,14 +47,19 @@ tags:
 # Ungris Riluaneth
 ---
 ### Description
-- 5th year Dragonborn Cleric in Treskal
-- short spines, Deep Blue eyes, and red skin
+- Dragonborn Cleric from Aldercrown Empire
+- 5th year Diplomacy student in Treskal
+- frills, Deep Blue eyes, and red skin
 - Is Sincere and Cruel, and has Beauty as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Gerrimar Vulkor]]: partymate
 [[Cerridwen Durothil]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ungris Riluaneth

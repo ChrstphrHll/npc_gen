@@ -1,7 +1,7 @@
 ---
 name: Skalanis Kobayashi
 race: Halfling
-hair: short curly strawberry blond hair that's plain
+hair: long wavy dirty blonde hair that's well kept
 eyes: Pale Blue
 skin: Dark Tan
 ideal: Connection
@@ -13,7 +13,8 @@ bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 2/30
   written: 30th of Corelent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Pippi Langston
@@ -23,6 +24,7 @@ relationships:
 - name: Miglus Yrlissa
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Druid
 stats:
@@ -37,6 +39,7 @@ guild: Jettenia
 partyID: 4
 tags:
 - Halfling
+- Kordinia
 - Druid
 - Exploration
 - 6th
@@ -45,15 +48,20 @@ tags:
 # Skalanis Kobayashi
 ---
 ### Description
-- 6th year Halfling Druid in Jettenia
-- short curly strawberry blond hair that's plain, Pale Blue eyes, and Dark Tan skin
+- Halfling Druid from Aldercrown Empire
+- 6th year Exploration student in Jettenia
+- long wavy dirty blonde hair that's well kept, Pale Blue eyes, and Dark Tan skin
 - Is Profound and High-handed, and has Connection as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Pippi Langston]]: partymate
 [[Jerrick Yarbrough]]: partymate
 [[Miglus Yrlissa]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Skalanis Kobayashi

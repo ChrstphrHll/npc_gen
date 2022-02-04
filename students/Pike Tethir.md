@@ -1,7 +1,7 @@
 ---
 name: Pike Tethir
 race: Human
-hair: long curly brunette hair that's well kept
+hair: long straight platinum hair that's well kept
 eyes: Pale Gray
 skin: Brown
 ideal: Cooperation
@@ -15,7 +15,8 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 2/24
   written: 24th of Corelent
-origin: Qualnis
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Nathan Laeroth
@@ -23,6 +24,7 @@ relationships:
 - name: Jendrellian Webb
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Barbarian
 stats:
@@ -37,6 +39,7 @@ guild: Elkenval
 partyID: 64
 tags:
 - Human
+- Beleriand
 - Barbarian
 - Diplomacy
 - 1st
@@ -45,14 +48,19 @@ tags:
 # Pike Tethir
 ---
 ### Description
-- 1st year Human Barbarian in Elkenval
-- long curly brunette hair that's well kept, Pale Gray eyes, and Brown skin
+- Human Barbarian from Beleriand
+- 1st year Diplomacy student in Elkenval
+- long straight platinum hair that's well kept, Pale Gray eyes, and Brown skin
 - Is Seraphic and Boisterous, and has Cooperation as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Nathan Laeroth]]: partymate
 [[Jendrellian Webb]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Pike Tethir

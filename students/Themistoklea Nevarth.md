@@ -1,7 +1,7 @@
 ---
 name: Themistoklea Nevarth
 race: Human
-hair: short wavy white hair that's braided
+hair: long curly brunette hair that's put up
 eyes: Pale Brown
 skin: Dark Brown
 ideal: Patience
@@ -14,7 +14,8 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 5/27
   written: 27th of Iounent
-origin: Beleriand
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Willam Ardryll
@@ -24,6 +25,7 @@ relationships:
 - name: Lucoe Lorelei
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Monk
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Human
+- Beleriand
 - Monk
 - Diplomacy
 - 2nd
@@ -46,15 +49,20 @@ tags:
 # Themistoklea Nevarth
 ---
 ### Description
-- 2nd year Human Monk in Treskal
-- short wavy white hair that's braided, Pale Brown eyes, and Dark Brown skin
+- Human Monk from Whyndiem
+- 2nd year Diplomacy student in Treskal
+- long curly brunette hair that's put up, Pale Brown eyes, and Dark Brown skin
 - Is Invulnerable and Neglectful, and has Patience as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Willam Ardryll]]: partymate
 [[Graisen Thalanil]]: partymate
 [[Lucoe Lorelei]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Themistoklea Nevarth

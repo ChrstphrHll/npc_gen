@@ -1,7 +1,7 @@
 ---
 name: Shinare Bersa
 race: Tiefling
-hair: short curly grey hair that's plain
+hair: long curly violet hair that's plain
 eyes: Spring Green
 skin: Violet Red
 ideal: Uncaring
@@ -14,7 +14,8 @@ bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 1/23
   written: 23rd of Avanent
-origin: Qualnis
+origin: Kordinia
+voice: null
 relvance: 0
 relationships:
 - name: Ezros Laerdya
@@ -24,6 +25,7 @@ relationships:
 - name: Valerya Haldreithen
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Ranger
 stats:
@@ -38,6 +40,7 @@ guild: Fiesn
 partyID: 18
 tags:
 - Tiefling
+- Shadesburry Initiative
 - Ranger
 - Exploration
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Shinare Bersa
 ---
 ### Description
-- 1st year Tiefling Ranger in Fiesn
-- short curly grey hair that's plain, Spring Green eyes, and Violet Red skin
+- Tiefling Ranger from Kordinia
+- 1st year Exploration student in Fiesn
+- long curly violet hair that's plain, Spring Green eyes, and Violet Red skin
 - Is Admirable and Invisible, and has Uncaring as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Ezros Laerdya]]: partymate
 [[Rjanna Eroan]]: partymate
 [[Valerya Haldreithen]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Shinare Bersa

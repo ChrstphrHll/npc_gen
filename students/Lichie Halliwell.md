@@ -1,7 +1,7 @@
 ---
 name: Lichie Halliwell
 race: Goliath
-hair: short straight brunette hair that's braided
+hair: long wavy lighter blonde hair that's messy
 eyes: Gray
 skin: Fair
 ideal: Patience
@@ -15,6 +15,7 @@ birthday:
   numeric: 4/11
   written: 11th of Moradent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Wulfe Galan
@@ -24,6 +25,7 @@ relationships:
 - name: Nicolle Shandalar
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Druid
 stats:
@@ -38,6 +40,7 @@ guild: Elkenval
 partyID: 82
 tags:
 - Goliath
+- Chillwild Peaks
 - Druid
 - Assault
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Lichie Halliwell
 ---
 ### Description
-- 1st year Goliath Druid in Elkenval
-- short straight brunette hair that's braided, Gray eyes, and Fair skin
+- Goliath Druid from Aldercrown Empire
+- 1st year Assault student in Elkenval
+- long wavy lighter blonde hair that's messy, Gray eyes, and Fair skin
 - Is Accessible and Intemperate, and has Patience as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Wulfe Galan]]: partymate
 [[Yakob Lydialeera]]: partymate
 [[Nicolle Shandalar]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Lichie Halliwell

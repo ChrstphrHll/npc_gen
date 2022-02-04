@@ -1,7 +1,7 @@
 ---
 name: Asralyn Rhangyl
 race: Elf
-hair: short curly lighter blonde hair that's messy
+hair: shoulder length curly auburn hair that's plain
 eyes: Pale Blue
 skin: Brown
 ideal: Effectiveness
@@ -16,11 +16,13 @@ birthday:
   numeric: 3/16
   written: 16th of Melorent
 origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Eljana Jian
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Ranger
 stats:
@@ -35,6 +37,7 @@ guild: Fiesn
 partyID: 71
 tags:
 - Elf
+- Aldercrown Empire
 - Ranger
 - Assault
 - 5th
@@ -43,13 +46,18 @@ tags:
 # Asralyn Rhangyl
 ---
 ### Description
-- 5th year Elf Ranger in Fiesn
-- short curly lighter blonde hair that's messy, Pale Blue eyes, and Brown skin
+- Elf Ranger from Beleriand
+- 5th year Assault student in Fiesn
+- shoulder length curly auburn hair that's plain, Pale Blue eyes, and Brown skin
 - Is Magnanimous and Quiet, and has Effectiveness as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Eljana Jian]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Asralyn Rhangyl

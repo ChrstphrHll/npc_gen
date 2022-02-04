@@ -1,7 +1,7 @@
 ---
 name: Graisen Thalanil
 race: Half-Orc
-hair: shoulder length straight black hair that's wild
+hair: shoulder length straight lighter blonde hair that's well kept
 eyes: Pale Green
 skin: Deep Green
 ideal: Encouragement
@@ -13,7 +13,8 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 5/27
   written: 27th of Iounent
-origin: Qualnis
+origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Willam Ardryll
@@ -23,6 +24,7 @@ relationships:
 - name: Lucoe Lorelei
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Cleric
 stats:
@@ -37,6 +39,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Half-Orc
+- Magmus Centerhold
 - Cleric
 - Assault
 - 2nd
@@ -45,15 +48,20 @@ tags:
 # Graisen Thalanil
 ---
 ### Description
-- 2nd year Half-Orc Cleric in Treskal
-- shoulder length straight black hair that's wild, Pale Green eyes, and Deep Green skin
+- Half-Orc Cleric from Principality of the Palus Peoples
+- 2nd year Assault student in Treskal
+- shoulder length straight lighter blonde hair that's well kept, Pale Green eyes, and Deep Green skin
 - Is Intense and Envious, and has Encouragement as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Willam Ardryll]]: partymate
 [[Themistoklea Nevarth]]: partymate
 [[Lucoe Lorelei]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Graisen Thalanil

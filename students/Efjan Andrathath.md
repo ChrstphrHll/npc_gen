@@ -1,7 +1,7 @@
 ---
 name: Efjan Andrathath
 race: Gnome
-hair: short wavy brunette hair that's plain
+hair: shoulder length wavy black hair that's plain
 eyes: Amber
 skin: Light
 ideal: Flexibility
@@ -14,7 +14,8 @@ bond: I work to preserve a library, university, scriptorium, or monastery.
 birthday:
   numeric: 4/7
   written: 7th of Moradent
-origin: Aldercrown Empire
+origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Taanyth Seeker
@@ -22,6 +23,7 @@ relationships:
 - name: Averra Taleisin
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Druid
 stats:
@@ -36,6 +38,7 @@ guild: Burk
 partyID: 31
 tags:
 - Gnome
+- Shadesburry Initiative
 - Druid
 - Protection
 - 1st
@@ -44,14 +47,19 @@ tags:
 # Efjan Andrathath
 ---
 ### Description
-- 1st year Gnome Druid in Burk
-- short wavy brunette hair that's plain, Amber eyes, and Light skin
+- Gnome Druid from Principality of the Palus Peoples
+- 1st year Protection student in Burk
+- shoulder length wavy black hair that's plain, Amber eyes, and Light skin
 - Is Invisible and Brutal, and has Flexibility as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Taanyth Seeker]]: partymate
 [[Averra Taleisin]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Efjan Andrathath

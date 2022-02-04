@@ -1,7 +1,7 @@
 ---
 name: Alkindus Llamryl
 race: Half-Elf
-hair: shoulder length curly auburn hair that's wild
+hair: long curly dark red hair that's well kept
 eyes: Hazel
 skin: Light
 ideal: Order
@@ -14,7 +14,8 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 4/19
   written: 19th of Moradent
-origin: Magmus Centerhold
+origin: Principality of the Palus Peoples
+voice: null
 relvance: 0
 relationships:
 - name: Audree Dixon
@@ -24,6 +25,7 @@ relationships:
 - name: Lea Nuvian
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Sorcerer
 stats:
@@ -38,6 +40,7 @@ guild: Alderden
 partyID: 56
 tags:
 - Half-Elf
+- Aldercrown Empire
 - Sorcerer
 - Assault
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Alkindus Llamryl
 ---
 ### Description
-- 1st year Half-Elf Sorcerer in Alderden
-- shoulder length curly auburn hair that's wild, Hazel eyes, and Light skin
+- Half-Elf Sorcerer from Principality of the Palus Peoples
+- 1st year Assault student in Alderden
+- long curly dark red hair that's well kept, Hazel eyes, and Light skin
 - Is Rustic and Pessimistic, and has Order as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Audree Dixon]]: partymate
 [[Aryana Ahrendue]]: partymate
 [[Lea Nuvian]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Alkindus Llamryl

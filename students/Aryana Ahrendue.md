@@ -13,7 +13,8 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 1/30
   written: 30th of Avanent
-origin: Aldercrown Empire
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Audree Dixon
@@ -23,6 +24,7 @@ relationships:
 - name: Lea Nuvian
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Barbarian
 stats:
@@ -37,6 +39,7 @@ guild: Alderden
 partyID: 56
 tags:
 - Dragonborn
+- Draconia
 - Barbarian
 - Protection
 - 1st
@@ -45,15 +48,20 @@ tags:
 # Aryana Ahrendue
 ---
 ### Description
-- 1st year Dragonborn Barbarian in Alderden
+- Dragonborn Barbarian from Draconia
+- 1st year Protection student in Alderden
 - short spines, Brown eyes, and white skin
 - Is Youthful and Money-minded, and has Connection as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Audree Dixon]]: partymate
 [[Alkindus Llamryl]]: partymate
 [[Lea Nuvian]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Aryana Ahrendue

@@ -1,7 +1,7 @@
 ---
 name: Gunnar Ordayius
 race: Human
-hair: short frizzy strawberry blond hair that's well kept
+hair: shoulder length wavy auburn hair that's well kept
 eyes: Amber
 skin: Light
 ideal: Enjoyment
@@ -15,7 +15,8 @@ bond: I have a family, but I have no idea where they are. One day, I hope to see
 birthday:
   numeric: 1/17
   written: 17th of Avanent
-origin: Shadesburry Initiative
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Noam Shields
@@ -25,6 +26,7 @@ relationships:
 - name: Remus Manchul
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Druid
 stats:
@@ -39,6 +41,7 @@ guild: Burk
 partyID: 59
 tags:
 - Human
+- Magmus Centerhold
 - Druid
 - Diplomacy
 - 4th
@@ -47,15 +50,20 @@ tags:
 # Gunnar Ordayius
 ---
 ### Description
-- 4th year Human Druid in Burk
-- short frizzy strawberry blond hair that's well kept, Amber eyes, and Light skin
+- Human Druid from Aldercrown Empire
+- 4th year Diplomacy student in Burk
+- shoulder length wavy auburn hair that's well kept, Amber eyes, and Light skin
 - Is Shrewd and Mean, and has Enjoyment as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Noam Shields]]: partymate
 [[Saleas Rilitar]]: partymate
 [[Remus Manchul]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Gunnar Ordayius

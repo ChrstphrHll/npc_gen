@@ -1,7 +1,7 @@
 ---
 name: Es'beth Yesheln
 race: Elf
-hair: long wavy white hair that's put up
+hair: shoulder length straight strawberry blond hair that's plain
 eyes: Pale Blue
 skin: Light
 ideal: Simplicity
@@ -13,7 +13,8 @@ bond: My life's work is a series of tomes related to a specific field of lore.
 birthday:
   numeric: 7/3
   written: 3rd of Korent
-origin: Beleriand
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Kova Tamara
@@ -25,6 +26,7 @@ relationships:
 - name: Evylen Nese
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Monk
 stats:
@@ -39,6 +41,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Elf
+- Aldercrown Empire
 - Monk
 - Exploration
 - 1st
@@ -47,16 +50,21 @@ tags:
 # Es'beth Yesheln
 ---
 ### Description
-- 1st year Elf Monk in Treskal
-- long wavy white hair that's put up, Pale Blue eyes, and Light skin
+- Elf Monk from Aldercrown Empire
+- 1st year Exploration student in Treskal
+- shoulder length straight strawberry blond hair that's plain, Pale Blue eyes, and Light skin
 - Is Stylish and Neurotic, and has Simplicity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kova Tamara]]: partymate
 [[Adrjia Lysanthir]]: partymate
 [[Jaedyn Arbane]]: partymate
 [[Evylen Nese]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Es'beth Yesheln

@@ -1,7 +1,7 @@
 ---
 name: Puorlaas Anklos
 race: Tiefling
-hair: shoulder length curly red hair that's plain
+hair: short straight black hair that's braided
 eyes: Red
 skin: Sea Green
 ideal: Freedom
@@ -14,12 +14,14 @@ bond: I sponsor an orphanage to keep others from enduring what I was forced to e
 birthday:
   numeric: 8/13
   written: 13th of Ravenent
-origin: Qualnis
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Marl Ahrendaaria
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Wizard
 stats:
@@ -34,6 +36,7 @@ guild: Jettenia
 partyID: 12
 tags:
 - Tiefling
+- Aldercrown Empire
 - Wizard
 - Protection
 - 2nd
@@ -42,13 +45,18 @@ tags:
 # Puorlaas Anklos
 ---
 ### Description
-- 2nd year Tiefling Wizard in Jettenia
-- shoulder length curly red hair that's plain, Red eyes, and Sea Green skin
+- Tiefling Wizard from Beleriand
+- 2nd year Protection student in Jettenia
+- short straight black hair that's braided, Red eyes, and Sea Green skin
 - Is Popular and Reactive, and has Freedom as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Marl Ahrendaaria]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Puorlaas Anklos

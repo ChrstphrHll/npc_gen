@@ -1,7 +1,7 @@
 ---
 name: Kloya Kershaw
 race: Gnome
-hair: long wavy dirty blonde hair that's put up
+hair: long curly black hair that's put up
 eyes: Amber
 skin: Pale
 ideal: Involvement
@@ -13,7 +13,8 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 7/27
   written: 27th of Korent
-origin: Aldercrown Empire
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Gavyn Sadalymn
@@ -21,6 +22,7 @@ relationships:
 - name: Natylie Rathal
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Bard
 stats:
@@ -35,6 +37,7 @@ guild: Jettenia
 partyID: 97
 tags:
 - Gnome
+- Shadesburry Initiative
 - Bard
 - Protection
 - 5th
@@ -43,14 +46,19 @@ tags:
 # Kloya Kershaw
 ---
 ### Description
-- 5th year Gnome Bard in Jettenia
-- long wavy dirty blonde hair that's put up, Amber eyes, and Pale skin
+- Gnome Bard from Shadesburry Initiative
+- 5th year Protection student in Jettenia
+- long curly black hair that's put up, Amber eyes, and Pale skin
 - Is Heroic and Unconvincing, and has Involvement as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Gavyn Sadalymn]]: partymate
 [[Natylie Rathal]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Kloya Kershaw

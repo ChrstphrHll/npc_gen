@@ -1,7 +1,7 @@
 ---
 name: Connovar Kaminsky
 race: Half-Orc
-hair: short wavy brunette hair that's messy
+hair: short wavy platinum hair that's plain
 eyes: Brown
 skin: Pale Green
 ideal: Creativity
@@ -14,12 +14,14 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 7/28
   written: 28th of Korent
-origin: Beleriand
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Olbern Uldreiyn
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Sorcerer
 stats:
@@ -34,6 +36,7 @@ guild: Treskal
 partyID: 62
 tags:
 - Half-Orc
+- Magmus Centerhold
 - Sorcerer
 - Protection
 - 4th
@@ -42,13 +45,18 @@ tags:
 # Connovar Kaminsky
 ---
 ### Description
-- 4th year Half-Orc Sorcerer in Treskal
-- short wavy brunette hair that's messy, Brown eyes, and Pale Green skin
+- Half-Orc Sorcerer from Magmus Centerhold
+- 4th year Protection student in Treskal
+- short wavy platinum hair that's plain, Brown eyes, and Pale Green skin
 - Is Helpful and Plodding, and has Creativity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Olbern Uldreiyn]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Connovar Kaminsky

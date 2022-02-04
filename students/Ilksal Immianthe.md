@@ -1,7 +1,7 @@
 ---
 name: Ilksal Immianthe
 race: Triton
-hair: short straight blue hair that's messy
+hair: long curly violet hair that's well kept
 eyes: Blue
 skin: Pale Green
 ideal: Spiritualism
@@ -14,12 +14,14 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 5/22
   written: 22nd of Iounent
-origin: Aldercrown Empire
+origin: Glasscliff Garisons
+voice: null
 relvance: 0
 relationships:
 - name: Den Ualair
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Barbarian
 stats:
@@ -34,6 +36,7 @@ guild: Treskal
 partyID: 8
 tags:
 - Triton
+- Whyndiem
 - Barbarian
 - Protection
 - 3rd
@@ -42,13 +45,18 @@ tags:
 # Ilksal Immianthe
 ---
 ### Description
-- 3rd year Triton Barbarian in Treskal
-- short straight blue hair that's messy, Blue eyes, and Pale Green skin
+- Triton Barbarian from Glasscliff Garisons
+- 3rd year Protection student in Treskal
+- long curly violet hair that's well kept, Blue eyes, and Pale Green skin
 - Is Friendly and Shy, and has Spiritualism as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Den Ualair]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ilksal Immianthe

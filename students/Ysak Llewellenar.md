@@ -1,7 +1,7 @@
 ---
 name: Ysak Llewellenar
 race: Dragonborn
-hair: 2 straight horns
+hair: long spines
 eyes: Violet Red
 skin: silver
 ideal: Renewal
@@ -13,7 +13,8 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 5/1
   written: 1st of Iounent
-origin: Qualnis
+origin: Draconia
+voice: null
 relvance: 0
 relationships:
 - name: Matto Divya
@@ -25,6 +26,7 @@ relationships:
 - name: Iasono Ynshael
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Paladin
 stats:
@@ -39,6 +41,7 @@ guild: Jettenia
 partyID: 68
 tags:
 - Dragonborn
+- Draconia
 - Paladin
 - Assault
 - 1st
@@ -47,16 +50,21 @@ tags:
 # Ysak Llewellenar
 ---
 ### Description
-- 1st year Dragonborn Paladin in Jettenia
-- 2 straight horns, Violet Red eyes, and silver skin
+- Dragonborn Paladin from Draconia
+- 1st year Assault student in Jettenia
+- long spines, Violet Red eyes, and silver skin
 - Is Disciplined and Narrow-minded, and has Renewal as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Matto Divya]]: partymate
 [[Alver Boneflare]]: partymate
 [[Garan Mirthal]]: partymate
 [[Iasono Ynshael]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Ysak Llewellenar

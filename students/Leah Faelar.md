@@ -1,7 +1,7 @@
 ---
 name: Leah Faelar
 race: Human
-hair: shoulder length straight blonde hair that's well kept
+hair: long curly auburn hair that's put up
 eyes: Green
 skin: Light Tan
 ideal: Justice
@@ -15,6 +15,7 @@ birthday:
   numeric: 4/7
   written: 7th of Moradent
 origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Branus Shadegrove
@@ -24,6 +25,7 @@ relationships:
 - name: Angel Nushala
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Bard
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 17
 tags:
 - Human
+- Kordinia
 - Bard
 - Exploration
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Leah Faelar
 ---
 ### Description
-- 1st year Human Bard in Treskal
-- shoulder length straight blonde hair that's well kept, Green eyes, and Light Tan skin
+- Human Bard from Beleriand
+- 1st year Exploration student in Treskal
+- long curly auburn hair that's put up, Green eyes, and Light Tan skin
 - Is Intense and Assertive, and has Justice as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Branus Shadegrove]]: partymate
 [[Tilo Connak]]: partymate
 [[Angel Nushala]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Leah Faelar

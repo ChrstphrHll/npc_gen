@@ -1,7 +1,7 @@
 ---
 name: Rivik Connak
 race: Triton
-hair: long wavy brunette hair that's well kept
+hair: long curly auburn hair that's braided
 eyes: Aqua
 skin: Olive
 ideal: Humanity
@@ -15,12 +15,14 @@ bond: I have a family, but I have no idea where they are. One day, I hope to see
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
-origin: Beleriand
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Kessa Keller
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Monk
 stats:
@@ -35,6 +37,7 @@ guild: Elkenval
 partyID: 30
 tags:
 - Triton
+- Glasscliff Garisons
 - Monk
 - Assault
 - 3rd
@@ -43,13 +46,18 @@ tags:
 # Rivik Connak
 ---
 ### Description
-- 3rd year Triton Monk in Elkenval
-- long wavy brunette hair that's well kept, Aqua eyes, and Olive skin
+- Triton Monk from Whyndiem
+- 3rd year Assault student in Elkenval
+- long curly auburn hair that's braided, Aqua eyes, and Olive skin
 - Is Hearty and Neutral, and has Humanity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kessa Keller]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Rivik Connak

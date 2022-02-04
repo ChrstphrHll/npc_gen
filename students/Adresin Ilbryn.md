@@ -1,7 +1,7 @@
 ---
 name: Adresin Ilbryn
 race: Genasi
-hair: shoulder length straight auburn hair that's well kept
+hair: short straight brunette hair that's plain
 eyes: Gray
 skin: air
 ideal: Greed
@@ -15,6 +15,7 @@ birthday:
   numeric: 4/22
   written: 22nd of Moradent
 origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Diegon Verrona
@@ -24,6 +25,7 @@ relationships:
 - name: Holys Hachaam
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Paladin
 stats:
@@ -38,6 +40,7 @@ guild: Elkenval
 partyID: 90
 tags:
 - Genasi
+- Verdain
 - Paladin
 - Exploration
 - 1st
@@ -46,15 +49,20 @@ tags:
 # Adresin Ilbryn
 ---
 ### Description
-- 1st year Genasi Paladin in Elkenval
-- shoulder length straight auburn hair that's well kept, Gray eyes, and air skin
+- Genasi Paladin from Magmus Centerhold
+- 1st year Exploration student in Elkenval
+- short straight brunette hair that's plain, Gray eyes, and air skin
 - Is Bashful and Insulting, and has Greed as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Diegon Verrona]]: partymate
 [[Kayla Kaminsky]]: partymate
 [[Holys Hachaam]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Adresin Ilbryn

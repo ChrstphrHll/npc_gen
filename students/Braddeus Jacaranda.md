@@ -1,7 +1,7 @@
 ---
 name: Braddeus Jacaranda
 race: Halfling
-hair: long straight strawberry blond hair that's messy
+hair: short curly dark red hair that's plain
 eyes: Amber
 skin: Pale
 ideal: Appreciation
@@ -16,6 +16,7 @@ birthday:
   numeric: 6/19
   written: 19th of Pelent
 origin: Verdain
+voice: null
 relvance: 0
 relationships:
 - name: Maarika Oncith
@@ -23,6 +24,7 @@ relationships:
 - name: Lilia Agrippa
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Paladin
 stats:
@@ -37,6 +39,7 @@ guild: Fiesn
 partyID: 94
 tags:
 - Halfling
+- Kordinia
 - Paladin
 - Diplomacy
 - 3rd
@@ -45,14 +48,19 @@ tags:
 # Braddeus Jacaranda
 ---
 ### Description
-- 3rd year Halfling Paladin in Fiesn
-- long straight strawberry blond hair that's messy, Amber eyes, and Pale skin
+- Halfling Paladin from Verdain
+- 3rd year Diplomacy student in Fiesn
+- short curly dark red hair that's plain, Amber eyes, and Pale skin
 - Is Strong-willed and Pretentious, and has Appreciation as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Maarika Oncith]]: partymate
 [[Lilia Agrippa]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Braddeus Jacaranda

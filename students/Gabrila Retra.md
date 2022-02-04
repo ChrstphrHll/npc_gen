@@ -1,7 +1,7 @@
 ---
 name: Gabrila Retra
 race: Dwarf
-hair: shoulder length straight dark red hair that's well kept
+hair: long wavy red hair that's put up
 eyes: Amber
 skin: Fair
 ideal: Contributing
@@ -13,7 +13,8 @@ bond: I would die to recover an ancient relic of my faith that was lost long ago
 birthday:
   numeric: 6/21
   written: 21st of Pelent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
+voice: null
 relvance: 0
 relationships:
 - name: Hudsen Elandorr
@@ -23,6 +24,7 @@ relationships:
 - name: Jacob Jorildyn
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Druid
 stats:
@@ -37,6 +39,7 @@ guild: Treskal
 partyID: 45
 tags:
 - Dwarf
+- Principality of the Palus Peoples
 - Druid
 - Diplomacy
 - 3rd
@@ -45,15 +48,20 @@ tags:
 # Gabrila Retra
 ---
 ### Description
-- 3rd year Dwarf Druid in Treskal
-- shoulder length straight dark red hair that's well kept, Amber eyes, and Fair skin
+- Dwarf Druid from Magmus Centerhold
+- 3rd year Diplomacy student in Treskal
+- long wavy red hair that's put up, Amber eyes, and Fair skin
 - Is Intrepid and Reactive, and has Contributing as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Hudsen Elandorr]]: partymate
 [[Brooka Whesker]]: partymate
 [[Jacob Jorildyn]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Gabrila Retra

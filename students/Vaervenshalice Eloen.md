@@ -1,7 +1,7 @@
 ---
 name: Vaervenshalice Eloen
 race: Elf
-hair: long curly lighter blonde hair that's plain
+hair: long wavy platinum hair that's plain
 eyes: Green
 skin: Dark Brown
 ideal: Power
@@ -15,7 +15,8 @@ bond: My tools are symbols of my past life, and I carry them so that I will neve
 birthday:
   numeric: 5/3
   written: 3rd of Iounent
-origin: Aldercrown Empire
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Ysaac Aelrue
@@ -25,6 +26,7 @@ relationships:
 - name: Dejana Keller
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Ranger
 stats:
@@ -39,6 +41,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Elf
+- Principality of the Palus Peoples
 - Ranger
 - Exploration
 - 1st
@@ -47,15 +50,20 @@ tags:
 # Vaervenshalice Eloen
 ---
 ### Description
-- 1st year Elf Ranger in Treskal
-- long curly lighter blonde hair that's plain, Green eyes, and Dark Brown skin
+- Elf Ranger from Beleriand
+- 1st year Exploration student in Treskal
+- long wavy platinum hair that's plain, Green eyes, and Dark Brown skin
 - Is Stubborn and Envious, and has Power as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Ysaac Aelrue]]: partymate
 [[Nolyn Viska]]: partymate
 [[Dejana Keller]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Vaervenshalice Eloen

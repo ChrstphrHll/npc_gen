@@ -1,7 +1,7 @@
 ---
 name: Hazel Traeliorn
 race: Tiefling
-hair: shoulder length wavy strawberry blond hair that's plain
+hair: shoulder length curly grey hair that's wild
 eyes: Brown
 skin: Blue
 ideal: Caring
@@ -14,12 +14,14 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 7/12
   written: 12th of Korent
-origin: Qualnis
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Whit Remington
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Monk
 stats:
@@ -34,6 +36,7 @@ guild: Burk
 partyID: 41
 tags:
 - Tiefling
+- Principality of the Palus Peoples
 - Monk
 - Diplomacy
 - 1st
@@ -42,13 +45,18 @@ tags:
 # Hazel Traeliorn
 ---
 ### Description
-- 1st year Tiefling Monk in Burk
-- shoulder length wavy strawberry blond hair that's plain, Brown eyes, and Blue skin
+- Tiefling Monk from Aldercrown Empire
+- 1st year Diplomacy student in Burk
+- shoulder length curly grey hair that's wild, Brown eyes, and Blue skin
 - Is Adventurous and Unctuous, and has Caring as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Whit Remington]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Hazel Traeliorn

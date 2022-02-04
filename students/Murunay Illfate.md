@@ -1,7 +1,7 @@
 ---
 name: Murunay Illfate
 race: Elf
-hair: shoulder length straight brunette hair that's messy
+hair: long straight auburn hair that's well kept
 eyes: Brown
 skin: Brown
 ideal: Affection
@@ -14,7 +14,8 @@ bond: Everything I do is for the common people.
 birthday:
   numeric: 6/20
   written: 20th of Pelent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Hazel Winters
@@ -22,6 +23,7 @@ relationships:
 - name: Lincon Nylaathria
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Ranger
 stats:
@@ -36,6 +38,7 @@ guild: Burk
 partyID: 75
 tags:
 - Elf
+- Beleriand
 - Ranger
 - Exploration
 - 4th
@@ -44,14 +47,19 @@ tags:
 # Murunay Illfate
 ---
 ### Description
-- 4th year Elf Ranger in Burk
-- shoulder length straight brunette hair that's messy, Brown eyes, and Brown skin
+- Elf Ranger from Aldercrown Empire
+- 4th year Exploration student in Burk
+- long straight auburn hair that's well kept, Brown eyes, and Brown skin
 - Is Restrained and Immature, and has Affection as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Hazel Winters]]: partymate
 [[Lincon Nylaathria]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Murunay Illfate

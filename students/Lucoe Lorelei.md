@@ -1,7 +1,7 @@
 ---
 name: Lucoe Lorelei
 race: Dwarf
-hair: shoulder length curly dark red hair that's well kept
+hair: short straight platinum hair that's well kept
 eyes: Amber
 skin: Dark Tan
 ideal: Creativity
@@ -14,7 +14,8 @@ bond: My life's work is a series of tomes related to a specific field of lore.
 birthday:
   numeric: 6/24
   written: 24th of Pelent
-origin: Beleriand
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Willam Ardryll
@@ -24,6 +25,7 @@ relationships:
 - name: Themistoklea Nevarth
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Barbarian
 stats:
@@ -38,6 +40,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Dwarf
+- Aldercrown Empire
 - Barbarian
 - Exploration
 - 2nd
@@ -46,15 +49,20 @@ tags:
 # Lucoe Lorelei
 ---
 ### Description
-- 2nd year Dwarf Barbarian in Treskal
-- shoulder length curly dark red hair that's well kept, Amber eyes, and Dark Tan skin
+- Dwarf Barbarian from Aldercrown Empire
+- 2nd year Exploration student in Treskal
+- short straight platinum hair that's well kept, Amber eyes, and Dark Tan skin
 - Is Modest and Contemptible, and has Creativity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Willam Ardryll]]: partymate
 [[Graisen Thalanil]]: partymate
 [[Themistoklea Nevarth]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Lucoe Lorelei

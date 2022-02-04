@@ -1,7 +1,7 @@
 ---
 name: Alyx Nopos
 race: Tiefling
-hair: shoulder length curly brunette hair that's wild
+hair: long straight dirty blonde hair that's wild
 eyes: Aqua
 skin: Sea Green
 ideal: Intelligence
@@ -13,12 +13,14 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Asten Alavara
   type: partymate
 organizations: []
+notes: []
 track: Assault
 spec: Rouge
 stats:
@@ -33,6 +35,7 @@ guild: Fiesn
 partyID: 87
 tags:
 - Tiefling
+- Magmus Centerhold
 - Rouge
 - Assault
 - 6th
@@ -41,13 +44,18 @@ tags:
 # Alyx Nopos
 ---
 ### Description
-- 6th year Tiefling Rouge in Fiesn
-- shoulder length curly brunette hair that's wild, Aqua eyes, and Sea Green skin
+- Tiefling Rouge from Aldercrown Empire
+- 6th year Assault student in Fiesn
+- long straight dirty blonde hair that's wild, Aqua eyes, and Sea Green skin
 - Is Maternal and Freewheeling, and has Intelligence as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Asten Alavara]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Alyx Nopos

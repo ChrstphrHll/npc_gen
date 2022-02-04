@@ -1,7 +1,7 @@
 ---
 name: Gifre Edyrm
 race: Half-Elf
-hair: short straight lighter blonde hair that's braided
+hair: shoulder length curly white hair that's put up
 eyes: Amber
 skin: Dark Brown
 ideal: Humane
@@ -13,7 +13,8 @@ bond: I idolize a hero of the old tales and measure my deeds against that person
 birthday:
   numeric: 2/22
   written: 22nd of Corelent
-origin: Aldercrown Empire
+origin: Beleriand
+voice: null
 relvance: 0
 relationships:
 - name: Lenn Schimae
@@ -23,6 +24,7 @@ relationships:
 - name: Savanna Ildilyntra
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Paladin
 stats:
@@ -37,6 +39,7 @@ guild: Treskal
 partyID: 46
 tags:
 - Half-Elf
+- Beleriand
 - Paladin
 - Exploration
 - 6th
@@ -45,15 +48,20 @@ tags:
 # Gifre Edyrm
 ---
 ### Description
-- 6th year Half-Elf Paladin in Treskal
-- short straight lighter blonde hair that's braided, Amber eyes, and Dark Brown skin
+- Half-Elf Paladin from Beleriand
+- 6th year Exploration student in Treskal
+- shoulder length curly white hair that's put up, Amber eyes, and Dark Brown skin
 - Is Moralistic and Angry, and has Humane as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Lenn Schimae]]: partymate
 [[Robett Grell]]: partymate
 [[Savanna Ildilyntra]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Gifre Edyrm

@@ -6,7 +6,7 @@ import  data.number_suffix as sfx
 
 class Student(Person):
     def __init__(self, presets = {}):
-        super().__init__(presets, tag_generation=False)
+        super().base_generation(presets)
 
         #Generate Track and Spec
         if not self.set_if_preset("track", presets):
@@ -33,26 +33,18 @@ class Student(Person):
         all_lines.append(f"# {self.name}")
         all_lines.append("---")
         all_lines.append("### Description")
-        all_lines.append(f"- {sfx.suffixify_number(self.year)} year {self.race} {self.spec} in {self.guild}")
+        all_lines.append(f"- {self.race} {self.spec} from {self.origin}")
+        all_lines.append(f"- {sfx.suffixify_number(self.year)} year {self.track} student in {self.guild}")
         all_lines.append(f"- {self.hair}, {self.eyes} eyes, and {self.skin} skin")
         all_lines.append(f"- Is {self.trait1} and {self.trait2}, and has {self.ideal} as their ideal")
         all_lines.append("")
 
-        all_lines.append("### Organizations")
-        for org in self.organizations:
-            member_type = org["type"]
-            org_name = org["name"]
-            all_lines.append(f"{member_type} of [[{org_name}]]")
-
-        all_lines.append("### Relationships")
-        for relationship in self.relationships:
-            rel_type = relationship["type"]
-            rel_name = relationship["name"]
-            all_lines.append(f"[[{rel_name}]]: {rel_type}")
+        all_lines.extend(self.readable_organizations())
+        all_lines.extend(self.readable_relationships())
+        all_lines.extend(self.readable_notes())
 
         all_lines.append("### Stats")
         all_lines.append(self.get_stat_block())
-
 
         return "\n".join(all_lines)
 
@@ -70,7 +62,6 @@ stats: {stats}
         tags.append(self.track)
         tags.append(sfx.suffixify_number(self.year))
         tags.append(self.guild)
-        self.tags = tags
         return tags
 
     def set_partyID(self, partyID):

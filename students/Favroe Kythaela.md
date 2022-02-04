@@ -1,7 +1,7 @@
 ---
 name: Favroe Kythaela
 race: Gnome
-hair: short straight green hair that's plain
+hair: long straight platinum hair that's put up
 eyes: Green
 skin: Pale
 ideal: Live and Let Live
@@ -13,12 +13,14 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 5/13
   written: 13th of Iounent
-origin: Qualnis
+origin: Shadesburry Initiative
+voice: null
 relvance: 0
 relationships:
 - name: Verssek Nese
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Ranger
 stats:
@@ -33,6 +35,7 @@ guild: Treskal
 partyID: 19
 tags:
 - Gnome
+- Shadesburry Initiative
 - Ranger
 - Exploration
 - 3rd
@@ -41,13 +44,18 @@ tags:
 # Favroe Kythaela
 ---
 ### Description
-- 3rd year Gnome Ranger in Treskal
-- short straight green hair that's plain, Green eyes, and Pale skin
+- Gnome Ranger from Shadesburry Initiative
+- 3rd year Exploration student in Treskal
+- long straight platinum hair that's put up, Green eyes, and Pale skin
 - Is Tough and Meretricious, and has Live and Let Live as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Verssek Nese]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Favroe Kythaela

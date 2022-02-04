@@ -1,7 +1,7 @@
 ---
 name: Liris Bhyrindaar
 race: Goliath
-hair: long wavy auburn hair that's plain
+hair: short straight blonde hair that's plain
 eyes: Amber
 skin: Dark Brown
 ideal: Connection
@@ -15,7 +15,8 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 1/18
   written: 18th of Avanent
-origin: Kordinia
+origin: Chillwild Peaks
+voice: null
 relvance: 0
 relationships:
 - name: Caeleb Embrae
@@ -23,6 +24,7 @@ relationships:
 - name: Eva Reluvethel
   type: partymate
 organizations: []
+notes: []
 track: Protection
 spec: Paladin
 stats:
@@ -37,6 +39,7 @@ guild: Fiesn
 partyID: 54
 tags:
 - Goliath
+- Aldercrown Empire
 - Paladin
 - Protection
 - 2nd
@@ -45,14 +48,19 @@ tags:
 # Liris Bhyrindaar
 ---
 ### Description
-- 2nd year Goliath Paladin in Fiesn
-- long wavy auburn hair that's plain, Amber eyes, and Dark Brown skin
+- Goliath Paladin from Chillwild Peaks
+- 2nd year Protection student in Fiesn
+- short straight blonde hair that's plain, Amber eyes, and Dark Brown skin
 - Is Emotional and Troublesome, and has Connection as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Caeleb Embrae]]: partymate
 [[Eva Reluvethel]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Liris Bhyrindaar

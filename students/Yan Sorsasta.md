@@ -1,7 +1,7 @@
 ---
 name: Yan Sorsasta
 race: Dwarf
-hair: long curly blonde hair that's plain
+hair: shoulder length wavy strawberry blond hair that's put up
 eyes: Brown
 skin: Pale
 ideal: Reciprocity
@@ -14,6 +14,7 @@ birthday:
   numeric: 7/33
   written: 33rd of Korent
 origin: Aldercrown Empire
+voice: null
 relvance: 0
 relationships:
 - name: Abryia Rubrae
@@ -23,6 +24,7 @@ relationships:
 - name: Nicholus Morthil
   type: partymate
 organizations: []
+notes: []
 track: Diplomacy
 spec: Barbarian
 stats:
@@ -37,6 +39,7 @@ guild: Burk
 partyID: 93
 tags:
 - Dwarf
+- Shadesburry Initiative
 - Barbarian
 - Diplomacy
 - 2nd
@@ -45,15 +48,20 @@ tags:
 # Yan Sorsasta
 ---
 ### Description
-- 2nd year Dwarf Barbarian in Burk
-- long curly blonde hair that's plain, Brown eyes, and Pale skin
+- Dwarf Barbarian from Aldercrown Empire
+- 2nd year Diplomacy student in Burk
+- shoulder length wavy strawberry blond hair that's put up, Brown eyes, and Pale skin
 - Is Adventurous and Pretentious, and has Reciprocity as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Abryia Rubrae]]: partymate
 [[Violetta Coldsprinter]]: partymate
 [[Nicholus Morthil]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Yan Sorsasta

@@ -1,7 +1,7 @@
 ---
 name: Vaellyn Esyae
 race: Triton
-hair: shoulder length wavy pink hair that's well kept
+hair: long curly red hair that's braided
 eyes: Yellow
 skin: Pale Blue
 ideal: Success
@@ -14,7 +14,8 @@ bond: I will bring terrible wrath down on the evildoers who destroyed my homelan
 birthday:
   numeric: 3/30
   written: 30th of Melorent
-origin: Aldercrown Empire
+origin: Whyndiem
+voice: null
 relvance: 0
 relationships:
 - name: Kymber Korrigash
@@ -22,6 +23,7 @@ relationships:
 - name: Gormoth Shyrrik
   type: partymate
 organizations: []
+notes: []
 track: Exploration
 spec: Cleric
 stats:
@@ -36,6 +38,7 @@ guild: Jettenia
 partyID: 33
 tags:
 - Triton
+- Whyndiem
 - Cleric
 - Exploration
 - 2nd
@@ -44,14 +47,19 @@ tags:
 # Vaellyn Esyae
 ---
 ### Description
-- 2nd year Triton Cleric in Jettenia
-- shoulder length wavy pink hair that's well kept, Yellow eyes, and Pale Blue skin
+- Triton Cleric from Whyndiem
+- 2nd year Exploration student in Jettenia
+- long curly red hair that's braided, Yellow eyes, and Pale Blue skin
 - Is Thrilling and Oppressed, and has Success as their ideal
 
 ### Organizations
+
 ### Relationships
 [[Kymber Korrigash]]: partymate
 [[Gormoth Shyrrik]]: partymate
+
+### Notes
+
 ### Stats
 ```statblock
 name: Vaellyn Esyae
