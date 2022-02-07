@@ -6,6 +6,7 @@ import relational_functions.connect_party as cp
 import input_output_utilities.yaml_to_student as read
 import roll_tables.look_tables as gen_looks
 import roll_tables.origin_tables as ori_gen
+import organizational_utilities.validators as v
 
 import json, random
 
@@ -36,4 +37,5 @@ def update_origin(person):
 # update_roster(read.load_roster(), [update_eyes])
 
 if __name__ == "__main__":
-    update_roster(read.load_roster(), [update_hair, update_origin])
+    #update_roster(read.load_roster(), [update_hair, update_origin])
+    v.main()

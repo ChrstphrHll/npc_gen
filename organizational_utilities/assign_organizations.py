@@ -7,7 +7,7 @@ class Organization():
         self.leaders = []
         self.supervisors = []
 
-    def fill_out_roster(self, students):
+    def fill_out_roster(self, students: list):
         roster = []
 
         while len(roster) < self.size:
@@ -21,3 +21,7 @@ class Organization():
             
             if meets_requirements:
                 roster.append(candidate)
+    
+        self.members = roster
+    
+    

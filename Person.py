@@ -23,7 +23,7 @@ class Person:
         if not self.set_if_preset("race", presets):
             self.race = race_gen.get_race()
 
-        #Generate Appearence
+        #Generate Appearance
         if not self.set_if_preset("hair", presets):
             self.hair = look_gen.get_hair(self.race)
         if not self.set_if_preset("eyes", presets):
@@ -119,7 +119,7 @@ class Person:
         for org in self.organizations:
             member_type = org["type"]
             org_name = org["name"]
-            organizations.append(f"{member_type} of [[{org_name}]]")
+            organizations.append(f"- {member_type} of [[{org_name}]]")
         organizations.append("")
         return organizations
 
@@ -131,7 +131,7 @@ class Person:
         for relationship in self.relationships:
             rel_type = relationship["type"]
             rel_name = relationship["name"]
-            relationships.append(f"[[{rel_name}]]: {rel_type}")
+            relationships.append(f"- [[{rel_name}]]: {rel_type}")
         relationships.append("")
         return relationships
 

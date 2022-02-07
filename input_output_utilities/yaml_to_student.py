@@ -33,7 +33,7 @@ def student_from_md(path):
     loaded_file = open_file(path)
     yaml_string = extract_yaml(loaded_file)
 
-    #TODO: implement get_notes function
+    #TODO: implement get_relationships function
     notes = get_section_elements("Notes", loaded_file)
 
     student_presets = yaml.load(yaml_string, Loader=yaml.CLoader)
