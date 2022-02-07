@@ -1,7 +1,7 @@
 ---
 name: Aurikallos Biafyndar
 race: Gnome
-hair: short straight pink hair that's braided
+hair: shoulder length straight platinum hair that's put up
 eyes: Gray
 skin: Pale
 ideal: Righteous
@@ -14,7 +14,7 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 3/10
   written: 10th of Melorent
-origin: Aldercrown Empire
+origin: Shadesburry Initiative
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Gnome
-- Shadesburry Initiative
+- Aldercrown Empire
 - Monk
 - Protection
 - 5th
@@ -49,9 +49,9 @@ tags:
 # Aurikallos Biafyndar
 ---
 ### Description
-- Gnome Monk from Aldercrown Empire
+- Gnome Monk from Shadesburry Initiative
 - 5th year Protection student in Elkenval
-- short straight pink hair that's braided, Gray eyes, and Pale skin
+- shoulder length straight platinum hair that's put up, Gray eyes, and Pale skin
 - Is Placid and Repugnant, and has Righteous as their ideal
 
 ### Organizations

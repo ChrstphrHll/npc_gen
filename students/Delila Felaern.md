@@ -1,7 +1,7 @@
 ---
 name: Delila Felaern
 race: Gnome
-hair: short curly white hair that's plain
+hair: short curly blonde hair that's messy
 eyes: Gray
 skin: Pale
 ideal: Success
@@ -39,7 +39,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Gnome
-- Magmus Centerhold
+- Shadesburry Initiative
 - Druid
 - Diplomacy
 - 5th
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Gnome Druid from Shadesburry Initiative
 - 5th year Diplomacy student in Elkenval
-- short curly white hair that's plain, Gray eyes, and Pale skin
+- short curly blonde hair that's messy, Gray eyes, and Pale skin
 - Is Ordinary and Insulting, and has Success as their ideal
 
 ### Organizations

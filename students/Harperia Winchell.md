@@ -1,7 +1,7 @@
 ---
 name: Harperia Winchell
 race: Human
-hair: long frizzy strawberry blond hair that's messy
+hair: long wavy black hair that's plain
 eyes: Green
 skin: Fair
 ideal: Involvement
@@ -15,7 +15,7 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 7/33
   written: 33rd of Korent
-origin: Verdain
+origin: Qualnis
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 14
 tags:
 - Human
-- Qualnis
+- Verdain
 - Barbarian
 - Protection
 - 1st
@@ -46,9 +46,9 @@ tags:
 # Harperia Winchell
 ---
 ### Description
-- Human Barbarian from Verdain
+- Human Barbarian from Qualnis
 - 1st year Protection student in Elkenval
-- long frizzy strawberry blond hair that's messy, Green eyes, and Fair skin
+- long wavy black hair that's plain, Green eyes, and Fair skin
 - Is Unfathomable and Dishonest, and has Involvement as their ideal
 
 ### Organizations

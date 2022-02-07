@@ -1,7 +1,7 @@
 ---
 name: Gunnar Ordayius
 race: Human
-hair: shoulder length wavy auburn hair that's well kept
+hair: shoulder length straight auburn hair that's plain
 eyes: Amber
 skin: Light
 ideal: Enjoyment
@@ -41,7 +41,7 @@ guild: Burk
 partyID: 59
 tags:
 - Human
-- Magmus Centerhold
+- Aldercrown Empire
 - Druid
 - Diplomacy
 - 4th
@@ -52,7 +52,7 @@ tags:
 ### Description
 - Human Druid from Aldercrown Empire
 - 4th year Diplomacy student in Burk
-- shoulder length wavy auburn hair that's well kept, Amber eyes, and Light skin
+- shoulder length straight auburn hair that's plain, Amber eyes, and Light skin
 - Is Shrewd and Mean, and has Enjoyment as their ideal
 
 ### Organizations

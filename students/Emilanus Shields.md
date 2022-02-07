@@ -1,7 +1,7 @@
 ---
 name: Emilanus Shields
 race: Warforged
-hair: smooth gold guilded with copper
+hair: smooth silver guilded with amethyst
 eyes: Spring Green
 skin: bronze
 ideal: Speed
@@ -55,7 +55,7 @@ tags:
 ### Description
 - Warforged Paladin from Qualnis
 - 1st year Exploration student in Elkenval
-- smooth gold guilded with copper, Spring Green eyes, and bronze skin
+- smooth silver guilded with amethyst, Spring Green eyes, and bronze skin
 - Is Idealistic and Dirty, and has Speed as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Tylor Llewellenar
 race: Warforged
-hair: smooth bronze guilded with silver
+hair: smooth brass guilded with gold
 eyes: Amber
 skin: gold
 ideal: Abundance
@@ -14,7 +14,7 @@ bond: The common folk must see me as a hero of the people.
 birthday:
   numeric: 8/20
   written: 20th of Ravenent
-origin: Shadesburry Initiative
+origin: Qualnis
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 42
 tags:
 - Warforged
-- Qualnis
+- Shadesburry Initiative
 - Sorcerer
 - Assault
 - 6th
@@ -47,9 +47,9 @@ tags:
 # Tylor Llewellenar
 ---
 ### Description
-- Warforged Sorcerer from Shadesburry Initiative
+- Warforged Sorcerer from Qualnis
 - 6th year Assault student in Fiesn
-- smooth bronze guilded with silver, Amber eyes, and gold skin
+- smooth brass guilded with gold, Amber eyes, and gold skin
 - Is Disciplined and Naive, and has Abundance as their ideal
 
 ### Organizations

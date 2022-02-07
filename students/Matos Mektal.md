@@ -1,7 +1,7 @@
 ---
 name: Matos Mektal
 race: Kenku
-hair: sleek
+hair: striped
 eyes: Pale Brown
 skin: Dark Blue
 ideal: Generosity
@@ -53,7 +53,7 @@ tags:
 ### Description
 - Kenku Barbarian from Black Rock
 - 5th year Diplomacy student in Jettenia
-- sleek, Pale Brown eyes, and Dark Blue skin
+- striped, Pale Brown eyes, and Dark Blue skin
 - Is Meek and Treacherous, and has Generosity as their ideal
 
 ### Organizations

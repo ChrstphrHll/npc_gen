@@ -1,7 +1,7 @@
 ---
 name: Tilo Connak
 race: Tiefling
-hair: short straight platinum hair that's plain
+hair: short straight blue hair that's messy
 eyes: Pale Brown
 skin: Olive
 ideal: Humane
@@ -14,7 +14,7 @@ bond: The common folk must see me as a hero of the people.
 birthday:
   numeric: 5/26
   written: 26th of Iounent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 17
 tags:
 - Tiefling
-- Verdain
+- Magmus Centerhold
 - Ranger
 - Diplomacy
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Tilo Connak
 ---
 ### Description
-- Tiefling Ranger from Magmus Centerhold
+- Tiefling Ranger from Aldercrown Empire
 - 1st year Diplomacy student in Treskal
-- short straight platinum hair that's plain, Pale Brown eyes, and Olive skin
+- short straight blue hair that's messy, Pale Brown eyes, and Olive skin
 - Is Gritty and Modern, and has Humane as their ideal
 
 ### Organizations

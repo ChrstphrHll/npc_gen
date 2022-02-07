@@ -1,7 +1,7 @@
 ---
 name: Grace Festus
 race: Human
-hair: short wavy white hair that's plain
+hair: shoulder length wavy strawberry blond hair that's plain
 eyes: Pale Gray
 skin: Pale
 ideal: Charity
@@ -15,7 +15,7 @@ bond: I idolize a hero of the old tales and measure my deeds against that person
 birthday:
   numeric: 4/16
   written: 16th of Moradent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Human
-- Shadesburry Initiative
+- Aldercrown Empire
 - Cleric
 - Diplomacy
 - 5th
@@ -50,9 +50,9 @@ tags:
 # Grace Festus
 ---
 ### Description
-- Human Cleric from Aldercrown Empire
+- Human Cleric from Magmus Centerhold
 - 5th year Diplomacy student in Elkenval
-- short wavy white hair that's plain, Pale Gray eyes, and Pale skin
+- shoulder length wavy strawberry blond hair that's plain, Pale Gray eyes, and Pale skin
 - Is Anticipative and Rigid, and has Charity as their ideal
 
 ### Organizations

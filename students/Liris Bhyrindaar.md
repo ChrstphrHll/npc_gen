@@ -1,7 +1,7 @@
 ---
 name: Liris Bhyrindaar
 race: Goliath
-hair: short straight blonde hair that's plain
+hair: long curly lighter blonde hair that's braided
 eyes: Amber
 skin: Dark Brown
 ideal: Connection
@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 54
 tags:
 - Goliath
-- Aldercrown Empire
+- Chillwild Peaks
 - Paladin
 - Protection
 - 2nd
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Goliath Paladin from Chillwild Peaks
 - 2nd year Protection student in Fiesn
-- short straight blonde hair that's plain, Amber eyes, and Dark Brown skin
+- long curly lighter blonde hair that's braided, Amber eyes, and Dark Brown skin
 - Is Emotional and Troublesome, and has Connection as their ideal
 
 ### Organizations

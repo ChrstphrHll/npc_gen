@@ -1,7 +1,7 @@
 ---
 name: Kloya Kershaw
 race: Gnome
-hair: long curly black hair that's put up
+hair: long curly blonde hair that's messy
 eyes: Amber
 skin: Pale
 ideal: Involvement
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Gnome Bard from Shadesburry Initiative
 - 5th year Protection student in Jettenia
-- long curly black hair that's put up, Amber eyes, and Pale skin
+- long curly blonde hair that's messy, Amber eyes, and Pale skin
 - Is Heroic and Unconvincing, and has Involvement as their ideal
 
 ### Organizations

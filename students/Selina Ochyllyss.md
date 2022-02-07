@@ -1,7 +1,7 @@
 ---
 name: Selina Ochyllyss
 race: Dwarf
-hair: short curly brunette hair that's put up
+hair: short curly lighter blonde hair that's put up
 eyes: Blue
 skin: Light Tan
 ideal: Logic
@@ -14,7 +14,7 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 3/20
   written: 20th of Melorent
-origin: Shadesburry Initiative
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -42,7 +42,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Dwarf
-- Aldercrown Empire
+- Shadesburry Initiative
 - Monk
 - Exploration
 - 5th
@@ -51,9 +51,9 @@ tags:
 # Selina Ochyllyss
 ---
 ### Description
-- Dwarf Monk from Shadesburry Initiative
+- Dwarf Monk from Aldercrown Empire
 - 5th year Exploration student in Jettenia
-- short curly brunette hair that's put up, Blue eyes, and Light Tan skin
+- short curly lighter blonde hair that's put up, Blue eyes, and Light Tan skin
 - Is Droll and Restrained, and has Logic as their ideal
 
 ### Organizations

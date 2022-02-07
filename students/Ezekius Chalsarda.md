@@ -1,7 +1,7 @@
 ---
 name: Ezekius Chalsarda
 race: Halfling
-hair: short wavy red hair that's plain
+hair: long curly auburn hair that's messy
 eyes: Pale Brown
 skin: Light
 ideal: Cunning
@@ -14,7 +14,7 @@ bond: I owe a debt I can never repay to the person who took pity on me.
 birthday:
   numeric: 8/12
   written: 12th of Ravenent
-origin: Kordinia
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Burk
 partyID: 29
 tags:
 - Halfling
-- Verdain
+- Kordinia
 - Wizard
 - Diplomacy
 - 6th
@@ -47,9 +47,9 @@ tags:
 # Ezekius Chalsarda
 ---
 ### Description
-- Halfling Wizard from Kordinia
+- Halfling Wizard from Beleriand
 - 6th year Diplomacy student in Burk
-- short wavy red hair that's plain, Pale Brown eyes, and Light skin
+- long curly auburn hair that's messy, Pale Brown eyes, and Light skin
 - Is Magnanimous and Excitable, and has Cunning as their ideal
 
 ### Organizations

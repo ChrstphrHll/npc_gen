@@ -1,7 +1,7 @@
 ---
 name: Scarletta Elora
 race: Gnome
-hair: short straight brunette hair that's well kept
+hair: short curly dirty blonde hair that's braided
 eyes: Hazel
 skin: Dark Tan
 ideal: Patience
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Gnome Cleric from Shadesburry Initiative
 - 2nd year Protection student in Fiesn
-- short straight brunette hair that's well kept, Hazel eyes, and Dark Tan skin
+- short curly dirty blonde hair that's braided, Hazel eyes, and Dark Tan skin
 - Is Cooperative and Devious, and has Patience as their ideal
 
 ### Organizations

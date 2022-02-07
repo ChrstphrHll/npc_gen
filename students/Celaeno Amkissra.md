@@ -1,7 +1,7 @@
 ---
 name: Celaeno Amkissra
 race: Half-Orc
-hair: shoulder length curly black hair that's plain
+hair: shoulder length frizzy turquoise hair that's plain
 eyes: Brown
 skin: Pale Gray
 ideal: Finesse
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Half-Orc Artificer from Magmus Centerhold
 - 8th year Assault student in Jettenia
-- shoulder length curly black hair that's plain, Brown eyes, and Pale Gray skin
+- shoulder length frizzy turquoise hair that's plain, Brown eyes, and Pale Gray skin
 - Is Persuasive and Timid, and has Finesse as their ideal
 
 ### Organizations

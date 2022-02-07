@@ -1,7 +1,7 @@
 ---
 name: Adros Tolthe
 race: Goliath
-hair: long straight dirty blonde hair that's plain
+hair: short wavy white hair that's wild
 eyes: Pale Blue
 skin: Tan
 ideal: Uncaring
@@ -14,7 +14,7 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 1/33
   written: 33rd of Avanent
-origin: Aldercrown Empire
+origin: Chillwild Peaks
 voice: null
 relvance: 0
 relationships:
@@ -51,9 +51,9 @@ tags:
 # Adros Tolthe
 ---
 ### Description
-- Goliath Bard from Aldercrown Empire
+- Goliath Bard from Chillwild Peaks
 - 5th year Exploration student in Jettenia
-- long straight dirty blonde hair that's plain, Pale Blue eyes, and Tan skin
+- short wavy white hair that's wild, Pale Blue eyes, and Tan skin
 - Is Scholarly and Overimaginative, and has Uncaring as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Jacus Kosunten
 race: Human
-hair: short wavy brunette hair that's plain
+hair: short wavy blonde hair that's plain
 eyes: Pale Gray
 skin: Brown
 ideal: Strength
@@ -14,7 +14,7 @@ bond: I come from a noble family, and one day I'll reclaim my lands and title fr
 birthday:
   numeric: 3/23
   written: 23rd of Melorent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Burk
 partyID: 57
 tags:
 - Human
-- Beleriand
+- Magmus Centerhold
 - Monk
 - Exploration
 - 2nd
@@ -47,9 +47,9 @@ tags:
 # Jacus Kosunten
 ---
 ### Description
-- Human Monk from Magmus Centerhold
+- Human Monk from Aldercrown Empire
 - 2nd year Exploration student in Burk
-- short wavy brunette hair that's plain, Pale Gray eyes, and Brown skin
+- short wavy blonde hair that's plain, Pale Gray eyes, and Brown skin
 - Is Risk-taking and Pure, and has Strength as their ideal
 
 ### Organizations

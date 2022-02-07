@@ -1,7 +1,7 @@
 ---
 name: Alinea Hellsturn
 race: Elf
-hair: long straight blue hair that's braided
+hair: long curly auburn hair that's plain
 eyes: Brown
 skin: Tan
 ideal: Renewal
@@ -14,7 +14,7 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
-origin: Aldercrown Empire
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 11
 tags:
 - Elf
-- Chillwild Peaks
+- Aldercrown Empire
 - Ranger
 - Assault
 - 5th
@@ -47,9 +47,9 @@ tags:
 # Alinea Hellsturn
 ---
 ### Description
-- Elf Ranger from Aldercrown Empire
+- Elf Ranger from Beleriand
 - 5th year Assault student in Alderden
-- long straight blue hair that's braided, Brown eyes, and Tan skin
+- long curly auburn hair that's plain, Brown eyes, and Tan skin
 - Is Merciful and Sloppy, and has Renewal as their ideal
 
 ### Organizations

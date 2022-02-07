@@ -1,7 +1,7 @@
 ---
 name: Moki Aelynthi
 race: Gnome
-hair: shoulder length wavy auburn hair that's plain
+hair: long wavy dark red hair that's braided
 eyes: Pale Gray
 skin: Tan
 ideal: Live and Let Live
@@ -39,7 +39,7 @@ guild: Burk
 partyID: 29
 tags:
 - Gnome
-- Principality of the Palus Peoples
+- Aldercrown Empire
 - Druid
 - Protection
 - 6th
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Gnome Druid from Aldercrown Empire
 - 6th year Protection student in Burk
-- shoulder length wavy auburn hair that's plain, Pale Gray eyes, and Tan skin
+- long wavy dark red hair that's braided, Pale Gray eyes, and Tan skin
 - Is Open and Devious, and has Live and Let Live as their ideal
 
 ### Organizations

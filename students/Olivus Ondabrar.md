@@ -1,7 +1,7 @@
 ---
 name: Olivus Ondabrar
 race: Halfling
-hair: shoulder length wavy red hair that's put up
+hair: long wavy grey hair that's messy
 eyes: Hazel
 skin: Tan
 ideal: Wisdom
@@ -14,7 +14,7 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -45,9 +45,9 @@ tags:
 # Olivus Ondabrar
 ---
 ### Description
-- Halfling Wizard from Aldercrown Empire
+- Halfling Wizard from Magmus Centerhold
 - 3rd year Assault student in Fiesn
-- shoulder length wavy red hair that's put up, Hazel eyes, and Tan skin
+- long wavy grey hair that's messy, Hazel eyes, and Tan skin
 - Is Prudent and Dirty, and has Wisdom as their ideal
 
 ### Organizations

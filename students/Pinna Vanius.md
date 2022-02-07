@@ -1,7 +1,7 @@
 ---
 name: Pinna Vanius
 race: Elf
-hair: long wavy platinum hair that's plain
+hair: long wavy lighter blonde hair that's wild
 eyes: Amber
 skin: Fair
 ideal: Redemption
@@ -14,7 +14,7 @@ bond: I have an ancient text that holds terrible secrets that must not fall into
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Beleriand
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 89
 tags:
 - Elf
-- Aldercrown Empire
+- Beleriand
 - Bard
 - Assault
 - 7th
@@ -49,9 +49,9 @@ tags:
 # Pinna Vanius
 ---
 ### Description
-- Elf Bard from Beleriand
+- Elf Bard from Aldercrown Empire
 - 7th year Assault student in Fiesn
-- long wavy platinum hair that's plain, Amber eyes, and Fair skin
+- long wavy lighter blonde hair that's wild, Amber eyes, and Fair skin
 - Is Original and Impractical, and has Redemption as their ideal
 
 ### Organizations

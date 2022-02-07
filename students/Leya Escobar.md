@@ -1,7 +1,7 @@
 ---
 name: Leya Escobar
 race: Human
-hair: shoulder length curly white hair that's put up
+hair: short straight blonde hair that's plain
 eyes: Pale Gray
 skin: Dark Brown
 ideal: Righteous
@@ -14,7 +14,7 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 6/25
   written: 25th of Pelent
-origin: Beleriand
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Human
-- Principality of the Palus Peoples
+- Beleriand
 - Fighter
 - Assault
 - 3rd
@@ -49,9 +49,9 @@ tags:
 # Leya Escobar
 ---
 ### Description
-- Human Fighter from Beleriand
+- Human Fighter from Aldercrown Empire
 - 3rd year Assault student in Alderden
-- shoulder length curly white hair that's put up, Pale Gray eyes, and Dark Brown skin
+- short straight blonde hair that's plain, Pale Gray eyes, and Dark Brown skin
 - Is Self-disciplined and Mawkish, and has Righteous as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Felgie Eldar
 race: Goliath
-hair: long frizzy auburn hair that's put up
+hair: shoulder length straight brunette hair that's wild
 eyes: Hazel
 skin: Light Tan
 ideal: Spiritualism
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Goliath Druid from Chillwild Peaks
 - 2nd year Protection student in Fiesn
-- long frizzy auburn hair that's put up, Hazel eyes, and Light Tan skin
+- shoulder length straight brunette hair that's wild, Hazel eyes, and Light Tan skin
 - Is Dreamer and Profligate, and has Spiritualism as their ideal
 
 ### Organizations

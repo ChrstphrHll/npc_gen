@@ -1,7 +1,7 @@
 ---
 name: Audree Dixon
 race: Human
-hair: short curly platinum hair that's braided
+hair: shoulder length curly red hair that's plain
 eyes: Blue
 skin: Fair
 ideal: Commonality
@@ -41,7 +41,7 @@ guild: Alderden
 partyID: 56
 tags:
 - Human
-- Shadesburry Initiative
+- Aldercrown Empire
 - Monk
 - Assault
 - 1st
@@ -52,7 +52,7 @@ tags:
 ### Description
 - Human Monk from Aldercrown Empire
 - 1st year Assault student in Alderden
-- short curly platinum hair that's braided, Blue eyes, and Fair skin
+- shoulder length curly red hair that's plain, Blue eyes, and Fair skin
 - Is Clean and Licentious, and has Commonality as their ideal
 
 ### Organizations

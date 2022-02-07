@@ -1,7 +1,7 @@
 ---
 name: Josius Iliphar
 race: Genasi
-hair: short straight auburn hair that's wild
+hair: short curly dirty blonde hair that's put up
 eyes: Violet Red
 skin: air
 ideal: Kindness
@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 15
 tags:
 - Genasi
-- Principality of the Palus Peoples
+- Magmus Centerhold
 - Rouge
 - Assault
 - 7th
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Genasi Rouge from Magmus Centerhold
 - 7th year Assault student in Fiesn
-- short straight auburn hair that's wild, Violet Red eyes, and air skin
+- short curly dirty blonde hair that's put up, Violet Red eyes, and air skin
 - Is Iconoclastic and Shallow, and has Kindness as their ideal
 
 ### Organizations

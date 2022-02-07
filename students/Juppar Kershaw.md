@@ -1,7 +1,7 @@
 ---
 name: Juppar Kershaw
 race: Human
-hair: shoulder length curly dark red hair that's braided
+hair: shoulder length straight grey hair that's braided
 eyes: Gray
 skin: Fair
 ideal: Charisma
@@ -40,7 +40,7 @@ guild: Jettenia
 partyID: 66
 tags:
 - Human
-- Qualnis
+- Aldercrown Empire
 - Druid
 - Diplomacy
 - 1st
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Human Druid from Aldercrown Empire
 - 1st year Diplomacy student in Jettenia
-- shoulder length curly dark red hair that's braided, Gray eyes, and Fair skin
+- shoulder length straight grey hair that's braided, Gray eyes, and Fair skin
 - Is Playful and Fanciful, and has Charisma as their ideal
 
 ### Organizations

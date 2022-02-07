@@ -1,7 +1,7 @@
 ---
 name: Hodus Belt
 race: Elf
-hair: shoulder length straight brunette hair that's wild
+hair: shoulder length straight platinum hair that's well kept
 eyes: Pale Gray
 skin: Brown
 ideal: Harmony
@@ -14,7 +14,7 @@ bond: In a harbor town, I have a paramour whose eyes nearly stole me from the se
 birthday:
   numeric: 1/15
   written: 15th of Avanent
-origin: Aldercrown Empire
+origin: Kordinia
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Burk
 partyID: 38
 tags:
 - Elf
-- Beleriand
+- Aldercrown Empire
 - Bard
 - Assault
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Hodus Belt
 ---
 ### Description
-- Elf Bard from Aldercrown Empire
+- Elf Bard from Kordinia
 - 1st year Assault student in Burk
-- shoulder length straight brunette hair that's wild, Pale Gray eyes, and Brown skin
+- shoulder length straight platinum hair that's well kept, Pale Gray eyes, and Brown skin
 - Is Lucky and Vindictive, and has Harmony as their ideal
 
 ### Organizations

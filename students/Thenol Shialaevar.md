@@ -1,7 +1,7 @@
 ---
 name: Thenol Shialaevar
 race: Half-Orc
-hair: long straight blonde hair that's plain
+hair: shoulder length wavy platinum hair that's plain
 eyes: Brown
 skin: Pale Green
 ideal: Security
@@ -15,7 +15,7 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 5/5
   written: 5th of Iounent
-origin: Aldercrown Empire
+origin: Chillwild Peaks
 voice: null
 relvance: 0
 relationships:
@@ -46,9 +46,9 @@ tags:
 # Thenol Shialaevar
 ---
 ### Description
-- Half-Orc Barbarian from Aldercrown Empire
+- Half-Orc Barbarian from Chillwild Peaks
 - 6th year Exploration student in Burk
-- long straight blonde hair that's plain, Brown eyes, and Pale Green skin
+- shoulder length wavy platinum hair that's plain, Brown eyes, and Pale Green skin
 - Is Sensitive and Indolent, and has Security as their ideal
 
 ### Organizations

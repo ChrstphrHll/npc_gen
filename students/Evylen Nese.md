@@ -1,7 +1,7 @@
 ---
 name: Evylen Nese
 race: Gnome
-hair: long wavy blonde hair that's well kept
+hair: short straight brunette hair that's plain
 eyes: Hazel
 skin: Dark Brown
 ideal: Perseverance
@@ -52,7 +52,7 @@ tags:
 ### Description
 - Gnome Rouge from Shadesburry Initiative
 - 1st year Protection student in Treskal
-- long wavy blonde hair that's well kept, Hazel eyes, and Dark Brown skin
+- short straight brunette hair that's plain, Hazel eyes, and Dark Brown skin
 - Is Effeminate and Dominating, and has Perseverance as their ideal
 
 ### Organizations

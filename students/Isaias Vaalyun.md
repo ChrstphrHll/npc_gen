@@ -1,7 +1,7 @@
 ---
 name: Isaias Vaalyun
 race: Dwarf
-hair: short curly auburn hair that's plain
+hair: long wavy white hair that's plain
 eyes: Pale Brown
 skin: Dark Brown
 ideal: Logic
@@ -15,7 +15,7 @@ bond: A proud noble once gave me a horrible beating, and I will take my revenge 
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
-origin: Aldercrown Empire
+origin: Kordinia
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Burk
 partyID: 36
 tags:
 - Dwarf
-- Magmus Centerhold
+- Aldercrown Empire
 - Cleric
 - Diplomacy
 - 2nd
@@ -48,9 +48,9 @@ tags:
 # Isaias Vaalyun
 ---
 ### Description
-- Dwarf Cleric from Aldercrown Empire
+- Dwarf Cleric from Kordinia
 - 2nd year Diplomacy student in Burk
-- short curly auburn hair that's plain, Pale Brown eyes, and Dark Brown skin
+- long wavy white hair that's plain, Pale Brown eyes, and Dark Brown skin
 - Is Discerning and Hidebound, and has Logic as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Goetia Mistale
 race: Human
-hair: short straight auburn hair that's plain
+hair: shoulder length frizzy brunette hair that's braided
 eyes: Hazel
 skin: Light
 ideal: Invention
@@ -14,7 +14,7 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 4/28
   written: 28th of Moradent
-origin: Aldercrown Empire
+origin: Qualnis
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 96
 tags:
 - Human
-- Verdain
+- Aldercrown Empire
 - Druid
 - Diplomacy
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Goetia Mistale
 ---
 ### Description
-- Human Druid from Aldercrown Empire
+- Human Druid from Qualnis
 - 1st year Diplomacy student in Fiesn
-- short straight auburn hair that's plain, Hazel eyes, and Light skin
+- shoulder length frizzy brunette hair that's braided, Hazel eyes, and Light skin
 - Is Tough and Mechanical, and has Invention as their ideal
 
 ### Organizations

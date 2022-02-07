@@ -1,7 +1,7 @@
 ---
 name: Nicholus Morthil
 race: Firbolg
-hair: short curly white hair that's plain
+hair: shoulder length wavy dark red hair that's messy
 eyes: Pale Green
 skin: Pale Green
 ideal: Cooperation
@@ -13,7 +13,7 @@ bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 7/10
   written: 10th of Korent
-origin: Principality of the Palus Peoples
+origin: Verdain
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Burk
 partyID: 93
 tags:
 - Firbolg
-- Verdain
+- Principality of the Palus Peoples
 - Paladin
 - Exploration
 - 2nd
@@ -48,9 +48,9 @@ tags:
 # Nicholus Morthil
 ---
 ### Description
-- Firbolg Paladin from Principality of the Palus Peoples
+- Firbolg Paladin from Verdain
 - 2nd year Exploration student in Burk
-- short curly white hair that's plain, Pale Green eyes, and Pale Green skin
+- shoulder length wavy dark red hair that's messy, Pale Green eyes, and Pale Green skin
 - Is Heroic and Noncompetitive, and has Cooperation as their ideal
 
 ### Organizations

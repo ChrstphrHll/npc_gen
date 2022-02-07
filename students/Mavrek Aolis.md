@@ -1,7 +1,7 @@
 ---
 name: Mavrek Aolis
 race: Dragonborn
-hair: frills
+hair: 2 curled horns
 eyes: Red
 skin: gold
 ideal: Connection
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Dragonborn Sorcerer from Draconia
 - 5th year Assault student in Elkenval
-- frills, Red eyes, and gold skin
+- 2 curled horns, Red eyes, and gold skin
 - Is Realistic and Predatory, and has Connection as their ideal
 
 ### Organizations

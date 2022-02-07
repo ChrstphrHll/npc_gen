@@ -1,7 +1,7 @@
 ---
 name: Saleas Rilitar
 race: Triton
-hair: short wavy blonde hair that's wild
+hair: long straight strawberry blond hair that's well kept
 eyes: Sea Green
 skin: Aqua
 ideal: Righteous
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Triton Wizard from Whyndiem
 - 4th year Protection student in Burk
-- short wavy blonde hair that's wild, Sea Green eyes, and Aqua skin
+- long straight strawberry blond hair that's well kept, Sea Green eyes, and Aqua skin
 - Is Self-sufficent and Boisterous, and has Righteous as their ideal
 
 ### Organizations

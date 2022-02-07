@@ -1,7 +1,7 @@
 ---
 name: Averra Taleisin
 race: Elf
-hair: shoulder length straight red hair that's messy
+hair: shoulder length straight dark red hair that's well kept
 eyes: Pale Brown
 skin: Dark Tan
 ideal: Cruelty
@@ -14,7 +14,7 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 7/15
   written: 15th of Korent
-origin: Whyndiem
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Burk
 partyID: 31
 tags:
 - Elf
-- Aldercrown Empire
+- Whyndiem
 - Druid
 - Assault
 - 1st
@@ -47,9 +47,9 @@ tags:
 # Averra Taleisin
 ---
 ### Description
-- Elf Druid from Whyndiem
+- Elf Druid from Aldercrown Empire
 - 1st year Assault student in Burk
-- shoulder length straight red hair that's messy, Pale Brown eyes, and Dark Tan skin
+- shoulder length straight dark red hair that's well kept, Pale Brown eyes, and Dark Tan skin
 - Is Lucky and Hedonistic, and has Cruelty as their ideal
 
 ### Organizations

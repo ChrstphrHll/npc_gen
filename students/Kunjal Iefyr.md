@@ -1,7 +1,7 @@
 ---
 name: Kunjal Iefyr
 race: Halfling
-hair: short wavy grey hair that's plain
+hair: long straight black hair that's braided
 eyes: Pale Gray
 skin: Light Tan
 ideal: Faith
@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 13
 tags:
 - Halfling
-- Verdain
+- Kordinia
 - Cleric
 - Protection
 - 4th
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Halfling Cleric from Kordinia
 - 4th year Protection student in Fiesn
-- short wavy grey hair that's plain, Pale Gray eyes, and Light Tan skin
+- long straight black hair that's braided, Pale Gray eyes, and Light Tan skin
 - Is Carefree and Mannerless, and has Faith as their ideal
 
 ### Organizations

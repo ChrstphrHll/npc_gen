@@ -1,7 +1,7 @@
 ---
 name: Es'beth Yesheln
 race: Elf
-hair: shoulder length straight strawberry blond hair that's plain
+hair: shoulder length frizzy red hair that's well kept
 eyes: Pale Blue
 skin: Light
 ideal: Simplicity
@@ -52,7 +52,7 @@ tags:
 ### Description
 - Elf Monk from Aldercrown Empire
 - 1st year Exploration student in Treskal
-- shoulder length straight strawberry blond hair that's plain, Pale Blue eyes, and Light skin
+- shoulder length frizzy red hair that's well kept, Pale Blue eyes, and Light skin
 - Is Stylish and Neurotic, and has Simplicity as their ideal
 
 ### Organizations

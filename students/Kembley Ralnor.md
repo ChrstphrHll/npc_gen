@@ -1,7 +1,7 @@
 ---
 name: Kembley Ralnor
 race: Half-Orc
-hair: short straight auburn hair that's braided
+hair: short curly strawberry blond hair that's plain
 eyes: Blue
 skin: Pale Gray
 ideal: Entrepreneurial
@@ -14,7 +14,7 @@ bond: I owe a debt I can never repay to the person who took pity on me.
 birthday:
   numeric: 4/15
   written: 15th of Moradent
-origin: Verdain
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 80
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Verdain
 - Sorcerer
 - Protection
 - 8th
@@ -47,9 +47,9 @@ tags:
 # Kembley Ralnor
 ---
 ### Description
-- Half-Orc Sorcerer from Verdain
+- Half-Orc Sorcerer from Magmus Centerhold
 - 8th year Protection student in Jettenia
-- short straight auburn hair that's braided, Blue eyes, and Pale Gray skin
+- short curly strawberry blond hair that's plain, Blue eyes, and Pale Gray skin
 - Is Unaggressive and Unimaginative, and has Entrepreneurial as their ideal
 
 ### Organizations

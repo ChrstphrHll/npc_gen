@@ -1,7 +1,7 @@
 ---
 name: Brannos Bellas
 race: Human
-hair: long straight blonde hair that's plain
+hair: long wavy dark red hair that's put up
 eyes: Amber
 skin: Dark Brown
 ideal: Balance
@@ -13,7 +13,7 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 1/13
   written: 13th of Avanent
-origin: Floating Island
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 42
 tags:
 - Human
-- Shadesburry Initiative
+- Floating Island
 - Barbarian
 - Protection
 - 6th
@@ -46,9 +46,9 @@ tags:
 # Brannos Bellas
 ---
 ### Description
-- Human Barbarian from Floating Island
+- Human Barbarian from Principality of the Palus Peoples
 - 6th year Protection student in Fiesn
-- long straight blonde hair that's plain, Amber eyes, and Dark Brown skin
+- long wavy dark red hair that's put up, Amber eyes, and Dark Brown skin
 - Is Progressive and Opportunistic, and has Balance as their ideal
 
 ### Organizations

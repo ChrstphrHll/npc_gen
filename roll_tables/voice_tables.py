@@ -15,3 +15,4 @@ def get_voice():
     timings = ["sudden", "sustained"]
     voice_dict["timing"] = random.choice(timings)
 
+    return voice_dict

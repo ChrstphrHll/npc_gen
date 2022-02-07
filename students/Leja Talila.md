@@ -1,7 +1,7 @@
 ---
 name: Leja Talila
 race: Elf
-hair: long wavy red hair that's well kept
+hair: short curly violet hair that's plain
 eyes: Hazel
 skin: Fair
 ideal: Prosperity
@@ -14,7 +14,7 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 1/13
   written: 13th of Avanent
-origin: Shadesburry Initiative
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -36,7 +36,7 @@ guild: Burk
 partyID: 83
 tags:
 - Elf
-- Beleriand
+- Shadesburry Initiative
 - Sorcerer
 - Diplomacy
 - 3rd
@@ -45,9 +45,9 @@ tags:
 # Leja Talila
 ---
 ### Description
-- Elf Sorcerer from Shadesburry Initiative
+- Elf Sorcerer from Beleriand
 - 3rd year Diplomacy student in Burk
-- long wavy red hair that's well kept, Hazel eyes, and Fair skin
+- short curly violet hair that's plain, Hazel eyes, and Fair skin
 - Is Upright and Monstrous, and has Prosperity as their ideal
 
 ### Organizations

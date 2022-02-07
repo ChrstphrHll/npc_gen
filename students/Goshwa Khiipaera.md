@@ -1,7 +1,7 @@
 ---
 name: Goshwa Khiipaera
 race: Firbolg
-hair: shoulder length straight strawberry blond hair that's wild
+hair: long curly black hair that's plain
 eyes: Hazel
 skin: Pale Brown
 ideal: Forgiveness
@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 47
 tags:
 - Firbolg
-- Verdain
+- Shadesburry Initiative
 - Fighter
 - Exploration
 - 5th
@@ -52,7 +52,7 @@ tags:
 ### Description
 - Firbolg Fighter from Shadesburry Initiative
 - 5th year Exploration student in Elkenval
-- shoulder length straight strawberry blond hair that's wild, Hazel eyes, and Pale Brown skin
+- long curly black hair that's plain, Hazel eyes, and Pale Brown skin
 - Is Proper and Airy, and has Forgiveness as their ideal
 
 ### Organizations

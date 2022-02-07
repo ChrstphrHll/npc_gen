@@ -1,7 +1,7 @@
 ---
 name: Victor Gaelira
 race: Half-Elf
-hair: short straight brunette hair that's plain
+hair: short curly brunette hair that's wild
 eyes: Pale Blue
 skin: Dark Tan
 ideal: Family
@@ -14,7 +14,7 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 7/14
   written: 14th of Korent
-origin: Aldercrown Empire
+origin: Floating Island
 voice: null
 relvance: 0
 relationships:
@@ -49,9 +49,9 @@ tags:
 # Victor Gaelira
 ---
 ### Description
-- Half-Elf Barbarian from Aldercrown Empire
+- Half-Elf Barbarian from Floating Island
 - 1st year Diplomacy student in Fiesn
-- short straight brunette hair that's plain, Pale Blue eyes, and Dark Tan skin
+- short curly brunette hair that's wild, Pale Blue eyes, and Dark Tan skin
 - Is Ambitious and Evil, and has Family as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Hanro Fieryat
 race: Triton
-hair: short curly lighter blonde hair that's plain
+hair: long wavy lighter blonde hair that's plain
 eyes: Pale Gray
 skin: Pale Green
 ideal: Charisma
@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 16
 tags:
 - Triton
-- Aldercrown Empire
+- Whyndiem
 - Paladin
 - Exploration
 - 1st
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Triton Paladin from Whyndiem
 - 1st year Exploration student in Alderden
-- short curly lighter blonde hair that's plain, Pale Gray eyes, and Pale Green skin
+- long wavy lighter blonde hair that's plain, Pale Gray eyes, and Pale Green skin
 - Is Gentle and Sedentary, and has Charisma as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Kymber Korrigash
 race: Elf
-hair: long wavy green hair that's wild
+hair: shoulder length straight blonde hair that's well kept
 eyes: Amber
 skin: Dark Brown
 ideal: Abundance
@@ -14,7 +14,7 @@ bond: I owe a debt I can never repay to the person who took pity on me.
 birthday:
   numeric: 4/7
   written: 7th of Moradent
-origin: Beleriand
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 33
 tags:
 - Elf
-- Verdain
+- Beleriand
 - Paladin
 - Assault
 - 2nd
@@ -47,9 +47,9 @@ tags:
 # Kymber Korrigash
 ---
 ### Description
-- Elf Paladin from Beleriand
+- Elf Paladin from Aldercrown Empire
 - 2nd year Assault student in Jettenia
-- long wavy green hair that's wild, Amber eyes, and Dark Brown skin
+- shoulder length straight blonde hair that's well kept, Amber eyes, and Dark Brown skin
 - Is Just and Physical, and has Abundance as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Wulfe Galan
 race: Genasi
-hair: shoulder length curly black hair that's messy
+hair: short straight brunette hair that's messy
 eyes: Emerald Green
 skin: fire
 ideal: Vengful
@@ -16,7 +16,7 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-origin: Magmus Centerhold
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -42,7 +42,7 @@ guild: Elkenval
 partyID: 82
 tags:
 - Genasi
-- Verdain
+- Magmus Centerhold
 - Paladin
 - Assault
 - 1st
@@ -51,9 +51,9 @@ tags:
 # Wulfe Galan
 ---
 ### Description
-- Genasi Paladin from Magmus Centerhold
+- Genasi Paladin from Beleriand
 - 1st year Assault student in Elkenval
-- shoulder length curly black hair that's messy, Emerald Green eyes, and fire skin
+- short straight brunette hair that's messy, Emerald Green eyes, and fire skin
 - Is Steadfast and Mellow, and has Vengful as their ideal
 
 ### Organizations

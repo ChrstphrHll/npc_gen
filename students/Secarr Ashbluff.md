@@ -36,7 +36,7 @@ guild: Burk
 partyID: 1
 tags:
 - Dragonborn
-- Floating Island
+- Draconia
 - Barbarian
 - Exploration
 - 6th

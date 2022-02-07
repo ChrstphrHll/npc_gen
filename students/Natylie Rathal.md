@@ -1,7 +1,7 @@
 ---
 name: Natylie Rathal
 race: Elf
-hair: shoulder length wavy platinum hair that's plain
+hair: long curly brunette hair that's wild
 eyes: Pale Gray
 skin: Tan
 ideal: Speed
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Elf Barbarian from Beleriand
 - 5th year Assault student in Jettenia
-- shoulder length wavy platinum hair that's plain, Pale Gray eyes, and Tan skin
+- long curly brunette hair that's wild, Pale Gray eyes, and Tan skin
 - Is Pleasant and Emotional, and has Speed as their ideal
 
 ### Organizations

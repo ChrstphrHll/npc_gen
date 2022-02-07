@@ -1,7 +1,7 @@
 ---
 name: Hartwen Galaeron
 race: Human
-hair: shoulder length curly red hair that's messy
+hair: short wavy green hair that's plain
 eyes: Pale Blue
 skin: Fair
 ideal: Involvement
@@ -14,7 +14,7 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Beleriand
+origin: Qualnis
 voice: null
 relvance: 0
 relationships:
@@ -36,7 +36,7 @@ guild: Alderden
 partyID: 52
 tags:
 - Human
-- Shadesburry Initiative
+- Beleriand
 - Cleric
 - Diplomacy
 - 2nd
@@ -45,9 +45,9 @@ tags:
 # Hartwen Galaeron
 ---
 ### Description
-- Human Cleric from Beleriand
+- Human Cleric from Qualnis
 - 2nd year Diplomacy student in Alderden
-- shoulder length curly red hair that's messy, Pale Blue eyes, and Fair skin
+- short wavy green hair that's plain, Pale Blue eyes, and Fair skin
 - Is Plain and Childish, and has Involvement as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Sybasten Simimar
 race: Dragonborn
-hair: long spines
+hair: 2 curled horns
 eyes: Hazel
 skin: copper
 ideal: Excitement
@@ -14,7 +14,7 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 1/14
   written: 14th of Avanent
-origin: Magmus Centerhold
+origin: Draconia
 voice: null
 relvance: 0
 relationships:
@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 76
 tags:
 - Dragonborn
-- Draconia
+- Magmus Centerhold
 - Sorcerer
 - Diplomacy
 - 4th
@@ -45,9 +45,9 @@ tags:
 # Sybasten Simimar
 ---
 ### Description
-- Dragonborn Sorcerer from Magmus Centerhold
+- Dragonborn Sorcerer from Draconia
 - 4th year Diplomacy student in Elkenval
-- long spines, Hazel eyes, and copper skin
+- 2 curled horns, Hazel eyes, and copper skin
 - Is Self-reliant and Complacent, and has Excitement as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Taanyth Seeker
 race: Human
-hair: short curly dirty blonde hair that's messy
+hair: short curly brunette hair that's messy
 eyes: Pale Green
 skin: Tan
 ideal: Gratitude
@@ -15,7 +15,7 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 8/28
   written: 28th of Ravenent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Burk
 partyID: 31
 tags:
 - Human
-- Principality of the Palus Peoples
+- Magmus Centerhold
 - Monk
 - Assault
 - 1st
@@ -48,9 +48,9 @@ tags:
 # Taanyth Seeker
 ---
 ### Description
-- Human Monk from Magmus Centerhold
+- Human Monk from Aldercrown Empire
 - 1st year Assault student in Burk
-- short curly dirty blonde hair that's messy, Pale Green eyes, and Tan skin
+- short curly brunette hair that's messy, Pale Green eyes, and Tan skin
 - Is Active and Insolent, and has Gratitude as their ideal
 
 ### Organizations

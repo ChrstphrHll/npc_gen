@@ -1,7 +1,7 @@
 ---
 name: Rei Mardeiym
 race: Firbolg
-hair: short straight auburn hair that's wild
+hair: long straight blonde hair that's braided
 eyes: Pale Blue
 skin: Pale Green
 ideal: Grace
@@ -15,7 +15,7 @@ bond: I entered seclusion to hide from the ones who might still be hunting me. I
 birthday:
   numeric: 5/24
   written: 24th of Iounent
-origin: Verdain
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Alderden
 partyID: 6
 tags:
 - Firbolg
-- Principality of the Palus Peoples
+- Verdain
 - Sorcerer
 - Protection
 - 7th
@@ -48,9 +48,9 @@ tags:
 # Rei Mardeiym
 ---
 ### Description
-- Firbolg Sorcerer from Verdain
+- Firbolg Sorcerer from Beleriand
 - 7th year Protection student in Alderden
-- short straight auburn hair that's wild, Pale Blue eyes, and Pale Green skin
+- long straight blonde hair that's braided, Pale Blue eyes, and Pale Green skin
 - Is Patient and Narrow-minded, and has Grace as their ideal
 
 ### Organizations

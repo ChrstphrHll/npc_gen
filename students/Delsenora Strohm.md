@@ -1,7 +1,7 @@
 ---
 name: Delsenora Strohm
 race: Dragonborn
-hair: 5 straight horns
+hair: long spines
 eyes: Sea Green
 skin: copper
 ideal: Austerity
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Dragonborn Druid from Draconia
 - 7th year Protection student in Fiesn
-- 5 straight horns, Sea Green eyes, and copper skin
+- long spines, Sea Green eyes, and copper skin
 - Is Unambitious and Surprising, and has Austerity as their ideal
 
 ### Organizations

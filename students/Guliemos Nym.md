@@ -1,7 +1,7 @@
 ---
 name: Guliemos Nym
 race: Half-Elf
-hair: long curly white hair that's plain
+hair: shoulder length straight dark red hair that's well kept
 eyes: Pale Green
 skin: Dark Tan
 ideal: Affection
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Half-Elf Fighter from Beleriand
 - 4th year Diplomacy student in Fiesn
-- long curly white hair that's plain, Pale Green eyes, and Dark Tan skin
+- shoulder length straight dark red hair that's well kept, Pale Green eyes, and Dark Tan skin
 - Is Solemn and Critical, and has Affection as their ideal
 
 ### Organizations

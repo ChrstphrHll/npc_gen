@@ -1,7 +1,7 @@
 ---
 name: Delja Iefyr
 race: Half-Elf
-hair: long curly blonde hair that's messy
+hair: long wavy strawberry blond hair that's wild
 eyes: Amber
 skin: Light
 ideal: Power
@@ -14,7 +14,7 @@ bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 4/27
   written: 27th of Moradent
-origin: Shadesburry Initiative
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Burk
 partyID: 38
 tags:
 - Half-Elf
-- Aldercrown Empire
+- Shadesburry Initiative
 - Druid
 - Diplomacy
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Delja Iefyr
 ---
 ### Description
-- Half-Elf Druid from Shadesburry Initiative
+- Half-Elf Druid from Beleriand
 - 1st year Diplomacy student in Burk
-- long curly blonde hair that's messy, Amber eyes, and Light skin
+- long wavy strawberry blond hair that's wild, Amber eyes, and Light skin
 - Is Harmonious and Risk-taking, and has Power as their ideal
 
 ### Organizations

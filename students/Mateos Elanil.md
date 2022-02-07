@@ -1,7 +1,7 @@
 ---
 name: Mateos Elanil
 race: Halfling
-hair: short straight grey hair that's plain
+hair: shoulder length frizzy brunette hair that's plain
 eyes: Amber
 skin: Dark Tan
 ideal: Gratitude
@@ -14,7 +14,7 @@ bond: A proud noble once gave me a horrible beating, and I will take my revenge 
 birthday:
   numeric: 5/17
   written: 17th of Iounent
-origin: Beleriand
+origin: Verdain
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 60
 tags:
 - Halfling
-- Verdain
+- Beleriand
 - Rouge
 - Exploration
 - 2nd
@@ -49,9 +49,9 @@ tags:
 # Mateos Elanil
 ---
 ### Description
-- Halfling Rouge from Beleriand
+- Halfling Rouge from Verdain
 - 2nd year Exploration student in Fiesn
-- short straight grey hair that's plain, Amber eyes, and Dark Tan skin
+- shoulder length frizzy brunette hair that's plain, Amber eyes, and Dark Tan skin
 - Is Understanding and Neglectful, and has Gratitude as their ideal
 
 ### Organizations

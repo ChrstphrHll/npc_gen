@@ -1,7 +1,7 @@
 ---
 name: Garan Mirthal
 race: Halfling
-hair: short wavy grey hair that's wild
+hair: short wavy blonde hair that's put up
 eyes: Pale Gray
 skin: Pale
 ideal: Friendship
@@ -16,7 +16,7 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 2/33
   written: 33rd of Corelent
-origin: Aldercrown Empire
+origin: Kordinia
 voice: null
 relvance: 0
 relationships:
@@ -44,7 +44,7 @@ guild: Jettenia
 partyID: 68
 tags:
 - Halfling
-- Verdain
+- Aldercrown Empire
 - Ranger
 - Exploration
 - 1st
@@ -53,9 +53,9 @@ tags:
 # Garan Mirthal
 ---
 ### Description
-- Halfling Ranger from Aldercrown Empire
+- Halfling Ranger from Kordinia
 - 1st year Exploration student in Jettenia
-- short wavy grey hair that's wild, Pale Gray eyes, and Pale skin
+- short wavy blonde hair that's put up, Pale Gray eyes, and Pale skin
 - Is Neutral and Bashful, and has Friendship as their ideal
 
 ### Organizations

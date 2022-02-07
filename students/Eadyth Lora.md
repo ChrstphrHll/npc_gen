@@ -1,7 +1,7 @@
 ---
 name: Eadyth Lora
 race: Goliath
-hair: long wavy blonde hair that's put up
+hair: long straight dirty blonde hair that's plain
 eyes: Blue
 skin: Light
 ideal: Contentment
@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 26
 tags:
 - Goliath
-- Aldercrown Empire
+- Chillwild Peaks
 - Rouge
 - Protection
 - 2nd
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Goliath Rouge from Chillwild Peaks
 - 2nd year Protection student in Jettenia
-- long wavy blonde hair that's put up, Blue eyes, and Light skin
+- long straight dirty blonde hair that's plain, Blue eyes, and Light skin
 - Is Feisty and Iconoclastic, and has Contentment as their ideal
 
 ### Organizations

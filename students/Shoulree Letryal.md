@@ -1,7 +1,7 @@
 ---
 name: Shoulree Letryal
 race: Tiefling
-hair: long curly platinum hair that's plain
+hair: long straight platinum hair that's plain
 eyes: Emerald Green
 skin: Olive
 ideal: Self-Fulfillment
@@ -39,7 +39,7 @@ guild: Elkenval
 partyID: 88
 tags:
 - Tiefling
-- Magmus Centerhold
+- Aldercrown Empire
 - Monk
 - Diplomacy
 - 1st
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Tiefling Monk from Aldercrown Empire
 - 1st year Diplomacy student in Elkenval
-- long curly platinum hair that's plain, Emerald Green eyes, and Olive skin
+- long straight platinum hair that's plain, Emerald Green eyes, and Olive skin
 - Is Insistent and Solemn, and has Self-Fulfillment as their ideal
 
 ### Organizations

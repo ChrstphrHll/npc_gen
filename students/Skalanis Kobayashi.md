@@ -1,7 +1,7 @@
 ---
 name: Skalanis Kobayashi
 race: Halfling
-hair: long wavy dirty blonde hair that's well kept
+hair: long wavy auburn hair that's braided
 eyes: Pale Blue
 skin: Dark Tan
 ideal: Connection
@@ -13,7 +13,7 @@ bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 2/30
   written: 30th of Corelent
-origin: Aldercrown Empire
+origin: Kordinia
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Jettenia
 partyID: 4
 tags:
 - Halfling
-- Kordinia
+- Aldercrown Empire
 - Druid
 - Exploration
 - 6th
@@ -48,9 +48,9 @@ tags:
 # Skalanis Kobayashi
 ---
 ### Description
-- Halfling Druid from Aldercrown Empire
+- Halfling Druid from Kordinia
 - 6th year Exploration student in Jettenia
-- long wavy dirty blonde hair that's well kept, Pale Blue eyes, and Dark Tan skin
+- long wavy auburn hair that's braided, Pale Blue eyes, and Dark Tan skin
 - Is Profound and High-handed, and has Connection as their ideal
 
 ### Organizations

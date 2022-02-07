@@ -1,7 +1,7 @@
 ---
 name: Karl Cauladra
 race: Gnome
-hair: short straight strawberry blond hair that's wild
+hair: shoulder length wavy auburn hair that's braided
 eyes: Gray
 skin: Pale
 ideal: Teamwork
@@ -14,7 +14,7 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 2/3
   written: 3rd of Corelent
-origin: Shadesburry Initiative
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -51,9 +51,9 @@ tags:
 # Karl Cauladra
 ---
 ### Description
-- Gnome Rouge from Shadesburry Initiative
+- Gnome Rouge from Beleriand
 - 6th year Protection student in Treskal
-- short straight strawberry blond hair that's wild, Gray eyes, and Pale skin
+- shoulder length wavy auburn hair that's braided, Gray eyes, and Pale skin
 - Is Incorruptible and Self-centered, and has Teamwork as their ideal
 
 ### Organizations

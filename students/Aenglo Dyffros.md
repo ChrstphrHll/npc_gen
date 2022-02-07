@@ -1,7 +1,7 @@
 ---
 name: Aenglo Dyffros
 race: Elf
-hair: shoulder length straight auburn hair that's wild
+hair: short curly dirty blonde hair that's braided
 eyes: Pale Brown
 skin: Light Tan
 ideal: Happiness
@@ -13,7 +13,7 @@ bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 6/27
   written: 27th of Pelent
-origin: Aldercrown Empire
+origin: Whyndiem
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Burk
 partyID: 72
 tags:
 - Elf
-- Verdain
+- Aldercrown Empire
 - Cleric
 - Diplomacy
 - 1st
@@ -46,9 +46,9 @@ tags:
 # Aenglo Dyffros
 ---
 ### Description
-- Elf Cleric from Aldercrown Empire
+- Elf Cleric from Whyndiem
 - 1st year Diplomacy student in Burk
-- shoulder length straight auburn hair that's wild, Pale Brown eyes, and Light Tan skin
+- short curly dirty blonde hair that's braided, Pale Brown eyes, and Light Tan skin
 - Is Deferential and Dissonant, and has Happiness as their ideal
 
 ### Organizations

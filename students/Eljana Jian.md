@@ -1,7 +1,7 @@
 ---
 name: Eljana Jian
 race: Goliath
-hair: long straight platinum hair that's plain
+hair: long curly strawberry blond hair that's plain
 eyes: Blue
 skin: Dark Tan
 ideal: Harmony
@@ -36,7 +36,7 @@ guild: Fiesn
 partyID: 71
 tags:
 - Goliath
-- Magmus Centerhold
+- Chillwild Peaks
 - Fighter
 - Protection
 - 5th
@@ -47,7 +47,7 @@ tags:
 ### Description
 - Goliath Fighter from Chillwild Peaks
 - 5th year Protection student in Fiesn
-- long straight platinum hair that's plain, Blue eyes, and Dark Tan skin
+- long curly strawberry blond hair that's plain, Blue eyes, and Dark Tan skin
 - Is Challenging and Confused, and has Harmony as their ideal
 
 ### Organizations

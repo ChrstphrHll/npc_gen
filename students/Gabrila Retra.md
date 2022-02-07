@@ -1,7 +1,7 @@
 ---
 name: Gabrila Retra
 race: Dwarf
-hair: long wavy red hair that's put up
+hair: short straight lighter blonde hair that's plain
 eyes: Amber
 skin: Fair
 ideal: Contributing
@@ -13,7 +13,7 @@ bond: I would die to recover an ancient relic of my faith that was lost long ago
 birthday:
   numeric: 6/21
   written: 21st of Pelent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Treskal
 partyID: 45
 tags:
 - Dwarf
-- Principality of the Palus Peoples
+- Magmus Centerhold
 - Druid
 - Diplomacy
 - 3rd
@@ -48,9 +48,9 @@ tags:
 # Gabrila Retra
 ---
 ### Description
-- Dwarf Druid from Magmus Centerhold
+- Dwarf Druid from Aldercrown Empire
 - 3rd year Diplomacy student in Treskal
-- long wavy red hair that's put up, Amber eyes, and Fair skin
+- short straight lighter blonde hair that's plain, Amber eyes, and Fair skin
 - Is Intrepid and Reactive, and has Contributing as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Braidyn Kemetra
 race: Dwarf
-hair: shoulder length frizzy grey hair that's plain
+hair: shoulder length wavy auburn hair that's plain
 eyes: Pale Green
 skin: Light
 ideal: Fitness
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Dwarf Monk from Aldercrown Empire
 - 7th year Exploration student in Fiesn
-- shoulder length frizzy grey hair that's plain, Pale Green eyes, and Light skin
+- shoulder length wavy auburn hair that's plain, Pale Green eyes, and Light skin
 - Is Soft and Subjective, and has Fitness as their ideal
 
 ### Organizations

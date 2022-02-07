@@ -1,7 +1,7 @@
 ---
 name: Pippi Langston
 race: Tiefling
-hair: long curly blonde hair that's well kept
+hair: shoulder length straight white hair that's well kept
 eyes: Orange
 skin: Olive
 ideal: Competition
@@ -14,7 +14,7 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 2/11
   written: 11th of Corelent
-origin: Aldercrown Empire
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -49,9 +49,9 @@ tags:
 # Pippi Langston
 ---
 ### Description
-- Tiefling Artificer from Aldercrown Empire
+- Tiefling Artificer from Beleriand
 - 6th year Assault student in Jettenia
-- long curly blonde hair that's well kept, Orange eyes, and Olive skin
+- shoulder length straight white hair that's well kept, Orange eyes, and Olive skin
 - Is Passionate and Unimaginative, and has Competition as their ideal
 
 ### Organizations

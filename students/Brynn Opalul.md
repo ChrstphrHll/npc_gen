@@ -1,7 +1,7 @@
 ---
 name: Brynn Opalul
 race: Tiefling
-hair: short straight black hair that's wild
+hair: shoulder length curly strawberry blond hair that's plain
 eyes: Red
 skin: Pale Yellow
 ideal: Charisma
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Tiefling Paladin from Aldercrown Empire
 - 3rd year Exploration student in Burk
-- short straight black hair that's wild, Red eyes, and Pale Yellow skin
+- shoulder length curly strawberry blond hair that's plain, Red eyes, and Pale Yellow skin
 - Is Devoted and Odd, and has Charisma as their ideal
 
 ### Organizations

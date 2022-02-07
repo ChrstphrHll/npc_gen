@@ -1,7 +1,7 @@
 ---
 name: Yakob Lydialeera
 race: Dragonborn
-hair: 2 barbed horns
+hair: long spines
 eyes: Deep Blue
 skin: blue
 ideal: Fitness
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Dragonborn Fighter from Draconia
 - 1st year Protection student in Elkenval
-- 2 barbed horns, Deep Blue eyes, and blue skin
+- long spines, Deep Blue eyes, and blue skin
 - Is Chummy and Ambitious, and has Fitness as their ideal
 
 ### Organizations

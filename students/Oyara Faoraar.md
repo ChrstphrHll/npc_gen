@@ -1,7 +1,7 @@
 ---
 name: Oyara Faoraar
 race: Halfling
-hair: short wavy dark red hair that's wild
+hair: short wavy white hair that's put up
 eyes: Blue
 skin: Pale
 ideal: Change
@@ -13,7 +13,7 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 7/25
   written: 25th of Korent
-origin: Verdain
+origin: Kordinia
 voice: null
 relvance: 0
 relationships:
@@ -44,9 +44,9 @@ tags:
 # Oyara Faoraar
 ---
 ### Description
-- Halfling Ranger from Verdain
+- Halfling Ranger from Kordinia
 - 4th year Protection student in Elkenval
-- short wavy dark red hair that's wild, Blue eyes, and Pale skin
+- short wavy white hair that's put up, Blue eyes, and Pale skin
 - Is Skeptical and Steely, and has Change as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Jaris Amlaruil
 race: Triton
-hair: shoulder length straight auburn hair that's well kept
+hair: short straight grey hair that's wild
 eyes: Violet Red
 skin: Aqua
 ideal: Wealth
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Triton Fighter from Whyndiem
 - 7th year Protection student in Jettenia
-- shoulder length straight auburn hair that's well kept, Violet Red eyes, and Aqua skin
+- short straight grey hair that's wild, Violet Red eyes, and Aqua skin
 - Is Resourceful and Bland, and has Wealth as their ideal
 
 ### Organizations

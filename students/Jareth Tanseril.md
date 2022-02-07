@@ -1,7 +1,7 @@
 ---
 name: Jareth Tanseril
 race: Gnome
-hair: long curly platinum hair that's braided
+hair: shoulder length straight white hair that's well kept
 eyes: Blue
 skin: Light
 ideal: Learning
@@ -15,7 +15,7 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 6/2
   written: 2nd of Pelent
-origin: Shadesburry Initiative
+origin: Qualnis
 voice: null
 relvance: 0
 relationships:
@@ -48,9 +48,9 @@ tags:
 # Jareth Tanseril
 ---
 ### Description
-- Gnome Artificer from Shadesburry Initiative
+- Gnome Artificer from Qualnis
 - 7th year Exploration student in Jettenia
-- long curly platinum hair that's braided, Blue eyes, and Light skin
+- shoulder length straight white hair that's well kept, Blue eyes, and Light skin
 - Is Sage and Unreliable, and has Learning as their ideal
 
 ### Organizations

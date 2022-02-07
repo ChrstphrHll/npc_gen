@@ -1,7 +1,7 @@
 ---
 name: Shinare Bersa
 race: Tiefling
-hair: long curly violet hair that's plain
+hair: long wavy auburn hair that's plain
 eyes: Spring Green
 skin: Violet Red
 ideal: Uncaring
@@ -14,7 +14,7 @@ bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 1/23
   written: 23rd of Avanent
-origin: Kordinia
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 18
 tags:
 - Tiefling
-- Shadesburry Initiative
+- Kordinia
 - Ranger
 - Exploration
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Shinare Bersa
 ---
 ### Description
-- Tiefling Ranger from Kordinia
+- Tiefling Ranger from Aldercrown Empire
 - 1st year Exploration student in Fiesn
-- long curly violet hair that's plain, Spring Green eyes, and Violet Red skin
+- long wavy auburn hair that's plain, Spring Green eyes, and Violet Red skin
 - Is Admirable and Invisible, and has Uncaring as their ideal
 
 ### Organizations

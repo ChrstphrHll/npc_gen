@@ -1,7 +1,7 @@
 ---
 name: Lucoe Lorelei
 race: Dwarf
-hair: short straight platinum hair that's well kept
+hair: short frizzy auburn hair that's put up
 eyes: Amber
 skin: Dark Tan
 ideal: Creativity
@@ -14,7 +14,7 @@ bond: My life's work is a series of tomes related to a specific field of lore.
 birthday:
   numeric: 6/24
   written: 24th of Pelent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -49,9 +49,9 @@ tags:
 # Lucoe Lorelei
 ---
 ### Description
-- Dwarf Barbarian from Aldercrown Empire
+- Dwarf Barbarian from Magmus Centerhold
 - 2nd year Exploration student in Treskal
-- short straight platinum hair that's well kept, Amber eyes, and Dark Tan skin
+- short frizzy auburn hair that's put up, Amber eyes, and Dark Tan skin
 - Is Modest and Contemptible, and has Creativity as their ideal
 
 ### Organizations

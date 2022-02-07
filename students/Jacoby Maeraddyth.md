@@ -1,7 +1,7 @@
 ---
 name: Jacoby Maeraddyth
 race: Goliath
-hair: long straight pink hair that's wild
+hair: shoulder length frizzy white hair that's wild
 eyes: Pale Brown
 skin: Light
 ideal: Integrity
@@ -14,7 +14,7 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 5/25
   written: 25th of Iounent
-origin: Aldercrown Empire
+origin: Chillwild Peaks
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Burk
 partyID: 36
 tags:
 - Goliath
-- Chillwild Peaks
+- Aldercrown Empire
 - Monk
 - Assault
 - 2nd
@@ -47,9 +47,9 @@ tags:
 # Jacoby Maeraddyth
 ---
 ### Description
-- Goliath Monk from Aldercrown Empire
+- Goliath Monk from Chillwild Peaks
 - 2nd year Assault student in Burk
-- long straight pink hair that's wild, Pale Brown eyes, and Light skin
+- shoulder length frizzy white hair that's wild, Pale Brown eyes, and Light skin
 - Is Conservative and Invisible, and has Integrity as their ideal
 
 ### Organizations

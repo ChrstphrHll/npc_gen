@@ -1,7 +1,7 @@
 ---
 name: Tezani Morthil
 race: Elf
-hair: long wavy auburn hair that's plain
+hair: short straight auburn hair that's braided
 eyes: Gray
 skin: Light Tan
 ideal: Generosity
@@ -15,7 +15,7 @@ bond: My ill-gotten gains go to support my family.
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
-origin: Principality of the Palus Peoples
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Elkenval
 partyID: 34
 tags:
 - Elf
-- Beleriand
+- Principality of the Palus Peoples
 - Wizard
 - Assault
 - 2nd
@@ -48,9 +48,9 @@ tags:
 # Tezani Morthil
 ---
 ### Description
-- Elf Wizard from Principality of the Palus Peoples
+- Elf Wizard from Beleriand
 - 2nd year Assault student in Elkenval
-- long wavy auburn hair that's plain, Gray eyes, and Light Tan skin
+- short straight auburn hair that's braided, Gray eyes, and Light Tan skin
 - Is Deceptive and Extreme, and has Generosity as their ideal
 
 ### Organizations

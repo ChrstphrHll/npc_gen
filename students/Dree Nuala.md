@@ -1,7 +1,7 @@
 ---
 name: Dree Nuala
 race: Gnome
-hair: long straight brunette hair that's messy
+hair: long wavy grey hair that's messy
 eyes: Amber
 skin: Brown
 ideal: Stoicism
@@ -14,7 +14,7 @@ bond: I will bring terrible wrath down on the evildoers who destroyed my homelan
 birthday:
   numeric: 1/16
   written: 16th of Avanent
-origin: Verdain
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Gnome
-- Shadesburry Initiative
+- Verdain
 - Rouge
 - Diplomacy
 - 6th
@@ -51,9 +51,9 @@ tags:
 # Dree Nuala
 ---
 ### Description
-- Gnome Rouge from Verdain
+- Gnome Rouge from Aldercrown Empire
 - 6th year Diplomacy student in Treskal
-- long straight brunette hair that's messy, Amber eyes, and Brown skin
+- long wavy grey hair that's messy, Amber eyes, and Brown skin
 - Is Unreligious and Big-thinking, and has Stoicism as their ideal
 
 ### Organizations

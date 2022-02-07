@@ -1,7 +1,7 @@
 ---
 name: Halya Jian
 race: Genasi
-hair: shoulder length straight dirty blonde hair that's put up
+hair: shoulder length curly black hair that's well kept
 eyes: Blue
 skin: fire
 ideal: Home
@@ -14,7 +14,7 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
-origin: Floating Island
+origin: Verdain
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 96
 tags:
 - Genasi
-- Aldercrown Empire
+- Floating Island
 - Druid
 - Protection
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Halya Jian
 ---
 ### Description
-- Genasi Druid from Floating Island
+- Genasi Druid from Verdain
 - 1st year Protection student in Fiesn
-- shoulder length straight dirty blonde hair that's put up, Blue eyes, and fire skin
+- shoulder length curly black hair that's well kept, Blue eyes, and fire skin
 - Is Farsighted and Imprudent, and has Home as their ideal
 
 ### Organizations

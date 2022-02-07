@@ -1,7 +1,7 @@
 ---
 name: Coriss Biafyndar
 race: Elf
-hair: long straight red hair that's put up
+hair: short wavy auburn hair that's plain
 eyes: Brown
 skin: Light Tan
 ideal: Personal Development
@@ -14,7 +14,7 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
-origin: Floating Island
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 53
 tags:
 - Elf
-- Beleriand
+- Floating Island
 - Druid
 - Protection
 - 5th
@@ -47,9 +47,9 @@ tags:
 # Coriss Biafyndar
 ---
 ### Description
-- Elf Druid from Floating Island
+- Elf Druid from Beleriand
 - 5th year Protection student in Fiesn
-- long straight red hair that's put up, Brown eyes, and Light Tan skin
+- short wavy auburn hair that's plain, Brown eyes, and Light Tan skin
 - Is Equitable and Unmerciful, and has Personal Development as their ideal
 
 ### Organizations

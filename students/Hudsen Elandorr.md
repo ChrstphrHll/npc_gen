@@ -1,7 +1,7 @@
 ---
 name: Hudsen Elandorr
 race: Half-Orc
-hair: short curly red hair that's messy
+hair: long wavy strawberry blond hair that's plain
 eyes: Pale Blue
 skin: Green Blue
 ideal: Success
@@ -13,7 +13,7 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 4/4
   written: 4th of Moradent
-origin: Chillwild Peaks
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Treskal
 partyID: 45
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Chillwild Peaks
 - Druid
 - Assault
 - 3rd
@@ -48,9 +48,9 @@ tags:
 # Hudsen Elandorr
 ---
 ### Description
-- Half-Orc Druid from Chillwild Peaks
+- Half-Orc Druid from Aldercrown Empire
 - 3rd year Assault student in Treskal
-- short curly red hair that's messy, Pale Blue eyes, and Green Blue skin
+- long wavy strawberry blond hair that's plain, Pale Blue eyes, and Green Blue skin
 - Is Cooperative and Venomous, and has Success as their ideal
 
 ### Organizations

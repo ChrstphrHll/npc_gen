@@ -1,7 +1,7 @@
 ---
 name: Andrey Rauthomyr
 race: Gnome
-hair: long straight brunette hair that's messy
+hair: shoulder length straight dark red hair that's plain
 eyes: Hazel
 skin: Dark Tan
 ideal: Compassion
@@ -13,7 +13,7 @@ bond: I worked the land, I love the land, and I will protect the land.
 birthday:
   numeric: 5/6
   written: 6th of Iounent
-origin: Magmus Centerhold
+origin: Shadesburry Initiative
 voice: null
 relvance: 0
 relationships:
@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Gnome
-- Shadesburry Initiative
+- Magmus Centerhold
 - Artificer
 - Assault
 - 1st
@@ -50,9 +50,9 @@ tags:
 # Andrey Rauthomyr
 ---
 ### Description
-- Gnome Artificer from Magmus Centerhold
+- Gnome Artificer from Shadesburry Initiative
 - 1st year Assault student in Elkenval
-- long straight brunette hair that's messy, Hazel eyes, and Dark Tan skin
+- shoulder length straight dark red hair that's plain, Hazel eyes, and Dark Tan skin
 - Is Trusting and Unrealistic, and has Compassion as their ideal
 
 ### Organizations

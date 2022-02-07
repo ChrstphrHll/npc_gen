@@ -1,7 +1,7 @@
 ---
 name: Rotheloe Samblar
 race: Firbolg
-hair: shoulder length straight brunette hair that's messy
+hair: shoulder length curly blonde hair that's put up
 eyes: Pale Gray
 skin: Pale Brown
 ideal: Entertain
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Firbolg Barbarian from Verdain
 - 3rd year Protection student in Burk
-- shoulder length straight brunette hair that's messy, Pale Gray eyes, and Pale Brown skin
+- shoulder length curly blonde hair that's put up, Pale Gray eyes, and Pale Brown skin
 - Is Naughty and Skeptical, and has Entertain as their ideal
 
 ### Organizations

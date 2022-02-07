@@ -1,7 +1,7 @@
 ---
 name: Ramona Saida
 race: Dragonborn
-hair: 5 jagged horns
+hair: 2 barbed horns
 eyes: Hazel
 skin: green
 ideal: Courage
@@ -14,7 +14,7 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 3/11
   written: 11th of Melorent
-origin: Draconia
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -49,9 +49,9 @@ tags:
 # Ramona Saida
 ---
 ### Description
-- Dragonborn Druid from Draconia
+- Dragonborn Druid from Magmus Centerhold
 - 3rd year Exploration student in Alderden
-- 5 jagged horns, Hazel eyes, and green skin
+- 2 barbed horns, Hazel eyes, and green skin
 - Is Predictable and Evil, and has Courage as their ideal
 
 ### Organizations

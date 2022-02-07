@@ -1,7 +1,7 @@
 ---
 name: Levio Evindal
 race: Half-Orc
-hair: shoulder length wavy platinum hair that's plain
+hair: short curly brunette hair that's plain
 eyes: Pale Green
 skin: Pale Gray
 ideal: Intelligence
@@ -13,7 +13,7 @@ bond: I'll always remember my first ship.
 birthday:
   numeric: 7/19
   written: 19th of Korent
-origin: Chillwild Peaks
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Chillwild Peaks
 - Artificer
 - Protection
 - 2nd
@@ -50,9 +50,9 @@ tags:
 # Levio Evindal
 ---
 ### Description
-- Half-Orc Artificer from Chillwild Peaks
+- Half-Orc Artificer from Magmus Centerhold
 - 2nd year Protection student in Elkenval
-- shoulder length wavy platinum hair that's plain, Pale Green eyes, and Pale Gray skin
+- short curly brunette hair that's plain, Pale Green eyes, and Pale Gray skin
 - Is Sensual and Ignorant, and has Intelligence as their ideal
 
 ### Organizations

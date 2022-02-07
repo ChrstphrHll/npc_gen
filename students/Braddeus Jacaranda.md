@@ -1,7 +1,7 @@
 ---
 name: Braddeus Jacaranda
 race: Halfling
-hair: short curly dark red hair that's plain
+hair: short wavy strawberry blond hair that's put up
 eyes: Amber
 skin: Pale
 ideal: Appreciation
@@ -15,7 +15,7 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 6/19
   written: 19th of Pelent
-origin: Verdain
+origin: Kordinia
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 94
 tags:
 - Halfling
-- Kordinia
+- Verdain
 - Paladin
 - Diplomacy
 - 3rd
@@ -48,9 +48,9 @@ tags:
 # Braddeus Jacaranda
 ---
 ### Description
-- Halfling Paladin from Verdain
+- Halfling Paladin from Kordinia
 - 3rd year Diplomacy student in Fiesn
-- short curly dark red hair that's plain, Amber eyes, and Pale skin
+- short wavy strawberry blond hair that's put up, Amber eyes, and Pale skin
 - Is Strong-willed and Pretentious, and has Appreciation as their ideal
 
 ### Organizations

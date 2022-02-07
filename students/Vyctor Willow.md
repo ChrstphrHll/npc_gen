@@ -1,7 +1,7 @@
 ---
 name: Vyctor Willow
 race: Elf
-hair: short wavy auburn hair that's braided
+hair: long curly brunette hair that's plain
 eyes: Blue
 skin: Fair
 ideal: Responsibility
@@ -14,7 +14,7 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 3/11
   written: 11th of Melorent
-origin: Aldercrown Empire
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -51,9 +51,9 @@ tags:
 # Vyctor Willow
 ---
 ### Description
-- Elf Bard from Aldercrown Empire
+- Elf Bard from Beleriand
 - 6th year Assault student in Treskal
-- short wavy auburn hair that's braided, Blue eyes, and Fair skin
+- long curly brunette hair that's plain, Blue eyes, and Fair skin
 - Is Wise and Inhibited, and has Responsibility as their ideal
 
 ### Organizations

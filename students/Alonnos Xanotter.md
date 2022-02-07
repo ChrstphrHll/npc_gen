@@ -1,7 +1,7 @@
 ---
 name: Alonnos Xanotter
 race: Tiefling
-hair: short curly auburn hair that's plain
+hair: shoulder length wavy brunette hair that's wild
 eyes: Spring Green
 skin: Yellow
 ideal: Cooperation
@@ -16,7 +16,7 @@ bond: I entered seclusion to hide from the ones who might still be hunting me. I
 birthday:
   numeric: 6/2
   written: 2nd of Pelent
-origin: Principality of the Palus Peoples
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Elkenval
 partyID: 88
 tags:
 - Tiefling
-- Aldercrown Empire
+- Principality of the Palus Peoples
 - Sorcerer
 - Protection
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Alonnos Xanotter
 ---
 ### Description
-- Tiefling Sorcerer from Principality of the Palus Peoples
+- Tiefling Sorcerer from Beleriand
 - 1st year Protection student in Elkenval
-- short curly auburn hair that's plain, Spring Green eyes, and Yellow skin
+- shoulder length wavy brunette hair that's wild, Spring Green eyes, and Yellow skin
 - Is Folksy and Complex, and has Cooperation as their ideal
 
 ### Organizations

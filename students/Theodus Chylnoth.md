@@ -1,7 +1,7 @@
 ---
 name: Theodus Chylnoth
 race: Half-Elf
-hair: short straight strawberry blond hair that's wild
+hair: short straight auburn hair that's wild
 eyes: Pale Gray
 skin: Light
 ideal: Beauty
@@ -15,7 +15,7 @@ bond: I will someday get revenge on the corrupt temple hierarchy who branded me 
 birthday:
   numeric: 3/8
   written: 8th of Melorent
-origin: Kordinia
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Elkenval
 partyID: 40
 tags:
 - Half-Elf
-- Aldercrown Empire
+- Kordinia
 - Monk
 - Assault
 - 1st
@@ -48,9 +48,9 @@ tags:
 # Theodus Chylnoth
 ---
 ### Description
-- Half-Elf Monk from Kordinia
+- Half-Elf Monk from Beleriand
 - 1st year Assault student in Elkenval
-- short straight strawberry blond hair that's wild, Pale Gray eyes, and Light skin
+- short straight auburn hair that's wild, Pale Gray eyes, and Light skin
 - Is Benevolent and Pharissical, and has Beauty as their ideal
 
 ### Organizations

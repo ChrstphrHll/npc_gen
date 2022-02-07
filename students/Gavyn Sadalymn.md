@@ -1,7 +1,7 @@
 ---
 name: Gavyn Sadalymn
 race: Human
-hair: short wavy grey hair that's plain
+hair: shoulder length wavy platinum hair that's messy
 eyes: Hazel
 skin: Light Tan
 ideal: Nature
@@ -14,7 +14,7 @@ bond: I protect those who cannot protect themselves.
 birthday:
   numeric: 4/14
   written: 14th of Moradent
-origin: Principality of the Palus Peoples
+origin: Qualnis
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 97
 tags:
 - Human
-- Aldercrown Empire
+- Principality of the Palus Peoples
 - Ranger
 - Diplomacy
 - 5th
@@ -47,9 +47,9 @@ tags:
 # Gavyn Sadalymn
 ---
 ### Description
-- Human Ranger from Principality of the Palus Peoples
+- Human Ranger from Qualnis
 - 5th year Diplomacy student in Jettenia
-- short wavy grey hair that's plain, Hazel eyes, and Light Tan skin
+- shoulder length wavy platinum hair that's messy, Hazel eyes, and Light Tan skin
 - Is Efficient and Retiring, and has Nature as their ideal
 
 ### Organizations

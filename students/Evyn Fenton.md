@@ -1,7 +1,7 @@
 ---
 name: Evyn Fenton
 race: Half-Orc
-hair: short curly auburn hair that's wild
+hair: shoulder length wavy blonde hair that's plain
 eyes: Pale Blue
 skin: Pale Green
 ideal: Spiritualism
@@ -13,7 +13,7 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 6/11
   written: 11th of Pelent
-origin: Magmus Centerhold
+origin: Chillwild Peaks
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 34
 tags:
 - Half-Orc
-- Aldercrown Empire
+- Magmus Centerhold
 - Rouge
 - Protection
 - 2nd
@@ -46,9 +46,9 @@ tags:
 # Evyn Fenton
 ---
 ### Description
-- Half-Orc Rouge from Magmus Centerhold
+- Half-Orc Rouge from Chillwild Peaks
 - 2nd year Protection student in Elkenval
-- short curly auburn hair that's wild, Pale Blue eyes, and Pale Green skin
+- shoulder length wavy blonde hair that's plain, Pale Blue eyes, and Pale Green skin
 - Is Well-rounded and Perverse, and has Spiritualism as their ideal
 
 ### Organizations

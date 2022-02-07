@@ -1,7 +1,7 @@
 ---
 name: Abryia Rubrae
 race: Halfling
-hair: short wavy auburn hair that's wild
+hair: short frizzy auburn hair that's messy
 eyes: Green
 skin: Light
 ideal: Leadership
@@ -14,7 +14,7 @@ bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 3/26
   written: 26th of Melorent
-origin: Magmus Centerhold
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Burk
 partyID: 93
 tags:
 - Halfling
-- Verdain
+- Magmus Centerhold
 - Monk
 - Exploration
 - 2nd
@@ -49,9 +49,9 @@ tags:
 # Abryia Rubrae
 ---
 ### Description
-- Halfling Monk from Magmus Centerhold
+- Halfling Monk from Beleriand
 - 2nd year Exploration student in Burk
-- short wavy auburn hair that's wild, Green eyes, and Light skin
+- short frizzy auburn hair that's messy, Green eyes, and Light skin
 - Is Dreamer and Scheming, and has Leadership as their ideal
 
 ### Organizations

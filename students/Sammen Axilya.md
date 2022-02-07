@@ -1,7 +1,7 @@
 ---
 name: Sammen Axilya
 race: Human
-hair: long curly grey hair that's messy
+hair: long curly dirty blonde hair that's plain
 eyes: Pale Green
 skin: Tan
 ideal: Creativity
@@ -14,7 +14,7 @@ bond: I worked the land, I love the land, and I will protect the land.
 birthday:
   numeric: 7/13
   written: 13th of Korent
-origin: Aldercrown Empire
+origin: Qualnis
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 26
 tags:
 - Human
-- Chillwild Peaks
+- Aldercrown Empire
 - Paladin
 - Diplomacy
 - 2nd
@@ -47,9 +47,9 @@ tags:
 # Sammen Axilya
 ---
 ### Description
-- Human Paladin from Aldercrown Empire
+- Human Paladin from Qualnis
 - 2nd year Diplomacy student in Jettenia
-- long curly grey hair that's messy, Pale Green eyes, and Tan skin
+- long curly dirty blonde hair that's plain, Pale Green eyes, and Tan skin
 - Is Dedicated and Absentminded, and has Creativity as their ideal
 
 ### Organizations

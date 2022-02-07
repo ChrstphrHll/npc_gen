@@ -1,7 +1,7 @@
 ---
 name: Leah Faelar
 race: Human
-hair: long curly auburn hair that's put up
+hair: shoulder length curly red hair that's messy
 eyes: Green
 skin: Light Tan
 ideal: Justice
@@ -14,7 +14,7 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 4/7
   written: 7th of Moradent
-origin: Beleriand
+origin: Kordinia
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 17
 tags:
 - Human
-- Kordinia
+- Beleriand
 - Bard
 - Exploration
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Leah Faelar
 ---
 ### Description
-- Human Bard from Beleriand
+- Human Bard from Kordinia
 - 1st year Exploration student in Treskal
-- long curly auburn hair that's put up, Green eyes, and Light Tan skin
+- shoulder length curly red hair that's messy, Green eyes, and Light Tan skin
 - Is Intense and Assertive, and has Justice as their ideal
 
 ### Organizations

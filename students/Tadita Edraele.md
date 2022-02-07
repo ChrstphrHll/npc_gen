@@ -1,7 +1,7 @@
 ---
 name: Tadita Edraele
 race: Gnome
-hair: long curly strawberry blond hair that's put up
+hair: short straight lighter blonde hair that's plain
 eyes: Green
 skin: Light
 ideal: Flexibility
@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 7
 tags:
 - Gnome
-- Shadesburry Initiative
+- Aldercrown Empire
 - Paladin
 - Assault
 - 4th
@@ -53,7 +53,7 @@ tags:
 ### Description
 - Gnome Paladin from Aldercrown Empire
 - 4th year Assault student in Treskal
-- long curly strawberry blond hair that's put up, Green eyes, and Light skin
+- short straight lighter blonde hair that's plain, Green eyes, and Light skin
 - Is Thoughtful and Invisible, and has Flexibility as their ideal
 
 ### Organizations

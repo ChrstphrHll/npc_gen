@@ -1,7 +1,7 @@
 ---
 name: Miglus Yrlissa
 race: Triton
-hair: short curly dark red hair that's braided
+hair: shoulder length wavy lighter blonde hair that's plain
 eyes: Pale Brown
 skin: Aqua
 ideal: Generosity
@@ -13,7 +13,7 @@ bond: I owe my guild a great debt for forging me into the person I am today.
 birthday:
   numeric: 1/21
   written: 21st of Avanent
-origin: Whyndiem
+origin: Glasscliff Garisons
 voice: null
 relvance: 0
 relationships:
@@ -48,9 +48,9 @@ tags:
 # Miglus Yrlissa
 ---
 ### Description
-- Triton Fighter from Whyndiem
+- Triton Fighter from Glasscliff Garisons
 - 6th year Assault student in Jettenia
-- short curly dark red hair that's braided, Pale Brown eyes, and Aqua skin
+- shoulder length wavy lighter blonde hair that's plain, Pale Brown eyes, and Aqua skin
 - Is Objective and Sensual, and has Generosity as their ideal
 
 ### Organizations

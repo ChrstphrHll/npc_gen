@@ -1,7 +1,7 @@
 ---
 name: Allisa Iahalae
 race: Half-Elf
-hair: short curly violet hair that's well kept
+hair: short straight auburn hair that's put up
 eyes: Green
 skin: Tan
 ideal: Patience
@@ -14,7 +14,7 @@ bond: My tools are symbols of my past life, and I carry them so that I will neve
 birthday:
   numeric: 6/24
   written: 24th of Pelent
-origin: Aldercrown Empire
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Elkenval
 partyID: 2
 tags:
 - Half-Elf
-- Beleriand
+- Aldercrown Empire
 - Sorcerer
 - Protection
 - 1st
@@ -47,9 +47,9 @@ tags:
 # Allisa Iahalae
 ---
 ### Description
-- Half-Elf Sorcerer from Aldercrown Empire
+- Half-Elf Sorcerer from Principality of the Palus Peoples
 - 1st year Protection student in Elkenval
-- short curly violet hair that's well kept, Green eyes, and Tan skin
+- short straight auburn hair that's put up, Green eyes, and Tan skin
 - Is Considerate and Delicate, and has Patience as their ideal
 
 ### Organizations

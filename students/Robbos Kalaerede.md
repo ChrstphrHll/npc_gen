@@ -1,7 +1,7 @@
 ---
 name: Robbos Kalaerede
 race: Half-Elf
-hair: long curly auburn hair that's wild
+hair: shoulder length curly grey hair that's plain
 eyes: Pale Green
 skin: Tan
 ideal: Spontaneity
@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 7
 tags:
 - Half-Elf
-- Beleriand
+- Aldercrown Empire
 - Artificer
 - Protection
 - 4th
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Half-Elf Artificer from Aldercrown Empire
 - 4th year Protection student in Treskal
-- long curly auburn hair that's wild, Pale Green eyes, and Tan skin
+- shoulder length curly grey hair that's plain, Pale Green eyes, and Tan skin
 - Is Graceful and Driving, and has Spontaneity as their ideal
 
 ### Organizations

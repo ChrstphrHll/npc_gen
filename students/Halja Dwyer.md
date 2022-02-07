@@ -1,7 +1,7 @@
 ---
 name: Halja Dwyer
 race: Tiefling
-hair: shoulder length curly grey hair that's plain
+hair: shoulder length curly grey hair that's wild
 eyes: Spring Green
 skin: Pale Blue
 ideal: Prosperity
@@ -13,7 +13,7 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 5/10
   written: 10th of Iounent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -35,7 +35,7 @@ guild: Alderden
 partyID: 55
 tags:
 - Tiefling
-- Beleriand
+- Aldercrown Empire
 - Fighter
 - Exploration
 - 1st
@@ -44,9 +44,9 @@ tags:
 # Halja Dwyer
 ---
 ### Description
-- Tiefling Fighter from Aldercrown Empire
+- Tiefling Fighter from Magmus Centerhold
 - 1st year Exploration student in Alderden
-- shoulder length curly grey hair that's plain, Spring Green eyes, and Pale Blue skin
+- shoulder length curly grey hair that's wild, Spring Green eyes, and Pale Blue skin
 - Is Iconoclastic and Stingy, and has Prosperity as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Selina Bellas
 race: Aasimar
-hair: short wavy lighter blonde hair that's plain
+hair: short wavy brunette hair that's wild
 eyes: Pale Gray
 skin: Light
 ideal: Optimism
@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 60
 tags:
 - Aasimar
-- Beleriand
+- Aldercrown Empire
 - Paladin
 - Assault
 - 2nd
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Aasimar Paladin from Aldercrown Empire
 - 2nd year Assault student in Fiesn
-- short wavy lighter blonde hair that's plain, Pale Gray eyes, and Light skin
+- short wavy brunette hair that's wild, Pale Gray eyes, and Light skin
 - Is Systematic and Clumsy, and has Optimism as their ideal
 
 ### Organizations

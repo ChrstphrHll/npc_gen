@@ -1,7 +1,7 @@
 ---
 name: Q Yulmanda
 race: Tiefling
-hair: long curly dark red hair that's messy
+hair: long curly violet hair that's plain
 eyes: Gray
 skin: Dark Red
 ideal: Security
@@ -13,7 +13,7 @@ bond: In a harbor town, I have a paramour whose eyes nearly stole me from the se
 birthday:
   numeric: 7/19
   written: 19th of Korent
-origin: Verdain
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Burk
 partyID: 65
 tags:
 - Tiefling
-- Aldercrown Empire
+- Verdain
 - Barbarian
 - Exploration
 - 2nd
@@ -46,9 +46,9 @@ tags:
 # Q Yulmanda
 ---
 ### Description
-- Tiefling Barbarian from Verdain
+- Tiefling Barbarian from Aldercrown Empire
 - 2nd year Exploration student in Burk
-- long curly dark red hair that's messy, Gray eyes, and Dark Red skin
+- long curly violet hair that's plain, Gray eyes, and Dark Red skin
 - Is Appreciative and Mystical, and has Security as their ideal
 
 ### Organizations

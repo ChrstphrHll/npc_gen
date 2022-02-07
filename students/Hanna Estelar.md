@@ -1,7 +1,7 @@
 ---
 name: Hanna Estelar
 race: Human
-hair: shoulder length curly platinum hair that's plain
+hair: long wavy brunette hair that's plain
 eyes: Pale Gray
 skin: Dark Tan
 ideal: Independence
@@ -40,7 +40,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Human
-- Magmus Centerhold
+- Aldercrown Empire
 - Bard
 - Diplomacy
 - 3rd
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Human Bard from Aldercrown Empire
 - 3rd year Diplomacy student in Alderden
-- shoulder length curly platinum hair that's plain, Pale Gray eyes, and Dark Tan skin
+- long wavy brunette hair that's plain, Pale Gray eyes, and Dark Tan skin
 - Is Responsive and Unrestrained, and has Independence as their ideal
 
 ### Organizations

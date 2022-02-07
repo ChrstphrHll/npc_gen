@@ -1,7 +1,7 @@
 ---
 name: Ysak Llewellenar
 race: Dragonborn
-hair: long spines
+hair: short spines
 eyes: Violet Red
 skin: silver
 ideal: Renewal
@@ -13,7 +13,7 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 5/1
   written: 1st of Iounent
-origin: Draconia
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -50,9 +50,9 @@ tags:
 # Ysak Llewellenar
 ---
 ### Description
-- Dragonborn Paladin from Draconia
+- Dragonborn Paladin from Magmus Centerhold
 - 1st year Assault student in Jettenia
-- long spines, Violet Red eyes, and silver skin
+- short spines, Violet Red eyes, and silver skin
 - Is Disciplined and Narrow-minded, and has Renewal as their ideal
 
 ### Organizations

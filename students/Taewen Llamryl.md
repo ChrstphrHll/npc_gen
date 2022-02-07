@@ -1,7 +1,7 @@
 ---
 name: Taewen Llamryl
 race: Human
-hair: long wavy auburn hair that's plain
+hair: long straight auburn hair that's plain
 eyes: Amber
 skin: Tan
 ideal: Renewal
@@ -15,7 +15,7 @@ bond: Somewhere out there, I have a child who doesn't know me. I'm making the wo
 birthday:
   numeric: 5/25
   written: 25th of Iounent
-origin: Qualnis
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 61
 tags:
 - Human
-- Beleriand
+- Qualnis
 - Artificer
 - Assault
 - 2nd
@@ -48,9 +48,9 @@ tags:
 # Taewen Llamryl
 ---
 ### Description
-- Human Artificer from Qualnis
+- Human Artificer from Aldercrown Empire
 - 2nd year Assault student in Fiesn
-- long wavy auburn hair that's plain, Amber eyes, and Tan skin
+- long straight auburn hair that's plain, Amber eyes, and Tan skin
 - Is Fearless and High-spirited, and has Renewal as their ideal
 
 ### Organizations

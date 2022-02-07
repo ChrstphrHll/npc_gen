@@ -1,7 +1,7 @@
 ---
 name: Asralyn Rhangyl
 race: Elf
-hair: shoulder length curly auburn hair that's plain
+hair: long wavy blonde hair that's plain
 eyes: Pale Blue
 skin: Brown
 ideal: Effectiveness
@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 71
 tags:
 - Elf
-- Aldercrown Empire
+- Beleriand
 - Ranger
 - Assault
 - 5th
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Elf Ranger from Beleriand
 - 5th year Assault student in Fiesn
-- shoulder length curly auburn hair that's plain, Pale Blue eyes, and Brown skin
+- long wavy blonde hair that's plain, Pale Blue eyes, and Brown skin
 - Is Magnanimous and Quiet, and has Effectiveness as their ideal
 
 ### Organizations

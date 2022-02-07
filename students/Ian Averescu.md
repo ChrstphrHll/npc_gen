@@ -1,7 +1,7 @@
 ---
 name: Ian Averescu
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Amber
 skin: black
 ideal: Loyalty
@@ -46,7 +46,7 @@ tags:
 ### Description
 - Dragonborn Sorcerer from Draconia
 - 2nd year Assault student in Alderden
-- short spines, Amber eyes, and black skin
+- frills, Amber eyes, and black skin
 - Is Imaginative and Extreme, and has Loyalty as their ideal
 
 ### Organizations

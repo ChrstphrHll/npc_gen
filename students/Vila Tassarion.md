@@ -1,7 +1,7 @@
 ---
 name: Vila Tassarion
 race: Human
-hair: long frizzy brunette hair that's plain
+hair: shoulder length straight lighter blonde hair that's messy
 eyes: Pale Green
 skin: Pale
 ideal: Power
@@ -15,7 +15,7 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 3/24
   written: 24th of Melorent
-origin: Verdain
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 47
 tags:
 - Human
-- Floating Island
+- Verdain
 - Bard
 - Diplomacy
 - 5th
@@ -50,9 +50,9 @@ tags:
 # Vila Tassarion
 ---
 ### Description
-- Human Bard from Verdain
+- Human Bard from Aldercrown Empire
 - 5th year Diplomacy student in Elkenval
-- long frizzy brunette hair that's plain, Pale Green eyes, and Pale skin
+- shoulder length straight lighter blonde hair that's messy, Pale Green eyes, and Pale skin
 - Is Educated and Effeminate, and has Power as their ideal
 
 ### Organizations

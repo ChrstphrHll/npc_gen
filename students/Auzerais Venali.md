@@ -1,7 +1,7 @@
 ---
 name: Auzerais Venali
 race: Dwarf
-hair: shoulder length wavy white hair that's braided
+hair: long wavy brunette hair that's plain
 eyes: Hazel
 skin: Dark Brown
 ideal: Pessimism
@@ -14,7 +14,7 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 6/19
   written: 19th of Pelent
-origin: Beleriand
+origin: Chillwild Peaks
 voice: null
 relvance: 0
 relationships:
@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 23
 tags:
 - Dwarf
-- Shadesburry Initiative
+- Beleriand
 - Rouge
 - Exploration
 - 4th
@@ -45,9 +45,9 @@ tags:
 # Auzerais Venali
 ---
 ### Description
-- Dwarf Rouge from Beleriand
+- Dwarf Rouge from Chillwild Peaks
 - 4th year Exploration student in Elkenval
-- shoulder length wavy white hair that's braided, Hazel eyes, and Dark Brown skin
+- long wavy brunette hair that's plain, Hazel eyes, and Dark Brown skin
 - Is Unhurried and Neurotic, and has Pessimism as their ideal
 
 ### Organizations

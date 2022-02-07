@@ -1,7 +1,7 @@
 ---
 name: Alver Boneflare
 race: Goliath
-hair: short curly auburn hair that's braided
+hair: long wavy dark red hair that's put up
 eyes: Pale Green
 skin: Light Tan
 ideal: Creativity
@@ -54,7 +54,7 @@ tags:
 ### Description
 - Goliath Cleric from Chillwild Peaks
 - 1st year Protection student in Jettenia
-- short curly auburn hair that's braided, Pale Green eyes, and Light Tan skin
+- long wavy dark red hair that's put up, Pale Green eyes, and Light Tan skin
 - Is Reflective and Cold-hearted, and has Creativity as their ideal
 
 ### Organizations

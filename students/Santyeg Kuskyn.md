@@ -1,7 +1,7 @@
 ---
 name: Santyeg Kuskyn
 race: Elf
-hair: long wavy grey hair that's plain
+hair: shoulder length frizzy white hair that's well kept
 eyes: Hazel
 skin: Brown
 ideal: Humane
@@ -15,7 +15,7 @@ bond: My isolation gave me great insight into a great evil that only I can destr
 birthday:
   numeric: 2/4
   written: 4th of Corelent
-origin: Beleriand
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -48,9 +48,9 @@ tags:
 # Santyeg Kuskyn
 ---
 ### Description
-- Elf Rouge from Beleriand
+- Elf Rouge from Principality of the Palus Peoples
 - 1st year Assault student in Fiesn
-- long wavy grey hair that's plain, Hazel eyes, and Brown skin
+- shoulder length frizzy white hair that's well kept, Hazel eyes, and Brown skin
 - Is Self-critical and Cute, and has Humane as their ideal
 
 ### Organizations

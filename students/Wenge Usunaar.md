@@ -1,7 +1,7 @@
 ---
 name: Wenge Usunaar
 race: Firbolg
-hair: shoulder length straight white hair that's braided
+hair: long curly black hair that's plain
 eyes: Hazel
 skin: Pale Gray
 ideal: Greed
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Firbolg Monk from Verdain
 - 8th year Exploration student in Jettenia
-- shoulder length straight white hair that's braided, Hazel eyes, and Pale Gray skin
+- long curly black hair that's plain, Hazel eyes, and Pale Gray skin
 - Is Supportive and Opportunistic, and has Greed as their ideal
 
 ### Organizations

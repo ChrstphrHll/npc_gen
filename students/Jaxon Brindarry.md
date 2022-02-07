@@ -1,7 +1,7 @@
 ---
 name: Jaxon Brindarry
 race: Elf
-hair: shoulder length curly dirty blonde hair that's plain
+hair: long wavy dirty blonde hair that's put up
 eyes: Blue
 skin: Brown
 ideal: Wisdom
@@ -40,7 +40,7 @@ guild: Jettenia
 partyID: 28
 tags:
 - Elf
-- Aldercrown Empire
+- Beleriand
 - Artificer
 - Assault
 - 3rd
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Elf Artificer from Beleriand
 - 3rd year Assault student in Jettenia
-- shoulder length curly dirty blonde hair that's plain, Blue eyes, and Brown skin
+- long wavy dirty blonde hair that's put up, Blue eyes, and Brown skin
 - Is Dreamy and Naive, and has Wisdom as their ideal
 
 ### Organizations

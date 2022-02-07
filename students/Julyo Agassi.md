@@ -1,7 +1,7 @@
 ---
 name: Julyo Agassi
 race: Dwarf
-hair: long curly lighter blonde hair that's messy
+hair: shoulder length curly brunette hair that's plain
 eyes: Green
 skin: Dark Brown
 ideal: Peace
@@ -14,7 +14,7 @@ bond: My life's work is a series of tomes related to a specific field of lore.
 birthday:
   numeric: 4/11
   written: 11th of Moradent
-origin: Aldercrown Empire
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -49,9 +49,9 @@ tags:
 # Julyo Agassi
 ---
 ### Description
-- Dwarf Sorcerer from Aldercrown Empire
+- Dwarf Sorcerer from Beleriand
 - 5th year Assault student in Elkenval
-- long curly lighter blonde hair that's messy, Green eyes, and Dark Brown skin
+- shoulder length curly brunette hair that's plain, Green eyes, and Dark Brown skin
 - Is Stable and Harsh, and has Peace as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Ilksal Immianthe
 race: Triton
-hair: long curly violet hair that's well kept
+hair: long curly platinum hair that's messy
 eyes: Blue
 skin: Pale Green
 ideal: Spiritualism
@@ -14,7 +14,7 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 5/22
   written: 22nd of Iounent
-origin: Glasscliff Garisons
+origin: Whyndiem
 voice: null
 relvance: 0
 relationships:
@@ -36,7 +36,7 @@ guild: Treskal
 partyID: 8
 tags:
 - Triton
-- Whyndiem
+- Glasscliff Garisons
 - Barbarian
 - Protection
 - 3rd
@@ -45,9 +45,9 @@ tags:
 # Ilksal Immianthe
 ---
 ### Description
-- Triton Barbarian from Glasscliff Garisons
+- Triton Barbarian from Whyndiem
 - 3rd year Protection student in Treskal
-- long curly violet hair that's well kept, Blue eyes, and Pale Green skin
+- long curly platinum hair that's messy, Blue eyes, and Pale Green skin
 - Is Friendly and Shy, and has Spiritualism as their ideal
 
 ### Organizations

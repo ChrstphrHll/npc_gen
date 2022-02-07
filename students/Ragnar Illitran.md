@@ -1,7 +1,7 @@
 ---
 name: Ragnar Illitran
 race: Halfling
-hair: shoulder length straight violet hair that's messy
+hair: long straight black hair that's plain
 eyes: Brown
 skin: Light
 ideal: Reciprocity
@@ -14,7 +14,7 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 2/9
   written: 9th of Corelent
-origin: Kordinia
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -47,9 +47,9 @@ tags:
 # Ragnar Illitran
 ---
 ### Description
-- Halfling Artificer from Kordinia
+- Halfling Artificer from Principality of the Palus Peoples
 - 6th year Diplomacy student in Fiesn
-- shoulder length straight violet hair that's messy, Brown eyes, and Light skin
+- long straight black hair that's plain, Brown eyes, and Light skin
 - Is Logical and Well-meaning, and has Reciprocity as their ideal
 
 ### Organizations

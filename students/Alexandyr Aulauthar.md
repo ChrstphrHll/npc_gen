@@ -1,7 +1,7 @@
 ---
 name: Alexandyr Aulauthar
 race: Firbolg
-hair: short curly dark red hair that's messy
+hair: short wavy brunette hair that's put up
 eyes: Pale Blue
 skin: Pale Blue
 ideal: Home
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Firbolg Wizard from Verdain
 - 5th year Diplomacy student in Fiesn
-- short curly dark red hair that's messy, Pale Blue eyes, and Pale Blue skin
+- short wavy brunette hair that's put up, Pale Blue eyes, and Pale Blue skin
 - Is Communicative and Ungrateful, and has Home as their ideal
 
 ### Organizations

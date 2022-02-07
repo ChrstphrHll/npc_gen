@@ -1,7 +1,7 @@
 ---
 name: Wren Urmicca
 race: Half-Orc
-hair: long wavy red hair that's put up
+hair: short curly strawberry blond hair that's plain
 eyes: Gray
 skin: Deep Green
 ideal: Righteous
@@ -47,7 +47,7 @@ tags:
 ### Description
 - Half-Orc Monk from Magmus Centerhold
 - 1st year Protection student in Elkenval
-- long wavy red hair that's put up, Gray eyes, and Deep Green skin
+- short curly strawberry blond hair that's plain, Gray eyes, and Deep Green skin
 - Is Venturesome and Suspicious, and has Righteous as their ideal
 
 ### Organizations

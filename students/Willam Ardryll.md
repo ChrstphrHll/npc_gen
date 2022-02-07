@@ -41,7 +41,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Kenku
-- Verdain
+- Black Rock
 - Wizard
 - Assault
 - 2nd

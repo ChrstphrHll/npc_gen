@@ -1,7 +1,7 @@
 ---
 name: Hazel Traeliorn
 race: Tiefling
-hair: shoulder length curly grey hair that's wild
+hair: shoulder length curly auburn hair that's plain
 eyes: Brown
 skin: Blue
 ideal: Caring
@@ -14,7 +14,7 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 7/12
   written: 12th of Korent
-origin: Aldercrown Empire
+origin: Chillwild Peaks
 voice: null
 relvance: 0
 relationships:
@@ -36,7 +36,7 @@ guild: Burk
 partyID: 41
 tags:
 - Tiefling
-- Principality of the Palus Peoples
+- Aldercrown Empire
 - Monk
 - Diplomacy
 - 1st
@@ -45,9 +45,9 @@ tags:
 # Hazel Traeliorn
 ---
 ### Description
-- Tiefling Monk from Aldercrown Empire
+- Tiefling Monk from Chillwild Peaks
 - 1st year Diplomacy student in Burk
-- shoulder length curly grey hair that's wild, Brown eyes, and Blue skin
+- shoulder length curly auburn hair that's plain, Brown eyes, and Blue skin
 - Is Adventurous and Unctuous, and has Caring as their ideal
 
 ### Organizations

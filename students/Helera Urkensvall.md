@@ -1,7 +1,7 @@
 ---
 name: Helera Urkensvall
 race: Halfling
-hair: long straight strawberry blond hair that's well kept
+hair: shoulder length curly blonde hair that's plain
 eyes: Green
 skin: Brown
 ideal: Change
@@ -14,7 +14,7 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 7/27
   written: 27th of Korent
-origin: Beleriand
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Burk
 partyID: 9
 tags:
 - Halfling
-- Aldercrown Empire
+- Beleriand
 - Barbarian
 - Exploration
 - 3rd
@@ -49,9 +49,9 @@ tags:
 # Helera Urkensvall
 ---
 ### Description
-- Halfling Barbarian from Beleriand
+- Halfling Barbarian from Principality of the Palus Peoples
 - 3rd year Exploration student in Burk
-- long straight strawberry blond hair that's well kept, Green eyes, and Brown skin
+- shoulder length curly blonde hair that's plain, Green eyes, and Brown skin
 - Is Sociable and Cantankerous, and has Change as their ideal
 
 ### Organizations

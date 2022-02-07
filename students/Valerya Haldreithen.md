@@ -1,7 +1,7 @@
 ---
 name: Valerya Haldreithen
 race: Triton
-hair: short wavy brunette hair that's messy
+hair: shoulder length straight strawberry blond hair that's plain
 eyes: Pale Brown
 skin: Spring Green
 ideal: Courage
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Triton Druid from Whyndiem
 - 1st year Assault student in Fiesn
-- short wavy brunette hair that's messy, Pale Brown eyes, and Spring Green skin
+- shoulder length straight strawberry blond hair that's plain, Pale Brown eyes, and Spring Green skin
 - Is Fair and Mechanical, and has Courage as their ideal
 
 ### Organizations

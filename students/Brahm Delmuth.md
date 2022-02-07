@@ -1,7 +1,7 @@
 ---
 name: Brahm Delmuth
 race: Half-Orc
-hair: short curly grey hair that's messy
+hair: short frizzy green hair that's messy
 eyes: Pale Blue
 skin: Pale Green
 ideal: Stoicism
@@ -14,7 +14,7 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
-origin: Chillwild Peaks
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -42,7 +42,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Chillwild Peaks
 - Paladin
 - Exploration
 - 8th
@@ -51,9 +51,9 @@ tags:
 # Brahm Delmuth
 ---
 ### Description
-- Half-Orc Paladin from Chillwild Peaks
+- Half-Orc Paladin from Aldercrown Empire
 - 8th year Exploration student in Fiesn
-- short curly grey hair that's messy, Pale Blue eyes, and Pale Green skin
+- short frizzy green hair that's messy, Pale Blue eyes, and Pale Green skin
 - Is Exuberant and Conservative, and has Stoicism as their ideal
 
 ### Organizations

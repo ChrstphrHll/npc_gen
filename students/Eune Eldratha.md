@@ -1,7 +1,7 @@
 ---
 name: Eune Eldratha
 race: Triton
-hair: long straight brunette hair that's put up
+hair: long straight grey hair that's well kept
 eyes: Violet Red
 skin: Emerald Green
 ideal: Forgiveness
@@ -13,7 +13,7 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 1/28
   written: 28th of Avanent
-origin: Glasscliff Garisons
+origin: Whyndiem
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 34
 tags:
 - Triton
-- Magmus Centerhold
+- Glasscliff Garisons
 - Druid
 - Protection
 - 2nd
@@ -46,9 +46,9 @@ tags:
 # Eune Eldratha
 ---
 ### Description
-- Triton Druid from Glasscliff Garisons
+- Triton Druid from Whyndiem
 - 2nd year Protection student in Elkenval
-- long straight brunette hair that's put up, Violet Red eyes, and Emerald Green skin
+- long straight grey hair that's well kept, Violet Red eyes, and Emerald Green skin
 - Is Unreligious and Libidinous, and has Forgiveness as their ideal
 
 ### Organizations

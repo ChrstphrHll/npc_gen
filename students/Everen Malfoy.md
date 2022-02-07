@@ -1,7 +1,7 @@
 ---
 name: Everen Malfoy
 race: Halfling
-hair: long straight white hair that's messy
+hair: long frizzy dirty blonde hair that's messy
 eyes: Hazel
 skin: Dark Brown
 ideal: Gratitude
@@ -13,7 +13,7 @@ bond: I owe my life to the priest who took me in when my parents died.
 birthday:
   numeric: 4/1
   written: 1st of Moradent
-origin: Aldercrown Empire
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 61
 tags:
 - Halfling
-- Magmus Centerhold
+- Aldercrown Empire
 - Fighter
 - Exploration
 - 2nd
@@ -46,9 +46,9 @@ tags:
 # Everen Malfoy
 ---
 ### Description
-- Halfling Fighter from Aldercrown Empire
+- Halfling Fighter from Principality of the Palus Peoples
 - 2nd year Exploration student in Fiesn
-- long straight white hair that's messy, Hazel eyes, and Dark Brown skin
+- long frizzy dirty blonde hair that's messy, Hazel eyes, and Dark Brown skin
 - Is Scholarly and Subjective, and has Gratitude as their ideal
 
 ### Organizations

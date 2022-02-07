@@ -1,7 +1,7 @@
 ---
 name: Rivik Connak
 race: Triton
-hair: long curly auburn hair that's braided
+hair: shoulder length wavy auburn hair that's messy
 eyes: Aqua
 skin: Olive
 ideal: Humanity
@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 30
 tags:
 - Triton
-- Glasscliff Garisons
+- Whyndiem
 - Monk
 - Assault
 - 3rd
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Triton Monk from Whyndiem
 - 3rd year Assault student in Elkenval
-- long curly auburn hair that's braided, Aqua eyes, and Olive skin
+- shoulder length wavy auburn hair that's messy, Aqua eyes, and Olive skin
 - Is Hearty and Neutral, and has Humanity as their ideal
 
 ### Organizations

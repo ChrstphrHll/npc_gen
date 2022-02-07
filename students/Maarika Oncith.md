@@ -1,7 +1,7 @@
 ---
 name: Maarika Oncith
 race: Dragonborn
-hair: long spines
+hair: frills
 eyes: Deep Blue
 skin: red
 ideal: Community
@@ -13,7 +13,7 @@ bond: I work to preserve a library, university, scriptorium, or monastery.
 birthday:
   numeric: 1/30
   written: 30th of Avanent
-origin: Verdain
+origin: Draconia
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 94
 tags:
 - Dragonborn
-- Draconia
+- Verdain
 - Artificer
 - Protection
 - 3rd
@@ -46,9 +46,9 @@ tags:
 # Maarika Oncith
 ---
 ### Description
-- Dragonborn Artificer from Verdain
+- Dragonborn Artificer from Draconia
 - 3rd year Protection student in Fiesn
-- long spines, Deep Blue eyes, and red skin
+- frills, Deep Blue eyes, and red skin
 - Is Tractable and Naughty, and has Community as their ideal
 
 ### Organizations

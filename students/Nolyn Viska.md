@@ -1,7 +1,7 @@
 ---
 name: Nolyn Viska
 race: Elf
-hair: long straight grey hair that's plain
+hair: long straight strawberry blond hair that's wild
 eyes: Pale Gray
 skin: Brown
 ideal: Security
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Elf Wizard from Aldercrown Empire
 - 1st year Exploration student in Treskal
-- long straight grey hair that's plain, Pale Gray eyes, and Brown skin
+- long straight strawberry blond hair that's wild, Pale Gray eyes, and Brown skin
 - Is Jovial and Political, and has Security as their ideal
 
 ### Organizations

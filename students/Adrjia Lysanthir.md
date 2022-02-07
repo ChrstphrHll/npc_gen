@@ -1,7 +1,7 @@
 ---
 name: Adrjia Lysanthir
 race: Triton
-hair: shoulder length curly brunette hair that's messy
+hair: shoulder length curly auburn hair that's plain
 eyes: Pale Blue
 skin: Aqua
 ideal: Compassion
@@ -15,7 +15,7 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 4/15
   written: 15th of Moradent
-origin: Whyndiem
+origin: Glasscliff Garisons
 voice: null
 relvance: 0
 relationships:
@@ -43,7 +43,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Triton
-- Shadesburry Initiative
+- Whyndiem
 - Ranger
 - Assault
 - 1st
@@ -52,9 +52,9 @@ tags:
 # Adrjia Lysanthir
 ---
 ### Description
-- Triton Ranger from Whyndiem
+- Triton Ranger from Glasscliff Garisons
 - 1st year Assault student in Treskal
-- shoulder length curly brunette hair that's messy, Pale Blue eyes, and Aqua skin
+- shoulder length curly auburn hair that's plain, Pale Blue eyes, and Aqua skin
 - Is Invisible and Circumspect, and has Compassion as their ideal
 
 ### Organizations

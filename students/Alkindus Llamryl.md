@@ -1,7 +1,7 @@
 ---
 name: Alkindus Llamryl
 race: Half-Elf
-hair: long curly dark red hair that's well kept
+hair: shoulder length wavy red hair that's braided
 eyes: Hazel
 skin: Light
 ideal: Order
@@ -14,7 +14,7 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 4/19
   written: 19th of Moradent
-origin: Principality of the Palus Peoples
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Alderden
 partyID: 56
 tags:
 - Half-Elf
-- Aldercrown Empire
+- Principality of the Palus Peoples
 - Sorcerer
 - Assault
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Alkindus Llamryl
 ---
 ### Description
-- Half-Elf Sorcerer from Principality of the Palus Peoples
+- Half-Elf Sorcerer from Aldercrown Empire
 - 1st year Assault student in Alderden
-- long curly dark red hair that's well kept, Hazel eyes, and Light skin
+- shoulder length wavy red hair that's braided, Hazel eyes, and Light skin
 - Is Rustic and Pessimistic, and has Order as their ideal
 
 ### Organizations

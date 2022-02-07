@@ -1,7 +1,7 @@
 ---
 name: Alys Ylyndar
 race: Human
-hair: short wavy pink hair that's wild
+hair: shoulder length straight red hair that's braided
 eyes: Blue
 skin: Fair
 ideal: Contributing
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Human Monk from Qualnis
 - 3rd year Diplomacy student in Burk
-- short wavy pink hair that's wild, Blue eyes, and Fair skin
+- shoulder length straight red hair that's braided, Blue eyes, and Fair skin
 - Is Contented and Licentious, and has Contributing as their ideal
 
 ### Organizations

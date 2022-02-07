@@ -1,7 +1,7 @@
 ---
 name: Favroe Kythaela
 race: Gnome
-hair: long straight platinum hair that's put up
+hair: short wavy platinum hair that's plain
 eyes: Green
 skin: Pale
 ideal: Live and Let Live
@@ -46,7 +46,7 @@ tags:
 ### Description
 - Gnome Ranger from Shadesburry Initiative
 - 3rd year Exploration student in Treskal
-- long straight platinum hair that's put up, Green eyes, and Pale skin
+- short wavy platinum hair that's plain, Green eyes, and Pale skin
 - Is Tough and Meretricious, and has Live and Let Live as their ideal
 
 ### Organizations

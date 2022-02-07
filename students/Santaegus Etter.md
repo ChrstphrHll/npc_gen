@@ -1,7 +1,7 @@
 ---
 name: Santaegus Etter
 race: Firbolg
-hair: short wavy brunette hair that's braided
+hair: shoulder length curly auburn hair that's plain
 eyes: Blue
 skin: Pale Brown
 ideal: Courage
@@ -39,7 +39,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Firbolg
-- Aldercrown Empire
+- Verdain
 - Bard
 - Exploration
 - 2nd
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Firbolg Bard from Verdain
 - 2nd year Exploration student in Treskal
-- short wavy brunette hair that's braided, Blue eyes, and Pale Brown skin
+- shoulder length curly auburn hair that's plain, Blue eyes, and Pale Brown skin
 - Is Emotionally stable and Contradictory, and has Courage as their ideal
 
 ### Organizations

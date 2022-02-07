@@ -1,7 +1,7 @@
 ---
 name: Rianna Belt
 race: Elf
-hair: long wavy auburn hair that's put up
+hair: short straight black hair that's plain
 eyes: Pale Brown
 skin: Brown
 ideal: Excitement
@@ -14,7 +14,7 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 4/20
   written: 20th of Moradent
-origin: Beleriand
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -51,9 +51,9 @@ tags:
 # Rianna Belt
 ---
 ### Description
-- Elf Barbarian from Beleriand
+- Elf Barbarian from Aldercrown Empire
 - 8th year Assault student in Fiesn
-- long wavy auburn hair that's put up, Pale Brown eyes, and Brown skin
+- short straight black hair that's plain, Pale Brown eyes, and Brown skin
 - Is Thrifty and Repugnant, and has Excitement as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Varlae Voron
 race: Half-Orc
-hair: short frizzy blonde hair that's plain
+hair: long curly dirty blonde hair that's plain
 eyes: Pale Gray
 skin: Pale Gray
 ideal: Peace
@@ -14,7 +14,7 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 6/17
   written: 17th of Pelent
-origin: Beleriand
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Beleriand
 - Wizard
 - Exploration
 - 6th
@@ -51,9 +51,9 @@ tags:
 # Varlae Voron
 ---
 ### Description
-- Half-Orc Wizard from Beleriand
+- Half-Orc Wizard from Magmus Centerhold
 - 6th year Exploration student in Treskal
-- short frizzy blonde hair that's plain, Pale Gray eyes, and Pale Gray skin
+- long curly dirty blonde hair that's plain, Pale Gray eyes, and Pale Gray skin
 - Is Friendly and Foolish, and has Peace as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Lilia Agrippa
 race: Tiefling
-hair: short wavy lighter blonde hair that's put up
+hair: shoulder length wavy blue hair that's braided
 eyes: Gray
 skin: Purple
 ideal: Appreciation
@@ -14,7 +14,7 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 8/13
   written: 13th of Ravenent
-origin: Aldercrown Empire
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -47,9 +47,9 @@ tags:
 # Lilia Agrippa
 ---
 ### Description
-- Tiefling Barbarian from Aldercrown Empire
+- Tiefling Barbarian from Principality of the Palus Peoples
 - 3rd year Assault student in Fiesn
-- short wavy lighter blonde hair that's put up, Gray eyes, and Purple skin
+- shoulder length wavy blue hair that's braided, Gray eyes, and Purple skin
 - Is Efficient and Lackadaisical, and has Appreciation as their ideal
 
 ### Organizations

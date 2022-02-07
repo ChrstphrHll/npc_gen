@@ -1,7 +1,7 @@
 ---
 name: Tyego Sinaht
 race: Elf
-hair: long wavy white hair that's put up
+hair: short straight lighter blonde hair that's messy
 eyes: Pale Blue
 skin: Light
 ideal: Power
@@ -13,7 +13,7 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 7/29
   written: 29th of Korent
-origin: Beleriand
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -46,9 +46,9 @@ tags:
 # Tyego Sinaht
 ---
 ### Description
-- Elf Monk from Beleriand
+- Elf Monk from Aldercrown Empire
 - 3rd year Protection student in Fiesn
-- long wavy white hair that's put up, Pale Blue eyes, and Light skin
+- short straight lighter blonde hair that's messy, Pale Blue eyes, and Light skin
 - Is Friendly and Experimental, and has Power as their ideal
 
 ### Organizations

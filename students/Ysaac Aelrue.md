@@ -1,7 +1,7 @@
 ---
 name: Ysaac Aelrue
 race: Halfling
-hair: shoulder length straight auburn hair that's messy
+hair: shoulder length wavy brunette hair that's plain
 eyes: Brown
 skin: Light
 ideal: Contentment
@@ -14,7 +14,7 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 2/30
   written: 30th of Corelent
-origin: Kordinia
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Halfling
-- Aldercrown Empire
+- Kordinia
 - Fighter
 - Exploration
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Ysaac Aelrue
 ---
 ### Description
-- Halfling Fighter from Kordinia
+- Halfling Fighter from Principality of the Palus Peoples
 - 1st year Exploration student in Treskal
-- shoulder length straight auburn hair that's messy, Brown eyes, and Light skin
+- shoulder length wavy brunette hair that's plain, Brown eyes, and Light skin
 - Is Respectful and Superstitious, and has Contentment as their ideal
 
 ### Organizations

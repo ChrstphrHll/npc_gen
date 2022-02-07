@@ -14,7 +14,7 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 6/2
   written: 2nd of Pelent
-origin: Magmus Centerhold
+origin: Draconia
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Dragonborn
-- Draconia
+- Magmus Centerhold
 - Ranger
 - Exploration
 - 2nd
@@ -49,7 +49,7 @@ tags:
 # Yoshen Arcaena
 ---
 ### Description
-- Dragonborn Ranger from Magmus Centerhold
+- Dragonborn Ranger from Draconia
 - 2nd year Exploration student in Treskal
 - frills, Yellow eyes, and black skin
 - Is Well-bred and Superstitious, and has Malice as their ideal

@@ -1,7 +1,7 @@
 ---
 name: Valia Esyae
 race: Elf
-hair: shoulder length curly black hair that's braided
+hair: shoulder length straight platinum hair that's plain
 eyes: Hazel
 skin: Tan
 ideal: Lead by example
@@ -13,7 +13,7 @@ bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 1/6
   written: 6th of Avanent
-origin: Magmus Centerhold
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -35,7 +35,7 @@ guild: Alderden
 partyID: 21
 tags:
 - Elf
-- Beleriand
+- Magmus Centerhold
 - Monk
 - Assault
 - 4th
@@ -44,9 +44,9 @@ tags:
 # Valia Esyae
 ---
 ### Description
-- Elf Monk from Magmus Centerhold
+- Elf Monk from Beleriand
 - 4th year Assault student in Alderden
-- shoulder length curly black hair that's braided, Hazel eyes, and Tan skin
+- shoulder length straight platinum hair that's plain, Hazel eyes, and Tan skin
 - Is Captivating and Unsentimental, and has Lead by example as their ideal
 
 ### Organizations

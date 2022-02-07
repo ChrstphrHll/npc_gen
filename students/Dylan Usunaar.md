@@ -1,7 +1,7 @@
 ---
 name: Dylan Usunaar
 race: Half-Orc
-hair: shoulder length curly strawberry blond hair that's well kept
+hair: short curly platinum hair that's braided
 eyes: Pale Blue
 skin: Deep Green
 ideal: Enjoyment
@@ -13,7 +13,7 @@ bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 2/2
   written: 2nd of Corelent
-origin: Verdain
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Half-Orc
-- Aldercrown Empire
+- Verdain
 - Rouge
 - Diplomacy
 - 5th
@@ -48,9 +48,9 @@ tags:
 # Dylan Usunaar
 ---
 ### Description
-- Half-Orc Rouge from Verdain
+- Half-Orc Rouge from Aldercrown Empire
 - 5th year Diplomacy student in Elkenval
-- shoulder length curly strawberry blond hair that's well kept, Pale Blue eyes, and Deep Green skin
+- short curly platinum hair that's braided, Pale Blue eyes, and Deep Green skin
 - Is Focused and Naughty, and has Enjoyment as their ideal
 
 ### Organizations

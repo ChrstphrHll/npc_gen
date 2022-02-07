@@ -1,7 +1,7 @@
 ---
 name: Aksel Strohm
 race: Tiefling
-hair: long wavy auburn hair that's put up
+hair: long curly strawberry blond hair that's braided
 eyes: Pale Green
 skin: Spring Green
 ideal: Vengful
@@ -13,7 +13,7 @@ bond: My house's alliance with another noble family must be sustained at all cos
 birthday:
   numeric: 6/6
   written: 6th of Pelent
-origin: Aldercrown Empire
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -46,9 +46,9 @@ tags:
 # Aksel Strohm
 ---
 ### Description
-- Tiefling Sorcerer from Aldercrown Empire
+- Tiefling Sorcerer from Principality of the Palus Peoples
 - 7th year Assault student in Jettenia
-- long wavy auburn hair that's put up, Pale Green eyes, and Spring Green skin
+- long curly strawberry blond hair that's braided, Pale Green eyes, and Spring Green skin
 - Is Hypnotic and Impractical, and has Vengful as their ideal
 
 ### Organizations

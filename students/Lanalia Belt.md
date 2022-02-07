@@ -1,7 +1,7 @@
 ---
 name: Lanalia Belt
 race: Elf
-hair: short wavy auburn hair that's plain
+hair: shoulder length wavy lighter blonde hair that's wild
 eyes: Brown
 skin: Light Tan
 ideal: Hard Work
@@ -16,7 +16,7 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 7/6
   written: 6th of Korent
-origin: Aldercrown Empire
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -49,9 +49,9 @@ tags:
 # Lanalia Belt
 ---
 ### Description
-- Elf Paladin from Aldercrown Empire
+- Elf Paladin from Beleriand
 - 3rd year Diplomacy student in Treskal
-- short wavy auburn hair that's plain, Brown eyes, and Light Tan skin
+- shoulder length wavy lighter blonde hair that's wild, Brown eyes, and Light Tan skin
 - Is Organised and Insecure, and has Hard Work as their ideal
 
 ### Organizations

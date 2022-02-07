@@ -1,7 +1,7 @@
 ---
 name: Shike Thalaera
 race: Dragonborn
-hair: 4 curled horns
+hair: frills
 eyes: Deep Blue
 skin: black
 ideal: Fun
@@ -14,7 +14,7 @@ bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 3/9
   written: 9th of Melorent
-origin: Verdain
+origin: Draconia
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Burk
 partyID: 38
 tags:
 - Dragonborn
-- Draconia
+- Verdain
 - Paladin
 - Protection
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Shike Thalaera
 ---
 ### Description
-- Dragonborn Paladin from Verdain
+- Dragonborn Paladin from Draconia
 - 1st year Protection student in Burk
-- 4 curled horns, Deep Blue eyes, and black skin
+- frills, Deep Blue eyes, and black skin
 - Is Prudent and Mechanical, and has Fun as their ideal
 
 ### Organizations

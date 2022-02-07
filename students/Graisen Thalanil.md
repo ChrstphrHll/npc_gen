@@ -1,7 +1,7 @@
 ---
 name: Graisen Thalanil
 race: Half-Orc
-hair: shoulder length straight lighter blonde hair that's well kept
+hair: long straight dark red hair that's plain
 eyes: Pale Green
 skin: Deep Green
 ideal: Encouragement
@@ -13,7 +13,7 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 5/27
   written: 27th of Iounent
-origin: Principality of the Palus Peoples
+origin: Shadesburry Initiative
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Principality of the Palus Peoples
 - Cleric
 - Assault
 - 2nd
@@ -48,9 +48,9 @@ tags:
 # Graisen Thalanil
 ---
 ### Description
-- Half-Orc Cleric from Principality of the Palus Peoples
+- Half-Orc Cleric from Shadesburry Initiative
 - 2nd year Assault student in Treskal
-- shoulder length straight lighter blonde hair that's well kept, Pale Green eyes, and Deep Green skin
+- long straight dark red hair that's plain, Pale Green eyes, and Deep Green skin
 - Is Intense and Envious, and has Encouragement as their ideal
 
 ### Organizations

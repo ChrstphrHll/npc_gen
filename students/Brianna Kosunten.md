@@ -1,7 +1,7 @@
 ---
 name: Brianna Kosunten
 race: Dwarf
-hair: long curly pink hair that's plain
+hair: shoulder length wavy black hair that's put up
 eyes: Gray
 skin: Dark Brown
 ideal: Security
@@ -13,7 +13,7 @@ bond: Should my discovery come to light, it could bring ruin to the world.
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-origin: Aldercrown Empire
+origin: Shadesburry Initiative
 voice: null
 relvance: 0
 relationships:
@@ -48,9 +48,9 @@ tags:
 # Brianna Kosunten
 ---
 ### Description
-- Dwarf Fighter from Aldercrown Empire
+- Dwarf Fighter from Shadesburry Initiative
 - 2nd year Assault student in Fiesn
-- long curly pink hair that's plain, Gray eyes, and Dark Brown skin
+- shoulder length wavy black hair that's put up, Gray eyes, and Dark Brown skin
 - Is Secure and Sedentary, and has Security as their ideal
 
 ### Organizations

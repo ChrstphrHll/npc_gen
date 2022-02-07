@@ -1,7 +1,7 @@
 ---
 name: Kazoan Windward
 race: Firbolg
-hair: shoulder length wavy black hair that's well kept
+hair: long curly auburn hair that's plain
 eyes: Pale Green
 skin: Pale Gray
 ideal: Austerity
@@ -36,7 +36,7 @@ guild: Treskal
 partyID: 70
 tags:
 - Firbolg
-- Aldercrown Empire
+- Verdain
 - Ranger
 - Assault
 - 2nd
@@ -47,7 +47,7 @@ tags:
 ### Description
 - Firbolg Ranger from Verdain
 - 2nd year Assault student in Treskal
-- shoulder length wavy black hair that's well kept, Pale Green eyes, and Pale Gray skin
+- long curly auburn hair that's plain, Pale Green eyes, and Pale Gray skin
 - Is Restrained and Vague, and has Austerity as their ideal
 
 ### Organizations

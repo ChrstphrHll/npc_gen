@@ -1,7 +1,7 @@
 ---
 name: Gerrimar Vulkor
 race: Firbolg
-hair: long frizzy black hair that's wild
+hair: short straight strawberry blond hair that's plain
 eyes: Brown
 skin: Pale Brown
 ideal: Home
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Firbolg Cleric from Verdain
 - 5th year Exploration student in Treskal
-- long frizzy black hair that's wild, Brown eyes, and Pale Brown skin
+- short straight strawberry blond hair that's plain, Brown eyes, and Pale Brown skin
 - Is Dreamy and Artificial, and has Home as their ideal
 
 ### Organizations

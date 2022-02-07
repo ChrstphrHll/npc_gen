@@ -1,7 +1,7 @@
 ---
 name: Scarlotta Inqoul
 race: Dwarf
-hair: long curly violet hair that's plain
+hair: long wavy white hair that's plain
 eyes: Pale Brown
 skin: Brown
 ideal: Innovation
@@ -14,7 +14,7 @@ bond: No one else should have to endure the hardships I've been through.
 birthday:
   numeric: 2/26
   written: 26th of Corelent
-origin: Beleriand
+origin: Shadesburry Initiative
 voice: null
 relvance: 0
 relationships:
@@ -36,7 +36,7 @@ guild: Burk
 partyID: 49
 tags:
 - Dwarf
-- Aldercrown Empire
+- Beleriand
 - Paladin
 - Diplomacy
 - 4th
@@ -45,9 +45,9 @@ tags:
 # Scarlotta Inqoul
 ---
 ### Description
-- Dwarf Paladin from Beleriand
+- Dwarf Paladin from Shadesburry Initiative
 - 4th year Diplomacy student in Burk
-- long curly violet hair that's plain, Pale Brown eyes, and Brown skin
+- long wavy white hair that's plain, Pale Brown eyes, and Brown skin
 - Is Iconoclastic and Puritanical, and has Innovation as their ideal
 
 ### Organizations

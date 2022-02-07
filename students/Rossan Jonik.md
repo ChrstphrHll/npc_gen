@@ -1,7 +1,7 @@
 ---
 name: Rossan Jonik
 race: Halfling
-hair: long curly lighter blonde hair that's put up
+hair: shoulder length wavy platinum hair that's put up
 eyes: Pale Blue
 skin: Fair
 ideal: Might
@@ -38,7 +38,7 @@ guild: Treskal
 partyID: 67
 tags:
 - Halfling
-- Kordinia
+- Aldercrown Empire
 - Artificer
 - Exploration
 - 3rd
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Halfling Artificer from Aldercrown Empire
 - 3rd year Exploration student in Treskal
-- long curly lighter blonde hair that's put up, Pale Blue eyes, and Fair skin
+- shoulder length wavy platinum hair that's put up, Pale Blue eyes, and Fair skin
 - Is Impartial and Unaggressive, and has Might as their ideal
 
 ### Organizations

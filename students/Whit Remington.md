@@ -1,7 +1,7 @@
 ---
 name: Whit Remington
 race: Triton
-hair: long wavy platinum hair that's messy
+hair: short curly grey hair that's plain
 eyes: Pale Blue
 skin: Emerald Green
 ideal: Greed
@@ -14,7 +14,7 @@ bond: I escaped my life of poverty by robbing an important person, and I'm wante
 birthday:
   numeric: 7/23
   written: 23rd of Korent
-origin: Kordinia
+origin: Whyndiem
 voice: null
 relvance: 0
 relationships:
@@ -36,7 +36,7 @@ guild: Burk
 partyID: 41
 tags:
 - Triton
-- Whyndiem
+- Kordinia
 - Wizard
 - Protection
 - 1st
@@ -45,9 +45,9 @@ tags:
 # Whit Remington
 ---
 ### Description
-- Triton Wizard from Kordinia
+- Triton Wizard from Whyndiem
 - 1st year Protection student in Burk
-- long wavy platinum hair that's messy, Pale Blue eyes, and Emerald Green skin
+- short curly grey hair that's plain, Pale Blue eyes, and Emerald Green skin
 - Is Risk-taking and Irresponsible, and has Greed as their ideal
 
 ### Organizations

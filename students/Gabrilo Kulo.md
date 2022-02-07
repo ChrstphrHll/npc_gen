@@ -1,7 +1,7 @@
 ---
 name: Gabrilo Kulo
 race: Half-Orc
-hair: short straight red hair that's braided
+hair: long wavy auburn hair that's plain
 eyes: Gray
 skin: Pale Green
 ideal: Intelligence
@@ -14,7 +14,7 @@ bond: I have an ancient text that holds terrible secrets that must not fall into
 birthday:
   numeric: 7/26
   written: 26th of Korent
-origin: Magmus Centerhold
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -51,9 +51,9 @@ tags:
 # Gabrilo Kulo
 ---
 ### Description
-- Half-Orc Cleric from Magmus Centerhold
+- Half-Orc Cleric from Principality of the Palus Peoples
 - 2nd year Diplomacy student in Elkenval
-- short straight red hair that's braided, Gray eyes, and Pale Green skin
+- long wavy auburn hair that's plain, Gray eyes, and Pale Green skin
 - Is Easygoing and Profligate, and has Intelligence as their ideal
 
 ### Organizations

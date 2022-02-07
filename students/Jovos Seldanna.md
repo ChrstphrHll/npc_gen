@@ -1,7 +1,7 @@
 ---
 name: Jovos Seldanna
 race: Half-Elf
-hair: long straight white hair that's messy
+hair: shoulder length straight dirty blonde hair that's braided
 eyes: Brown
 skin: Light Tan
 ideal: Peace
@@ -40,7 +40,7 @@ guild: Jettenia
 partyID: 28
 tags:
 - Half-Elf
-- Magmus Centerhold
+- Beleriand
 - Paladin
 - Assault
 - 3rd
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Half-Elf Paladin from Beleriand
 - 3rd year Assault student in Jettenia
-- long straight white hair that's messy, Brown eyes, and Light Tan skin
+- shoulder length straight dirty blonde hair that's braided, Brown eyes, and Light Tan skin
 - Is Suave and Crude, and has Peace as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Jothen Elway
 race: Human
-hair: long wavy platinum hair that's messy
+hair: shoulder length curly brunette hair that's put up
 eyes: Pale Green
 skin: Tan
 ideal: Cruelty
@@ -13,7 +13,7 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 6/24
   written: 24th of Pelent
-origin: Aldercrown Empire
+origin: Qualnis
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 2
 tags:
 - Human
-- Qualnis
+- Aldercrown Empire
 - Rouge
 - Exploration
 - 1st
@@ -46,9 +46,9 @@ tags:
 # Jothen Elway
 ---
 ### Description
-- Human Rouge from Aldercrown Empire
+- Human Rouge from Qualnis
 - 1st year Exploration student in Elkenval
-- long wavy platinum hair that's messy, Pale Green eyes, and Tan skin
+- shoulder length curly brunette hair that's put up, Pale Green eyes, and Tan skin
 - Is Freewheeling and Dreamy, and has Cruelty as their ideal
 
 ### Organizations

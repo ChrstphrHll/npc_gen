@@ -1,7 +1,7 @@
 ---
 name: Den Ualair
 race: Half-Orc
-hair: shoulder length curly strawberry blond hair that's messy
+hair: long straight dirty blonde hair that's well kept
 eyes: Pale Blue
 skin: Green Blue
 ideal: Vengful
@@ -13,7 +13,7 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 1/18
   written: 18th of Avanent
-origin: Principality of the Palus Peoples
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -35,7 +35,7 @@ guild: Treskal
 partyID: 8
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Principality of the Palus Peoples
 - Artificer
 - Diplomacy
 - 3rd
@@ -44,9 +44,9 @@ tags:
 # Den Ualair
 ---
 ### Description
-- Half-Orc Artificer from Principality of the Palus Peoples
+- Half-Orc Artificer from Magmus Centerhold
 - 3rd year Diplomacy student in Treskal
-- shoulder length curly strawberry blond hair that's messy, Pale Blue eyes, and Green Blue skin
+- long straight dirty blonde hair that's well kept, Pale Blue eyes, and Green Blue skin
 - Is Impressive and Faithless, and has Vengful as their ideal
 
 ### Organizations

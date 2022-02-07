@@ -1,7 +1,7 @@
 ---
 name: Velmona Elway
 race: Kenku
-hair: sleek
+hair: speckled
 eyes: Hazel
 skin: Red
 ideal: Generosity
@@ -13,7 +13,7 @@ bond: I am in love with the heir of a family that my family despises.
 birthday:
   numeric: 1/6
   written: 6th of Avanent
-origin: Aldercrown Empire
+origin: Black Rock
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 40
 tags:
 - Kenku
-- Verdain
+- Aldercrown Empire
 - Monk
 - Assault
 - 1st
@@ -46,9 +46,9 @@ tags:
 # Velmona Elway
 ---
 ### Description
-- Kenku Monk from Aldercrown Empire
+- Kenku Monk from Black Rock
 - 1st year Assault student in Elkenval
-- sleek, Hazel eyes, and Red skin
+- speckled, Hazel eyes, and Red skin
 - Is Civilised and Sadistic, and has Generosity as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Aryana Ahrendue
 race: Dragonborn
-hair: short spines
+hair: 5 curled horns
 eyes: Brown
 skin: white
 ideal: Connection
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Dragonborn Barbarian from Draconia
 - 1st year Protection student in Alderden
-- short spines, Brown eyes, and white skin
+- 5 curled horns, Brown eyes, and white skin
 - Is Youthful and Money-minded, and has Connection as their ideal
 
 ### Organizations

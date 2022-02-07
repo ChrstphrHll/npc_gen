@@ -1,7 +1,7 @@
 ---
 name: Kanoi Xharlion
 race: Dwarf
-hair: short frizzy red hair that's plain
+hair: shoulder length wavy red hair that's plain
 eyes: Pale Brown
 skin: Tan
 ideal: Professionalism
@@ -14,7 +14,7 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 7/20
   written: 20th of Korent
-origin: Beleriand
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 84
 tags:
 - Dwarf
-- Aldercrown Empire
+- Beleriand
 - Artificer
 - Diplomacy
 - 2nd
@@ -45,9 +45,9 @@ tags:
 # Kanoi Xharlion
 ---
 ### Description
-- Dwarf Artificer from Beleriand
+- Dwarf Artificer from Aldercrown Empire
 - 2nd year Diplomacy student in Elkenval
-- short frizzy red hair that's plain, Pale Brown eyes, and Tan skin
+- shoulder length wavy red hair that's plain, Pale Brown eyes, and Tan skin
 - Is Sarcastic and Odd, and has Professionalism as their ideal
 
 ### Organizations

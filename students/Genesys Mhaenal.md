@@ -1,7 +1,7 @@
 ---
 name: Genesys Mhaenal
 race: Gnome
-hair: short wavy black hair that's plain
+hair: long curly brunette hair that's plain
 eyes: Amber
 skin: Dark Brown
 ideal: Prosperity
@@ -14,7 +14,7 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 4/26
   written: 26th of Moradent
-origin: Aldercrown Empire
+origin: Shadesburry Initiative
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Burk
 partyID: 38
 tags:
 - Gnome
-- Beleriand
+- Aldercrown Empire
 - Monk
 - Assault
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Genesys Mhaenal
 ---
 ### Description
-- Gnome Monk from Aldercrown Empire
+- Gnome Monk from Shadesburry Initiative
 - 1st year Assault student in Burk
-- short wavy black hair that's plain, Amber eyes, and Dark Brown skin
+- long curly brunette hair that's plain, Amber eyes, and Dark Brown skin
 - Is Unchanging and Indecisive, and has Prosperity as their ideal
 
 ### Organizations

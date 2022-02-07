@@ -1,7 +1,7 @@
 ---
 name: Hessos Adorellan
 race: Gnome
-hair: long curly red hair that's plain
+hair: long straight white hair that's wild
 eyes: Gray
 skin: Tan
 ideal: Optimism
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Gnome Wizard from Shadesburry Initiative
 - 1st year Exploration student in Alderden
-- long curly red hair that's plain, Gray eyes, and Tan skin
+- long straight white hair that's wild, Gray eyes, and Tan skin
 - Is Punctual and Pharissical, and has Optimism as their ideal
 
 ### Organizations

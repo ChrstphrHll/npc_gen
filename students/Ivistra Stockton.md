@@ -1,7 +1,7 @@
 ---
 name: Ivistra Stockton
 race: Tiefling
-hair: short straight lighter blonde hair that's messy
+hair: shoulder length wavy dirty blonde hair that's plain
 eyes: Green
 skin: Pale Yellow
 ideal: Exceptionalism
@@ -14,7 +14,7 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 1/25
   written: 25th of Avanent
-origin: Verdain
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -42,7 +42,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Tiefling
-- Shadesburry Initiative
+- Verdain
 - Wizard
 - Diplomacy
 - 5th
@@ -51,9 +51,9 @@ tags:
 # Ivistra Stockton
 ---
 ### Description
-- Tiefling Wizard from Verdain
+- Tiefling Wizard from Aldercrown Empire
 - 5th year Diplomacy student in Jettenia
-- short straight lighter blonde hair that's messy, Green eyes, and Pale Yellow skin
+- shoulder length wavy dirty blonde hair that's plain, Green eyes, and Pale Yellow skin
 - Is Mellow and Single-minded, and has Exceptionalism as their ideal
 
 ### Organizations

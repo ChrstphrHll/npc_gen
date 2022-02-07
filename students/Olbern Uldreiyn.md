@@ -1,7 +1,7 @@
 ---
 name: Olbern Uldreiyn
 race: Human
-hair: short wavy strawberry blond hair that's messy
+hair: short straight lighter blonde hair that's put up
 eyes: Blue
 skin: Pale
 ideal: Leadership
@@ -36,7 +36,7 @@ guild: Treskal
 partyID: 62
 tags:
 - Human
-- Magmus Centerhold
+- Qualnis
 - Sorcerer
 - Assault
 - 4th
@@ -47,7 +47,7 @@ tags:
 ### Description
 - Human Sorcerer from Qualnis
 - 4th year Assault student in Treskal
-- short wavy strawberry blond hair that's messy, Blue eyes, and Pale skin
+- short straight lighter blonde hair that's put up, Blue eyes, and Pale skin
 - Is Merciful and Stubborn, and has Leadership as their ideal
 
 ### Organizations

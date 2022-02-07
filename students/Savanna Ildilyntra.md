@@ -1,7 +1,7 @@
 ---
 name: Savanna Ildilyntra
 race: Halfling
-hair: long curly platinum hair that's plain
+hair: long straight dark red hair that's plain
 eyes: Gray
 skin: Dark Brown
 ideal: Indulgence
@@ -15,7 +15,7 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 7/15
   written: 15th of Korent
-origin: Kordinia
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -50,9 +50,9 @@ tags:
 # Savanna Ildilyntra
 ---
 ### Description
-- Halfling Cleric from Kordinia
+- Halfling Cleric from Principality of the Palus Peoples
 - 6th year Diplomacy student in Treskal
-- long curly platinum hair that's plain, Gray eyes, and Dark Brown skin
+- long straight dark red hair that's plain, Gray eyes, and Dark Brown skin
 - Is Practical and Uncreative, and has Indulgence as their ideal
 
 ### Organizations

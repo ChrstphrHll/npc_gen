@@ -1,7 +1,7 @@
 ---
 name: Railyn Retenia
 race: Half-Orc
-hair: short straight red hair that's plain
+hair: short wavy red hair that's plain
 eyes: Blue
 skin: Pale Gray
 ideal: Contributing
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Half-Orc Ranger from Magmus Centerhold
 - 3rd year Assault student in Jettenia
-- short straight red hair that's plain, Blue eyes, and Pale Gray skin
+- short wavy red hair that's plain, Blue eyes, and Pale Gray skin
 - Is Obliging and Abrasive, and has Contributing as their ideal
 
 ### Organizations

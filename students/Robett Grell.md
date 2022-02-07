@@ -1,7 +1,7 @@
 ---
 name: Robett Grell
 race: Dwarf
-hair: shoulder length wavy brunette hair that's put up
+hair: short straight dark red hair that's plain
 eyes: Pale Brown
 skin: Dark Brown
 ideal: Forgiveness
@@ -14,7 +14,7 @@ bond: One day I will return to my guild and prove that I am the greatest artisan
 birthday:
   numeric: 1/4
   written: 4th of Avanent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 46
 tags:
 - Dwarf
-- Beleriand
+- Aldercrown Empire
 - Monk
 - Assault
 - 6th
@@ -49,9 +49,9 @@ tags:
 # Robett Grell
 ---
 ### Description
-- Dwarf Monk from Aldercrown Empire
+- Dwarf Monk from Magmus Centerhold
 - 6th year Assault student in Treskal
-- shoulder length wavy brunette hair that's put up, Pale Brown eyes, and Dark Brown skin
+- short straight dark red hair that's plain, Pale Brown eyes, and Dark Brown skin
 - Is Solitary and Impolite, and has Forgiveness as their ideal
 
 ### Organizations

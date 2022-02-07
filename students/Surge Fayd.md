@@ -1,7 +1,7 @@
 ---
 name: Surge Fayd
 race: Triton
-hair: short wavy auburn hair that's plain
+hair: long curly platinum hair that's plain
 eyes: Orange
 skin: Aqua
 ideal: Cunning
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Triton Monk from Whyndiem
 - 7th year Protection student in Fiesn
-- short wavy auburn hair that's plain, Orange eyes, and Aqua skin
+- long curly platinum hair that's plain, Orange eyes, and Aqua skin
 - Is Concerned and Busy, and has Cunning as their ideal
 
 ### Organizations

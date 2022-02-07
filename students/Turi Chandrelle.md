@@ -1,7 +1,7 @@
 ---
 name: Turi Chandrelle
 race: Gnome
-hair: shoulder length curly strawberry blond hair that's messy
+hair: shoulder length curly red hair that's messy
 eyes: Blue
 skin: Fair
 ideal: Indulgence
@@ -13,7 +13,7 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 4/20
   written: 20th of Moradent
-origin: Shadesburry Initiative
+origin: Qualnis
 voice: null
 relvance: 0
 relationships:
@@ -46,9 +46,9 @@ tags:
 # Turi Chandrelle
 ---
 ### Description
-- Gnome Rouge from Shadesburry Initiative
+- Gnome Rouge from Qualnis
 - 4th year Protection student in Fiesn
-- shoulder length curly strawberry blond hair that's messy, Blue eyes, and Fair skin
+- shoulder length curly red hair that's messy, Blue eyes, and Fair skin
 - Is Mature and Enigmatic, and has Indulgence as their ideal
 
 ### Organizations

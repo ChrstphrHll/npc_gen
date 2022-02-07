@@ -1,7 +1,7 @@
 ---
 name: Milae Ditka
 race: Dragonborn
-hair: short spines
+hair: 2 straight horns
 eyes: Violet Red
 skin: blue
 ideal: Self-Respect
@@ -14,7 +14,7 @@ bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 2/19
   written: 19th of Corelent
-origin: Beleriand
+origin: Draconia
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 66
 tags:
 - Dragonborn
-- Magmus Centerhold
+- Beleriand
 - Sorcerer
 - Protection
 - 1st
@@ -47,9 +47,9 @@ tags:
 # Milae Ditka
 ---
 ### Description
-- Dragonborn Sorcerer from Beleriand
+- Dragonborn Sorcerer from Draconia
 - 1st year Protection student in Jettenia
-- short spines, Violet Red eyes, and blue skin
+- 2 straight horns, Violet Red eyes, and blue skin
 - Is Undemanding and Cruel, and has Self-Respect as their ideal
 
 ### Organizations

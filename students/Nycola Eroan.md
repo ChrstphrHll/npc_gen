@@ -1,7 +1,7 @@
 ---
 name: Nycola Eroan
 race: Dragonborn
-hair: short spines
+hair: long spines
 eyes: Amber
 skin: copper
 ideal: Creativity
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Dragonborn Bard from Draconia
 - 1st year Protection student in Elkenval
-- short spines, Amber eyes, and copper skin
+- long spines, Amber eyes, and copper skin
 - Is Frank and Cruel, and has Creativity as their ideal
 
 ### Organizations

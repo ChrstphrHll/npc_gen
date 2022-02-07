@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 32
 tags:
 - Dragonborn
-- Magmus Centerhold
+- Draconia
 - Fighter
 - Protection
 - 4th

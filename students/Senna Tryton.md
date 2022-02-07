@@ -1,7 +1,7 @@
 ---
 name: Senna Tryton
 race: Gnome
-hair: long wavy grey hair that's plain
+hair: shoulder length wavy white hair that's messy
 eyes: Pale Blue
 skin: Light Tan
 ideal: Religion
@@ -47,7 +47,7 @@ tags:
 ### Description
 - Gnome Fighter from Shadesburry Initiative
 - 4th year Exploration student in Burk
-- long wavy grey hair that's plain, Pale Blue eyes, and Light Tan skin
+- shoulder length wavy white hair that's messy, Pale Blue eyes, and Light Tan skin
 - Is Pleasant and Breezy, and has Religion as their ideal
 
 ### Organizations

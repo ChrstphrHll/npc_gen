@@ -1,7 +1,7 @@
 ---
 name: Gina Grandius
 race: Tiefling
-hair: short straight auburn hair that's well kept
+hair: long straight brunette hair that's wild
 eyes: Violet Red
 skin: Yellow
 ideal: Endurance
@@ -13,7 +13,7 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
-origin: Beleriand
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Tiefling
-- Aldercrown Empire
+- Beleriand
 - Monk
 - Exploration
 - 3rd
@@ -48,9 +48,9 @@ tags:
 # Gina Grandius
 ---
 ### Description
-- Tiefling Monk from Beleriand
+- Tiefling Monk from Aldercrown Empire
 - 3rd year Exploration student in Alderden
-- short straight auburn hair that's well kept, Violet Red eyes, and Yellow skin
+- long straight brunette hair that's wild, Violet Red eyes, and Yellow skin
 - Is Absentminded and Libidinous, and has Endurance as their ideal
 
 ### Organizations

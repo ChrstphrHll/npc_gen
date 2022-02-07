@@ -1,7 +1,7 @@
 ---
 name: Zylphan Molostroi
 race: Firbolg
-hair: shoulder length wavy dark red hair that's braided
+hair: long wavy dirty blonde hair that's plain
 eyes: Amber
 skin: Pale Brown
 ideal: Honesty
@@ -53,7 +53,7 @@ tags:
 ### Description
 - Firbolg Rouge from Verdain
 - 8th year Diplomacy student in Fiesn
-- shoulder length wavy dark red hair that's braided, Amber eyes, and Pale Brown skin
+- long wavy dirty blonde hair that's plain, Amber eyes, and Pale Brown skin
 - Is Firm and Hateful, and has Honesty as their ideal
 
 ### Organizations

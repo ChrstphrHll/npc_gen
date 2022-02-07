@@ -1,7 +1,7 @@
 ---
 name: Astinus Sythaeryn
 race: Human
-hair: long curly auburn hair that's plain
+hair: long curly black hair that's messy
 eyes: Pale Blue
 skin: Brown
 ideal: Independence
@@ -15,7 +15,7 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 1/2
   written: 2nd of Avanent
-origin: Principality of the Palus Peoples
+origin: Qualnis
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 37
 tags:
 - Human
-- Floating Island
+- Principality of the Palus Peoples
 - Bard
 - Protection
 - 4th
@@ -46,9 +46,9 @@ tags:
 # Astinus Sythaeryn
 ---
 ### Description
-- Human Bard from Principality of the Palus Peoples
+- Human Bard from Qualnis
 - 4th year Protection student in Fiesn
-- long curly auburn hair that's plain, Pale Blue eyes, and Brown skin
+- long curly black hair that's messy, Pale Blue eyes, and Brown skin
 - Is Thrifty and Aimless, and has Independence as their ideal
 
 ### Organizations

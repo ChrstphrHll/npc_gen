@@ -1,7 +1,7 @@
 ---
 name: Adresin Ilbryn
 race: Genasi
-hair: short straight brunette hair that's plain
+hair: short curly auburn hair that's put up
 eyes: Gray
 skin: air
 ideal: Greed
@@ -40,7 +40,7 @@ guild: Elkenval
 partyID: 90
 tags:
 - Genasi
-- Verdain
+- Magmus Centerhold
 - Paladin
 - Exploration
 - 1st
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Genasi Paladin from Magmus Centerhold
 - 1st year Exploration student in Elkenval
-- short straight brunette hair that's plain, Gray eyes, and air skin
+- short curly auburn hair that's put up, Gray eyes, and air skin
 - Is Bashful and Insulting, and has Greed as their ideal
 
 ### Organizations

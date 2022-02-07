@@ -1,7 +1,7 @@
 ---
 name: Gormoth Shyrrik
 race: Dwarf
-hair: shoulder length wavy dirty blonde hair that's plain
+hair: long straight white hair that's plain
 eyes: Brown
 skin: Pale
 ideal: Spiritualism
@@ -13,7 +13,7 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 4/19
   written: 19th of Moradent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Jettenia
 partyID: 33
 tags:
 - Dwarf
-- Magmus Centerhold
+- Aldercrown Empire
 - Paladin
 - Exploration
 - 2nd
@@ -46,9 +46,9 @@ tags:
 # Gormoth Shyrrik
 ---
 ### Description
-- Dwarf Paladin from Aldercrown Empire
+- Dwarf Paladin from Magmus Centerhold
 - 2nd year Exploration student in Jettenia
-- shoulder length wavy dirty blonde hair that's plain, Brown eyes, and Pale skin
+- long straight white hair that's plain, Brown eyes, and Pale skin
 - Is Lucky and Finicky, and has Spiritualism as their ideal
 
 ### Organizations

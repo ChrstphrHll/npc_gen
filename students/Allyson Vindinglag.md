@@ -1,7 +1,7 @@
 ---
 name: Allyson Vindinglag
 race: Aasimar
-hair: long straight auburn hair that's put up
+hair: long straight dirty blonde hair that's put up
 eyes: Pale Gray
 skin: Dark Brown
 ideal: Reciprocity
@@ -42,7 +42,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Aasimar
-- Magmus Centerhold
+- Beleriand
 - Cleric
 - Protection
 - 1st
@@ -53,7 +53,7 @@ tags:
 ### Description
 - Aasimar Cleric from Beleriand
 - 1st year Protection student in Elkenval
-- long straight auburn hair that's put up, Pale Gray eyes, and Dark Brown skin
+- long straight dirty blonde hair that's put up, Pale Gray eyes, and Dark Brown skin
 - Is Forceful and Stif, and has Reciprocity as their ideal
 
 ### Organizations

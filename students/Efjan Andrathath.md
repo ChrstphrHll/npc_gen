@@ -1,7 +1,7 @@
 ---
 name: Efjan Andrathath
 race: Gnome
-hair: shoulder length wavy black hair that's plain
+hair: long curly dark red hair that's well kept
 eyes: Amber
 skin: Light
 ideal: Flexibility
@@ -14,7 +14,7 @@ bond: I work to preserve a library, university, scriptorium, or monastery.
 birthday:
   numeric: 4/7
   written: 7th of Moradent
-origin: Principality of the Palus Peoples
+origin: Shadesburry Initiative
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Burk
 partyID: 31
 tags:
 - Gnome
-- Shadesburry Initiative
+- Principality of the Palus Peoples
 - Druid
 - Protection
 - 1st
@@ -47,9 +47,9 @@ tags:
 # Efjan Andrathath
 ---
 ### Description
-- Gnome Druid from Principality of the Palus Peoples
+- Gnome Druid from Shadesburry Initiative
 - 1st year Protection student in Burk
-- shoulder length wavy black hair that's plain, Amber eyes, and Light skin
+- long curly dark red hair that's well kept, Amber eyes, and Light skin
 - Is Invisible and Brutal, and has Flexibility as their ideal
 
 ### Organizations

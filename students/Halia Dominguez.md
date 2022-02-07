@@ -1,7 +1,7 @@
 ---
 name: Halia Dominguez
 race: Triton
-hair: short wavy dark red hair that's plain
+hair: long straight dark red hair that's plain
 eyes: Purple
 skin: Emerald Green
 ideal: Learning
@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 98
 tags:
 - Triton
-- Whyndiem
+- Glasscliff Garisons
 - Paladin
 - Protection
 - 3rd
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Triton Paladin from Glasscliff Garisons
 - 3rd year Protection student in Fiesn
-- short wavy dark red hair that's plain, Purple eyes, and Emerald Green skin
+- long straight dark red hair that's plain, Purple eyes, and Emerald Green skin
 - Is Earthy and Unfriendly, and has Learning as their ideal
 
 ### Organizations

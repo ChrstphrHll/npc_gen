@@ -1,7 +1,7 @@
 ---
 name: Theriss Deularla
 race: Gnome
-hair: shoulder length straight platinum hair that's plain
+hair: short straight lighter blonde hair that's well kept
 eyes: Pale Gray
 skin: Dark Tan
 ideal: Knowledge
@@ -53,7 +53,7 @@ tags:
 ### Description
 - Gnome Cleric from Shadesburry Initiative
 - 6th year Protection student in Treskal
-- shoulder length straight platinum hair that's plain, Pale Gray eyes, and Dark Tan skin
+- short straight lighter blonde hair that's well kept, Pale Gray eyes, and Dark Tan skin
 - Is Attentive and Fraudulent, and has Knowledge as their ideal
 
 ### Organizations

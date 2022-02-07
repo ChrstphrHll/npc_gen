@@ -1,7 +1,7 @@
 ---
 name: Brinna Muerlara
 race: Halfling
-hair: long wavy white hair that's put up
+hair: short straight auburn hair that's messy
 eyes: Gray
 skin: Brown
 ideal: Openness
@@ -13,7 +13,7 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 6/26
   written: 26th of Pelent
-origin: Verdain
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Burk
 partyID: 95
 tags:
 - Halfling
-- Aldercrown Empire
+- Verdain
 - Barbarian
 - Exploration
 - 1st
@@ -48,9 +48,9 @@ tags:
 # Brinna Muerlara
 ---
 ### Description
-- Halfling Barbarian from Verdain
+- Halfling Barbarian from Aldercrown Empire
 - 1st year Exploration student in Burk
-- long wavy white hair that's put up, Gray eyes, and Brown skin
+- short straight auburn hair that's messy, Gray eyes, and Brown skin
 - Is Athletic and Reserved, and has Openness as their ideal
 
 ### Organizations

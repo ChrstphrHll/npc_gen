@@ -1,7 +1,7 @@
 ---
 name: Elia Veluthil
 race: Firbolg
-hair: shoulder length wavy brunette hair that's plain
+hair: shoulder length straight pink hair that's braided
 eyes: Pale Blue
 skin: Pale Green
 ideal: Perseverance
@@ -13,7 +13,7 @@ bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 1/10
   written: 10th of Avanent
-origin: Aldercrown Empire
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Burk
 partyID: 9
 tags:
 - Firbolg
-- Principality of the Palus Peoples
+- Aldercrown Empire
 - Bard
 - Exploration
 - 3rd
@@ -48,9 +48,9 @@ tags:
 # Elia Veluthil
 ---
 ### Description
-- Firbolg Bard from Aldercrown Empire
+- Firbolg Bard from Principality of the Palus Peoples
 - 3rd year Exploration student in Burk
-- shoulder length wavy brunette hair that's plain, Pale Blue eyes, and Pale Green skin
+- shoulder length straight pink hair that's braided, Pale Blue eyes, and Pale Green skin
 - Is Charming and Unhurried, and has Perseverance as their ideal
 
 ### Organizations

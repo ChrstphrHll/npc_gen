@@ -1,7 +1,7 @@
 ---
 name: Hudsen Aluendalee
 race: Half-Elf
-hair: short straight lighter blonde hair that's wild
+hair: long wavy green hair that's well kept
 eyes: Blue
 skin: Dark Tan
 ideal: Logic
@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 37
 tags:
 - Half-Elf
-- Shadesburry Initiative
+- Aldercrown Empire
 - Wizard
 - Exploration
 - 4th
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Half-Elf Wizard from Aldercrown Empire
 - 4th year Exploration student in Fiesn
-- short straight lighter blonde hair that's wild, Blue eyes, and Dark Tan skin
+- long wavy green hair that's well kept, Blue eyes, and Dark Tan skin
 - Is Jolly and Noncompetitive, and has Logic as their ideal
 
 ### Organizations

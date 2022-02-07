@@ -1,7 +1,7 @@
 ---
 name: Jamye Napraeleon
 race: Dragonborn
-hair: long spines
+hair: 3 straight horns
 eyes: Purple
 skin: red
 ideal: Cunning
@@ -14,7 +14,7 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 5/20
   written: 20th of Iounent
-origin: Draconia
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 73
 tags:
 - Dragonborn
-- Magmus Centerhold
+- Draconia
 - Wizard
 - Assault
 - 2nd
@@ -47,9 +47,9 @@ tags:
 # Jamye Napraeleon
 ---
 ### Description
-- Dragonborn Wizard from Draconia
+- Dragonborn Wizard from Magmus Centerhold
 - 2nd year Assault student in Alderden
-- long spines, Purple eyes, and red skin
+- 3 straight horns, Purple eyes, and red skin
 - Is Experimental and Rigid, and has Cunning as their ideal
 
 ### Organizations

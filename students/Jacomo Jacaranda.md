@@ -1,7 +1,7 @@
 ---
 name: Jacomo Jacaranda
 race: Halfling
-hair: long straight brunette hair that's wild
+hair: shoulder length straight pink hair that's braided
 eyes: Pale Blue
 skin: Pale
 ideal: Personal Development
@@ -13,7 +13,7 @@ bond: I'll always remember my first ship.
 birthday:
   numeric: 3/21
   written: 21st of Melorent
-origin: Verdain
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Alderden
 partyID: 11
 tags:
 - Halfling
-- Kordinia
+- Verdain
 - Barbarian
 - Assault
 - 5th
@@ -46,9 +46,9 @@ tags:
 # Jacomo Jacaranda
 ---
 ### Description
-- Halfling Barbarian from Verdain
+- Halfling Barbarian from Beleriand
 - 5th year Assault student in Alderden
-- long straight brunette hair that's wild, Pale Blue eyes, and Pale skin
+- shoulder length straight pink hair that's braided, Pale Blue eyes, and Pale skin
 - Is Iconoclastic and Narrow, and has Personal Development as their ideal
 
 ### Organizations

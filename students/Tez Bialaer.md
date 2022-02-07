@@ -1,7 +1,7 @@
 ---
 name: Tez Bialaer
 race: Aasimar
-hair: short wavy auburn hair that's wild
+hair: shoulder length wavy brunette hair that's wild
 eyes: Gray
 skin: Pale
 ideal: Austerity
@@ -13,7 +13,7 @@ bond: I entered seclusion because I loved someone I could not have.
 birthday:
   numeric: 5/14
   written: 14th of Iounent
-origin: Whyndiem
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -41,7 +41,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Aasimar
-- Shadesburry Initiative
+- Whyndiem
 - Fighter
 - Protection
 - 8th
@@ -50,9 +50,9 @@ tags:
 # Tez Bialaer
 ---
 ### Description
-- Aasimar Fighter from Whyndiem
+- Aasimar Fighter from Magmus Centerhold
 - 8th year Protection student in Fiesn
-- short wavy auburn hair that's wild, Gray eyes, and Pale skin
+- shoulder length wavy brunette hair that's wild, Gray eyes, and Pale skin
 - Is Sharing and Modern, and has Austerity as their ideal
 
 ### Organizations

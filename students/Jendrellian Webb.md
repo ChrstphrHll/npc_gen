@@ -1,7 +1,7 @@
 ---
 name: Jendrellian Webb
 race: Dwarf
-hair: shoulder length wavy dark red hair that's put up
+hair: short curly platinum hair that's wild
 eyes: Gray
 skin: Brown
 ideal: Goodness
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Dwarf Barbarian from Aldercrown Empire
 - 1st year Assault student in Elkenval
-- shoulder length wavy dark red hair that's put up, Gray eyes, and Brown skin
+- short curly platinum hair that's wild, Gray eyes, and Brown skin
 - Is Plain and Competitive, and has Goodness as their ideal
 
 ### Organizations

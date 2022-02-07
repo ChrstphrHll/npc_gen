@@ -1,7 +1,7 @@
 ---
 name: Myddin Hastos
 race: Half-Elf
-hair: short wavy blonde hair that's put up
+hair: long straight brunette hair that's put up
 eyes: Brown
 skin: Dark Brown
 ideal: Patience
@@ -13,7 +13,7 @@ bond: Should my discovery come to light, it could bring ruin to the world.
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Beleriand
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Half-Elf
-- Aldercrown Empire
+- Beleriand
 - Rouge
 - Protection
 - 2nd
@@ -50,9 +50,9 @@ tags:
 # Myddin Hastos
 ---
 ### Description
-- Half-Elf Rouge from Beleriand
+- Half-Elf Rouge from Magmus Centerhold
 - 2nd year Protection student in Elkenval
-- short wavy blonde hair that's put up, Brown eyes, and Dark Brown skin
+- long straight brunette hair that's put up, Brown eyes, and Dark Brown skin
 - Is Challenging and Disorganized, and has Patience as their ideal
 
 ### Organizations

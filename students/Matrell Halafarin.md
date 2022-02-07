@@ -1,7 +1,7 @@
 ---
 name: Matrell Halafarin
 race: Aasimar
-hair: short wavy auburn hair that's plain
+hair: long curly red hair that's well kept
 eyes: Pale Gray
 skin: Dark Brown
 ideal: Abundance
@@ -14,7 +14,7 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 2/19
   written: 19th of Corelent
-origin: Chillwild Peaks
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Aasimar
-- Aldercrown Empire
+- Chillwild Peaks
 - Artificer
 - Assault
 - 2nd
@@ -49,9 +49,9 @@ tags:
 # Matrell Halafarin
 ---
 ### Description
-- Aasimar Artificer from Chillwild Peaks
+- Aasimar Artificer from Principality of the Palus Peoples
 - 2nd year Assault student in Treskal
-- short wavy auburn hair that's plain, Pale Gray eyes, and Dark Brown skin
+- long curly red hair that's well kept, Pale Gray eyes, and Dark Brown skin
 - Is Mischievous and Repentant, and has Abundance as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Cartyr Tamsin
 race: Dragonborn
-hair: 5 barbed horns
+hair: short spines
 eyes: Hazel
 skin: silver
 ideal: Caring
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Dragonborn Druid from Draconia
 - 3rd year Assault student in Jettenia
-- 5 barbed horns, Hazel eyes, and silver skin
+- short spines, Hazel eyes, and silver skin
 - Is Logical and Critical, and has Caring as their ideal
 
 ### Organizations

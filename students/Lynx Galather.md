@@ -1,7 +1,7 @@
 ---
 name: Lynx Galather
 race: Human
-hair: long straight black hair that's well kept
+hair: long curly white hair that's wild
 eyes: Amber
 skin: Tan
 ideal: Responsibility
@@ -38,7 +38,7 @@ guild: Burk
 partyID: 72
 tags:
 - Human
-- Aldercrown Empire
+- Qualnis
 - Monk
 - Exploration
 - 1st
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Human Monk from Qualnis
 - 1st year Exploration student in Burk
-- long straight black hair that's well kept, Amber eyes, and Tan skin
+- long curly white hair that's wild, Amber eyes, and Tan skin
 - Is Reasonable and Resentful, and has Responsibility as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Nom Remington
 race: Dragonborn
-hair: frills
+hair: long spines
 eyes: Purple
 skin: copper
 ideal: Power
@@ -13,7 +13,7 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 3/26
   written: 26th of Melorent
-origin: Draconia
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -44,9 +44,9 @@ tags:
 # Nom Remington
 ---
 ### Description
-- Dragonborn Monk from Draconia
+- Dragonborn Monk from Principality of the Palus Peoples
 - 3rd year Exploration student in Fiesn
-- frills, Purple eyes, and copper skin
+- long spines, Purple eyes, and copper skin
 - Is Unfathomable and Hesitant, and has Power as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Levy Maendellyn
 race: Gnome
-hair: short wavy red hair that's plain
+hair: long frizzy brunette hair that's braided
 eyes: Pale Blue
 skin: Brown
 ideal: Righteous
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Gnome Fighter from Shadesburry Initiative
 - 2nd year Assault student in Burk
-- short wavy red hair that's plain, Pale Blue eyes, and Brown skin
+- long frizzy brunette hair that's braided, Pale Blue eyes, and Brown skin
 - Is Hospitable and Sly, and has Righteous as their ideal
 
 ### Organizations

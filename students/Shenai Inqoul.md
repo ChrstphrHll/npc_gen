@@ -1,7 +1,7 @@
 ---
 name: Shenai Inqoul
 race: Tiefling
-hair: shoulder length straight black hair that's well kept
+hair: short frizzy dark red hair that's plain
 eyes: Deep Blue
 skin: Olive
 ideal: Pessimism
@@ -15,7 +15,7 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 7/16
   written: 16th of Korent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -48,9 +48,9 @@ tags:
 # Shenai Inqoul
 ---
 ### Description
-- Tiefling Monk from Aldercrown Empire
+- Tiefling Monk from Magmus Centerhold
 - 2nd year Assault student in Burk
-- shoulder length straight black hair that's well kept, Deep Blue eyes, and Olive skin
+- short frizzy dark red hair that's plain, Deep Blue eyes, and Olive skin
 - Is Intrepid and Immature, and has Pessimism as their ideal
 
 ### Organizations

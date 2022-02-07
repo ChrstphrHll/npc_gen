@@ -1,7 +1,7 @@
 ---
 name: Joyce Helartha
 race: Halfling
-hair: long straight brunette hair that's braided
+hair: shoulder length curly grey hair that's well kept
 eyes: Pale Brown
 skin: Dark Tan
 ideal: Compassion
@@ -13,7 +13,7 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 2/21
   written: 21st of Corelent
-origin: Verdain
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Treskal
 partyID: 78
 tags:
 - Halfling
-- Qualnis
+- Verdain
 - Cleric
 - Diplomacy
 - 1st
@@ -46,9 +46,9 @@ tags:
 # Joyce Helartha
 ---
 ### Description
-- Halfling Cleric from Verdain
+- Halfling Cleric from Principality of the Palus Peoples
 - 1st year Diplomacy student in Treskal
-- long straight brunette hair that's braided, Pale Brown eyes, and Dark Tan skin
+- shoulder length curly grey hair that's well kept, Pale Brown eyes, and Dark Tan skin
 - Is Innovative and Abrasive, and has Compassion as their ideal
 
 ### Organizations

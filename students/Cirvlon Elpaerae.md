@@ -1,7 +1,7 @@
 ---
 name: Cirvlon Elpaerae
 race: Tiefling
-hair: short straight white hair that's put up
+hair: short straight strawberry blond hair that's plain
 eyes: Pale Green
 skin: Pale Gray
 ideal: Logic
@@ -37,7 +37,7 @@ guild: Alderden
 partyID: 73
 tags:
 - Tiefling
-- Aldercrown Empire
+- Principality of the Palus Peoples
 - Druid
 - Assault
 - 2nd
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Tiefling Druid from Principality of the Palus Peoples
 - 2nd year Assault student in Alderden
-- short straight white hair that's put up, Pale Green eyes, and Pale Gray skin
+- short straight strawberry blond hair that's plain, Pale Green eyes, and Pale Gray skin
 - Is Impressive and Callous, and has Logic as their ideal
 
 ### Organizations

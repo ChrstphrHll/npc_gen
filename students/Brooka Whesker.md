@@ -1,7 +1,7 @@
 ---
 name: Brooka Whesker
 race: Half-Elf
-hair: long curly platinum hair that's messy
+hair: long curly brunette hair that's wild
 eyes: Pale Brown
 skin: Pale
 ideal: Impartiality
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Half-Elf Fighter from Aldercrown Empire
 - 3rd year Diplomacy student in Treskal
-- long curly platinum hair that's messy, Pale Brown eyes, and Pale skin
+- long curly brunette hair that's wild, Pale Brown eyes, and Pale skin
 - Is Private and Predictable, and has Impartiality as their ideal
 
 ### Organizations

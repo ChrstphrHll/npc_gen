@@ -1,7 +1,7 @@
 ---
 name: Asmiak Seirye
 race: Human
-hair: long frizzy lighter blonde hair that's plain
+hair: short wavy lighter blonde hair that's well kept
 eyes: Brown
 skin: Fair
 ideal: Anti-Authority
@@ -14,7 +14,7 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 3/28
   written: 28th of Melorent
-origin: Qualnis
+origin: Shadesburry Initiative
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 43
 tags:
 - Human
-- Beleriand
+- Qualnis
 - Paladin
 - Exploration
 - 1st
@@ -47,9 +47,9 @@ tags:
 # Asmiak Seirye
 ---
 ### Description
-- Human Paladin from Qualnis
+- Human Paladin from Shadesburry Initiative
 - 1st year Exploration student in Alderden
-- long frizzy lighter blonde hair that's plain, Brown eyes, and Fair skin
+- short wavy lighter blonde hair that's well kept, Brown eyes, and Fair skin
 - Is Masculine and Impractical, and has Anti-Authority as their ideal
 
 ### Organizations

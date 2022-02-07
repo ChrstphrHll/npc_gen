@@ -1,7 +1,7 @@
 ---
 name: Hagar Sakrattars
 race: Tiefling
-hair: shoulder length straight black hair that's messy
+hair: short curly blonde hair that's plain
 eyes: Blue
 skin: Pale Yellow
 ideal: Competition
@@ -15,7 +15,7 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 2/24
   written: 24th of Corelent
-origin: Principality of the Palus Peoples
+origin: Verdain
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Burk
 partyID: 86
 tags:
 - Tiefling
-- Verdain
+- Principality of the Palus Peoples
 - Cleric
 - Protection
 - 2nd
@@ -48,9 +48,9 @@ tags:
 # Hagar Sakrattars
 ---
 ### Description
-- Tiefling Cleric from Principality of the Palus Peoples
+- Tiefling Cleric from Verdain
 - 2nd year Protection student in Burk
-- shoulder length straight black hair that's messy, Blue eyes, and Pale Yellow skin
+- short curly blonde hair that's plain, Blue eyes, and Pale Yellow skin
 - Is Conforming and Criminal, and has Competition as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Levi Kicklighter
 race: Goliath
-hair: short wavy red hair that's braided
+hair: short straight strawberry blond hair that's plain
 eyes: Pale Gray
 skin: Fair
 ideal: Compassion
@@ -38,7 +38,7 @@ guild: Elkenval
 partyID: 88
 tags:
 - Goliath
-- Chillwild Peaks
+- Beleriand
 - Paladin
 - Exploration
 - 1st
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Goliath Paladin from Beleriand
 - 1st year Exploration student in Elkenval
-- short wavy red hair that's braided, Pale Gray eyes, and Fair skin
+- short straight strawberry blond hair that's plain, Pale Gray eyes, and Fair skin
 - Is Hearty and Airy, and has Compassion as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Jasjen Nlossae
 race: Dragonborn
-hair: frills
+hair: 3 curled horns
 eyes: Brown
 skin: blue
 ideal: Caring
@@ -37,7 +37,7 @@ guild: Burk
 partyID: 65
 tags:
 - Dragonborn
-- Beleriand
+- Draconia
 - Bard
 - Diplomacy
 - 2nd
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Dragonborn Bard from Draconia
 - 2nd year Diplomacy student in Burk
-- frills, Brown eyes, and blue skin
+- 3 curled horns, Brown eyes, and blue skin
 - Is Solitary and Muddle-headed, and has Caring as their ideal
 
 ### Organizations

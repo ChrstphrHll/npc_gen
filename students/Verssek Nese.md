@@ -1,7 +1,7 @@
 ---
 name: Verssek Nese
 race: Half-Elf
-hair: shoulder length straight white hair that's plain
+hair: short curly auburn hair that's plain
 eyes: Gray
 skin: Light
 ideal: Logic
@@ -16,7 +16,7 @@ bond: I have an ancient text that holds terrible secrets that must not fall into
 birthday:
   numeric: 6/13
   written: 13th of Pelent
-origin: Beleriand
+origin: Verdain
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Treskal
 partyID: 19
 tags:
 - Half-Elf
-- Aldercrown Empire
+- Beleriand
 - Artificer
 - Protection
 - 3rd
@@ -47,9 +47,9 @@ tags:
 # Verssek Nese
 ---
 ### Description
-- Half-Elf Artificer from Beleriand
+- Half-Elf Artificer from Verdain
 - 3rd year Protection student in Treskal
-- shoulder length straight white hair that's plain, Gray eyes, and Light skin
+- short curly auburn hair that's plain, Gray eyes, and Light skin
 - Is Gentle and Impassive, and has Logic as their ideal
 
 ### Organizations

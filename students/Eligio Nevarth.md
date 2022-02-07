@@ -1,7 +1,7 @@
 ---
 name: Eligio Nevarth
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Amber
 skin: brass
 ideal: Lead by example
@@ -13,7 +13,7 @@ bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 4/1
   written: 1st of Moradent
-origin: Principality of the Palus Peoples
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Burk
 partyID: 65
 tags:
 - Dragonborn
-- Shadesburry Initiative
+- Principality of the Palus Peoples
 - Ranger
 - Diplomacy
 - 2nd
@@ -46,9 +46,9 @@ tags:
 # Eligio Nevarth
 ---
 ### Description
-- Dragonborn Ranger from Principality of the Palus Peoples
+- Dragonborn Ranger from Magmus Centerhold
 - 2nd year Diplomacy student in Burk
-- short spines, Amber eyes, and brass skin
+- frills, Amber eyes, and brass skin
 - Is Neat and Troublesome, and has Lead by example as their ideal
 
 ### Organizations

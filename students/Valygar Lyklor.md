@@ -1,7 +1,7 @@
 ---
 name: Valygar Lyklor
 race: Firbolg
-hair: short straight brunette hair that's wild
+hair: shoulder length curly brunette hair that's put up
 eyes: Pale Blue
 skin: Pale Green
 ideal: Responsibility
@@ -14,7 +14,7 @@ bond: I entered seclusion because I loved someone I could not have.
 birthday:
   numeric: 5/26
   written: 26th of Iounent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Burk
 partyID: 86
 tags:
 - Firbolg
-- Verdain
+- Magmus Centerhold
 - Cleric
 - Protection
 - 2nd
@@ -47,9 +47,9 @@ tags:
 # Valygar Lyklor
 ---
 ### Description
-- Firbolg Cleric from Magmus Centerhold
+- Firbolg Cleric from Aldercrown Empire
 - 2nd year Protection student in Burk
-- short straight brunette hair that's wild, Pale Blue eyes, and Pale Green skin
+- shoulder length curly brunette hair that's put up, Pale Blue eyes, and Pale Green skin
 - Is Invulnerable and Assertive, and has Responsibility as their ideal
 
 ### Organizations

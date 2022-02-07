@@ -1,7 +1,7 @@
 ---
 name: Hanna Arkhun
 race: Triton
-hair: long straight platinum hair that's put up
+hair: short wavy turquoise hair that's messy
 eyes: Purple
 skin: Pale Gray
 ideal: Involvement
@@ -13,7 +13,7 @@ bond: My town or city is my home, and I'll fight to defend it.
 birthday:
   numeric: 1/23
   written: 23rd of Avanent
-origin: Whyndiem
+origin: Glasscliff Garisons
 voice: null
 relvance: 0
 relationships:
@@ -46,9 +46,9 @@ tags:
 # Hanna Arkhun
 ---
 ### Description
-- Triton Paladin from Whyndiem
+- Triton Paladin from Glasscliff Garisons
 - 1st year Protection student in Treskal
-- long straight platinum hair that's put up, Purple eyes, and Pale Gray skin
+- short wavy turquoise hair that's messy, Purple eyes, and Pale Gray skin
 - Is Dependable and Enigmatic, and has Involvement as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Iaen Dannyd
 race: Dragonborn
-hair: frills
+hair: short spines
 eyes: Deep Blue
 skin: copper
 ideal: Wellness
@@ -13,7 +13,7 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 1/11
   written: 11th of Avanent
-origin: Draconia
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -46,9 +46,9 @@ tags:
 # Iaen Dannyd
 ---
 ### Description
-- Dragonborn Rouge from Draconia
+- Dragonborn Rouge from Aldercrown Empire
 - 2nd year Protection student in Fiesn
-- frills, Deep Blue eyes, and copper skin
+- short spines, Deep Blue eyes, and copper skin
 - Is Trusting and Determined, and has Wellness as their ideal
 
 ### Organizations

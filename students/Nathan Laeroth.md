@@ -1,7 +1,7 @@
 ---
 name: Nathan Laeroth
 race: Gnome
-hair: long wavy strawberry blond hair that's plain
+hair: shoulder length straight red hair that's messy
 eyes: Blue
 skin: Pale
 ideal: Fun
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Gnome Artificer from Shadesburry Initiative
 - 1st year Diplomacy student in Elkenval
-- long wavy strawberry blond hair that's plain, Blue eyes, and Pale skin
+- shoulder length straight red hair that's messy, Blue eyes, and Pale skin
 - Is Sweet and Wicked, and has Fun as their ideal
 
 ### Organizations

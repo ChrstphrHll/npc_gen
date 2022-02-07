@@ -1,7 +1,7 @@
 ---
 name: Jamie Kesefehon
 race: Gnome
-hair: long wavy platinum hair that's messy
+hair: shoulder length curly brunette hair that's plain
 eyes: Pale Gray
 skin: Fair
 ideal: Spiritualism
@@ -13,7 +13,7 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 8/18
   written: 18th of Ravenent
-origin: Shadesburry Initiative
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -46,9 +46,9 @@ tags:
 # Jamie Kesefehon
 ---
 ### Description
-- Gnome Sorcerer from Shadesburry Initiative
+- Gnome Sorcerer from Aldercrown Empire
 - 1st year Diplomacy student in Alderden
-- long wavy platinum hair that's messy, Pale Gray eyes, and Fair skin
+- shoulder length curly brunette hair that's plain, Pale Gray eyes, and Fair skin
 - Is Simple and Offhand, and has Spiritualism as their ideal
 
 ### Organizations

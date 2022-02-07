@@ -1,7 +1,7 @@
 ---
 name: Caeleb Embrae
 race: Tiefling
-hair: shoulder length wavy auburn hair that's braided
+hair: short straight dark red hair that's well kept
 eyes: Aqua
 skin: Deep Blue
 ideal: Invention
@@ -14,7 +14,7 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 5/18
   written: 18th of Iounent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -47,9 +47,9 @@ tags:
 # Caeleb Embrae
 ---
 ### Description
-- Tiefling Bard from Aldercrown Empire
+- Tiefling Bard from Magmus Centerhold
 - 2nd year Assault student in Fiesn
-- shoulder length wavy auburn hair that's braided, Aqua eyes, and Deep Blue skin
+- short straight dark red hair that's well kept, Aqua eyes, and Deep Blue skin
 - Is Skillful and Libidinous, and has Invention as their ideal
 
 ### Organizations

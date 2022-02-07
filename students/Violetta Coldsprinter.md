@@ -1,7 +1,7 @@
 ---
 name: Violetta Coldsprinter
 race: Half-Orc
-hair: shoulder length curly dirty blonde hair that's plain
+hair: shoulder length wavy violet hair that's well kept
 eyes: Amber
 skin: Pale Gray
 ideal: Creativity
@@ -14,7 +14,7 @@ bond: Something important was taken from me, and I aim to steal it back.
 birthday:
   numeric: 1/9
   written: 9th of Avanent
-origin: Qualnis
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Burk
 partyID: 93
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Qualnis
 - Fighter
 - Assault
 - 2nd
@@ -49,9 +49,9 @@ tags:
 # Violetta Coldsprinter
 ---
 ### Description
-- Half-Orc Fighter from Qualnis
+- Half-Orc Fighter from Magmus Centerhold
 - 2nd year Assault student in Burk
-- shoulder length curly dirty blonde hair that's plain, Amber eyes, and Pale Gray skin
+- shoulder length wavy violet hair that's well kept, Amber eyes, and Pale Gray skin
 - Is Original and Naughty, and has Creativity as their ideal
 
 ### Organizations

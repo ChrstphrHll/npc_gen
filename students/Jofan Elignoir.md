@@ -1,7 +1,7 @@
 ---
 name: Jofan Elignoir
 race: Triton
-hair: shoulder length frizzy strawberry blond hair that's well kept
+hair: shoulder length curly dirty blonde hair that's plain
 eyes: Hazel
 skin: Pale Gray
 ideal: Pride
@@ -14,7 +14,7 @@ bond: I will someday get revenge on the corrupt temple hierarchy who branded me 
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-origin: Glasscliff Garisons
+origin: Whyndiem
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 6
 tags:
 - Triton
-- Whyndiem
+- Glasscliff Garisons
 - Ranger
 - Diplomacy
 - 7th
@@ -47,9 +47,9 @@ tags:
 # Jofan Elignoir
 ---
 ### Description
-- Triton Ranger from Glasscliff Garisons
+- Triton Ranger from Whyndiem
 - 7th year Diplomacy student in Alderden
-- shoulder length frizzy strawberry blond hair that's well kept, Hazel eyes, and Pale Gray skin
+- shoulder length curly dirty blonde hair that's plain, Hazel eyes, and Pale Gray skin
 - Is Modest and Snobbish, and has Pride as their ideal
 
 ### Organizations

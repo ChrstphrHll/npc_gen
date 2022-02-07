@@ -1,7 +1,7 @@
 ---
 name: Jess Beebe
 race: Firbolg
-hair: long straight grey hair that's put up
+hair: short wavy brunette hair that's plain
 eyes: Hazel
 skin: Pale Gray
 ideal: Finesse
@@ -13,7 +13,7 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 5/1
   written: 1st of Iounent
-origin: Principality of the Palus Peoples
+origin: Verdain
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 98
 tags:
 - Firbolg
-- Aldercrown Empire
+- Principality of the Palus Peoples
 - Cleric
 - Diplomacy
 - 3rd
@@ -46,9 +46,9 @@ tags:
 # Jess Beebe
 ---
 ### Description
-- Firbolg Cleric from Principality of the Palus Peoples
+- Firbolg Cleric from Verdain
 - 3rd year Diplomacy student in Fiesn
-- long straight grey hair that's put up, Hazel eyes, and Pale Gray skin
+- short wavy brunette hair that's plain, Hazel eyes, and Pale Gray skin
 - Is Impressive and Unkind, and has Finesse as their ideal
 
 ### Organizations

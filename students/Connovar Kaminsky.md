@@ -1,7 +1,7 @@
 ---
 name: Connovar Kaminsky
 race: Half-Orc
-hair: short wavy platinum hair that's plain
+hair: shoulder length curly red hair that's plain
 eyes: Brown
 skin: Pale Green
 ideal: Creativity
@@ -14,7 +14,7 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 7/28
   written: 28th of Korent
-origin: Magmus Centerhold
+origin: Chillwild Peaks
 voice: null
 relvance: 0
 relationships:
@@ -45,9 +45,9 @@ tags:
 # Connovar Kaminsky
 ---
 ### Description
-- Half-Orc Sorcerer from Magmus Centerhold
+- Half-Orc Sorcerer from Chillwild Peaks
 - 4th year Protection student in Treskal
-- short wavy platinum hair that's plain, Brown eyes, and Pale Green skin
+- shoulder length curly red hair that's plain, Brown eyes, and Pale Green skin
 - Is Helpful and Plodding, and has Creativity as their ideal
 
 ### Organizations

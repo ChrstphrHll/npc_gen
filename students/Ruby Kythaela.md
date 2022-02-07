@@ -1,7 +1,7 @@
 ---
 name: Ruby Kythaela
 race: Triton
-hair: short frizzy dirty blonde hair that's messy
+hair: long wavy black hair that's plain
 eyes: Amber
 skin: Spring Green
 ideal: Love
@@ -14,7 +14,7 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 7/32
   written: 32nd of Korent
-origin: Glasscliff Garisons
+origin: Whyndiem
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 26
 tags:
 - Triton
-- Magmus Centerhold
+- Glasscliff Garisons
 - Fighter
 - Protection
 - 2nd
@@ -47,9 +47,9 @@ tags:
 # Ruby Kythaela
 ---
 ### Description
-- Triton Fighter from Glasscliff Garisons
+- Triton Fighter from Whyndiem
 - 2nd year Protection student in Jettenia
-- short frizzy dirty blonde hair that's messy, Amber eyes, and Spring Green skin
+- long wavy black hair that's plain, Amber eyes, and Spring Green skin
 - Is Paternalistic and Pleasing, and has Love as their ideal
 
 ### Organizations

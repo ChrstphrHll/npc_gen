@@ -1,7 +1,7 @@
 ---
 name: Tisette Bender
 race: Gnome
-hair: short straight dirty blonde hair that's plain
+hair: shoulder length wavy platinum hair that's put up
 eyes: Gray
 skin: Brown
 ideal: Logic
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Gnome Paladin from Shadesburry Initiative
 - 1st year Assault student in Burk
-- short straight dirty blonde hair that's plain, Gray eyes, and Brown skin
+- shoulder length wavy platinum hair that's put up, Gray eyes, and Brown skin
 - Is Profound and Plain, and has Logic as their ideal
 
 ### Organizations

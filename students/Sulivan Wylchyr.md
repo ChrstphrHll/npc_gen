@@ -14,7 +14,7 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 7/12
   written: 12th of Korent
-origin: Draconia
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -45,7 +45,7 @@ tags:
 # Sulivan Wylchyr
 ---
 ### Description
-- Dragonborn Monk from Draconia
+- Dragonborn Monk from Magmus Centerhold
 - 2nd year Exploration student in Elkenval
 - frills, Spring Green eyes, and blue skin
 - Is Joyful and Pure, and has Forgiveness as their ideal

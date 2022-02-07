@@ -1,7 +1,7 @@
 ---
 name: Grassa Ashbluff
 race: Dwarf
-hair: shoulder length straight blonde hair that's wild
+hair: long straight brunette hair that's well kept
 eyes: Gray
 skin: Light
 ideal: Professionalism
@@ -15,7 +15,7 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
-origin: Floating Island
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 25
 tags:
 - Dwarf
-- Aldercrown Empire
+- Floating Island
 - Artificer
 - Protection
 - 7th
@@ -48,9 +48,9 @@ tags:
 # Grassa Ashbluff
 ---
 ### Description
-- Dwarf Artificer from Floating Island
+- Dwarf Artificer from Aldercrown Empire
 - 7th year Protection student in Fiesn
-- shoulder length straight blonde hair that's wild, Gray eyes, and Light skin
+- long straight brunette hair that's well kept, Gray eyes, and Light skin
 - Is Thrilling and Arrogant, and has Professionalism as their ideal
 
 ### Organizations

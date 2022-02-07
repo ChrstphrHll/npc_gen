@@ -1,7 +1,7 @@
 ---
 name: Kendel Shael
 race: Firbolg
-hair: shoulder length wavy blonde hair that's plain
+hair: short curly dirty blonde hair that's plain
 eyes: Gray
 skin: Pale Blue
 ideal: Finesse
@@ -14,7 +14,7 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 7/26
   written: 26th of Korent
-origin: Principality of the Palus Peoples
+origin: Verdain
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 43
 tags:
 - Firbolg
-- Verdain
+- Principality of the Palus Peoples
 - Rouge
 - Exploration
 - 1st
@@ -47,9 +47,9 @@ tags:
 # Kendel Shael
 ---
 ### Description
-- Firbolg Rouge from Principality of the Palus Peoples
+- Firbolg Rouge from Verdain
 - 1st year Exploration student in Alderden
-- shoulder length wavy blonde hair that's plain, Gray eyes, and Pale Blue skin
+- short curly dirty blonde hair that's plain, Gray eyes, and Pale Blue skin
 - Is Concerned and Muddle-headed, and has Finesse as their ideal
 
 ### Organizations

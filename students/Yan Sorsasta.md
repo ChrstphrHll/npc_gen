@@ -1,7 +1,7 @@
 ---
 name: Yan Sorsasta
 race: Dwarf
-hair: shoulder length wavy strawberry blond hair that's put up
+hair: shoulder length wavy grey hair that's braided
 eyes: Brown
 skin: Pale
 ideal: Reciprocity
@@ -39,7 +39,7 @@ guild: Burk
 partyID: 93
 tags:
 - Dwarf
-- Shadesburry Initiative
+- Aldercrown Empire
 - Barbarian
 - Diplomacy
 - 2nd
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Dwarf Barbarian from Aldercrown Empire
 - 2nd year Diplomacy student in Burk
-- shoulder length wavy strawberry blond hair that's put up, Brown eyes, and Pale skin
+- shoulder length wavy grey hair that's braided, Brown eyes, and Pale skin
 - Is Adventurous and Pretentious, and has Reciprocity as their ideal
 
 ### Organizations

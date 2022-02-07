@@ -1,7 +1,7 @@
 ---
 name: Kayla Kaminsky
 race: Gnome
-hair: short straight auburn hair that's braided
+hair: shoulder length wavy auburn hair that's plain
 eyes: Pale Green
 skin: Tan
 ideal: Patience
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Gnome Artificer from Shadesburry Initiative
 - 1st year Diplomacy student in Elkenval
-- short straight auburn hair that's braided, Pale Green eyes, and Tan skin
+- shoulder length wavy auburn hair that's plain, Pale Green eyes, and Tan skin
 - Is Uninhibited and Difficult, and has Patience as their ideal
 
 ### Organizations

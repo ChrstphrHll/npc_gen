@@ -1,7 +1,7 @@
 ---
 name: Saccaros Anaharae
 race: Tiefling
-hair: long wavy dark red hair that's braided
+hair: shoulder length straight auburn hair that's wild
 eyes: Purple
 skin: Aqua
 ideal: Hard Work
@@ -35,7 +35,7 @@ guild: Treskal
 partyID: 70
 tags:
 - Tiefling
-- Magmus Centerhold
+- Aldercrown Empire
 - Ranger
 - Diplomacy
 - 2nd
@@ -46,7 +46,7 @@ tags:
 ### Description
 - Tiefling Ranger from Aldercrown Empire
 - 2nd year Diplomacy student in Treskal
-- long wavy dark red hair that's braided, Purple eyes, and Aqua skin
+- shoulder length straight auburn hair that's wild, Purple eyes, and Aqua skin
 - Is Confident and Naïve, and has Hard Work as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Vaervenshalice Eloen
 race: Elf
-hair: long wavy platinum hair that's plain
+hair: shoulder length curly green hair that's messy
 eyes: Green
 skin: Dark Brown
 ideal: Power
@@ -15,7 +15,7 @@ bond: My tools are symbols of my past life, and I carry them so that I will neve
 birthday:
   numeric: 5/3
   written: 3rd of Iounent
-origin: Beleriand
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -41,7 +41,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Elf
-- Principality of the Palus Peoples
+- Beleriand
 - Ranger
 - Exploration
 - 1st
@@ -50,9 +50,9 @@ tags:
 # Vaervenshalice Eloen
 ---
 ### Description
-- Elf Ranger from Beleriand
+- Elf Ranger from Aldercrown Empire
 - 1st year Exploration student in Treskal
-- long wavy platinum hair that's plain, Green eyes, and Dark Brown skin
+- shoulder length curly green hair that's messy, Green eyes, and Dark Brown skin
 - Is Stubborn and Envious, and has Power as their ideal
 
 ### Organizations

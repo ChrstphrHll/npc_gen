@@ -1,7 +1,7 @@
 ---
 name: Estyn Rhangyl
 race: Dragonborn
-hair: long spines
+hair: 5 curled horns
 eyes: Gray
 skin: blue
 ideal: Conformity
@@ -15,7 +15,7 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 3/5
   written: 5th of Melorent
-origin: Aldercrown Empire
+origin: Draconia
 voice: null
 relvance: 0
 relationships:
@@ -41,7 +41,7 @@ guild: Treskal
 partyID: 7
 tags:
 - Dragonborn
-- Draconia
+- Aldercrown Empire
 - Artificer
 - Protection
 - 4th
@@ -50,9 +50,9 @@ tags:
 # Estyn Rhangyl
 ---
 ### Description
-- Dragonborn Artificer from Aldercrown Empire
+- Dragonborn Artificer from Draconia
 - 4th year Protection student in Treskal
-- long spines, Gray eyes, and blue skin
+- 5 curled horns, Gray eyes, and blue skin
 - Is Harmonious and Talkative, and has Conformity as their ideal
 
 ### Organizations

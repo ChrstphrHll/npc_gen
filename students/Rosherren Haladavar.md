@@ -1,7 +1,7 @@
 ---
 name: Rosherren Haladavar
 race: Genasi
-hair: long curly black hair that's plain
+hair: short straight auburn hair that's messy
 eyes: Pale Green
 skin: earth
 ideal: Excitement
@@ -14,7 +14,7 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 6/31
   written: 31st of Pelent
-origin: Magmus Centerhold
+origin: Chillwild Peaks
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Burk
 partyID: 95
 tags:
 - Genasi
-- Aldercrown Empire
+- Magmus Centerhold
 - Fighter
 - Protection
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Rosherren Haladavar
 ---
 ### Description
-- Genasi Fighter from Magmus Centerhold
+- Genasi Fighter from Chillwild Peaks
 - 1st year Protection student in Burk
-- long curly black hair that's plain, Pale Green eyes, and earth skin
+- short straight auburn hair that's messy, Pale Green eyes, and earth skin
 - Is Discerning and Artificial, and has Excitement as their ideal
 
 ### Organizations

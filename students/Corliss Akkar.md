@@ -1,7 +1,7 @@
 ---
 name: Corliss Akkar
 race: Half-Orc
-hair: short wavy blonde hair that's plain
+hair: short straight brunette hair that's well kept
 eyes: Hazel
 skin: Deep Green
 ideal: Self-Fulfillment
@@ -37,7 +37,7 @@ guild: Burk
 partyID: 72
 tags:
 - Half-Orc
-- Aldercrown Empire
+- Magmus Centerhold
 - Rouge
 - Exploration
 - 1st
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Half-Orc Rouge from Magmus Centerhold
 - 1st year Exploration student in Burk
-- short wavy blonde hair that's plain, Hazel eyes, and Deep Green skin
+- short straight brunette hair that's well kept, Hazel eyes, and Deep Green skin
 - Is Sneaky and Hidebound, and has Self-Fulfillment as their ideal
 
 ### Organizations

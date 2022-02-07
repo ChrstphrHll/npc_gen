@@ -1,7 +1,7 @@
 ---
 name: Ezros Laerdya
 race: Elf
-hair: shoulder length straight red hair that's braided
+hair: long curly brunette hair that's put up
 eyes: Pale Brown
 skin: Light
 ideal: Fame
@@ -13,7 +13,7 @@ bond: It is my duty to protect my students.
 birthday:
   numeric: 2/19
   written: 19th of Corelent
-origin: Floating Island
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 18
 tags:
 - Elf
-- Aldercrown Empire
+- Floating Island
 - Cleric
 - Exploration
 - 1st
@@ -48,9 +48,9 @@ tags:
 # Ezros Laerdya
 ---
 ### Description
-- Elf Cleric from Floating Island
+- Elf Cleric from Beleriand
 - 1st year Exploration student in Fiesn
-- shoulder length straight red hair that's braided, Pale Brown eyes, and Light skin
+- long curly brunette hair that's put up, Pale Brown eyes, and Light skin
 - Is Loving and Monstrous, and has Fame as their ideal
 
 ### Organizations

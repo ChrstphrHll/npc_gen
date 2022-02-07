@@ -1,7 +1,7 @@
 ---
 name: Giacomo Edraele
 race: Human
-hair: long curly dark red hair that's messy
+hair: shoulder length straight white hair that's plain
 eyes: Green
 skin: Light Tan
 ideal: Exceptionalism
@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Human
-- Shadesburry Initiative
+- Aldercrown Empire
 - Druid
 - Diplomacy
 - 2nd
@@ -53,7 +53,7 @@ tags:
 ### Description
 - Human Druid from Aldercrown Empire
 - 2nd year Diplomacy student in Treskal
-- long curly dark red hair that's messy, Green eyes, and Light Tan skin
+- shoulder length straight white hair that's plain, Green eyes, and Light Tan skin
 - Is Communicative and Ungrateful, and has Exceptionalism as their ideal
 
 ### Organizations

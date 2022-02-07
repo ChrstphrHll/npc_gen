@@ -1,7 +1,7 @@
 ---
 name: Dejana Keller
 race: Firbolg
-hair: long straight black hair that's well kept
+hair: short curly lighter blonde hair that's wild
 eyes: Brown
 skin: Pale Blue
 ideal: Clarity
@@ -41,7 +41,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Firbolg
-- Magmus Centerhold
+- Verdain
 - Cleric
 - Exploration
 - 1st
@@ -52,7 +52,7 @@ tags:
 ### Description
 - Firbolg Cleric from Verdain
 - 1st year Exploration student in Treskal
-- long straight black hair that's well kept, Brown eyes, and Pale Blue skin
+- short curly lighter blonde hair that's wild, Brown eyes, and Pale Blue skin
 - Is Zealous and Angry, and has Clarity as their ideal
 
 ### Organizations

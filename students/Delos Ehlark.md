@@ -1,7 +1,7 @@
 ---
 name: Delos Ehlark
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Deep Blue
 skin: silver
 ideal: Family
@@ -13,7 +13,7 @@ bond: Everything I do is for the common people.
 birthday:
   numeric: 2/21
   written: 21st of Corelent
-origin: Beleriand
+origin: Draconia
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 89
 tags:
 - Dragonborn
-- Draconia
+- Beleriand
 - Ranger
 - Protection
 - 7th
@@ -48,9 +48,9 @@ tags:
 # Delos Ehlark
 ---
 ### Description
-- Dragonborn Ranger from Beleriand
+- Dragonborn Ranger from Draconia
 - 7th year Protection student in Fiesn
-- short spines, Deep Blue eyes, and silver skin
+- frills, Deep Blue eyes, and silver skin
 - Is Precise and Condemnatory, and has Family as their ideal
 
 ### Organizations

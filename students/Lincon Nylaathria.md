@@ -1,7 +1,7 @@
 ---
 name: Lincon Nylaathria
 race: Aasimar
-hair: short straight brunette hair that's messy
+hair: short straight lighter blonde hair that's braided
 eyes: Hazel
 skin: Pale
 ideal: Respect
@@ -15,7 +15,7 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 6/6
   written: 6th of Pelent
-origin: Aldercrown Empire
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -48,9 +48,9 @@ tags:
 # Lincon Nylaathria
 ---
 ### Description
-- Aasimar Barbarian from Aldercrown Empire
+- Aasimar Barbarian from Beleriand
 - 4th year Assault student in Burk
-- short straight brunette hair that's messy, Hazel eyes, and Pale skin
+- short straight lighter blonde hair that's braided, Hazel eyes, and Pale skin
 - Is Tractable and Artful, and has Respect as their ideal
 
 ### Organizations

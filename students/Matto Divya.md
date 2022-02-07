@@ -1,7 +1,7 @@
 ---
 name: Matto Divya
 race: Gnome
-hair: shoulder length wavy brunette hair that's put up
+hair: long wavy lighter blonde hair that's well kept
 eyes: Brown
 skin: Fair
 ideal: Fitness
@@ -53,7 +53,7 @@ tags:
 ### Description
 - Gnome Ranger from Shadesburry Initiative
 - 1st year Assault student in Jettenia
-- shoulder length wavy brunette hair that's put up, Brown eyes, and Fair skin
+- long wavy lighter blonde hair that's well kept, Brown eyes, and Fair skin
 - Is Stern and Lackadaisical, and has Fitness as their ideal
 
 ### Organizations

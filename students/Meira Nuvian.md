@@ -1,7 +1,7 @@
 ---
 name: Meira Nuvian
 race: Half-Elf
-hair: short frizzy black hair that's plain
+hair: shoulder length wavy strawberry blond hair that's plain
 eyes: Gray
 skin: Dark Tan
 ideal: Compassion
@@ -13,7 +13,7 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 5/14
   written: 14th of Iounent
-origin: Beleriand
+origin: Qualnis
 voice: null
 relvance: 0
 relationships:
@@ -46,9 +46,9 @@ tags:
 # Meira Nuvian
 ---
 ### Description
-- Half-Elf Ranger from Beleriand
+- Half-Elf Ranger from Qualnis
 - 3rd year Assault student in Burk
-- short frizzy black hair that's plain, Gray eyes, and Dark Tan skin
+- shoulder length wavy strawberry blond hair that's plain, Gray eyes, and Dark Tan skin
 - Is Well-bred and Disconcerting, and has Compassion as their ideal
 
 ### Organizations

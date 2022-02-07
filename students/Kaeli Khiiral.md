@@ -1,7 +1,7 @@
 ---
 name: Kaeli Khiiral
 race: Triton
-hair: short straight black hair that's messy
+hair: shoulder length wavy white hair that's put up
 eyes: Brown
 skin: Pale Gray
 ideal: Reciprocity
@@ -52,7 +52,7 @@ tags:
 ### Description
 - Triton Wizard from Whyndiem
 - 7th year Assault student in Fiesn
-- short straight black hair that's messy, Brown eyes, and Pale Gray skin
+- shoulder length wavy white hair that's put up, Brown eyes, and Pale Gray skin
 - Is Winning and Meretricious, and has Reciprocity as their ideal
 
 ### Organizations

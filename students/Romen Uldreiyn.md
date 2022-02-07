@@ -1,7 +1,7 @@
 ---
 name: Romen Uldreiyn
 race: Goliath
-hair: short straight violet hair that's plain
+hair: short frizzy dark red hair that's messy
 eyes: Pale Blue
 skin: Light Tan
 ideal: Fitness
@@ -53,7 +53,7 @@ tags:
 ### Description
 - Goliath Druid from Chillwild Peaks
 - 8th year Protection student in Fiesn
-- short straight violet hair that's plain, Pale Blue eyes, and Light Tan skin
+- short frizzy dark red hair that's messy, Pale Blue eyes, and Light Tan skin
 - Is Self-reliant and Superficial, and has Fitness as their ideal
 
 ### Organizations

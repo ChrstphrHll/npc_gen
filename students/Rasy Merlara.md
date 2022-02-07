@@ -1,7 +1,7 @@
 ---
 name: Rasy Merlara
 race: Dwarf
-hair: shoulder length straight brunette hair that's braided
+hair: shoulder length wavy blonde hair that's messy
 eyes: Pale Brown
 skin: Dark Tan
 ideal: Spiritualism
@@ -14,7 +14,7 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 7/11
   written: 11th of Korent
-origin: Aldercrown Empire
+origin: Shadesburry Initiative
 voice: null
 relvance: 0
 relationships:
@@ -47,9 +47,9 @@ tags:
 # Rasy Merlara
 ---
 ### Description
-- Dwarf Wizard from Aldercrown Empire
+- Dwarf Wizard from Shadesburry Initiative
 - 1st year Exploration student in Alderden
-- shoulder length straight brunette hair that's braided, Pale Brown eyes, and Dark Tan skin
+- shoulder length wavy blonde hair that's messy, Pale Brown eyes, and Dark Tan skin
 - Is Reflective and Ungrateful, and has Spiritualism as their ideal
 
 ### Organizations

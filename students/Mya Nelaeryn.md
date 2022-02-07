@@ -1,7 +1,7 @@
 ---
 name: Mya Nelaeryn
 race: Human
-hair: long wavy brunette hair that's plain
+hair: long straight dark red hair that's wild
 eyes: Pale Brown
 skin: Fair
 ideal: Creativity
@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Human
-- Beleriand
+- Qualnis
 - Barbarian
 - Protection
 - 2nd
@@ -52,7 +52,7 @@ tags:
 ### Description
 - Human Barbarian from Qualnis
 - 2nd year Protection student in Elkenval
-- long wavy brunette hair that's plain, Pale Brown eyes, and Fair skin
+- long straight dark red hair that's wild, Pale Brown eyes, and Fair skin
 - Is Folksy and Evil, and has Creativity as their ideal
 
 ### Organizations

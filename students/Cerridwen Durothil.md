@@ -1,7 +1,7 @@
 ---
 name: Cerridwen Durothil
 race: Half-Elf
-hair: long wavy auburn hair that's wild
+hair: shoulder length curly violet hair that's plain
 eyes: Pale Gray
 skin: Light
 ideal: Competition
@@ -15,7 +15,7 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 2/18
   written: 18th of Corelent
-origin: Aldercrown Empire
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Treskal
 partyID: 63
 tags:
 - Half-Elf
-- Magmus Centerhold
+- Aldercrown Empire
 - Ranger
 - Exploration
 - 5th
@@ -48,9 +48,9 @@ tags:
 # Cerridwen Durothil
 ---
 ### Description
-- Half-Elf Ranger from Aldercrown Empire
+- Half-Elf Ranger from Principality of the Palus Peoples
 - 5th year Exploration student in Treskal
-- long wavy auburn hair that's wild, Pale Gray eyes, and Light skin
+- shoulder length curly violet hair that's plain, Pale Gray eyes, and Light skin
 - Is Gritty and Outspoken, and has Competition as their ideal
 
 ### Organizations

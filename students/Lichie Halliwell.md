@@ -1,7 +1,7 @@
 ---
 name: Lichie Halliwell
 race: Goliath
-hair: long wavy lighter blonde hair that's messy
+hair: short straight strawberry blond hair that's put up
 eyes: Gray
 skin: Fair
 ideal: Patience
@@ -14,7 +14,7 @@ bond: My freedom is my most precious possession. I'll never let anyone take it f
 birthday:
   numeric: 4/11
   written: 11th of Moradent
-origin: Aldercrown Empire
+origin: Chillwild Peaks
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Elkenval
 partyID: 82
 tags:
 - Goliath
-- Chillwild Peaks
+- Aldercrown Empire
 - Druid
 - Assault
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Lichie Halliwell
 ---
 ### Description
-- Goliath Druid from Aldercrown Empire
+- Goliath Druid from Chillwild Peaks
 - 1st year Assault student in Elkenval
-- long wavy lighter blonde hair that's messy, Gray eyes, and Fair skin
+- short straight strawberry blond hair that's put up, Gray eyes, and Fair skin
 - Is Accessible and Intemperate, and has Patience as their ideal
 
 ### Organizations

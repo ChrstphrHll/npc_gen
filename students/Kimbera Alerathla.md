@@ -1,7 +1,7 @@
 ---
 name: Kimbera Alerathla
 race: Human
-hair: long curly grey hair that's braided
+hair: long straight black hair that's plain
 eyes: Hazel
 skin: Dark Tan
 ideal: Independence
@@ -14,7 +14,7 @@ bond: I come from a noble family, and one day I'll reclaim my lands and title fr
 birthday:
   numeric: 4/14
   written: 14th of Moradent
-origin: Beleriand
+origin: Verdain
 voice: null
 relvance: 0
 relationships:
@@ -42,7 +42,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Human
-- Qualnis
+- Beleriand
 - Druid
 - Assault
 - 1st
@@ -51,9 +51,9 @@ tags:
 # Kimbera Alerathla
 ---
 ### Description
-- Human Druid from Beleriand
+- Human Druid from Verdain
 - 1st year Assault student in Elkenval
-- long curly grey hair that's braided, Hazel eyes, and Dark Tan skin
+- long straight black hair that's plain, Hazel eyes, and Dark Tan skin
 - Is Objective and Mannered, and has Independence as their ideal
 
 ### Organizations

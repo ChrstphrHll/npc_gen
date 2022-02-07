@@ -1,7 +1,7 @@
 ---
 name: Diegon Verrona
 race: Dragonborn
-hair: frills
+hair: 4 curled horns
 eyes: Deep Blue
 skin: bronze
 ideal: Loyalty
@@ -15,7 +15,7 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 5/2
   written: 2nd of Iounent
-origin: Draconia
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 90
 tags:
 - Dragonborn
-- Aldercrown Empire
+- Draconia
 - Rouge
 - Diplomacy
 - 1st
@@ -50,9 +50,9 @@ tags:
 # Diegon Verrona
 ---
 ### Description
-- Dragonborn Rouge from Draconia
+- Dragonborn Rouge from Magmus Centerhold
 - 1st year Diplomacy student in Elkenval
-- frills, Deep Blue eyes, and bronze skin
+- 4 curled horns, Deep Blue eyes, and bronze skin
 - Is Trustworthy and Weak, and has Loyalty as their ideal
 
 ### Organizations

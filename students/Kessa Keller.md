@@ -1,7 +1,7 @@
 ---
 name: Kessa Keller
 race: Human
-hair: short straight black hair that's wild
+hair: long straight strawberry blond hair that's plain
 eyes: Hazel
 skin: Tan
 ideal: Integrity
@@ -14,7 +14,7 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
-origin: Beleriand
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 30
 tags:
 - Human
-- Aldercrown Empire
+- Beleriand
 - Ranger
 - Assault
 - 3rd
@@ -45,9 +45,9 @@ tags:
 # Kessa Keller
 ---
 ### Description
-- Human Ranger from Beleriand
+- Human Ranger from Magmus Centerhold
 - 3rd year Assault student in Elkenval
-- short straight black hair that's wild, Hazel eyes, and Tan skin
+- long straight strawberry blond hair that's plain, Hazel eyes, and Tan skin
 - Is Enigmatic and Regretful, and has Integrity as their ideal
 
 ### Organizations

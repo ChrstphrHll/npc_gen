@@ -1,7 +1,7 @@
 ---
 name: Leonus Triktappic
 race: Halfling
-hair: shoulder length wavy white hair that's plain
+hair: long wavy violet hair that's wild
 eyes: Amber
 skin: Fair
 ideal: Redemption
@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 48
 tags:
 - Halfling
-- Kordinia
+- Verdain
 - Barbarian
 - Protection
 - 5th
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Halfling Barbarian from Verdain
 - 5th year Protection student in Fiesn
-- shoulder length wavy white hair that's plain, Amber eyes, and Fair skin
+- long wavy violet hair that's wild, Amber eyes, and Fair skin
 - Is Extraordinary and Prejudiced, and has Redemption as their ideal
 
 ### Organizations

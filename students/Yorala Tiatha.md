@@ -1,7 +1,7 @@
 ---
 name: Yorala Tiatha
 race: Triton
-hair: long straight grey hair that's well kept
+hair: long straight platinum hair that's braided
 eyes: Deep Blue
 skin: Emerald Green
 ideal: Excitement
@@ -14,7 +14,7 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
-origin: Glasscliff Garisons
+origin: Whyndiem
 voice: null
 relvance: 0
 relationships:
@@ -42,7 +42,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Triton
-- Whyndiem
+- Glasscliff Garisons
 - Monk
 - Protection
 - 5th
@@ -51,9 +51,9 @@ tags:
 # Yorala Tiatha
 ---
 ### Description
-- Triton Monk from Glasscliff Garisons
+- Triton Monk from Whyndiem
 - 5th year Protection student in Jettenia
-- long straight grey hair that's well kept, Deep Blue eyes, and Emerald Green skin
+- long straight platinum hair that's braided, Deep Blue eyes, and Emerald Green skin
 - Is Educated and False, and has Excitement as their ideal
 
 ### Organizations

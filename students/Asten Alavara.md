@@ -1,7 +1,7 @@
 ---
 name: Asten Alavara
 race: Gnome
-hair: shoulder length straight grey hair that's plain
+hair: shoulder length straight white hair that's plain
 eyes: Pale Brown
 skin: Light Tan
 ideal: Integrity
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Gnome Wizard from Shadesburry Initiative
 - 6th year Diplomacy student in Fiesn
-- shoulder length straight grey hair that's plain, Pale Brown eyes, and Light Tan skin
+- shoulder length straight white hair that's plain, Pale Brown eyes, and Light Tan skin
 - Is Mellow and Oppressed, and has Integrity as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Yathlanae Arkhun
 race: Half-Elf
-hair: short wavy platinum hair that's messy
+hair: long wavy white hair that's messy
 eyes: Pale Blue
 skin: Brown
 ideal: Wealth
@@ -47,7 +47,7 @@ tags:
 ### Description
 - Half-Elf Sorcerer from Beleriand
 - 1st year Diplomacy student in Alderden
-- short wavy platinum hair that's messy, Pale Blue eyes, and Brown skin
+- long wavy white hair that's messy, Pale Blue eyes, and Brown skin
 - Is Graceful and Troublesome, and has Wealth as their ideal
 
 ### Organizations

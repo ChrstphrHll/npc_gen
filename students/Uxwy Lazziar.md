@@ -1,7 +1,7 @@
 ---
 name: Uxwy Lazziar
 race: Human
-hair: short wavy blue hair that's wild
+hair: short straight auburn hair that's plain
 eyes: Hazel
 skin: Fair
 ideal: Contentment
@@ -14,7 +14,7 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 2/23
   written: 23rd of Corelent
-origin: Floating Island
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 48
 tags:
 - Human
-- Aldercrown Empire
+- Floating Island
 - Sorcerer
 - Assault
 - 5th
@@ -47,9 +47,9 @@ tags:
 # Uxwy Lazziar
 ---
 ### Description
-- Human Sorcerer from Floating Island
+- Human Sorcerer from Aldercrown Empire
 - 5th year Assault student in Fiesn
-- short wavy blue hair that's wild, Hazel eyes, and Fair skin
+- short straight auburn hair that's plain, Hazel eyes, and Fair skin
 - Is Admirable and Repugnant, and has Contentment as their ideal
 
 ### Organizations

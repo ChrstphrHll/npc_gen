@@ -1,7 +1,7 @@
 ---
 name: Terek Nushala
 race: Triton
-hair: long wavy platinum hair that's put up
+hair: long curly platinum hair that's wild
 eyes: Purple
 skin: Deep Blue
 ideal: Self-Fulfillment
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Triton Wizard from Whyndiem
 - 2nd year Protection student in Fiesn
-- long wavy platinum hair that's put up, Purple eyes, and Deep Blue skin
+- long curly platinum hair that's wild, Purple eyes, and Deep Blue skin
 - Is Circumspect and Ridiculous, and has Self-Fulfillment as their ideal
 
 ### Organizations

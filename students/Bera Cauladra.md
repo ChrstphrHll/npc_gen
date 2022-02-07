@@ -1,7 +1,7 @@
 ---
 name: Bera Cauladra
 race: Gnome
-hair: long wavy red hair that's plain
+hair: shoulder length straight brunette hair that's well kept
 eyes: Pale Blue
 skin: Tan
 ideal: Clarity
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Gnome Cleric from Shadesburry Initiative
 - 4th year Diplomacy student in Elkenval
-- long wavy red hair that's plain, Pale Blue eyes, and Tan skin
+- shoulder length straight brunette hair that's well kept, Pale Blue eyes, and Tan skin
 - Is Modern and Destructive, and has Clarity as their ideal
 
 ### Organizations

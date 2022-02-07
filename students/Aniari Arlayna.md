@@ -1,7 +1,7 @@
 ---
 name: Aniari Arlayna
 race: Elf
-hair: short straight blonde hair that's braided
+hair: long straight red hair that's messy
 eyes: Pale Brown
 skin: Light
 ideal: Courage
@@ -14,7 +14,7 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 3/3
   written: 3rd of Melorent
-origin: Beleriand
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Elkenval
 partyID: 77
 tags:
 - Elf
-- Aldercrown Empire
+- Beleriand
 - Barbarian
 - Assault
 - 1st
@@ -47,9 +47,9 @@ tags:
 # Aniari Arlayna
 ---
 ### Description
-- Elf Barbarian from Beleriand
+- Elf Barbarian from Aldercrown Empire
 - 1st year Assault student in Elkenval
-- short straight blonde hair that's braided, Pale Brown eyes, and Light skin
+- long straight red hair that's messy, Pale Brown eyes, and Light skin
 - Is Knowledgeable and Dishonest, and has Courage as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Malchor Tenyajn
 race: Genasi
-hair: long wavy grey hair that's plain
+hair: short curly brunette hair that's plain
 eyes: Amber
 skin: water
 ideal: Humanity
@@ -14,7 +14,7 @@ bond: I'll always remember my first ship.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
-origin: Kordinia
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 81
 tags:
 - Genasi
-- Beleriand
+- Kordinia
 - Rouge
 - Exploration
 - 1st
@@ -47,9 +47,9 @@ tags:
 # Malchor Tenyajn
 ---
 ### Description
-- Genasi Rouge from Kordinia
+- Genasi Rouge from Aldercrown Empire
 - 1st year Exploration student in Fiesn
-- long wavy grey hair that's plain, Amber eyes, and water skin
+- short curly brunette hair that's plain, Amber eyes, and water skin
 - Is Affable and Regimental, and has Humanity as their ideal
 
 ### Organizations

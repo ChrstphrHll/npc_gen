@@ -1,7 +1,7 @@
 ---
 name: Avaery Klaern
 race: Halfling
-hair: shoulder length curly black hair that's plain
+hair: short straight white hair that's plain
 eyes: Amber
 skin: Fair
 ideal: Cooperation
@@ -13,7 +13,7 @@ bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
 birthday:
   numeric: 7/29
   written: 29th of Korent
-origin: Beleriand
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Jettenia
 partyID: 66
 tags:
 - Halfling
-- Aldercrown Empire
+- Beleriand
 - Barbarian
 - Exploration
 - 1st
@@ -46,9 +46,9 @@ tags:
 # Avaery Klaern
 ---
 ### Description
-- Halfling Barbarian from Beleriand
+- Halfling Barbarian from Aldercrown Empire
 - 1st year Exploration student in Jettenia
-- shoulder length curly black hair that's plain, Amber eyes, and Fair skin
+- short straight white hair that's plain, Amber eyes, and Fair skin
 - Is Silent and Unimaginative, and has Cooperation as their ideal
 
 ### Organizations

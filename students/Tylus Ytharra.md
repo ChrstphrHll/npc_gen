@@ -1,7 +1,7 @@
 ---
 name: Tylus Ytharra
 race: Tiefling
-hair: long straight grey hair that's plain
+hair: long straight black hair that's plain
 eyes: Yellow
 skin: Pale Brown
 ideal: Learning
@@ -14,7 +14,7 @@ bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 6/32
   written: 32nd of Pelent
-origin: Magmus Centerhold
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -42,7 +42,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Tiefling
-- Aldercrown Empire
+- Magmus Centerhold
 - Monk
 - Diplomacy
 - 2nd
@@ -51,9 +51,9 @@ tags:
 # Tylus Ytharra
 ---
 ### Description
-- Tiefling Monk from Magmus Centerhold
+- Tiefling Monk from Principality of the Palus Peoples
 - 2nd year Diplomacy student in Elkenval
-- long straight grey hair that's plain, Yellow eyes, and Pale Brown skin
+- long straight black hair that's plain, Yellow eyes, and Pale Brown skin
 - Is Freewheeling and Conforming, and has Learning as their ideal
 
 ### Organizations

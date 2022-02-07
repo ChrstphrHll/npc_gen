@@ -1,7 +1,7 @@
 ---
 name: Iamus Aneirin
 race: Dwarf
-hair: shoulder length straight strawberry blond hair that's well kept
+hair: long straight brunette hair that's plain
 eyes: Pale Gray
 skin: Light
 ideal: Harmony
@@ -13,7 +13,7 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
-origin: Shadesburry Initiative
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -35,7 +35,7 @@ guild: Treskal
 partyID: 74
 tags:
 - Dwarf
-- Aldercrown Empire
+- Shadesburry Initiative
 - Paladin
 - Diplomacy
 - 1st
@@ -44,9 +44,9 @@ tags:
 # Iamus Aneirin
 ---
 ### Description
-- Dwarf Paladin from Shadesburry Initiative
+- Dwarf Paladin from Aldercrown Empire
 - 1st year Diplomacy student in Treskal
-- shoulder length straight strawberry blond hair that's well kept, Pale Gray eyes, and Light skin
+- long straight brunette hair that's plain, Pale Gray eyes, and Light skin
 - Is Dynamic and Obvious, and has Harmony as their ideal
 
 ### Organizations

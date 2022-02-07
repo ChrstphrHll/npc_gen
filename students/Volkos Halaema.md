@@ -1,7 +1,7 @@
 ---
 name: Volkos Halaema
 race: Tiefling
-hair: short wavy brunette hair that's plain
+hair: shoulder length straight white hair that's wild
 eyes: Aqua
 skin: Aqua
 ideal: Security
@@ -15,7 +15,7 @@ bond: Everything I do is for the common people.
 birthday:
   numeric: 5/26
   written: 26th of Iounent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Alderden
 partyID: 21
 tags:
 - Tiefling
-- Beleriand
+- Aldercrown Empire
 - Ranger
 - Diplomacy
 - 4th
@@ -46,9 +46,9 @@ tags:
 # Volkos Halaema
 ---
 ### Description
-- Tiefling Ranger from Aldercrown Empire
+- Tiefling Ranger from Magmus Centerhold
 - 4th year Diplomacy student in Alderden
-- short wavy brunette hair that's plain, Aqua eyes, and Aqua skin
+- shoulder length straight white hair that's wild, Aqua eyes, and Aqua skin
 - Is Capable and Mealymouthed, and has Security as their ideal
 
 ### Organizations

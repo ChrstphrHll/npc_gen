@@ -1,7 +1,7 @@
 ---
 name: Nebulon Faelyn
 race: Gnome
-hair: long straight strawberry blond hair that's plain
+hair: long wavy red hair that's well kept
 eyes: Green
 skin: Pale
 ideal: People
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Gnome Ranger from Shadesburry Initiative
 - 1st year Assault student in Treskal
-- long straight strawberry blond hair that's plain, Green eyes, and Pale skin
+- long wavy red hair that's well kept, Green eyes, and Pale skin
 - Is Impassive and Contradictory, and has People as their ideal
 
 ### Organizations

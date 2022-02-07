@@ -1,7 +1,7 @@
 ---
 name: Aryana Velethuil
 race: Kenku
-hair: ruffled
+hair: speckled
 eyes: Pale Brown
 skin: Red
 ideal: Fun
@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 32
 tags:
 - Kenku
-- Aldercrown Empire
+- Black Rock
 - Wizard
 - Diplomacy
 - 4th
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Kenku Wizard from Black Rock
 - 4th year Diplomacy student in Elkenval
-- ruffled, Pale Brown eyes, and Red skin
+- speckled, Pale Brown eyes, and Red skin
 - Is Clear-headed and Fawning, and has Fun as their ideal
 
 ### Organizations

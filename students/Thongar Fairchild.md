@@ -1,7 +1,7 @@
 ---
 name: Thongar Fairchild
 race: Human
-hair: long curly white hair that's well kept
+hair: long straight violet hair that's well kept
 eyes: Hazel
 skin: Light
 ideal: Fame
@@ -14,7 +14,7 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 6/11
   written: 11th of Pelent
-origin: Principality of the Palus Peoples
+origin: Verdain
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Burk
 partyID: 5
 tags:
 - Human
-- Qualnis
+- Principality of the Palus Peoples
 - Cleric
 - Diplomacy
 - 3rd
@@ -47,9 +47,9 @@ tags:
 # Thongar Fairchild
 ---
 ### Description
-- Human Cleric from Principality of the Palus Peoples
+- Human Cleric from Verdain
 - 3rd year Diplomacy student in Burk
-- long curly white hair that's well kept, Hazel eyes, and Light skin
+- long straight violet hair that's well kept, Hazel eyes, and Light skin
 - Is Accessible and Fawning, and has Fame as their ideal
 
 ### Organizations

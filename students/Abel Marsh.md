@@ -1,7 +1,7 @@
 ---
 name: Abel Marsh
 race: Warforged
-hair: smooth bronze guilded with copper
+hair: smooth silver guilded with brass
 eyes: Yellow
 skin: silver
 ideal: Wealth
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Warforged Paladin from Qualnis
 - 5th year Exploration student in Fiesn
-- smooth bronze guilded with copper, Yellow eyes, and silver skin
+- smooth silver guilded with brass, Yellow eyes, and silver skin
 - Is Equitable and Hesitant, and has Wealth as their ideal
 
 ### Organizations

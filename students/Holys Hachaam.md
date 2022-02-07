@@ -1,7 +1,7 @@
 ---
 name: Holys Hachaam
 race: Half-Elf
-hair: long wavy blonde hair that's plain
+hair: short straight brunette hair that's put up
 eyes: Pale Blue
 skin: Brown
 ideal: Hard Work
@@ -52,7 +52,7 @@ tags:
 ### Description
 - Half-Elf Rouge from Aldercrown Empire
 - 1st year Assault student in Elkenval
-- long wavy blonde hair that's plain, Pale Blue eyes, and Brown skin
+- short straight brunette hair that's put up, Pale Blue eyes, and Brown skin
 - Is Eloquent and Wishy-washy, and has Hard Work as their ideal
 
 ### Organizations

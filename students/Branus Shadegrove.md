@@ -1,7 +1,7 @@
 ---
 name: Branus Shadegrove
 race: Gnome
-hair: shoulder length straight blonde hair that's plain
+hair: long wavy brunette hair that's put up
 eyes: Gray
 skin: Light Tan
 ideal: Charity
@@ -51,7 +51,7 @@ tags:
 ### Description
 - Gnome Barbarian from Shadesburry Initiative
 - 1st year Diplomacy student in Treskal
-- shoulder length straight blonde hair that's plain, Gray eyes, and Light Tan skin
+- long wavy brunette hair that's put up, Gray eyes, and Light Tan skin
 - Is Sophisticated and Vague, and has Charity as their ideal
 
 ### Organizations

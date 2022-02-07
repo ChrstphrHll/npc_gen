@@ -1,7 +1,7 @@
 ---
 name: Tommos Morgan
 race: Elf
-hair: short wavy brunette hair that's wild
+hair: shoulder length straight lighter blonde hair that's put up
 eyes: Hazel
 skin: Dark Brown
 ideal: Commonality
@@ -13,7 +13,7 @@ bond: Everything I do is for the common people.
 birthday:
   numeric: 6/23
   written: 23rd of Pelent
-origin: Beleriand
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -46,9 +46,9 @@ tags:
 # Tommos Morgan
 ---
 ### Description
-- Elf Sorcerer from Beleriand
+- Elf Sorcerer from Aldercrown Empire
 - 5th year Exploration student in Alderden
-- short wavy brunette hair that's wild, Hazel eyes, and Dark Brown skin
+- shoulder length straight lighter blonde hair that's put up, Hazel eyes, and Dark Brown skin
 - Is Undemanding and Tough, and has Commonality as their ideal
 
 ### Organizations

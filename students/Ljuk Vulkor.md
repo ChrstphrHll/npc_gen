@@ -1,7 +1,7 @@
 ---
 name: Ljuk Vulkor
 race: Dwarf
-hair: long wavy platinum hair that's braided
+hair: shoulder length frizzy white hair that's plain
 eyes: Pale Green
 skin: Tan
 ideal: Teamwork
@@ -13,7 +13,7 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 1/15
   written: 15th of Avanent
-origin: Shadesburry Initiative
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -35,7 +35,7 @@ guild: Elkenval
 partyID: 84
 tags:
 - Dwarf
-- Aldercrown Empire
+- Shadesburry Initiative
 - Sorcerer
 - Assault
 - 2nd
@@ -44,9 +44,9 @@ tags:
 # Ljuk Vulkor
 ---
 ### Description
-- Dwarf Sorcerer from Shadesburry Initiative
+- Dwarf Sorcerer from Principality of the Palus Peoples
 - 2nd year Assault student in Elkenval
-- long wavy platinum hair that's braided, Pale Green eyes, and Tan skin
+- shoulder length frizzy white hair that's plain, Pale Green eyes, and Tan skin
 - Is Mystical and Negligent, and has Teamwork as their ideal
 
 ### Organizations

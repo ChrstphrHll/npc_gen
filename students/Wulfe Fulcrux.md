@@ -1,7 +1,7 @@
 ---
 name: Wulfe Fulcrux
 race: Firbolg
-hair: shoulder length wavy grey hair that's braided
+hair: shoulder length wavy strawberry blond hair that's plain
 eyes: Hazel
 skin: Pale Brown
 ideal: Personal Development
@@ -46,7 +46,7 @@ tags:
 ### Description
 - Firbolg Wizard from Verdain
 - 8th year Assault student in Elkenval
-- shoulder length wavy grey hair that's braided, Hazel eyes, and Pale Brown skin
+- shoulder length wavy strawberry blond hair that's plain, Hazel eyes, and Pale Brown skin
 - Is Courteous and Deceptive, and has Personal Development as their ideal
 
 ### Organizations

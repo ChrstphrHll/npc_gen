@@ -1,7 +1,7 @@
 ---
 name: Nicolle Shandalar
 race: Triton
-hair: long straight white hair that's messy
+hair: long wavy dirty blonde hair that's plain
 eyes: Green
 skin: Sea Green
 ideal: Contributing
@@ -52,7 +52,7 @@ tags:
 ### Description
 - Triton Cleric from Whyndiem
 - 1st year Assault student in Elkenval
-- long straight white hair that's messy, Green eyes, and Sea Green skin
+- long wavy dirty blonde hair that's plain, Green eyes, and Sea Green skin
 - Is Upright and Opinionated, and has Contributing as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Handyr Letryal
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Pale Brown
 skin: red
 ideal: Order
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Dragonborn Artificer from Draconia
 - 1st year Diplomacy student in Fiesn
-- short spines, Pale Brown eyes, and red skin
+- frills, Pale Brown eyes, and red skin
 - Is Well-rounded and Smooth, and has Order as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Angel Nushala
 race: Dragonborn
-hair: many curled horns
+hair: short spines
 eyes: Pale Blue
 skin: brass
 ideal: Caring
@@ -16,7 +16,7 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 4/10
   written: 10th of Moradent
-origin: Floating Island
+origin: Draconia
 voice: null
 relvance: 0
 relationships:
@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 17
 tags:
 - Dragonborn
-- Draconia
+- Floating Island
 - Artificer
 - Diplomacy
 - 1st
@@ -51,9 +51,9 @@ tags:
 # Angel Nushala
 ---
 ### Description
-- Dragonborn Artificer from Floating Island
+- Dragonborn Artificer from Draconia
 - 1st year Diplomacy student in Treskal
-- many curled horns, Pale Blue eyes, and brass skin
+- short spines, Pale Blue eyes, and brass skin
 - Is Self-conscious and Anxious, and has Caring as their ideal
 
 ### Organizations

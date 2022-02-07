@@ -1,7 +1,7 @@
 ---
 name: Aidyn Glynnii
 race: Half-Orc
-hair: long straight platinum hair that's put up
+hair: short curly blue hair that's plain
 eyes: Pale Blue
 skin: Deep Green
 ideal: Dishonesty
@@ -14,7 +14,7 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 1/33
   written: 33rd of Avanent
-origin: Verdain
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Elkenval
 partyID: 2
 tags:
 - Half-Orc
-- Beleriand
+- Verdain
 - Monk
 - Exploration
 - 1st
@@ -47,9 +47,9 @@ tags:
 # Aidyn Glynnii
 ---
 ### Description
-- Half-Orc Monk from Verdain
+- Half-Orc Monk from Aldercrown Empire
 - 1st year Exploration student in Elkenval
-- long straight platinum hair that's put up, Pale Blue eyes, and Deep Green skin
+- short curly blue hair that's plain, Pale Blue eyes, and Deep Green skin
 - Is Meticulous and Bizarre, and has Dishonesty as their ideal
 
 ### Organizations

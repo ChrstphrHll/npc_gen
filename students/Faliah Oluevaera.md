@@ -1,7 +1,7 @@
 ---
 name: Faliah Oluevaera
 race: Gnome
-hair: long straight grey hair that's put up
+hair: long wavy platinum hair that's braided
 eyes: Pale Brown
 skin: Tan
 ideal: Ambition
@@ -14,7 +14,7 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 3/5
   written: 5th of Melorent
-origin: Aldercrown Empire
+origin: Shadesburry Initiative
 voice: null
 relvance: 0
 relationships:
@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 92
 tags:
 - Gnome
-- Shadesburry Initiative
+- Aldercrown Empire
 - Cleric
 - Protection
 - 8th
@@ -45,9 +45,9 @@ tags:
 # Faliah Oluevaera
 ---
 ### Description
-- Gnome Cleric from Aldercrown Empire
+- Gnome Cleric from Shadesburry Initiative
 - 8th year Protection student in Elkenval
-- long straight grey hair that's put up, Pale Brown eyes, and Tan skin
+- long wavy platinum hair that's braided, Pale Brown eyes, and Tan skin
 - Is Anticipative and Competitive, and has Ambition as their ideal
 
 ### Organizations

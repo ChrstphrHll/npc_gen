@@ -1,7 +1,7 @@
 ---
 name: Ungris Riluaneth
 race: Dragonborn
-hair: frills
+hair: 2 curled horns
 eyes: Deep Blue
 skin: red
 ideal: Beauty
@@ -14,7 +14,7 @@ bond: Somewhere out there, I have a child who doesn't know me. I'm making the wo
 birthday:
   numeric: 8/19
   written: 19th of Ravenent
-origin: Aldercrown Empire
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Treskal
 partyID: 63
 tags:
 - Dragonborn
-- Draconia
+- Aldercrown Empire
 - Cleric
 - Diplomacy
 - 5th
@@ -47,9 +47,9 @@ tags:
 # Ungris Riluaneth
 ---
 ### Description
-- Dragonborn Cleric from Aldercrown Empire
+- Dragonborn Cleric from Magmus Centerhold
 - 5th year Diplomacy student in Treskal
-- frills, Deep Blue eyes, and red skin
+- 2 curled horns, Deep Blue eyes, and red skin
 - Is Sincere and Cruel, and has Beauty as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Gianesia Onvyr
 race: Dwarf
-hair: short wavy dark red hair that's plain
+hair: short straight white hair that's plain
 eyes: Blue
 skin: Light
 ideal: Competition
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Dwarf Monk from Beleriand
 - 6th year Protection student in Burk
-- short wavy dark red hair that's plain, Blue eyes, and Light skin
+- short straight white hair that's plain, Blue eyes, and Light skin
 - Is Humorous and Opportunistic, and has Competition as their ideal
 
 ### Organizations

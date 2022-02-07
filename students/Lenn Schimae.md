@@ -1,7 +1,7 @@
 ---
 name: Lenn Schimae
 race: Human
-hair: short curly brunette hair that's wild
+hair: short wavy auburn hair that's plain
 eyes: Hazel
 skin: Dark Tan
 ideal: Creativity
@@ -13,7 +13,7 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 7/1
   written: 1st of Korent
-origin: Principality of the Palus Peoples
+origin: Qualnis
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Treskal
 partyID: 46
 tags:
 - Human
-- Magmus Centerhold
+- Principality of the Palus Peoples
 - Barbarian
 - Assault
 - 6th
@@ -48,9 +48,9 @@ tags:
 # Lenn Schimae
 ---
 ### Description
-- Human Barbarian from Principality of the Palus Peoples
+- Human Barbarian from Qualnis
 - 6th year Assault student in Treskal
-- short curly brunette hair that's wild, Hazel eyes, and Dark Tan skin
+- short wavy auburn hair that's plain, Hazel eyes, and Dark Tan skin
 - Is Inventive and Ignorant, and has Creativity as their ideal
 
 ### Organizations

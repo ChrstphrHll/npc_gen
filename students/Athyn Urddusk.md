@@ -1,7 +1,7 @@
 ---
 name: Athyn Urddusk
 race: Human
-hair: short wavy red hair that's plain
+hair: long frizzy grey hair that's plain
 eyes: Brown
 skin: Light
 ideal: Wisdom
@@ -13,7 +13,7 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 8/20
   written: 20th of Ravenent
-origin: Magmus Centerhold
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 40
 tags:
 - Human
-- Aldercrown Empire
+- Magmus Centerhold
 - Artificer
 - Assault
 - 1st
@@ -46,9 +46,9 @@ tags:
 # Athyn Urddusk
 ---
 ### Description
-- Human Artificer from Magmus Centerhold
+- Human Artificer from Beleriand
 - 1st year Assault student in Elkenval
-- short wavy red hair that's plain, Brown eyes, and Light skin
+- long frizzy grey hair that's plain, Brown eyes, and Light skin
 - Is Purposeful and Ill-bred, and has Wisdom as their ideal
 
 ### Organizations

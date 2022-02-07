@@ -1,7 +1,7 @@
 ---
 name: Gianna Rhistel
 race: Tiefling
-hair: long straight black hair that's messy
+hair: long straight blonde hair that's well kept
 eyes: Gray
 skin: Purple
 ideal: Speed
@@ -15,7 +15,7 @@ bond: Somewhere out there, I have a child who doesn't know me. I'm making the wo
 birthday:
   numeric: 4/10
   written: 10th of Moradent
-origin: Aldercrown Empire
+origin: Verdain
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Alderden
 partyID: 73
 tags:
 - Tiefling
-- Beleriand
+- Aldercrown Empire
 - Druid
 - Protection
 - 2nd
@@ -48,9 +48,9 @@ tags:
 # Gianna Rhistel
 ---
 ### Description
-- Tiefling Druid from Aldercrown Empire
+- Tiefling Druid from Verdain
 - 2nd year Protection student in Alderden
-- long straight black hair that's messy, Gray eyes, and Purple skin
+- long straight blonde hair that's well kept, Gray eyes, and Purple skin
 - Is Dynamic and Shy, and has Speed as their ideal
 
 ### Organizations

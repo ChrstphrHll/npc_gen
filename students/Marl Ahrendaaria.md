@@ -1,7 +1,7 @@
 ---
 name: Marl Ahrendaaria
 race: Gnome
-hair: shoulder length wavy blonde hair that's plain
+hair: long straight lighter blonde hair that's plain
 eyes: Pale Gray
 skin: Dark Brown
 ideal: People
@@ -47,7 +47,7 @@ tags:
 ### Description
 - Gnome Fighter from Shadesburry Initiative
 - 2nd year Exploration student in Jettenia
-- shoulder length wavy blonde hair that's plain, Pale Gray eyes, and Dark Brown skin
+- long straight lighter blonde hair that's plain, Pale Gray eyes, and Dark Brown skin
 - Is Unpredictable and Progressive, and has People as their ideal
 
 ### Organizations

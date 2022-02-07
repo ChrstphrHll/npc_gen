@@ -1,7 +1,7 @@
 ---
 name: Ryan Ebersol
 race: Dragonborn
-hair: long spines
+hair: 5 jagged horns
 eyes: Emerald Green
 skin: green
 ideal: Intuition
@@ -13,7 +13,7 @@ bond: My isolation gave me great insight into a great evil that only I can destr
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Shadesburry Initiative
+origin: Draconia
 voice: null
 relvance: 0
 relationships:
@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 89
 tags:
 - Dragonborn
-- Magmus Centerhold
+- Shadesburry Initiative
 - Sorcerer
 - Assault
 - 7th
@@ -48,9 +48,9 @@ tags:
 # Ryan Ebersol
 ---
 ### Description
-- Dragonborn Sorcerer from Shadesburry Initiative
+- Dragonborn Sorcerer from Draconia
 - 7th year Assault student in Fiesn
-- long spines, Emerald Green eyes, and green skin
+- 5 jagged horns, Emerald Green eyes, and green skin
 - Is Plain and Immature, and has Intuition as their ideal
 
 ### Organizations

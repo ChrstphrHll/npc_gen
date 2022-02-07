@@ -1,7 +1,7 @@
 ---
 name: Cam Lazziar
 race: Firbolg
-hair: long curly brunette hair that's wild
+hair: long curly dirty blonde hair that's plain
 eyes: Hazel
 skin: Pale Blue
 ideal: Spontaneity
@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 6
 tags:
 - Firbolg
-- Principality of the Palus Peoples
+- Verdain
 - Bard
 - Protection
 - 7th
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Firbolg Bard from Verdain
 - 7th year Protection student in Alderden
-- long curly brunette hair that's wild, Hazel eyes, and Pale Blue skin
+- long curly dirty blonde hair that's plain, Hazel eyes, and Pale Blue skin
 - Is Obliging and Venal, and has Spontaneity as their ideal
 
 ### Organizations

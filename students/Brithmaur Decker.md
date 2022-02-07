@@ -1,7 +1,7 @@
 ---
 name: Brithmaur Decker
 race: Half-Orc
-hair: long straight dirty blonde hair that's messy
+hair: short wavy brunette hair that's well kept
 eyes: Pale Brown
 skin: Green Blue
 ideal: Independence
@@ -14,7 +14,7 @@ bond: I'll never forget the crushing defeat my company suffered or the enemies w
 birthday:
   numeric: 7/33
   written: 33rd of Korent
-origin: Principality of the Palus Peoples
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 25
 tags:
 - Half-Orc
-- Chillwild Peaks
+- Principality of the Palus Peoples
 - Druid
 - Diplomacy
 - 7th
@@ -47,9 +47,9 @@ tags:
 # Brithmaur Decker
 ---
 ### Description
-- Half-Orc Druid from Principality of the Palus Peoples
+- Half-Orc Druid from Magmus Centerhold
 - 7th year Diplomacy student in Fiesn
-- long straight dirty blonde hair that's messy, Pale Brown eyes, and Green Blue skin
+- short wavy brunette hair that's well kept, Pale Brown eyes, and Green Blue skin
 - Is Strong-willed and Boorish, and has Independence as their ideal
 
 ### Organizations

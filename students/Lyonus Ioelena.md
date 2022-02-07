@@ -14,7 +14,7 @@ bond: It is my duty to provide children to sustain my tribe.
 birthday:
   numeric: 2/18
   written: 18th of Corelent
-origin: Aldercrown Empire
+origin: Draconia
 voice: null
 relvance: 0
 relationships:
@@ -38,7 +38,7 @@ guild: Burk
 partyID: 86
 tags:
 - Dragonborn
-- Magmus Centerhold
+- Aldercrown Empire
 - Fighter
 - Assault
 - 2nd
@@ -47,7 +47,7 @@ tags:
 # Lyonus Ioelena
 ---
 ### Description
-- Dragonborn Fighter from Aldercrown Empire
+- Dragonborn Fighter from Draconia
 - 2nd year Assault student in Burk
 - frills, Yellow eyes, and silver skin
 - Is Courteous and Repressed, and has Wealth as their ideal

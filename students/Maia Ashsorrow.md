@@ -1,7 +1,7 @@
 ---
 name: Maia Ashsorrow
 race: Halfling
-hair: long wavy red hair that's plain
+hair: long curly grey hair that's plain
 eyes: Blue
 skin: Fair
 ideal: Religion
@@ -13,7 +13,7 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 2/1
   written: 1st of Corelent
-origin: Magmus Centerhold
+origin: Aldercrown Empire
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Treskal
 partyID: 78
 tags:
 - Halfling
-- Beleriand
+- Magmus Centerhold
 - Rouge
 - Assault
 - 1st
@@ -46,9 +46,9 @@ tags:
 # Maia Ashsorrow
 ---
 ### Description
-- Halfling Rouge from Magmus Centerhold
+- Halfling Rouge from Aldercrown Empire
 - 1st year Assault student in Treskal
-- long wavy red hair that's plain, Blue eyes, and Fair skin
+- long curly grey hair that's plain, Blue eyes, and Fair skin
 - Is Idiosyncratic and Overimaginative, and has Religion as their ideal
 
 ### Organizations

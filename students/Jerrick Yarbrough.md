@@ -1,7 +1,7 @@
 ---
 name: Jerrick Yarbrough
 race: Gnome
-hair: short curly auburn hair that's messy
+hair: shoulder length wavy blonde hair that's plain
 eyes: Brown
 skin: Tan
 ideal: Logic
@@ -52,7 +52,7 @@ tags:
 ### Description
 - Gnome Bard from Shadesburry Initiative
 - 6th year Assault student in Jettenia
-- short curly auburn hair that's messy, Brown eyes, and Tan skin
+- shoulder length wavy blonde hair that's plain, Brown eyes, and Tan skin
 - Is Admirable and Cantankerous, and has Logic as their ideal
 
 ### Organizations

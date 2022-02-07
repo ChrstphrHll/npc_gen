@@ -1,7 +1,7 @@
 ---
 name: Hazel Winters
 race: Firbolg
-hair: shoulder length wavy red hair that's plain
+hair: short frizzy white hair that's messy
 eyes: Hazel
 skin: Pale Green
 ideal: Entrepreneurial
@@ -14,7 +14,7 @@ bond: I seek to preserve a sacred text that my enemies consider heretical and se
 birthday:
   numeric: 6/18
   written: 18th of Pelent
-origin: Aldercrown Empire
+origin: Verdain
 voice: null
 relvance: 0
 relationships:
@@ -47,9 +47,9 @@ tags:
 # Hazel Winters
 ---
 ### Description
-- Firbolg Monk from Aldercrown Empire
+- Firbolg Monk from Verdain
 - 4th year Protection student in Burk
-- shoulder length wavy red hair that's plain, Hazel eyes, and Pale Green skin
+- short frizzy white hair that's messy, Hazel eyes, and Pale Green skin
 - Is Political and Stupid, and has Entrepreneurial as their ideal
 
 ### Organizations

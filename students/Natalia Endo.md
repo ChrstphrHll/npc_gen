@@ -1,7 +1,7 @@
 ---
 name: Natalia Endo
 race: Halfling
-hair: long straight dirty blonde hair that's plain
+hair: short wavy grey hair that's wild
 eyes: Pale Brown
 skin: Fair
 ideal: Renewal
@@ -14,7 +14,7 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 6/5
   written: 5th of Pelent
-origin: Verdain
+origin: Kordinia
 voice: null
 relvance: 0
 relationships:
@@ -36,7 +36,7 @@ guild: Burk
 partyID: 83
 tags:
 - Halfling
-- Beleriand
+- Verdain
 - Barbarian
 - Exploration
 - 3rd
@@ -45,9 +45,9 @@ tags:
 # Natalia Endo
 ---
 ### Description
-- Halfling Barbarian from Verdain
+- Halfling Barbarian from Kordinia
 - 3rd year Exploration student in Burk
-- long straight dirty blonde hair that's plain, Pale Brown eyes, and Fair skin
+- short wavy grey hair that's wild, Pale Brown eyes, and Fair skin
 - Is Inoffensive and Agonizing, and has Renewal as their ideal
 
 ### Organizations

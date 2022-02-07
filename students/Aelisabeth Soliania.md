@@ -1,7 +1,7 @@
 ---
 name: Aelisabeth Soliania
 race: Halfling
-hair: short curly white hair that's plain
+hair: long straight white hair that's plain
 eyes: Hazel
 skin: Light Tan
 ideal: Pessimism
@@ -42,7 +42,7 @@ guild: Burk
 partyID: 9
 tags:
 - Halfling
-- Verdain
+- Kordinia
 - Barbarian
 - Assault
 - 3rd
@@ -53,7 +53,7 @@ tags:
 ### Description
 - Halfling Barbarian from Kordinia
 - 3rd year Assault student in Burk
-- short curly white hair that's plain, Hazel eyes, and Light Tan skin
+- long straight white hair that's plain, Hazel eyes, and Light Tan skin
 - Is Vivacious and Artificial, and has Pessimism as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Pike Tethir
 race: Human
-hair: long straight platinum hair that's well kept
+hair: short curly auburn hair that's messy
 eyes: Pale Gray
 skin: Brown
 ideal: Cooperation
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Human Barbarian from Beleriand
 - 1st year Diplomacy student in Elkenval
-- long straight platinum hair that's well kept, Pale Gray eyes, and Brown skin
+- short curly auburn hair that's messy, Pale Gray eyes, and Brown skin
 - Is Seraphic and Boisterous, and has Cooperation as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Remus Manchul
 race: Half-Elf
-hair: short straight brunette hair that's plain
+hair: long wavy red hair that's plain
 eyes: Brown
 skin: Dark Brown
 ideal: Perseverance
@@ -41,7 +41,7 @@ guild: Burk
 partyID: 59
 tags:
 - Half-Elf
-- Principality of the Palus Peoples
+- Beleriand
 - Rouge
 - Protection
 - 4th
@@ -52,7 +52,7 @@ tags:
 ### Description
 - Half-Elf Rouge from Beleriand
 - 4th year Protection student in Burk
-- short straight brunette hair that's plain, Brown eyes, and Dark Brown skin
+- long wavy red hair that's plain, Brown eyes, and Dark Brown skin
 - Is Reserved and Strict, and has Perseverance as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Gifre Edyrm
 race: Half-Elf
-hair: shoulder length curly white hair that's put up
+hair: short curly black hair that's plain
 eyes: Amber
 skin: Dark Brown
 ideal: Humane
@@ -13,7 +13,7 @@ bond: I idolize a hero of the old tales and measure my deeds against that person
 birthday:
   numeric: 2/22
   written: 22nd of Corelent
-origin: Beleriand
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -48,9 +48,9 @@ tags:
 # Gifre Edyrm
 ---
 ### Description
-- Half-Elf Paladin from Beleriand
+- Half-Elf Paladin from Magmus Centerhold
 - 6th year Exploration student in Treskal
-- shoulder length curly white hair that's put up, Amber eyes, and Dark Brown skin
+- short curly black hair that's plain, Amber eyes, and Dark Brown skin
 - Is Moralistic and Angry, and has Humane as their ideal
 
 ### Organizations

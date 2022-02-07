@@ -1,7 +1,7 @@
 ---
 name: Murunay Illfate
 race: Elf
-hair: long straight auburn hair that's well kept
+hair: shoulder length straight auburn hair that's wild
 eyes: Brown
 skin: Brown
 ideal: Affection
@@ -38,7 +38,7 @@ guild: Burk
 partyID: 75
 tags:
 - Elf
-- Beleriand
+- Aldercrown Empire
 - Ranger
 - Exploration
 - 4th
@@ -49,7 +49,7 @@ tags:
 ### Description
 - Elf Ranger from Aldercrown Empire
 - 4th year Exploration student in Burk
-- long straight auburn hair that's well kept, Brown eyes, and Brown skin
+- shoulder length straight auburn hair that's wild, Brown eyes, and Brown skin
 - Is Restrained and Immature, and has Affection as their ideal
 
 ### Organizations

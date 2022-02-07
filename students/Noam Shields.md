@@ -1,7 +1,7 @@
 ---
 name: Noam Shields
 race: Half-Orc
-hair: shoulder length frizzy platinum hair that's put up
+hair: short wavy auburn hair that's plain
 eyes: Blue
 skin: Pale Green
 ideal: Fitness
@@ -15,7 +15,7 @@ bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 7/13
   written: 13th of Korent
-origin: Magmus Centerhold
+origin: Chillwild Peaks
 voice: null
 relvance: 0
 relationships:
@@ -50,9 +50,9 @@ tags:
 # Noam Shields
 ---
 ### Description
-- Half-Orc Barbarian from Magmus Centerhold
+- Half-Orc Barbarian from Chillwild Peaks
 - 4th year Assault student in Burk
-- shoulder length frizzy platinum hair that's put up, Blue eyes, and Pale Green skin
+- short wavy auburn hair that's plain, Blue eyes, and Pale Green skin
 - Is Quality and Colorless, and has Fitness as their ideal
 
 ### Organizations

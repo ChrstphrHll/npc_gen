@@ -1,7 +1,7 @@
 ---
 name: Themistoklea Nevarth
 race: Human
-hair: long curly brunette hair that's put up
+hair: shoulder length straight dirty blonde hair that's plain
 eyes: Pale Brown
 skin: Dark Brown
 ideal: Patience
@@ -14,7 +14,7 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 5/27
   written: 27th of Iounent
-origin: Whyndiem
+origin: Principality of the Palus Peoples
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Human
-- Beleriand
+- Whyndiem
 - Monk
 - Diplomacy
 - 2nd
@@ -49,9 +49,9 @@ tags:
 # Themistoklea Nevarth
 ---
 ### Description
-- Human Monk from Whyndiem
+- Human Monk from Principality of the Palus Peoples
 - 2nd year Diplomacy student in Treskal
-- long curly brunette hair that's put up, Pale Brown eyes, and Dark Brown skin
+- shoulder length straight dirty blonde hair that's plain, Pale Brown eyes, and Dark Brown skin
 - Is Invulnerable and Neglectful, and has Patience as their ideal
 
 ### Organizations

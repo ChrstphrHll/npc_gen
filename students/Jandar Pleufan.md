@@ -1,7 +1,7 @@
 ---
 name: Jandar Pleufan
 race: Gnome
-hair: shoulder length wavy auburn hair that's messy
+hair: shoulder length wavy platinum hair that's plain
 eyes: Green
 skin: Brown
 ideal: Family
@@ -14,7 +14,7 @@ bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 8/3
   written: 3rd of Ravenent
-origin: Shadesburry Initiative
+origin: Beleriand
 voice: null
 relvance: 0
 relationships:
@@ -51,9 +51,9 @@ tags:
 # Jandar Pleufan
 ---
 ### Description
-- Gnome Ranger from Shadesburry Initiative
+- Gnome Ranger from Beleriand
 - 1st year Protection student in Elkenval
-- shoulder length wavy auburn hair that's messy, Green eyes, and Brown skin
+- shoulder length wavy platinum hair that's plain, Green eyes, and Brown skin
 - Is Forgiving and Domineering, and has Family as their ideal
 
 ### Organizations

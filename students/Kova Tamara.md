@@ -1,7 +1,7 @@
 ---
 name: Kova Tamara
 race: Firbolg
-hair: shoulder length straight red hair that's well kept
+hair: shoulder length curly auburn hair that's braided
 eyes: Green
 skin: Pale Brown
 ideal: Competition
@@ -14,7 +14,7 @@ bond: Should my discovery come to light, it could bring ruin to the world.
 birthday:
   numeric: 4/3
   written: 3rd of Moradent
-origin: Aldercrown Empire
+origin: Verdain
 voice: null
 relvance: 0
 relationships:
@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Firbolg
-- Verdain
+- Aldercrown Empire
 - Fighter
 - Assault
 - 1st
@@ -51,9 +51,9 @@ tags:
 # Kova Tamara
 ---
 ### Description
-- Firbolg Fighter from Aldercrown Empire
+- Firbolg Fighter from Verdain
 - 1st year Assault student in Treskal
-- shoulder length straight red hair that's well kept, Green eyes, and Pale Brown skin
+- shoulder length curly auburn hair that's braided, Green eyes, and Pale Brown skin
 - Is Dynamic and Modern, and has Competition as their ideal
 
 ### Organizations

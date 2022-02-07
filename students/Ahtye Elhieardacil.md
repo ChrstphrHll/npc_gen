@@ -1,7 +1,7 @@
 ---
 name: Ahtye Elhieardacil
 race: Elf
-hair: long curly black hair that's plain
+hair: short curly dirty blonde hair that's put up
 eyes: Amber
 skin: Light Tan
 ideal: Balance
@@ -13,7 +13,7 @@ bond: Something important was taken from me, and I aim to steal it back.
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-origin: Beleriand
+origin: Magmus Centerhold
 voice: null
 relvance: 0
 relationships:
@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 81
 tags:
 - Elf
-- Aldercrown Empire
+- Beleriand
 - Druid
 - Diplomacy
 - 1st
@@ -46,9 +46,9 @@ tags:
 # Ahtye Elhieardacil
 ---
 ### Description
-- Elf Druid from Beleriand
+- Elf Druid from Magmus Centerhold
 - 1st year Diplomacy student in Fiesn
-- long curly black hair that's plain, Amber eyes, and Light Tan skin
+- short curly dirty blonde hair that's put up, Amber eyes, and Light Tan skin
 - Is Sentimental and Immature, and has Balance as their ideal
 
 ### Organizations

@@ -1,7 +1,7 @@
 ---
 name: Puorlaas Anklos
 race: Tiefling
-hair: short straight black hair that's braided
+hair: long curly brunette hair that's plain
 eyes: Red
 skin: Sea Green
 ideal: Freedom
@@ -36,7 +36,7 @@ guild: Jettenia
 partyID: 12
 tags:
 - Tiefling
-- Aldercrown Empire
+- Beleriand
 - Wizard
 - Protection
 - 2nd
@@ -47,7 +47,7 @@ tags:
 ### Description
 - Tiefling Wizard from Beleriand
 - 2nd year Protection student in Jettenia
-- short straight black hair that's braided, Red eyes, and Sea Green skin
+- long curly brunette hair that's plain, Red eyes, and Sea Green skin
 - Is Popular and Reactive, and has Freedom as their ideal
 
 ### Organizations

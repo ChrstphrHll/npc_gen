@@ -1,7 +1,7 @@
 ---
 name: Lea Nuvian
 race: Triton
-hair: shoulder length curly grey hair that's plain
+hair: short wavy dark red hair that's wild
 eyes: Blue
 skin: Pale Blue
 ideal: Cruelty
@@ -14,7 +14,7 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 8/19
   written: 19th of Ravenent
-origin: Magmus Centerhold
+origin: Whyndiem
 voice: null
 relvance: 0
 relationships:
@@ -40,7 +40,7 @@ guild: Alderden
 partyID: 56
 tags:
 - Triton
-- Whyndiem
+- Magmus Centerhold
 - Rouge
 - Protection
 - 1st
@@ -49,9 +49,9 @@ tags:
 # Lea Nuvian
 ---
 ### Description
-- Triton Rouge from Magmus Centerhold
+- Triton Rouge from Whyndiem
 - 1st year Protection student in Alderden
-- shoulder length curly grey hair that's plain, Blue eyes, and Pale Blue skin
+- short wavy dark red hair that's wild, Blue eyes, and Pale Blue skin
 - Is Ascetic and Disputatious, and has Cruelty as their ideal
 
 ### Organizations

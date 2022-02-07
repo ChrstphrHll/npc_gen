@@ -1,7 +1,7 @@
 ---
 name: Jacob Jorildyn
 race: Dragonborn
-hair: short spines
+hair: frills
 eyes: Brown
 skin: brass
 ideal: Appreciation
@@ -50,7 +50,7 @@ tags:
 ### Description
 - Dragonborn Cleric from Draconia
 - 3rd year Diplomacy student in Treskal
-- short spines, Brown eyes, and brass skin
+- frills, Brown eyes, and brass skin
 - Is Clear-headed and Impassive, and has Appreciation as their ideal
 
 ### Organizations

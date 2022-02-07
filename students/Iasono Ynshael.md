@@ -1,7 +1,7 @@
 ---
 name: Iasono Ynshael
 race: Gnome
-hair: shoulder length straight lighter blonde hair that's plain
+hair: short wavy blonde hair that's wild
 eyes: Amber
 skin: Brown
 ideal: Live and Let Live
@@ -53,7 +53,7 @@ tags:
 ### Description
 - Gnome Druid from Shadesburry Initiative
 - 1st year Protection student in Jettenia
-- shoulder length straight lighter blonde hair that's plain, Amber eyes, and Brown skin
+- short wavy blonde hair that's wild, Amber eyes, and Brown skin
 - Is Self-sufficent and Unrealistic, and has Live and Let Live as their ideal
 
 ### Organizations

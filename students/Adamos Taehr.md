@@ -1,7 +1,7 @@
 ---
 name: Adamos Taehr
 race: Elf
-hair: shoulder length wavy white hair that's plain
+hair: shoulder length wavy grey hair that's wild
 eyes: Blue
 skin: Tan
 ideal: People
@@ -48,7 +48,7 @@ tags:
 ### Description
 - Elf Fighter from Beleriand
 - 5th year Diplomacy student in Fiesn
-- shoulder length wavy white hair that's plain, Blue eyes, and Tan skin
+- shoulder length wavy grey hair that's wild, Blue eyes, and Tan skin
 - Is Attentive and Sensual, and has People as their ideal
 
 ### Organizations
