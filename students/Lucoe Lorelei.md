@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Dwarf
-- Aldercrown Empire
+- Magmus_Centerhold
 - Barbarian
 - Exploration
 - 2nd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Willam Ardryll]]: partymate
-[[Graisen Thalanil]]: partymate
-[[Themistoklea Nevarth]]: partymate
+- [[Willam Ardryll]]: partymate
+- [[Graisen Thalanil]]: partymate
+- [[Themistoklea Nevarth]]: partymate
 
 ### Notes
 

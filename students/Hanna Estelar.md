@@ -40,7 +40,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Human
-- Aldercrown Empire
+- Aldercrown_Empire
 - Bard
 - Diplomacy
 - 3rd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Gina Grandius]]: partymate
-[[Leya Escobar]]: partymate
-[[Ramona Saida]]: partymate
+- [[Gina Grandius]]: partymate
+- [[Leya Escobar]]: partymate
+- [[Ramona Saida]]: partymate
 
 ### Notes
 

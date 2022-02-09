@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Gnome
-- Shadesburry Initiative
+- Beleriand
 - Rouge
 - Protection
 - 6th
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Vyctor Willow]]: partymate
-[[Varlae Voron]]: partymate
-[[Dree Nuala]]: partymate
-[[Theriss Deularla]]: partymate
+- [[Vyctor Willow]]: partymate
+- [[Varlae Voron]]: partymate
+- [[Dree Nuala]]: partymate
+- [[Theriss Deularla]]: partymate
 
 ### Notes
 

@@ -10,12 +10,20 @@ def degree_of_success(degree, func):
         return func(x)
     return biased_func
 
-def assert_specs(specs: list, student):
+def assert_specs(specs: list, student: Student):
     """Given a spec and a Student object, will return True if the 
     student is a member of any given spec"""
     if student.spec in specs:
         return True
     return False
+
+def assert_specs_maker(specs: list):
+    """Returns a function that checks for the given specs"""
+    return lambda x: assert_specs(specs, x)
+
+def acapella_validator(student: Student):
+    probably_bard = degree_of_success(.8, assert_specs_maker(["Bard"]))
+    return probably_bard(student)
 
 def main():
     probably_bard = degree_of_success(.5, lambda x: assert_specs(["Bard"], x))

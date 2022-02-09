@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 60
 tags:
 - Halfling
-- Beleriand
+- Verdain
 - Rouge
 - Exploration
 - 2nd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Selina Bellas]]: partymate
-[[Brianna Kosunten]]: partymate
-[[Felgie Eldar]]: partymate
+- [[Selina Bellas]]: partymate
+- [[Brianna Kosunten]]: partymate
+- [[Felgie Eldar]]: partymate
 
 ### Notes
 

@@ -39,7 +39,7 @@ guild: Alderden
 partyID: 73
 tags:
 - Tiefling
-- Aldercrown Empire
+- Verdain
 - Druid
 - Protection
 - 2nd
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jamye Napraeleon]]: partymate
-[[Cirvlon Elpaerae]]: partymate
+- [[Jamye Napraeleon]]: partymate
+- [[Cirvlon Elpaerae]]: partymate
 
 ### Notes
 

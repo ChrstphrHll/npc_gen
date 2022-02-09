@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 17
 tags:
 - Tiefling
-- Magmus Centerhold
+- Aldercrown_Empire
 - Ranger
 - Diplomacy
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Leah Faelar]]: partymate
-[[Branus Shadegrove]]: partymate
-[[Angel Nushala]]: partymate
+- [[Leah Faelar]]: partymate
+- [[Branus Shadegrove]]: partymate
+- [[Angel Nushala]]: partymate
 
 ### Notes
 

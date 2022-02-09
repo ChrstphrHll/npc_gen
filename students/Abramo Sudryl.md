@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Aryana Velethuil]]: partymate
+- [[Aryana Velethuil]]: partymate
 
 ### Notes
 

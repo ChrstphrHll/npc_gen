@@ -38,7 +38,7 @@ guild: Elkenval
 partyID: 77
 tags:
 - Human
-- Beleriand
+- Magmus_Centerhold
 - Artificer
 - Assault
 - 1st
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Nycola Eroan]]: partymate
-[[Aniari Arlayna]]: partymate
+- [[Nycola Eroan]]: partymate
+- [[Aniari Arlayna]]: partymate
 
 ### Notes
 

@@ -36,7 +36,7 @@ guild: Treskal
 partyID: 62
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Chillwild_Peaks
 - Sorcerer
 - Protection
 - 4th
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Olbern Uldreiyn]]: partymate
+- [[Olbern Uldreiyn]]: partymate
 
 ### Notes
 

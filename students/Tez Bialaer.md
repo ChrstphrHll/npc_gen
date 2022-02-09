@@ -41,7 +41,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Aasimar
-- Whyndiem
+- Magmus_Centerhold
 - Fighter
 - Protection
 - 8th
@@ -58,10 +58,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Romen Uldreiyn]]: partymate
-[[Brahm Delmuth]]: partymate
-[[Rianna Belt]]: partymate
-[[Zylphan Molostroi]]: partymate
+- [[Romen Uldreiyn]]: partymate
+- [[Brahm Delmuth]]: partymate
+- [[Rianna Belt]]: partymate
+- [[Zylphan Molostroi]]: partymate
 
 ### Notes
 

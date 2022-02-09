@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Half-Orc
-- Beleriand
+- Magmus_Centerhold
 - Wizard
 - Exploration
 - 6th
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Vyctor Willow]]: partymate
-[[Karl Cauladra]]: partymate
-[[Dree Nuala]]: partymate
-[[Theriss Deularla]]: partymate
+- [[Vyctor Willow]]: partymate
+- [[Karl Cauladra]]: partymate
+- [[Dree Nuala]]: partymate
+- [[Theriss Deularla]]: partymate
 
 ### Notes
 

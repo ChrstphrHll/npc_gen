@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 42
 tags:
 - Warforged
-- Shadesburry Initiative
+- Qualnis
 - Sorcerer
 - Assault
 - 6th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Brannos Bellas]]: partymate
-[[Ragnar Illitran]]: partymate
+- [[Brannos Bellas]]: partymate
+- [[Ragnar Illitran]]: partymate
 
 ### Notes
 

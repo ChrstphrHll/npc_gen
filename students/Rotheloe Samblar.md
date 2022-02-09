@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Aelisabeth Soliania]]: partymate
-[[Elia Veluthil]]: partymate
-[[Helera Urkensvall]]: partymate
+- [[Aelisabeth Soliania]]: partymate
+- [[Elia Veluthil]]: partymate
+- [[Helera Urkensvall]]: partymate
 
 ### Notes
 

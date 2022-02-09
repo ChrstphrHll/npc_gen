@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 66
 tags:
 - Dragonborn
-- Beleriand
+- Draconia
 - Sorcerer
 - Protection
 - 1st
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Juppar Kershaw]]: partymate
-[[Avaery Klaern]]: partymate
+- [[Juppar Kershaw]]: partymate
+- [[Avaery Klaern]]: partymate
 
 ### Notes
 

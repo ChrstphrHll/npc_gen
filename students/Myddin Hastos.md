@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Half-Elf
-- Beleriand
+- Magmus_Centerhold
 - Rouge
 - Protection
 - 2nd
@@ -58,10 +58,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Gabrilo Kulo]]: partymate
-[[Mya Nelaeryn]]: partymate
-[[Levio Evindal]]: partymate
-[[Tylus Ytharra]]: partymate
+- [[Gabrilo Kulo]]: partymate
+- [[Mya Nelaeryn]]: partymate
+- [[Levio Evindal]]: partymate
+- [[Tylus Ytharra]]: partymate
 
 ### Notes
 

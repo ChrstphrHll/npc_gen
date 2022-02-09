@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 97
 tags:
 - Human
-- Principality of the Palus Peoples
+- Qualnis
 - Ranger
 - Diplomacy
 - 5th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kloya Kershaw]]: partymate
-[[Natylie Rathal]]: partymate
+- [[Kloya Kershaw]]: partymate
+- [[Natylie Rathal]]: partymate
 
 ### Notes
 

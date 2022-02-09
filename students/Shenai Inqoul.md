@@ -39,7 +39,7 @@ guild: Burk
 partyID: 57
 tags:
 - Tiefling
-- Aldercrown Empire
+- Magmus_Centerhold
 - Monk
 - Assault
 - 2nd
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Edyrm Iolas]]: partymate
-[[Jacus Kosunten]]: partymate
+- [[Edyrm Iolas]]: partymate
+- [[Jacus Kosunten]]: partymate
 
 ### Notes
 

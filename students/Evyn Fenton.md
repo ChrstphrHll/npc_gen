@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 34
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Chillwild_Peaks
 - Rouge
 - Protection
 - 2nd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Eune Eldratha]]: partymate
-[[Tezani Morthil]]: partymate
+- [[Eune Eldratha]]: partymate
+- [[Tezani Morthil]]: partymate
 
 ### Notes
 

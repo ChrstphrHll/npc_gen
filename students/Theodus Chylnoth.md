@@ -39,7 +39,7 @@ guild: Elkenval
 partyID: 40
 tags:
 - Half-Elf
-- Kordinia
+- Beleriand
 - Monk
 - Assault
 - 1st
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Velmona Elway]]: partymate
-[[Athyn Urddusk]]: partymate
+- [[Velmona Elway]]: partymate
+- [[Athyn Urddusk]]: partymate
 
 ### Notes
 

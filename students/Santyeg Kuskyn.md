@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 81
 tags:
 - Elf
-- Beleriand
+- Principality_of_the_Palus_Peoples
 - Rouge
 - Assault
 - 1st
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Malchor Tenyajn]]: partymate
-[[Ahtye Elhieardacil]]: partymate
+- [[Malchor Tenyajn]]: partymate
+- [[Ahtye Elhieardacil]]: partymate
 
 ### Notes
 

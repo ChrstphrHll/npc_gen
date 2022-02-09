@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 23
 tags:
 - Dwarf
-- Beleriand
+- Chillwild_Peaks
 - Rouge
 - Exploration
 - 4th
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Bera Cauladra]]: partymate
+- [[Bera Cauladra]]: partymate
 
 ### Notes
 

@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Shinare Bersa]]: partymate
-[[Ezros Laerdya]]: partymate
-[[Rjanna Eroan]]: partymate
+- [[Shinare Bersa]]: partymate
+- [[Ezros Laerdya]]: partymate
+- [[Rjanna Eroan]]: partymate
 
 ### Notes
 

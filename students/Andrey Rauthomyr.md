@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Gnome
-- Magmus Centerhold
+- Shadesburry_Initiative
 - Artificer
 - Assault
 - 1st
@@ -58,10 +58,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jandar Pleufan]]: partymate
-[[Kimbera Alerathla]]: partymate
-[[Allyson Vindinglag]]: partymate
-[[Emilanus Shields]]: partymate
+- [[Jandar Pleufan]]: partymate
+- [[Kimbera Alerathla]]: partymate
+- [[Allyson Vindinglag]]: partymate
+- [[Emilanus Shields]]: partymate
 
 ### Notes
 

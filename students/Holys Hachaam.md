@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 90
 tags:
 - Half-Elf
-- Aldercrown Empire
+- Aldercrown_Empire
 - Rouge
 - Assault
 - 1st
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Diegon Verrona]]: partymate
-[[Adresin Ilbryn]]: partymate
-[[Kayla Kaminsky]]: partymate
+- [[Diegon Verrona]]: partymate
+- [[Adresin Ilbryn]]: partymate
+- [[Kayla Kaminsky]]: partymate
 
 ### Notes
 

@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Meira Nuvian]]: partymate
-[[Thongar Fairchild]]: partymate
+- [[Meira Nuvian]]: partymate
+- [[Thongar Fairchild]]: partymate
 
 ### Notes
 

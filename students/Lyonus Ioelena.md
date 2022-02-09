@@ -38,7 +38,7 @@ guild: Burk
 partyID: 86
 tags:
 - Dragonborn
-- Aldercrown Empire
+- Draconia
 - Fighter
 - Assault
 - 2nd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Valygar Lyklor]]: partymate
-[[Hagar Sakrattars]]: partymate
+- [[Valygar Lyklor]]: partymate
+- [[Hagar Sakrattars]]: partymate
 
 ### Notes
 

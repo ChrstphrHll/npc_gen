@@ -41,7 +41,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Kenku
-- Black Rock
+- Black_Rock
 - Wizard
 - Assault
 - 2nd
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Graisen Thalanil]]: partymate
-[[Themistoklea Nevarth]]: partymate
-[[Lucoe Lorelei]]: partymate
+- [[Graisen Thalanil]]: partymate
+- [[Themistoklea Nevarth]]: partymate
+- [[Lucoe Lorelei]]: partymate
 
 ### Notes
 

@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Nathan Laeroth]]: partymate
-[[Jendrellian Webb]]: partymate
+- [[Nathan Laeroth]]: partymate
+- [[Jendrellian Webb]]: partymate
 
 ### Notes
 

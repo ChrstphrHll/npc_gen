@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Brinna Muerlara]]: partymate
-[[Rosherren Haladavar]]: partymate
-[[Tisette Bender]]: partymate
+- [[Brinna Muerlara]]: partymate
+- [[Rosherren Haladavar]]: partymate
+- [[Tisette Bender]]: partymate
 
 ### Notes
 

@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Giacomo Edraele]]: partymate
-[[Matrell Halafarin]]: partymate
-[[Yoshen Arcaena]]: partymate
+- [[Giacomo Edraele]]: partymate
+- [[Matrell Halafarin]]: partymate
+- [[Yoshen Arcaena]]: partymate
 
 ### Notes
 

@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 89
 tags:
 - Dragonborn
-- Beleriand
+- Draconia
 - Ranger
 - Protection
 - 7th
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Pinna Vanius]]: partymate
-[[Ryan Ebersol]]: partymate
-[[Kaeli Khiiral]]: partymate
+- [[Pinna Vanius]]: partymate
+- [[Ryan Ebersol]]: partymate
+- [[Kaeli Khiiral]]: partymate
 
 ### Notes
 

@@ -35,7 +35,7 @@ guild: Treskal
 partyID: 70
 tags:
 - Tiefling
-- Aldercrown Empire
+- Aldercrown_Empire
 - Ranger
 - Diplomacy
 - 2nd
@@ -52,7 +52,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kazoan Windward]]: partymate
+- [[Kazoan Windward]]: partymate
 
 ### Notes
 

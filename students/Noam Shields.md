@@ -41,7 +41,7 @@ guild: Burk
 partyID: 59
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Chillwild_Peaks
 - Barbarian
 - Assault
 - 4th
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Gunnar Ordayius]]: partymate
-[[Saleas Rilitar]]: partymate
-[[Remus Manchul]]: partymate
+- [[Gunnar Ordayius]]: partymate
+- [[Saleas Rilitar]]: partymate
+- [[Remus Manchul]]: partymate
 
 ### Notes
 

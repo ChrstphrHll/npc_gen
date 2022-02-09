@@ -36,7 +36,7 @@ guild: Burk
 partyID: 83
 tags:
 - Elf
-- Shadesburry Initiative
+- Beleriand
 - Sorcerer
 - Diplomacy
 - 3rd
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Natalia Endo]]: partymate
+- [[Natalia Endo]]: partymate
 
 ### Notes
 

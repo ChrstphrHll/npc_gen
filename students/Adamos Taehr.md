@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Alexandyr Aulauthar]]: partymate
-[[Coriss Biafyndar]]: partymate
+- [[Alexandyr Aulauthar]]: partymate
+- [[Coriss Biafyndar]]: partymate
 
 ### Notes
 

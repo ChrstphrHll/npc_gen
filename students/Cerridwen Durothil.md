@@ -39,7 +39,7 @@ guild: Treskal
 partyID: 63
 tags:
 - Half-Elf
-- Aldercrown Empire
+- Principality_of_the_Palus_Peoples
 - Ranger
 - Exploration
 - 5th
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Gerrimar Vulkor]]: partymate
-[[Ungris Riluaneth]]: partymate
+- [[Gerrimar Vulkor]]: partymate
+- [[Ungris Riluaneth]]: partymate
 
 ### Notes
 

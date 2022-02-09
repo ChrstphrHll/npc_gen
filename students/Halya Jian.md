@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 96
 tags:
 - Genasi
-- Floating Island
+- Verdain
 - Druid
 - Protection
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Victor Gaelira]]: partymate
-[[Goetia Mistale]]: partymate
-[[Handyr Letryal]]: partymate
+- [[Victor Gaelira]]: partymate
+- [[Goetia Mistale]]: partymate
+- [[Handyr Letryal]]: partymate
 
 ### Notes
 

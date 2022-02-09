@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 33
 tags:
 - Elf
-- Beleriand
+- Aldercrown_Empire
 - Paladin
 - Assault
 - 2nd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Gormoth Shyrrik]]: partymate
-[[Vaellyn Esyae]]: partymate
+- [[Gormoth Shyrrik]]: partymate
+- [[Vaellyn Esyae]]: partymate
 
 ### Notes
 

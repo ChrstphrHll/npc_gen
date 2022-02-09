@@ -39,7 +39,7 @@ guild: Treskal
 partyID: 45
 tags:
 - Half-Orc
-- Chillwild Peaks
+- Aldercrown_Empire
 - Druid
 - Assault
 - 3rd
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Brooka Whesker]]: partymate
-[[Jacob Jorildyn]]: partymate
-[[Gabrila Retra]]: partymate
+- [[Brooka Whesker]]: partymate
+- [[Jacob Jorildyn]]: partymate
+- [[Gabrila Retra]]: partymate
 
 ### Notes
 

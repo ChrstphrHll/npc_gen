@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 37
 tags:
 - Human
-- Principality of the Palus Peoples
+- Qualnis
 - Bard
 - Protection
 - 4th
@@ -54,7 +54,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hudsen Aluendalee]]: partymate
+- [[Hudsen Aluendalee]]: partymate
 
 ### Notes
 

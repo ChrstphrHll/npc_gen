@@ -42,7 +42,7 @@ guild: Jettenia
 partyID: 68
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Druid
 - Protection
 - 1st
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Matto Divya]]: partymate
-[[Ysak Llewellenar]]: partymate
-[[Alver Boneflare]]: partymate
-[[Garan Mirthal]]: partymate
+- [[Matto Divya]]: partymate
+- [[Ysak Llewellenar]]: partymate
+- [[Alver Boneflare]]: partymate
+- [[Garan Mirthal]]: partymate
 
 ### Notes
 

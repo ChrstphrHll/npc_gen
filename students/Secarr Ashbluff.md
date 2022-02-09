@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Thenol Shialaevar]]: partymate
+- [[Thenol Shialaevar]]: partymate
 
 ### Notes
 

@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 50
 tags:
 - Gnome
-- Shadesburry Initiative
+- Aldercrown_Empire
 - Barbarian
 - Exploration
 - 2nd
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Sulivan Wylchyr]]: partymate
+- [[Sulivan Wylchyr]]: partymate
 
 ### Notes
 

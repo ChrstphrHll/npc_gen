@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 67
 tags:
 - Elf
-- Aldercrown Empire
+- Beleriand
 - Paladin
 - Diplomacy
 - 3rd
@@ -57,8 +57,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Bela Qwey]]: partymate
-[[Rossan Jonik]]: partymate
+- [[Bela Qwey]]: partymate
+- [[Rossan Jonik]]: partymate
 
 ### Notes
 

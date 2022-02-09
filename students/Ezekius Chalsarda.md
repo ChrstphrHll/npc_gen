@@ -38,7 +38,7 @@ guild: Burk
 partyID: 29
 tags:
 - Halfling
-- Kordinia
+- Beleriand
 - Wizard
 - Diplomacy
 - 6th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Moki Aelynthi]]: partymate
-[[Gianesia Onvyr]]: partymate
+- [[Moki Aelynthi]]: partymate
+- [[Gianesia Onvyr]]: partymate
 
 ### Notes
 

@@ -35,7 +35,7 @@ guild: Fiesn
 partyID: 85
 tags:
 - Dragonborn
-- Draconia
+- Principality_of_the_Palus_Peoples
 - Monk
 - Exploration
 - 3rd
@@ -52,7 +52,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Olivus Ondabrar]]: partymate
+- [[Olivus Ondabrar]]: partymate
 
 ### Notes
 

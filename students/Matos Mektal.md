@@ -42,7 +42,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Kenku
-- Black Rock
+- Black_Rock
 - Barbarian
 - Diplomacy
 - 5th
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Adros Tolthe]]: partymate
-[[Selina Ochyllyss]]: partymate
-[[Yorala Tiatha]]: partymate
-[[Ivistra Stockton]]: partymate
+- [[Adros Tolthe]]: partymate
+- [[Selina Ochyllyss]]: partymate
+- [[Yorala Tiatha]]: partymate
+- [[Ivistra Stockton]]: partymate
 
 ### Notes
 

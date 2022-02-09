@@ -35,7 +35,7 @@ guild: Treskal
 partyID: 19
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Ranger
 - Exploration
 - 3rd
@@ -52,7 +52,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Verssek Nese]]: partymate
+- [[Verssek Nese]]: partymate
 
 ### Notes
 

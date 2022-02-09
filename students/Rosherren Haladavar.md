@@ -40,7 +40,7 @@ guild: Burk
 partyID: 95
 tags:
 - Genasi
-- Magmus Centerhold
+- Chillwild_Peaks
 - Fighter
 - Protection
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Brinna Muerlara]]: partymate
-[[Pynelope Valhein]]: partymate
-[[Tisette Bender]]: partymate
+- [[Brinna Muerlara]]: partymate
+- [[Pynelope Valhein]]: partymate
+- [[Tisette Bender]]: partymate
 
 ### Notes
 

@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 27
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Cleric
 - Protection
 - 2nd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Terek Nushala]]: partymate
-[[Barak Felaern]]: partymate
+- [[Terek Nushala]]: partymate
+- [[Barak Felaern]]: partymate
 
 ### Notes
 

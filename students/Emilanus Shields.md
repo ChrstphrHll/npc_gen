@@ -61,10 +61,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jandar Pleufan]]: partymate
-[[Kimbera Alerathla]]: partymate
-[[Allyson Vindinglag]]: partymate
-[[Andrey Rauthomyr]]: partymate
+- [[Jandar Pleufan]]: partymate
+- [[Kimbera Alerathla]]: partymate
+- [[Allyson Vindinglag]]: partymate
+- [[Andrey Rauthomyr]]: partymate
 
 ### Notes
 

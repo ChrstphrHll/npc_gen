@@ -38,7 +38,7 @@ guild: Burk
 partyID: 57
 tags:
 - Human
-- Magmus Centerhold
+- Aldercrown_Empire
 - Monk
 - Exploration
 - 2nd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Edyrm Iolas]]: partymate
-[[Shenai Inqoul]]: partymate
+- [[Edyrm Iolas]]: partymate
+- [[Shenai Inqoul]]: partymate
 
 ### Notes
 

@@ -37,7 +37,7 @@ guild: Burk
 partyID: 65
 tags:
 - Tiefling
-- Verdain
+- Aldercrown_Empire
 - Barbarian
 - Exploration
 - 2nd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Eligio Nevarth]]: partymate
-[[Jasjen Nlossae]]: partymate
+- [[Eligio Nevarth]]: partymate
+- [[Jasjen Nlossae]]: partymate
 
 ### Notes
 

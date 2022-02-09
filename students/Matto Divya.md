@@ -42,7 +42,7 @@ guild: Jettenia
 partyID: 68
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Ranger
 - Assault
 - 1st
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Ysak Llewellenar]]: partymate
-[[Alver Boneflare]]: partymate
-[[Garan Mirthal]]: partymate
-[[Iasono Ynshael]]: partymate
+- [[Ysak Llewellenar]]: partymate
+- [[Alver Boneflare]]: partymate
+- [[Garan Mirthal]]: partymate
+- [[Iasono Ynshael]]: partymate
 
 ### Notes
 

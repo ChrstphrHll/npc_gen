@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 34
 tags:
 - Triton
-- Glasscliff Garisons
+- Whyndiem
 - Druid
 - Protection
 - 2nd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Evyn Fenton]]: partymate
-[[Tezani Morthil]]: partymate
+- [[Evyn Fenton]]: partymate
+- [[Tezani Morthil]]: partymate
 
 ### Notes
 

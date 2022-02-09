@@ -42,7 +42,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Goliath
-- Chillwild Peaks
+- Chillwild_Peaks
 - Druid
 - Protection
 - 8th
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Brahm Delmuth]]: partymate
-[[Rianna Belt]]: partymate
-[[Tez Bialaer]]: partymate
-[[Zylphan Molostroi]]: partymate
+- [[Brahm Delmuth]]: partymate
+- [[Rianna Belt]]: partymate
+- [[Tez Bialaer]]: partymate
+- [[Zylphan Molostroi]]: partymate
 
 ### Notes
 

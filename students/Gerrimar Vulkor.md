@@ -57,8 +57,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Cerridwen Durothil]]: partymate
-[[Ungris Riluaneth]]: partymate
+- [[Cerridwen Durothil]]: partymate
+- [[Ungris Riluaneth]]: partymate
 
 ### Notes
 

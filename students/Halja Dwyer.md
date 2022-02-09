@@ -35,7 +35,7 @@ guild: Alderden
 partyID: 55
 tags:
 - Tiefling
-- Aldercrown Empire
+- Magmus_Centerhold
 - Fighter
 - Exploration
 - 1st
@@ -52,7 +52,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Yathlanae Arkhun]]: partymate
+- [[Yathlanae Arkhun]]: partymate
 
 ### Notes
 

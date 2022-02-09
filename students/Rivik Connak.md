@@ -54,7 +54,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kessa Keller]]: partymate
+- [[Kessa Keller]]: partymate
 
 ### Notes
 

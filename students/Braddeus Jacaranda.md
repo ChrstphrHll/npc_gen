@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 94
 tags:
 - Halfling
-- Verdain
+- Kordinia
 - Paladin
 - Diplomacy
 - 3rd
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Maarika Oncith]]: partymate
-[[Lilia Agrippa]]: partymate
+- [[Maarika Oncith]]: partymate
+- [[Lilia Agrippa]]: partymate
 
 ### Notes
 

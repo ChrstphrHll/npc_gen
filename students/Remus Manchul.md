@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Noam Shields]]: partymate
-[[Gunnar Ordayius]]: partymate
-[[Saleas Rilitar]]: partymate
+- [[Noam Shields]]: partymate
+- [[Gunnar Ordayius]]: partymate
+- [[Saleas Rilitar]]: partymate
 
 ### Notes
 

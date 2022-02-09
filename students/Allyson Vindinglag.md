@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jandar Pleufan]]: partymate
-[[Kimbera Alerathla]]: partymate
-[[Emilanus Shields]]: partymate
-[[Andrey Rauthomyr]]: partymate
+- [[Jandar Pleufan]]: partymate
+- [[Kimbera Alerathla]]: partymate
+- [[Emilanus Shields]]: partymate
+- [[Andrey Rauthomyr]]: partymate
 
 ### Notes
 

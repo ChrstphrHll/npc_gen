@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 14
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Magmus_Centerhold
 - Monk
 - Protection
 - 1st
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Harperia Winchell]]: partymate
+- [[Harperia Winchell]]: partymate
 
 ### Notes
 

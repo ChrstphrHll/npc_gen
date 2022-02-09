@@ -36,7 +36,7 @@ guild: Burk
 partyID: 49
 tags:
 - Dwarf
-- Beleriand
+- Shadesburry_Initiative
 - Paladin
 - Diplomacy
 - 4th
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Senna Tryton]]: partymate
+- [[Senna Tryton]]: partymate
 
 ### Notes
 

@@ -39,7 +39,7 @@ guild: Burk
 partyID: 9
 tags:
 - Firbolg
-- Aldercrown Empire
+- Principality_of_the_Palus_Peoples
 - Bard
 - Exploration
 - 3rd
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Aelisabeth Soliania]]: partymate
-[[Rotheloe Samblar]]: partymate
-[[Helera Urkensvall]]: partymate
+- [[Aelisabeth Soliania]]: partymate
+- [[Rotheloe Samblar]]: partymate
+- [[Helera Urkensvall]]: partymate
 
 ### Notes
 

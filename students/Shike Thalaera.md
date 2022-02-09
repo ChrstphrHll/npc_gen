@@ -40,7 +40,7 @@ guild: Burk
 partyID: 38
 tags:
 - Dragonborn
-- Verdain
+- Draconia
 - Paladin
 - Protection
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hodus Belt]]: partymate
-[[Delja Iefyr]]: partymate
-[[Genesys Mhaenal]]: partymate
+- [[Hodus Belt]]: partymate
+- [[Delja Iefyr]]: partymate
+- [[Genesys Mhaenal]]: partymate
 
 ### Notes
 

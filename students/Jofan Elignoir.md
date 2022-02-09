@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 6
 tags:
 - Triton
-- Glasscliff Garisons
+- Whyndiem
 - Ranger
 - Diplomacy
 - 7th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Cam Lazziar]]: partymate
-[[Rei Mardeiym]]: partymate
+- [[Cam Lazziar]]: partymate
+- [[Rei Mardeiym]]: partymate
 
 ### Notes
 

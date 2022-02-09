@@ -38,7 +38,7 @@ guild: Burk
 partyID: 5
 tags:
 - Human
-- Principality of the Palus Peoples
+- Verdain
 - Cleric
 - Diplomacy
 - 3rd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Meira Nuvian]]: partymate
-[[Roman Erolith]]: partymate
+- [[Meira Nuvian]]: partymate
+- [[Roman Erolith]]: partymate
 
 ### Notes
 

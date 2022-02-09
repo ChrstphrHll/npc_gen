@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Halya Jian]]: partymate
-[[Victor Gaelira]]: partymate
-[[Goetia Mistale]]: partymate
+- [[Halya Jian]]: partymate
+- [[Victor Gaelira]]: partymate
+- [[Goetia Mistale]]: partymate
 
 ### Notes
 

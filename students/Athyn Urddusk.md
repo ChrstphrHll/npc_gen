@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 40
 tags:
 - Human
-- Magmus Centerhold
+- Beleriand
 - Artificer
 - Assault
 - 1st
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Theodus Chylnoth]]: partymate
-[[Velmona Elway]]: partymate
+- [[Theodus Chylnoth]]: partymate
+- [[Velmona Elway]]: partymate
 
 ### Notes
 

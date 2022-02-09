@@ -39,7 +39,7 @@ guild: Burk
 partyID: 36
 tags:
 - Dwarf
-- Aldercrown Empire
+- Kordinia
 - Cleric
 - Diplomacy
 - 2nd
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Levy Maendellyn]]: partymate
-[[Jacoby Maeraddyth]]: partymate
+- [[Levy Maendellyn]]: partymate
+- [[Jacoby Maeraddyth]]: partymate
 
 ### Notes
 

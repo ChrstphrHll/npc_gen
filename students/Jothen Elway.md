@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 2
 tags:
 - Human
-- Aldercrown Empire
+- Qualnis
 - Rouge
 - Exploration
 - 1st
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Aidyn Glynnii]]: partymate
-[[Allisa Iahalae]]: partymate
+- [[Aidyn Glynnii]]: partymate
+- [[Allisa Iahalae]]: partymate
 
 ### Notes
 

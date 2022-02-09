@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Uxwy Lazziar]]: partymate
-[[Leonus Triktappic]]: partymate
+- [[Uxwy Lazziar]]: partymate
+- [[Leonus Triktappic]]: partymate
 
 ### Notes
 - the best char

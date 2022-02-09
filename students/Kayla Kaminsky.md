@@ -40,7 +40,7 @@ guild: Elkenval
 partyID: 90
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Artificer
 - Diplomacy
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Diegon Verrona]]: partymate
-[[Adresin Ilbryn]]: partymate
-[[Holys Hachaam]]: partymate
+- [[Diegon Verrona]]: partymate
+- [[Adresin Ilbryn]]: partymate
+- [[Holys Hachaam]]: partymate
 
 ### Notes
 

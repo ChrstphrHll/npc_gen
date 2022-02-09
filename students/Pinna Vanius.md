@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 89
 tags:
 - Elf
-- Beleriand
+- Aldercrown_Empire
 - Bard
 - Assault
 - 7th
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Delos Ehlark]]: partymate
-[[Ryan Ebersol]]: partymate
-[[Kaeli Khiiral]]: partymate
+- [[Delos Ehlark]]: partymate
+- [[Ryan Ebersol]]: partymate
+- [[Kaeli Khiiral]]: partymate
 
 ### Notes
 

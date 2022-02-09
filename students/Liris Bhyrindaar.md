@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 54
 tags:
 - Goliath
-- Chillwild Peaks
+- Chillwild_Peaks
 - Paladin
 - Protection
 - 2nd
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Caeleb Embrae]]: partymate
-[[Eva Reluvethel]]: partymate
+- [[Caeleb Embrae]]: partymate
+- [[Eva Reluvethel]]: partymate
 
 ### Notes
 

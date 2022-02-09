@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 98
 tags:
 - Firbolg
-- Principality of the Palus Peoples
+- Verdain
 - Cleric
 - Diplomacy
 - 3rd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Tyego Sinaht]]: partymate
-[[Halia Dominguez]]: partymate
+- [[Tyego Sinaht]]: partymate
+- [[Halia Dominguez]]: partymate
 
 ### Notes
 

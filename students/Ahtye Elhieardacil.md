@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 81
 tags:
 - Elf
-- Beleriand
+- Magmus_Centerhold
 - Druid
 - Diplomacy
 - 1st
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Santyeg Kuskyn]]: partymate
-[[Malchor Tenyajn]]: partymate
+- [[Santyeg Kuskyn]]: partymate
+- [[Malchor Tenyajn]]: partymate
 
 ### Notes
 

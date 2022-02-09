@@ -39,7 +39,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Druid
 - Diplomacy
 - 5th
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Dylan Usunaar]]: partymate
-[[Aurikallos Biafyndar]]: partymate
-[[Grace Festus]]: partymate
+- [[Dylan Usunaar]]: partymate
+- [[Aurikallos Biafyndar]]: partymate
+- [[Grace Festus]]: partymate
 
 ### Notes
 

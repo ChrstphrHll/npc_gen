@@ -42,7 +42,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Principality_of_the_Palus_Peoples
 - Cleric
 - Diplomacy
 - 2nd
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Mya Nelaeryn]]: partymate
-[[Levio Evindal]]: partymate
-[[Myddin Hastos]]: partymate
-[[Tylus Ytharra]]: partymate
+- [[Mya Nelaeryn]]: partymate
+- [[Levio Evindal]]: partymate
+- [[Myddin Hastos]]: partymate
+- [[Tylus Ytharra]]: partymate
 
 ### Notes
 

@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 76
 tags:
 - Dragonborn
-- Magmus Centerhold
+- Draconia
 - Sorcerer
 - Diplomacy
 - 4th
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Oyara Faoraar]]: partymate
+- [[Oyara Faoraar]]: partymate
 
 ### Notes
 

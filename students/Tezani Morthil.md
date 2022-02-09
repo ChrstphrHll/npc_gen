@@ -39,7 +39,7 @@ guild: Elkenval
 partyID: 34
 tags:
 - Elf
-- Principality of the Palus Peoples
+- Beleriand
 - Wizard
 - Assault
 - 2nd
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Eune Eldratha]]: partymate
-[[Evyn Fenton]]: partymate
+- [[Eune Eldratha]]: partymate
+- [[Evyn Fenton]]: partymate
 
 ### Notes
 

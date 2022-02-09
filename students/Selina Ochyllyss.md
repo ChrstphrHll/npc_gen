@@ -42,7 +42,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Dwarf
-- Shadesburry Initiative
+- Aldercrown_Empire
 - Monk
 - Exploration
 - 5th
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Matos Mektal]]: partymate
-[[Adros Tolthe]]: partymate
-[[Yorala Tiatha]]: partymate
-[[Ivistra Stockton]]: partymate
+- [[Matos Mektal]]: partymate
+- [[Adros Tolthe]]: partymate
+- [[Yorala Tiatha]]: partymate
+- [[Ivistra Stockton]]: partymate
 
 ### Notes
 

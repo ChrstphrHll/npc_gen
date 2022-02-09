@@ -41,7 +41,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Elf
-- Beleriand
+- Aldercrown_Empire
 - Ranger
 - Exploration
 - 1st
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Ysaac Aelrue]]: partymate
-[[Nolyn Viska]]: partymate
-[[Dejana Keller]]: partymate
+- [[Ysaac Aelrue]]: partymate
+- [[Nolyn Viska]]: partymate
+- [[Dejana Keller]]: partymate
 
 ### Notes
 

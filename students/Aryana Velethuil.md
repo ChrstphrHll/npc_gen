@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 32
 tags:
 - Kenku
-- Black Rock
+- Black_Rock
 - Wizard
 - Diplomacy
 - 4th
@@ -54,7 +54,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Abramo Sudryl]]: partymate
+- [[Abramo Sudryl]]: partymate
 
 ### Notes
 

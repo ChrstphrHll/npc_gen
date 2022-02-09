@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 23
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Cleric
 - Diplomacy
 - 4th
@@ -54,7 +54,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Auzerais Venali]]: partymate
+- [[Auzerais Venali]]: partymate
 
 ### Notes
 

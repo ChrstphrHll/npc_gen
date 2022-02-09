@@ -35,7 +35,7 @@ guild: Treskal
 partyID: 8
 tags:
 - Half-Orc
-- Principality of the Palus Peoples
+- Magmus_Centerhold
 - Artificer
 - Diplomacy
 - 3rd
@@ -52,7 +52,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Ilksal Immianthe]]: partymate
+- [[Ilksal Immianthe]]: partymate
 
 ### Notes
 

@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Scarletta Elora]]: partymate
-[[Barak Felaern]]: partymate
+- [[Scarletta Elora]]: partymate
+- [[Barak Felaern]]: partymate
 
 ### Notes
 

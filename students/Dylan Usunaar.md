@@ -39,7 +39,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Half-Orc
-- Verdain
+- Aldercrown_Empire
 - Rouge
 - Diplomacy
 - 5th
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Delila Felaern]]: partymate
-[[Aurikallos Biafyndar]]: partymate
-[[Grace Festus]]: partymate
+- [[Delila Felaern]]: partymate
+- [[Aurikallos Biafyndar]]: partymate
+- [[Grace Festus]]: partymate
 
 ### Notes
 

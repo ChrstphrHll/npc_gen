@@ -37,7 +37,7 @@ guild: Jettenia
 partyID: 80
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Magmus_Centerhold
 - Artificer
 - Assault
 - 8th
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kembley Ralnor]]: partymate
-[[Wenge Usunaar]]: partymate
+- [[Kembley Ralnor]]: partymate
+- [[Wenge Usunaar]]: partymate
 
 ### Notes
 

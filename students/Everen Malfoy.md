@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 61
 tags:
 - Halfling
-- Aldercrown Empire
+- Principality_of_the_Palus_Peoples
 - Fighter
 - Exploration
 - 2nd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Iaen Dannyd]]: partymate
-[[Taewen Llamryl]]: partymate
+- [[Iaen Dannyd]]: partymate
+- [[Taewen Llamryl]]: partymate
 
 ### Notes
 

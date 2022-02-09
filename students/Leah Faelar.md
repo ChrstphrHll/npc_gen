@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 17
 tags:
 - Human
-- Beleriand
+- Kordinia
 - Bard
 - Exploration
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Branus Shadegrove]]: partymate
-[[Tilo Connak]]: partymate
-[[Angel Nushala]]: partymate
+- [[Branus Shadegrove]]: partymate
+- [[Tilo Connak]]: partymate
+- [[Angel Nushala]]: partymate
 
 ### Notes
 

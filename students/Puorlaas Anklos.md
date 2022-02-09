@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Marl Ahrendaaria]]: partymate
+- [[Marl Ahrendaaria]]: partymate
 
 ### Notes
 

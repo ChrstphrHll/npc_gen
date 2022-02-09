@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 14
 tags:
 - Human
-- Verdain
+- Qualnis
 - Barbarian
 - Protection
 - 1st
@@ -54,7 +54,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Wren Urmicca]]: partymate
+- [[Wren Urmicca]]: partymate
 
 ### Notes
 

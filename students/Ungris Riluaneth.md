@@ -38,7 +38,7 @@ guild: Treskal
 partyID: 63
 tags:
 - Dragonborn
-- Aldercrown Empire
+- Magmus_Centerhold
 - Cleric
 - Diplomacy
 - 5th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Gerrimar Vulkor]]: partymate
-[[Cerridwen Durothil]]: partymate
+- [[Gerrimar Vulkor]]: partymate
+- [[Cerridwen Durothil]]: partymate
 
 ### Notes
 

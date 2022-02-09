@@ -42,7 +42,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Triton
-- Glasscliff Garisons
+- Whyndiem
 - Monk
 - Protection
 - 5th
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Matos Mektal]]: partymate
-[[Adros Tolthe]]: partymate
-[[Selina Ochyllyss]]: partymate
-[[Ivistra Stockton]]: partymate
+- [[Matos Mektal]]: partymate
+- [[Adros Tolthe]]: partymate
+- [[Selina Ochyllyss]]: partymate
+- [[Ivistra Stockton]]: partymate
 
 ### Notes
 

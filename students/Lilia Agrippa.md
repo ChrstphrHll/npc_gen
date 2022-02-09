@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 94
 tags:
 - Tiefling
-- Aldercrown Empire
+- Principality_of_the_Palus_Peoples
 - Barbarian
 - Assault
 - 3rd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Maarika Oncith]]: partymate
-[[Braddeus Jacaranda]]: partymate
+- [[Maarika Oncith]]: partymate
+- [[Braddeus Jacaranda]]: partymate
 
 ### Notes
 

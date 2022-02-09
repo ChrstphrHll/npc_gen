@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Moki Aelynthi]]: partymate
-[[Ezekius Chalsarda]]: partymate
+- [[Moki Aelynthi]]: partymate
+- [[Ezekius Chalsarda]]: partymate
 
 ### Notes
 

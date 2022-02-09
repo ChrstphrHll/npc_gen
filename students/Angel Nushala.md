@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 17
 tags:
 - Dragonborn
-- Floating Island
+- Draconia
 - Artificer
 - Diplomacy
 - 1st
@@ -59,9 +59,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Leah Faelar]]: partymate
-[[Branus Shadegrove]]: partymate
-[[Tilo Connak]]: partymate
+- [[Leah Faelar]]: partymate
+- [[Branus Shadegrove]]: partymate
+- [[Tilo Connak]]: partymate
 
 ### Notes
 

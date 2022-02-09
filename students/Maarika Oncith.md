@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 94
 tags:
 - Dragonborn
-- Verdain
+- Draconia
 - Artificer
 - Protection
 - 3rd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Braddeus Jacaranda]]: partymate
-[[Lilia Agrippa]]: partymate
+- [[Braddeus Jacaranda]]: partymate
+- [[Lilia Agrippa]]: partymate
 
 ### Notes
 

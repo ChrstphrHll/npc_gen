@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Human
-- Whyndiem
+- Principality_of_the_Palus_Peoples
 - Monk
 - Diplomacy
 - 2nd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Willam Ardryll]]: partymate
-[[Graisen Thalanil]]: partymate
-[[Lucoe Lorelei]]: partymate
+- [[Willam Ardryll]]: partymate
+- [[Graisen Thalanil]]: partymate
+- [[Lucoe Lorelei]]: partymate
 
 ### Notes
 

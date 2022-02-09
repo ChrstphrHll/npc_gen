@@ -39,7 +39,7 @@ guild: Jettenia
 partyID: 4
 tags:
 - Halfling
-- Aldercrown Empire
+- Kordinia
 - Druid
 - Exploration
 - 6th
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Pippi Langston]]: partymate
-[[Jerrick Yarbrough]]: partymate
-[[Miglus Yrlissa]]: partymate
+- [[Pippi Langston]]: partymate
+- [[Jerrick Yarbrough]]: partymate
+- [[Miglus Yrlissa]]: partymate
 
 ### Notes
 

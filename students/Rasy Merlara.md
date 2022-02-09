@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 16
 tags:
 - Dwarf
-- Aldercrown Empire
+- Shadesburry_Initiative
 - Wizard
 - Exploration
 - 1st
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hanro Fieryat]]: partymate
-[[Jamie Kesefehon]]: partymate
+- [[Hanro Fieryat]]: partymate
+- [[Jamie Kesefehon]]: partymate
 
 ### Notes
 

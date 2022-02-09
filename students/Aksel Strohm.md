@@ -37,7 +37,7 @@ guild: Jettenia
 partyID: 10
 tags:
 - Tiefling
-- Aldercrown Empire
+- Principality_of_the_Palus_Peoples
 - Sorcerer
 - Assault
 - 7th
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jareth Tanseril]]: partymate
-[[Jaris Amlaruil]]: partymate
+- [[Jareth Tanseril]]: partymate
+- [[Jaris Amlaruil]]: partymate
 
 ### Notes
 

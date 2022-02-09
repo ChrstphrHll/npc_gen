@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Half-Elf
-- Beleriand
+- Magmus_Centerhold
 - Paladin
 - Exploration
 - 1st
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kova Tamara]]: partymate
-[[Adrjia Lysanthir]]: partymate
-[[Es'beth Yesheln]]: partymate
-[[Evylen Nese]]: partymate
+- [[Kova Tamara]]: partymate
+- [[Adrjia Lysanthir]]: partymate
+- [[Es'beth Yesheln]]: partymate
+- [[Evylen Nese]]: partymate
 
 ### Notes
 

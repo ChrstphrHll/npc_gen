@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 54
 tags:
 - Tiefling
-- Aldercrown Empire
+- Magmus_Centerhold
 - Bard
 - Assault
 - 2nd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Liris Bhyrindaar]]: partymate
-[[Eva Reluvethel]]: partymate
+- [[Liris Bhyrindaar]]: partymate
+- [[Eva Reluvethel]]: partymate
 
 ### Notes
 

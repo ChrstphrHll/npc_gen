@@ -38,7 +38,7 @@ guild: Burk
 partyID: 75
 tags:
 - Elf
-- Aldercrown Empire
+- Aldercrown_Empire
 - Ranger
 - Exploration
 - 4th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hazel Winters]]: partymate
-[[Lincon Nylaathria]]: partymate
+- [[Hazel Winters]]: partymate
+- [[Lincon Nylaathria]]: partymate
 
 ### Notes
 

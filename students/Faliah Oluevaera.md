@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 92
 tags:
 - Gnome
-- Aldercrown Empire
+- Shadesburry_Initiative
 - Cleric
 - Protection
 - 8th
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Wulfe Fulcrux]]: partymate
+- [[Wulfe Fulcrux]]: partymate
 
 ### Notes
 

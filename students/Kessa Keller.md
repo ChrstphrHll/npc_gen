@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 30
 tags:
 - Human
-- Beleriand
+- Magmus_Centerhold
 - Ranger
 - Assault
 - 3rd
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Rivik Connak]]: partymate
+- [[Rivik Connak]]: partymate
 
 ### Notes
 

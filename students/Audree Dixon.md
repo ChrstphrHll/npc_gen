@@ -41,7 +41,7 @@ guild: Alderden
 partyID: 56
 tags:
 - Human
-- Aldercrown Empire
+- Aldercrown_Empire
 - Monk
 - Assault
 - 1st
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Aryana Ahrendue]]: partymate
-[[Alkindus Llamryl]]: partymate
-[[Lea Nuvian]]: partymate
+- [[Aryana Ahrendue]]: partymate
+- [[Alkindus Llamryl]]: partymate
+- [[Lea Nuvian]]: partymate
 
 ### Notes
 

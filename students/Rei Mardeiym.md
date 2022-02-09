@@ -39,7 +39,7 @@ guild: Alderden
 partyID: 6
 tags:
 - Firbolg
-- Verdain
+- Beleriand
 - Sorcerer
 - Protection
 - 7th
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Cam Lazziar]]: partymate
-[[Jofan Elignoir]]: partymate
+- [[Cam Lazziar]]: partymate
+- [[Jofan Elignoir]]: partymate
 
 ### Notes
 

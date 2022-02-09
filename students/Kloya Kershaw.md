@@ -37,7 +37,7 @@ guild: Jettenia
 partyID: 97
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Bard
 - Protection
 - 5th
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Gavyn Sadalymn]]: partymate
-[[Natylie Rathal]]: partymate
+- [[Gavyn Sadalymn]]: partymate
+- [[Natylie Rathal]]: partymate
 
 ### Notes
 

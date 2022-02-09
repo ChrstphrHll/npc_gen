@@ -39,7 +39,7 @@ guild: Burk
 partyID: 93
 tags:
 - Firbolg
-- Principality of the Palus Peoples
+- Verdain
 - Paladin
 - Exploration
 - 2nd
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Abryia Rubrae]]: partymate
-[[Yan Sorsasta]]: partymate
-[[Violetta Coldsprinter]]: partymate
+- [[Abryia Rubrae]]: partymate
+- [[Yan Sorsasta]]: partymate
+- [[Violetta Coldsprinter]]: partymate
 
 ### Notes
 

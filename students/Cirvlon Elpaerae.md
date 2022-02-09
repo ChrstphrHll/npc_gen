@@ -37,7 +37,7 @@ guild: Alderden
 partyID: 73
 tags:
 - Tiefling
-- Principality of the Palus Peoples
+- Principality_of_the_Palus_Peoples
 - Druid
 - Assault
 - 2nd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jamye Napraeleon]]: partymate
-[[Gianna Rhistel]]: partymate
+- [[Jamye Napraeleon]]: partymate
+- [[Gianna Rhistel]]: partymate
 
 ### Notes
 

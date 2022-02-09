@@ -40,7 +40,7 @@ guild: Elkenval
 partyID: 47
 tags:
 - Dwarf
-- Aldercrown Empire
+- Beleriand
 - Sorcerer
 - Assault
 - 5th
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Goshwa Khiipaera]]: partymate
-[[Vila Tassarion]]: partymate
-[[Mavrek Aolis]]: partymate
+- [[Goshwa Khiipaera]]: partymate
+- [[Vila Tassarion]]: partymate
+- [[Mavrek Aolis]]: partymate
 
 ### Notes
 

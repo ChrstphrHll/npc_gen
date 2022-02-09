@@ -40,7 +40,7 @@ guild: Elkenval
 partyID: 82
 tags:
 - Goliath
-- Aldercrown Empire
+- Chillwild_Peaks
 - Druid
 - Assault
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Wulfe Galan]]: partymate
-[[Yakob Lydialeera]]: partymate
-[[Nicolle Shandalar]]: partymate
+- [[Wulfe Galan]]: partymate
+- [[Yakob Lydialeera]]: partymate
+- [[Nicolle Shandalar]]: partymate
 
 ### Notes
 

@@ -59,9 +59,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Elia Veluthil]]: partymate
-[[Rotheloe Samblar]]: partymate
-[[Helera Urkensvall]]: partymate
+- [[Elia Veluthil]]: partymate
+- [[Rotheloe Samblar]]: partymate
+- [[Helera Urkensvall]]: partymate
 
 ### Notes
 

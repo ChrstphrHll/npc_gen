@@ -39,7 +39,7 @@ guild: Jettenia
 partyID: 10
 tags:
 - Gnome
-- Shadesburry Initiative
+- Qualnis
 - Artificer
 - Exploration
 - 7th
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jaris Amlaruil]]: partymate
-[[Aksel Strohm]]: partymate
+- [[Jaris Amlaruil]]: partymate
+- [[Aksel Strohm]]: partymate
 
 ### Notes
 

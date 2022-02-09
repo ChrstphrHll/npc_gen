@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Dragonborn
-- Magmus Centerhold
+- Draconia
 - Ranger
 - Exploration
 - 2nd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Giacomo Edraele]]: partymate
-[[Matrell Halafarin]]: partymate
-[[Santaegus Etter]]: partymate
+- [[Giacomo Edraele]]: partymate
+- [[Matrell Halafarin]]: partymate
+- [[Santaegus Etter]]: partymate
 
 ### Notes
 

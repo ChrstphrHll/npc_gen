@@ -39,7 +39,7 @@ guild: Burk
 partyID: 75
 tags:
 - Aasimar
-- Aldercrown Empire
+- Beleriand
 - Barbarian
 - Assault
 - 4th
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Murunay Illfate]]: partymate
-[[Hazel Winters]]: partymate
+- [[Murunay Illfate]]: partymate
+- [[Hazel Winters]]: partymate
 
 ### Notes
 

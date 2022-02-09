@@ -40,7 +40,7 @@ guild: Elkenval
 partyID: 88
 tags:
 - Tiefling
-- Principality of the Palus Peoples
+- Beleriand
 - Sorcerer
 - Protection
 - 1st
@@ -57,8 +57,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Shoulree Letryal]]: partymate
-[[Levi Kicklighter]]: partymate
+- [[Shoulree Letryal]]: partymate
+- [[Levi Kicklighter]]: partymate
 
 ### Notes
 

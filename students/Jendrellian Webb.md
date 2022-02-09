@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 64
 tags:
 - Dwarf
-- Aldercrown Empire
+- Aldercrown_Empire
 - Barbarian
 - Assault
 - 1st
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Nathan Laeroth]]: partymate
-[[Pike Tethir]]: partymate
+- [[Nathan Laeroth]]: partymate
+- [[Pike Tethir]]: partymate
 
 ### Notes
 

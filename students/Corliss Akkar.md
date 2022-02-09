@@ -37,7 +37,7 @@ guild: Burk
 partyID: 72
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Magmus_Centerhold
 - Rouge
 - Exploration
 - 1st
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Lynx Galather]]: partymate
-[[Aenglo Dyffros]]: partymate
+- [[Lynx Galather]]: partymate
+- [[Aenglo Dyffros]]: partymate
 
 ### Notes
 

@@ -40,7 +40,7 @@ guild: Burk
 partyID: 9
 tags:
 - Halfling
-- Beleriand
+- Principality_of_the_Palus_Peoples
 - Barbarian
 - Exploration
 - 3rd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Aelisabeth Soliania]]: partymate
-[[Elia Veluthil]]: partymate
-[[Rotheloe Samblar]]: partymate
+- [[Aelisabeth Soliania]]: partymate
+- [[Elia Veluthil]]: partymate
+- [[Rotheloe Samblar]]: partymate
 
 ### Notes
 

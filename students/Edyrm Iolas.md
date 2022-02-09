@@ -37,7 +37,7 @@ guild: Burk
 partyID: 57
 tags:
 - Half-Elf
-- Beleriand
+- Aldercrown_Empire
 - Artificer
 - Diplomacy
 - 2nd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jacus Kosunten]]: partymate
-[[Shenai Inqoul]]: partymate
+- [[Jacus Kosunten]]: partymate
+- [[Shenai Inqoul]]: partymate
 
 ### Notes
 

@@ -40,7 +40,7 @@ guild: Jettenia
 partyID: 66
 tags:
 - Human
-- Aldercrown Empire
+- Aldercrown_Empire
 - Druid
 - Diplomacy
 - 1st
@@ -57,8 +57,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Milae Ditka]]: partymate
-[[Avaery Klaern]]: partymate
+- [[Milae Ditka]]: partymate
+- [[Avaery Klaern]]: partymate
 
 ### Notes
 

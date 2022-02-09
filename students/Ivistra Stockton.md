@@ -42,7 +42,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Tiefling
-- Verdain
+- Aldercrown_Empire
 - Wizard
 - Diplomacy
 - 5th
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Matos Mektal]]: partymate
-[[Adros Tolthe]]: partymate
-[[Selina Ochyllyss]]: partymate
-[[Yorala Tiatha]]: partymate
+- [[Matos Mektal]]: partymate
+- [[Adros Tolthe]]: partymate
+- [[Selina Ochyllyss]]: partymate
+- [[Yorala Tiatha]]: partymate
 
 ### Notes
 

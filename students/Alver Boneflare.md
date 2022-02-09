@@ -43,7 +43,7 @@ guild: Jettenia
 partyID: 68
 tags:
 - Goliath
-- Chillwild Peaks
+- Chillwild_Peaks
 - Cleric
 - Protection
 - 1st
@@ -60,10 +60,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Matto Divya]]: partymate
-[[Ysak Llewellenar]]: partymate
-[[Garan Mirthal]]: partymate
-[[Iasono Ynshael]]: partymate
+- [[Matto Divya]]: partymate
+- [[Ysak Llewellenar]]: partymate
+- [[Garan Mirthal]]: partymate
+- [[Iasono Ynshael]]: partymate
 
 ### Notes
 

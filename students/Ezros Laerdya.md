@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 18
 tags:
 - Elf
-- Floating Island
+- Beleriand
 - Cleric
 - Exploration
 - 1st
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Shinare Bersa]]: partymate
-[[Rjanna Eroan]]: partymate
-[[Valerya Haldreithen]]: partymate
+- [[Shinare Bersa]]: partymate
+- [[Rjanna Eroan]]: partymate
+- [[Valerya Haldreithen]]: partymate
 
 ### Notes
 

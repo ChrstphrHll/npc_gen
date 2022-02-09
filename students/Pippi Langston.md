@@ -40,7 +40,7 @@ guild: Jettenia
 partyID: 4
 tags:
 - Tiefling
-- Aldercrown Empire
+- Beleriand
 - Artificer
 - Assault
 - 6th
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Skalanis Kobayashi]]: partymate
-[[Jerrick Yarbrough]]: partymate
-[[Miglus Yrlissa]]: partymate
+- [[Skalanis Kobayashi]]: partymate
+- [[Jerrick Yarbrough]]: partymate
+- [[Miglus Yrlissa]]: partymate
 
 ### Notes
 

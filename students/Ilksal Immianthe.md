@@ -36,7 +36,7 @@ guild: Treskal
 partyID: 8
 tags:
 - Triton
-- Glasscliff Garisons
+- Whyndiem
 - Barbarian
 - Protection
 - 3rd
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Den Ualair]]: partymate
+- [[Den Ualair]]: partymate
 
 ### Notes
 

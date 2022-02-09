@@ -37,7 +37,7 @@ guild: Alderden
 partyID: 21
 tags:
 - Tiefling
-- Aldercrown Empire
+- Magmus_Centerhold
 - Ranger
 - Diplomacy
 - 4th
@@ -54,7 +54,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Valia Esyae]]: partymate
+- [[Valia Esyae]]: partymate
 
 ### Notes
 

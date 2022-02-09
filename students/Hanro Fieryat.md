@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Rasy Merlara]]: partymate
-[[Jamie Kesefehon]]: partymate
+- [[Rasy Merlara]]: partymate
+- [[Jamie Kesefehon]]: partymate
 
 ### Notes
 

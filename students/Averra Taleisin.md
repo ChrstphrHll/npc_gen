@@ -38,7 +38,7 @@ guild: Burk
 partyID: 31
 tags:
 - Elf
-- Whyndiem
+- Aldercrown_Empire
 - Druid
 - Assault
 - 1st
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Efjan Andrathath]]: partymate
-[[Taanyth Seeker]]: partymate
+- [[Efjan Andrathath]]: partymate
+- [[Taanyth Seeker]]: partymate
 
 ### Notes
 

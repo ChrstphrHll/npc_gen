@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 96
 tags:
 - Half-Elf
-- Aldercrown Empire
+- Floating_Island
 - Barbarian
 - Diplomacy
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Halya Jian]]: partymate
-[[Goetia Mistale]]: partymate
-[[Handyr Letryal]]: partymate
+- [[Halya Jian]]: partymate
+- [[Goetia Mistale]]: partymate
+- [[Handyr Letryal]]: partymate
 
 ### Notes
 

@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 90
 tags:
 - Dragonborn
-- Draconia
+- Magmus_Centerhold
 - Rouge
 - Diplomacy
 - 1st
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Adresin Ilbryn]]: partymate
-[[Kayla Kaminsky]]: partymate
-[[Holys Hachaam]]: partymate
+- [[Adresin Ilbryn]]: partymate
+- [[Kayla Kaminsky]]: partymate
+- [[Holys Hachaam]]: partymate
 
 ### Notes
 

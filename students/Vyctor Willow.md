@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Elf
-- Aldercrown Empire
+- Beleriand
 - Bard
 - Assault
 - 6th
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Karl Cauladra]]: partymate
-[[Varlae Voron]]: partymate
-[[Dree Nuala]]: partymate
-[[Theriss Deularla]]: partymate
+- [[Karl Cauladra]]: partymate
+- [[Varlae Voron]]: partymate
+- [[Dree Nuala]]: partymate
+- [[Theriss Deularla]]: partymate
 
 ### Notes
 

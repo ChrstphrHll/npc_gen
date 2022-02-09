@@ -40,7 +40,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Dragonborn
-- Draconia
+- Magmus_Centerhold
 - Druid
 - Exploration
 - 3rd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Gina Grandius]]: partymate
-[[Leya Escobar]]: partymate
-[[Hanna Estelar]]: partymate
+- [[Gina Grandius]]: partymate
+- [[Leya Escobar]]: partymate
+- [[Hanna Estelar]]: partymate
 
 ### Notes
 

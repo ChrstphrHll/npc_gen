@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 89
 tags:
 - Dragonborn
-- Shadesburry Initiative
+- Draconia
 - Sorcerer
 - Assault
 - 7th
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Pinna Vanius]]: partymate
-[[Delos Ehlark]]: partymate
-[[Kaeli Khiiral]]: partymate
+- [[Pinna Vanius]]: partymate
+- [[Delos Ehlark]]: partymate
+- [[Kaeli Khiiral]]: partymate
 
 ### Notes
 

@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 73
 tags:
 - Dragonborn
-- Draconia
+- Magmus_Centerhold
 - Wizard
 - Assault
 - 2nd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Cirvlon Elpaerae]]: partymate
-[[Gianna Rhistel]]: partymate
+- [[Cirvlon Elpaerae]]: partymate
+- [[Gianna Rhistel]]: partymate
 
 ### Notes
 

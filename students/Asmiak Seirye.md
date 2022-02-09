@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 43
 tags:
 - Human
-- Qualnis
+- Shadesburry_Initiative
 - Paladin
 - Exploration
 - 1st
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kendel Shael]]: partymate
-[[Hessos Adorellan]]: partymate
+- [[Kendel Shael]]: partymate
+- [[Hessos Adorellan]]: partymate
 
 ### Notes
 

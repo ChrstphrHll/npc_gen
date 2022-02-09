@@ -38,7 +38,7 @@ guild: Burk
 partyID: 75
 tags:
 - Firbolg
-- Aldercrown Empire
+- Verdain
 - Monk
 - Protection
 - 4th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Murunay Illfate]]: partymate
-[[Lincon Nylaathria]]: partymate
+- [[Murunay Illfate]]: partymate
+- [[Lincon Nylaathria]]: partymate
 
 ### Notes
 

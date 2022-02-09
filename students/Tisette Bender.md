@@ -39,7 +39,7 @@ guild: Burk
 partyID: 95
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Paladin
 - Assault
 - 1st
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Brinna Muerlara]]: partymate
-[[Pynelope Valhein]]: partymate
-[[Rosherren Haladavar]]: partymate
+- [[Brinna Muerlara]]: partymate
+- [[Pynelope Valhein]]: partymate
+- [[Rosherren Haladavar]]: partymate
 
 ### Notes
 

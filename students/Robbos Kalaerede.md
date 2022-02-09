@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 7
 tags:
 - Half-Elf
-- Aldercrown Empire
+- Aldercrown_Empire
 - Artificer
 - Protection
 - 4th
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Tadita Edraele]]: partymate
-[[Estyn Rhangyl]]: partymate
-[[Melcyn Taeral]]: partymate
+- [[Tadita Edraele]]: partymate
+- [[Estyn Rhangyl]]: partymate
+- [[Melcyn Taeral]]: partymate
 
 ### Notes
 

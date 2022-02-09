@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 42
 tags:
 - Halfling
-- Kordinia
+- Principality_of_the_Palus_Peoples
 - Artificer
 - Diplomacy
 - 6th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Brannos Bellas]]: partymate
-[[Tylor Llewellenar]]: partymate
+- [[Brannos Bellas]]: partymate
+- [[Tylor Llewellenar]]: partymate
 
 ### Notes
 

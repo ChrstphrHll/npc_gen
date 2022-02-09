@@ -39,7 +39,7 @@ guild: Burk
 partyID: 31
 tags:
 - Human
-- Magmus Centerhold
+- Aldercrown_Empire
 - Monk
 - Assault
 - 1st
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Efjan Andrathath]]: partymate
-[[Averra Taleisin]]: partymate
+- [[Efjan Andrathath]]: partymate
+- [[Averra Taleisin]]: partymate
 
 ### Notes
 

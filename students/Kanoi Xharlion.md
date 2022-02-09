@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 84
 tags:
 - Dwarf
-- Beleriand
+- Aldercrown_Empire
 - Artificer
 - Diplomacy
 - 2nd
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Ljuk Vulkor]]: partymate
+- [[Ljuk Vulkor]]: partymate
 
 ### Notes
 

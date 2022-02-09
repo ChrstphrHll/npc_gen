@@ -39,7 +39,7 @@ guild: Burk
 partyID: 86
 tags:
 - Tiefling
-- Principality of the Palus Peoples
+- Verdain
 - Cleric
 - Protection
 - 2nd
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Lyonus Ioelena]]: partymate
-[[Valygar Lyklor]]: partymate
+- [[Lyonus Ioelena]]: partymate
+- [[Valygar Lyklor]]: partymate
 
 ### Notes
 

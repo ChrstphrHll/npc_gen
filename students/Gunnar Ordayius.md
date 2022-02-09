@@ -41,7 +41,7 @@ guild: Burk
 partyID: 59
 tags:
 - Human
-- Aldercrown Empire
+- Aldercrown_Empire
 - Druid
 - Diplomacy
 - 4th
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Noam Shields]]: partymate
-[[Saleas Rilitar]]: partymate
-[[Remus Manchul]]: partymate
+- [[Noam Shields]]: partymate
+- [[Saleas Rilitar]]: partymate
+- [[Remus Manchul]]: partymate
 
 ### Notes
 

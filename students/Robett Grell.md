@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 46
 tags:
 - Dwarf
-- Aldercrown Empire
+- Magmus_Centerhold
 - Monk
 - Assault
 - 6th
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Lenn Schimae]]: partymate
-[[Savanna Ildilyntra]]: partymate
-[[Gifre Edyrm]]: partymate
+- [[Lenn Schimae]]: partymate
+- [[Savanna Ildilyntra]]: partymate
+- [[Gifre Edyrm]]: partymate
 
 ### Notes
 

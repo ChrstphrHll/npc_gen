@@ -52,7 +52,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hartwen Galaeron]]: partymate
+- [[Hartwen Galaeron]]: partymate
 
 ### Notes
 

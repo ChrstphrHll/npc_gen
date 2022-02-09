@@ -35,7 +35,7 @@ guild: Elkenval
 partyID: 76
 tags:
 - Halfling
-- Verdain
+- Kordinia
 - Ranger
 - Protection
 - 4th
@@ -52,7 +52,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Sybasten Simimar]]: partymate
+- [[Sybasten Simimar]]: partymate
 
 ### Notes
 

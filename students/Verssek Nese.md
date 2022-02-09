@@ -38,7 +38,7 @@ guild: Treskal
 partyID: 19
 tags:
 - Half-Elf
-- Beleriand
+- Verdain
 - Artificer
 - Protection
 - 3rd
@@ -55,7 +55,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Favroe Kythaela]]: partymate
+- [[Favroe Kythaela]]: partymate
 
 ### Notes
 

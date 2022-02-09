@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 98
 tags:
 - Elf
-- Beleriand
+- Aldercrown_Empire
 - Monk
 - Protection
 - 3rd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jess Beebe]]: partymate
-[[Halia Dominguez]]: partymate
+- [[Jess Beebe]]: partymate
+- [[Halia Dominguez]]: partymate
 
 ### Notes
 

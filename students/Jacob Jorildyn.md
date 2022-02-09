@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hudsen Elandorr]]: partymate
-[[Brooka Whesker]]: partymate
-[[Gabrila Retra]]: partymate
+- [[Hudsen Elandorr]]: partymate
+- [[Brooka Whesker]]: partymate
+- [[Gabrila Retra]]: partymate
 
 ### Notes
 

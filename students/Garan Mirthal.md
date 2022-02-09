@@ -44,7 +44,7 @@ guild: Jettenia
 partyID: 68
 tags:
 - Halfling
-- Aldercrown Empire
+- Kordinia
 - Ranger
 - Exploration
 - 1st
@@ -61,10 +61,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Matto Divya]]: partymate
-[[Ysak Llewellenar]]: partymate
-[[Alver Boneflare]]: partymate
-[[Iasono Ynshael]]: partymate
+- [[Matto Divya]]: partymate
+- [[Ysak Llewellenar]]: partymate
+- [[Alver Boneflare]]: partymate
+- [[Iasono Ynshael]]: partymate
 
 ### Notes
 

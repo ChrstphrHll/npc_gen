@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Julyo Agassi]]: partymate
-[[Goshwa Khiipaera]]: partymate
-[[Vila Tassarion]]: partymate
+- [[Julyo Agassi]]: partymate
+- [[Goshwa Khiipaera]]: partymate
+- [[Vila Tassarion]]: partymate
 
 ### Notes
 

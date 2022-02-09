@@ -40,7 +40,7 @@ guild: Alderden
 partyID: 56
 tags:
 - Triton
-- Magmus Centerhold
+- Whyndiem
 - Rouge
 - Protection
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Audree Dixon]]: partymate
-[[Aryana Ahrendue]]: partymate
-[[Alkindus Llamryl]]: partymate
+- [[Audree Dixon]]: partymate
+- [[Aryana Ahrendue]]: partymate
+- [[Alkindus Llamryl]]: partymate
 
 ### Notes
 

@@ -58,10 +58,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Gabrilo Kulo]]: partymate
-[[Levio Evindal]]: partymate
-[[Myddin Hastos]]: partymate
-[[Tylus Ytharra]]: partymate
+- [[Gabrilo Kulo]]: partymate
+- [[Levio Evindal]]: partymate
+- [[Myddin Hastos]]: partymate
+- [[Tylus Ytharra]]: partymate
 
 ### Notes
 

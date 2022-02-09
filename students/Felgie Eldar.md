@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 60
 tags:
 - Goliath
-- Chillwild Peaks
+- Chillwild_Peaks
 - Druid
 - Protection
 - 2nd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Selina Bellas]]: partymate
-[[Mateos Elanil]]: partymate
-[[Brianna Kosunten]]: partymate
+- [[Selina Bellas]]: partymate
+- [[Mateos Elanil]]: partymate
+- [[Brianna Kosunten]]: partymate
 
 ### Notes
 

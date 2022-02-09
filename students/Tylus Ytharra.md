@@ -42,7 +42,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Tiefling
-- Magmus Centerhold
+- Principality_of_the_Palus_Peoples
 - Monk
 - Diplomacy
 - 2nd
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Gabrilo Kulo]]: partymate
-[[Mya Nelaeryn]]: partymate
-[[Levio Evindal]]: partymate
-[[Myddin Hastos]]: partymate
+- [[Gabrilo Kulo]]: partymate
+- [[Mya Nelaeryn]]: partymate
+- [[Levio Evindal]]: partymate
+- [[Myddin Hastos]]: partymate
 
 ### Notes
 

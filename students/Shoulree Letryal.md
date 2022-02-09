@@ -39,7 +39,7 @@ guild: Elkenval
 partyID: 88
 tags:
 - Tiefling
-- Aldercrown Empire
+- Aldercrown_Empire
 - Monk
 - Diplomacy
 - 1st
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Alonnos Xanotter]]: partymate
-[[Levi Kicklighter]]: partymate
+- [[Alonnos Xanotter]]: partymate
+- [[Levi Kicklighter]]: partymate
 
 ### Notes
 

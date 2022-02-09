@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Abel Marsh]]: partymate
-[[Uxwy Lazziar]]: partymate
+- [[Abel Marsh]]: partymate
+- [[Uxwy Lazziar]]: partymate
 
 ### Notes
 

@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Surge Fayd]]: partymate
-[[Josius Iliphar]]: partymate
+- [[Surge Fayd]]: partymate
+- [[Josius Iliphar]]: partymate
 
 ### Notes
 

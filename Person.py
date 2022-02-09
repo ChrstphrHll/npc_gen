@@ -80,7 +80,15 @@ class Person:
         tags = [self.race, self.origin]
         for org in self.organizations:
             tags.append(org["name"])
-        return tags
+        return self.process_spaces(tags)
+        
+    def process_spaces(self, list: list) -> list:
+        """Takes a list of strings and returns a list with spaces 
+        replaced by _s"""
+        processed_list = []
+        for element in list:
+            processed_list.append(element.replace(" ", "_"))
+        return processed_list
 
     def __str__(self):
         current_character_description = ""
@@ -91,6 +99,11 @@ class Person:
     def get_file_path(self):
         ##TODO: make sure students directory is present
         return f"students/{self.name}.md"
+
+    def add_organization(self, org: str, status: str):
+        """Adds an organization org of type status to the person"""
+        membership = {"name": org, "type": status}
+        self.organizations.append(membership)
 
     def get_md(self):
         all_lines = []

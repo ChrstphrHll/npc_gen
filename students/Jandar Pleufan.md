@@ -42,7 +42,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Gnome
-- Shadesburry Initiative
+- Beleriand
 - Ranger
 - Protection
 - 1st
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kimbera Alerathla]]: partymate
-[[Allyson Vindinglag]]: partymate
-[[Emilanus Shields]]: partymate
-[[Andrey Rauthomyr]]: partymate
+- [[Kimbera Alerathla]]: partymate
+- [[Allyson Vindinglag]]: partymate
+- [[Emilanus Shields]]: partymate
+- [[Andrey Rauthomyr]]: partymate
 
 ### Notes
 

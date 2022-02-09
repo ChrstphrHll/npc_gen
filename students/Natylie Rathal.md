@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kloya Kershaw]]: partymate
-[[Gavyn Sadalymn]]: partymate
+- [[Kloya Kershaw]]: partymate
+- [[Gavyn Sadalymn]]: partymate
 
 ### Notes
 

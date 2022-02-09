@@ -43,7 +43,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Triton
-- Whyndiem
+- Glasscliff_Garisons
 - Ranger
 - Assault
 - 1st
@@ -60,10 +60,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kova Tamara]]: partymate
-[[Es'beth Yesheln]]: partymate
-[[Jaedyn Arbane]]: partymate
-[[Evylen Nese]]: partymate
+- [[Kova Tamara]]: partymate
+- [[Es'beth Yesheln]]: partymate
+- [[Jaedyn Arbane]]: partymate
+- [[Evylen Nese]]: partymate
 
 ### Notes
 

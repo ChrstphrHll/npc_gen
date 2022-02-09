@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 48
 tags:
 - Human
-- Floating Island
+- Aldercrown_Empire
 - Sorcerer
 - Assault
 - 5th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Abel Marsh]]: partymate
-[[Leonus Triktappic]]: partymate
+- [[Abel Marsh]]: partymate
+- [[Leonus Triktappic]]: partymate
 
 ### Notes
 

@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Eligio Nevarth]]: partymate
-[[Q Yulmanda]]: partymate
+- [[Eligio Nevarth]]: partymate
+- [[Q Yulmanda]]: partymate
 
 ### Notes
 

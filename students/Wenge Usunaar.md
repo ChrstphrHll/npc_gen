@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kembley Ralnor]]: partymate
-[[Celaeno Amkissra]]: partymate
+- [[Kembley Ralnor]]: partymate
+- [[Celaeno Amkissra]]: partymate
 
 ### Notes
 

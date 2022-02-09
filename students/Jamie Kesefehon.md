@@ -37,7 +37,7 @@ guild: Alderden
 partyID: 16
 tags:
 - Gnome
-- Shadesburry Initiative
+- Aldercrown_Empire
 - Sorcerer
 - Diplomacy
 - 1st
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hanro Fieryat]]: partymate
-[[Rasy Merlara]]: partymate
+- [[Hanro Fieryat]]: partymate
+- [[Rasy Merlara]]: partymate
 
 ### Notes
 

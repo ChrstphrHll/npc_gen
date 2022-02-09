@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Coriss Biafyndar]]: partymate
-[[Adamos Taehr]]: partymate
+- [[Coriss Biafyndar]]: partymate
+- [[Adamos Taehr]]: partymate
 
 ### Notes
 

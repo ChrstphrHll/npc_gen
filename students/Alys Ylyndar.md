@@ -54,7 +54,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Brynn Opalul]]: partymate
+- [[Brynn Opalul]]: partymate
 
 ### Notes
 

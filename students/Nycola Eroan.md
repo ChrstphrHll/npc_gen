@@ -57,8 +57,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Aniari Arlayna]]: partymate
-[[Eliana Saevel]]: partymate
+- [[Aniari Arlayna]]: partymate
+- [[Eliana Saevel]]: partymate
 
 ### Notes
 

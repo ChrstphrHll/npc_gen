@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 33
 tags:
 - Triton
-- Whyndiem
+- Aldercrown_Empire
 - Cleric
 - Exploration
 - 2nd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kymber Korrigash]]: partymate
-[[Gormoth Shyrrik]]: partymate
+- [[Kymber Korrigash]]: partymate
+- [[Gormoth Shyrrik]]: partymate
 
 ### Notes
 

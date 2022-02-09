@@ -40,7 +40,7 @@ guild: Burk
 partyID: 93
 tags:
 - Halfling
-- Magmus Centerhold
+- Beleriand
 - Monk
 - Exploration
 - 2nd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Yan Sorsasta]]: partymate
-[[Violetta Coldsprinter]]: partymate
-[[Nicholus Morthil]]: partymate
+- [[Yan Sorsasta]]: partymate
+- [[Violetta Coldsprinter]]: partymate
+- [[Nicholus Morthil]]: partymate
 
 ### Notes
 

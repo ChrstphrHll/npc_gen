@@ -40,7 +40,7 @@ guild: Alderden
 partyID: 56
 tags:
 - Half-Elf
-- Principality of the Palus Peoples
+- Aldercrown_Empire
 - Sorcerer
 - Assault
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Audree Dixon]]: partymate
-[[Aryana Ahrendue]]: partymate
-[[Lea Nuvian]]: partymate
+- [[Audree Dixon]]: partymate
+- [[Aryana Ahrendue]]: partymate
+- [[Lea Nuvian]]: partymate
 
 ### Notes
 

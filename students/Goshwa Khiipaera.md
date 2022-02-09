@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 47
 tags:
 - Firbolg
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Fighter
 - Exploration
 - 5th
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Julyo Agassi]]: partymate
-[[Vila Tassarion]]: partymate
-[[Mavrek Aolis]]: partymate
+- [[Julyo Agassi]]: partymate
+- [[Vila Tassarion]]: partymate
+- [[Mavrek Aolis]]: partymate
 
 ### Notes
 

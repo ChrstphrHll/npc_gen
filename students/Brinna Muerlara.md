@@ -39,7 +39,7 @@ guild: Burk
 partyID: 95
 tags:
 - Halfling
-- Verdain
+- Aldercrown_Empire
 - Barbarian
 - Exploration
 - 1st
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Pynelope Valhein]]: partymate
-[[Rosherren Haladavar]]: partymate
-[[Tisette Bender]]: partymate
+- [[Pynelope Valhein]]: partymate
+- [[Rosherren Haladavar]]: partymate
+- [[Tisette Bender]]: partymate
 
 ### Notes
 

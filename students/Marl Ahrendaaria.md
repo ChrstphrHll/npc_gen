@@ -36,7 +36,7 @@ guild: Jettenia
 partyID: 12
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Fighter
 - Exploration
 - 2nd
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Puorlaas Anklos]]: partymate
+- [[Puorlaas Anklos]]: partymate
 
 ### Notes
 

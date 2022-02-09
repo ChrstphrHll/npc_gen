@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 60
 tags:
 - Aasimar
-- Aldercrown Empire
+- Aldercrown_Empire
 - Paladin
 - Assault
 - 2nd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Mateos Elanil]]: partymate
-[[Brianna Kosunten]]: partymate
-[[Felgie Eldar]]: partymate
+- [[Mateos Elanil]]: partymate
+- [[Brianna Kosunten]]: partymate
+- [[Felgie Eldar]]: partymate
 
 ### Notes
 

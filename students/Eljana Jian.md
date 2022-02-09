@@ -36,7 +36,7 @@ guild: Fiesn
 partyID: 71
 tags:
 - Goliath
-- Chillwild Peaks
+- Chillwild_Peaks
 - Fighter
 - Protection
 - 5th
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Asralyn Rhangyl]]: partymate
+- [[Asralyn Rhangyl]]: partymate
 
 ### Notes
 

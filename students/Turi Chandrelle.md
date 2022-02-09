@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 13
 tags:
 - Gnome
-- Shadesburry Initiative
+- Qualnis
 - Rouge
 - Protection
 - 4th
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kunjal Iefyr]]: partymate
-[[Guliemos Nym]]: partymate
+- [[Kunjal Iefyr]]: partymate
+- [[Guliemos Nym]]: partymate
 
 ### Notes
 

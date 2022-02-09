@@ -40,7 +40,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Gnome
-- Aldercrown Empire
+- Shadesburry_Initiative
 - Monk
 - Protection
 - 5th
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Dylan Usunaar]]: partymate
-[[Delila Felaern]]: partymate
-[[Grace Festus]]: partymate
+- [[Dylan Usunaar]]: partymate
+- [[Delila Felaern]]: partymate
+- [[Grace Festus]]: partymate
 
 ### Notes
 

@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 18
 tags:
 - Tiefling
-- Kordinia
+- Aldercrown_Empire
 - Ranger
 - Exploration
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Ezros Laerdya]]: partymate
-[[Rjanna Eroan]]: partymate
-[[Valerya Haldreithen]]: partymate
+- [[Ezros Laerdya]]: partymate
+- [[Rjanna Eroan]]: partymate
+- [[Valerya Haldreithen]]: partymate
 
 ### Notes
 

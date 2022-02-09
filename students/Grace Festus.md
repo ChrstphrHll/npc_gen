@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Human
-- Aldercrown Empire
+- Magmus_Centerhold
 - Cleric
 - Diplomacy
 - 5th
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Dylan Usunaar]]: partymate
-[[Delila Felaern]]: partymate
-[[Aurikallos Biafyndar]]: partymate
+- [[Dylan Usunaar]]: partymate
+- [[Delila Felaern]]: partymate
+- [[Aurikallos Biafyndar]]: partymate
 
 ### Notes
 

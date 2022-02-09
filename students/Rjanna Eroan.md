@@ -41,7 +41,7 @@ guild: Fiesn
 partyID: 18
 tags:
 - Tiefling
-- Magmus Centerhold
+- Aldercrown_Empire
 - Paladin
 - Protection
 - 1st
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Shinare Bersa]]: partymate
-[[Ezros Laerdya]]: partymate
-[[Valerya Haldreithen]]: partymate
+- [[Shinare Bersa]]: partymate
+- [[Ezros Laerdya]]: partymate
+- [[Valerya Haldreithen]]: partymate
 
 ### Notes
 

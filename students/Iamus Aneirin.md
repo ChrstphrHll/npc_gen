@@ -35,7 +35,7 @@ guild: Treskal
 partyID: 74
 tags:
 - Dwarf
-- Shadesburry Initiative
+- Aldercrown_Empire
 - Paladin
 - Diplomacy
 - 1st
@@ -52,7 +52,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Nebulon Faelyn]]: partymate
+- [[Nebulon Faelyn]]: partymate
 
 ### Notes
 

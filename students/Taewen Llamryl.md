@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 61
 tags:
 - Human
-- Qualnis
+- Aldercrown_Empire
 - Artificer
 - Assault
 - 2nd
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Everen Malfoy]]: partymate
-[[Iaen Dannyd]]: partymate
+- [[Everen Malfoy]]: partymate
+- [[Iaen Dannyd]]: partymate
 
 ### Notes
 

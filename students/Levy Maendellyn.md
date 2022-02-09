@@ -37,7 +37,7 @@ guild: Burk
 partyID: 36
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Fighter
 - Assault
 - 2nd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Isaias Vaalyun]]: partymate
-[[Jacoby Maeraddyth]]: partymate
+- [[Isaias Vaalyun]]: partymate
+- [[Jacoby Maeraddyth]]: partymate
 
 ### Notes
 

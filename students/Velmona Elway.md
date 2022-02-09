@@ -37,7 +37,7 @@ guild: Elkenval
 partyID: 40
 tags:
 - Kenku
-- Aldercrown Empire
+- Black_Rock
 - Monk
 - Assault
 - 1st
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Theodus Chylnoth]]: partymate
-[[Athyn Urddusk]]: partymate
+- [[Theodus Chylnoth]]: partymate
+- [[Athyn Urddusk]]: partymate
 
 ### Notes
 

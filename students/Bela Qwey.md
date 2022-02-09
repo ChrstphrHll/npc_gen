@@ -37,7 +37,7 @@ guild: Treskal
 partyID: 67
 tags:
 - Human
-- Kordinia
+- Aldercrown_Empire
 - Druid
 - Assault
 - 3rd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Rossan Jonik]]: partymate
-[[Lanalia Belt]]: partymate
+- [[Rossan Jonik]]: partymate
+- [[Lanalia Belt]]: partymate
 
 ### Notes
 

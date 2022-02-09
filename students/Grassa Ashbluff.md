@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 25
 tags:
 - Dwarf
-- Floating Island
+- Aldercrown_Empire
 - Artificer
 - Protection
 - 7th
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Braidyn Kemetra]]: partymate
-[[Brithmaur Decker]]: partymate
+- [[Braidyn Kemetra]]: partymate
+- [[Brithmaur Decker]]: partymate
 
 ### Notes
 

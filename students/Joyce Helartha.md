@@ -37,7 +37,7 @@ guild: Treskal
 partyID: 78
 tags:
 - Halfling
-- Verdain
+- Principality_of_the_Palus_Peoples
 - Cleric
 - Diplomacy
 - 1st
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Maia Ashsorrow]]: partymate
-[[Hanna Arkhun]]: partymate
+- [[Maia Ashsorrow]]: partymate
+- [[Hanna Arkhun]]: partymate
 
 ### Notes
 

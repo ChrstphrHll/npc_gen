@@ -40,7 +40,7 @@ guild: Burk
 partyID: 38
 tags:
 - Half-Elf
-- Shadesburry Initiative
+- Beleriand
 - Druid
 - Diplomacy
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hodus Belt]]: partymate
-[[Shike Thalaera]]: partymate
-[[Genesys Mhaenal]]: partymate
+- [[Hodus Belt]]: partymate
+- [[Shike Thalaera]]: partymate
+- [[Genesys Mhaenal]]: partymate
 
 ### Notes
 

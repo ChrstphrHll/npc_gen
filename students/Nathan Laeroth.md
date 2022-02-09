@@ -38,7 +38,7 @@ guild: Elkenval
 partyID: 64
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Artificer
 - Diplomacy
 - 1st
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jendrellian Webb]]: partymate
-[[Pike Tethir]]: partymate
+- [[Jendrellian Webb]]: partymate
+- [[Pike Tethir]]: partymate
 
 ### Notes
 

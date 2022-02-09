@@ -37,7 +37,7 @@ guild: Burk
 partyID: 1
 tags:
 - Half-Orc
-- Aldercrown Empire
+- Chillwild_Peaks
 - Barbarian
 - Exploration
 - 6th
@@ -54,7 +54,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Secarr Ashbluff]]: partymate
+- [[Secarr Ashbluff]]: partymate
 
 ### Notes
 

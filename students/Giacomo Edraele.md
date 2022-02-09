@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Human
-- Aldercrown Empire
+- Aldercrown_Empire
 - Druid
 - Diplomacy
 - 2nd
@@ -59,9 +59,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Matrell Halafarin]]: partymate
-[[Santaegus Etter]]: partymate
-[[Yoshen Arcaena]]: partymate
+- [[Matrell Halafarin]]: partymate
+- [[Santaegus Etter]]: partymate
+- [[Yoshen Arcaena]]: partymate
 
 ### Notes
 

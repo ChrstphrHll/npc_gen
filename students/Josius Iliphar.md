@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 15
 tags:
 - Genasi
-- Magmus Centerhold
+- Magmus_Centerhold
 - Rouge
 - Assault
 - 7th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Surge Fayd]]: partymate
-[[Delsenora Strohm]]: partymate
+- [[Surge Fayd]]: partymate
+- [[Delsenora Strohm]]: partymate
 
 ### Notes
 

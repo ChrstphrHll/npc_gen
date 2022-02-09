@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Romen Uldreiyn]]: partymate
-[[Brahm Delmuth]]: partymate
-[[Rianna Belt]]: partymate
-[[Tez Bialaer]]: partymate
+- [[Romen Uldreiyn]]: partymate
+- [[Brahm Delmuth]]: partymate
+- [[Rianna Belt]]: partymate
+- [[Tez Bialaer]]: partymate
 
 ### Notes
 

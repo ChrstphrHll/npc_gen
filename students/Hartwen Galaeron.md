@@ -36,7 +36,7 @@ guild: Alderden
 partyID: 52
 tags:
 - Human
-- Beleriand
+- Qualnis
 - Cleric
 - Diplomacy
 - 2nd
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Ian Averescu]]: partymate
+- [[Ian Averescu]]: partymate
 
 ### Notes
 

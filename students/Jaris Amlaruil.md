@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jareth Tanseril]]: partymate
-[[Aksel Strohm]]: partymate
+- [[Jareth Tanseril]]: partymate
+- [[Aksel Strohm]]: partymate
 
 ### Notes
 

@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Noam Shields]]: partymate
-[[Gunnar Ordayius]]: partymate
-[[Remus Manchul]]: partymate
+- [[Noam Shields]]: partymate
+- [[Gunnar Ordayius]]: partymate
+- [[Remus Manchul]]: partymate
 
 ### Notes
 

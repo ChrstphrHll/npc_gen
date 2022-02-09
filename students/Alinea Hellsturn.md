@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 11
 tags:
 - Elf
-- Aldercrown Empire
+- Beleriand
 - Ranger
 - Assault
 - 5th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Tommos Morgan]]: partymate
-[[Jacomo Jacaranda]]: partymate
+- [[Tommos Morgan]]: partymate
+- [[Jacomo Jacaranda]]: partymate
 
 ### Notes
 

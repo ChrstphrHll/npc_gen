@@ -38,7 +38,7 @@ guild: Burk
 partyID: 86
 tags:
 - Firbolg
-- Magmus Centerhold
+- Aldercrown_Empire
 - Cleric
 - Protection
 - 2nd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Lyonus Ioelena]]: partymate
-[[Hagar Sakrattars]]: partymate
+- [[Lyonus Ioelena]]: partymate
+- [[Hagar Sakrattars]]: partymate
 
 ### Notes
 

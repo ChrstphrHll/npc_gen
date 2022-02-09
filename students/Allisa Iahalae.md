@@ -38,7 +38,7 @@ guild: Elkenval
 partyID: 2
 tags:
 - Half-Elf
-- Aldercrown Empire
+- Principality_of_the_Palus_Peoples
 - Sorcerer
 - Protection
 - 1st
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Aidyn Glynnii]]: partymate
-[[Jothen Elway]]: partymate
+- [[Aidyn Glynnii]]: partymate
+- [[Jothen Elway]]: partymate
 
 ### Notes
 

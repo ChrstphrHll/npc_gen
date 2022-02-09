@@ -1,11 +1,13 @@
+import random
+
 class Organization():
     def __init__(self, name, size, validators):
         self.name = name
         self.size = size
         self.validators = validators
         self.members = []
-        self.leaders = []
-        self.supervisors = []
+        self.head = None
+        self.leadership = []
 
     def fill_out_roster(self, students: list):
         roster = []
@@ -24,4 +26,30 @@ class Organization():
     
         self.members = roster
     
-    
+    def select_leadership(self):
+        """Put various people in leadership positions"""
+        ##Select head of the club
+        top_dog = self.members[0]
+        for student in self.members:
+            if student.year > top_dog.year:
+                top_dog = student
+        
+        self.head = top_dog
+        top_dog.add_organization(self.name, "Leader")
+        self.members.remove(top_dog)
+
+        ##Select supporting leadership
+        non_first_years = filter(lambda x: x.year > 1, self.members)
+        number_supporting_leadership = len(non_first_years) // 10
+        sup_leadership = random.choices(non_first_years, k = number_supporting_leadership)
+        for student in sup_leadership:
+            student.add_organization(self.name, "Leadership")
+
+        ##TODO find out a way to do tags that dont get erased
+
+    def codify_students(self):
+        """Adds this organization to the student's list"""
+        for student in self.members:
+            student.add_organization(self.name, "Member")
+
+

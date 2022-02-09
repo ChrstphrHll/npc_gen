@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 42
 tags:
 - Human
-- Floating Island
+- Principality_of_the_Palus_Peoples
 - Barbarian
 - Protection
 - 6th
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Tylor Llewellenar]]: partymate
-[[Ragnar Illitran]]: partymate
+- [[Tylor Llewellenar]]: partymate
+- [[Ragnar Illitran]]: partymate
 
 ### Notes
 

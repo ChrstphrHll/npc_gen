@@ -54,7 +54,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Eljana Jian]]: partymate
+- [[Eljana Jian]]: partymate
 
 ### Notes
 

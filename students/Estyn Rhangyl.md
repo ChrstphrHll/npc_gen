@@ -41,7 +41,7 @@ guild: Treskal
 partyID: 7
 tags:
 - Dragonborn
-- Aldercrown Empire
+- Draconia
 - Artificer
 - Protection
 - 4th
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Tadita Edraele]]: partymate
-[[Melcyn Taeral]]: partymate
-[[Robbos Kalaerede]]: partymate
+- [[Tadita Edraele]]: partymate
+- [[Melcyn Taeral]]: partymate
+- [[Robbos Kalaerede]]: partymate
 
 ### Notes
 

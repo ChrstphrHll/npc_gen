@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 7
 tags:
 - Firbolg
-- Aldercrown Empire
+- Verdain
 - Sorcerer
 - Diplomacy
 - 4th
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Tadita Edraele]]: partymate
-[[Estyn Rhangyl]]: partymate
-[[Robbos Kalaerede]]: partymate
+- [[Tadita Edraele]]: partymate
+- [[Estyn Rhangyl]]: partymate
+- [[Robbos Kalaerede]]: partymate
 
 ### Notes
 

@@ -39,7 +39,7 @@ guild: Treskal
 partyID: 45
 tags:
 - Half-Elf
-- Aldercrown Empire
+- Aldercrown_Empire
 - Fighter
 - Diplomacy
 - 3rd
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hudsen Elandorr]]: partymate
-[[Jacob Jorildyn]]: partymate
-[[Gabrila Retra]]: partymate
+- [[Hudsen Elandorr]]: partymate
+- [[Jacob Jorildyn]]: partymate
+- [[Gabrila Retra]]: partymate
 
 ### Notes
 

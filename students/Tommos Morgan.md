@@ -37,7 +37,7 @@ guild: Alderden
 partyID: 11
 tags:
 - Elf
-- Beleriand
+- Aldercrown_Empire
 - Sorcerer
 - Exploration
 - 5th
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Alinea Hellsturn]]: partymate
-[[Jacomo Jacaranda]]: partymate
+- [[Alinea Hellsturn]]: partymate
+- [[Jacomo Jacaranda]]: partymate
 
 ### Notes
 

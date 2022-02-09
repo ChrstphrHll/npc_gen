@@ -40,7 +40,7 @@ guild: Elkenval
 partyID: 90
 tags:
 - Genasi
-- Magmus Centerhold
+- Magmus_Centerhold
 - Paladin
 - Exploration
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Diegon Verrona]]: partymate
-[[Kayla Kaminsky]]: partymate
-[[Holys Hachaam]]: partymate
+- [[Diegon Verrona]]: partymate
+- [[Kayla Kaminsky]]: partymate
+- [[Holys Hachaam]]: partymate
 
 ### Notes
 

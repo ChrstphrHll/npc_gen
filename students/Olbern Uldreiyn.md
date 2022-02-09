@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Connovar Kaminsky]]: partymate
+- [[Connovar Kaminsky]]: partymate
 
 ### Notes
 

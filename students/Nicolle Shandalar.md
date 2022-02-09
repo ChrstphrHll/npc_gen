@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Wulfe Galan]]: partymate
-[[Yakob Lydialeera]]: partymate
-[[Lichie Halliwell]]: partymate
+- [[Wulfe Galan]]: partymate
+- [[Yakob Lydialeera]]: partymate
+- [[Lichie Halliwell]]: partymate
 
 ### Notes
 

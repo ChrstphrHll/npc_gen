@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Gnome
-- Verdain
+- Aldercrown_Empire
 - Rouge
 - Diplomacy
 - 6th
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Vyctor Willow]]: partymate
-[[Karl Cauladra]]: partymate
-[[Varlae Voron]]: partymate
-[[Theriss Deularla]]: partymate
+- [[Vyctor Willow]]: partymate
+- [[Karl Cauladra]]: partymate
+- [[Varlae Voron]]: partymate
+- [[Theriss Deularla]]: partymate
 
 ### Notes
 

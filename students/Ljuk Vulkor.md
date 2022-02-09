@@ -35,7 +35,7 @@ guild: Elkenval
 partyID: 84
 tags:
 - Dwarf
-- Shadesburry Initiative
+- Principality_of_the_Palus_Peoples
 - Sorcerer
 - Assault
 - 2nd
@@ -52,7 +52,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kanoi Xharlion]]: partymate
+- [[Kanoi Xharlion]]: partymate
 
 ### Notes
 

@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Railyn Retenia]]: partymate
-[[Cartyr Tamsin]]: partymate
-[[Jaxon Brindarry]]: partymate
+- [[Railyn Retenia]]: partymate
+- [[Cartyr Tamsin]]: partymate
+- [[Jaxon Brindarry]]: partymate
 
 ### Notes
 

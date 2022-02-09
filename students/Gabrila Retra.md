@@ -39,7 +39,7 @@ guild: Treskal
 partyID: 45
 tags:
 - Dwarf
-- Magmus Centerhold
+- Aldercrown_Empire
 - Druid
 - Diplomacy
 - 3rd
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hudsen Elandorr]]: partymate
-[[Brooka Whesker]]: partymate
-[[Jacob Jorildyn]]: partymate
+- [[Hudsen Elandorr]]: partymate
+- [[Brooka Whesker]]: partymate
+- [[Jacob Jorildyn]]: partymate
 
 ### Notes
 

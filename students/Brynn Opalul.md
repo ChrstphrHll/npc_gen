@@ -37,7 +37,7 @@ guild: Burk
 partyID: 39
 tags:
 - Tiefling
-- Aldercrown Empire
+- Aldercrown_Empire
 - Paladin
 - Exploration
 - 3rd
@@ -54,7 +54,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Alys Ylyndar]]: partymate
+- [[Alys Ylyndar]]: partymate
 
 ### Notes
 

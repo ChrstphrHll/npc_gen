@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Firbolg
-- Aldercrown Empire
+- Verdain
 - Fighter
 - Assault
 - 1st
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Adrjia Lysanthir]]: partymate
-[[Es'beth Yesheln]]: partymate
-[[Jaedyn Arbane]]: partymate
-[[Evylen Nese]]: partymate
+- [[Adrjia Lysanthir]]: partymate
+- [[Es'beth Yesheln]]: partymate
+- [[Jaedyn Arbane]]: partymate
+- [[Evylen Nese]]: partymate
 
 ### Notes
 

@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Cleric
 - Protection
 - 6th
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Vyctor Willow]]: partymate
-[[Karl Cauladra]]: partymate
-[[Varlae Voron]]: partymate
-[[Dree Nuala]]: partymate
+- [[Vyctor Willow]]: partymate
+- [[Karl Cauladra]]: partymate
+- [[Varlae Voron]]: partymate
+- [[Dree Nuala]]: partymate
 
 ### Notes
 

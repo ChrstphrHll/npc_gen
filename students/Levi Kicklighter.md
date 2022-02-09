@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Alonnos Xanotter]]: partymate
-[[Shoulree Letryal]]: partymate
+- [[Alonnos Xanotter]]: partymate
+- [[Shoulree Letryal]]: partymate
 
 ### Notes
 

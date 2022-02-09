@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 54
 tags:
 - Human
-- Qualnis
+- Aldercrown_Empire
 - Wizard
 - Assault
 - 2nd
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Liris Bhyrindaar]]: partymate
-[[Caeleb Embrae]]: partymate
+- [[Liris Bhyrindaar]]: partymate
+- [[Caeleb Embrae]]: partymate
 
 ### Notes
 

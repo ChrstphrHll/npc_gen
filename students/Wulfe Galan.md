@@ -42,7 +42,7 @@ guild: Elkenval
 partyID: 82
 tags:
 - Genasi
-- Magmus Centerhold
+- Beleriand
 - Paladin
 - Assault
 - 1st
@@ -59,9 +59,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Yakob Lydialeera]]: partymate
-[[Nicolle Shandalar]]: partymate
-[[Lichie Halliwell]]: partymate
+- [[Yakob Lydialeera]]: partymate
+- [[Nicolle Shandalar]]: partymate
+- [[Lichie Halliwell]]: partymate
 
 ### Notes
 

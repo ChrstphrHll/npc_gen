@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 80
 tags:
 - Half-Orc
-- Verdain
+- Magmus_Centerhold
 - Sorcerer
 - Protection
 - 8th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Celaeno Amkissra]]: partymate
-[[Wenge Usunaar]]: partymate
+- [[Celaeno Amkissra]]: partymate
+- [[Wenge Usunaar]]: partymate
 
 ### Notes
 

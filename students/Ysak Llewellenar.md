@@ -41,7 +41,7 @@ guild: Jettenia
 partyID: 68
 tags:
 - Dragonborn
-- Draconia
+- Magmus_Centerhold
 - Paladin
 - Assault
 - 1st
@@ -58,10 +58,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Matto Divya]]: partymate
-[[Alver Boneflare]]: partymate
-[[Garan Mirthal]]: partymate
-[[Iasono Ynshael]]: partymate
+- [[Matto Divya]]: partymate
+- [[Alver Boneflare]]: partymate
+- [[Garan Mirthal]]: partymate
+- [[Iasono Ynshael]]: partymate
 
 ### Notes
 

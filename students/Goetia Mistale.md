@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 96
 tags:
 - Human
-- Aldercrown Empire
+- Qualnis
 - Druid
 - Diplomacy
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Halya Jian]]: partymate
-[[Victor Gaelira]]: partymate
-[[Handyr Letryal]]: partymate
+- [[Halya Jian]]: partymate
+- [[Victor Gaelira]]: partymate
+- [[Handyr Letryal]]: partymate
 
 ### Notes
 

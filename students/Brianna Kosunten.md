@@ -39,7 +39,7 @@ guild: Fiesn
 partyID: 60
 tags:
 - Dwarf
-- Aldercrown Empire
+- Shadesburry_Initiative
 - Fighter
 - Assault
 - 2nd
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Selina Bellas]]: partymate
-[[Mateos Elanil]]: partymate
-[[Felgie Eldar]]: partymate
+- [[Selina Bellas]]: partymate
+- [[Mateos Elanil]]: partymate
+- [[Felgie Eldar]]: partymate
 
 ### Notes
 

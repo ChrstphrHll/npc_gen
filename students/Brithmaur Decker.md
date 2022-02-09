@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 25
 tags:
 - Half-Orc
-- Principality of the Palus Peoples
+- Magmus_Centerhold
 - Druid
 - Diplomacy
 - 7th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Grassa Ashbluff]]: partymate
-[[Braidyn Kemetra]]: partymate
+- [[Grassa Ashbluff]]: partymate
+- [[Braidyn Kemetra]]: partymate
 
 ### Notes
 

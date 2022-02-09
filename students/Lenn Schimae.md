@@ -39,7 +39,7 @@ guild: Treskal
 partyID: 46
 tags:
 - Human
-- Principality of the Palus Peoples
+- Qualnis
 - Barbarian
 - Assault
 - 6th
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Robett Grell]]: partymate
-[[Savanna Ildilyntra]]: partymate
-[[Gifre Edyrm]]: partymate
+- [[Robett Grell]]: partymate
+- [[Savanna Ildilyntra]]: partymate
+- [[Gifre Edyrm]]: partymate
 
 ### Notes
 

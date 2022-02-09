@@ -39,7 +39,7 @@ guild: Treskal
 partyID: 46
 tags:
 - Half-Elf
-- Beleriand
+- Magmus_Centerhold
 - Paladin
 - Exploration
 - 6th
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Lenn Schimae]]: partymate
-[[Robett Grell]]: partymate
-[[Savanna Ildilyntra]]: partymate
+- [[Lenn Schimae]]: partymate
+- [[Robett Grell]]: partymate
+- [[Savanna Ildilyntra]]: partymate
 
 ### Notes
 

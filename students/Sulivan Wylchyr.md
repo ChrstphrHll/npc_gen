@@ -36,7 +36,7 @@ guild: Elkenval
 partyID: 50
 tags:
 - Dragonborn
-- Draconia
+- Magmus_Centerhold
 - Monk
 - Exploration
 - 2nd
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Gorlas Vhoadan]]: partymate
+- [[Gorlas Vhoadan]]: partymate
 
 ### Notes
 

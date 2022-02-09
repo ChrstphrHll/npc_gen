@@ -39,7 +39,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Half-Orc
-- Principality of the Palus Peoples
+- Shadesburry_Initiative
 - Cleric
 - Assault
 - 2nd
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Willam Ardryll]]: partymate
-[[Themistoklea Nevarth]]: partymate
-[[Lucoe Lorelei]]: partymate
+- [[Willam Ardryll]]: partymate
+- [[Themistoklea Nevarth]]: partymate
+- [[Lucoe Lorelei]]: partymate
 
 ### Notes
 

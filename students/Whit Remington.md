@@ -36,7 +36,7 @@ guild: Burk
 partyID: 41
 tags:
 - Triton
-- Kordinia
+- Whyndiem
 - Wizard
 - Protection
 - 1st
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hazel Traeliorn]]: partymate
+- [[Hazel Traeliorn]]: partymate
 
 ### Notes
 

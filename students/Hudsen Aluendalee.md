@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 37
 tags:
 - Half-Elf
-- Aldercrown Empire
+- Aldercrown_Empire
 - Wizard
 - Exploration
 - 4th
@@ -54,7 +54,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Astinus Sythaeryn]]: partymate
+- [[Astinus Sythaeryn]]: partymate
 
 ### Notes
 

@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kunjal Iefyr]]: partymate
-[[Turi Chandrelle]]: partymate
+- [[Kunjal Iefyr]]: partymate
+- [[Turi Chandrelle]]: partymate
 
 ### Notes
 

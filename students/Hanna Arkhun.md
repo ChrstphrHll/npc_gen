@@ -37,7 +37,7 @@ guild: Treskal
 partyID: 78
 tags:
 - Triton
-- Whyndiem
+- Glasscliff_Garisons
 - Paladin
 - Protection
 - 1st
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Maia Ashsorrow]]: partymate
-[[Joyce Helartha]]: partymate
+- [[Maia Ashsorrow]]: partymate
+- [[Joyce Helartha]]: partymate
 
 ### Notes
 

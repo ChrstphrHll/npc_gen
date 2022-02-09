@@ -41,7 +41,7 @@ guild: Treskal
 partyID: 46
 tags:
 - Halfling
-- Kordinia
+- Principality_of_the_Palus_Peoples
 - Cleric
 - Diplomacy
 - 6th
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Lenn Schimae]]: partymate
-[[Robett Grell]]: partymate
-[[Gifre Edyrm]]: partymate
+- [[Lenn Schimae]]: partymate
+- [[Robett Grell]]: partymate
+- [[Gifre Edyrm]]: partymate
 
 ### Notes
 

@@ -37,7 +37,7 @@ guild: Treskal
 partyID: 78
 tags:
 - Halfling
-- Magmus Centerhold
+- Aldercrown_Empire
 - Rouge
 - Assault
 - 1st
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hanna Arkhun]]: partymate
-[[Joyce Helartha]]: partymate
+- [[Hanna Arkhun]]: partymate
+- [[Joyce Helartha]]: partymate
 
 ### Notes
 

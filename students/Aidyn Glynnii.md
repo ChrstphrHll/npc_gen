@@ -38,7 +38,7 @@ guild: Elkenval
 partyID: 2
 tags:
 - Half-Orc
-- Verdain
+- Aldercrown_Empire
 - Monk
 - Exploration
 - 1st
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jothen Elway]]: partymate
-[[Allisa Iahalae]]: partymate
+- [[Jothen Elway]]: partymate
+- [[Allisa Iahalae]]: partymate
 
 ### Notes
 

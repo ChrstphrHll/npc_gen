@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 25
 tags:
 - Dwarf
-- Aldercrown Empire
+- Aldercrown_Empire
 - Monk
 - Exploration
 - 7th
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Grassa Ashbluff]]: partymate
-[[Brithmaur Decker]]: partymate
+- [[Grassa Ashbluff]]: partymate
+- [[Brithmaur Decker]]: partymate
 
 ### Notes
 

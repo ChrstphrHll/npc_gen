@@ -35,7 +35,7 @@ guild: Alderden
 partyID: 21
 tags:
 - Elf
-- Magmus Centerhold
+- Beleriand
 - Monk
 - Assault
 - 4th
@@ -52,7 +52,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Volkos Halaema]]: partymate
+- [[Volkos Halaema]]: partymate
 
 ### Notes
 

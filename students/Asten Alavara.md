@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 87
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Wizard
 - Diplomacy
 - 6th
@@ -54,7 +54,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Alyx Nopos]]: partymate
+- [[Alyx Nopos]]: partymate
 
 ### Notes
 

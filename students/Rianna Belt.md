@@ -42,7 +42,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Elf
-- Beleriand
+- Aldercrown_Empire
 - Barbarian
 - Assault
 - 8th
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Romen Uldreiyn]]: partymate
-[[Brahm Delmuth]]: partymate
-[[Tez Bialaer]]: partymate
-[[Zylphan Molostroi]]: partymate
+- [[Romen Uldreiyn]]: partymate
+- [[Brahm Delmuth]]: partymate
+- [[Tez Bialaer]]: partymate
+- [[Zylphan Molostroi]]: partymate
 
 ### Notes
 

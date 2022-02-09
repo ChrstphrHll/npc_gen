@@ -40,7 +40,7 @@ guild: Jettenia
 partyID: 28
 tags:
 - Half-Orc
-- Magmus Centerhold
+- Magmus_Centerhold
 - Ranger
 - Assault
 - 3rd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Cartyr Tamsin]]: partymate
-[[Jovos Seldanna]]: partymate
-[[Jaxon Brindarry]]: partymate
+- [[Cartyr Tamsin]]: partymate
+- [[Jovos Seldanna]]: partymate
+- [[Jaxon Brindarry]]: partymate
 
 ### Notes
 

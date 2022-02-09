@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Halfling
-- Kordinia
+- Principality_of_the_Palus_Peoples
 - Fighter
 - Exploration
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Nolyn Viska]]: partymate
-[[Vaervenshalice Eloen]]: partymate
-[[Dejana Keller]]: partymate
+- [[Nolyn Viska]]: partymate
+- [[Vaervenshalice Eloen]]: partymate
+- [[Dejana Keller]]: partymate
 
 ### Notes
 

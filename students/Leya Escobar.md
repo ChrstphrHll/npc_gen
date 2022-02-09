@@ -40,7 +40,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Human
-- Beleriand
+- Aldercrown_Empire
 - Fighter
 - Assault
 - 3rd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Gina Grandius]]: partymate
-[[Ramona Saida]]: partymate
-[[Hanna Estelar]]: partymate
+- [[Gina Grandius]]: partymate
+- [[Ramona Saida]]: partymate
+- [[Hanna Estelar]]: partymate
 
 ### Notes
 

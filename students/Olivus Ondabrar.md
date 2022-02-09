@@ -36,7 +36,7 @@ guild: Fiesn
 partyID: 85
 tags:
 - Halfling
-- Aldercrown Empire
+- Magmus_Centerhold
 - Wizard
 - Assault
 - 3rd
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Nom Remington]]: partymate
+- [[Nom Remington]]: partymate
 
 ### Notes
 

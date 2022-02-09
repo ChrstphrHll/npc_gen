@@ -37,7 +37,7 @@ guild: Treskal
 partyID: 74
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Ranger
 - Assault
 - 1st
@@ -54,7 +54,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Iamus Aneirin]]: partymate
+- [[Iamus Aneirin]]: partymate
 
 ### Notes
 

@@ -34,8 +34,11 @@ def update_hair(person):
 def update_origin(person):
     person.origin = ori_gen.get_origin(person.race)
 
+def refresh_tags(person: Student):
+    person.tags = person.create_tags()
+
 # update_roster(read.load_roster(), [update_eyes])
 
 if __name__ == "__main__":
-    #update_roster(read.load_roster(), [update_hair, update_origin])
-    v.main()
+    update_roster(read.load_roster(), [refresh_tags])
+    #v.main()

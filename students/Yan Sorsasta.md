@@ -39,7 +39,7 @@ guild: Burk
 partyID: 93
 tags:
 - Dwarf
-- Aldercrown Empire
+- Aldercrown_Empire
 - Barbarian
 - Diplomacy
 - 2nd
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Abryia Rubrae]]: partymate
-[[Violetta Coldsprinter]]: partymate
-[[Nicholus Morthil]]: partymate
+- [[Abryia Rubrae]]: partymate
+- [[Violetta Coldsprinter]]: partymate
+- [[Nicholus Morthil]]: partymate
 
 ### Notes
 

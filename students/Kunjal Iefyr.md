@@ -57,8 +57,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Guliemos Nym]]: partymate
-[[Turi Chandrelle]]: partymate
+- [[Guliemos Nym]]: partymate
+- [[Turi Chandrelle]]: partymate
 
 ### Notes
 

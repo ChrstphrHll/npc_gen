@@ -42,7 +42,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Half-Orc
-- Chillwild Peaks
+- Aldercrown_Empire
 - Paladin
 - Exploration
 - 8th
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Romen Uldreiyn]]: partymate
-[[Rianna Belt]]: partymate
-[[Tez Bialaer]]: partymate
-[[Zylphan Molostroi]]: partymate
+- [[Romen Uldreiyn]]: partymate
+- [[Rianna Belt]]: partymate
+- [[Tez Bialaer]]: partymate
+- [[Zylphan Molostroi]]: partymate
 
 ### Notes
 

@@ -40,7 +40,7 @@ guild: Fiesn
 partyID: 98
 tags:
 - Triton
-- Glasscliff Garisons
+- Glasscliff_Garisons
 - Paladin
 - Protection
 - 3rd
@@ -57,8 +57,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jess Beebe]]: partymate
-[[Tyego Sinaht]]: partymate
+- [[Jess Beebe]]: partymate
+- [[Tyego Sinaht]]: partymate
 
 ### Notes
 

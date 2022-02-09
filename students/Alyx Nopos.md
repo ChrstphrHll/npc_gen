@@ -35,7 +35,7 @@ guild: Fiesn
 partyID: 87
 tags:
 - Tiefling
-- Aldercrown Empire
+- Magmus_Centerhold
 - Rouge
 - Assault
 - 6th
@@ -52,7 +52,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Asten Alavara]]: partymate
+- [[Asten Alavara]]: partymate
 
 ### Notes
 

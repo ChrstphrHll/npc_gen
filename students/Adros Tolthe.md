@@ -42,7 +42,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Goliath
-- Aldercrown Empire
+- Chillwild_Peaks
 - Bard
 - Exploration
 - 5th
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Matos Mektal]]: partymate
-[[Selina Ochyllyss]]: partymate
-[[Yorala Tiatha]]: partymate
-[[Ivistra Stockton]]: partymate
+- [[Matos Mektal]]: partymate
+- [[Selina Ochyllyss]]: partymate
+- [[Yorala Tiatha]]: partymate
+- [[Ivistra Stockton]]: partymate
 
 ### Notes
 

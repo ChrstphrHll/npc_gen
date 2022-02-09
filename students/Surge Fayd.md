@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Josius Iliphar]]: partymate
-[[Delsenora Strohm]]: partymate
+- [[Josius Iliphar]]: partymate
+- [[Delsenora Strohm]]: partymate
 
 ### Notes
 

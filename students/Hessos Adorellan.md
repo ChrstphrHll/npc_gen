@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 43
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Wizard
 - Exploration
 - 1st
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kendel Shael]]: partymate
-[[Asmiak Seirye]]: partymate
+- [[Kendel Shael]]: partymate
+- [[Asmiak Seirye]]: partymate
 
 ### Notes
 

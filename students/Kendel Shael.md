@@ -38,7 +38,7 @@ guild: Alderden
 partyID: 43
 tags:
 - Firbolg
-- Principality of the Palus Peoples
+- Verdain
 - Rouge
 - Exploration
 - 1st
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hessos Adorellan]]: partymate
-[[Asmiak Seirye]]: partymate
+- [[Hessos Adorellan]]: partymate
+- [[Asmiak Seirye]]: partymate
 
 ### Notes
 

@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Railyn Retenia]]: partymate
-[[Jovos Seldanna]]: partymate
-[[Jaxon Brindarry]]: partymate
+- [[Railyn Retenia]]: partymate
+- [[Jovos Seldanna]]: partymate
+- [[Jaxon Brindarry]]: partymate
 
 ### Notes
 

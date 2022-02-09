@@ -40,7 +40,7 @@ guild: Burk
 partyID: 93
 tags:
 - Half-Orc
-- Qualnis
+- Magmus_Centerhold
 - Fighter
 - Assault
 - 2nd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Abryia Rubrae]]: partymate
-[[Yan Sorsasta]]: partymate
-[[Nicholus Morthil]]: partymate
+- [[Abryia Rubrae]]: partymate
+- [[Yan Sorsasta]]: partymate
+- [[Nicholus Morthil]]: partymate
 
 ### Notes
 

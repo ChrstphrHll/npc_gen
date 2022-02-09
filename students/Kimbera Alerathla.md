@@ -42,7 +42,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Human
-- Beleriand
+- Verdain
 - Druid
 - Assault
 - 1st
@@ -59,10 +59,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jandar Pleufan]]: partymate
-[[Allyson Vindinglag]]: partymate
-[[Emilanus Shields]]: partymate
-[[Andrey Rauthomyr]]: partymate
+- [[Jandar Pleufan]]: partymate
+- [[Allyson Vindinglag]]: partymate
+- [[Emilanus Shields]]: partymate
+- [[Andrey Rauthomyr]]: partymate
 
 ### Notes
 

@@ -41,7 +41,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Rouge
 - Protection
 - 1st
@@ -58,10 +58,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kova Tamara]]: partymate
-[[Adrjia Lysanthir]]: partymate
-[[Es'beth Yesheln]]: partymate
-[[Jaedyn Arbane]]: partymate
+- [[Kova Tamara]]: partymate
+- [[Adrjia Lysanthir]]: partymate
+- [[Es'beth Yesheln]]: partymate
+- [[Jaedyn Arbane]]: partymate
 
 ### Notes
 

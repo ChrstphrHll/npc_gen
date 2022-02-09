@@ -40,7 +40,7 @@ guild: Burk
 partyID: 38
 tags:
 - Elf
-- Aldercrown Empire
+- Kordinia
 - Bard
 - Assault
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Shike Thalaera]]: partymate
-[[Delja Iefyr]]: partymate
-[[Genesys Mhaenal]]: partymate
+- [[Shike Thalaera]]: partymate
+- [[Delja Iefyr]]: partymate
+- [[Genesys Mhaenal]]: partymate
 
 ### Notes
 

@@ -38,7 +38,7 @@ guild: Elkenval
 partyID: 77
 tags:
 - Elf
-- Beleriand
+- Aldercrown_Empire
 - Barbarian
 - Assault
 - 1st
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Nycola Eroan]]: partymate
-[[Eliana Saevel]]: partymate
+- [[Nycola Eroan]]: partymate
+- [[Eliana Saevel]]: partymate
 
 ### Notes
 

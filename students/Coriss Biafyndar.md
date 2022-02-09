@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 53
 tags:
 - Elf
-- Floating Island
+- Beleriand
 - Druid
 - Protection
 - 5th
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Alexandyr Aulauthar]]: partymate
-[[Adamos Taehr]]: partymate
+- [[Alexandyr Aulauthar]]: partymate
+- [[Adamos Taehr]]: partymate
 
 ### Notes
 

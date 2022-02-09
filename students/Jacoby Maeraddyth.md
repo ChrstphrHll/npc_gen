@@ -38,7 +38,7 @@ guild: Burk
 partyID: 36
 tags:
 - Goliath
-- Aldercrown Empire
+- Chillwild_Peaks
 - Monk
 - Assault
 - 2nd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Levy Maendellyn]]: partymate
-[[Isaias Vaalyun]]: partymate
+- [[Levy Maendellyn]]: partymate
+- [[Isaias Vaalyun]]: partymate
 
 ### Notes
 

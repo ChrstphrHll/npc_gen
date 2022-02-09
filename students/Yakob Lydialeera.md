@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Wulfe Galan]]: partymate
-[[Nicolle Shandalar]]: partymate
-[[Lichie Halliwell]]: partymate
+- [[Wulfe Galan]]: partymate
+- [[Nicolle Shandalar]]: partymate
+- [[Lichie Halliwell]]: partymate
 
 ### Notes
 

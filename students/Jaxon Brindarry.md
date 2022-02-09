@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Railyn Retenia]]: partymate
-[[Cartyr Tamsin]]: partymate
-[[Jovos Seldanna]]: partymate
+- [[Railyn Retenia]]: partymate
+- [[Cartyr Tamsin]]: partymate
+- [[Jovos Seldanna]]: partymate
 
 ### Notes
 

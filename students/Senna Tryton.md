@@ -36,7 +36,7 @@ guild: Burk
 partyID: 49
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Fighter
 - Exploration
 - 4th
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Scarlotta Inqoul]]: partymate
+- [[Scarlotta Inqoul]]: partymate
 
 ### Notes
 

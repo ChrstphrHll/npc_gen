@@ -41,7 +41,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Elf
-- Aldercrown Empire
+- Aldercrown_Empire
 - Monk
 - Exploration
 - 1st
@@ -58,10 +58,10 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kova Tamara]]: partymate
-[[Adrjia Lysanthir]]: partymate
-[[Jaedyn Arbane]]: partymate
-[[Evylen Nese]]: partymate
+- [[Kova Tamara]]: partymate
+- [[Adrjia Lysanthir]]: partymate
+- [[Jaedyn Arbane]]: partymate
+- [[Evylen Nese]]: partymate
 
 ### Notes
 

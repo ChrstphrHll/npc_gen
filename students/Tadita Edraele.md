@@ -42,7 +42,7 @@ guild: Treskal
 partyID: 7
 tags:
 - Gnome
-- Aldercrown Empire
+- Aldercrown_Empire
 - Paladin
 - Assault
 - 4th
@@ -59,9 +59,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Estyn Rhangyl]]: partymate
-[[Melcyn Taeral]]: partymate
-[[Robbos Kalaerede]]: partymate
+- [[Estyn Rhangyl]]: partymate
+- [[Melcyn Taeral]]: partymate
+- [[Robbos Kalaerede]]: partymate
 
 ### Notes
 

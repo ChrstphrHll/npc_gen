@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Ysaac Aelrue]]: partymate
-[[Nolyn Viska]]: partymate
-[[Vaervenshalice Eloen]]: partymate
+- [[Ysaac Aelrue]]: partymate
+- [[Nolyn Viska]]: partymate
+- [[Vaervenshalice Eloen]]: partymate
 
 ### Notes
 

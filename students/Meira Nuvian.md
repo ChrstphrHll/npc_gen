@@ -37,7 +37,7 @@ guild: Burk
 partyID: 5
 tags:
 - Half-Elf
-- Beleriand
+- Qualnis
 - Ranger
 - Assault
 - 3rd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Thongar Fairchild]]: partymate
-[[Roman Erolith]]: partymate
+- [[Thongar Fairchild]]: partymate
+- [[Roman Erolith]]: partymate
 
 ### Notes
 

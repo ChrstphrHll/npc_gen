@@ -36,7 +36,7 @@ guild: Burk
 partyID: 83
 tags:
 - Halfling
-- Verdain
+- Kordinia
 - Barbarian
 - Exploration
 - 3rd
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Leja Talila]]: partymate
+- [[Leja Talila]]: partymate
 
 ### Notes
 

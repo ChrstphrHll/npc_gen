@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 27
 tags:
 - Kenku
-- Black Rock
+- Aldercrown_Empire
 - Monk
 - Protection
 - 2nd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Terek Nushala]]: partymate
-[[Scarletta Elora]]: partymate
+- [[Terek Nushala]]: partymate
+- [[Scarletta Elora]]: partymate
 
 ### Notes
 

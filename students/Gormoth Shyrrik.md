@@ -37,7 +37,7 @@ guild: Jettenia
 partyID: 33
 tags:
 - Dwarf
-- Aldercrown Empire
+- Magmus_Centerhold
 - Paladin
 - Exploration
 - 2nd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Kymber Korrigash]]: partymate
-[[Vaellyn Esyae]]: partymate
+- [[Kymber Korrigash]]: partymate
+- [[Vaellyn Esyae]]: partymate
 
 ### Notes
 

@@ -39,7 +39,7 @@ guild: Jettenia
 partyID: 4
 tags:
 - Triton
-- Whyndiem
+- Glasscliff_Garisons
 - Fighter
 - Assault
 - 6th
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Skalanis Kobayashi]]: partymate
-[[Pippi Langston]]: partymate
-[[Jerrick Yarbrough]]: partymate
+- [[Skalanis Kobayashi]]: partymate
+- [[Pippi Langston]]: partymate
+- [[Jerrick Yarbrough]]: partymate
 
 ### Notes
 

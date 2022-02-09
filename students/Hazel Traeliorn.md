@@ -36,7 +36,7 @@ guild: Burk
 partyID: 41
 tags:
 - Tiefling
-- Aldercrown Empire
+- Chillwild_Peaks
 - Monk
 - Diplomacy
 - 1st
@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Whit Remington]]: partymate
+- [[Whit Remington]]: partymate
 
 ### Notes
 

@@ -37,7 +37,7 @@ guild: Jettenia
 partyID: 66
 tags:
 - Halfling
-- Beleriand
+- Aldercrown_Empire
 - Barbarian
 - Exploration
 - 1st
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Juppar Kershaw]]: partymate
-[[Milae Ditka]]: partymate
+- [[Juppar Kershaw]]: partymate
+- [[Milae Ditka]]: partymate
 
 ### Notes
 

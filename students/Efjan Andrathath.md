@@ -38,7 +38,7 @@ guild: Burk
 partyID: 31
 tags:
 - Gnome
-- Principality of the Palus Peoples
+- Shadesburry_Initiative
 - Druid
 - Protection
 - 1st
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Taanyth Seeker]]: partymate
-[[Averra Taleisin]]: partymate
+- [[Taanyth Seeker]]: partymate
+- [[Averra Taleisin]]: partymate
 
 ### Notes
 

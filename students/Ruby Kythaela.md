@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 26
 tags:
 - Triton
-- Glasscliff Garisons
+- Whyndiem
 - Fighter
 - Protection
 - 2nd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Eadyth Lora]]: partymate
-[[Sammen Axilya]]: partymate
+- [[Eadyth Lora]]: partymate
+- [[Sammen Axilya]]: partymate
 
 ### Notes
 

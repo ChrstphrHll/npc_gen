@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 26
 tags:
 - Human
-- Aldercrown Empire
+- Qualnis
 - Paladin
 - Diplomacy
 - 2nd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Ruby Kythaela]]: partymate
-[[Eadyth Lora]]: partymate
+- [[Ruby Kythaela]]: partymate
+- [[Eadyth Lora]]: partymate
 
 ### Notes
 

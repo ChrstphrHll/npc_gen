@@ -62,7 +62,7 @@ stats: {stats}
         tags.append(self.track)
         tags.append(sfx.suffixify_number(self.year))
         tags.append(self.guild)
-        return tags
+        return self.process_spaces(tags)
 
     def set_partyID(self, partyID):
         self.partyID = partyID

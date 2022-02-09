@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Corliss Akkar]]: partymate
-[[Aenglo Dyffros]]: partymate
+- [[Corliss Akkar]]: partymate
+- [[Aenglo Dyffros]]: partymate
 
 ### Notes
 

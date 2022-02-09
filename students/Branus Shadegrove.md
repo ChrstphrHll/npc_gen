@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 17
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Barbarian
 - Diplomacy
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Leah Faelar]]: partymate
-[[Tilo Connak]]: partymate
-[[Angel Nushala]]: partymate
+- [[Leah Faelar]]: partymate
+- [[Tilo Connak]]: partymate
+- [[Angel Nushala]]: partymate
 
 ### Notes
 

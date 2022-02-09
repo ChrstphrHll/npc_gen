@@ -38,7 +38,7 @@ guild: Fiesn
 partyID: 81
 tags:
 - Genasi
-- Kordinia
+- Aldercrown_Empire
 - Rouge
 - Exploration
 - 1st
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Santyeg Kuskyn]]: partymate
-[[Ahtye Elhieardacil]]: partymate
+- [[Santyeg Kuskyn]]: partymate
+- [[Ahtye Elhieardacil]]: partymate
 
 ### Notes
 

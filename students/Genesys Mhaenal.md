@@ -40,7 +40,7 @@ guild: Burk
 partyID: 38
 tags:
 - Gnome
-- Aldercrown Empire
+- Shadesburry_Initiative
 - Monk
 - Assault
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Hodus Belt]]: partymate
-[[Shike Thalaera]]: partymate
-[[Delja Iefyr]]: partymate
+- [[Hodus Belt]]: partymate
+- [[Shike Thalaera]]: partymate
+- [[Delja Iefyr]]: partymate
 
 ### Notes
 

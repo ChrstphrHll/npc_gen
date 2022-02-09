@@ -41,7 +41,7 @@ guild: Elkenval
 partyID: 47
 tags:
 - Human
-- Verdain
+- Aldercrown_Empire
 - Bard
 - Diplomacy
 - 5th
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Julyo Agassi]]: partymate
-[[Goshwa Khiipaera]]: partymate
-[[Mavrek Aolis]]: partymate
+- [[Julyo Agassi]]: partymate
+- [[Goshwa Khiipaera]]: partymate
+- [[Mavrek Aolis]]: partymate
 
 ### Notes
 

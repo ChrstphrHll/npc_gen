@@ -38,7 +38,7 @@ guild: Treskal
 partyID: 67
 tags:
 - Halfling
-- Aldercrown Empire
+- Aldercrown_Empire
 - Artificer
 - Exploration
 - 3rd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Bela Qwey]]: partymate
-[[Lanalia Belt]]: partymate
+- [[Bela Qwey]]: partymate
+- [[Lanalia Belt]]: partymate
 
 ### Notes
 

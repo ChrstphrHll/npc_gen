@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Halja Dwyer]]: partymate
+- [[Halja Dwyer]]: partymate
 
 ### Notes
 

@@ -37,7 +37,7 @@ guild: Burk
 partyID: 65
 tags:
 - Dragonborn
-- Principality of the Palus Peoples
+- Magmus_Centerhold
 - Ranger
 - Diplomacy
 - 2nd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Q Yulmanda]]: partymate
-[[Jasjen Nlossae]]: partymate
+- [[Q Yulmanda]]: partymate
+- [[Jasjen Nlossae]]: partymate
 
 ### Notes
 

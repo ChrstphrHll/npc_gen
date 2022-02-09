@@ -38,7 +38,7 @@ guild: Jettenia
 partyID: 26
 tags:
 - Goliath
-- Chillwild Peaks
+- Chillwild_Peaks
 - Rouge
 - Protection
 - 2nd
@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Ruby Kythaela]]: partymate
-[[Sammen Axilya]]: partymate
+- [[Ruby Kythaela]]: partymate
+- [[Sammen Axilya]]: partymate
 
 ### Notes
 

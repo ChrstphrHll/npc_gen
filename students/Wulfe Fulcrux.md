@@ -52,7 +52,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Faliah Oluevaera]]: partymate
+- [[Faliah Oluevaera]]: partymate
 
 ### Notes
 

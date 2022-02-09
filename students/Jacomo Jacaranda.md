@@ -37,7 +37,7 @@ guild: Alderden
 partyID: 11
 tags:
 - Halfling
-- Verdain
+- Beleriand
 - Barbarian
 - Assault
 - 5th
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Alinea Hellsturn]]: partymate
-[[Tommos Morgan]]: partymate
+- [[Alinea Hellsturn]]: partymate
+- [[Tommos Morgan]]: partymate
 
 ### Notes
 

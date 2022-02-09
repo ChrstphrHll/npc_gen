@@ -1,0 +1,31 @@
+import organizational_utilities.validators
+import organizational_utilities.assign_organizations
+
+clubs = {
+    "Half Notes": [],
+    "Cracked Bell": [],
+    "LOAM": [],
+    "Wayfinders": [],
+    "Splinters": [],
+    "Aquaculture": [],
+    "Grason's Claw": [],
+    "Inner Circle Judges": [],
+    "Treskal Silkball": [],
+    "Alderden Silkball": [],
+    "Jettenia Silkball": [],
+    "Burk Silkball": [],
+    "Trenchers": [],
+    "Dragon Chess Club": [],
+    "Mysten Students for a Better Revendale": [],
+    "Ashari Cultural Group": [],
+    "Forgetenders": [],
+    "Threaded Needle": [],
+    "Pious Fellowship": [],
+    "Ruin Runners": [],
+    "Wandering Vellum": [],
+    "Eyes of the Monarch": [],
+    "Bell": [],
+    "Bell": [],
+    "Bell": [],
+    "Bell": [],
+}

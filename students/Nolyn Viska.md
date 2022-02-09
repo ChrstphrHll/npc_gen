@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Elf
-- Aldercrown Empire
+- Aldercrown_Empire
 - Wizard
 - Exploration
 - 1st
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Ysaac Aelrue]]: partymate
-[[Vaervenshalice Eloen]]: partymate
-[[Dejana Keller]]: partymate
+- [[Ysaac Aelrue]]: partymate
+- [[Vaervenshalice Eloen]]: partymate
+- [[Dejana Keller]]: partymate
 
 ### Notes
 

@@ -40,7 +40,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Aasimar
-- Chillwild Peaks
+- Principality_of_the_Palus_Peoples
 - Artificer
 - Assault
 - 2nd
@@ -57,9 +57,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Giacomo Edraele]]: partymate
-[[Santaegus Etter]]: partymate
-[[Yoshen Arcaena]]: partymate
+- [[Giacomo Edraele]]: partymate
+- [[Santaegus Etter]]: partymate
+- [[Yoshen Arcaena]]: partymate
 
 ### Notes
 

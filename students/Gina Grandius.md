@@ -39,7 +39,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Tiefling
-- Beleriand
+- Aldercrown_Empire
 - Monk
 - Exploration
 - 3rd
@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Leya Escobar]]: partymate
-[[Ramona Saida]]: partymate
-[[Hanna Estelar]]: partymate
+- [[Leya Escobar]]: partymate
+- [[Ramona Saida]]: partymate
+- [[Hanna Estelar]]: partymate
 
 ### Notes
 

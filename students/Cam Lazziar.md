@@ -55,8 +55,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Jofan Elignoir]]: partymate
-[[Rei Mardeiym]]: partymate
+- [[Jofan Elignoir]]: partymate
+- [[Rei Mardeiym]]: partymate
 
 ### Notes
 

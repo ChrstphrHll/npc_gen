@@ -37,7 +37,7 @@ guild: Fiesn
 partyID: 61
 tags:
 - Dragonborn
-- Draconia
+- Aldercrown_Empire
 - Rouge
 - Protection
 - 2nd
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Everen Malfoy]]: partymate
-[[Taewen Llamryl]]: partymate
+- [[Everen Malfoy]]: partymate
+- [[Taewen Llamryl]]: partymate
 
 ### Notes
 

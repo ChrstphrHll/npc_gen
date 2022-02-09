@@ -56,9 +56,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Audree Dixon]]: partymate
-[[Alkindus Llamryl]]: partymate
-[[Lea Nuvian]]: partymate
+- [[Audree Dixon]]: partymate
+- [[Alkindus Llamryl]]: partymate
+- [[Lea Nuvian]]: partymate
 
 ### Notes
 

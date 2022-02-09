@@ -53,7 +53,7 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Saccaros Anaharae]]: partymate
+- [[Saccaros Anaharae]]: partymate
 
 ### Notes
 

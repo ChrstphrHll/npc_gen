@@ -39,7 +39,7 @@ guild: Burk
 partyID: 29
 tags:
 - Gnome
-- Aldercrown Empire
+- Aldercrown_Empire
 - Druid
 - Protection
 - 6th
@@ -56,8 +56,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Ezekius Chalsarda]]: partymate
-[[Gianesia Onvyr]]: partymate
+- [[Ezekius Chalsarda]]: partymate
+- [[Gianesia Onvyr]]: partymate
 
 ### Notes
 

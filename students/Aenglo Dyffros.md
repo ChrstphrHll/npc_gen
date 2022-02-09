@@ -37,7 +37,7 @@ guild: Burk
 partyID: 72
 tags:
 - Elf
-- Aldercrown Empire
+- Whyndiem
 - Cleric
 - Diplomacy
 - 1st
@@ -54,8 +54,8 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Lynx Galather]]: partymate
-[[Corliss Akkar]]: partymate
+- [[Lynx Galather]]: partymate
+- [[Corliss Akkar]]: partymate
 
 ### Notes
 

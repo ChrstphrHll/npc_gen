@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Pinna Vanius]]: partymate
-[[Delos Ehlark]]: partymate
-[[Ryan Ebersol]]: partymate
+- [[Pinna Vanius]]: partymate
+- [[Delos Ehlark]]: partymate
+- [[Ryan Ebersol]]: partymate
 
 ### Notes
 

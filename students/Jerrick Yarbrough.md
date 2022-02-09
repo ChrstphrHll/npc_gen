@@ -41,7 +41,7 @@ guild: Jettenia
 partyID: 4
 tags:
 - Gnome
-- Shadesburry Initiative
+- Shadesburry_Initiative
 - Bard
 - Assault
 - 6th
@@ -58,9 +58,9 @@ tags:
 ### Organizations
 
 ### Relationships
-[[Skalanis Kobayashi]]: partymate
-[[Pippi Langston]]: partymate
-[[Miglus Yrlissa]]: partymate
+- [[Skalanis Kobayashi]]: partymate
+- [[Pippi Langston]]: partymate
+- [[Miglus Yrlissa]]: partymate
 
 ### Notes
 
