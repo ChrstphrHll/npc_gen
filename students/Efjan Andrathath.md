@@ -16,7 +16,7 @@ birthday:
   written: 7th of Moradent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Taanyth Seeker
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Shadesburry_Initiative
 - Druid
 - Protection
+- Student
 - 1st
 - Burk
 ---
 # Efjan Andrathath
----
 ### Description
 - Gnome Druid from Shadesburry Initiative
 - 1st year Protection student in Burk
 - long curly dark red hair that's well kept, Amber eyes, and Light skin
 - Is Invisible and Brutal, and has Flexibility as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Taanyth Seeker]]: partymate
 - [[Averra Taleisin]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

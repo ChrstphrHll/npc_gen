@@ -15,7 +15,7 @@ birthday:
   written: 24th of Ravenent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Asten Alavara
   type: partymate
@@ -38,23 +38,23 @@ tags:
 - Magmus_Centerhold
 - Rouge
 - Assault
+- Student
 - 6th
 - Fiesn
 ---
 # Alyx Nopos
----
 ### Description
 - Tiefling Rouge from Magmus Centerhold
 - 6th year Assault student in Fiesn
 - long wavy red hair that's well kept, Aqua eyes, and Sea Green skin
 - Is Maternal and Freewheeling, and has Intelligence as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Asten Alavara]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 33rd of Avanent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jothen Elway
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Aldercrown_Empire
 - Monk
 - Exploration
+- Student
 - 1st
 - Elkenval
 ---
 # Aidyn Glynnii
----
 ### Description
 - Half-Orc Monk from Aldercrown Empire
 - 1st year Exploration student in Elkenval
 - short curly blue hair that's plain, Pale Blue eyes, and Deep Green skin
 - Is Meticulous and Bizarre, and has Dishonesty as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Jothen Elway]]: partymate
 - [[Allisa Iahalae]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

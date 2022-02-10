@@ -16,7 +16,7 @@ birthday:
   written: 20th of Melorent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Matos Mektal
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Aldercrown_Empire
 - Monk
 - Exploration
+- Student
 - 5th
 - Jettenia
 ---
 # Selina Ochyllyss
----
 ### Description
 - Dwarf Monk from Aldercrown Empire
 - 5th year Exploration student in Jettenia
 - short curly lighter blonde hair that's put up, Blue eyes, and Light Tan skin
 - Is Droll and Restrained, and has Logic as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Adros Tolthe]]: partymate
 - [[Yorala Tiatha]]: partymate
 - [[Ivistra Stockton]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

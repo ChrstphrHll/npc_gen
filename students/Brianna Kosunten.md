@@ -15,7 +15,7 @@ birthday:
   written: 17th of Melorent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Selina Bellas
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Shadesburry_Initiative
 - Fighter
 - Assault
+- Student
 - 2nd
 - Fiesn
 ---
 # Brianna Kosunten
----
 ### Description
 - Dwarf Fighter from Shadesburry Initiative
 - 2nd year Assault student in Fiesn
 - shoulder length wavy black hair that's put up, Gray eyes, and Dark Brown skin
 - Is Secure and Sedentary, and has Security as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Selina Bellas]]: partymate
 - [[Mateos Elanil]]: partymate
 - [[Felgie Eldar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

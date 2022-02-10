@@ -16,7 +16,7 @@ birthday:
   written: 5th of Pelent
 origin: Kordinia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Leja Talila
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Kordinia
 - Barbarian
 - Exploration
+- Student
 - 3rd
 - Burk
 ---
 # Natalia Endo
----
 ### Description
 - Halfling Barbarian from Kordinia
 - 3rd year Exploration student in Burk
 - short wavy grey hair that's wild, Pale Brown eyes, and Fair skin
 - Is Inoffensive and Agonizing, and has Renewal as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Leja Talila]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

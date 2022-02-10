@@ -15,7 +15,7 @@ birthday:
   written: 20th of Pelent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kembley Ralnor
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Magmus_Centerhold
 - Artificer
 - Assault
+- Student
 - 8th
 - Jettenia
 ---
 # Celaeno Amkissra
----
 ### Description
 - Half-Orc Artificer from Magmus Centerhold
 - 8th year Assault student in Jettenia
 - shoulder length frizzy turquoise hair that's plain, Brown eyes, and Pale Gray skin
 - Is Persuasive and Timid, and has Finesse as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Kembley Ralnor]]: partymate
 - [[Wenge Usunaar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

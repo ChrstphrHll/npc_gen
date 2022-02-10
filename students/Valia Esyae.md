@@ -15,7 +15,7 @@ birthday:
   written: 6th of Avanent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Volkos Halaema
   type: partymate
@@ -38,23 +38,23 @@ tags:
 - Beleriand
 - Monk
 - Assault
+- Student
 - 4th
 - Alderden
 ---
 # Valia Esyae
----
 ### Description
 - Elf Monk from Beleriand
 - 4th year Assault student in Alderden
 - shoulder length straight platinum hair that's plain, Hazel eyes, and Tan skin
 - Is Captivating and Unsentimental, and has Lead by example as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Volkos Halaema]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

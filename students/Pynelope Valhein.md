@@ -15,7 +15,7 @@ birthday:
   written: 10th of Ravenent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Brinna Muerlara
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Draconia
 - Rouge
 - Exploration
+- Student
 - 1st
 - Burk
 ---
 # Pynelope Valhein
----
 ### Description
 - Dragonborn Rouge from Draconia
 - 1st year Exploration student in Burk
 - frills, Blue eyes, and black skin
 - Is Unreligious and Impassive, and has Responsibility as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Brinna Muerlara]]: partymate
 - [[Rosherren Haladavar]]: partymate
 - [[Tisette Bender]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

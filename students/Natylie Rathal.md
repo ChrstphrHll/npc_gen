@@ -17,7 +17,7 @@ birthday:
   written: 14th of Ravenent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kloya Kershaw
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Beleriand
 - Barbarian
 - Assault
+- Student
 - 5th
 - Jettenia
 ---
 # Natylie Rathal
----
 ### Description
 - Elf Barbarian from Beleriand
 - 5th year Assault student in Jettenia
 - long curly brunette hair that's wild, Pale Gray eyes, and Tan skin
 - Is Pleasant and Emotional, and has Speed as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Kloya Kershaw]]: partymate
 - [[Gavyn Sadalymn]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

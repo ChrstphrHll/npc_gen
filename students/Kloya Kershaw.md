@@ -15,7 +15,7 @@ birthday:
   written: 27th of Korent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Gavyn Sadalymn
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Shadesburry_Initiative
 - Bard
 - Protection
+- Student
 - 5th
 - Jettenia
 ---
 # Kloya Kershaw
----
 ### Description
 - Gnome Bard from Shadesburry Initiative
 - 5th year Protection student in Jettenia
 - long curly blonde hair that's messy, Amber eyes, and Pale skin
 - Is Heroic and Unconvincing, and has Involvement as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Gavyn Sadalymn]]: partymate
 - [[Natylie Rathal]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

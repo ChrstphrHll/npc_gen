@@ -16,7 +16,7 @@ birthday:
   written: 2nd of Moradent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Harperia Winchell
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Magmus_Centerhold
 - Monk
 - Protection
+- Student
 - 1st
 - Elkenval
 ---
 # Wren Urmicca
----
 ### Description
 - Half-Orc Monk from Magmus Centerhold
 - 1st year Protection student in Elkenval
 - short curly strawberry blond hair that's plain, Gray eyes, and Deep Green skin
 - Is Venturesome and Suspicious, and has Righteous as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Harperia Winchell]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

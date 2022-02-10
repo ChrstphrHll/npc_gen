@@ -16,7 +16,7 @@ birthday:
   written: 5th of Avanent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Santyeg Kuskyn
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Aldercrown_Empire
 - Rouge
 - Exploration
+- Student
 - 1st
 - Fiesn
 ---
 # Malchor Tenyajn
----
 ### Description
 - Genasi Rouge from Aldercrown Empire
 - 1st year Exploration student in Fiesn
 - short curly brunette hair that's plain, Amber eyes, and water skin
 - Is Affable and Regimental, and has Humanity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Santyeg Kuskyn]]: partymate
 - [[Ahtye Elhieardacil]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

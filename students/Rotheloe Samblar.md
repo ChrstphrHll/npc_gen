@@ -16,7 +16,7 @@ birthday:
   written: 19th of Ravenent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Aelisabeth Soliania
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Verdain
 - Barbarian
 - Protection
+- Student
 - 3rd
 - Burk
 ---
 # Rotheloe Samblar
----
 ### Description
 - Firbolg Barbarian from Verdain
 - 3rd year Protection student in Burk
 - shoulder length curly blonde hair that's put up, Pale Gray eyes, and Pale Brown skin
 - Is Naughty and Skeptical, and has Entertain as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Aelisabeth Soliania]]: partymate
 - [[Elia Veluthil]]: partymate
 - [[Helera Urkensvall]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

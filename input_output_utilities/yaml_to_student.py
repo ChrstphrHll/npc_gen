@@ -35,12 +35,32 @@ def student_from_md(path):
 
     #TODO: implement get_relationships function
     notes = get_section_elements("Notes", loaded_file)
+    relationships_raw = get_section_elements("Relationships", loaded_file)
+    relationships = process_name_type_list(relationships_raw)
+    organizations_raw = get_section_elements("Organizations", loaded_file)
+    organizations = process_name_type_list(organizations_raw)
 
     student_presets = yaml.load(yaml_string, Loader=yaml.CLoader)
     student_presets["notes"] = notes
+    student_presets["relationships"] = relationships
+    student_presets["organizations"] = organizations
     student = Student(student_presets)
 
     return student
+
+def process_name_type_list(relationships_raw: list):
+    """Given a list of properly formated relationships, returns a list of 
+    the relationships as dictionaries"""
+    formatted_relationships = []
+    
+    for rel_string in relationships_raw:
+        try:
+            [rel_name, rel_type] = rel_string.split(": ")
+            rel_dict = {"name": rel_name[2:-2], "type": rel_type}
+            formatted_relationships.append(rel_dict)
+        except:
+            return f"Error: {rel_string} not properly formatted"
+    return formatted_relationships
 
 def get_section_elements(section_title: str, md_file_contents: str):
     """takes a section title and the string of a md_file and returns the elements under 

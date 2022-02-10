@@ -15,7 +15,7 @@ birthday:
   written: 3rd of Korent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kova Tamara
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Aldercrown_Empire
 - Monk
 - Exploration
+- Student
 - 1st
 - Treskal
 ---
 # Es'beth Yesheln
----
 ### Description
 - Elf Monk from Aldercrown Empire
 - 1st year Exploration student in Treskal
 - shoulder length frizzy red hair that's well kept, Pale Blue eyes, and Light skin
 - Is Stylish and Neurotic, and has Simplicity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -62,8 +64,6 @@ tags:
 - [[Adrjia Lysanthir]]: partymate
 - [[Jaedyn Arbane]]: partymate
 - [[Evylen Nese]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -17,7 +17,7 @@ birthday:
   written: 15th of Moradent
 origin: Glasscliff Garisons
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kova Tamara
   type: partymate
@@ -46,16 +46,18 @@ tags:
 - Glasscliff_Garisons
 - Ranger
 - Assault
+- Student
 - 1st
 - Treskal
 ---
 # Adrjia Lysanthir
----
 ### Description
 - Triton Ranger from Glasscliff Garisons
 - 1st year Assault student in Treskal
 - shoulder length curly auburn hair that's plain, Pale Blue eyes, and Aqua skin
 - Is Invisible and Circumspect, and has Compassion as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -64,8 +66,6 @@ tags:
 - [[Es'beth Yesheln]]: partymate
 - [[Jaedyn Arbane]]: partymate
 - [[Evylen Nese]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

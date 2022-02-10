@@ -16,7 +16,7 @@ birthday:
   written: 24th of Pelent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Willam Ardryll
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Magmus_Centerhold
 - Barbarian
 - Exploration
+- Student
 - 2nd
 - Treskal
 ---
 # Lucoe Lorelei
----
 ### Description
 - Dwarf Barbarian from Magmus Centerhold
 - 2nd year Exploration student in Treskal
 - short frizzy auburn hair that's put up, Amber eyes, and Dark Tan skin
 - Is Modest and Contemptible, and has Creativity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Willam Ardryll]]: partymate
 - [[Graisen Thalanil]]: partymate
 - [[Themistoklea Nevarth]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

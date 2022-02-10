@@ -16,7 +16,7 @@ birthday:
   written: 12th of Korent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Gorlas Vhoadan
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Magmus_Centerhold
 - Monk
 - Exploration
+- Student
 - 2nd
 - Elkenval
 ---
 # Sulivan Wylchyr
----
 ### Description
 - Dragonborn Monk from Magmus Centerhold
 - 2nd year Exploration student in Elkenval
 - frills, Spring Green eyes, and blue skin
 - Is Joyful and Pure, and has Forgiveness as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Gorlas Vhoadan]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

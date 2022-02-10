@@ -16,7 +16,7 @@ birthday:
   written: 28th of Melorent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Aryana Velethuil
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Draconia
 - Fighter
 - Protection
+- Student
 - 4th
 - Elkenval
 ---
 # Abramo Sudryl
----
 ### Description
 - Dragonborn Fighter from Draconia
 - 4th year Protection student in Elkenval
 - 5 barbed horns, Pale Gray eyes, and black skin
 - Is Purposeful and Stern, and has Intelligence as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Aryana Velethuil]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

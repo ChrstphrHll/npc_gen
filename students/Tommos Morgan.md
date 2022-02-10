@@ -15,7 +15,7 @@ birthday:
   written: 23rd of Pelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Alinea Hellsturn
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Aldercrown_Empire
 - Sorcerer
 - Exploration
+- Student
 - 5th
 - Alderden
 ---
 # Tommos Morgan
----
 ### Description
 - Elf Sorcerer from Aldercrown Empire
 - 5th year Exploration student in Alderden
 - shoulder length straight lighter blonde hair that's put up, Hazel eyes, and Dark Brown skin
 - Is Undemanding and Tough, and has Commonality as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Alinea Hellsturn]]: partymate
 - [[Jacomo Jacaranda]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

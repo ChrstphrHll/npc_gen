@@ -16,7 +16,7 @@ birthday:
   written: 27th of Iounent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Willam Ardryll
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Monk
 - Diplomacy
+- Student
 - 2nd
 - Treskal
 ---
 # Themistoklea Nevarth
----
 ### Description
 - Human Monk from Principality of the Palus Peoples
 - 2nd year Diplomacy student in Treskal
 - shoulder length straight dirty blonde hair that's plain, Pale Brown eyes, and Dark Brown skin
 - Is Invulnerable and Neglectful, and has Patience as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Willam Ardryll]]: partymate
 - [[Graisen Thalanil]]: partymate
 - [[Lucoe Lorelei]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

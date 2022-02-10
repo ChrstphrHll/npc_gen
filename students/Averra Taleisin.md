@@ -16,7 +16,7 @@ birthday:
   written: 15th of Korent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Efjan Andrathath
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Aldercrown_Empire
 - Druid
 - Assault
+- Student
 - 1st
 - Burk
 ---
 # Averra Taleisin
----
 ### Description
 - Elf Druid from Aldercrown Empire
 - 1st year Assault student in Burk
 - shoulder length straight dark red hair that's well kept, Pale Brown eyes, and Dark Tan skin
 - Is Lucky and Hedonistic, and has Cruelty as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Efjan Andrathath]]: partymate
 - [[Taanyth Seeker]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

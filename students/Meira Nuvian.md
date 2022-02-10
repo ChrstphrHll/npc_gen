@@ -15,7 +15,7 @@ birthday:
   written: 14th of Iounent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Thongar Fairchild
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Qualnis
 - Ranger
 - Assault
+- Student
 - 3rd
 - Burk
 ---
 # Meira Nuvian
----
 ### Description
 - Half-Elf Ranger from Qualnis
 - 3rd year Assault student in Burk
 - shoulder length wavy strawberry blond hair that's plain, Gray eyes, and Dark Tan skin
 - Is Well-bred and Disconcerting, and has Compassion as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Thongar Fairchild]]: partymate
 - [[Roman Erolith]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

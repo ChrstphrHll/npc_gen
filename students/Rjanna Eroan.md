@@ -17,7 +17,7 @@ birthday:
   written: 6th of Ravenent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Shinare Bersa
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Aldercrown_Empire
 - Paladin
 - Protection
+- Student
 - 1st
 - Fiesn
 ---
 # Rjanna Eroan
----
 ### Description
 - Tiefling Paladin from Aldercrown Empire
 - 1st year Protection student in Fiesn
 - short frizzy auburn hair that's plain, Pale Brown eyes, and Pale Blue skin
 - Is Sentimental and Procrastinating, and has Stoicism as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Shinare Bersa]]: partymate
 - [[Ezros Laerdya]]: partymate
 - [[Valerya Haldreithen]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

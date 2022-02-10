@@ -15,7 +15,7 @@ birthday:
   written: 6th of Melorent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Halya Jian
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Draconia
 - Artificer
 - Diplomacy
+- Student
 - 1st
 - Fiesn
 ---
 # Handyr Letryal
----
 ### Description
 - Dragonborn Artificer from Draconia
 - 1st year Diplomacy student in Fiesn
 - frills, Pale Brown eyes, and red skin
 - Is Well-rounded and Smooth, and has Order as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Halya Jian]]: partymate
 - [[Victor Gaelira]]: partymate
 - [[Goetia Mistale]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

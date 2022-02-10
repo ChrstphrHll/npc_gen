@@ -16,7 +16,7 @@ birthday:
   written: 17th of Melorent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kova Tamara
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Magmus_Centerhold
 - Paladin
 - Exploration
+- Student
 - 1st
 - Treskal
 ---
 # Jaedyn Arbane
----
 ### Description
 - Half-Elf Paladin from Magmus Centerhold
 - 1st year Exploration student in Treskal
 - shoulder length straight grey hair that's messy, Amber eyes, and Dark Tan skin
 - Is Private and Picky, and has Invention as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Adrjia Lysanthir]]: partymate
 - [[Es'beth Yesheln]]: partymate
 - [[Evylen Nese]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

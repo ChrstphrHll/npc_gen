@@ -16,7 +16,7 @@ birthday:
   written: 28th of Moradent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Halya Jian
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Qualnis
 - Druid
 - Diplomacy
+- Student
 - 1st
 - Fiesn
 ---
 # Goetia Mistale
----
 ### Description
 - Human Druid from Qualnis
 - 1st year Diplomacy student in Fiesn
 - shoulder length frizzy brunette hair that's braided, Hazel eyes, and Light skin
 - Is Tough and Mechanical, and has Invention as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Halya Jian]]: partymate
 - [[Victor Gaelira]]: partymate
 - [[Handyr Letryal]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

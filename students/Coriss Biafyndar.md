@@ -16,7 +16,7 @@ birthday:
   written: 4th of Ravenent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Alexandyr Aulauthar
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Beleriand
 - Druid
 - Protection
+- Student
 - 5th
 - Fiesn
 ---
 # Coriss Biafyndar
----
 ### Description
 - Elf Druid from Beleriand
 - 5th year Protection student in Fiesn
 - short wavy auburn hair that's plain, Brown eyes, and Light Tan skin
 - Is Equitable and Unmerciful, and has Personal Development as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Alexandyr Aulauthar]]: partymate
 - [[Adamos Taehr]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

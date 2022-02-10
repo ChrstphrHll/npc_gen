@@ -16,7 +16,7 @@ birthday:
   written: 23rd of Melorent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Edyrm Iolas
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Aldercrown_Empire
 - Monk
 - Exploration
+- Student
 - 2nd
 - Burk
 ---
 # Jacus Kosunten
----
 ### Description
 - Human Monk from Aldercrown Empire
 - 2nd year Exploration student in Burk
 - short wavy blonde hair that's plain, Pale Gray eyes, and Brown skin
 - Is Risk-taking and Pure, and has Strength as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Edyrm Iolas]]: partymate
 - [[Shenai Inqoul]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

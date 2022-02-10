@@ -16,7 +16,7 @@ birthday:
   written: 32nd of Avanent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jandar Pleufan
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Beleriand
 - Cleric
 - Protection
+- Student
 - 1st
 - Elkenval
 ---
 # Allyson Vindinglag
----
 ### Description
 - Aasimar Cleric from Beleriand
 - 1st year Protection student in Elkenval
 - long straight dirty blonde hair that's put up, Pale Gray eyes, and Dark Brown skin
 - Is Forceful and Stif, and has Reciprocity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Kimbera Alerathla]]: partymate
 - [[Emilanus Shields]]: partymate
 - [[Andrey Rauthomyr]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

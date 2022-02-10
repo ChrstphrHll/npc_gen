@@ -15,7 +15,7 @@ birthday:
   written: 28th of Avanent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jamye Napraeleon
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Druid
 - Assault
+- Student
 - 2nd
 - Alderden
 ---
 # Cirvlon Elpaerae
----
 ### Description
 - Tiefling Druid from Principality of the Palus Peoples
 - 2nd year Assault student in Alderden
 - short straight strawberry blond hair that's plain, Pale Green eyes, and Pale Gray skin
 - Is Impressive and Callous, and has Logic as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Jamye Napraeleon]]: partymate
 - [[Gianna Rhistel]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

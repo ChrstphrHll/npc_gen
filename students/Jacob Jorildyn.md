@@ -15,7 +15,7 @@ birthday:
   written: 23rd of Melorent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hudsen Elandorr
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Draconia
 - Cleric
 - Diplomacy
+- Student
 - 3rd
 - Treskal
 ---
 # Jacob Jorildyn
----
 ### Description
 - Dragonborn Cleric from Draconia
 - 3rd year Diplomacy student in Treskal
 - frills, Brown eyes, and brass skin
 - Is Clear-headed and Impassive, and has Appreciation as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Hudsen Elandorr]]: partymate
 - [[Brooka Whesker]]: partymate
 - [[Gabrila Retra]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

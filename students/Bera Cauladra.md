@@ -17,7 +17,7 @@ birthday:
   written: 25th of Moradent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Auzerais Venali
   type: partymate
@@ -40,23 +40,23 @@ tags:
 - Shadesburry_Initiative
 - Cleric
 - Diplomacy
+- Student
 - 4th
 - Elkenval
 ---
 # Bera Cauladra
----
 ### Description
 - Gnome Cleric from Shadesburry Initiative
 - 4th year Diplomacy student in Elkenval
 - shoulder length straight brunette hair that's well kept, Pale Blue eyes, and Tan skin
 - Is Modern and Destructive, and has Clarity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Auzerais Venali]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

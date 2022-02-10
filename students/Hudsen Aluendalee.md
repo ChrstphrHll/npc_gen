@@ -17,7 +17,7 @@ birthday:
   written: 22nd of Melorent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Astinus Sythaeryn
   type: partymate
@@ -40,23 +40,23 @@ tags:
 - Aldercrown_Empire
 - Wizard
 - Exploration
+- Student
 - 4th
 - Fiesn
 ---
 # Hudsen Aluendalee
----
 ### Description
 - Half-Elf Wizard from Aldercrown Empire
 - 4th year Exploration student in Fiesn
 - long wavy green hair that's well kept, Blue eyes, and Dark Tan skin
 - Is Jolly and Noncompetitive, and has Logic as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Astinus Sythaeryn]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

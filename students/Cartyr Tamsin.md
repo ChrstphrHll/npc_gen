@@ -16,7 +16,7 @@ birthday:
   written: 13th of Ravenent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Railyn Retenia
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Draconia
 - Druid
 - Assault
+- Student
 - 3rd
 - Jettenia
 ---
 # Cartyr Tamsin
----
 ### Description
 - Dragonborn Druid from Draconia
 - 3rd year Assault student in Jettenia
 - short spines, Hazel eyes, and silver skin
 - Is Logical and Critical, and has Caring as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Railyn Retenia]]: partymate
 - [[Jovos Seldanna]]: partymate
 - [[Jaxon Brindarry]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

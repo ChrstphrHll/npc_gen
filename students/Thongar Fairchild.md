@@ -16,7 +16,7 @@ birthday:
   written: 11th of Pelent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Meira Nuvian
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Verdain
 - Cleric
 - Diplomacy
+- Student
 - 3rd
 - Burk
 ---
 # Thongar Fairchild
----
 ### Description
 - Human Cleric from Verdain
 - 3rd year Diplomacy student in Burk
 - long straight violet hair that's well kept, Hazel eyes, and Light skin
 - Is Accessible and Fawning, and has Fame as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Meira Nuvian]]: partymate
 - [[Roman Erolith]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

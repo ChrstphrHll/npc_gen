@@ -16,7 +16,7 @@ birthday:
   written: 3rd of Ravenent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kimbera Alerathla
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Beleriand
 - Ranger
 - Protection
+- Student
 - 1st
 - Elkenval
 ---
 # Jandar Pleufan
----
 ### Description
 - Gnome Ranger from Beleriand
 - 1st year Protection student in Elkenval
 - shoulder length wavy platinum hair that's plain, Green eyes, and Brown skin
 - Is Forgiving and Domineering, and has Family as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Allyson Vindinglag]]: partymate
 - [[Emilanus Shields]]: partymate
 - [[Andrey Rauthomyr]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

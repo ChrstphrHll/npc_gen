@@ -16,7 +16,7 @@ birthday:
   written: 11th of Melorent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Karl Cauladra
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Beleriand
 - Bard
 - Assault
+- Student
 - 6th
 - Treskal
 ---
 # Vyctor Willow
----
 ### Description
 - Elf Bard from Beleriand
 - 6th year Assault student in Treskal
 - long curly brunette hair that's plain, Blue eyes, and Fair skin
 - Is Wise and Inhibited, and has Responsibility as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Varlae Voron]]: partymate
 - [[Dree Nuala]]: partymate
 - [[Theriss Deularla]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

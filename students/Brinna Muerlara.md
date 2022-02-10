@@ -15,7 +15,7 @@ birthday:
   written: 26th of Pelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Pynelope Valhein
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Aldercrown_Empire
 - Barbarian
 - Exploration
+- Student
 - 1st
 - Burk
 ---
 # Brinna Muerlara
----
 ### Description
 - Halfling Barbarian from Aldercrown Empire
 - 1st year Exploration student in Burk
 - short straight auburn hair that's messy, Gray eyes, and Brown skin
 - Is Athletic and Reserved, and has Openness as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Pynelope Valhein]]: partymate
 - [[Rosherren Haladavar]]: partymate
 - [[Tisette Bender]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

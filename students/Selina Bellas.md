@@ -16,7 +16,7 @@ birthday:
   written: 20th of Ravenent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Mateos Elanil
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Aldercrown_Empire
 - Paladin
 - Assault
+- Student
 - 2nd
 - Fiesn
 ---
 # Selina Bellas
----
 ### Description
 - Aasimar Paladin from Aldercrown Empire
 - 2nd year Assault student in Fiesn
 - short wavy brunette hair that's wild, Pale Gray eyes, and Light skin
 - Is Systematic and Clumsy, and has Optimism as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Mateos Elanil]]: partymate
 - [[Brianna Kosunten]]: partymate
 - [[Felgie Eldar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 27th of Moradent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Puorlaas Anklos
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Shadesburry_Initiative
 - Fighter
 - Exploration
+- Student
 - 2nd
 - Jettenia
 ---
 # Marl Ahrendaaria
----
 ### Description
 - Gnome Fighter from Shadesburry Initiative
 - 2nd year Exploration student in Jettenia
 - long straight lighter blonde hair that's plain, Pale Gray eyes, and Dark Brown skin
 - Is Unpredictable and Progressive, and has People as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Puorlaas Anklos]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

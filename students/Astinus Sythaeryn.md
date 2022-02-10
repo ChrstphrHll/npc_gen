@@ -17,7 +17,7 @@ birthday:
   written: 2nd of Avanent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hudsen Aluendalee
   type: partymate
@@ -40,23 +40,23 @@ tags:
 - Qualnis
 - Bard
 - Protection
+- Student
 - 4th
 - Fiesn
 ---
 # Astinus Sythaeryn
----
 ### Description
 - Human Bard from Qualnis
 - 4th year Protection student in Fiesn
 - long curly black hair that's messy, Pale Blue eyes, and Brown skin
 - Is Thrifty and Aimless, and has Independence as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Hudsen Aluendalee]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 25th of Avanent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Matos Mektal
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Aldercrown_Empire
 - Wizard
 - Diplomacy
+- Student
 - 5th
 - Jettenia
 ---
 # Ivistra Stockton
----
 ### Description
 - Tiefling Wizard from Aldercrown Empire
 - 5th year Diplomacy student in Jettenia
 - shoulder length wavy dirty blonde hair that's plain, Green eyes, and Pale Yellow skin
 - Is Mellow and Single-minded, and has Exceptionalism as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Adros Tolthe]]: partymate
 - [[Selina Ochyllyss]]: partymate
 - [[Yorala Tiatha]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

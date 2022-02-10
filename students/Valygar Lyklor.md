@@ -16,7 +16,7 @@ birthday:
   written: 26th of Iounent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Lyonus Ioelena
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Aldercrown_Empire
 - Cleric
 - Protection
+- Student
 - 2nd
 - Burk
 ---
 # Valygar Lyklor
----
 ### Description
 - Firbolg Cleric from Aldercrown Empire
 - 2nd year Protection student in Burk
 - shoulder length curly brunette hair that's put up, Pale Blue eyes, and Pale Green skin
 - Is Invulnerable and Assertive, and has Responsibility as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Lyonus Ioelena]]: partymate
 - [[Hagar Sakrattars]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

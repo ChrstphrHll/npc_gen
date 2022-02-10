@@ -16,7 +16,7 @@ birthday:
   written: 17th of Pelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Tadita Edraele
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Aldercrown_Empire
 - Artificer
 - Protection
+- Student
 - 4th
 - Treskal
 ---
 # Robbos Kalaerede
----
 ### Description
 - Half-Elf Artificer from Aldercrown Empire
 - 4th year Protection student in Treskal
 - shoulder length curly grey hair that's plain, Pale Green eyes, and Tan skin
 - Is Graceful and Driving, and has Spontaneity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Tadita Edraele]]: partymate
 - [[Estyn Rhangyl]]: partymate
 - [[Melcyn Taeral]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

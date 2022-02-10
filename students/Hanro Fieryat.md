@@ -16,7 +16,7 @@ birthday:
   written: 4th of Ravenent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Rasy Merlara
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Whyndiem
 - Paladin
 - Exploration
+- Student
 - 1st
 - Alderden
 ---
 # Hanro Fieryat
----
 ### Description
 - Triton Paladin from Whyndiem
 - 1st year Exploration student in Alderden
 - long wavy lighter blonde hair that's plain, Pale Gray eyes, and Pale Green skin
 - Is Gentle and Sedentary, and has Charisma as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Rasy Merlara]]: partymate
 - [[Jamie Kesefehon]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

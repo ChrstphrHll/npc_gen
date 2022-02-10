@@ -15,7 +15,7 @@ birthday:
   written: 6th of Ravenent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Giacomo Edraele
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Verdain
 - Bard
 - Exploration
+- Student
 - 2nd
 - Treskal
 ---
 # Santaegus Etter
----
 ### Description
 - Firbolg Bard from Verdain
 - 2nd year Exploration student in Treskal
 - shoulder length curly auburn hair that's plain, Blue eyes, and Pale Brown skin
 - Is Emotionally stable and Contradictory, and has Courage as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Giacomo Edraele]]: partymate
 - [[Matrell Halafarin]]: partymate
 - [[Yoshen Arcaena]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

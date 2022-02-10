@@ -16,7 +16,7 @@ birthday:
   written: 21st of Korent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Ysak Llewellenar
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Shadesburry_Initiative
 - Ranger
 - Assault
+- Student
 - 1st
 - Jettenia
 ---
 # Matto Divya
----
 ### Description
 - Gnome Ranger from Shadesburry Initiative
 - 1st year Assault student in Jettenia
 - long wavy lighter blonde hair that's well kept, Brown eyes, and Fair skin
 - Is Stern and Lackadaisical, and has Fitness as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Alver Boneflare]]: partymate
 - [[Garan Mirthal]]: partymate
 - [[Iasono Ynshael]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

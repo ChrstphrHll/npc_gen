@@ -15,7 +15,7 @@ birthday:
   written: 29th of Korent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jess Beebe
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Aldercrown_Empire
 - Monk
 - Protection
+- Student
 - 3rd
 - Fiesn
 ---
 # Tyego Sinaht
----
 ### Description
 - Elf Monk from Aldercrown Empire
 - 3rd year Protection student in Fiesn
 - short straight lighter blonde hair that's messy, Pale Blue eyes, and Light skin
 - Is Friendly and Experimental, and has Power as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Jess Beebe]]: partymate
 - [[Halia Dominguez]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

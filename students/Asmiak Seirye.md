@@ -16,7 +16,7 @@ birthday:
   written: 28th of Melorent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kendel Shael
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Shadesburry_Initiative
 - Paladin
 - Exploration
+- Student
 - 1st
 - Alderden
 ---
 # Asmiak Seirye
----
 ### Description
 - Human Paladin from Shadesburry Initiative
 - 1st year Exploration student in Alderden
 - short wavy lighter blonde hair that's well kept, Brown eyes, and Fair skin
 - Is Masculine and Impractical, and has Anti-Authority as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Kendel Shael]]: partymate
 - [[Hessos Adorellan]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

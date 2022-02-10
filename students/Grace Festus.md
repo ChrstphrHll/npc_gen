@@ -17,7 +17,7 @@ birthday:
   written: 16th of Moradent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Dylan Usunaar
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Magmus_Centerhold
 - Cleric
 - Diplomacy
+- Student
 - 5th
 - Elkenval
 ---
 # Grace Festus
----
 ### Description
 - Human Cleric from Magmus Centerhold
 - 5th year Diplomacy student in Elkenval
 - shoulder length wavy strawberry blond hair that's plain, Pale Gray eyes, and Pale skin
 - Is Anticipative and Rigid, and has Charity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Dylan Usunaar]]: partymate
 - [[Delila Felaern]]: partymate
 - [[Aurikallos Biafyndar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

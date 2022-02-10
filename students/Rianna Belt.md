@@ -16,7 +16,7 @@ birthday:
   written: 20th of Moradent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Romen Uldreiyn
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Aldercrown_Empire
 - Barbarian
 - Assault
+- Student
 - 8th
 - Fiesn
 ---
 # Rianna Belt
----
 ### Description
 - Elf Barbarian from Aldercrown Empire
 - 8th year Assault student in Fiesn
 - short straight black hair that's plain, Pale Brown eyes, and Brown skin
 - Is Thrifty and Repugnant, and has Excitement as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Brahm Delmuth]]: partymate
 - [[Tez Bialaer]]: partymate
 - [[Zylphan Molostroi]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 6th of Pelent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Noam Shields
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Whyndiem
 - Wizard
 - Protection
+- Student
 - 4th
 - Burk
 ---
 # Saleas Rilitar
----
 ### Description
 - Triton Wizard from Whyndiem
 - 4th year Protection student in Burk
 - long straight strawberry blond hair that's well kept, Sea Green eyes, and Aqua skin
 - Is Self-sufficent and Boisterous, and has Righteous as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Noam Shields]]: partymate
 - [[Gunnar Ordayius]]: partymate
 - [[Remus Manchul]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 29th of Iounent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Abel Marsh
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Verdain
 - Barbarian
 - Protection
+- Student
 - 5th
 - Fiesn
 ---
 # Leonus Triktappic
----
 ### Description
 - Halfling Barbarian from Verdain
 - 5th year Protection student in Fiesn
 - long wavy violet hair that's wild, Amber eyes, and Fair skin
 - Is Extraordinary and Prejudiced, and has Redemption as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Abel Marsh]]: partymate
 - [[Uxwy Lazziar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

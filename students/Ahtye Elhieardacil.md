@@ -15,7 +15,7 @@ birthday:
   written: 17th of Melorent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Santyeg Kuskyn
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Magmus_Centerhold
 - Druid
 - Diplomacy
+- Student
 - 1st
 - Fiesn
 ---
 # Ahtye Elhieardacil
----
 ### Description
 - Elf Druid from Magmus Centerhold
 - 1st year Diplomacy student in Fiesn
 - short curly dirty blonde hair that's put up, Amber eyes, and Light Tan skin
 - Is Sentimental and Immature, and has Balance as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Santyeg Kuskyn]]: partymate
 - [[Malchor Tenyajn]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

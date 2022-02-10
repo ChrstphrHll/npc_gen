@@ -15,7 +15,7 @@ birthday:
   written: 2nd of Melorent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Grassa Ashbluff
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Aldercrown_Empire
 - Monk
 - Exploration
+- Student
 - 7th
 - Fiesn
 ---
 # Braidyn Kemetra
----
 ### Description
 - Dwarf Monk from Aldercrown Empire
 - 7th year Exploration student in Fiesn
 - shoulder length wavy auburn hair that's plain, Pale Green eyes, and Light skin
 - Is Soft and Subjective, and has Fitness as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Grassa Ashbluff]]: partymate
 - [[Brithmaur Decker]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

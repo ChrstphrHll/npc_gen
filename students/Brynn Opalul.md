@@ -17,7 +17,7 @@ birthday:
   written: 28th of Moradent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Alys Ylyndar
   type: partymate
@@ -40,23 +40,23 @@ tags:
 - Aldercrown_Empire
 - Paladin
 - Exploration
+- Student
 - 3rd
 - Burk
 ---
 # Brynn Opalul
----
 ### Description
 - Tiefling Paladin from Aldercrown Empire
 - 3rd year Exploration student in Burk
 - shoulder length curly strawberry blond hair that's plain, Red eyes, and Pale Yellow skin
 - Is Devoted and Odd, and has Charisma as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Alys Ylyndar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

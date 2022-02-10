@@ -15,7 +15,7 @@ birthday:
   written: 8th of Moradent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Pinna Vanius
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Draconia
 - Sorcerer
 - Assault
+- Student
 - 7th
 - Fiesn
 ---
 # Ryan Ebersol
----
 ### Description
 - Dragonborn Sorcerer from Draconia
 - 7th year Assault student in Fiesn
 - 5 jagged horns, Emerald Green eyes, and green skin
 - Is Plain and Immature, and has Intuition as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Pinna Vanius]]: partymate
 - [[Delos Ehlark]]: partymate
 - [[Kaeli Khiiral]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

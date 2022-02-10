@@ -16,7 +16,7 @@ birthday:
   written: 32nd of Melorent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Rivik Connak
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Magmus_Centerhold
 - Ranger
 - Assault
+- Student
 - 3rd
 - Elkenval
 ---
 # Kessa Keller
----
 ### Description
 - Human Ranger from Magmus Centerhold
 - 3rd year Assault student in Elkenval
 - long straight strawberry blond hair that's plain, Hazel eyes, and Tan skin
 - Is Enigmatic and Regretful, and has Integrity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Rivik Connak]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

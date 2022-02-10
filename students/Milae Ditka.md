@@ -16,7 +16,7 @@ birthday:
   written: 19th of Corelent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Juppar Kershaw
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Draconia
 - Sorcerer
 - Protection
+- Student
 - 1st
 - Jettenia
 ---
 # Milae Ditka
----
 ### Description
 - Dragonborn Sorcerer from Draconia
 - 1st year Protection student in Jettenia
 - 2 straight horns, Violet Red eyes, and blue skin
 - Is Undemanding and Cruel, and has Self-Respect as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Juppar Kershaw]]: partymate
 - [[Avaery Klaern]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -18,7 +18,7 @@ birthday:
   written: 3rd of Iounent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jandar Pleufan
   type: partymate
@@ -47,16 +47,18 @@ tags:
 - Qualnis
 - Paladin
 - Exploration
+- Student
 - 1st
 - Elkenval
 ---
 # Emilanus Shields
----
 ### Description
 - Warforged Paladin from Qualnis
 - 1st year Exploration student in Elkenval
 - smooth silver guilded with amethyst, Spring Green eyes, and bronze skin
 - Is Idealistic and Dirty, and has Speed as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -65,8 +67,6 @@ tags:
 - [[Kimbera Alerathla]]: partymate
 - [[Allyson Vindinglag]]: partymate
 - [[Andrey Rauthomyr]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

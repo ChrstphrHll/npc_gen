@@ -16,7 +16,7 @@ birthday:
   written: 23rd of Corelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Abel Marsh
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Aldercrown_Empire
 - Sorcerer
 - Assault
+- Student
 - 5th
 - Fiesn
 ---
 # Uxwy Lazziar
----
 ### Description
 - Human Sorcerer from Aldercrown Empire
 - 5th year Assault student in Fiesn
 - short straight auburn hair that's plain, Hazel eyes, and Fair skin
 - Is Admirable and Repugnant, and has Contentment as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Abel Marsh]]: partymate
 - [[Leonus Triktappic]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

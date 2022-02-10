@@ -15,7 +15,7 @@ birthday:
   written: 7th of Iounent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hartwen Galaeron
   type: partymate
@@ -38,23 +38,23 @@ tags:
 - Draconia
 - Sorcerer
 - Assault
+- Student
 - 2nd
 - Alderden
 ---
 # Ian Averescu
----
 ### Description
 - Dragonborn Sorcerer from Draconia
 - 2nd year Assault student in Alderden
 - frills, Amber eyes, and black skin
 - Is Imaginative and Extreme, and has Loyalty as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Hartwen Galaeron]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

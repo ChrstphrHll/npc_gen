@@ -17,7 +17,7 @@ birthday:
   written: 16th of Korent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Edyrm Iolas
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Magmus_Centerhold
 - Monk
 - Assault
+- Student
 - 2nd
 - Burk
 ---
 # Shenai Inqoul
----
 ### Description
 - Tiefling Monk from Magmus Centerhold
 - 2nd year Assault student in Burk
 - short frizzy dark red hair that's plain, Deep Blue eyes, and Olive skin
 - Is Intrepid and Immature, and has Pessimism as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Edyrm Iolas]]: partymate
 - [[Jacus Kosunten]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

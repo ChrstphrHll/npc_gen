@@ -16,7 +16,7 @@ birthday:
   written: 12th of Ravenent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Moki Aelynthi
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Beleriand
 - Wizard
 - Diplomacy
+- Student
 - 6th
 - Burk
 ---
 # Ezekius Chalsarda
----
 ### Description
 - Halfling Wizard from Beleriand
 - 6th year Diplomacy student in Burk
 - long curly auburn hair that's messy, Pale Brown eyes, and Light skin
 - Is Magnanimous and Excitable, and has Cunning as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Moki Aelynthi]]: partymate
 - [[Gianesia Onvyr]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

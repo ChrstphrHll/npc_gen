@@ -16,7 +16,7 @@ birthday:
   written: 20th of Iounent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Cirvlon Elpaerae
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Magmus_Centerhold
 - Wizard
 - Assault
+- Student
 - 2nd
 - Alderden
 ---
 # Jamye Napraeleon
----
 ### Description
 - Dragonborn Wizard from Magmus Centerhold
 - 2nd year Assault student in Alderden
 - 3 straight horns, Purple eyes, and red skin
 - Is Experimental and Rigid, and has Cunning as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Cirvlon Elpaerae]]: partymate
 - [[Gianna Rhistel]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

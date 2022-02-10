@@ -15,7 +15,7 @@ birthday:
   written: 7th of Iounent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Faliah Oluevaera
   type: partymate
@@ -38,23 +38,23 @@ tags:
 - Verdain
 - Wizard
 - Assault
+- Student
 - 8th
 - Elkenval
 ---
 # Wulfe Fulcrux
----
 ### Description
 - Firbolg Wizard from Verdain
 - 8th year Assault student in Elkenval
 - shoulder length wavy strawberry blond hair that's plain, Hazel eyes, and Pale Brown skin
 - Is Courteous and Deceptive, and has Personal Development as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Faliah Oluevaera]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

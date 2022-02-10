@@ -42,3 +42,4 @@ def refresh_tags(person: Student):
 if __name__ == "__main__":
     update_roster(read.load_roster(), [refresh_tags])
     #v.main()
+    

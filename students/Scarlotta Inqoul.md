@@ -16,7 +16,7 @@ birthday:
   written: 26th of Corelent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Senna Tryton
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Shadesburry_Initiative
 - Paladin
 - Diplomacy
+- Student
 - 4th
 - Burk
 ---
 # Scarlotta Inqoul
----
 ### Description
 - Dwarf Paladin from Shadesburry Initiative
 - 4th year Diplomacy student in Burk
 - long wavy white hair that's plain, Pale Brown eyes, and Brown skin
 - Is Iconoclastic and Puritanical, and has Innovation as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Senna Tryton]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

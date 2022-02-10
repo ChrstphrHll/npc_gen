@@ -17,7 +17,7 @@ birthday:
   written: 24th of Iounent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Cam Lazziar
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Beleriand
 - Sorcerer
 - Protection
+- Student
 - 7th
 - Alderden
 ---
 # Rei Mardeiym
----
 ### Description
 - Firbolg Sorcerer from Beleriand
 - 7th year Protection student in Alderden
 - long straight blonde hair that's braided, Pale Blue eyes, and Pale Green skin
 - Is Patient and Narrow-minded, and has Grace as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Cam Lazziar]]: partymate
 - [[Jofan Elignoir]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

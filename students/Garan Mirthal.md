@@ -18,7 +18,7 @@ birthday:
   written: 33rd of Corelent
 origin: Kordinia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Matto Divya
   type: partymate
@@ -47,16 +47,18 @@ tags:
 - Kordinia
 - Ranger
 - Exploration
+- Student
 - 1st
 - Jettenia
 ---
 # Garan Mirthal
----
 ### Description
 - Halfling Ranger from Kordinia
 - 1st year Exploration student in Jettenia
 - short wavy blonde hair that's put up, Pale Gray eyes, and Pale skin
 - Is Neutral and Bashful, and has Friendship as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -65,8 +67,6 @@ tags:
 - [[Ysak Llewellenar]]: partymate
 - [[Alver Boneflare]]: partymate
 - [[Iasono Ynshael]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

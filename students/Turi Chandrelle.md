@@ -15,7 +15,7 @@ birthday:
   written: 20th of Moradent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kunjal Iefyr
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Qualnis
 - Rouge
 - Protection
+- Student
 - 4th
 - Fiesn
 ---
 # Turi Chandrelle
----
 ### Description
 - Gnome Rouge from Qualnis
 - 4th year Protection student in Fiesn
 - shoulder length curly red hair that's messy, Blue eyes, and Fair skin
 - Is Mature and Enigmatic, and has Indulgence as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Kunjal Iefyr]]: partymate
 - [[Guliemos Nym]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

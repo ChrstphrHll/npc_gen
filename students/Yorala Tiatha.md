@@ -16,7 +16,7 @@ birthday:
   written: 24th of Ravenent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Matos Mektal
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Whyndiem
 - Monk
 - Protection
+- Student
 - 5th
 - Jettenia
 ---
 # Yorala Tiatha
----
 ### Description
 - Triton Monk from Whyndiem
 - 5th year Protection student in Jettenia
 - long straight platinum hair that's braided, Deep Blue eyes, and Emerald Green skin
 - Is Educated and False, and has Excitement as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Adros Tolthe]]: partymate
 - [[Selina Ochyllyss]]: partymate
 - [[Ivistra Stockton]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

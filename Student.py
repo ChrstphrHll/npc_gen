@@ -31,7 +31,6 @@ class Student(Person):
     def get_md(self):
         all_lines = []
         all_lines.append(f"# {self.name}")
-        all_lines.append("---")
         all_lines.append("### Description")
         all_lines.append(f"- {self.race} {self.spec} from {self.origin}")
         all_lines.append(f"- {sfx.suffixify_number(self.year)} year {self.track} student in {self.guild}")
@@ -39,9 +38,9 @@ class Student(Person):
         all_lines.append(f"- Is {self.trait1} and {self.trait2}, and has {self.ideal} as their ideal")
         all_lines.append("")
 
+        all_lines.extend(self.readable_notes())
         all_lines.extend(self.readable_organizations())
         all_lines.extend(self.readable_relationships())
-        all_lines.extend(self.readable_notes())
 
         all_lines.append("### Stats")
         all_lines.append(self.get_stat_block())
@@ -60,6 +59,7 @@ stats: {stats}
         tags = super().create_tags()
         tags.append(self.spec)
         tags.append(self.track)
+        tags.append("Student")
         tags.append(sfx.suffixify_number(self.year))
         tags.append(self.guild)
         return self.process_spaces(tags)

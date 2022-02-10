@@ -15,7 +15,7 @@ birthday:
   written: 15th of Avanent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kanoi Xharlion
   type: partymate
@@ -38,23 +38,23 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Sorcerer
 - Assault
+- Student
 - 2nd
 - Elkenval
 ---
 # Ljuk Vulkor
----
 ### Description
 - Dwarf Sorcerer from Principality of the Palus Peoples
 - 2nd year Assault student in Elkenval
 - shoulder length frizzy white hair that's plain, Pale Green eyes, and Tan skin
 - Is Mystical and Negligent, and has Teamwork as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Kanoi Xharlion]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 11th of Moradent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Goshwa Khiipaera
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Beleriand
 - Sorcerer
 - Assault
+- Student
 - 5th
 - Elkenval
 ---
 # Julyo Agassi
----
 ### Description
 - Dwarf Sorcerer from Beleriand
 - 5th year Assault student in Elkenval
 - shoulder length curly brunette hair that's plain, Green eyes, and Dark Brown skin
 - Is Stable and Harsh, and has Peace as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Goshwa Khiipaera]]: partymate
 - [[Vila Tassarion]]: partymate
 - [[Mavrek Aolis]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

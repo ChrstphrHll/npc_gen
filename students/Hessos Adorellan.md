@@ -16,7 +16,7 @@ birthday:
   written: 11th of Moradent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kendel Shael
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Shadesburry_Initiative
 - Wizard
 - Exploration
+- Student
 - 1st
 - Alderden
 ---
 # Hessos Adorellan
----
 ### Description
 - Gnome Wizard from Shadesburry Initiative
 - 1st year Exploration student in Alderden
 - long straight white hair that's wild, Gray eyes, and Tan skin
 - Is Punctual and Pharissical, and has Optimism as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Kendel Shael]]: partymate
 - [[Asmiak Seirye]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

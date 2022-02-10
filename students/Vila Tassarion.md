@@ -17,7 +17,7 @@ birthday:
   written: 24th of Melorent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Julyo Agassi
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Aldercrown_Empire
 - Bard
 - Diplomacy
+- Student
 - 5th
 - Elkenval
 ---
 # Vila Tassarion
----
 ### Description
 - Human Bard from Aldercrown Empire
 - 5th year Diplomacy student in Elkenval
 - shoulder length straight lighter blonde hair that's messy, Pale Green eyes, and Pale skin
 - Is Educated and Effeminate, and has Power as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Julyo Agassi]]: partymate
 - [[Goshwa Khiipaera]]: partymate
 - [[Mavrek Aolis]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

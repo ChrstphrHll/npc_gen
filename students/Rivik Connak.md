@@ -17,7 +17,7 @@ birthday:
   written: 32nd of Melorent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kessa Keller
   type: partymate
@@ -40,23 +40,23 @@ tags:
 - Whyndiem
 - Monk
 - Assault
+- Student
 - 3rd
 - Elkenval
 ---
 # Rivik Connak
----
 ### Description
 - Triton Monk from Whyndiem
 - 3rd year Assault student in Elkenval
 - shoulder length wavy auburn hair that's messy, Aqua eyes, and Olive skin
 - Is Hearty and Neutral, and has Humanity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Kessa Keller]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -18,7 +18,7 @@ birthday:
   written: 6th of Pelent
 origin: Kordinia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Guliemos Nym
   type: partymate
@@ -43,24 +43,24 @@ tags:
 - Kordinia
 - Cleric
 - Protection
+- Student
 - 4th
 - Fiesn
 ---
 # Kunjal Iefyr
----
 ### Description
 - Halfling Cleric from Kordinia
 - 4th year Protection student in Fiesn
 - long straight black hair that's braided, Pale Gray eyes, and Light Tan skin
 - Is Carefree and Mannerless, and has Faith as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Guliemos Nym]]: partymate
 - [[Turi Chandrelle]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 2nd of Corelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Delila Felaern
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Aldercrown_Empire
 - Rouge
 - Diplomacy
+- Student
 - 5th
 - Elkenval
 ---
 # Dylan Usunaar
----
 ### Description
 - Half-Orc Rouge from Aldercrown Empire
 - 5th year Diplomacy student in Elkenval
 - short curly platinum hair that's braided, Pale Blue eyes, and Deep Green skin
 - Is Focused and Naughty, and has Enjoyment as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Delila Felaern]]: partymate
 - [[Aurikallos Biafyndar]]: partymate
 - [[Grace Festus]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 24th of Ravenent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Victor Gaelira
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Verdain
 - Druid
 - Protection
+- Student
 - 1st
 - Fiesn
 ---
 # Halya Jian
----
 ### Description
 - Genasi Druid from Verdain
 - 1st year Protection student in Fiesn
 - shoulder length curly black hair that's well kept, Blue eyes, and fire skin
 - Is Farsighted and Imprudent, and has Home as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Victor Gaelira]]: partymate
 - [[Goetia Mistale]]: partymate
 - [[Handyr Letryal]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

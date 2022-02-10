@@ -16,7 +16,7 @@ birthday:
   written: 2nd of Melorent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jofan Elignoir
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Verdain
 - Bard
 - Protection
+- Student
 - 7th
 - Alderden
 ---
 # Cam Lazziar
----
 ### Description
 - Firbolg Bard from Verdain
 - 7th year Protection student in Alderden
 - long curly dirty blonde hair that's plain, Hazel eyes, and Pale Blue skin
 - Is Obliging and Venal, and has Spontaneity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Jofan Elignoir]]: partymate
 - [[Rei Mardeiym]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

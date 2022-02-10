@@ -16,7 +16,7 @@ birthday:
   written: 26th of Iounent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Leah Faelar
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Aldercrown_Empire
 - Ranger
 - Diplomacy
+- Student
 - 1st
 - Treskal
 ---
 # Tilo Connak
----
 ### Description
 - Tiefling Ranger from Aldercrown Empire
 - 1st year Diplomacy student in Treskal
 - short straight blue hair that's messy, Pale Brown eyes, and Olive skin
 - Is Gritty and Modern, and has Humane as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Leah Faelar]]: partymate
 - [[Branus Shadegrove]]: partymate
 - [[Angel Nushala]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

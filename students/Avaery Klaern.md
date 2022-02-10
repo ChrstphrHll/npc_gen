@@ -15,7 +15,7 @@ birthday:
   written: 29th of Korent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Juppar Kershaw
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Aldercrown_Empire
 - Barbarian
 - Exploration
+- Student
 - 1st
 - Jettenia
 ---
 # Avaery Klaern
----
 ### Description
 - Halfling Barbarian from Aldercrown Empire
 - 1st year Exploration student in Jettenia
 - short straight white hair that's plain, Amber eyes, and Fair skin
 - Is Silent and Unimaginative, and has Cooperation as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Juppar Kershaw]]: partymate
 - [[Milae Ditka]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

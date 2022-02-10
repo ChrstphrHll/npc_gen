@@ -18,7 +18,7 @@ birthday:
   written: 17th of Melorent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Yakob Lydialeera
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Beleriand
 - Paladin
 - Assault
+- Student
 - 1st
 - Elkenval
 ---
 # Wulfe Galan
----
 ### Description
 - Genasi Paladin from Beleriand
 - 1st year Assault student in Elkenval
 - short straight brunette hair that's messy, Emerald Green eyes, and fire skin
 - Is Steadfast and Mellow, and has Vengful as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -62,8 +64,6 @@ tags:
 - [[Yakob Lydialeera]]: partymate
 - [[Nicolle Shandalar]]: partymate
 - [[Lichie Halliwell]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

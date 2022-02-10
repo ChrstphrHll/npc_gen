@@ -16,7 +16,7 @@ birthday:
   written: 26th of Moradent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Shinare Bersa
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Whyndiem
 - Druid
 - Assault
+- Student
 - 1st
 - Fiesn
 ---
 # Valerya Haldreithen
----
 ### Description
 - Triton Druid from Whyndiem
 - 1st year Assault student in Fiesn
 - shoulder length straight strawberry blond hair that's plain, Pale Brown eyes, and Spring Green skin
 - Is Fair and Mechanical, and has Courage as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Shinare Bersa]]: partymate
 - [[Ezros Laerdya]]: partymate
 - [[Rjanna Eroan]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

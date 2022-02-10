@@ -15,7 +15,7 @@ birthday:
   written: 22nd of Corelent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Lenn Schimae
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Magmus_Centerhold
 - Paladin
 - Exploration
+- Student
 - 6th
 - Treskal
 ---
 # Gifre Edyrm
----
 ### Description
 - Half-Elf Paladin from Magmus Centerhold
 - 6th year Exploration student in Treskal
 - short curly black hair that's plain, Amber eyes, and Dark Brown skin
 - Is Moralistic and Angry, and has Humane as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Lenn Schimae]]: partymate
 - [[Robett Grell]]: partymate
 - [[Savanna Ildilyntra]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

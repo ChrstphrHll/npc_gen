@@ -17,7 +17,7 @@ birthday:
   written: 16th of Korent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Alonnos Xanotter
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Aldercrown_Empire
 - Monk
 - Diplomacy
+- Student
 - 1st
 - Elkenval
 ---
 # Shoulree Letryal
----
 ### Description
 - Tiefling Monk from Aldercrown Empire
 - 1st year Diplomacy student in Elkenval
 - long straight platinum hair that's plain, Emerald Green eyes, and Olive skin
 - Is Insistent and Solemn, and has Self-Fulfillment as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Alonnos Xanotter]]: partymate
 - [[Levi Kicklighter]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

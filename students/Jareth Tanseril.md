@@ -17,7 +17,7 @@ birthday:
   written: 2nd of Pelent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jaris Amlaruil
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Qualnis
 - Artificer
 - Exploration
+- Student
 - 7th
 - Jettenia
 ---
 # Jareth Tanseril
----
 ### Description
 - Gnome Artificer from Qualnis
 - 7th year Exploration student in Jettenia
 - shoulder length straight white hair that's well kept, Blue eyes, and Light skin
 - Is Sage and Unreliable, and has Learning as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Jaris Amlaruil]]: partymate
 - [[Aksel Strohm]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

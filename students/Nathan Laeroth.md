@@ -16,7 +16,7 @@ birthday:
   written: 5th of Corelent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jendrellian Webb
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Shadesburry_Initiative
 - Artificer
 - Diplomacy
+- Student
 - 1st
 - Elkenval
 ---
 # Nathan Laeroth
----
 ### Description
 - Gnome Artificer from Shadesburry Initiative
 - 1st year Diplomacy student in Elkenval
 - shoulder length straight red hair that's messy, Blue eyes, and Pale skin
 - Is Sweet and Wicked, and has Fun as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Jendrellian Webb]]: partymate
 - [[Pike Tethir]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

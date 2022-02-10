@@ -16,7 +16,7 @@ birthday:
   written: 22nd of Avanent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Romen Uldreiyn
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Aldercrown_Empire
 - Paladin
 - Exploration
+- Student
 - 8th
 - Fiesn
 ---
 # Brahm Delmuth
----
 ### Description
 - Half-Orc Paladin from Aldercrown Empire
 - 8th year Exploration student in Fiesn
 - short frizzy green hair that's messy, Pale Blue eyes, and Pale Green skin
 - Is Exuberant and Conservative, and has Stoicism as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Rianna Belt]]: partymate
 - [[Tez Bialaer]]: partymate
 - [[Zylphan Molostroi]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

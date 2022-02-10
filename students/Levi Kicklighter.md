@@ -16,7 +16,7 @@ birthday:
   written: 10th of Iounent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Alonnos Xanotter
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Beleriand
 - Paladin
 - Exploration
+- Student
 - 1st
 - Elkenval
 ---
 # Levi Kicklighter
----
 ### Description
 - Goliath Paladin from Beleriand
 - 1st year Exploration student in Elkenval
 - short straight strawberry blond hair that's plain, Pale Gray eyes, and Fair skin
 - Is Hearty and Airy, and has Compassion as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Alonnos Xanotter]]: partymate
 - [[Shoulree Letryal]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

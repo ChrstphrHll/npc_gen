@@ -17,7 +17,7 @@ birthday:
   written: 11th of Melorent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Ezekius Chalsarda
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Aldercrown_Empire
 - Druid
 - Protection
+- Student
 - 6th
 - Burk
 ---
 # Moki Aelynthi
----
 ### Description
 - Gnome Druid from Aldercrown Empire
 - 6th year Protection student in Burk
 - long wavy dark red hair that's braided, Pale Gray eyes, and Tan skin
 - Is Open and Devious, and has Live and Let Live as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Ezekius Chalsarda]]: partymate
 - [[Gianesia Onvyr]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

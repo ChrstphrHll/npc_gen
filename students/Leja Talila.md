@@ -16,7 +16,7 @@ birthday:
   written: 13th of Avanent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Natalia Endo
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Beleriand
 - Sorcerer
 - Diplomacy
+- Student
 - 3rd
 - Burk
 ---
 # Leja Talila
----
 ### Description
 - Elf Sorcerer from Beleriand
 - 3rd year Diplomacy student in Burk
 - short curly violet hair that's plain, Hazel eyes, and Fair skin
 - Is Upright and Monstrous, and has Prosperity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Natalia Endo]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

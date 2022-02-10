@@ -15,7 +15,7 @@ birthday:
   written: 13th of Iounent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kazoan Windward
   type: partymate
@@ -38,23 +38,23 @@ tags:
 - Aldercrown_Empire
 - Ranger
 - Diplomacy
+- Student
 - 2nd
 - Treskal
 ---
 # Saccaros Anaharae
----
 ### Description
 - Tiefling Ranger from Aldercrown Empire
 - 2nd year Diplomacy student in Treskal
 - shoulder length straight auburn hair that's wild, Purple eyes, and Aqua skin
 - Is Confident and Naïve, and has Hard Work as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Kazoan Windward]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

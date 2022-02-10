@@ -16,7 +16,7 @@ birthday:
   written: 11th of Corelent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Skalanis Kobayashi
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Beleriand
 - Artificer
 - Assault
+- Student
 - 6th
 - Jettenia
 ---
 # Pippi Langston
----
 ### Description
 - Tiefling Artificer from Beleriand
 - 6th year Assault student in Jettenia
 - shoulder length straight white hair that's well kept, Orange eyes, and Olive skin
 - Is Passionate and Unimaginative, and has Competition as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Skalanis Kobayashi]]: partymate
 - [[Jerrick Yarbrough]]: partymate
 - [[Miglus Yrlissa]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

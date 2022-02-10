@@ -16,7 +16,7 @@ birthday:
   written: 32nd of Korent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Eadyth Lora
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Whyndiem
 - Fighter
 - Protection
+- Student
 - 2nd
 - Jettenia
 ---
 # Ruby Kythaela
----
 ### Description
 - Triton Fighter from Whyndiem
 - 2nd year Protection student in Jettenia
 - long wavy black hair that's plain, Amber eyes, and Spring Green skin
 - Is Paternalistic and Pleasing, and has Love as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Eadyth Lora]]: partymate
 - [[Sammen Axilya]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

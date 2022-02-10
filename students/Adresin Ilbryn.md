@@ -16,7 +16,7 @@ birthday:
   written: 22nd of Moradent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Diegon Verrona
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Magmus_Centerhold
 - Paladin
 - Exploration
+- Student
 - 1st
 - Elkenval
 ---
 # Adresin Ilbryn
----
 ### Description
 - Genasi Paladin from Magmus Centerhold
 - 1st year Exploration student in Elkenval
 - short curly auburn hair that's put up, Gray eyes, and air skin
 - Is Bashful and Insulting, and has Greed as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Diegon Verrona]]: partymate
 - [[Kayla Kaminsky]]: partymate
 - [[Holys Hachaam]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

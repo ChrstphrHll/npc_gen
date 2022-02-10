@@ -16,7 +16,7 @@ birthday:
   written: 14th of Avanent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Oyara Faoraar
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Draconia
 - Sorcerer
 - Diplomacy
+- Student
 - 4th
 - Elkenval
 ---
 # Sybasten Simimar
----
 ### Description
 - Dragonborn Sorcerer from Draconia
 - 4th year Diplomacy student in Elkenval
 - 2 curled horns, Hazel eyes, and copper skin
 - Is Self-reliant and Complacent, and has Excitement as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Oyara Faoraar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

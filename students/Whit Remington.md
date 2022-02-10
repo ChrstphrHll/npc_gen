@@ -16,7 +16,7 @@ birthday:
   written: 23rd of Korent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hazel Traeliorn
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Whyndiem
 - Wizard
 - Protection
+- Student
 - 1st
 - Burk
 ---
 # Whit Remington
----
 ### Description
 - Triton Wizard from Whyndiem
 - 1st year Protection student in Burk
 - short curly grey hair that's plain, Pale Blue eyes, and Emerald Green skin
 - Is Risk-taking and Irresponsible, and has Greed as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Hazel Traeliorn]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

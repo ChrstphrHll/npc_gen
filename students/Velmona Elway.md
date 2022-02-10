@@ -15,7 +15,7 @@ birthday:
   written: 6th of Avanent
 origin: Black Rock
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Theodus Chylnoth
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Black_Rock
 - Monk
 - Assault
+- Student
 - 1st
 - Elkenval
 ---
 # Velmona Elway
----
 ### Description
 - Kenku Monk from Black Rock
 - 1st year Assault student in Elkenval
 - speckled, Hazel eyes, and Red skin
 - Is Civilised and Sadistic, and has Generosity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Theodus Chylnoth]]: partymate
 - [[Athyn Urddusk]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 5th of Ravenent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Gina Grandius
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Aldercrown_Empire
 - Bard
 - Diplomacy
+- Student
 - 3rd
 - Alderden
 ---
 # Hanna Estelar
----
 ### Description
 - Human Bard from Aldercrown Empire
 - 3rd year Diplomacy student in Alderden
 - long wavy brunette hair that's plain, Pale Gray eyes, and Dark Tan skin
 - Is Responsive and Unrestrained, and has Independence as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Gina Grandius]]: partymate
 - [[Leya Escobar]]: partymate
 - [[Ramona Saida]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 1st of Corelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hanna Arkhun
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Aldercrown_Empire
 - Rouge
 - Assault
+- Student
 - 1st
 - Treskal
 ---
 # Maia Ashsorrow
----
 ### Description
 - Halfling Rouge from Aldercrown Empire
 - 1st year Assault student in Treskal
 - long curly grey hair that's plain, Blue eyes, and Fair skin
 - Is Idiosyncratic and Overimaginative, and has Religion as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Hanna Arkhun]]: partymate
 - [[Joyce Helartha]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 27th of Iounent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Willam Ardryll
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Shadesburry_Initiative
 - Cleric
 - Assault
+- Student
 - 2nd
 - Treskal
 ---
 # Graisen Thalanil
----
 ### Description
 - Half-Orc Cleric from Shadesburry Initiative
 - 2nd year Assault student in Treskal
 - long straight dark red hair that's plain, Pale Green eyes, and Deep Green skin
 - Is Intense and Envious, and has Encouragement as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Willam Ardryll]]: partymate
 - [[Themistoklea Nevarth]]: partymate
 - [[Lucoe Lorelei]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

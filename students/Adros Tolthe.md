@@ -16,7 +16,7 @@ birthday:
   written: 33rd of Avanent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 1
 relationships:
 - name: Matos Mektal
   type: partymate
@@ -26,8 +26,13 @@ relationships:
   type: partymate
 - name: Ivistra Stockton
   type: partymate
+- name: Wryn Ashval
+  type: friends
+- name: Exilov Dokburn
+  type: friends
 organizations: []
-notes: []
+notes:
+- plays guitar
 track: Exploration
 spec: Bard
 stats:
@@ -45,16 +50,19 @@ tags:
 - Chillwild_Peaks
 - Bard
 - Exploration
+- Student
 - 5th
 - Jettenia
 ---
 # Adros Tolthe
----
 ### Description
 - Goliath Bard from Chillwild Peaks
 - 5th year Exploration student in Jettenia
 - short wavy white hair that's wild, Pale Blue eyes, and Tan skin
 - Is Scholarly and Overimaginative, and has Uncaring as their ideal
+
+### Notes
+- plays guitar
 
 ### Organizations
 
@@ -63,8 +71,8 @@ tags:
 - [[Selina Ochyllyss]]: partymate
 - [[Yorala Tiatha]]: partymate
 - [[Ivistra Stockton]]: partymate
-
-### Notes
+- [[Wryn Ashval]]: friends
+- [[Exilov Dokburn]]: friends
 
 ### Stats
 ```statblock

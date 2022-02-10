@@ -16,7 +16,7 @@ birthday:
   written: 31st of Pelent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Brinna Muerlara
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Chillwild_Peaks
 - Fighter
 - Protection
+- Student
 - 1st
 - Burk
 ---
 # Rosherren Haladavar
----
 ### Description
 - Genasi Fighter from Chillwild Peaks
 - 1st year Protection student in Burk
 - short straight auburn hair that's messy, Pale Green eyes, and earth skin
 - Is Discerning and Artificial, and has Excitement as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Brinna Muerlara]]: partymate
 - [[Pynelope Valhein]]: partymate
 - [[Tisette Bender]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

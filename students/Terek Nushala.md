@@ -15,7 +15,7 @@ birthday:
   written: 19th of Melorent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Scarletta Elora
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Whyndiem
 - Wizard
 - Protection
+- Student
 - 2nd
 - Fiesn
 ---
 # Terek Nushala
----
 ### Description
 - Triton Wizard from Whyndiem
 - 2nd year Protection student in Fiesn
 - long curly platinum hair that's wild, Purple eyes, and Deep Blue skin
 - Is Circumspect and Ridiculous, and has Self-Fulfillment as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Scarletta Elora]]: partymate
 - [[Barak Felaern]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

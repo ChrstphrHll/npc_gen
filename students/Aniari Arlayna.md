@@ -16,7 +16,7 @@ birthday:
   written: 3rd of Melorent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Nycola Eroan
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Aldercrown_Empire
 - Barbarian
 - Assault
+- Student
 - 1st
 - Elkenval
 ---
 # Aniari Arlayna
----
 ### Description
 - Elf Barbarian from Aldercrown Empire
 - 1st year Assault student in Elkenval
 - long straight red hair that's messy, Pale Brown eyes, and Light skin
 - Is Knowledgeable and Dishonest, and has Courage as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Nycola Eroan]]: partymate
 - [[Eliana Saevel]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

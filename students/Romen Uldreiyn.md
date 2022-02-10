@@ -16,7 +16,7 @@ birthday:
   written: 17th of Pelent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Brahm Delmuth
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Chillwild_Peaks
 - Druid
 - Protection
+- Student
 - 8th
 - Fiesn
 ---
 # Romen Uldreiyn
----
 ### Description
 - Goliath Druid from Chillwild Peaks
 - 8th year Protection student in Fiesn
 - short frizzy dark red hair that's messy, Pale Blue eyes, and Light Tan skin
 - Is Self-reliant and Superficial, and has Fitness as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Rianna Belt]]: partymate
 - [[Tez Bialaer]]: partymate
 - [[Zylphan Molostroi]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

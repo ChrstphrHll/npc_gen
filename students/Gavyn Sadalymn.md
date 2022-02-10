@@ -16,7 +16,7 @@ birthday:
   written: 14th of Moradent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kloya Kershaw
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Qualnis
 - Ranger
 - Diplomacy
+- Student
 - 5th
 - Jettenia
 ---
 # Gavyn Sadalymn
----
 ### Description
 - Human Ranger from Qualnis
 - 5th year Diplomacy student in Jettenia
 - shoulder length wavy platinum hair that's messy, Hazel eyes, and Light Tan skin
 - Is Efficient and Retiring, and has Nature as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Kloya Kershaw]]: partymate
 - [[Natylie Rathal]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

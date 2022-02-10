@@ -16,7 +16,7 @@ birthday:
   written: 33rd of Korent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Grassa Ashbluff
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Magmus_Centerhold
 - Druid
 - Diplomacy
+- Student
 - 7th
 - Fiesn
 ---
 # Brithmaur Decker
----
 ### Description
 - Half-Orc Druid from Magmus Centerhold
 - 7th year Diplomacy student in Fiesn
 - short wavy brunette hair that's well kept, Pale Brown eyes, and Green Blue skin
 - Is Strong-willed and Boorish, and has Independence as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Grassa Ashbluff]]: partymate
 - [[Braidyn Kemetra]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

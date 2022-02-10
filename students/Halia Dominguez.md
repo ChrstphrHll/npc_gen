@@ -18,7 +18,7 @@ birthday:
   written: 22nd of Melorent
 origin: Glasscliff Garisons
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jess Beebe
   type: partymate
@@ -43,24 +43,24 @@ tags:
 - Glasscliff_Garisons
 - Paladin
 - Protection
+- Student
 - 3rd
 - Fiesn
 ---
 # Halia Dominguez
----
 ### Description
 - Triton Paladin from Glasscliff Garisons
 - 3rd year Protection student in Fiesn
 - long straight dark red hair that's plain, Purple eyes, and Emerald Green skin
 - Is Earthy and Unfriendly, and has Learning as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Jess Beebe]]: partymate
 - [[Tyego Sinaht]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

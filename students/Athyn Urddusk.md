@@ -15,7 +15,7 @@ birthday:
   written: 20th of Ravenent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Theodus Chylnoth
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Beleriand
 - Artificer
 - Assault
+- Student
 - 1st
 - Elkenval
 ---
 # Athyn Urddusk
----
 ### Description
 - Human Artificer from Beleriand
 - 1st year Assault student in Elkenval
 - long frizzy grey hair that's plain, Brown eyes, and Light skin
 - Is Purposeful and Ill-bred, and has Wisdom as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Theodus Chylnoth]]: partymate
 - [[Velmona Elway]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

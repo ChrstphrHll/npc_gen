@@ -15,7 +15,7 @@ birthday:
   written: 21st of Melorent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Alinea Hellsturn
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Beleriand
 - Barbarian
 - Assault
+- Student
 - 5th
 - Alderden
 ---
 # Jacomo Jacaranda
----
 ### Description
 - Halfling Barbarian from Beleriand
 - 5th year Assault student in Alderden
 - shoulder length straight pink hair that's braided, Pale Blue eyes, and Pale skin
 - Is Iconoclastic and Narrow, and has Personal Development as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Alinea Hellsturn]]: partymate
 - [[Tommos Morgan]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

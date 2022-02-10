@@ -16,7 +16,7 @@ birthday:
   written: 22nd of Iounent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Den Ualair
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Whyndiem
 - Barbarian
 - Protection
+- Student
 - 3rd
 - Treskal
 ---
 # Ilksal Immianthe
----
 ### Description
 - Triton Barbarian from Whyndiem
 - 3rd year Protection student in Treskal
 - long curly platinum hair that's messy, Blue eyes, and Pale Green skin
 - Is Friendly and Shy, and has Spiritualism as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Den Ualair]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

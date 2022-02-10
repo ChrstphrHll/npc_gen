@@ -16,7 +16,7 @@ birthday:
   written: 7th of Moradent
 origin: Kordinia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Branus Shadegrove
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Kordinia
 - Bard
 - Exploration
+- Student
 - 1st
 - Treskal
 ---
 # Leah Faelar
----
 ### Description
 - Human Bard from Kordinia
 - 1st year Exploration student in Treskal
 - shoulder length curly red hair that's messy, Green eyes, and Light Tan skin
 - Is Intense and Assertive, and has Justice as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Branus Shadegrove]]: partymate
 - [[Tilo Connak]]: partymate
 - [[Angel Nushala]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

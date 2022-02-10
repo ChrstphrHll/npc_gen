@@ -15,7 +15,7 @@ birthday:
   written: 18th of Avanent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Ilksal Immianthe
   type: partymate
@@ -38,23 +38,23 @@ tags:
 - Magmus_Centerhold
 - Artificer
 - Diplomacy
+- Student
 - 3rd
 - Treskal
 ---
 # Den Ualair
----
 ### Description
 - Half-Orc Artificer from Magmus Centerhold
 - 3rd year Diplomacy student in Treskal
 - long straight dirty blonde hair that's well kept, Pale Blue eyes, and Green Blue skin
 - Is Impressive and Faithless, and has Vengful as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Ilksal Immianthe]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 11th of Moradent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Wulfe Galan
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Chillwild_Peaks
 - Druid
 - Assault
+- Student
 - 1st
 - Elkenval
 ---
 # Lichie Halliwell
----
 ### Description
 - Goliath Druid from Chillwild Peaks
 - 1st year Assault student in Elkenval
 - short straight strawberry blond hair that's put up, Gray eyes, and Fair skin
 - Is Accessible and Intemperate, and has Patience as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Wulfe Galan]]: partymate
 - [[Yakob Lydialeera]]: partymate
 - [[Nicolle Shandalar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

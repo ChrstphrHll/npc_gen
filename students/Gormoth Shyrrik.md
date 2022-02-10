@@ -15,7 +15,7 @@ birthday:
   written: 19th of Moradent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kymber Korrigash
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Magmus_Centerhold
 - Paladin
 - Exploration
+- Student
 - 2nd
 - Jettenia
 ---
 # Gormoth Shyrrik
----
 ### Description
 - Dwarf Paladin from Magmus Centerhold
 - 2nd year Exploration student in Jettenia
 - long straight white hair that's plain, Brown eyes, and Pale skin
 - Is Lucky and Finicky, and has Spiritualism as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Kymber Korrigash]]: partymate
 - [[Vaellyn Esyae]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

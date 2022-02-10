@@ -16,7 +16,7 @@ birthday:
   written: 3rd of Melorent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Scarlotta Inqoul
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Shadesburry_Initiative
 - Fighter
 - Exploration
+- Student
 - 4th
 - Burk
 ---
 # Senna Tryton
----
 ### Description
 - Gnome Fighter from Shadesburry Initiative
 - 4th year Exploration student in Burk
 - shoulder length wavy white hair that's messy, Pale Blue eyes, and Light Tan skin
 - Is Pleasant and Breezy, and has Religion as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Scarlotta Inqoul]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

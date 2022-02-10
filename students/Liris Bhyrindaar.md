@@ -17,14 +17,20 @@ birthday:
   written: 18th of Avanent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 1
 relationships:
 - name: Caeleb Embrae
   type: partymate
 - name: Eva Reluvethel
   type: partymate
+- name: Wryn Ashval
+  type: friends
+- name: Exilov Dokburn
+  type: friends
 organizations: []
-notes: []
+notes:
+- Follower of Avandra
+- Steals things she thinks are more useful to her than others
 track: Protection
 spec: Paladin
 stats:
@@ -42,24 +48,28 @@ tags:
 - Chillwild_Peaks
 - Paladin
 - Protection
+- Student
 - 2nd
 - Fiesn
 ---
 # Liris Bhyrindaar
----
 ### Description
 - Goliath Paladin from Chillwild Peaks
 - 2nd year Protection student in Fiesn
 - long curly lighter blonde hair that's braided, Amber eyes, and Dark Brown skin
 - Is Emotional and Troublesome, and has Connection as their ideal
 
+### Notes
+- Follower of Avandra
+- Steals things she thinks are more useful to her than others
+
 ### Organizations
 
 ### Relationships
 - [[Caeleb Embrae]]: partymate
 - [[Eva Reluvethel]]: partymate
-
-### Notes
+- [[Wryn Ashval]]: friends
+- [[Exilov Dokburn]]: friends
 
 ### Stats
 ```statblock

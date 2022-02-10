@@ -15,7 +15,7 @@ birthday:
   written: 4th of Moradent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Brooka Whesker
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Aldercrown_Empire
 - Druid
 - Assault
+- Student
 - 3rd
 - Treskal
 ---
 # Hudsen Elandorr
----
 ### Description
 - Half-Orc Druid from Aldercrown Empire
 - 3rd year Assault student in Treskal
 - long wavy strawberry blond hair that's plain, Pale Blue eyes, and Green Blue skin
 - Is Cooperative and Venomous, and has Success as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Brooka Whesker]]: partymate
 - [[Jacob Jorildyn]]: partymate
 - [[Gabrila Retra]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

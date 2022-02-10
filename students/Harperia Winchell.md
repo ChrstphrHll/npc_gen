@@ -17,7 +17,7 @@ birthday:
   written: 33rd of Korent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Wren Urmicca
   type: partymate
@@ -40,23 +40,23 @@ tags:
 - Qualnis
 - Barbarian
 - Protection
+- Student
 - 1st
 - Elkenval
 ---
 # Harperia Winchell
----
 ### Description
 - Human Barbarian from Qualnis
 - 1st year Protection student in Elkenval
 - long wavy black hair that's plain, Green eyes, and Fair skin
 - Is Unfathomable and Dishonest, and has Involvement as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Wren Urmicca]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

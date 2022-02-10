@@ -17,7 +17,7 @@ birthday:
   written: 5th of Melorent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Tadita Edraele
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Draconia
 - Artificer
 - Protection
+- Student
 - 4th
 - Treskal
 ---
 # Estyn Rhangyl
----
 ### Description
 - Dragonborn Artificer from Draconia
 - 4th year Protection student in Treskal
 - 5 curled horns, Gray eyes, and blue skin
 - Is Harmonious and Talkative, and has Conformity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Tadita Edraele]]: partymate
 - [[Melcyn Taeral]]: partymate
 - [[Robbos Kalaerede]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

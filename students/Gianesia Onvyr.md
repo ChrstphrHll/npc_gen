@@ -15,7 +15,7 @@ birthday:
   written: 25th of Avanent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Moki Aelynthi
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Beleriand
 - Monk
 - Protection
+- Student
 - 6th
 - Burk
 ---
 # Gianesia Onvyr
----
 ### Description
 - Dwarf Monk from Beleriand
 - 6th year Protection student in Burk
 - short straight white hair that's plain, Blue eyes, and Light skin
 - Is Humorous and Opportunistic, and has Competition as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Moki Aelynthi]]: partymate
 - [[Ezekius Chalsarda]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

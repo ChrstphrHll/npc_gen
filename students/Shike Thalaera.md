@@ -16,7 +16,7 @@ birthday:
   written: 9th of Melorent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hodus Belt
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Draconia
 - Paladin
 - Protection
+- Student
 - 1st
 - Burk
 ---
 # Shike Thalaera
----
 ### Description
 - Dragonborn Paladin from Draconia
 - 1st year Protection student in Burk
 - frills, Deep Blue eyes, and black skin
 - Is Prudent and Mechanical, and has Fun as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Hodus Belt]]: partymate
 - [[Delja Iefyr]]: partymate
 - [[Genesys Mhaenal]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

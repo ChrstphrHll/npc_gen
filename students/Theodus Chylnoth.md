@@ -17,7 +17,7 @@ birthday:
   written: 8th of Melorent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Velmona Elway
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Beleriand
 - Monk
 - Assault
+- Student
 - 1st
 - Elkenval
 ---
 # Theodus Chylnoth
----
 ### Description
 - Half-Elf Monk from Beleriand
 - 1st year Assault student in Elkenval
 - short straight auburn hair that's wild, Pale Gray eyes, and Light skin
 - Is Benevolent and Pharissical, and has Beauty as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Velmona Elway]]: partymate
 - [[Athyn Urddusk]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

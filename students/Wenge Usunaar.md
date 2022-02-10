@@ -17,7 +17,7 @@ birthday:
   written: 24th of Corelent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kembley Ralnor
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Verdain
 - Monk
 - Exploration
+- Student
 - 8th
 - Jettenia
 ---
 # Wenge Usunaar
----
 ### Description
 - Firbolg Monk from Verdain
 - 8th year Exploration student in Jettenia
 - long curly black hair that's plain, Hazel eyes, and Pale Gray skin
 - Is Supportive and Opportunistic, and has Greed as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Kembley Ralnor]]: partymate
 - [[Celaeno Amkissra]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

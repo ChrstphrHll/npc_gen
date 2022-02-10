@@ -16,7 +16,7 @@ birthday:
   written: 23rd of Melorent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Railyn Retenia
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Beleriand
 - Paladin
 - Assault
+- Student
 - 3rd
 - Jettenia
 ---
 # Jovos Seldanna
----
 ### Description
 - Half-Elf Paladin from Beleriand
 - 3rd year Assault student in Jettenia
 - shoulder length straight dirty blonde hair that's braided, Brown eyes, and Light Tan skin
 - Is Suave and Crude, and has Peace as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Railyn Retenia]]: partymate
 - [[Cartyr Tamsin]]: partymate
 - [[Jaxon Brindarry]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

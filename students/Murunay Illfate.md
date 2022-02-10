@@ -16,7 +16,7 @@ birthday:
   written: 20th of Pelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hazel Winters
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Aldercrown_Empire
 - Ranger
 - Exploration
+- Student
 - 4th
 - Burk
 ---
 # Murunay Illfate
----
 ### Description
 - Elf Ranger from Aldercrown Empire
 - 4th year Exploration student in Burk
 - shoulder length straight auburn hair that's wild, Brown eyes, and Brown skin
 - Is Restrained and Immature, and has Affection as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Hazel Winters]]: partymate
 - [[Lincon Nylaathria]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 23rd of Avanent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Brinna Muerlara
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Shadesburry_Initiative
 - Paladin
 - Assault
+- Student
 - 1st
 - Burk
 ---
 # Tisette Bender
----
 ### Description
 - Gnome Paladin from Shadesburry Initiative
 - 1st year Assault student in Burk
 - shoulder length wavy platinum hair that's put up, Gray eyes, and Brown skin
 - Is Profound and Plain, and has Logic as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Brinna Muerlara]]: partymate
 - [[Pynelope Valhein]]: partymate
 - [[Rosherren Haladavar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

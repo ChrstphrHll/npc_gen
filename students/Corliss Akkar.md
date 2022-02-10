@@ -15,7 +15,7 @@ birthday:
   written: 32nd of Pelent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Lynx Galather
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Magmus_Centerhold
 - Rouge
 - Exploration
+- Student
 - 1st
 - Burk
 ---
 # Corliss Akkar
----
 ### Description
 - Half-Orc Rouge from Magmus Centerhold
 - 1st year Exploration student in Burk
 - short straight brunette hair that's well kept, Hazel eyes, and Deep Green skin
 - Is Sneaky and Hidebound, and has Self-Fulfillment as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Lynx Galather]]: partymate
 - [[Aenglo Dyffros]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

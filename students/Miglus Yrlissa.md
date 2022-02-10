@@ -15,7 +15,7 @@ birthday:
   written: 21st of Avanent
 origin: Glasscliff Garisons
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Skalanis Kobayashi
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Glasscliff_Garisons
 - Fighter
 - Assault
+- Student
 - 6th
 - Jettenia
 ---
 # Miglus Yrlissa
----
 ### Description
 - Triton Fighter from Glasscliff Garisons
 - 6th year Assault student in Jettenia
 - shoulder length wavy lighter blonde hair that's plain, Pale Brown eyes, and Aqua skin
 - Is Objective and Sensual, and has Generosity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Skalanis Kobayashi]]: partymate
 - [[Pippi Langston]]: partymate
 - [[Jerrick Yarbrough]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

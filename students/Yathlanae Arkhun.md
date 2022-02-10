@@ -16,7 +16,7 @@ birthday:
   written: 8th of Ravenent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Halja Dwyer
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Beleriand
 - Sorcerer
 - Diplomacy
+- Student
 - 1st
 - Alderden
 ---
 # Yathlanae Arkhun
----
 ### Description
 - Half-Elf Sorcerer from Beleriand
 - 1st year Diplomacy student in Alderden
 - long wavy white hair that's messy, Pale Blue eyes, and Brown skin
 - Is Graceful and Troublesome, and has Wealth as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Halja Dwyer]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

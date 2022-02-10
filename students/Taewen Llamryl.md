@@ -17,7 +17,7 @@ birthday:
   written: 25th of Iounent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Everen Malfoy
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Aldercrown_Empire
 - Artificer
 - Assault
+- Student
 - 2nd
 - Fiesn
 ---
 # Taewen Llamryl
----
 ### Description
 - Human Artificer from Aldercrown Empire
 - 2nd year Assault student in Fiesn
 - long straight auburn hair that's plain, Amber eyes, and Tan skin
 - Is Fearless and High-spirited, and has Renewal as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Everen Malfoy]]: partymate
 - [[Iaen Dannyd]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 19th of Corelent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Shinare Bersa
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Beleriand
 - Cleric
 - Exploration
+- Student
 - 1st
 - Fiesn
 ---
 # Ezros Laerdya
----
 ### Description
 - Elf Cleric from Beleriand
 - 1st year Exploration student in Fiesn
 - long curly brunette hair that's put up, Pale Brown eyes, and Light skin
 - Is Loving and Monstrous, and has Fame as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Shinare Bersa]]: partymate
 - [[Rjanna Eroan]]: partymate
 - [[Valerya Haldreithen]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

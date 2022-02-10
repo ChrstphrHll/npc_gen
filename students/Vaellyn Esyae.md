@@ -16,7 +16,7 @@ birthday:
   written: 30th of Melorent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kymber Korrigash
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Aldercrown_Empire
 - Cleric
 - Exploration
+- Student
 - 2nd
 - Jettenia
 ---
 # Vaellyn Esyae
----
 ### Description
 - Triton Cleric from Aldercrown Empire
 - 2nd year Exploration student in Jettenia
 - long straight auburn hair that's well kept, Yellow eyes, and Pale Blue skin
 - Is Thrilling and Oppressed, and has Success as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Kymber Korrigash]]: partymate
 - [[Gormoth Shyrrik]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

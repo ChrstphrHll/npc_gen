@@ -17,7 +17,7 @@ birthday:
   written: 23rd of Iounent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Pinna Vanius
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Whyndiem
 - Wizard
 - Assault
+- Student
 - 7th
 - Fiesn
 ---
 # Kaeli Khiiral
----
 ### Description
 - Triton Wizard from Whyndiem
 - 7th year Assault student in Fiesn
 - shoulder length wavy white hair that's put up, Brown eyes, and Pale Gray skin
 - Is Winning and Meretricious, and has Reciprocity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Pinna Vanius]]: partymate
 - [[Delos Ehlark]]: partymate
 - [[Ryan Ebersol]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

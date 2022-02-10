@@ -16,7 +16,7 @@ birthday:
   written: 10th of Melorent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Dylan Usunaar
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Shadesburry_Initiative
 - Monk
 - Protection
+- Student
 - 5th
 - Elkenval
 ---
 # Aurikallos Biafyndar
----
 ### Description
 - Gnome Monk from Shadesburry Initiative
 - 5th year Protection student in Elkenval
 - shoulder length straight platinum hair that's put up, Gray eyes, and Pale skin
 - Is Placid and Repugnant, and has Righteous as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Dylan Usunaar]]: partymate
 - [[Delila Felaern]]: partymate
 - [[Grace Festus]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 30th of Corelent
 origin: Kordinia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Pippi Langston
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Kordinia
 - Druid
 - Exploration
+- Student
 - 6th
 - Jettenia
 ---
 # Skalanis Kobayashi
----
 ### Description
 - Halfling Druid from Kordinia
 - 6th year Exploration student in Jettenia
 - long wavy auburn hair that's braided, Pale Blue eyes, and Dark Tan skin
 - Is Profound and High-handed, and has Connection as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Pippi Langston]]: partymate
 - [[Jerrick Yarbrough]]: partymate
 - [[Miglus Yrlissa]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

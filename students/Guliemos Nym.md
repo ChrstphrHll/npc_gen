@@ -17,7 +17,7 @@ birthday:
   written: 9th of Pelent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kunjal Iefyr
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Beleriand
 - Fighter
 - Diplomacy
+- Student
 - 4th
 - Fiesn
 ---
 # Guliemos Nym
----
 ### Description
 - Half-Elf Fighter from Beleriand
 - 4th year Diplomacy student in Fiesn
 - shoulder length straight dark red hair that's well kept, Pale Green eyes, and Dark Tan skin
 - Is Solemn and Critical, and has Affection as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Kunjal Iefyr]]: partymate
 - [[Turi Chandrelle]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

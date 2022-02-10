@@ -15,7 +15,7 @@ birthday:
   written: 14th of Iounent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Romen Uldreiyn
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Magmus_Centerhold
 - Fighter
 - Protection
+- Student
 - 8th
 - Fiesn
 ---
 # Tez Bialaer
----
 ### Description
 - Aasimar Fighter from Magmus Centerhold
 - 8th year Protection student in Fiesn
 - shoulder length wavy brunette hair that's wild, Gray eyes, and Pale skin
 - Is Sharing and Modern, and has Austerity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -62,8 +64,6 @@ tags:
 - [[Brahm Delmuth]]: partymate
 - [[Rianna Belt]]: partymate
 - [[Zylphan Molostroi]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

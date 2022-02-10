@@ -16,7 +16,7 @@ birthday:
   written: 20th of Ravenent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Brannos Bellas
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Qualnis
 - Sorcerer
 - Assault
+- Student
 - 6th
 - Fiesn
 ---
 # Tylor Llewellenar
----
 ### Description
 - Warforged Sorcerer from Qualnis
 - 6th year Assault student in Fiesn
 - smooth brass guilded with gold, Amber eyes, and gold skin
 - Is Disciplined and Naive, and has Abundance as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Brannos Bellas]]: partymate
 - [[Ragnar Illitran]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

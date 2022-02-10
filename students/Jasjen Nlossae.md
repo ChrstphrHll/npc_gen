@@ -15,7 +15,7 @@ birthday:
   written: 8th of Avanent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Eligio Nevarth
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Draconia
 - Bard
 - Diplomacy
+- Student
 - 2nd
 - Burk
 ---
 # Jasjen Nlossae
----
 ### Description
 - Dragonborn Bard from Draconia
 - 2nd year Diplomacy student in Burk
 - 3 curled horns, Brown eyes, and blue skin
 - Is Solitary and Muddle-headed, and has Caring as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Eligio Nevarth]]: partymate
 - [[Q Yulmanda]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

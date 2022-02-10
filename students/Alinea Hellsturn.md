@@ -16,7 +16,7 @@ birthday:
   written: 22nd of Avanent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Tommos Morgan
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Beleriand
 - Ranger
 - Assault
+- Student
 - 5th
 - Alderden
 ---
 # Alinea Hellsturn
----
 ### Description
 - Elf Ranger from Beleriand
 - 5th year Assault student in Alderden
 - long curly auburn hair that's plain, Brown eyes, and Tan skin
 - Is Merciful and Sloppy, and has Renewal as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Tommos Morgan]]: partymate
 - [[Jacomo Jacaranda]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

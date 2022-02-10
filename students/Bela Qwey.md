@@ -15,7 +15,7 @@ birthday:
   written: 10th of Iounent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Rossan Jonik
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Aldercrown_Empire
 - Druid
 - Assault
+- Student
 - 3rd
 - Treskal
 ---
 # Bela Qwey
----
 ### Description
 - Human Druid from Aldercrown Empire
 - 3rd year Assault student in Treskal
 - shoulder length straight brunette hair that's well kept, Hazel eyes, and Dark Brown skin
 - Is Conciliatory and Modern, and has Conformity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Rossan Jonik]]: partymate
 - [[Lanalia Belt]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

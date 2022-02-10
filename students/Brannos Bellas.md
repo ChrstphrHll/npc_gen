@@ -15,7 +15,7 @@ birthday:
   written: 13th of Avanent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Tylor Llewellenar
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Barbarian
 - Protection
+- Student
 - 6th
 - Fiesn
 ---
 # Brannos Bellas
----
 ### Description
 - Human Barbarian from Principality of the Palus Peoples
 - 6th year Protection student in Fiesn
 - long wavy dark red hair that's put up, Amber eyes, and Dark Brown skin
 - Is Progressive and Opportunistic, and has Balance as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Tylor Llewellenar]]: partymate
 - [[Ragnar Illitran]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

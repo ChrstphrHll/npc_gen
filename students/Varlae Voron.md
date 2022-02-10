@@ -16,7 +16,7 @@ birthday:
   written: 17th of Pelent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Vyctor Willow
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Magmus_Centerhold
 - Wizard
 - Exploration
+- Student
 - 6th
 - Treskal
 ---
 # Varlae Voron
----
 ### Description
 - Half-Orc Wizard from Magmus Centerhold
 - 6th year Exploration student in Treskal
 - long curly dirty blonde hair that's plain, Pale Gray eyes, and Pale Gray skin
 - Is Friendly and Foolish, and has Peace as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Karl Cauladra]]: partymate
 - [[Dree Nuala]]: partymate
 - [[Theriss Deularla]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -17,7 +17,7 @@ birthday:
   written: 24th of Corelent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Lyonus Ioelena
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Verdain
 - Cleric
 - Protection
+- Student
 - 2nd
 - Burk
 ---
 # Hagar Sakrattars
----
 ### Description
 - Tiefling Cleric from Verdain
 - 2nd year Protection student in Burk
 - short curly blonde hair that's plain, Blue eyes, and Pale Yellow skin
 - Is Conforming and Criminal, and has Competition as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Lyonus Ioelena]]: partymate
 - [[Valygar Lyklor]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

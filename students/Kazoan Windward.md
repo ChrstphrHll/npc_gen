@@ -16,7 +16,7 @@ birthday:
   written: 4th of Corelent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Saccaros Anaharae
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Verdain
 - Ranger
 - Assault
+- Student
 - 2nd
 - Treskal
 ---
 # Kazoan Windward
----
 ### Description
 - Firbolg Ranger from Verdain
 - 2nd year Assault student in Treskal
 - long curly auburn hair that's plain, Pale Green eyes, and Pale Gray skin
 - Is Restrained and Vague, and has Austerity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Saccaros Anaharae]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

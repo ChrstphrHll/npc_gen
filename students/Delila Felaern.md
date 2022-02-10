@@ -15,7 +15,7 @@ birthday:
   written: 8th of Moradent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Dylan Usunaar
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Shadesburry_Initiative
 - Druid
 - Diplomacy
+- Student
 - 5th
 - Elkenval
 ---
 # Delila Felaern
----
 ### Description
 - Gnome Druid from Shadesburry Initiative
 - 5th year Diplomacy student in Elkenval
 - short curly blonde hair that's messy, Gray eyes, and Pale skin
 - Is Ordinary and Insulting, and has Success as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Dylan Usunaar]]: partymate
 - [[Aurikallos Biafyndar]]: partymate
 - [[Grace Festus]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

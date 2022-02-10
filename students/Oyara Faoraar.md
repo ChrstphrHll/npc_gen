@@ -15,7 +15,7 @@ birthday:
   written: 25th of Korent
 origin: Kordinia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Sybasten Simimar
   type: partymate
@@ -38,23 +38,23 @@ tags:
 - Kordinia
 - Ranger
 - Protection
+- Student
 - 4th
 - Elkenval
 ---
 # Oyara Faoraar
----
 ### Description
 - Halfling Ranger from Kordinia
 - 4th year Protection student in Elkenval
 - short wavy white hair that's put up, Blue eyes, and Pale skin
 - Is Skeptical and Steely, and has Change as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Sybasten Simimar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

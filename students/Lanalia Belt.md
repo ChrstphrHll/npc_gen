@@ -18,7 +18,7 @@ birthday:
   written: 6th of Korent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Bela Qwey
   type: partymate
@@ -43,24 +43,24 @@ tags:
 - Beleriand
 - Paladin
 - Diplomacy
+- Student
 - 3rd
 - Treskal
 ---
 # Lanalia Belt
----
 ### Description
 - Elf Paladin from Beleriand
 - 3rd year Diplomacy student in Treskal
 - shoulder length wavy lighter blonde hair that's wild, Brown eyes, and Light Tan skin
 - Is Organised and Insecure, and has Hard Work as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Bela Qwey]]: partymate
 - [[Rossan Jonik]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

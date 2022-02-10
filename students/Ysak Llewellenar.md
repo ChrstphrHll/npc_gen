@@ -15,7 +15,7 @@ birthday:
   written: 1st of Iounent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Matto Divya
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Magmus_Centerhold
 - Paladin
 - Assault
+- Student
 - 1st
 - Jettenia
 ---
 # Ysak Llewellenar
----
 ### Description
 - Dragonborn Paladin from Magmus Centerhold
 - 1st year Assault student in Jettenia
 - short spines, Violet Red eyes, and silver skin
 - Is Disciplined and Narrow-minded, and has Renewal as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -62,8 +64,6 @@ tags:
 - [[Alver Boneflare]]: partymate
 - [[Garan Mirthal]]: partymate
 - [[Iasono Ynshael]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

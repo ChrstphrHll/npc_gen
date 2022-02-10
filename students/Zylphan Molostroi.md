@@ -16,7 +16,7 @@ birthday:
   written: 21st of Moradent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Romen Uldreiyn
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Verdain
 - Rouge
 - Diplomacy
+- Student
 - 8th
 - Fiesn
 ---
 # Zylphan Molostroi
----
 ### Description
 - Firbolg Rouge from Verdain
 - 8th year Diplomacy student in Fiesn
 - long wavy dirty blonde hair that's plain, Amber eyes, and Pale Brown skin
 - Is Firm and Hateful, and has Honesty as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Brahm Delmuth]]: partymate
 - [[Rianna Belt]]: partymate
 - [[Tez Bialaer]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

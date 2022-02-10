@@ -18,7 +18,7 @@ birthday:
   written: 30th of Korent
 origin: Kordinia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Elia Veluthil
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Kordinia
 - Barbarian
 - Assault
+- Student
 - 3rd
 - Burk
 ---
 # Aelisabeth Soliania
----
 ### Description
 - Halfling Barbarian from Kordinia
 - 3rd year Assault student in Burk
 - long straight white hair that's plain, Hazel eyes, and Light Tan skin
 - Is Vivacious and Artificial, and has Pessimism as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -62,8 +64,6 @@ tags:
 - [[Elia Veluthil]]: partymate
 - [[Rotheloe Samblar]]: partymate
 - [[Helera Urkensvall]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

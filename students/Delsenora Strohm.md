@@ -16,7 +16,7 @@ birthday:
   written: 5th of Avanent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Surge Fayd
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Draconia
 - Druid
 - Protection
+- Student
 - 7th
 - Fiesn
 ---
 # Delsenora Strohm
----
 ### Description
 - Dragonborn Druid from Draconia
 - 7th year Protection student in Fiesn
 - long spines, Sea Green eyes, and copper skin
 - Is Unambitious and Surprising, and has Austerity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Surge Fayd]]: partymate
 - [[Josius Iliphar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

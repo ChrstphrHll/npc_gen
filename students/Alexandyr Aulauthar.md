@@ -15,7 +15,7 @@ birthday:
   written: 20th of Melorent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Coriss Biafyndar
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Verdain
 - Wizard
 - Diplomacy
+- Student
 - 5th
 - Fiesn
 ---
 # Alexandyr Aulauthar
----
 ### Description
 - Firbolg Wizard from Verdain
 - 5th year Diplomacy student in Fiesn
 - short wavy brunette hair that's put up, Pale Blue eyes, and Pale Blue skin
 - Is Communicative and Ungrateful, and has Home as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Coriss Biafyndar]]: partymate
 - [[Adamos Taehr]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

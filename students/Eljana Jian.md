@@ -16,7 +16,7 @@ birthday:
   written: 18th of Moradent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Asralyn Rhangyl
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Chillwild_Peaks
 - Fighter
 - Protection
+- Student
 - 5th
 - Fiesn
 ---
 # Eljana Jian
----
 ### Description
 - Goliath Fighter from Chillwild Peaks
 - 5th year Protection student in Fiesn
 - long curly strawberry blond hair that's plain, Blue eyes, and Dark Tan skin
 - Is Challenging and Confused, and has Harmony as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Asralyn Rhangyl]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

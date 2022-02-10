@@ -17,7 +17,7 @@ birthday:
   written: 24th of Corelent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Nathan Laeroth
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Beleriand
 - Barbarian
 - Diplomacy
+- Student
 - 1st
 - Elkenval
 ---
 # Pike Tethir
----
 ### Description
 - Human Barbarian from Beleriand
 - 1st year Diplomacy student in Elkenval
 - short curly auburn hair that's messy, Pale Gray eyes, and Brown skin
 - Is Seraphic and Boisterous, and has Cooperation as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Nathan Laeroth]]: partymate
 - [[Jendrellian Webb]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

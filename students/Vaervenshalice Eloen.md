@@ -17,7 +17,7 @@ birthday:
   written: 3rd of Iounent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Ysaac Aelrue
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Aldercrown_Empire
 - Ranger
 - Exploration
+- Student
 - 1st
 - Treskal
 ---
 # Vaervenshalice Eloen
----
 ### Description
 - Elf Ranger from Aldercrown Empire
 - 1st year Exploration student in Treskal
 - shoulder length curly green hair that's messy, Green eyes, and Dark Brown skin
 - Is Stubborn and Envious, and has Power as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Ysaac Aelrue]]: partymate
 - [[Nolyn Viska]]: partymate
 - [[Dejana Keller]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -18,7 +18,7 @@ birthday:
   written: 1st of Melorent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Estyn Rhangyl
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Aldercrown_Empire
 - Paladin
 - Assault
+- Student
 - 4th
 - Treskal
 ---
 # Tadita Edraele
----
 ### Description
 - Gnome Paladin from Aldercrown Empire
 - 4th year Assault student in Treskal
 - short straight lighter blonde hair that's plain, Green eyes, and Light skin
 - Is Thoughtful and Invisible, and has Flexibility as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -62,8 +64,6 @@ tags:
 - [[Estyn Rhangyl]]: partymate
 - [[Melcyn Taeral]]: partymate
 - [[Robbos Kalaerede]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

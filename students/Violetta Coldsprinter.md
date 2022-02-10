@@ -16,7 +16,7 @@ birthday:
   written: 9th of Avanent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Abryia Rubrae
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Magmus_Centerhold
 - Fighter
 - Assault
+- Student
 - 2nd
 - Burk
 ---
 # Violetta Coldsprinter
----
 ### Description
 - Half-Orc Fighter from Magmus Centerhold
 - 2nd year Assault student in Burk
 - shoulder length wavy violet hair that's well kept, Amber eyes, and Pale Gray skin
 - Is Original and Naughty, and has Creativity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Abryia Rubrae]]: partymate
 - [[Yan Sorsasta]]: partymate
 - [[Nicholus Morthil]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

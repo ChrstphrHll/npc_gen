@@ -17,7 +17,7 @@ birthday:
   written: 10th of Moradent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jamye Napraeleon
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Verdain
 - Druid
 - Protection
+- Student
 - 2nd
 - Alderden
 ---
 # Gianna Rhistel
----
 ### Description
 - Tiefling Druid from Verdain
 - 2nd year Protection student in Alderden
 - long straight blonde hair that's well kept, Gray eyes, and Purple skin
 - Is Dynamic and Shy, and has Speed as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Jamye Napraeleon]]: partymate
 - [[Cirvlon Elpaerae]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 26th of Korent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Mya Nelaeryn
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Cleric
 - Diplomacy
+- Student
 - 2nd
 - Elkenval
 ---
 # Gabrilo Kulo
----
 ### Description
 - Half-Orc Cleric from Principality of the Palus Peoples
 - 2nd year Diplomacy student in Elkenval
 - long wavy auburn hair that's plain, Gray eyes, and Pale Green skin
 - Is Easygoing and Profligate, and has Intelligence as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Levio Evindal]]: partymate
 - [[Myddin Hastos]]: partymate
 - [[Tylus Ytharra]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

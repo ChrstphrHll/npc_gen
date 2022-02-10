@@ -18,7 +18,7 @@ birthday:
   written: 32nd of Pelent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Aniari Arlayna
   type: partymate
@@ -43,24 +43,24 @@ tags:
 - Draconia
 - Bard
 - Protection
+- Student
 - 1st
 - Elkenval
 ---
 # Nycola Eroan
----
 ### Description
 - Dragonborn Bard from Draconia
 - 1st year Protection student in Elkenval
 - long spines, Amber eyes, and copper skin
 - Is Frank and Cruel, and has Creativity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Aniari Arlayna]]: partymate
 - [[Eliana Saevel]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

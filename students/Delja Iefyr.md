@@ -16,7 +16,7 @@ birthday:
   written: 27th of Moradent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hodus Belt
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Beleriand
 - Druid
 - Diplomacy
+- Student
 - 1st
 - Burk
 ---
 # Delja Iefyr
----
 ### Description
 - Half-Elf Druid from Beleriand
 - 1st year Diplomacy student in Burk
 - long wavy strawberry blond hair that's wild, Amber eyes, and Light skin
 - Is Harmonious and Risk-taking, and has Power as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Hodus Belt]]: partymate
 - [[Shike Thalaera]]: partymate
 - [[Genesys Mhaenal]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

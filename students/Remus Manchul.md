@@ -17,7 +17,7 @@ birthday:
   written: 31st of Korent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Noam Shields
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Beleriand
 - Rouge
 - Protection
+- Student
 - 4th
 - Burk
 ---
 # Remus Manchul
----
 ### Description
 - Half-Elf Rouge from Beleriand
 - 4th year Protection student in Burk
 - long wavy red hair that's plain, Brown eyes, and Dark Brown skin
 - Is Reserved and Strict, and has Perseverance as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Noam Shields]]: partymate
 - [[Gunnar Ordayius]]: partymate
 - [[Saleas Rilitar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 3rd of Corelent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Vyctor Willow
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Beleriand
 - Rouge
 - Protection
+- Student
 - 6th
 - Treskal
 ---
 # Karl Cauladra
----
 ### Description
 - Gnome Rouge from Beleriand
 - 6th year Protection student in Treskal
 - shoulder length wavy auburn hair that's braided, Gray eyes, and Pale skin
 - Is Incorruptible and Self-centered, and has Teamwork as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Varlae Voron]]: partymate
 - [[Dree Nuala]]: partymate
 - [[Theriss Deularla]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

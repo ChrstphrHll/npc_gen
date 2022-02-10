@@ -16,7 +16,7 @@ birthday:
   written: 18th of Pelent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Murunay Illfate
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Verdain
 - Monk
 - Protection
+- Student
 - 4th
 - Burk
 ---
 # Hazel Winters
----
 ### Description
 - Firbolg Monk from Verdain
 - 4th year Protection student in Burk
 - short frizzy white hair that's messy, Hazel eyes, and Pale Green skin
 - Is Political and Stupid, and has Entrepreneurial as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Murunay Illfate]]: partymate
 - [[Lincon Nylaathria]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

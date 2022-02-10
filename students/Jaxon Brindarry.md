@@ -16,7 +16,7 @@ birthday:
   written: 17th of Moradent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Railyn Retenia
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Beleriand
 - Artificer
 - Assault
+- Student
 - 3rd
 - Jettenia
 ---
 # Jaxon Brindarry
----
 ### Description
 - Elf Artificer from Beleriand
 - 3rd year Assault student in Jettenia
 - long wavy dirty blonde hair that's put up, Blue eyes, and Brown skin
 - Is Dreamy and Naive, and has Wisdom as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Railyn Retenia]]: partymate
 - [[Cartyr Tamsin]]: partymate
 - [[Jovos Seldanna]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

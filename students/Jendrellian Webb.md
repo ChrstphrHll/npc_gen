@@ -15,7 +15,7 @@ birthday:
   written: 22nd of Corelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Nathan Laeroth
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Aldercrown_Empire
 - Barbarian
 - Assault
+- Student
 - 1st
 - Elkenval
 ---
 # Jendrellian Webb
----
 ### Description
 - Dwarf Barbarian from Aldercrown Empire
 - 1st year Assault student in Elkenval
 - short curly platinum hair that's wild, Gray eyes, and Brown skin
 - Is Plain and Competitive, and has Goodness as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Nathan Laeroth]]: partymate
 - [[Pike Tethir]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

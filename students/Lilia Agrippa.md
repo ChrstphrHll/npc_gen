@@ -16,7 +16,7 @@ birthday:
   written: 13th of Ravenent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Maarika Oncith
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Barbarian
 - Assault
+- Student
 - 3rd
 - Fiesn
 ---
 # Lilia Agrippa
----
 ### Description
 - Tiefling Barbarian from Principality of the Palus Peoples
 - 3rd year Assault student in Fiesn
 - shoulder length wavy blue hair that's braided, Gray eyes, and Purple skin
 - Is Efficient and Lackadaisical, and has Appreciation as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Maarika Oncith]]: partymate
 - [[Braddeus Jacaranda]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

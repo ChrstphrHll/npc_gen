@@ -16,7 +16,7 @@ birthday:
   written: 25th of Melorent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Ruby Kythaela
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Chillwild_Peaks
 - Rouge
 - Protection
+- Student
 - 2nd
 - Jettenia
 ---
 # Eadyth Lora
----
 ### Description
 - Goliath Rouge from Chillwild Peaks
 - 2nd year Protection student in Jettenia
 - long straight dirty blonde hair that's plain, Blue eyes, and Light skin
 - Is Feisty and Iconoclastic, and has Contentment as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Ruby Kythaela]]: partymate
 - [[Sammen Axilya]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

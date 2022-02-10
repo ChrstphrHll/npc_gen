@@ -16,7 +16,7 @@ birthday:
   written: 4th of Ravenent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Sulivan Wylchyr
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Aldercrown_Empire
 - Barbarian
 - Exploration
+- Student
 - 2nd
 - Elkenval
 ---
 # Gorlas Vhoadan
----
 ### Description
 - Gnome Barbarian from Aldercrown Empire
 - 2nd year Exploration student in Elkenval
 - long straight red hair that's braided, Pale Gray eyes, and Fair skin
 - Is Placid and Animated, and has Conformity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Sulivan Wylchyr]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -17,7 +17,7 @@ birthday:
   written: 13th of Iounent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Skalanis Kobayashi
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Shadesburry_Initiative
 - Bard
 - Assault
+- Student
 - 6th
 - Jettenia
 ---
 # Jerrick Yarbrough
----
 ### Description
 - Gnome Bard from Shadesburry Initiative
 - 6th year Assault student in Jettenia
 - shoulder length wavy blonde hair that's plain, Brown eyes, and Tan skin
 - Is Admirable and Cantankerous, and has Logic as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Skalanis Kobayashi]]: partymate
 - [[Pippi Langston]]: partymate
 - [[Miglus Yrlissa]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

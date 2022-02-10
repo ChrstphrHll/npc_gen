@@ -17,7 +17,7 @@ birthday:
   written: 2nd of Ravenent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Iamus Aneirin
   type: partymate
@@ -40,23 +40,23 @@ tags:
 - Shadesburry_Initiative
 - Ranger
 - Assault
+- Student
 - 1st
 - Treskal
 ---
 # Nebulon Faelyn
----
 ### Description
 - Gnome Ranger from Shadesburry Initiative
 - 1st year Assault student in Treskal
 - long wavy red hair that's well kept, Green eyes, and Pale skin
 - Is Impassive and Contradictory, and has People as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Iamus Aneirin]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

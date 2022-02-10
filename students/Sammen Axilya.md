@@ -16,7 +16,7 @@ birthday:
   written: 13th of Korent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Ruby Kythaela
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Qualnis
 - Paladin
 - Diplomacy
+- Student
 - 2nd
 - Jettenia
 ---
 # Sammen Axilya
----
 ### Description
 - Human Paladin from Qualnis
 - 2nd year Diplomacy student in Jettenia
 - long curly dirty blonde hair that's plain, Pale Green eyes, and Tan skin
 - Is Dedicated and Absentminded, and has Creativity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Ruby Kythaela]]: partymate
 - [[Eadyth Lora]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

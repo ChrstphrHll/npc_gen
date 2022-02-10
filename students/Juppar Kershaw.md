@@ -18,7 +18,7 @@ birthday:
   written: 32nd of Melorent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Milae Ditka
   type: partymate
@@ -43,24 +43,24 @@ tags:
 - Aldercrown_Empire
 - Druid
 - Diplomacy
+- Student
 - 1st
 - Jettenia
 ---
 # Juppar Kershaw
----
 ### Description
 - Human Druid from Aldercrown Empire
 - 1st year Diplomacy student in Jettenia
 - shoulder length straight grey hair that's braided, Gray eyes, and Fair skin
 - Is Playful and Fanciful, and has Charisma as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Milae Ditka]]: partymate
 - [[Avaery Klaern]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

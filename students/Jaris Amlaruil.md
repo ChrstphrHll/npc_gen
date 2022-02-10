@@ -16,7 +16,7 @@ birthday:
   written: 1st of Avanent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jareth Tanseril
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Whyndiem
 - Fighter
 - Protection
+- Student
 - 7th
 - Jettenia
 ---
 # Jaris Amlaruil
----
 ### Description
 - Triton Fighter from Whyndiem
 - 7th year Protection student in Jettenia
 - short straight grey hair that's wild, Violet Red eyes, and Aqua skin
 - Is Resourceful and Bland, and has Wealth as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Jareth Tanseril]]: partymate
 - [[Aksel Strohm]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

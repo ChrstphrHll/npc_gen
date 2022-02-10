@@ -16,7 +16,7 @@ birthday:
   written: 30th of Corelent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Nolyn Viska
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Fighter
 - Exploration
+- Student
 - 1st
 - Treskal
 ---
 # Ysaac Aelrue
----
 ### Description
 - Halfling Fighter from Principality of the Palus Peoples
 - 1st year Exploration student in Treskal
 - shoulder length wavy brunette hair that's plain, Brown eyes, and Light skin
 - Is Respectful and Superstitious, and has Contentment as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Nolyn Viska]]: partymate
 - [[Vaervenshalice Eloen]]: partymate
 - [[Dejana Keller]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

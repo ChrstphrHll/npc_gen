@@ -17,7 +17,7 @@ birthday:
   written: 2nd of Iounent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Adresin Ilbryn
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Magmus_Centerhold
 - Rouge
 - Diplomacy
+- Student
 - 1st
 - Elkenval
 ---
 # Diegon Verrona
----
 ### Description
 - Dragonborn Rouge from Magmus Centerhold
 - 1st year Diplomacy student in Elkenval
 - 4 curled horns, Deep Blue eyes, and bronze skin
 - Is Trustworthy and Weak, and has Loyalty as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Adresin Ilbryn]]: partymate
 - [[Kayla Kaminsky]]: partymate
 - [[Holys Hachaam]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

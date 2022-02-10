@@ -16,7 +16,7 @@ birthday:
   written: 14th of Moradent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jandar Pleufan
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Verdain
 - Druid
 - Assault
+- Student
 - 1st
 - Elkenval
 ---
 # Kimbera Alerathla
----
 ### Description
 - Human Druid from Verdain
 - 1st year Assault student in Elkenval
 - long straight black hair that's plain, Hazel eyes, and Dark Tan skin
 - Is Objective and Mannered, and has Independence as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Allyson Vindinglag]]: partymate
 - [[Emilanus Shields]]: partymate
 - [[Andrey Rauthomyr]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

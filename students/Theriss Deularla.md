@@ -16,7 +16,7 @@ birthday:
   written: 4th of Moradent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Vyctor Willow
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Shadesburry_Initiative
 - Cleric
 - Protection
+- Student
 - 6th
 - Treskal
 ---
 # Theriss Deularla
----
 ### Description
 - Gnome Cleric from Shadesburry Initiative
 - 6th year Protection student in Treskal
 - short straight lighter blonde hair that's well kept, Pale Gray eyes, and Dark Tan skin
 - Is Attentive and Fraudulent, and has Knowledge as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Karl Cauladra]]: partymate
 - [[Varlae Voron]]: partymate
 - [[Dree Nuala]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

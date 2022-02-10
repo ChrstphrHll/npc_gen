@@ -17,7 +17,7 @@ birthday:
   written: 19th of Moradent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Alyx Nopos
   type: partymate
@@ -40,23 +40,23 @@ tags:
 - Shadesburry_Initiative
 - Wizard
 - Diplomacy
+- Student
 - 6th
 - Fiesn
 ---
 # Asten Alavara
----
 ### Description
 - Gnome Wizard from Shadesburry Initiative
 - 6th year Diplomacy student in Fiesn
 - shoulder length straight white hair that's plain, Pale Brown eyes, and Light Tan skin
 - Is Mellow and Oppressed, and has Integrity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Alyx Nopos]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

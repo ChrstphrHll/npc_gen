@@ -16,7 +16,7 @@ birthday:
   written: 28th of Korent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Olbern Uldreiyn
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Chillwild_Peaks
 - Sorcerer
 - Protection
+- Student
 - 4th
 - Treskal
 ---
 # Connovar Kaminsky
----
 ### Description
 - Half-Orc Sorcerer from Chillwild Peaks
 - 4th year Protection student in Treskal
 - shoulder length curly red hair that's plain, Brown eyes, and Pale Green skin
 - Is Helpful and Plodding, and has Creativity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Olbern Uldreiyn]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

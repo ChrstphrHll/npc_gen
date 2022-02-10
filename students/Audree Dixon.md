@@ -17,7 +17,7 @@ birthday:
   written: 31st of Melorent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Aryana Ahrendue
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Aldercrown_Empire
 - Monk
 - Assault
+- Student
 - 1st
 - Alderden
 ---
 # Audree Dixon
----
 ### Description
 - Human Monk from Aldercrown Empire
 - 1st year Assault student in Alderden
 - shoulder length curly red hair that's plain, Blue eyes, and Fair skin
 - Is Clean and Licentious, and has Commonality as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Aryana Ahrendue]]: partymate
 - [[Alkindus Llamryl]]: partymate
 - [[Lea Nuvian]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

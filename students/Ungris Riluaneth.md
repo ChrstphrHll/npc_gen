@@ -16,7 +16,7 @@ birthday:
   written: 19th of Ravenent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Gerrimar Vulkor
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Magmus_Centerhold
 - Cleric
 - Diplomacy
+- Student
 - 5th
 - Treskal
 ---
 # Ungris Riluaneth
----
 ### Description
 - Dragonborn Cleric from Magmus Centerhold
 - 5th year Diplomacy student in Treskal
 - 2 curled horns, Deep Blue eyes, and red skin
 - Is Sincere and Cruel, and has Beauty as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Gerrimar Vulkor]]: partymate
 - [[Cerridwen Durothil]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

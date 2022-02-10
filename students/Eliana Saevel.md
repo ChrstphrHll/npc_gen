@@ -16,7 +16,7 @@ birthday:
   written: 27th of Pelent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Nycola Eroan
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Magmus_Centerhold
 - Artificer
 - Assault
+- Student
 - 1st
 - Elkenval
 ---
 # Eliana Saevel
----
 ### Description
 - Human Artificer from Magmus Centerhold
 - 1st year Assault student in Elkenval
 - short straight grey hair that's plain, Pale Blue eyes, and Pale skin
 - Is Iconoclastic and Tasteless, and has Caring as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Nycola Eroan]]: partymate
 - [[Aniari Arlayna]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

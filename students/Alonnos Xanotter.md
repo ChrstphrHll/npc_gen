@@ -18,7 +18,7 @@ birthday:
   written: 2nd of Pelent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Shoulree Letryal
   type: partymate
@@ -43,24 +43,24 @@ tags:
 - Beleriand
 - Sorcerer
 - Protection
+- Student
 - 1st
 - Elkenval
 ---
 # Alonnos Xanotter
----
 ### Description
 - Tiefling Sorcerer from Beleriand
 - 1st year Protection student in Elkenval
 - shoulder length wavy brunette hair that's wild, Spring Green eyes, and Yellow skin
 - Is Folksy and Complex, and has Cooperation as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Shoulree Letryal]]: partymate
 - [[Levi Kicklighter]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

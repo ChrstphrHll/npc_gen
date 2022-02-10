@@ -18,7 +18,7 @@ birthday:
   written: 13th of Pelent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Favroe Kythaela
   type: partymate
@@ -41,23 +41,23 @@ tags:
 - Verdain
 - Artificer
 - Protection
+- Student
 - 3rd
 - Treskal
 ---
 # Verssek Nese
----
 ### Description
 - Half-Elf Artificer from Verdain
 - 3rd year Protection student in Treskal
 - short curly auburn hair that's plain, Gray eyes, and Light skin
 - Is Gentle and Impassive, and has Logic as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Favroe Kythaela]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 5th of Melorent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Wulfe Fulcrux
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Shadesburry_Initiative
 - Cleric
 - Protection
+- Student
 - 8th
 - Elkenval
 ---
 # Faliah Oluevaera
----
 ### Description
 - Gnome Cleric from Shadesburry Initiative
 - 8th year Protection student in Elkenval
 - long wavy platinum hair that's braided, Pale Brown eyes, and Tan skin
 - Is Anticipative and Competitive, and has Ambition as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Wulfe Fulcrux]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

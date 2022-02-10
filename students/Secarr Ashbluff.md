@@ -16,7 +16,7 @@ birthday:
   written: 14th of Moradent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Thenol Shialaevar
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Draconia
 - Barbarian
 - Exploration
+- Student
 - 6th
 - Burk
 ---
 # Secarr Ashbluff
----
 ### Description
 - Dragonborn Barbarian from Draconia
 - 6th year Exploration student in Burk
 - long spines, Emerald Green eyes, and blue skin
 - Is Relaxed and Liar, and has Compassion as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Thenol Shialaevar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

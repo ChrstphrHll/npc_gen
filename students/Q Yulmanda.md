@@ -15,7 +15,7 @@ birthday:
   written: 19th of Korent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Eligio Nevarth
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Aldercrown_Empire
 - Barbarian
 - Exploration
+- Student
 - 2nd
 - Burk
 ---
 # Q Yulmanda
----
 ### Description
 - Tiefling Barbarian from Aldercrown Empire
 - 2nd year Exploration student in Burk
 - long curly violet hair that's plain, Gray eyes, and Dark Red skin
 - Is Appreciative and Mystical, and has Security as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Eligio Nevarth]]: partymate
 - [[Jasjen Nlossae]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

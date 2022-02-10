@@ -16,7 +16,7 @@ birthday:
   written: 1st of Corelent
 origin: Black Rock
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Adros Tolthe
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Black_Rock
 - Barbarian
 - Diplomacy
+- Student
 - 5th
 - Jettenia
 ---
 # Matos Mektal
----
 ### Description
 - Kenku Barbarian from Black Rock
 - 5th year Diplomacy student in Jettenia
 - striped, Pale Brown eyes, and Dark Blue skin
 - Is Meek and Treacherous, and has Generosity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Selina Ochyllyss]]: partymate
 - [[Yorala Tiatha]]: partymate
 - [[Ivistra Stockton]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

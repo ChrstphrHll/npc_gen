@@ -16,7 +16,7 @@ birthday:
   written: 26th of Korent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hessos Adorellan
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Verdain
 - Rouge
 - Exploration
+- Student
 - 1st
 - Alderden
 ---
 # Kendel Shael
----
 ### Description
 - Firbolg Rouge from Verdain
 - 1st year Exploration student in Alderden
 - short curly dirty blonde hair that's plain, Gray eyes, and Pale Blue skin
 - Is Concerned and Muddle-headed, and has Finesse as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Hessos Adorellan]]: partymate
 - [[Asmiak Seirye]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

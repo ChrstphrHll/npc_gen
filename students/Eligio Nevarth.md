@@ -15,7 +15,7 @@ birthday:
   written: 1st of Moradent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Q Yulmanda
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Magmus_Centerhold
 - Ranger
 - Diplomacy
+- Student
 - 2nd
 - Burk
 ---
 # Eligio Nevarth
----
 ### Description
 - Dragonborn Ranger from Magmus Centerhold
 - 2nd year Diplomacy student in Burk
 - frills, Amber eyes, and brass skin
 - Is Neat and Troublesome, and has Lead by example as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Q Yulmanda]]: partymate
 - [[Jasjen Nlossae]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

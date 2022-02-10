@@ -16,7 +16,7 @@ birthday:
   written: 3rd of Moradent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Adrjia Lysanthir
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Verdain
 - Fighter
 - Assault
+- Student
 - 1st
 - Treskal
 ---
 # Kova Tamara
----
 ### Description
 - Firbolg Fighter from Verdain
 - 1st year Assault student in Treskal
 - shoulder length curly auburn hair that's braided, Green eyes, and Pale Brown skin
 - Is Dynamic and Modern, and has Competition as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Es'beth Yesheln]]: partymate
 - [[Jaedyn Arbane]]: partymate
 - [[Evylen Nese]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

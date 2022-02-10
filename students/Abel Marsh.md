@@ -15,7 +15,7 @@ birthday:
   written: 19th of Moradent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Uxwy Lazziar
   type: partymate
@@ -41,25 +41,25 @@ tags:
 - Qualnis
 - Paladin
 - Exploration
+- Student
 - 5th
 - Fiesn
 ---
 # Abel Marsh
----
 ### Description
 - Warforged Paladin from Qualnis
 - 5th year Exploration student in Fiesn
 - smooth silver guilded with brass, Yellow eyes, and silver skin
 - Is Equitable and Hesitant, and has Wealth as their ideal
 
+### Notes
+- the best char
+
 ### Organizations
 
 ### Relationships
 - [[Uxwy Lazziar]]: partymate
 - [[Leonus Triktappic]]: partymate
-
-### Notes
-- the best char
 
 ### Stats
 ```statblock

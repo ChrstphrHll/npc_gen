@@ -16,7 +16,7 @@ birthday:
   written: 31st of Korent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Tadita Edraele
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Verdain
 - Sorcerer
 - Diplomacy
+- Student
 - 4th
 - Treskal
 ---
 # Melcyn Taeral
----
 ### Description
 - Firbolg Sorcerer from Verdain
 - 4th year Diplomacy student in Treskal
 - short straight dark red hair that's wild, Green eyes, and Pale Gray skin
 - Is Devoted and Lazy, and has Finesse as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Tadita Edraele]]: partymate
 - [[Estyn Rhangyl]]: partymate
 - [[Robbos Kalaerede]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

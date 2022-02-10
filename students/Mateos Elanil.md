@@ -16,7 +16,7 @@ birthday:
   written: 17th of Iounent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Selina Bellas
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Verdain
 - Rouge
 - Exploration
+- Student
 - 2nd
 - Fiesn
 ---
 # Mateos Elanil
----
 ### Description
 - Halfling Rouge from Verdain
 - 2nd year Exploration student in Fiesn
 - shoulder length frizzy brunette hair that's plain, Amber eyes, and Dark Tan skin
 - Is Understanding and Neglectful, and has Gratitude as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Selina Bellas]]: partymate
 - [[Brianna Kosunten]]: partymate
 - [[Felgie Eldar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

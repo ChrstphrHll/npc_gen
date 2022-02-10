@@ -16,7 +16,7 @@ birthday:
   written: 26th of Moradent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hodus Belt
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Shadesburry_Initiative
 - Monk
 - Assault
+- Student
 - 1st
 - Burk
 ---
 # Genesys Mhaenal
----
 ### Description
 - Gnome Monk from Shadesburry Initiative
 - 1st year Assault student in Burk
 - long curly brunette hair that's plain, Amber eyes, and Dark Brown skin
 - Is Unchanging and Indecisive, and has Prosperity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Hodus Belt]]: partymate
 - [[Shike Thalaera]]: partymate
 - [[Delja Iefyr]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

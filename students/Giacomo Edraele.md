@@ -18,7 +18,7 @@ birthday:
   written: 18th of Melorent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Matrell Halafarin
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Aldercrown_Empire
 - Druid
 - Diplomacy
+- Student
 - 2nd
 - Treskal
 ---
 # Giacomo Edraele
----
 ### Description
 - Human Druid from Aldercrown Empire
 - 2nd year Diplomacy student in Treskal
 - shoulder length straight white hair that's plain, Green eyes, and Light Tan skin
 - Is Communicative and Ungrateful, and has Exceptionalism as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -62,8 +64,6 @@ tags:
 - [[Matrell Halafarin]]: partymate
 - [[Santaegus Etter]]: partymate
 - [[Yoshen Arcaena]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 30th of Avanent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Audree Dixon
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Draconia
 - Barbarian
 - Protection
+- Student
 - 1st
 - Alderden
 ---
 # Aryana Ahrendue
----
 ### Description
 - Dragonborn Barbarian from Draconia
 - 1st year Protection student in Alderden
 - 5 curled horns, Brown eyes, and white skin
 - Is Youthful and Money-minded, and has Connection as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Audree Dixon]]: partymate
 - [[Alkindus Llamryl]]: partymate
 - [[Lea Nuvian]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

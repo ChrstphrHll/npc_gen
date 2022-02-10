@@ -16,7 +16,7 @@ birthday:
   written: 4th of Ravenent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Nom Remington
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Magmus_Centerhold
 - Wizard
 - Assault
+- Student
 - 3rd
 - Fiesn
 ---
 # Olivus Ondabrar
----
 ### Description
 - Halfling Wizard from Magmus Centerhold
 - 3rd year Assault student in Fiesn
 - long wavy grey hair that's messy, Hazel eyes, and Tan skin
 - Is Prudent and Dirty, and has Wisdom as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Nom Remington]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

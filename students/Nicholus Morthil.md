@@ -15,7 +15,7 @@ birthday:
   written: 10th of Korent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Abryia Rubrae
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Verdain
 - Paladin
 - Exploration
+- Student
 - 2nd
 - Burk
 ---
 # Nicholus Morthil
----
 ### Description
 - Firbolg Paladin from Verdain
 - 2nd year Exploration student in Burk
 - shoulder length wavy dark red hair that's messy, Pale Green eyes, and Pale Green skin
 - Is Heroic and Noncompetitive, and has Cooperation as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Abryia Rubrae]]: partymate
 - [[Yan Sorsasta]]: partymate
 - [[Violetta Coldsprinter]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

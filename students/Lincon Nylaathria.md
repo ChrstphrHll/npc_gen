@@ -17,7 +17,7 @@ birthday:
   written: 6th of Pelent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Murunay Illfate
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Beleriand
 - Barbarian
 - Assault
+- Student
 - 4th
 - Burk
 ---
 # Lincon Nylaathria
----
 ### Description
 - Aasimar Barbarian from Beleriand
 - 4th year Assault student in Burk
 - short straight lighter blonde hair that's braided, Hazel eyes, and Pale skin
 - Is Tractable and Artful, and has Respect as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Murunay Illfate]]: partymate
 - [[Hazel Winters]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

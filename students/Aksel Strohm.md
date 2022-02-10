@@ -15,7 +15,7 @@ birthday:
   written: 6th of Pelent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jareth Tanseril
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Sorcerer
 - Assault
+- Student
 - 7th
 - Jettenia
 ---
 # Aksel Strohm
----
 ### Description
 - Tiefling Sorcerer from Principality of the Palus Peoples
 - 7th year Assault student in Jettenia
 - long curly strawberry blond hair that's braided, Pale Green eyes, and Spring Green skin
 - Is Hypnotic and Impractical, and has Vengful as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Jareth Tanseril]]: partymate
 - [[Jaris Amlaruil]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

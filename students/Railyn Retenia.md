@@ -16,7 +16,7 @@ birthday:
   written: 26th of Melorent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Cartyr Tamsin
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Magmus_Centerhold
 - Ranger
 - Assault
+- Student
 - 3rd
 - Jettenia
 ---
 # Railyn Retenia
----
 ### Description
 - Half-Orc Ranger from Magmus Centerhold
 - 3rd year Assault student in Jettenia
 - short wavy red hair that's plain, Blue eyes, and Pale Gray skin
 - Is Obliging and Abrasive, and has Contributing as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Cartyr Tamsin]]: partymate
 - [[Jovos Seldanna]]: partymate
 - [[Jaxon Brindarry]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

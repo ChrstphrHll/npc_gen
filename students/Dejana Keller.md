@@ -17,7 +17,7 @@ birthday:
   written: 28th of Moradent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Ysaac Aelrue
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Verdain
 - Cleric
 - Exploration
+- Student
 - 1st
 - Treskal
 ---
 # Dejana Keller
----
 ### Description
 - Firbolg Cleric from Verdain
 - 1st year Exploration student in Treskal
 - short curly lighter blonde hair that's wild, Brown eyes, and Pale Blue skin
 - Is Zealous and Angry, and has Clarity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Ysaac Aelrue]]: partymate
 - [[Nolyn Viska]]: partymate
 - [[Vaervenshalice Eloen]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

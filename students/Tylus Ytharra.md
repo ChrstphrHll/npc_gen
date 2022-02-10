@@ -16,7 +16,7 @@ birthday:
   written: 32nd of Pelent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Gabrilo Kulo
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Monk
 - Diplomacy
+- Student
 - 2nd
 - Elkenval
 ---
 # Tylus Ytharra
----
 ### Description
 - Tiefling Monk from Principality of the Palus Peoples
 - 2nd year Diplomacy student in Elkenval
 - long straight black hair that's plain, Yellow eyes, and Pale Brown skin
 - Is Freewheeling and Conforming, and has Learning as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Mya Nelaeryn]]: partymate
 - [[Levio Evindal]]: partymate
 - [[Myddin Hastos]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

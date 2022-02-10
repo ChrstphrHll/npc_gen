@@ -15,7 +15,7 @@ birthday:
   written: 14th of Korent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Kova Tamara
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Shadesburry_Initiative
 - Rouge
 - Protection
+- Student
 - 1st
 - Treskal
 ---
 # Evylen Nese
----
 ### Description
 - Gnome Rouge from Shadesburry Initiative
 - 1st year Protection student in Treskal
 - short straight brunette hair that's plain, Hazel eyes, and Dark Brown skin
 - Is Effeminate and Dominating, and has Perseverance as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -62,8 +64,6 @@ tags:
 - [[Adrjia Lysanthir]]: partymate
 - [[Es'beth Yesheln]]: partymate
 - [[Jaedyn Arbane]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

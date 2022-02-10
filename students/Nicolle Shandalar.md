@@ -17,7 +17,7 @@ birthday:
   written: 3rd of Moradent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Wulfe Galan
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Whyndiem
 - Cleric
 - Assault
+- Student
 - 1st
 - Elkenval
 ---
 # Nicolle Shandalar
----
 ### Description
 - Triton Cleric from Whyndiem
 - 1st year Assault student in Elkenval
 - long wavy dirty blonde hair that's plain, Green eyes, and Sea Green skin
 - Is Upright and Opinionated, and has Contributing as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Wulfe Galan]]: partymate
 - [[Yakob Lydialeera]]: partymate
 - [[Lichie Halliwell]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

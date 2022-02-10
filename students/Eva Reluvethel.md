@@ -17,7 +17,7 @@ birthday:
   written: 31st of Pelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Liris Bhyrindaar
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Aldercrown_Empire
 - Wizard
 - Assault
+- Student
 - 2nd
 - Fiesn
 ---
 # Eva Reluvethel
----
 ### Description
 - Human Wizard from Aldercrown Empire
 - 2nd year Assault student in Fiesn
 - long straight auburn hair that's plain, Pale Brown eyes, and Light skin
 - Is Lucky and Restrained, and has Learning as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Liris Bhyrindaar]]: partymate
 - [[Caeleb Embrae]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

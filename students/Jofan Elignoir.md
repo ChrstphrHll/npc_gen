@@ -16,7 +16,7 @@ birthday:
   written: 17th of Melorent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Cam Lazziar
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Whyndiem
 - Ranger
 - Diplomacy
+- Student
 - 7th
 - Alderden
 ---
 # Jofan Elignoir
----
 ### Description
 - Triton Ranger from Whyndiem
 - 7th year Diplomacy student in Alderden
 - shoulder length curly dirty blonde hair that's plain, Hazel eyes, and Pale Gray skin
 - Is Modest and Snobbish, and has Pride as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Cam Lazziar]]: partymate
 - [[Rei Mardeiym]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

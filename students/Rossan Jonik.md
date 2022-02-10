@@ -16,7 +16,7 @@ birthday:
   written: 31st of Melorent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Bela Qwey
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Aldercrown_Empire
 - Artificer
 - Exploration
+- Student
 - 3rd
 - Treskal
 ---
 # Rossan Jonik
----
 ### Description
 - Halfling Artificer from Aldercrown Empire
 - 3rd year Exploration student in Treskal
 - shoulder length wavy platinum hair that's put up, Pale Blue eyes, and Fair skin
 - Is Impartial and Unaggressive, and has Might as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Bela Qwey]]: partymate
 - [[Lanalia Belt]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

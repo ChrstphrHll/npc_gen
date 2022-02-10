@@ -16,7 +16,7 @@ birthday:
   written: 12th of Korent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Whit Remington
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Chillwild_Peaks
 - Monk
 - Diplomacy
+- Student
 - 1st
 - Burk
 ---
 # Hazel Traeliorn
----
 ### Description
 - Tiefling Monk from Chillwild Peaks
 - 1st year Diplomacy student in Burk
 - shoulder length curly auburn hair that's plain, Brown eyes, and Blue skin
 - Is Adventurous and Unctuous, and has Caring as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Whit Remington]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 19th of Korent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Gabrilo Kulo
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Magmus_Centerhold
 - Artificer
 - Protection
+- Student
 - 2nd
 - Elkenval
 ---
 # Levio Evindal
----
 ### Description
 - Half-Orc Artificer from Magmus Centerhold
 - 2nd year Protection student in Elkenval
 - short curly brunette hair that's plain, Pale Green eyes, and Pale Gray skin
 - Is Sensual and Ignorant, and has Intelligence as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -62,8 +64,6 @@ tags:
 - [[Mya Nelaeryn]]: partymate
 - [[Myddin Hastos]]: partymate
 - [[Tylus Ytharra]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

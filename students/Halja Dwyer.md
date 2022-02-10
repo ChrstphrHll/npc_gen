@@ -15,7 +15,7 @@ birthday:
   written: 10th of Iounent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Yathlanae Arkhun
   type: partymate
@@ -38,23 +38,23 @@ tags:
 - Magmus_Centerhold
 - Fighter
 - Exploration
+- Student
 - 1st
 - Alderden
 ---
 # Halja Dwyer
----
 ### Description
 - Tiefling Fighter from Magmus Centerhold
 - 1st year Exploration student in Alderden
 - shoulder length curly grey hair that's wild, Spring Green eyes, and Pale Blue skin
 - Is Iconoclastic and Stingy, and has Prosperity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Yathlanae Arkhun]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

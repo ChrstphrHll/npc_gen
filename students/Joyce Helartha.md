@@ -15,7 +15,7 @@ birthday:
   written: 21st of Corelent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Maia Ashsorrow
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Cleric
 - Diplomacy
+- Student
 - 1st
 - Treskal
 ---
 # Joyce Helartha
----
 ### Description
 - Halfling Cleric from Principality of the Palus Peoples
 - 1st year Diplomacy student in Treskal
 - shoulder length curly grey hair that's well kept, Pale Brown eyes, and Dark Tan skin
 - Is Innovative and Abrasive, and has Compassion as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Maia Ashsorrow]]: partymate
 - [[Hanna Arkhun]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

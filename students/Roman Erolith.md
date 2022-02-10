@@ -16,7 +16,7 @@ birthday:
   written: 19th of Iounent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Meira Nuvian
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Draconia
 - Monk
 - Exploration
+- Student
 - 3rd
 - Burk
 ---
 # Roman Erolith
----
 ### Description
 - Dragonborn Monk from Draconia
 - 3rd year Exploration student in Burk
 - long spines, Pale Blue eyes, and blue skin
 - Is Scrupulous and Shy, and has Logic as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Meira Nuvian]]: partymate
 - [[Thongar Fairchild]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

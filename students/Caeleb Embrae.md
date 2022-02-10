@@ -16,7 +16,7 @@ birthday:
   written: 18th of Iounent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Liris Bhyrindaar
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Magmus_Centerhold
 - Bard
 - Assault
+- Student
 - 2nd
 - Fiesn
 ---
 # Caeleb Embrae
----
 ### Description
 - Tiefling Bard from Magmus Centerhold
 - 2nd year Assault student in Fiesn
 - short straight dark red hair that's well kept, Aqua eyes, and Deep Blue skin
 - Is Skillful and Libidinous, and has Invention as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Liris Bhyrindaar]]: partymate
 - [[Eva Reluvethel]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

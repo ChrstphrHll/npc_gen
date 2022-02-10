@@ -18,7 +18,7 @@ birthday:
   written: 10th of Moradent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Leah Faelar
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Draconia
 - Artificer
 - Diplomacy
+- Student
 - 1st
 - Treskal
 ---
 # Angel Nushala
----
 ### Description
 - Dragonborn Artificer from Draconia
 - 1st year Diplomacy student in Treskal
 - short spines, Pale Blue eyes, and brass skin
 - Is Self-conscious and Anxious, and has Caring as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -62,8 +64,6 @@ tags:
 - [[Leah Faelar]]: partymate
 - [[Branus Shadegrove]]: partymate
 - [[Tilo Connak]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

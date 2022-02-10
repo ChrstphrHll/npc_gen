@@ -17,7 +17,7 @@ birthday:
   written: 13th of Korent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Gunnar Ordayius
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Chillwild_Peaks
 - Barbarian
 - Assault
+- Student
 - 4th
 - Burk
 ---
 # Noam Shields
----
 ### Description
 - Half-Orc Barbarian from Chillwild Peaks
 - 4th year Assault student in Burk
 - short wavy auburn hair that's plain, Blue eyes, and Pale Green skin
 - Is Quality and Colorless, and has Fitness as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Gunnar Ordayius]]: partymate
 - [[Saleas Rilitar]]: partymate
 - [[Remus Manchul]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

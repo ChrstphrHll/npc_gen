@@ -15,7 +15,7 @@ birthday:
   written: 32nd of Melorent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Wulfe Galan
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Draconia
 - Fighter
 - Protection
+- Student
 - 1st
 - Elkenval
 ---
 # Yakob Lydialeera
----
 ### Description
 - Dragonborn Fighter from Draconia
 - 1st year Protection student in Elkenval
 - long spines, Deep Blue eyes, and blue skin
 - Is Chummy and Ambitious, and has Fitness as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Wulfe Galan]]: partymate
 - [[Nicolle Shandalar]]: partymate
 - [[Lichie Halliwell]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

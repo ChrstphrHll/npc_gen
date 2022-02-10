@@ -16,7 +16,7 @@ birthday:
   written: 18th of Corelent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Valygar Lyklor
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Draconia
 - Fighter
 - Assault
+- Student
 - 2nd
 - Burk
 ---
 # Lyonus Ioelena
----
 ### Description
 - Dragonborn Fighter from Draconia
 - 2nd year Assault student in Burk
 - frills, Yellow eyes, and silver skin
 - Is Courteous and Repressed, and has Wealth as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Valygar Lyklor]]: partymate
 - [[Hagar Sakrattars]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

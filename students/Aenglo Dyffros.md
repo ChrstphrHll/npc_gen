@@ -15,7 +15,7 @@ birthday:
   written: 27th of Pelent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Lynx Galather
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Whyndiem
 - Cleric
 - Diplomacy
+- Student
 - 1st
 - Burk
 ---
 # Aenglo Dyffros
----
 ### Description
 - Elf Cleric from Whyndiem
 - 1st year Diplomacy student in Burk
 - short curly dirty blonde hair that's braided, Pale Brown eyes, and Light Tan skin
 - Is Deferential and Dissonant, and has Happiness as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Lynx Galather]]: partymate
 - [[Corliss Akkar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

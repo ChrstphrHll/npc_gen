@@ -16,7 +16,7 @@ birthday:
   written: 2nd of Ravenent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Leah Faelar
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Shadesburry_Initiative
 - Barbarian
 - Diplomacy
+- Student
 - 1st
 - Treskal
 ---
 # Branus Shadegrove
----
 ### Description
 - Gnome Barbarian from Shadesburry Initiative
 - 1st year Diplomacy student in Treskal
 - long wavy brunette hair that's put up, Gray eyes, and Light Tan skin
 - Is Sophisticated and Vague, and has Charity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Leah Faelar]]: partymate
 - [[Tilo Connak]]: partymate
 - [[Angel Nushala]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 7th of Moradent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Alexandyr Aulauthar
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Beleriand
 - Fighter
 - Diplomacy
+- Student
 - 5th
 - Fiesn
 ---
 # Adamos Taehr
----
 ### Description
 - Elf Fighter from Beleriand
 - 5th year Diplomacy student in Fiesn
 - shoulder length wavy grey hair that's wild, Blue eyes, and Tan skin
 - Is Attentive and Sensual, and has People as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Alexandyr Aulauthar]]: partymate
 - [[Coriss Biafyndar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

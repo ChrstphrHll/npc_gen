@@ -15,7 +15,7 @@ birthday:
   written: 1st of Iounent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Tyego Sinaht
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Verdain
 - Cleric
 - Diplomacy
+- Student
 - 3rd
 - Fiesn
 ---
 # Jess Beebe
----
 ### Description
 - Firbolg Cleric from Verdain
 - 3rd year Diplomacy student in Fiesn
 - short wavy brunette hair that's plain, Hazel eyes, and Pale Gray skin
 - Is Impressive and Unkind, and has Finesse as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Tyego Sinaht]]: partymate
 - [[Halia Dominguez]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

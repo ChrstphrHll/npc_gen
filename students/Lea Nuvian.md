@@ -16,7 +16,7 @@ birthday:
   written: 19th of Ravenent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Audree Dixon
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Whyndiem
 - Rouge
 - Protection
+- Student
 - 1st
 - Alderden
 ---
 # Lea Nuvian
----
 ### Description
 - Triton Rouge from Whyndiem
 - 1st year Protection student in Alderden
 - short wavy dark red hair that's wild, Blue eyes, and Pale Blue skin
 - Is Ascetic and Disputatious, and has Cruelty as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Audree Dixon]]: partymate
 - [[Aryana Ahrendue]]: partymate
 - [[Alkindus Llamryl]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 21st of Pelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hudsen Elandorr
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Aldercrown_Empire
 - Druid
 - Diplomacy
+- Student
 - 3rd
 - Treskal
 ---
 # Gabrila Retra
----
 ### Description
 - Dwarf Druid from Aldercrown Empire
 - 3rd year Diplomacy student in Treskal
 - short straight lighter blonde hair that's plain, Amber eyes, and Fair skin
 - Is Intrepid and Reactive, and has Contributing as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Hudsen Elandorr]]: partymate
 - [[Brooka Whesker]]: partymate
 - [[Jacob Jorildyn]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 13th of Iounent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Verssek Nese
   type: partymate
@@ -38,23 +38,23 @@ tags:
 - Shadesburry_Initiative
 - Ranger
 - Exploration
+- Student
 - 3rd
 - Treskal
 ---
 # Favroe Kythaela
----
 ### Description
 - Gnome Ranger from Shadesburry Initiative
 - 3rd year Exploration student in Treskal
 - short wavy platinum hair that's plain, Green eyes, and Pale skin
 - Is Tough and Meretricious, and has Live and Let Live as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Verssek Nese]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

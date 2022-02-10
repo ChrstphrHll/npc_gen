@@ -17,7 +17,7 @@ birthday:
   written: 26th of Ravenent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Diegon Verrona
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Aldercrown_Empire
 - Rouge
 - Assault
+- Student
 - 1st
 - Elkenval
 ---
 # Holys Hachaam
----
 ### Description
 - Half-Elf Rouge from Aldercrown Empire
 - 1st year Assault student in Elkenval
 - short straight brunette hair that's put up, Pale Blue eyes, and Brown skin
 - Is Eloquent and Wishy-washy, and has Hard Work as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Diegon Verrona]]: partymate
 - [[Adresin Ilbryn]]: partymate
 - [[Kayla Kaminsky]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

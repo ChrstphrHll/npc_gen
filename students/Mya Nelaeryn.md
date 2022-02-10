@@ -15,7 +15,7 @@ birthday:
   written: 22nd of Avanent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Gabrilo Kulo
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Qualnis
 - Barbarian
 - Protection
+- Student
 - 2nd
 - Elkenval
 ---
 # Mya Nelaeryn
----
 ### Description
 - Human Barbarian from Qualnis
 - 2nd year Protection student in Elkenval
 - long straight dark red hair that's wild, Pale Brown eyes, and Fair skin
 - Is Folksy and Evil, and has Creativity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -62,8 +64,6 @@ tags:
 - [[Levio Evindal]]: partymate
 - [[Myddin Hastos]]: partymate
 - [[Tylus Ytharra]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

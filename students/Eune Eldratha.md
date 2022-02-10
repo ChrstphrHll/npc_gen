@@ -15,7 +15,7 @@ birthday:
   written: 28th of Avanent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Evyn Fenton
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Whyndiem
 - Druid
 - Protection
+- Student
 - 2nd
 - Elkenval
 ---
 # Eune Eldratha
----
 ### Description
 - Triton Druid from Whyndiem
 - 2nd year Protection student in Elkenval
 - long straight grey hair that's well kept, Violet Red eyes, and Emerald Green skin
 - Is Unreligious and Libidinous, and has Forgiveness as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Evyn Fenton]]: partymate
 - [[Tezani Morthil]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

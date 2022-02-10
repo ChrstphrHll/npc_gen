@@ -17,7 +17,7 @@ birthday:
   written: 5th of Iounent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Secarr Ashbluff
   type: partymate
@@ -40,23 +40,23 @@ tags:
 - Chillwild_Peaks
 - Barbarian
 - Exploration
+- Student
 - 6th
 - Burk
 ---
 # Thenol Shialaevar
----
 ### Description
 - Half-Orc Barbarian from Chillwild Peaks
 - 6th year Exploration student in Burk
 - shoulder length wavy platinum hair that's plain, Brown eyes, and Pale Green skin
 - Is Sensitive and Indolent, and has Security as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Secarr Ashbluff]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

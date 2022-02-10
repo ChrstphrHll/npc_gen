@@ -16,7 +16,7 @@ birthday:
   written: 11th of Melorent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Gina Grandius
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Magmus_Centerhold
 - Druid
 - Exploration
+- Student
 - 3rd
 - Alderden
 ---
 # Ramona Saida
----
 ### Description
 - Dragonborn Druid from Magmus Centerhold
 - 3rd year Exploration student in Alderden
 - 2 barbed horns, Hazel eyes, and green skin
 - Is Predictable and Evil, and has Courage as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Gina Grandius]]: partymate
 - [[Leya Escobar]]: partymate
 - [[Hanna Estelar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

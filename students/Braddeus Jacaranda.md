@@ -17,7 +17,7 @@ birthday:
   written: 19th of Pelent
 origin: Kordinia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Maarika Oncith
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Kordinia
 - Paladin
 - Diplomacy
+- Student
 - 3rd
 - Fiesn
 ---
 # Braddeus Jacaranda
----
 ### Description
 - Halfling Paladin from Kordinia
 - 3rd year Diplomacy student in Fiesn
 - short wavy strawberry blond hair that's put up, Amber eyes, and Pale skin
 - Is Strong-willed and Pretentious, and has Appreciation as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Maarika Oncith]]: partymate
 - [[Lilia Agrippa]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

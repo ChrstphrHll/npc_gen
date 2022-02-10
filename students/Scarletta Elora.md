@@ -16,7 +16,7 @@ birthday:
   written: 25th of Avanent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Terek Nushala
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Shadesburry_Initiative
 - Cleric
 - Protection
+- Student
 - 2nd
 - Fiesn
 ---
 # Scarletta Elora
----
 ### Description
 - Gnome Cleric from Shadesburry Initiative
 - 2nd year Protection student in Fiesn
 - short curly dirty blonde hair that's braided, Hazel eyes, and Dark Tan skin
 - Is Cooperative and Devious, and has Patience as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Terek Nushala]]: partymate
 - [[Barak Felaern]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

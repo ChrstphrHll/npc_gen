@@ -16,7 +16,7 @@ birthday:
   written: 26th of Melorent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Yan Sorsasta
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Beleriand
 - Monk
 - Exploration
+- Student
 - 2nd
 - Burk
 ---
 # Abryia Rubrae
----
 ### Description
 - Halfling Monk from Beleriand
 - 2nd year Exploration student in Burk
 - short frizzy auburn hair that's messy, Green eyes, and Light skin
 - Is Dreamer and Scheming, and has Leadership as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Yan Sorsasta]]: partymate
 - [[Violetta Coldsprinter]]: partymate
 - [[Nicholus Morthil]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

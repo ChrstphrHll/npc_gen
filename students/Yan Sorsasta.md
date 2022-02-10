@@ -15,7 +15,7 @@ birthday:
   written: 33rd of Korent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Abryia Rubrae
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Aldercrown_Empire
 - Barbarian
 - Diplomacy
+- Student
 - 2nd
 - Burk
 ---
 # Yan Sorsasta
----
 ### Description
 - Dwarf Barbarian from Aldercrown Empire
 - 2nd year Diplomacy student in Burk
 - shoulder length wavy grey hair that's braided, Brown eyes, and Pale skin
 - Is Adventurous and Pretentious, and has Reciprocity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Abryia Rubrae]]: partymate
 - [[Violetta Coldsprinter]]: partymate
 - [[Nicholus Morthil]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

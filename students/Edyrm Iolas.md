@@ -15,7 +15,7 @@ birthday:
   written: 17th of Pelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jacus Kosunten
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Aldercrown_Empire
 - Artificer
 - Diplomacy
+- Student
 - 2nd
 - Burk
 ---
 # Edyrm Iolas
----
 ### Description
 - Half-Elf Artificer from Aldercrown Empire
 - 2nd year Diplomacy student in Burk
 - shoulder length curly auburn hair that's wild, Pale Gray eyes, and Light Tan skin
 - Is Seraphic and Unpolished, and has Might as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Jacus Kosunten]]: partymate
 - [[Shenai Inqoul]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

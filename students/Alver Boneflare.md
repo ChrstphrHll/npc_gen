@@ -17,7 +17,7 @@ birthday:
   written: 27th of Melorent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Matto Divya
   type: partymate
@@ -46,16 +46,18 @@ tags:
 - Chillwild_Peaks
 - Cleric
 - Protection
+- Student
 - 1st
 - Jettenia
 ---
 # Alver Boneflare
----
 ### Description
 - Goliath Cleric from Chillwild Peaks
 - 1st year Protection student in Jettenia
 - long wavy dark red hair that's put up, Pale Green eyes, and Light Tan skin
 - Is Reflective and Cold-hearted, and has Creativity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -64,8 +66,6 @@ tags:
 - [[Ysak Llewellenar]]: partymate
 - [[Garan Mirthal]]: partymate
 - [[Iasono Ynshael]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

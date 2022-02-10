@@ -15,7 +15,7 @@ birthday:
   written: 1st of Korent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Robett Grell
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Qualnis
 - Barbarian
 - Assault
+- Student
 - 6th
 - Treskal
 ---
 # Lenn Schimae
----
 ### Description
 - Human Barbarian from Qualnis
 - 6th year Assault student in Treskal
 - short wavy auburn hair that's plain, Hazel eyes, and Dark Tan skin
 - Is Inventive and Ignorant, and has Creativity as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Robett Grell]]: partymate
 - [[Savanna Ildilyntra]]: partymate
 - [[Gifre Edyrm]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

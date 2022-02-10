@@ -16,7 +16,7 @@ birthday:
   written: 2nd of Pelent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Giacomo Edraele
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Draconia
 - Ranger
 - Exploration
+- Student
 - 2nd
 - Treskal
 ---
 # Yoshen Arcaena
----
 ### Description
 - Dragonborn Ranger from Draconia
 - 2nd year Exploration student in Treskal
 - frills, Yellow eyes, and black skin
 - Is Well-bred and Superstitious, and has Malice as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Giacomo Edraele]]: partymate
 - [[Matrell Halafarin]]: partymate
 - [[Santaegus Etter]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

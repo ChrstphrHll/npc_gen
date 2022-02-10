@@ -16,7 +16,7 @@ birthday:
   written: 15th of Avanent
 origin: Kordinia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Shike Thalaera
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Kordinia
 - Bard
 - Assault
+- Student
 - 1st
 - Burk
 ---
 # Hodus Belt
----
 ### Description
 - Elf Bard from Kordinia
 - 1st year Assault student in Burk
 - shoulder length straight platinum hair that's well kept, Pale Gray eyes, and Brown skin
 - Is Lucky and Vindictive, and has Harmony as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Shike Thalaera]]: partymate
 - [[Delja Iefyr]]: partymate
 - [[Genesys Mhaenal]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 19th of Pelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Terek Nushala
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Aldercrown_Empire
 - Monk
 - Protection
+- Student
 - 2nd
 - Fiesn
 ---
 # Barak Felaern
----
 ### Description
 - Kenku Monk from Aldercrown Empire
 - 2nd year Protection student in Fiesn
 - striped, Hazel eyes, and Dark Blue skin
 - Is Playful and Noncommittal, and has Order as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Terek Nushala]]: partymate
 - [[Scarletta Elora]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 25th of Pelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hudsen Elandorr
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Aldercrown_Empire
 - Fighter
 - Diplomacy
+- Student
 - 3rd
 - Treskal
 ---
 # Brooka Whesker
----
 ### Description
 - Half-Elf Fighter from Aldercrown Empire
 - 3rd year Diplomacy student in Treskal
 - long curly brunette hair that's wild, Pale Brown eyes, and Pale skin
 - Is Private and Predictable, and has Impartiality as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Hudsen Elandorr]]: partymate
 - [[Jacob Jorildyn]]: partymate
 - [[Gabrila Retra]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

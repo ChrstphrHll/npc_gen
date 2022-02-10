@@ -16,7 +16,7 @@ birthday:
   written: 19th of Pelent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Bera Cauladra
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Chillwild_Peaks
 - Rouge
 - Exploration
+- Student
 - 4th
 - Elkenval
 ---
 # Auzerais Venali
----
 ### Description
 - Dwarf Rouge from Chillwild Peaks
 - 4th year Exploration student in Elkenval
 - long wavy brunette hair that's plain, Hazel eyes, and Dark Brown skin
 - Is Unhurried and Neurotic, and has Pessimism as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Bera Cauladra]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

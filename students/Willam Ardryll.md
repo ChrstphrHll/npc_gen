@@ -17,7 +17,7 @@ birthday:
   written: 22nd of Moradent
 origin: Black Rock
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Graisen Thalanil
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Black_Rock
 - Wizard
 - Assault
+- Student
 - 2nd
 - Treskal
 ---
 # Willam Ardryll
----
 ### Description
 - Kenku Wizard from Black Rock
 - 2nd year Assault student in Treskal
 - sleek, Amber eyes, and Dark Blue skin
 - Is Resourceful and Arrogant, and has Redemption as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Graisen Thalanil]]: partymate
 - [[Themistoklea Nevarth]]: partymate
 - [[Lucoe Lorelei]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

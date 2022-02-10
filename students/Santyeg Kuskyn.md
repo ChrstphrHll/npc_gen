@@ -17,7 +17,7 @@ birthday:
   written: 4th of Corelent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Malchor Tenyajn
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Rouge
 - Assault
+- Student
 - 1st
 - Fiesn
 ---
 # Santyeg Kuskyn
----
 ### Description
 - Elf Rouge from Principality of the Palus Peoples
 - 1st year Assault student in Fiesn
 - shoulder length frizzy white hair that's well kept, Hazel eyes, and Brown skin
 - Is Self-critical and Cute, and has Humane as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Malchor Tenyajn]]: partymate
 - [[Ahtye Elhieardacil]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -17,7 +17,7 @@ birthday:
   written: 24th of Ravenent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Eune Eldratha
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Beleriand
 - Wizard
 - Assault
+- Student
 - 2nd
 - Elkenval
 ---
 # Tezani Morthil
----
 ### Description
 - Elf Wizard from Beleriand
 - 2nd year Assault student in Elkenval
 - short straight auburn hair that's braided, Gray eyes, and Light Tan skin
 - Is Deceptive and Extreme, and has Generosity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Eune Eldratha]]: partymate
 - [[Evyn Fenton]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

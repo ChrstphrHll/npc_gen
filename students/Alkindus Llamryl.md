@@ -16,7 +16,7 @@ birthday:
   written: 19th of Moradent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Audree Dixon
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Aldercrown_Empire
 - Sorcerer
 - Assault
+- Student
 - 1st
 - Alderden
 ---
 # Alkindus Llamryl
----
 ### Description
 - Half-Elf Sorcerer from Aldercrown Empire
 - 1st year Assault student in Alderden
 - shoulder length wavy red hair that's braided, Hazel eyes, and Light skin
 - Is Rustic and Pessimistic, and has Order as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Audree Dixon]]: partymate
 - [[Aryana Ahrendue]]: partymate
 - [[Lea Nuvian]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 11th of Pelent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Eune Eldratha
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Chillwild_Peaks
 - Rouge
 - Protection
+- Student
 - 2nd
 - Elkenval
 ---
 # Evyn Fenton
----
 ### Description
 - Half-Orc Rouge from Chillwild Peaks
 - 2nd year Protection student in Elkenval
 - shoulder length wavy blonde hair that's plain, Pale Blue eyes, and Pale Green skin
 - Is Well-rounded and Perverse, and has Spiritualism as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Eune Eldratha]]: partymate
 - [[Tezani Morthil]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

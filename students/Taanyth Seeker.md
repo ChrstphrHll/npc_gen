@@ -17,7 +17,7 @@ birthday:
   written: 28th of Ravenent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Efjan Andrathath
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Aldercrown_Empire
 - Monk
 - Assault
+- Student
 - 1st
 - Burk
 ---
 # Taanyth Seeker
----
 ### Description
 - Human Monk from Aldercrown Empire
 - 1st year Assault student in Burk
 - short curly brunette hair that's messy, Pale Green eyes, and Tan skin
 - Is Active and Insolent, and has Gratitude as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Efjan Andrathath]]: partymate
 - [[Averra Taleisin]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

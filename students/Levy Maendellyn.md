@@ -15,7 +15,7 @@ birthday:
   written: 8th of Ravenent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Isaias Vaalyun
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Shadesburry_Initiative
 - Fighter
 - Assault
+- Student
 - 2nd
 - Burk
 ---
 # Levy Maendellyn
----
 ### Description
 - Gnome Fighter from Shadesburry Initiative
 - 2nd year Assault student in Burk
 - long frizzy brunette hair that's braided, Pale Blue eyes, and Brown skin
 - Is Hospitable and Sly, and has Righteous as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Isaias Vaalyun]]: partymate
 - [[Jacoby Maeraddyth]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

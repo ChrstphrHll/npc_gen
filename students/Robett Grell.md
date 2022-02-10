@@ -16,7 +16,7 @@ birthday:
   written: 4th of Avanent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Lenn Schimae
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Magmus_Centerhold
 - Monk
 - Assault
+- Student
 - 6th
 - Treskal
 ---
 # Robett Grell
----
 ### Description
 - Dwarf Monk from Magmus Centerhold
 - 6th year Assault student in Treskal
 - short straight dark red hair that's plain, Pale Brown eyes, and Dark Brown skin
 - Is Solitary and Impolite, and has Forgiveness as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Lenn Schimae]]: partymate
 - [[Savanna Ildilyntra]]: partymate
 - [[Gifre Edyrm]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

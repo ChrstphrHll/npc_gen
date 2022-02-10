@@ -17,7 +17,7 @@ birthday:
   written: 17th of Avanent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Noam Shields
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Aldercrown_Empire
 - Druid
 - Diplomacy
+- Student
 - 4th
 - Burk
 ---
 # Gunnar Ordayius
----
 ### Description
 - Human Druid from Aldercrown Empire
 - 4th year Diplomacy student in Burk
 - shoulder length straight auburn hair that's plain, Amber eyes, and Light skin
 - Is Shrewd and Mean, and has Enjoyment as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Noam Shields]]: partymate
 - [[Saleas Rilitar]]: partymate
 - [[Remus Manchul]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

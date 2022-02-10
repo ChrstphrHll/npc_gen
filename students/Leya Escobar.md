@@ -16,7 +16,7 @@ birthday:
   written: 25th of Pelent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Gina Grandius
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Aldercrown_Empire
 - Fighter
 - Assault
+- Student
 - 3rd
 - Alderden
 ---
 # Leya Escobar
----
 ### Description
 - Human Fighter from Aldercrown Empire
 - 3rd year Assault student in Alderden
 - short straight blonde hair that's plain, Pale Gray eyes, and Dark Brown skin
 - Is Self-disciplined and Mawkish, and has Righteous as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Gina Grandius]]: partymate
 - [[Ramona Saida]]: partymate
 - [[Hanna Estelar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

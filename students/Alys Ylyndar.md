@@ -17,7 +17,7 @@ birthday:
   written: 11th of Corelent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Brynn Opalul
   type: partymate
@@ -40,23 +40,23 @@ tags:
 - Qualnis
 - Monk
 - Diplomacy
+- Student
 - 3rd
 - Burk
 ---
 # Alys Ylyndar
----
 ### Description
 - Human Monk from Qualnis
 - 3rd year Diplomacy student in Burk
 - shoulder length straight red hair that's braided, Blue eyes, and Fair skin
 - Is Contented and Licentious, and has Contributing as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Brynn Opalul]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

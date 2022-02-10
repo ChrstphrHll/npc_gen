@@ -16,7 +16,7 @@ birthday:
   written: 25th of Iounent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Levy Maendellyn
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Chillwild_Peaks
 - Monk
 - Assault
+- Student
 - 2nd
 - Burk
 ---
 # Jacoby Maeraddyth
----
 ### Description
 - Goliath Monk from Chillwild Peaks
 - 2nd year Assault student in Burk
 - shoulder length frizzy white hair that's wild, Pale Brown eyes, and Light skin
 - Is Conservative and Invisible, and has Integrity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Levy Maendellyn]]: partymate
 - [[Isaias Vaalyun]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

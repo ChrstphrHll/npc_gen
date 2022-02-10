@@ -16,7 +16,7 @@ birthday:
   written: 8th of Moradent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Ian Averescu
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Qualnis
 - Cleric
 - Diplomacy
+- Student
 - 2nd
 - Alderden
 ---
 # Hartwen Galaeron
----
 ### Description
 - Human Cleric from Qualnis
 - 2nd year Diplomacy student in Alderden
 - short wavy green hair that's plain, Pale Blue eyes, and Fair skin
 - Is Plain and Childish, and has Involvement as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Ian Averescu]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

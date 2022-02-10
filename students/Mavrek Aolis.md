@@ -15,7 +15,7 @@ birthday:
   written: 25th of Pelent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Julyo Agassi
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Draconia
 - Sorcerer
 - Assault
+- Student
 - 5th
 - Elkenval
 ---
 # Mavrek Aolis
----
 ### Description
 - Dragonborn Sorcerer from Draconia
 - 5th year Assault student in Elkenval
 - 2 curled horns, Red eyes, and gold skin
 - Is Realistic and Predatory, and has Connection as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Julyo Agassi]]: partymate
 - [[Goshwa Khiipaera]]: partymate
 - [[Vila Tassarion]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 6th of Iounent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Jandar Pleufan
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Shadesburry_Initiative
 - Artificer
 - Assault
+- Student
 - 1st
 - Elkenval
 ---
 # Andrey Rauthomyr
----
 ### Description
 - Gnome Artificer from Shadesburry Initiative
 - 1st year Assault student in Elkenval
 - shoulder length straight dark red hair that's plain, Hazel eyes, and Dark Tan skin
 - Is Trusting and Unrealistic, and has Compassion as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -62,8 +64,6 @@ tags:
 - [[Kimbera Alerathla]]: partymate
 - [[Allyson Vindinglag]]: partymate
 - [[Emilanus Shields]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

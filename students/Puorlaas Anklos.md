@@ -16,7 +16,7 @@ birthday:
   written: 13th of Ravenent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Marl Ahrendaaria
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Beleriand
 - Wizard
 - Protection
+- Student
 - 2nd
 - Jettenia
 ---
 # Puorlaas Anklos
----
 ### Description
 - Tiefling Wizard from Beleriand
 - 2nd year Protection student in Jettenia
 - long curly brunette hair that's plain, Red eyes, and Sea Green skin
 - Is Popular and Reactive, and has Freedom as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Marl Ahrendaaria]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

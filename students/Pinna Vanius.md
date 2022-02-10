@@ -16,7 +16,7 @@ birthday:
   written: 8th of Moradent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Delos Ehlark
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Aldercrown_Empire
 - Bard
 - Assault
+- Student
 - 7th
 - Fiesn
 ---
 # Pinna Vanius
----
 ### Description
 - Elf Bard from Aldercrown Empire
 - 7th year Assault student in Fiesn
 - long wavy lighter blonde hair that's wild, Amber eyes, and Fair skin
 - Is Original and Impractical, and has Redemption as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Delos Ehlark]]: partymate
 - [[Ryan Ebersol]]: partymate
 - [[Kaeli Khiiral]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

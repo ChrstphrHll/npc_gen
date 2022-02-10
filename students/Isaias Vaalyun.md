@@ -17,7 +17,7 @@ birthday:
   written: 32nd of Melorent
 origin: Kordinia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Levy Maendellyn
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Kordinia
 - Cleric
 - Diplomacy
+- Student
 - 2nd
 - Burk
 ---
 # Isaias Vaalyun
----
 ### Description
 - Dwarf Cleric from Kordinia
 - 2nd year Diplomacy student in Burk
 - long wavy white hair that's plain, Pale Brown eyes, and Dark Brown skin
 - Is Discerning and Hidebound, and has Logic as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Levy Maendellyn]]: partymate
 - [[Jacoby Maeraddyth]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

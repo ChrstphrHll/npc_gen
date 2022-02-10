@@ -17,7 +17,7 @@ birthday:
   written: 18th of Corelent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Gerrimar Vulkor
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Ranger
 - Exploration
+- Student
 - 5th
 - Treskal
 ---
 # Cerridwen Durothil
----
 ### Description
 - Half-Elf Ranger from Principality of the Palus Peoples
 - 5th year Exploration student in Treskal
 - shoulder length curly violet hair that's plain, Pale Gray eyes, and Light skin
 - Is Gritty and Outspoken, and has Competition as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Gerrimar Vulkor]]: partymate
 - [[Ungris Riluaneth]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 15th of Moradent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Celaeno Amkissra
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Magmus_Centerhold
 - Sorcerer
 - Protection
+- Student
 - 8th
 - Jettenia
 ---
 # Kembley Ralnor
----
 ### Description
 - Half-Orc Sorcerer from Magmus Centerhold
 - 8th year Protection student in Jettenia
 - short curly strawberry blond hair that's plain, Blue eyes, and Pale Gray skin
 - Is Unaggressive and Unimaginative, and has Entrepreneurial as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Celaeno Amkissra]]: partymate
 - [[Wenge Usunaar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

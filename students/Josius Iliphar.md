@@ -16,7 +16,7 @@ birthday:
   written: 9th of Moradent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Surge Fayd
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Magmus_Centerhold
 - Rouge
 - Assault
+- Student
 - 7th
 - Fiesn
 ---
 # Josius Iliphar
----
 ### Description
 - Genasi Rouge from Magmus Centerhold
 - 7th year Assault student in Fiesn
 - short curly dirty blonde hair that's put up, Violet Red eyes, and air skin
 - Is Iconoclastic and Shallow, and has Kindness as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Surge Fayd]]: partymate
 - [[Delsenora Strohm]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

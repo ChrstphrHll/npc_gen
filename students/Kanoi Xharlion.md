@@ -16,7 +16,7 @@ birthday:
   written: 20th of Korent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Ljuk Vulkor
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Aldercrown_Empire
 - Artificer
 - Diplomacy
+- Student
 - 2nd
 - Elkenval
 ---
 # Kanoi Xharlion
----
 ### Description
 - Dwarf Artificer from Aldercrown Empire
 - 2nd year Diplomacy student in Elkenval
 - shoulder length wavy red hair that's plain, Pale Brown eyes, and Tan skin
 - Is Sarcastic and Odd, and has Professionalism as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Ljuk Vulkor]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 30th of Korent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Corliss Akkar
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Qualnis
 - Monk
 - Exploration
+- Student
 - 1st
 - Burk
 ---
 # Lynx Galather
----
 ### Description
 - Human Monk from Qualnis
 - 1st year Exploration student in Burk
 - long curly white hair that's wild, Amber eyes, and Tan skin
 - Is Reasonable and Resentful, and has Responsibility as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Corliss Akkar]]: partymate
 - [[Aenglo Dyffros]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

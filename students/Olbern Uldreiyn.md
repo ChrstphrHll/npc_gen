@@ -16,7 +16,7 @@ birthday:
   written: 32nd of Pelent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Connovar Kaminsky
   type: partymate
@@ -39,23 +39,23 @@ tags:
 - Qualnis
 - Sorcerer
 - Assault
+- Student
 - 4th
 - Treskal
 ---
 # Olbern Uldreiyn
----
 ### Description
 - Human Sorcerer from Qualnis
 - 4th year Assault student in Treskal
 - short straight lighter blonde hair that's put up, Blue eyes, and Pale skin
 - Is Merciful and Stubborn, and has Leadership as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Connovar Kaminsky]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -15,7 +15,7 @@ birthday:
   written: 23rd of Avanent
 origin: Glasscliff Garisons
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Maia Ashsorrow
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Glasscliff_Garisons
 - Paladin
 - Protection
+- Student
 - 1st
 - Treskal
 ---
 # Hanna Arkhun
----
 ### Description
 - Triton Paladin from Glasscliff Garisons
 - 1st year Protection student in Treskal
 - short wavy turquoise hair that's messy, Purple eyes, and Pale Gray skin
 - Is Dependable and Enigmatic, and has Involvement as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Maia Ashsorrow]]: partymate
 - [[Joyce Helartha]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 7th of Moradent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Gormoth Shyrrik
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Aldercrown_Empire
 - Paladin
 - Assault
+- Student
 - 2nd
 - Jettenia
 ---
 # Kymber Korrigash
----
 ### Description
 - Elf Paladin from Aldercrown Empire
 - 2nd year Assault student in Jettenia
 - shoulder length straight blonde hair that's well kept, Amber eyes, and Dark Brown skin
 - Is Just and Physical, and has Abundance as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Gormoth Shyrrik]]: partymate
 - [[Vaellyn Esyae]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

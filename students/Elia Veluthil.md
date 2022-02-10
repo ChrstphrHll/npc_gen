@@ -15,7 +15,7 @@ birthday:
   written: 10th of Avanent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Aelisabeth Soliania
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Bard
 - Exploration
+- Student
 - 3rd
 - Burk
 ---
 # Elia Veluthil
----
 ### Description
 - Firbolg Bard from Principality of the Palus Peoples
 - 3rd year Exploration student in Burk
 - shoulder length straight pink hair that's braided, Pale Blue eyes, and Pale Green skin
 - Is Charming and Unhurried, and has Perseverance as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Aelisabeth Soliania]]: partymate
 - [[Rotheloe Samblar]]: partymate
 - [[Helera Urkensvall]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

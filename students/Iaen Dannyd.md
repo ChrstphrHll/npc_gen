@@ -15,7 +15,7 @@ birthday:
   written: 11th of Avanent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Everen Malfoy
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Aldercrown_Empire
 - Rouge
 - Protection
+- Student
 - 2nd
 - Fiesn
 ---
 # Iaen Dannyd
----
 ### Description
 - Dragonborn Rouge from Aldercrown Empire
 - 2nd year Protection student in Fiesn
 - short spines, Deep Blue eyes, and copper skin
 - Is Trusting and Determined, and has Wellness as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Everen Malfoy]]: partymate
 - [[Taewen Llamryl]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

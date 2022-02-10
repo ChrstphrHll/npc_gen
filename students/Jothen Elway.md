@@ -15,7 +15,7 @@ birthday:
   written: 24th of Pelent
 origin: Qualnis
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Aidyn Glynnii
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Qualnis
 - Rouge
 - Exploration
+- Student
 - 1st
 - Elkenval
 ---
 # Jothen Elway
----
 ### Description
 - Human Rouge from Qualnis
 - 1st year Exploration student in Elkenval
 - shoulder length curly brunette hair that's put up, Pale Green eyes, and Tan skin
 - Is Freewheeling and Dreamy, and has Cruelty as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Aidyn Glynnii]]: partymate
 - [[Allisa Iahalae]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

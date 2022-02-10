@@ -15,7 +15,7 @@ birthday:
   written: 18th of Ravenent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hanro Fieryat
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Aldercrown_Empire
 - Sorcerer
 - Diplomacy
+- Student
 - 1st
 - Alderden
 ---
 # Jamie Kesefehon
----
 ### Description
 - Gnome Sorcerer from Aldercrown Empire
 - 1st year Diplomacy student in Alderden
 - shoulder length curly brunette hair that's plain, Pale Gray eyes, and Fair skin
 - Is Simple and Offhand, and has Spiritualism as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Hanro Fieryat]]: partymate
 - [[Rasy Merlara]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

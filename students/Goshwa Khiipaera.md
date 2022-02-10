@@ -17,7 +17,7 @@ birthday:
   written: 25th of Pelent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Julyo Agassi
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Shadesburry_Initiative
 - Fighter
 - Exploration
+- Student
 - 5th
 - Elkenval
 ---
 # Goshwa Khiipaera
----
 ### Description
 - Firbolg Fighter from Shadesburry Initiative
 - 5th year Exploration student in Elkenval
 - long curly black hair that's plain, Hazel eyes, and Pale Brown skin
 - Is Proper and Airy, and has Forgiveness as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Julyo Agassi]]: partymate
 - [[Vila Tassarion]]: partymate
 - [[Mavrek Aolis]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

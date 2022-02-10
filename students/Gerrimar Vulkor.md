@@ -18,7 +18,7 @@ birthday:
   written: 27th of Ravenent
 origin: Verdain
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Cerridwen Durothil
   type: partymate
@@ -43,24 +43,24 @@ tags:
 - Verdain
 - Cleric
 - Exploration
+- Student
 - 5th
 - Treskal
 ---
 # Gerrimar Vulkor
----
 ### Description
 - Firbolg Cleric from Verdain
 - 5th year Exploration student in Treskal
 - short straight strawberry blond hair that's plain, Brown eyes, and Pale Brown skin
 - Is Dreamy and Artificial, and has Home as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Cerridwen Durothil]]: partymate
 - [[Ungris Riluaneth]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

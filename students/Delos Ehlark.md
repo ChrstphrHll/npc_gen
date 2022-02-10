@@ -15,7 +15,7 @@ birthday:
   written: 21st of Corelent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Pinna Vanius
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Draconia
 - Ranger
 - Protection
+- Student
 - 7th
 - Fiesn
 ---
 # Delos Ehlark
----
 ### Description
 - Dragonborn Ranger from Draconia
 - 7th year Protection student in Fiesn
 - frills, Deep Blue eyes, and silver skin
 - Is Precise and Condemnatory, and has Family as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Pinna Vanius]]: partymate
 - [[Ryan Ebersol]]: partymate
 - [[Kaeli Khiiral]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

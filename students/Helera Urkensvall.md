@@ -16,7 +16,7 @@ birthday:
   written: 27th of Korent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Aelisabeth Soliania
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Barbarian
 - Exploration
+- Student
 - 3rd
 - Burk
 ---
 # Helera Urkensvall
----
 ### Description
 - Halfling Barbarian from Principality of the Palus Peoples
 - 3rd year Exploration student in Burk
 - shoulder length curly blonde hair that's plain, Green eyes, and Brown skin
 - Is Sociable and Cantankerous, and has Change as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Aelisabeth Soliania]]: partymate
 - [[Elia Veluthil]]: partymate
 - [[Rotheloe Samblar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

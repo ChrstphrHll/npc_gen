@@ -17,7 +17,7 @@ birthday:
   written: 26th of Iounent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Valia Esyae
   type: partymate
@@ -40,23 +40,23 @@ tags:
 - Magmus_Centerhold
 - Ranger
 - Diplomacy
+- Student
 - 4th
 - Alderden
 ---
 # Volkos Halaema
----
 ### Description
 - Tiefling Ranger from Magmus Centerhold
 - 4th year Diplomacy student in Alderden
 - shoulder length straight white hair that's wild, Aqua eyes, and Aqua skin
 - Is Capable and Mealymouthed, and has Security as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Valia Esyae]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

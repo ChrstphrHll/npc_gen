@@ -16,7 +16,7 @@ birthday:
   written: 16th of Avanent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Vyctor Willow
   type: partymate
@@ -45,16 +45,18 @@ tags:
 - Aldercrown_Empire
 - Rouge
 - Diplomacy
+- Student
 - 6th
 - Treskal
 ---
 # Dree Nuala
----
 ### Description
 - Gnome Rouge from Aldercrown Empire
 - 6th year Diplomacy student in Treskal
 - long wavy grey hair that's messy, Amber eyes, and Brown skin
 - Is Unreligious and Big-thinking, and has Stoicism as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -63,8 +65,6 @@ tags:
 - [[Karl Cauladra]]: partymate
 - [[Varlae Voron]]: partymate
 - [[Theriss Deularla]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -17,7 +17,7 @@ birthday:
   written: 22nd of Avanent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Braidyn Kemetra
   type: partymate
@@ -42,24 +42,24 @@ tags:
 - Aldercrown_Empire
 - Artificer
 - Protection
+- Student
 - 7th
 - Fiesn
 ---
 # Grassa Ashbluff
----
 ### Description
 - Dwarf Artificer from Aldercrown Empire
 - 7th year Protection student in Fiesn
 - long straight brunette hair that's well kept, Gray eyes, and Light skin
 - Is Thrilling and Arrogant, and has Professionalism as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Braidyn Kemetra]]: partymate
 - [[Brithmaur Decker]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

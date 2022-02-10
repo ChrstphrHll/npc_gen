@@ -15,7 +15,7 @@ birthday:
   written: 4th of Ravenent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Nebulon Faelyn
   type: partymate
@@ -38,23 +38,23 @@ tags:
 - Aldercrown_Empire
 - Paladin
 - Diplomacy
+- Student
 - 1st
 - Treskal
 ---
 # Iamus Aneirin
----
 ### Description
 - Dwarf Paladin from Aldercrown Empire
 - 1st year Diplomacy student in Treskal
 - long straight brunette hair that's plain, Pale Gray eyes, and Light skin
 - Is Dynamic and Obvious, and has Harmony as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Nebulon Faelyn]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

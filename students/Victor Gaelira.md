@@ -16,7 +16,7 @@ birthday:
   written: 14th of Korent
 origin: Floating Island
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Halya Jian
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Floating_Island
 - Barbarian
 - Diplomacy
+- Student
 - 1st
 - Fiesn
 ---
 # Victor Gaelira
----
 ### Description
 - Half-Elf Barbarian from Floating Island
 - 1st year Diplomacy student in Fiesn
 - short curly brunette hair that's wild, Pale Blue eyes, and Dark Tan skin
 - Is Ambitious and Evil, and has Family as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Halya Jian]]: partymate
 - [[Goetia Mistale]]: partymate
 - [[Handyr Letryal]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 19th of Corelent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Giacomo Edraele
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Artificer
 - Assault
+- Student
 - 2nd
 - Treskal
 ---
 # Matrell Halafarin
----
 ### Description
 - Aasimar Artificer from Principality of the Palus Peoples
 - 2nd year Assault student in Treskal
 - long curly red hair that's well kept, Pale Gray eyes, and Dark Brown skin
 - Is Mischievous and Repentant, and has Abundance as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Giacomo Edraele]]: partymate
 - [[Santaegus Etter]]: partymate
 - [[Yoshen Arcaena]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

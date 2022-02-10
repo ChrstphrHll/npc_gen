@@ -16,7 +16,7 @@ birthday:
   written: 9th of Corelent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Brannos Bellas
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Artificer
 - Diplomacy
+- Student
 - 6th
 - Fiesn
 ---
 # Ragnar Illitran
----
 ### Description
 - Halfling Artificer from Principality of the Palus Peoples
 - 6th year Diplomacy student in Fiesn
 - long straight black hair that's plain, Brown eyes, and Light skin
 - Is Logical and Well-meaning, and has Reciprocity as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Brannos Bellas]]: partymate
 - [[Tylor Llewellenar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

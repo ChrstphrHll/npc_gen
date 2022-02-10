@@ -60,7 +60,7 @@ class Person:
 
         #Set relevance
         if not self.set_if_preset("relevance", presets):
-            self.relvance = 0
+            self.relevance = 0
 
         #Initialize placeholders
         if not self.set_if_preset("relationships", presets):
@@ -108,7 +108,6 @@ class Person:
     def get_md(self):
         all_lines = []
         all_lines.append(f"# {self.name}")
-        all_lines.append("---")
         all_lines.extend(self.readable_description())
         all_lines.extend(self.readable_organizations())
         all_lines.extend(self.readable_relationships())

@@ -17,7 +17,7 @@ birthday:
   written: 15th of Korent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Lenn Schimae
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Cleric
 - Diplomacy
+- Student
 - 6th
 - Treskal
 ---
 # Savanna Ildilyntra
----
 ### Description
 - Halfling Cleric from Principality of the Palus Peoples
 - 6th year Diplomacy student in Treskal
 - long straight dark red hair that's plain, Gray eyes, and Dark Brown skin
 - Is Practical and Uncreative, and has Indulgence as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -61,8 +63,6 @@ tags:
 - [[Lenn Schimae]]: partymate
 - [[Robett Grell]]: partymate
 - [[Gifre Edyrm]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

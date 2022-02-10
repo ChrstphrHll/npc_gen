@@ -15,7 +15,7 @@ birthday:
   written: 30th of Avanent
 origin: Draconia
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Braddeus Jacaranda
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Draconia
 - Artificer
 - Protection
+- Student
 - 3rd
 - Fiesn
 ---
 # Maarika Oncith
----
 ### Description
 - Dragonborn Artificer from Draconia
 - 3rd year Protection student in Fiesn
 - frills, Deep Blue eyes, and red skin
 - Is Tractable and Naughty, and has Community as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Braddeus Jacaranda]]: partymate
 - [[Lilia Agrippa]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

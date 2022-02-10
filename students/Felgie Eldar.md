@@ -16,7 +16,7 @@ birthday:
   written: 12th of Moradent
 origin: Chillwild Peaks
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Selina Bellas
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Chillwild_Peaks
 - Druid
 - Protection
+- Student
 - 2nd
 - Fiesn
 ---
 # Felgie Eldar
----
 ### Description
 - Goliath Druid from Chillwild Peaks
 - 2nd year Protection student in Fiesn
 - shoulder length straight brunette hair that's wild, Hazel eyes, and Light Tan skin
 - Is Dreamer and Profligate, and has Spiritualism as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Selina Bellas]]: partymate
 - [[Mateos Elanil]]: partymate
 - [[Brianna Kosunten]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

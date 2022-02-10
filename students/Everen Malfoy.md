@@ -15,7 +15,7 @@ birthday:
   written: 1st of Moradent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Iaen Dannyd
   type: partymate
@@ -40,24 +40,24 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Fighter
 - Exploration
+- Student
 - 2nd
 - Fiesn
 ---
 # Everen Malfoy
----
 ### Description
 - Halfling Fighter from Principality of the Palus Peoples
 - 2nd year Exploration student in Fiesn
 - long frizzy dirty blonde hair that's messy, Hazel eyes, and Dark Brown skin
 - Is Scholarly and Subjective, and has Gratitude as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Iaen Dannyd]]: partymate
 - [[Taewen Llamryl]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 11th of Korent
 origin: Shadesburry Initiative
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Hanro Fieryat
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Shadesburry_Initiative
 - Wizard
 - Exploration
+- Student
 - 1st
 - Alderden
 ---
 # Rasy Merlara
----
 ### Description
 - Dwarf Wizard from Shadesburry Initiative
 - 1st year Exploration student in Alderden
 - shoulder length wavy blonde hair that's messy, Pale Brown eyes, and Dark Tan skin
 - Is Reflective and Ungrateful, and has Spiritualism as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Hanro Fieryat]]: partymate
 - [[Jamie Kesefehon]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

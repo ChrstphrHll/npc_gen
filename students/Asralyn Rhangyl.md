@@ -17,7 +17,7 @@ birthday:
   written: 16th of Melorent
 origin: Beleriand
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Eljana Jian
   type: partymate
@@ -40,23 +40,23 @@ tags:
 - Beleriand
 - Ranger
 - Assault
+- Student
 - 5th
 - Fiesn
 ---
 # Asralyn Rhangyl
----
 ### Description
 - Elf Ranger from Beleriand
 - 5th year Assault student in Fiesn
 - long wavy blonde hair that's plain, Pale Blue eyes, and Brown skin
 - Is Magnanimous and Quiet, and has Effectiveness as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Eljana Jian]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

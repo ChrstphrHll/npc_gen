@@ -15,7 +15,7 @@ birthday:
   written: 8th of Moradent
 origin: Magmus Centerhold
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Gabrilo Kulo
   type: partymate
@@ -44,16 +44,18 @@ tags:
 - Magmus_Centerhold
 - Rouge
 - Protection
+- Student
 - 2nd
 - Elkenval
 ---
 # Myddin Hastos
----
 ### Description
 - Half-Elf Rouge from Magmus Centerhold
 - 2nd year Protection student in Elkenval
 - long straight brunette hair that's put up, Brown eyes, and Dark Brown skin
 - Is Challenging and Disorganized, and has Patience as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -62,8 +64,6 @@ tags:
 - [[Mya Nelaeryn]]: partymate
 - [[Levio Evindal]]: partymate
 - [[Tylus Ytharra]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

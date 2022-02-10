@@ -16,7 +16,7 @@ birthday:
   written: 23rd of Avanent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Ezros Laerdya
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Aldercrown_Empire
 - Ranger
 - Exploration
+- Student
 - 1st
 - Fiesn
 ---
 # Shinare Bersa
----
 ### Description
 - Tiefling Ranger from Aldercrown Empire
 - 1st year Exploration student in Fiesn
 - long wavy auburn hair that's plain, Spring Green eyes, and Violet Red skin
 - Is Admirable and Invisible, and has Uncaring as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Ezros Laerdya]]: partymate
 - [[Rjanna Eroan]]: partymate
 - [[Valerya Haldreithen]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

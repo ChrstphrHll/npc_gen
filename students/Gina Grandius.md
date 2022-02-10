@@ -15,7 +15,7 @@ birthday:
   written: 5th of Avanent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Leya Escobar
   type: partymate
@@ -42,16 +42,18 @@ tags:
 - Aldercrown_Empire
 - Monk
 - Exploration
+- Student
 - 3rd
 - Alderden
 ---
 # Gina Grandius
----
 ### Description
 - Tiefling Monk from Aldercrown Empire
 - 3rd year Exploration student in Alderden
 - long straight brunette hair that's wild, Violet Red eyes, and Yellow skin
 - Is Absentminded and Libidinous, and has Endurance as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -59,8 +61,6 @@ tags:
 - [[Leya Escobar]]: partymate
 - [[Ramona Saida]]: partymate
 - [[Hanna Estelar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

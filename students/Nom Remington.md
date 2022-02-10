@@ -15,7 +15,7 @@ birthday:
   written: 26th of Melorent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Olivus Ondabrar
   type: partymate
@@ -38,23 +38,23 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Monk
 - Exploration
+- Student
 - 3rd
 - Fiesn
 ---
 # Nom Remington
----
 ### Description
 - Dragonborn Monk from Principality of the Palus Peoples
 - 3rd year Exploration student in Fiesn
 - long spines, Purple eyes, and copper skin
 - Is Unfathomable and Hesitant, and has Power as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Olivus Ondabrar]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

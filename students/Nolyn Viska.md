@@ -16,7 +16,7 @@ birthday:
   written: 10th of Moradent
 origin: Aldercrown Empire
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Ysaac Aelrue
   type: partymate
@@ -43,16 +43,18 @@ tags:
 - Aldercrown_Empire
 - Wizard
 - Exploration
+- Student
 - 1st
 - Treskal
 ---
 # Nolyn Viska
----
 ### Description
 - Elf Wizard from Aldercrown Empire
 - 1st year Exploration student in Treskal
 - long straight strawberry blond hair that's wild, Pale Gray eyes, and Brown skin
 - Is Jovial and Political, and has Security as their ideal
+
+### Notes
 
 ### Organizations
 
@@ -60,8 +62,6 @@ tags:
 - [[Ysaac Aelrue]]: partymate
 - [[Vaervenshalice Eloen]]: partymate
 - [[Dejana Keller]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

@@ -16,7 +16,7 @@ birthday:
   written: 22nd of Pelent
 origin: Whyndiem
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Josius Iliphar
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Whyndiem
 - Monk
 - Protection
+- Student
 - 7th
 - Fiesn
 ---
 # Surge Fayd
----
 ### Description
 - Triton Monk from Whyndiem
 - 7th year Protection student in Fiesn
 - long curly platinum hair that's plain, Orange eyes, and Aqua skin
 - Is Concerned and Busy, and has Cunning as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Josius Iliphar]]: partymate
 - [[Delsenora Strohm]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock

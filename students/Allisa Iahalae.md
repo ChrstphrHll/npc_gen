@@ -16,7 +16,7 @@ birthday:
   written: 24th of Pelent
 origin: Principality of the Palus Peoples
 voice: null
-relvance: 0
+relevance: 0
 relationships:
 - name: Aidyn Glynnii
   type: partymate
@@ -41,24 +41,24 @@ tags:
 - Principality_of_the_Palus_Peoples
 - Sorcerer
 - Protection
+- Student
 - 1st
 - Elkenval
 ---
 # Allisa Iahalae
----
 ### Description
 - Half-Elf Sorcerer from Principality of the Palus Peoples
 - 1st year Protection student in Elkenval
 - short straight auburn hair that's put up, Green eyes, and Tan skin
 - Is Considerate and Delicate, and has Patience as their ideal
 
+### Notes
+
 ### Organizations
 
 ### Relationships
 - [[Aidyn Glynnii]]: partymate
 - [[Jothen Elway]]: partymate
-
-### Notes
 
 ### Stats
 ```statblock
