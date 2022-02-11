@@ -14,8 +14,11 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 2/11
   written: 11th of Corelent
-origin: Beleriand
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Skalanis Kobayashi
@@ -40,7 +43,7 @@ guild: Jettenia
 partyID: 4
 tags:
 - Tiefling
-- Beleriand
+- Aldercrown_Empire
 - Artificer
 - Assault
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Pippi Langston
 ### Description
-- Tiefling Artificer from Beleriand
+- Tiefling Artificer from Aldercrown Empire
 - 6th year Assault student in Jettenia
 - shoulder length straight white hair that's well kept, Orange eyes, and Olive skin
 - Is Passionate and Unimaginative, and has Competition as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

@@ -16,7 +16,10 @@ birthday:
   numeric: 6/9
   written: 9th of Pelent
 origin: Beleriand
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Kunjal Iefyr
@@ -52,6 +55,7 @@ tags:
 - 4th year Diplomacy student in Fiesn
 - shoulder length straight dark red hair that's well kept, Pale Green eyes, and Dark Tan skin
 - Is Solemn and Critical, and has Affection as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

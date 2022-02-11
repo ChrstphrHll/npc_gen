@@ -15,7 +15,10 @@ birthday:
   numeric: 6/20
   written: 20th of Pelent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Hazel Winters
@@ -51,6 +54,7 @@ tags:
 - 4th year Exploration student in Burk
 - shoulder length straight auburn hair that's wild, Brown eyes, and Brown skin
 - Is Restrained and Immature, and has Affection as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

@@ -41,11 +41,10 @@ class Organization():
         ##Select supporting leadership
         non_first_years = filter(lambda x: x.year > 1, self.members)
         number_supporting_leadership = len(non_first_years) // 10
-        sup_leadership = random.choices(non_first_years, k = number_supporting_leadership)
-        for student in sup_leadership:
+        self.leadership = random.choices(non_first_years, k = number_supporting_leadership)
+        for student in self.leadership:
+            self.members.remove(student)
             student.add_organization(self.name, "Leadership")
-
-        ##TODO find out a way to do tags that dont get erased
 
     def codify_students(self):
         """Adds this organization to the student's list"""

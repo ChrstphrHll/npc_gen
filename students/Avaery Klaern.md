@@ -13,8 +13,11 @@ bond: I'm guilty of a terrible crime. I hope I can redeem myself for it.
 birthday:
   numeric: 7/29
   written: 29th of Korent
-origin: Aldercrown Empire
-voice: null
+origin: Kordinia
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Juppar Kershaw
@@ -37,7 +40,7 @@ guild: Jettenia
 partyID: 66
 tags:
 - Halfling
-- Aldercrown_Empire
+- Kordinia
 - Barbarian
 - Exploration
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Avaery Klaern
 ### Description
-- Halfling Barbarian from Aldercrown Empire
+- Halfling Barbarian from Kordinia
 - 1st year Exploration student in Jettenia
 - short straight white hair that's plain, Amber eyes, and Fair skin
 - Is Silent and Unimaginative, and has Cooperation as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

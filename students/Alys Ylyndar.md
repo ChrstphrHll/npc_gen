@@ -16,7 +16,10 @@ birthday:
   numeric: 2/11
   written: 11th of Corelent
 origin: Qualnis
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Brynn Opalul
@@ -50,6 +53,7 @@ tags:
 - 3rd year Diplomacy student in Burk
 - shoulder length straight red hair that's braided, Blue eyes, and Fair skin
 - Is Contented and Licentious, and has Contributing as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

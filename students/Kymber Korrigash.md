@@ -14,8 +14,11 @@ bond: I owe a debt I can never repay to the person who took pity on me.
 birthday:
   numeric: 4/7
   written: 7th of Moradent
-origin: Aldercrown Empire
-voice: null
+origin: Beleriand
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Gormoth Shyrrik
@@ -38,7 +41,7 @@ guild: Jettenia
 partyID: 33
 tags:
 - Elf
-- Aldercrown_Empire
+- Beleriand
 - Paladin
 - Assault
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Kymber Korrigash
 ### Description
-- Elf Paladin from Aldercrown Empire
+- Elf Paladin from Beleriand
 - 2nd year Assault student in Jettenia
 - shoulder length straight blonde hair that's well kept, Amber eyes, and Dark Brown skin
 - Is Just and Physical, and has Abundance as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

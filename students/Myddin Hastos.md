@@ -13,8 +13,11 @@ bond: Should my discovery come to light, it could bring ruin to the world.
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Magmus Centerhold
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Gabrilo Kulo
@@ -41,7 +44,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Half-Elf
-- Magmus_Centerhold
+- Shadesburry_Initiative
 - Rouge
 - Protection
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Myddin Hastos
 ### Description
-- Half-Elf Rouge from Magmus Centerhold
+- Half-Elf Rouge from Shadesburry Initiative
 - 2nd year Protection student in Elkenval
 - long straight brunette hair that's put up, Brown eyes, and Dark Brown skin
 - Is Challenging and Disorganized, and has Patience as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

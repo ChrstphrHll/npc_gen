@@ -16,7 +16,10 @@ birthday:
   numeric: 5/26
   written: 26th of Iounent
 origin: Magmus Centerhold
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Valia Esyae
@@ -50,6 +53,7 @@ tags:
 - 4th year Diplomacy student in Alderden
 - shoulder length straight white hair that's wild, Aqua eyes, and Aqua skin
 - Is Capable and Mealymouthed, and has Security as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

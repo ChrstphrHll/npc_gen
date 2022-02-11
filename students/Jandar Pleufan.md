@@ -14,8 +14,11 @@ bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 8/3
   written: 3rd of Ravenent
-origin: Beleriand
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Kimbera Alerathla
@@ -42,7 +45,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Gnome
-- Beleriand
+- Shadesburry_Initiative
 - Ranger
 - Protection
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Jandar Pleufan
 ### Description
-- Gnome Ranger from Beleriand
+- Gnome Ranger from Shadesburry Initiative
 - 1st year Protection student in Elkenval
 - shoulder length wavy platinum hair that's plain, Green eyes, and Brown skin
 - Is Forgiving and Domineering, and has Family as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

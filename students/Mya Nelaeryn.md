@@ -13,8 +13,11 @@ bond: I owe my life to the priest who took me in when my parents died.
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
-origin: Qualnis
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Gabrilo Kulo
@@ -41,7 +44,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Human
-- Qualnis
+- Aldercrown_Empire
 - Barbarian
 - Protection
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Mya Nelaeryn
 ### Description
-- Human Barbarian from Qualnis
+- Human Barbarian from Aldercrown Empire
 - 2nd year Protection student in Elkenval
 - long straight dark red hair that's wild, Pale Brown eyes, and Fair skin
 - Is Folksy and Evil, and has Creativity as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

@@ -15,8 +15,11 @@ bond: I have a family, but I have no idea where they are. One day, I hope to see
 birthday:
   numeric: 1/17
   written: 17th of Avanent
-origin: Aldercrown Empire
-voice: null
+origin: Magmus Centerhold
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Noam Shields
@@ -41,7 +44,7 @@ guild: Burk
 partyID: 59
 tags:
 - Human
-- Aldercrown_Empire
+- Magmus_Centerhold
 - Druid
 - Diplomacy
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Gunnar Ordayius
 ### Description
-- Human Druid from Aldercrown Empire
+- Human Druid from Magmus Centerhold
 - 4th year Diplomacy student in Burk
 - shoulder length straight auburn hair that's plain, Amber eyes, and Light skin
 - Is Shrewd and Mean, and has Enjoyment as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

@@ -14,7 +14,10 @@ birthday:
   numeric: 5/13
   written: 13th of Iounent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Verssek Nese
@@ -48,6 +51,7 @@ tags:
 - 3rd year Exploration student in Treskal
 - short wavy platinum hair that's plain, Green eyes, and Pale skin
 - Is Tough and Meretricious, and has Live and Let Live as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

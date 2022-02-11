@@ -15,7 +15,10 @@ birthday:
   numeric: 3/26
   written: 26th of Melorent
 origin: Magmus Centerhold
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Cartyr Tamsin
@@ -53,6 +56,7 @@ tags:
 - 3rd year Assault student in Jettenia
 - short wavy red hair that's plain, Blue eyes, and Pale Gray skin
 - Is Obliging and Abrasive, and has Contributing as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

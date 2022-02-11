@@ -15,8 +15,11 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 7/33
   written: 33rd of Korent
-origin: Qualnis
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Wren Urmicca
@@ -37,7 +40,7 @@ guild: Elkenval
 partyID: 14
 tags:
 - Human
-- Qualnis
+- Beleriand
 - Barbarian
 - Protection
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Harperia Winchell
 ### Description
-- Human Barbarian from Qualnis
+- Human Barbarian from Beleriand
 - 1st year Protection student in Elkenval
 - long wavy black hair that's plain, Green eyes, and Fair skin
 - Is Unfathomable and Dishonest, and has Involvement as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

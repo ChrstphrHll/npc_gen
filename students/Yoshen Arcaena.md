@@ -15,7 +15,10 @@ birthday:
   numeric: 6/2
   written: 2nd of Pelent
 origin: Draconia
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Giacomo Edraele
@@ -53,6 +56,7 @@ tags:
 - 2nd year Exploration student in Treskal
 - frills, Yellow eyes, and black skin
 - Is Well-bred and Superstitious, and has Malice as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

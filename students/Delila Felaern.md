@@ -14,7 +14,10 @@ birthday:
   numeric: 4/8
   written: 8th of Moradent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Dylan Usunaar
@@ -52,6 +55,7 @@ tags:
 - 5th year Diplomacy student in Elkenval
 - short curly blonde hair that's messy, Gray eyes, and Pale skin
 - Is Ordinary and Insulting, and has Success as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

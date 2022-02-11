@@ -14,8 +14,11 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 7/26
   written: 26th of Korent
-origin: Verdain
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Hessos Adorellan
@@ -38,7 +41,7 @@ guild: Alderden
 partyID: 43
 tags:
 - Firbolg
-- Verdain
+- Shadesburry_Initiative
 - Rouge
 - Exploration
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Kendel Shael
 ### Description
-- Firbolg Rouge from Verdain
+- Firbolg Rouge from Shadesburry Initiative
 - 1st year Exploration student in Alderden
 - short curly dirty blonde hair that's plain, Gray eyes, and Pale Blue skin
 - Is Concerned and Muddle-headed, and has Finesse as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

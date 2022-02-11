@@ -13,8 +13,11 @@ bond: I would die to recover an ancient relic of my faith that was lost long ago
 birthday:
   numeric: 6/21
   written: 21st of Pelent
-origin: Aldercrown Empire
-voice: null
+origin: Floating Island
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Hudsen Elandorr
@@ -39,7 +42,7 @@ guild: Treskal
 partyID: 45
 tags:
 - Dwarf
-- Aldercrown_Empire
+- Floating_Island
 - Druid
 - Diplomacy
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Gabrila Retra
 ### Description
-- Dwarf Druid from Aldercrown Empire
+- Dwarf Druid from Floating Island
 - 3rd year Diplomacy student in Treskal
 - short straight lighter blonde hair that's plain, Amber eyes, and Fair skin
 - Is Intrepid and Reactive, and has Contributing as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

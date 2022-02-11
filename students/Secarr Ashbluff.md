@@ -15,7 +15,10 @@ birthday:
   numeric: 4/14
   written: 14th of Moradent
 origin: Draconia
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Thenol Shialaevar
@@ -49,6 +52,7 @@ tags:
 - 6th year Exploration student in Burk
 - long spines, Emerald Green eyes, and blue skin
 - Is Relaxed and Liar, and has Compassion as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

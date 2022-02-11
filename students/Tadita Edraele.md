@@ -16,8 +16,11 @@ bond: I will bring terrible wrath down on the evildoers who destroyed my homelan
 birthday:
   numeric: 3/1
   written: 1st of Melorent
-origin: Aldercrown Empire
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Estyn Rhangyl
@@ -42,7 +45,7 @@ guild: Treskal
 partyID: 7
 tags:
 - Gnome
-- Aldercrown_Empire
+- Shadesburry_Initiative
 - Paladin
 - Assault
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Tadita Edraele
 ### Description
-- Gnome Paladin from Aldercrown Empire
+- Gnome Paladin from Shadesburry Initiative
 - 4th year Assault student in Treskal
 - short straight lighter blonde hair that's plain, Green eyes, and Light skin
 - Is Thoughtful and Invisible, and has Flexibility as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

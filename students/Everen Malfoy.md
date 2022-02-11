@@ -13,8 +13,11 @@ bond: I owe my life to the priest who took me in when my parents died.
 birthday:
   numeric: 4/1
   written: 1st of Moradent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Iaen Dannyd
@@ -37,7 +40,7 @@ guild: Fiesn
 partyID: 61
 tags:
 - Halfling
-- Principality_of_the_Palus_Peoples
+- Aldercrown_Empire
 - Fighter
 - Exploration
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Everen Malfoy
 ### Description
-- Halfling Fighter from Principality of the Palus Peoples
+- Halfling Fighter from Aldercrown Empire
 - 2nd year Exploration student in Fiesn
 - long frizzy dirty blonde hair that's messy, Hazel eyes, and Dark Brown skin
 - Is Scholarly and Subjective, and has Gratitude as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

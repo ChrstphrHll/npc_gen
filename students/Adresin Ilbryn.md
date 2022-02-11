@@ -14,8 +14,11 @@ bond: Something important was taken from me, and I aim to steal it back.
 birthday:
   numeric: 4/22
   written: 22nd of Moradent
-origin: Magmus Centerhold
-voice: null
+origin: Principality of the Palus Peoples
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Diegon Verrona
@@ -40,7 +43,7 @@ guild: Elkenval
 partyID: 90
 tags:
 - Genasi
-- Magmus_Centerhold
+- Principality_of_the_Palus_Peoples
 - Paladin
 - Exploration
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Adresin Ilbryn
 ### Description
-- Genasi Paladin from Magmus Centerhold
+- Genasi Paladin from Principality of the Palus Peoples
 - 1st year Exploration student in Elkenval
 - short curly auburn hair that's put up, Gray eyes, and air skin
 - Is Bashful and Insulting, and has Greed as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

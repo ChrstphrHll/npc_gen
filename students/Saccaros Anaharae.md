@@ -14,7 +14,10 @@ birthday:
   numeric: 5/13
   written: 13th of Iounent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Kazoan Windward
@@ -48,6 +51,7 @@ tags:
 - 2nd year Diplomacy student in Treskal
 - shoulder length straight auburn hair that's wild, Purple eyes, and Aqua skin
 - Is Confident and Naïve, and has Hard Work as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

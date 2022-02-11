@@ -14,7 +14,10 @@ birthday:
   numeric: 6/23
   written: 23rd of Pelent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Alinea Hellsturn
@@ -50,6 +53,7 @@ tags:
 - 5th year Exploration student in Alderden
 - shoulder length straight lighter blonde hair that's put up, Hazel eyes, and Dark Brown skin
 - Is Undemanding and Tough, and has Commonality as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

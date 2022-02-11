@@ -13,8 +13,11 @@ bond: Something important was taken from me, and I aim to steal it back.
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-origin: Magmus Centerhold
-voice: null
+origin: Beleriand
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Santyeg Kuskyn
@@ -37,7 +40,7 @@ guild: Fiesn
 partyID: 81
 tags:
 - Elf
-- Magmus_Centerhold
+- Beleriand
 - Druid
 - Diplomacy
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Ahtye Elhieardacil
 ### Description
-- Elf Druid from Magmus Centerhold
+- Elf Druid from Beleriand
 - 1st year Diplomacy student in Fiesn
 - short curly dirty blonde hair that's put up, Amber eyes, and Light Tan skin
 - Is Sentimental and Immature, and has Balance as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

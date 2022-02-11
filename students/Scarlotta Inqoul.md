@@ -14,8 +14,11 @@ bond: No one else should have to endure the hardships I've been through.
 birthday:
   numeric: 2/26
   written: 26th of Corelent
-origin: Shadesburry Initiative
-voice: null
+origin: Floating Island
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Senna Tryton
@@ -36,7 +39,7 @@ guild: Burk
 partyID: 49
 tags:
 - Dwarf
-- Shadesburry_Initiative
+- Floating_Island
 - Paladin
 - Diplomacy
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Scarlotta Inqoul
 ### Description
-- Dwarf Paladin from Shadesburry Initiative
+- Dwarf Paladin from Floating Island
 - 4th year Diplomacy student in Burk
 - long wavy white hair that's plain, Pale Brown eyes, and Brown skin
 - Is Iconoclastic and Puritanical, and has Innovation as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

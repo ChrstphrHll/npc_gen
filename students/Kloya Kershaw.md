@@ -14,7 +14,10 @@ birthday:
   numeric: 7/27
   written: 27th of Korent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Gavyn Sadalymn
@@ -50,6 +53,7 @@ tags:
 - 5th year Protection student in Jettenia
 - long curly blonde hair that's messy, Amber eyes, and Pale skin
 - Is Heroic and Unconvincing, and has Involvement as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

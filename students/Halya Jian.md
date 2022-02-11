@@ -14,8 +14,11 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
-origin: Verdain
-voice: null
+origin: Magmus Centerhold
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Victor Gaelira
@@ -40,7 +43,7 @@ guild: Fiesn
 partyID: 96
 tags:
 - Genasi
-- Verdain
+- Magmus_Centerhold
 - Druid
 - Protection
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Halya Jian
 ### Description
-- Genasi Druid from Verdain
+- Genasi Druid from Magmus Centerhold
 - 1st year Protection student in Fiesn
 - shoulder length curly black hair that's well kept, Blue eyes, and fire skin
 - Is Farsighted and Imprudent, and has Home as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

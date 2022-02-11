@@ -14,8 +14,11 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 5/18
   written: 18th of Iounent
-origin: Magmus Centerhold
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Liris Bhyrindaar
@@ -38,7 +41,7 @@ guild: Fiesn
 partyID: 54
 tags:
 - Tiefling
-- Magmus_Centerhold
+- Aldercrown_Empire
 - Bard
 - Assault
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Caeleb Embrae
 ### Description
-- Tiefling Bard from Magmus Centerhold
+- Tiefling Bard from Aldercrown Empire
 - 2nd year Assault student in Fiesn
 - short straight dark red hair that's well kept, Aqua eyes, and Deep Blue skin
 - Is Skillful and Libidinous, and has Invention as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

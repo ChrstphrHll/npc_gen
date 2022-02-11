@@ -13,8 +13,11 @@ bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 6/27
   written: 27th of Pelent
-origin: Whyndiem
-voice: null
+origin: Beleriand
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Lynx Galather
@@ -37,7 +40,7 @@ guild: Burk
 partyID: 72
 tags:
 - Elf
-- Whyndiem
+- Beleriand
 - Cleric
 - Diplomacy
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Aenglo Dyffros
 ### Description
-- Elf Cleric from Whyndiem
+- Elf Cleric from Beleriand
 - 1st year Diplomacy student in Burk
 - short curly dirty blonde hair that's braided, Pale Brown eyes, and Light Tan skin
 - Is Deferential and Dissonant, and has Happiness as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

@@ -14,8 +14,11 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
-origin: Magmus Centerhold
-voice: null
+origin: Floating Island
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Nom Remington
@@ -36,7 +39,7 @@ guild: Fiesn
 partyID: 85
 tags:
 - Halfling
-- Magmus_Centerhold
+- Floating_Island
 - Wizard
 - Assault
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Olivus Ondabrar
 ### Description
-- Halfling Wizard from Magmus Centerhold
+- Halfling Wizard from Floating Island
 - 3rd year Assault student in Fiesn
 - long wavy grey hair that's messy, Hazel eyes, and Tan skin
 - Is Prudent and Dirty, and has Wisdom as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

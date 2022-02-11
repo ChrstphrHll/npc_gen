@@ -13,8 +13,11 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 7/29
   written: 29th of Korent
-origin: Aldercrown Empire
-voice: null
+origin: Beleriand
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Jess Beebe
@@ -37,7 +40,7 @@ guild: Fiesn
 partyID: 98
 tags:
 - Elf
-- Aldercrown_Empire
+- Beleriand
 - Monk
 - Protection
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Tyego Sinaht
 ### Description
-- Elf Monk from Aldercrown Empire
+- Elf Monk from Beleriand
 - 3rd year Protection student in Fiesn
 - short straight lighter blonde hair that's messy, Pale Blue eyes, and Light skin
 - Is Friendly and Experimental, and has Power as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

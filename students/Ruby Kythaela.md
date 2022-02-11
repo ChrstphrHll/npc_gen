@@ -15,7 +15,10 @@ birthday:
   numeric: 7/32
   written: 32nd of Korent
 origin: Whyndiem
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Eadyth Lora
@@ -51,6 +54,7 @@ tags:
 - 2nd year Protection student in Jettenia
 - long wavy black hair that's plain, Amber eyes, and Spring Green skin
 - Is Paternalistic and Pleasing, and has Love as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

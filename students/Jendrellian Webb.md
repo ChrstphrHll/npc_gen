@@ -13,8 +13,11 @@ bond: I'm loyal to my captain first, everything else second.
 birthday:
   numeric: 2/22
   written: 22nd of Corelent
-origin: Aldercrown Empire
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Nathan Laeroth
@@ -37,7 +40,7 @@ guild: Elkenval
 partyID: 64
 tags:
 - Dwarf
-- Aldercrown_Empire
+- Shadesburry_Initiative
 - Barbarian
 - Assault
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Jendrellian Webb
 ### Description
-- Dwarf Barbarian from Aldercrown Empire
+- Dwarf Barbarian from Shadesburry Initiative
 - 1st year Assault student in Elkenval
 - short curly platinum hair that's wild, Gray eyes, and Brown skin
 - Is Plain and Competitive, and has Goodness as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

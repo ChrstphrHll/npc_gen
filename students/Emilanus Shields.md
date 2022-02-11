@@ -16,8 +16,11 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 5/3
   written: 3rd of Iounent
-origin: Qualnis
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Jandar Pleufan
@@ -44,7 +47,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Warforged
-- Qualnis
+- Shadesburry_Initiative
 - Paladin
 - Exploration
 - Student
@@ -53,10 +56,11 @@ tags:
 ---
 # Emilanus Shields
 ### Description
-- Warforged Paladin from Qualnis
+- Warforged Paladin from Shadesburry Initiative
 - 1st year Exploration student in Elkenval
 - smooth silver guilded with amethyst, Spring Green eyes, and bronze skin
 - Is Idealistic and Dirty, and has Speed as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

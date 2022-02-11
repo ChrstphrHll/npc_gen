@@ -13,8 +13,11 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 1/13
   written: 13th of Avanent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Floating Island
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Tylor Llewellenar
@@ -37,7 +40,7 @@ guild: Fiesn
 partyID: 42
 tags:
 - Human
-- Principality_of_the_Palus_Peoples
+- Floating_Island
 - Barbarian
 - Protection
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Brannos Bellas
 ### Description
-- Human Barbarian from Principality of the Palus Peoples
+- Human Barbarian from Floating Island
 - 6th year Protection student in Fiesn
 - long wavy dark red hair that's put up, Amber eyes, and Dark Brown skin
 - Is Progressive and Opportunistic, and has Balance as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

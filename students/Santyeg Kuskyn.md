@@ -15,8 +15,11 @@ bond: My isolation gave me great insight into a great evil that only I can destr
 birthday:
   numeric: 2/4
   written: 4th of Corelent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Beleriand
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Malchor Tenyajn
@@ -39,7 +42,7 @@ guild: Fiesn
 partyID: 81
 tags:
 - Elf
-- Principality_of_the_Palus_Peoples
+- Beleriand
 - Rouge
 - Assault
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Santyeg Kuskyn
 ### Description
-- Elf Rouge from Principality of the Palus Peoples
+- Elf Rouge from Beleriand
 - 1st year Assault student in Fiesn
 - shoulder length frizzy white hair that's well kept, Hazel eyes, and Brown skin
 - Is Self-critical and Cute, and has Humane as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

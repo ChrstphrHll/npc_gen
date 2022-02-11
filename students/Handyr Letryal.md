@@ -14,7 +14,10 @@ birthday:
   numeric: 3/6
   written: 6th of Melorent
 origin: Draconia
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Halya Jian
@@ -52,6 +55,7 @@ tags:
 - 1st year Diplomacy student in Fiesn
 - frills, Pale Brown eyes, and red skin
 - Is Well-rounded and Smooth, and has Order as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

@@ -15,8 +15,11 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 2/18
   written: 18th of Corelent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Gerrimar Vulkor
@@ -39,7 +42,7 @@ guild: Treskal
 partyID: 63
 tags:
 - Half-Elf
-- Principality_of_the_Palus_Peoples
+- Shadesburry_Initiative
 - Ranger
 - Exploration
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Cerridwen Durothil
 ### Description
-- Half-Elf Ranger from Principality of the Palus Peoples
+- Half-Elf Ranger from Shadesburry Initiative
 - 5th year Exploration student in Treskal
 - shoulder length curly violet hair that's plain, Pale Gray eyes, and Light skin
 - Is Gritty and Outspoken, and has Competition as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

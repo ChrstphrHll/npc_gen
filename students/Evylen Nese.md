@@ -14,7 +14,10 @@ birthday:
   numeric: 7/14
   written: 14th of Korent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Kova Tamara
@@ -54,6 +57,7 @@ tags:
 - 1st year Protection student in Treskal
 - short straight brunette hair that's plain, Hazel eyes, and Dark Brown skin
 - Is Effeminate and Dominating, and has Perseverance as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

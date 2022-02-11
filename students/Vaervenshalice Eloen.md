@@ -15,8 +15,11 @@ bond: My tools are symbols of my past life, and I carry them so that I will neve
 birthday:
   numeric: 5/3
   written: 3rd of Iounent
-origin: Aldercrown Empire
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Ysaac Aelrue
@@ -41,7 +44,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Elf
-- Aldercrown_Empire
+- Beleriand
 - Ranger
 - Exploration
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Vaervenshalice Eloen
 ### Description
-- Elf Ranger from Aldercrown Empire
+- Elf Ranger from Beleriand
 - 1st year Exploration student in Treskal
 - shoulder length curly green hair that's messy, Green eyes, and Dark Brown skin
 - Is Stubborn and Envious, and has Power as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

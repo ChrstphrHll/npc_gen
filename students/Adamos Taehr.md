@@ -14,7 +14,10 @@ birthday:
   numeric: 4/7
   written: 7th of Moradent
 origin: Beleriand
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Alexandyr Aulauthar
@@ -50,6 +53,7 @@ tags:
 - 5th year Diplomacy student in Fiesn
 - shoulder length wavy grey hair that's wild, Blue eyes, and Tan skin
 - Is Attentive and Sensual, and has People as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

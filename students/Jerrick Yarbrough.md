@@ -16,7 +16,10 @@ birthday:
   numeric: 5/13
   written: 13th of Iounent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Skalanis Kobayashi
@@ -54,6 +57,7 @@ tags:
 - 6th year Assault student in Jettenia
 - shoulder length wavy blonde hair that's plain, Brown eyes, and Tan skin
 - Is Admirable and Cantankerous, and has Logic as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

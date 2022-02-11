@@ -15,7 +15,10 @@ birthday:
   numeric: 8/2
   written: 2nd of Ravenent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Leah Faelar
@@ -53,6 +56,7 @@ tags:
 - 1st year Diplomacy student in Treskal
 - long wavy brunette hair that's put up, Gray eyes, and Light Tan skin
 - Is Sophisticated and Vague, and has Charity as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

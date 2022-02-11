@@ -15,7 +15,10 @@ birthday:
   numeric: 3/3
   written: 3rd of Melorent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Scarlotta Inqoul
@@ -49,6 +52,7 @@ tags:
 - 4th year Exploration student in Burk
 - shoulder length wavy white hair that's messy, Pale Blue eyes, and Light Tan skin
 - Is Pleasant and Breezy, and has Religion as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

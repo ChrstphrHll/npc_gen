@@ -14,8 +14,11 @@ bond: I sponsor an orphanage to keep others from enduring what I was forced to e
 birthday:
   numeric: 8/13
   written: 13th of Ravenent
-origin: Beleriand
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Marl Ahrendaaria
@@ -36,7 +39,7 @@ guild: Jettenia
 partyID: 12
 tags:
 - Tiefling
-- Beleriand
+- Aldercrown_Empire
 - Wizard
 - Protection
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Puorlaas Anklos
 ### Description
-- Tiefling Wizard from Beleriand
+- Tiefling Wizard from Aldercrown Empire
 - 2nd year Protection student in Jettenia
 - long curly brunette hair that's plain, Red eyes, and Sea Green skin
 - Is Popular and Reactive, and has Freedom as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

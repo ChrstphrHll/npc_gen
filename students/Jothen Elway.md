@@ -14,7 +14,10 @@ birthday:
   numeric: 6/24
   written: 24th of Pelent
 origin: Qualnis
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Aidyn Glynnii
@@ -50,6 +53,7 @@ tags:
 - 1st year Exploration student in Elkenval
 - shoulder length curly brunette hair that's put up, Pale Green eyes, and Tan skin
 - Is Freewheeling and Dreamy, and has Cruelty as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

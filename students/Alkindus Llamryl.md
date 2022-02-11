@@ -15,7 +15,10 @@ birthday:
   numeric: 4/19
   written: 19th of Moradent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Audree Dixon
@@ -53,6 +56,7 @@ tags:
 - 1st year Assault student in Alderden
 - shoulder length wavy red hair that's braided, Hazel eyes, and Light skin
 - Is Rustic and Pessimistic, and has Order as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

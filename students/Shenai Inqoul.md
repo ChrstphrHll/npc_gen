@@ -15,8 +15,11 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 7/16
   written: 16th of Korent
-origin: Magmus Centerhold
-voice: null
+origin: Verdain
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Edyrm Iolas
@@ -39,7 +42,7 @@ guild: Burk
 partyID: 57
 tags:
 - Tiefling
-- Magmus_Centerhold
+- Verdain
 - Monk
 - Assault
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Shenai Inqoul
 ### Description
-- Tiefling Monk from Magmus Centerhold
+- Tiefling Monk from Verdain
 - 2nd year Assault student in Burk
 - short frizzy dark red hair that's plain, Deep Blue eyes, and Olive skin
 - Is Intrepid and Immature, and has Pessimism as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

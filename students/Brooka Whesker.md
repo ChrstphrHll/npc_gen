@@ -14,7 +14,10 @@ birthday:
   numeric: 6/25
   written: 25th of Pelent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Hudsen Elandorr
@@ -52,6 +55,7 @@ tags:
 - 3rd year Diplomacy student in Treskal
 - long curly brunette hair that's wild, Pale Brown eyes, and Pale skin
 - Is Private and Predictable, and has Impartiality as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

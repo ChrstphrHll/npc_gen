@@ -14,8 +14,11 @@ bond: My house's alliance with another noble family must be sustained at all cos
 birthday:
   numeric: 4/10
   written: 10th of Moradent
-origin: Aldercrown Empire
-voice: null
+origin: Beleriand
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Ysaac Aelrue
@@ -40,7 +43,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Elf
-- Aldercrown_Empire
+- Beleriand
 - Wizard
 - Exploration
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Nolyn Viska
 ### Description
-- Elf Wizard from Aldercrown Empire
+- Elf Wizard from Beleriand
 - 1st year Exploration student in Treskal
 - long straight strawberry blond hair that's wild, Pale Gray eyes, and Brown skin
 - Is Jovial and Political, and has Security as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

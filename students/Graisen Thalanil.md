@@ -13,8 +13,11 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 5/27
   written: 27th of Iounent
-origin: Shadesburry Initiative
-voice: null
+origin: Chillwild Peaks
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Willam Ardryll
@@ -39,7 +42,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Half-Orc
-- Shadesburry_Initiative
+- Chillwild_Peaks
 - Cleric
 - Assault
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Graisen Thalanil
 ### Description
-- Half-Orc Cleric from Shadesburry Initiative
+- Half-Orc Cleric from Chillwild Peaks
 - 2nd year Assault student in Treskal
 - long straight dark red hair that's plain, Pale Green eyes, and Deep Green skin
 - Is Intense and Envious, and has Encouragement as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

@@ -13,8 +13,11 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 1/11
   written: 11th of Avanent
-origin: Aldercrown Empire
-voice: null
+origin: Draconia
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Everen Malfoy
@@ -37,7 +40,7 @@ guild: Fiesn
 partyID: 61
 tags:
 - Dragonborn
-- Aldercrown_Empire
+- Draconia
 - Rouge
 - Protection
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Iaen Dannyd
 ### Description
-- Dragonborn Rouge from Aldercrown Empire
+- Dragonborn Rouge from Draconia
 - 2nd year Protection student in Fiesn
 - short spines, Deep Blue eyes, and copper skin
 - Is Trusting and Determined, and has Wellness as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

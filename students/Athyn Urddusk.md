@@ -14,7 +14,10 @@ birthday:
   numeric: 8/20
   written: 20th of Ravenent
 origin: Beleriand
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Theodus Chylnoth
@@ -50,6 +53,7 @@ tags:
 - 1st year Assault student in Elkenval
 - long frizzy grey hair that's plain, Brown eyes, and Light skin
 - Is Purposeful and Ill-bred, and has Wisdom as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

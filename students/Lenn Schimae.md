@@ -14,7 +14,10 @@ birthday:
   numeric: 7/1
   written: 1st of Korent
 origin: Qualnis
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Robett Grell
@@ -52,6 +55,7 @@ tags:
 - 6th year Assault student in Treskal
 - short wavy auburn hair that's plain, Hazel eyes, and Dark Tan skin
 - Is Inventive and Ignorant, and has Creativity as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

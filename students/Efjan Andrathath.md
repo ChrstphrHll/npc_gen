@@ -14,8 +14,11 @@ bond: I work to preserve a library, university, scriptorium, or monastery.
 birthday:
   numeric: 4/7
   written: 7th of Moradent
-origin: Shadesburry Initiative
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Taanyth Seeker
@@ -38,7 +41,7 @@ guild: Burk
 partyID: 31
 tags:
 - Gnome
-- Shadesburry_Initiative
+- Aldercrown_Empire
 - Druid
 - Protection
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Efjan Andrathath
 ### Description
-- Gnome Druid from Shadesburry Initiative
+- Gnome Druid from Aldercrown Empire
 - 1st year Protection student in Burk
 - long curly dark red hair that's well kept, Amber eyes, and Light skin
 - Is Invisible and Brutal, and has Flexibility as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

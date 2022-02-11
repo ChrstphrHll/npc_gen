@@ -15,8 +15,11 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 7/15
   written: 15th of Korent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Lenn Schimae
@@ -41,7 +44,7 @@ guild: Treskal
 partyID: 46
 tags:
 - Halfling
-- Principality_of_the_Palus_Peoples
+- Aldercrown_Empire
 - Cleric
 - Diplomacy
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Savanna Ildilyntra
 ### Description
-- Halfling Cleric from Principality of the Palus Peoples
+- Halfling Cleric from Aldercrown Empire
 - 6th year Diplomacy student in Treskal
 - long straight dark red hair that's plain, Gray eyes, and Dark Brown skin
 - Is Practical and Uncreative, and has Indulgence as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

@@ -15,7 +15,10 @@ birthday:
   numeric: 4/8
   written: 8th of Moradent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Diegon Verrona
@@ -53,6 +56,7 @@ tags:
 - 1st year Diplomacy student in Elkenval
 - shoulder length wavy auburn hair that's plain, Pale Green eyes, and Tan skin
 - Is Uninhibited and Difficult, and has Patience as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

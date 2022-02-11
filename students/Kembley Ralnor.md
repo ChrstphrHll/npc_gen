@@ -14,8 +14,11 @@ bond: I owe a debt I can never repay to the person who took pity on me.
 birthday:
   numeric: 4/15
   written: 15th of Moradent
-origin: Magmus Centerhold
-voice: null
+origin: Beleriand
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Celaeno Amkissra
@@ -38,7 +41,7 @@ guild: Jettenia
 partyID: 80
 tags:
 - Half-Orc
-- Magmus_Centerhold
+- Beleriand
 - Sorcerer
 - Protection
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Kembley Ralnor
 ### Description
-- Half-Orc Sorcerer from Magmus Centerhold
+- Half-Orc Sorcerer from Beleriand
 - 8th year Protection student in Jettenia
 - short curly strawberry blond hair that's plain, Blue eyes, and Pale Gray skin
 - Is Unaggressive and Unimaginative, and has Entrepreneurial as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

@@ -14,8 +14,11 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 2/9
   written: 9th of Corelent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Brannos Bellas
@@ -38,7 +41,7 @@ guild: Fiesn
 partyID: 42
 tags:
 - Halfling
-- Principality_of_the_Palus_Peoples
+- Beleriand
 - Artificer
 - Diplomacy
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Ragnar Illitran
 ### Description
-- Halfling Artificer from Principality of the Palus Peoples
+- Halfling Artificer from Beleriand
 - 6th year Diplomacy student in Fiesn
 - long straight black hair that's plain, Brown eyes, and Light skin
 - Is Logical and Well-meaning, and has Reciprocity as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

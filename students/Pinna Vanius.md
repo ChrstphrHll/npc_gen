@@ -14,8 +14,11 @@ bond: I have an ancient text that holds terrible secrets that must not fall into
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Aldercrown Empire
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Delos Ehlark
@@ -40,7 +43,7 @@ guild: Fiesn
 partyID: 89
 tags:
 - Elf
-- Aldercrown_Empire
+- Beleriand
 - Bard
 - Assault
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Pinna Vanius
 ### Description
-- Elf Bard from Aldercrown Empire
+- Elf Bard from Beleriand
 - 7th year Assault student in Fiesn
 - long wavy lighter blonde hair that's wild, Amber eyes, and Fair skin
 - Is Original and Impractical, and has Redemption as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

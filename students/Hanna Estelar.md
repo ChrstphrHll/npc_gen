@@ -14,8 +14,11 @@ bond: I sponsor an orphanage to keep others from enduring what I was forced to e
 birthday:
   numeric: 8/5
   written: 5th of Ravenent
-origin: Aldercrown Empire
-voice: null
+origin: Qualnis
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Gina Grandius
@@ -40,7 +43,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Human
-- Aldercrown_Empire
+- Qualnis
 - Bard
 - Diplomacy
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Hanna Estelar
 ### Description
-- Human Bard from Aldercrown Empire
+- Human Bard from Qualnis
 - 3rd year Diplomacy student in Alderden
 - long wavy brunette hair that's plain, Pale Gray eyes, and Dark Tan skin
 - Is Responsive and Unrestrained, and has Independence as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

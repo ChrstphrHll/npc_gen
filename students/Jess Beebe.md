@@ -13,8 +13,11 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 5/1
   written: 1st of Iounent
-origin: Verdain
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Tyego Sinaht
@@ -37,7 +40,7 @@ guild: Fiesn
 partyID: 98
 tags:
 - Firbolg
-- Verdain
+- Aldercrown_Empire
 - Cleric
 - Diplomacy
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Jess Beebe
 ### Description
-- Firbolg Cleric from Verdain
+- Firbolg Cleric from Aldercrown Empire
 - 3rd year Diplomacy student in Fiesn
 - short wavy brunette hair that's plain, Hazel eyes, and Pale Gray skin
 - Is Impressive and Unkind, and has Finesse as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

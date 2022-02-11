@@ -15,8 +15,11 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 6/6
   written: 6th of Pelent
-origin: Beleriand
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Murunay Illfate
@@ -39,7 +42,7 @@ guild: Burk
 partyID: 75
 tags:
 - Aasimar
-- Beleriand
+- Aldercrown_Empire
 - Barbarian
 - Assault
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Lincon Nylaathria
 ### Description
-- Aasimar Barbarian from Beleriand
+- Aasimar Barbarian from Aldercrown Empire
 - 4th year Assault student in Burk
 - short straight lighter blonde hair that's braided, Hazel eyes, and Pale skin
 - Is Tractable and Artful, and has Respect as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

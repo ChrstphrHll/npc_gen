@@ -14,7 +14,10 @@ birthday:
   numeric: 2/19
   written: 19th of Corelent
 origin: Beleriand
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Shinare Bersa
@@ -52,6 +55,7 @@ tags:
 - 1st year Exploration student in Fiesn
 - long curly brunette hair that's put up, Pale Brown eyes, and Light skin
 - Is Loving and Monstrous, and has Fame as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

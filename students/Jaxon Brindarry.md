@@ -14,8 +14,11 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 4/17
   written: 17th of Moradent
-origin: Beleriand
-voice: null
+origin: Kordinia
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Railyn Retenia
@@ -40,7 +43,7 @@ guild: Jettenia
 partyID: 28
 tags:
 - Elf
-- Beleriand
+- Kordinia
 - Artificer
 - Assault
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Jaxon Brindarry
 ### Description
-- Elf Artificer from Beleriand
+- Elf Artificer from Kordinia
 - 3rd year Assault student in Jettenia
 - long wavy dirty blonde hair that's put up, Blue eyes, and Brown skin
 - Is Dreamy and Naive, and has Wisdom as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

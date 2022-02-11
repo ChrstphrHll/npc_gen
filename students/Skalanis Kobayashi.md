@@ -13,8 +13,11 @@ bond: I fight for those who cannot fight for themselves.
 birthday:
   numeric: 2/30
   written: 30th of Corelent
-origin: Kordinia
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Pippi Langston
@@ -39,7 +42,7 @@ guild: Jettenia
 partyID: 4
 tags:
 - Halfling
-- Kordinia
+- Aldercrown_Empire
 - Druid
 - Exploration
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Skalanis Kobayashi
 ### Description
-- Halfling Druid from Kordinia
+- Halfling Druid from Aldercrown Empire
 - 6th year Exploration student in Jettenia
 - long wavy auburn hair that's braided, Pale Blue eyes, and Dark Tan skin
 - Is Profound and High-handed, and has Connection as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

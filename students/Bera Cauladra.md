@@ -16,7 +16,10 @@ birthday:
   numeric: 4/25
   written: 25th of Moradent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Auzerais Venali
@@ -50,6 +53,7 @@ tags:
 - 4th year Diplomacy student in Elkenval
 - shoulder length straight brunette hair that's well kept, Pale Blue eyes, and Tan skin
 - Is Modern and Destructive, and has Clarity as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

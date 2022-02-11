@@ -15,7 +15,10 @@ birthday:
   numeric: 5/20
   written: 20th of Iounent
 origin: Magmus Centerhold
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Cirvlon Elpaerae
@@ -51,6 +54,7 @@ tags:
 - 2nd year Assault student in Alderden
 - 3 straight horns, Purple eyes, and red skin
 - Is Experimental and Rigid, and has Cunning as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

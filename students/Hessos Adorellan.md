@@ -15,7 +15,10 @@ birthday:
   numeric: 4/11
   written: 11th of Moradent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Kendel Shael
@@ -51,6 +54,7 @@ tags:
 - 1st year Exploration student in Alderden
 - long straight white hair that's wild, Gray eyes, and Tan skin
 - Is Punctual and Pharissical, and has Optimism as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

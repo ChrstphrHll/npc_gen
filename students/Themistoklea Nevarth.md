@@ -14,8 +14,11 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 5/27
   written: 27th of Iounent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Willam Ardryll
@@ -40,7 +43,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Human
-- Principality_of_the_Palus_Peoples
+- Aldercrown_Empire
 - Monk
 - Diplomacy
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Themistoklea Nevarth
 ### Description
-- Human Monk from Principality of the Palus Peoples
+- Human Monk from Aldercrown Empire
 - 2nd year Diplomacy student in Treskal
 - shoulder length straight dirty blonde hair that's plain, Pale Brown eyes, and Dark Brown skin
 - Is Invulnerable and Neglectful, and has Patience as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

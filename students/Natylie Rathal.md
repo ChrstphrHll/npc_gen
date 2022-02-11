@@ -15,8 +15,11 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 8/14
   written: 14th of Ravenent
-origin: Beleriand
-voice: null
+origin: Magmus Centerhold
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Kloya Kershaw
@@ -39,7 +42,7 @@ guild: Jettenia
 partyID: 97
 tags:
 - Elf
-- Beleriand
+- Magmus_Centerhold
 - Barbarian
 - Assault
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Natylie Rathal
 ### Description
-- Elf Barbarian from Beleriand
+- Elf Barbarian from Magmus Centerhold
 - 5th year Assault student in Jettenia
 - long curly brunette hair that's wild, Pale Gray eyes, and Tan skin
 - Is Pleasant and Emotional, and has Speed as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

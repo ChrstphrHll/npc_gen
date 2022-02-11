@@ -14,8 +14,11 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 1/33
   written: 33rd of Avanent
-origin: Aldercrown Empire
-voice: null
+origin: Magmus Centerhold
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Jothen Elway
@@ -38,7 +41,7 @@ guild: Elkenval
 partyID: 2
 tags:
 - Half-Orc
-- Aldercrown_Empire
+- Magmus_Centerhold
 - Monk
 - Exploration
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Aidyn Glynnii
 ### Description
-- Half-Orc Monk from Aldercrown Empire
+- Half-Orc Monk from Magmus Centerhold
 - 1st year Exploration student in Elkenval
 - short curly blue hair that's plain, Pale Blue eyes, and Deep Green skin
 - Is Meticulous and Bizarre, and has Dishonesty as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

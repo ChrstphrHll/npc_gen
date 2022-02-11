@@ -14,8 +14,11 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 3/20
   written: 20th of Melorent
-origin: Aldercrown Empire
-voice: null
+origin: Qualnis
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Matos Mektal
@@ -42,7 +45,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Dwarf
-- Aldercrown_Empire
+- Qualnis
 - Monk
 - Exploration
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Selina Ochyllyss
 ### Description
-- Dwarf Monk from Aldercrown Empire
+- Dwarf Monk from Qualnis
 - 5th year Exploration student in Jettenia
 - short curly lighter blonde hair that's put up, Blue eyes, and Light Tan skin
 - Is Droll and Restrained, and has Logic as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

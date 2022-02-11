@@ -16,7 +16,10 @@ birthday:
   numeric: 5/25
   written: 25th of Iounent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Everen Malfoy
@@ -52,6 +55,7 @@ tags:
 - 2nd year Assault student in Fiesn
 - long straight auburn hair that's plain, Amber eyes, and Tan skin
 - Is Fearless and High-spirited, and has Renewal as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

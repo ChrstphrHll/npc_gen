@@ -15,8 +15,11 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 6/25
   written: 25th of Pelent
-origin: Shadesburry Initiative
-voice: null
+origin: Verdain
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Julyo Agassi
@@ -41,7 +44,7 @@ guild: Elkenval
 partyID: 47
 tags:
 - Firbolg
-- Shadesburry_Initiative
+- Verdain
 - Fighter
 - Exploration
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Goshwa Khiipaera
 ### Description
-- Firbolg Fighter from Shadesburry Initiative
+- Firbolg Fighter from Verdain
 - 5th year Exploration student in Elkenval
 - long curly black hair that's plain, Hazel eyes, and Pale Brown skin
 - Is Proper and Airy, and has Forgiveness as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

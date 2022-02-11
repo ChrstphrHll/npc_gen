@@ -14,8 +14,11 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 6/19
   written: 19th of Pelent
-origin: Aldercrown Empire
-voice: null
+origin: Black Rock
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Terek Nushala
@@ -38,7 +41,7 @@ guild: Fiesn
 partyID: 27
 tags:
 - Kenku
-- Aldercrown_Empire
+- Black_Rock
 - Monk
 - Protection
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Barak Felaern
 ### Description
-- Kenku Monk from Aldercrown Empire
+- Kenku Monk from Black Rock
 - 2nd year Protection student in Fiesn
 - striped, Hazel eyes, and Dark Blue skin
 - Is Playful and Noncommittal, and has Order as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

@@ -13,8 +13,11 @@ bond: My house's alliance with another noble family must be sustained at all cos
 birthday:
   numeric: 6/6
   written: 6th of Pelent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Jareth Tanseril
@@ -37,7 +40,7 @@ guild: Jettenia
 partyID: 10
 tags:
 - Tiefling
-- Principality_of_the_Palus_Peoples
+- Aldercrown_Empire
 - Sorcerer
 - Assault
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Aksel Strohm
 ### Description
-- Tiefling Sorcerer from Principality of the Palus Peoples
+- Tiefling Sorcerer from Aldercrown Empire
 - 7th year Assault student in Jettenia
 - long curly strawberry blond hair that's braided, Pale Green eyes, and Spring Green skin
 - Is Hypnotic and Impractical, and has Vengful as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

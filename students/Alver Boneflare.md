@@ -16,7 +16,10 @@ birthday:
   numeric: 3/27
   written: 27th of Melorent
 origin: Chillwild Peaks
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Matto Divya
@@ -56,6 +59,7 @@ tags:
 - 1st year Protection student in Jettenia
 - long wavy dark red hair that's put up, Pale Green eyes, and Light Tan skin
 - Is Reflective and Cold-hearted, and has Creativity as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

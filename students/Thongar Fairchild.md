@@ -14,8 +14,11 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 6/11
   written: 11th of Pelent
-origin: Verdain
-voice: null
+origin: Qualnis
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Meira Nuvian
@@ -38,7 +41,7 @@ guild: Burk
 partyID: 5
 tags:
 - Human
-- Verdain
+- Qualnis
 - Cleric
 - Diplomacy
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Thongar Fairchild
 ### Description
-- Human Cleric from Verdain
+- Human Cleric from Qualnis
 - 3rd year Diplomacy student in Burk
 - long straight violet hair that's well kept, Hazel eyes, and Light skin
 - Is Accessible and Fawning, and has Fame as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

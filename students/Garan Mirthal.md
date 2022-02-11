@@ -16,8 +16,11 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 2/33
   written: 33rd of Corelent
-origin: Kordinia
-voice: null
+origin: Floating Island
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Matto Divya
@@ -44,7 +47,7 @@ guild: Jettenia
 partyID: 68
 tags:
 - Halfling
-- Kordinia
+- Floating_Island
 - Ranger
 - Exploration
 - Student
@@ -53,10 +56,11 @@ tags:
 ---
 # Garan Mirthal
 ### Description
-- Halfling Ranger from Kordinia
+- Halfling Ranger from Floating Island
 - 1st year Exploration student in Jettenia
 - short wavy blonde hair that's put up, Pale Gray eyes, and Pale skin
 - Is Neutral and Bashful, and has Friendship as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

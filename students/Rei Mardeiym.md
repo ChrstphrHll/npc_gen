@@ -15,8 +15,11 @@ bond: I entered seclusion to hide from the ones who might still be hunting me. I
 birthday:
   numeric: 5/24
   written: 24th of Iounent
-origin: Beleriand
-voice: null
+origin: Floating Island
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Cam Lazziar
@@ -39,7 +42,7 @@ guild: Alderden
 partyID: 6
 tags:
 - Firbolg
-- Beleriand
+- Floating_Island
 - Sorcerer
 - Protection
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Rei Mardeiym
 ### Description
-- Firbolg Sorcerer from Beleriand
+- Firbolg Sorcerer from Floating Island
 - 7th year Protection student in Alderden
 - long straight blonde hair that's braided, Pale Blue eyes, and Pale Green skin
 - Is Patient and Narrow-minded, and has Grace as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

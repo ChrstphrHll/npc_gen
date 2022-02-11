@@ -14,8 +14,11 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 6/27
   written: 27th of Pelent
-origin: Magmus Centerhold
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Nycola Eroan
@@ -38,7 +41,7 @@ guild: Elkenval
 partyID: 77
 tags:
 - Human
-- Magmus_Centerhold
+- Beleriand
 - Artificer
 - Assault
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Eliana Saevel
 ### Description
-- Human Artificer from Magmus Centerhold
+- Human Artificer from Beleriand
 - 1st year Assault student in Elkenval
 - short straight grey hair that's plain, Pale Blue eyes, and Pale skin
 - Is Iconoclastic and Tasteless, and has Caring as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

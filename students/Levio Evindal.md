@@ -13,8 +13,11 @@ bond: I'll always remember my first ship.
 birthday:
   numeric: 7/19
   written: 19th of Korent
-origin: Magmus Centerhold
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Gabrilo Kulo
@@ -41,7 +44,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Half-Orc
-- Magmus_Centerhold
+- Aldercrown_Empire
 - Artificer
 - Protection
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Levio Evindal
 ### Description
-- Half-Orc Artificer from Magmus Centerhold
+- Half-Orc Artificer from Aldercrown Empire
 - 2nd year Protection student in Elkenval
 - short curly brunette hair that's plain, Pale Green eyes, and Pale Gray skin
 - Is Sensual and Ignorant, and has Intelligence as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

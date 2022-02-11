@@ -14,7 +14,10 @@ birthday:
   numeric: 1/8
   written: 8th of Avanent
 origin: Draconia
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Eligio Nevarth
@@ -50,6 +53,7 @@ tags:
 - 2nd year Diplomacy student in Burk
 - 3 curled horns, Brown eyes, and blue skin
 - Is Solitary and Muddle-headed, and has Caring as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

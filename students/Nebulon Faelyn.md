@@ -16,7 +16,10 @@ birthday:
   numeric: 8/2
   written: 2nd of Ravenent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Iamus Aneirin
@@ -50,6 +53,7 @@ tags:
 - 1st year Assault student in Treskal
 - long wavy red hair that's well kept, Green eyes, and Pale skin
 - Is Impassive and Contradictory, and has People as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

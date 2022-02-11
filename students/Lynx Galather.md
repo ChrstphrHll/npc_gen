@@ -14,8 +14,11 @@ bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, an
 birthday:
   numeric: 7/30
   written: 30th of Korent
-origin: Qualnis
-voice: null
+origin: Floating Island
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Corliss Akkar
@@ -38,7 +41,7 @@ guild: Burk
 partyID: 72
 tags:
 - Human
-- Qualnis
+- Floating_Island
 - Monk
 - Exploration
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Lynx Galather
 ### Description
-- Human Monk from Qualnis
+- Human Monk from Floating Island
 - 1st year Exploration student in Burk
 - long curly white hair that's wild, Amber eyes, and Tan skin
 - Is Reasonable and Resentful, and has Responsibility as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

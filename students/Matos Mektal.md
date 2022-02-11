@@ -14,8 +14,11 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 2/1
   written: 1st of Corelent
-origin: Black Rock
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Adros Tolthe
@@ -42,7 +45,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Kenku
-- Black_Rock
+- Shadesburry_Initiative
 - Barbarian
 - Diplomacy
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Matos Mektal
 ### Description
-- Kenku Barbarian from Black Rock
+- Kenku Barbarian from Shadesburry Initiative
 - 5th year Diplomacy student in Jettenia
 - striped, Pale Brown eyes, and Dark Blue skin
 - Is Meek and Treacherous, and has Generosity as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

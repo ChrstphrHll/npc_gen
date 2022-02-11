@@ -14,8 +14,11 @@ bond: I come from a noble family, and one day I'll reclaim my lands and title fr
 birthday:
   numeric: 3/23
   written: 23rd of Melorent
-origin: Aldercrown Empire
-voice: null
+origin: Qualnis
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Edyrm Iolas
@@ -38,7 +41,7 @@ guild: Burk
 partyID: 57
 tags:
 - Human
-- Aldercrown_Empire
+- Qualnis
 - Monk
 - Exploration
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Jacus Kosunten
 ### Description
-- Human Monk from Aldercrown Empire
+- Human Monk from Qualnis
 - 2nd year Exploration student in Burk
 - short wavy blonde hair that's plain, Pale Gray eyes, and Brown skin
 - Is Risk-taking and Pure, and has Strength as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

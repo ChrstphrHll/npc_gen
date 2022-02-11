@@ -13,8 +13,11 @@ bond: My house's alliance with another noble family must be sustained at all cos
 birthday:
   numeric: 8/6
   written: 6th of Ravenent
-origin: Verdain
-voice: null
+origin: Chillwild Peaks
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Giacomo Edraele
@@ -39,7 +42,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Firbolg
-- Verdain
+- Chillwild_Peaks
 - Bard
 - Exploration
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Santaegus Etter
 ### Description
-- Firbolg Bard from Verdain
+- Firbolg Bard from Chillwild Peaks
 - 2nd year Exploration student in Treskal
 - shoulder length curly auburn hair that's plain, Blue eyes, and Pale Brown skin
 - Is Emotionally stable and Contradictory, and has Courage as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

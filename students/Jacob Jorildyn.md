@@ -14,7 +14,10 @@ birthday:
   numeric: 3/23
   written: 23rd of Melorent
 origin: Draconia
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Hudsen Elandorr
@@ -52,6 +55,7 @@ tags:
 - 3rd year Diplomacy student in Treskal
 - frills, Brown eyes, and brass skin
 - Is Clear-headed and Impassive, and has Appreciation as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

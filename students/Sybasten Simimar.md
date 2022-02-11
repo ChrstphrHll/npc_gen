@@ -15,7 +15,10 @@ birthday:
   numeric: 1/14
   written: 14th of Avanent
 origin: Draconia
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Oyara Faoraar
@@ -49,6 +52,7 @@ tags:
 - 4th year Diplomacy student in Elkenval
 - 2 curled horns, Hazel eyes, and copper skin
 - Is Self-reliant and Complacent, and has Excitement as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

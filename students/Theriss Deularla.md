@@ -15,7 +15,10 @@ birthday:
   numeric: 4/4
   written: 4th of Moradent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Vyctor Willow
@@ -55,6 +58,7 @@ tags:
 - 6th year Protection student in Treskal
 - short straight lighter blonde hair that's well kept, Pale Gray eyes, and Dark Tan skin
 - Is Attentive and Fraudulent, and has Knowledge as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

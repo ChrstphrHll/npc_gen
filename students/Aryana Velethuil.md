@@ -15,8 +15,11 @@ bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, an
 birthday:
   numeric: 5/4
   written: 4th of Iounent
-origin: Black Rock
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Abramo Sudryl
@@ -37,7 +40,7 @@ guild: Elkenval
 partyID: 32
 tags:
 - Kenku
-- Black_Rock
+- Aldercrown_Empire
 - Wizard
 - Diplomacy
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Aryana Velethuil
 ### Description
-- Kenku Wizard from Black Rock
+- Kenku Wizard from Aldercrown Empire
 - 4th year Diplomacy student in Elkenval
 - speckled, Pale Brown eyes, and Red skin
 - Is Clear-headed and Fawning, and has Fun as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

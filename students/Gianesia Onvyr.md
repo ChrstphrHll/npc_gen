@@ -13,8 +13,11 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 1/25
   written: 25th of Avanent
-origin: Beleriand
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Moki Aelynthi
@@ -37,7 +40,7 @@ guild: Burk
 partyID: 29
 tags:
 - Dwarf
-- Beleriand
+- Aldercrown_Empire
 - Monk
 - Protection
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Gianesia Onvyr
 ### Description
-- Dwarf Monk from Beleriand
+- Dwarf Monk from Aldercrown Empire
 - 6th year Protection student in Burk
 - short straight white hair that's plain, Blue eyes, and Light skin
 - Is Humorous and Opportunistic, and has Competition as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

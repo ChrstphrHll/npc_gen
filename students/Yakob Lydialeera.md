@@ -14,7 +14,10 @@ birthday:
   numeric: 3/32
   written: 32nd of Melorent
 origin: Draconia
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Wulfe Galan
@@ -52,6 +55,7 @@ tags:
 - 1st year Protection student in Elkenval
 - long spines, Deep Blue eyes, and blue skin
 - Is Chummy and Ambitious, and has Fitness as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

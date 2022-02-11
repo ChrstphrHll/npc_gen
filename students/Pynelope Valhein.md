@@ -13,8 +13,11 @@ bond: I work to preserve a library, university, scriptorium, or monastery.
 birthday:
   numeric: 8/10
   written: 10th of Ravenent
-origin: Draconia
-voice: null
+origin: Magmus Centerhold
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Brinna Muerlara
@@ -39,7 +42,7 @@ guild: Burk
 partyID: 95
 tags:
 - Dragonborn
-- Draconia
+- Magmus_Centerhold
 - Rouge
 - Exploration
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Pynelope Valhein
 ### Description
-- Dragonborn Rouge from Draconia
+- Dragonborn Rouge from Magmus Centerhold
 - 1st year Exploration student in Burk
 - frills, Blue eyes, and black skin
 - Is Unreligious and Impassive, and has Responsibility as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

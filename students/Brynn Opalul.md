@@ -16,7 +16,10 @@ birthday:
   numeric: 4/28
   written: 28th of Moradent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Alys Ylyndar
@@ -50,6 +53,7 @@ tags:
 - 3rd year Exploration student in Burk
 - shoulder length curly strawberry blond hair that's plain, Red eyes, and Pale Yellow skin
 - Is Devoted and Odd, and has Charisma as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

@@ -15,7 +15,10 @@ birthday:
   numeric: 7/33
   written: 33rd of Korent
 origin: Magmus Centerhold
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Grassa Ashbluff
@@ -51,6 +54,7 @@ tags:
 - 7th year Diplomacy student in Fiesn
 - short wavy brunette hair that's well kept, Pale Brown eyes, and Green Blue skin
 - Is Strong-willed and Boorish, and has Independence as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

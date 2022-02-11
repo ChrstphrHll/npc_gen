@@ -15,8 +15,11 @@ bond: My ill-gotten gains go to support my family.
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
-origin: Beleriand
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Eune Eldratha
@@ -39,7 +42,7 @@ guild: Elkenval
 partyID: 34
 tags:
 - Elf
-- Beleriand
+- Aldercrown_Empire
 - Wizard
 - Assault
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Tezani Morthil
 ### Description
-- Elf Wizard from Beleriand
+- Elf Wizard from Aldercrown Empire
 - 2nd year Assault student in Elkenval
 - short straight auburn hair that's braided, Gray eyes, and Light Tan skin
 - Is Deceptive and Extreme, and has Generosity as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

@@ -15,7 +15,10 @@ birthday:
   numeric: 8/13
   written: 13th of Ravenent
 origin: Draconia
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Railyn Retenia
@@ -53,6 +56,7 @@ tags:
 - 3rd year Assault student in Jettenia
 - short spines, Hazel eyes, and silver skin
 - Is Logical and Critical, and has Caring as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

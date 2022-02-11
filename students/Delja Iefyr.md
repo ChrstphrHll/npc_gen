@@ -15,7 +15,10 @@ birthday:
   numeric: 4/27
   written: 27th of Moradent
 origin: Beleriand
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Hodus Belt
@@ -53,6 +56,7 @@ tags:
 - 1st year Diplomacy student in Burk
 - long wavy strawberry blond hair that's wild, Amber eyes, and Light skin
 - Is Harmonious and Risk-taking, and has Power as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

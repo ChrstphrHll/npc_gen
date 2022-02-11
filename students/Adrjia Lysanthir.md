@@ -15,8 +15,11 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 4/15
   written: 15th of Moradent
-origin: Glasscliff Garisons
-voice: null
+origin: Whyndiem
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Kova Tamara
@@ -43,7 +46,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Triton
-- Glasscliff_Garisons
+- Whyndiem
 - Ranger
 - Assault
 - Student
@@ -52,10 +55,11 @@ tags:
 ---
 # Adrjia Lysanthir
 ### Description
-- Triton Ranger from Glasscliff Garisons
+- Triton Ranger from Whyndiem
 - 1st year Assault student in Treskal
 - shoulder length curly auburn hair that's plain, Pale Blue eyes, and Aqua skin
 - Is Invisible and Circumspect, and has Compassion as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

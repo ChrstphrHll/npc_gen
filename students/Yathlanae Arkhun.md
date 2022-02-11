@@ -15,7 +15,10 @@ birthday:
   numeric: 8/8
   written: 8th of Ravenent
 origin: Beleriand
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Halja Dwyer
@@ -49,6 +52,7 @@ tags:
 - 1st year Diplomacy student in Alderden
 - long wavy white hair that's messy, Pale Blue eyes, and Brown skin
 - Is Graceful and Troublesome, and has Wealth as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

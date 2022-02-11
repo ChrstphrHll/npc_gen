@@ -14,8 +14,11 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
-origin: Whyndiem
-voice: null
+origin: Glasscliff Garisons
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Rasy Merlara
@@ -38,7 +41,7 @@ guild: Alderden
 partyID: 16
 tags:
 - Triton
-- Whyndiem
+- Glasscliff_Garisons
 - Paladin
 - Exploration
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Hanro Fieryat
 ### Description
-- Triton Paladin from Whyndiem
+- Triton Paladin from Glasscliff Garisons
 - 1st year Exploration student in Alderden
 - long wavy lighter blonde hair that's plain, Pale Gray eyes, and Pale Green skin
 - Is Gentle and Sedentary, and has Charisma as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

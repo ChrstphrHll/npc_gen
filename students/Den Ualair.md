@@ -14,7 +14,10 @@ birthday:
   numeric: 1/18
   written: 18th of Avanent
 origin: Magmus Centerhold
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Ilksal Immianthe
@@ -48,6 +51,7 @@ tags:
 - 3rd year Diplomacy student in Treskal
 - long straight dirty blonde hair that's well kept, Pale Blue eyes, and Green Blue skin
 - Is Impressive and Faithless, and has Vengful as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

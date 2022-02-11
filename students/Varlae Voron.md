@@ -14,8 +14,11 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 6/17
   written: 17th of Pelent
-origin: Magmus Centerhold
-voice: null
+origin: Verdain
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Vyctor Willow
@@ -42,7 +45,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Half-Orc
-- Magmus_Centerhold
+- Verdain
 - Wizard
 - Exploration
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Varlae Voron
 ### Description
-- Half-Orc Wizard from Magmus Centerhold
+- Half-Orc Wizard from Verdain
 - 6th year Exploration student in Treskal
 - long curly dirty blonde hair that's plain, Pale Gray eyes, and Pale Gray skin
 - Is Friendly and Foolish, and has Peace as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

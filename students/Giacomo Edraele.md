@@ -16,8 +16,11 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 3/18
   written: 18th of Melorent
-origin: Aldercrown Empire
-voice: null
+origin: Floating Island
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Matrell Halafarin
@@ -42,7 +45,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Human
-- Aldercrown_Empire
+- Floating_Island
 - Druid
 - Diplomacy
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Giacomo Edraele
 ### Description
-- Human Druid from Aldercrown Empire
+- Human Druid from Floating Island
 - 2nd year Diplomacy student in Treskal
 - shoulder length straight white hair that's plain, Green eyes, and Light Tan skin
 - Is Communicative and Ungrateful, and has Exceptionalism as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

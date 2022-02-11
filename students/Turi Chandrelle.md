@@ -13,8 +13,11 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 4/20
   written: 20th of Moradent
-origin: Qualnis
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Kunjal Iefyr
@@ -37,7 +40,7 @@ guild: Fiesn
 partyID: 13
 tags:
 - Gnome
-- Qualnis
+- Shadesburry_Initiative
 - Rouge
 - Protection
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Turi Chandrelle
 ### Description
-- Gnome Rouge from Qualnis
+- Gnome Rouge from Shadesburry Initiative
 - 4th year Protection student in Fiesn
 - shoulder length curly red hair that's messy, Blue eyes, and Fair skin
 - Is Mature and Enigmatic, and has Indulgence as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

@@ -15,8 +15,11 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 2/24
   written: 24th of Corelent
-origin: Beleriand
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Nathan Laeroth
@@ -39,7 +42,7 @@ guild: Elkenval
 partyID: 64
 tags:
 - Human
-- Beleriand
+- Aldercrown_Empire
 - Barbarian
 - Diplomacy
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Pike Tethir
 ### Description
-- Human Barbarian from Beleriand
+- Human Barbarian from Aldercrown Empire
 - 1st year Diplomacy student in Elkenval
 - short curly auburn hair that's messy, Pale Gray eyes, and Brown skin
 - Is Seraphic and Boisterous, and has Cooperation as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

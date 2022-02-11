@@ -17,7 +17,10 @@ birthday:
   numeric: 8/27
   written: 27th of Ravenent
 origin: Verdain
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Cerridwen Durothil
@@ -53,6 +56,7 @@ tags:
 - 5th year Exploration student in Treskal
 - short straight strawberry blond hair that's plain, Brown eyes, and Pale Brown skin
 - Is Dreamy and Artificial, and has Home as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

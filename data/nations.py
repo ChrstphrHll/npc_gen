@@ -44,8 +44,8 @@ nations = {
         "population": 25000
     },    
     "Floating Island": {
-        "mysten_w": 8,
-        "population": 10000
+        "mysten_w": 25,
+        "population": 30000
     },
 }
 

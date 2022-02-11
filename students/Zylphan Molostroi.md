@@ -15,7 +15,10 @@ birthday:
   numeric: 4/21
   written: 21st of Moradent
 origin: Verdain
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Romen Uldreiyn
@@ -55,6 +58,7 @@ tags:
 - 8th year Diplomacy student in Fiesn
 - long wavy dirty blonde hair that's plain, Amber eyes, and Pale Brown skin
 - Is Firm and Hateful, and has Honesty as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

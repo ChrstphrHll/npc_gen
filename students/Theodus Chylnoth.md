@@ -15,8 +15,11 @@ bond: I will someday get revenge on the corrupt temple hierarchy who branded me 
 birthday:
   numeric: 3/8
   written: 8th of Melorent
-origin: Beleriand
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Velmona Elway
@@ -39,7 +42,7 @@ guild: Elkenval
 partyID: 40
 tags:
 - Half-Elf
-- Beleriand
+- Aldercrown_Empire
 - Monk
 - Assault
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Theodus Chylnoth
 ### Description
-- Half-Elf Monk from Beleriand
+- Half-Elf Monk from Aldercrown Empire
 - 1st year Assault student in Elkenval
 - short straight auburn hair that's wild, Pale Gray eyes, and Light skin
 - Is Benevolent and Pharissical, and has Beauty as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

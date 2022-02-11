@@ -13,8 +13,11 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 6/26
   written: 26th of Pelent
-origin: Aldercrown Empire
-voice: null
+origin: Verdain
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Pynelope Valhein
@@ -39,7 +42,7 @@ guild: Burk
 partyID: 95
 tags:
 - Halfling
-- Aldercrown_Empire
+- Verdain
 - Barbarian
 - Exploration
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Brinna Muerlara
 ### Description
-- Halfling Barbarian from Aldercrown Empire
+- Halfling Barbarian from Verdain
 - 1st year Exploration student in Burk
 - short straight auburn hair that's messy, Gray eyes, and Brown skin
 - Is Athletic and Reserved, and has Openness as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

@@ -13,8 +13,11 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 5/10
   written: 10th of Iounent
-origin: Magmus Centerhold
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Yathlanae Arkhun
@@ -35,7 +38,7 @@ guild: Alderden
 partyID: 55
 tags:
 - Tiefling
-- Magmus_Centerhold
+- Aldercrown_Empire
 - Fighter
 - Exploration
 - Student
@@ -44,10 +47,11 @@ tags:
 ---
 # Halja Dwyer
 ### Description
-- Tiefling Fighter from Magmus Centerhold
+- Tiefling Fighter from Aldercrown Empire
 - 1st year Exploration student in Alderden
 - shoulder length curly grey hair that's wild, Spring Green eyes, and Pale Blue skin
 - Is Iconoclastic and Stingy, and has Prosperity as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

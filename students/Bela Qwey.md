@@ -13,8 +13,11 @@ bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 5/10
   written: 10th of Iounent
-origin: Aldercrown Empire
-voice: null
+origin: Qualnis
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Rossan Jonik
@@ -37,7 +40,7 @@ guild: Treskal
 partyID: 67
 tags:
 - Human
-- Aldercrown_Empire
+- Qualnis
 - Druid
 - Assault
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Bela Qwey
 ### Description
-- Human Druid from Aldercrown Empire
+- Human Druid from Qualnis
 - 3rd year Assault student in Treskal
 - shoulder length straight brunette hair that's well kept, Hazel eyes, and Dark Brown skin
 - Is Conciliatory and Modern, and has Conformity as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

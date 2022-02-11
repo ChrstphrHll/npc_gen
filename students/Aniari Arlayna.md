@@ -15,7 +15,10 @@ birthday:
   numeric: 3/3
   written: 3rd of Melorent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Nycola Eroan
@@ -51,6 +54,7 @@ tags:
 - 1st year Assault student in Elkenval
 - long straight red hair that's messy, Pale Brown eyes, and Light skin
 - Is Knowledgeable and Dishonest, and has Courage as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

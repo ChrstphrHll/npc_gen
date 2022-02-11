@@ -15,8 +15,11 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 5/5
   written: 5th of Iounent
-origin: Chillwild Peaks
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Secarr Ashbluff
@@ -37,7 +40,7 @@ guild: Burk
 partyID: 1
 tags:
 - Half-Orc
-- Chillwild_Peaks
+- Aldercrown_Empire
 - Barbarian
 - Exploration
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Thenol Shialaevar
 ### Description
-- Half-Orc Barbarian from Chillwild Peaks
+- Half-Orc Barbarian from Aldercrown Empire
 - 6th year Exploration student in Burk
 - shoulder length wavy platinum hair that's plain, Brown eyes, and Pale Green skin
 - Is Sensitive and Indolent, and has Security as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

@@ -13,8 +13,11 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 5/14
   written: 14th of Iounent
-origin: Qualnis
-voice: null
+origin: Kordinia
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Thongar Fairchild
@@ -37,7 +40,7 @@ guild: Burk
 partyID: 5
 tags:
 - Half-Elf
-- Qualnis
+- Kordinia
 - Ranger
 - Assault
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Meira Nuvian
 ### Description
-- Half-Elf Ranger from Qualnis
+- Half-Elf Ranger from Kordinia
 - 3rd year Assault student in Burk
 - shoulder length wavy strawberry blond hair that's plain, Gray eyes, and Dark Tan skin
 - Is Well-bred and Disconcerting, and has Compassion as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

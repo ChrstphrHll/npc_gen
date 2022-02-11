@@ -17,7 +17,10 @@ birthday:
   numeric: 4/10
   written: 10th of Moradent
 origin: Draconia
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Leah Faelar
@@ -55,6 +58,7 @@ tags:
 - 1st year Diplomacy student in Treskal
 - short spines, Pale Blue eyes, and brass skin
 - Is Self-conscious and Anxious, and has Caring as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

@@ -1,7 +1,7 @@
 ---
 name: Adros Tolthe
 race: Goliath
-hair: short wavy white hair that's wild
+hair: short waxy white hair that's wild
 eyes: Pale Blue
 skin: Tan
 ideal: Uncaring
@@ -15,7 +15,10 @@ birthday:
   numeric: 1/33
   written: 33rd of Avanent
 origin: Chillwild Peaks
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 1
 relationships:
 - name: Matos Mektal
@@ -58,8 +61,9 @@ tags:
 ### Description
 - Goliath Bard from Chillwild Peaks
 - 5th year Exploration student in Jettenia
-- short wavy white hair that's wild, Pale Blue eyes, and Tan skin
+- short waxy white hair that's wild, Pale Blue eyes, and Tan skin
 - Is Scholarly and Overimaginative, and has Uncaring as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 - plays guitar

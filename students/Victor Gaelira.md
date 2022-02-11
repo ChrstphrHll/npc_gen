@@ -14,8 +14,11 @@ bond: Someone saved my life on the battlefield. To this day, I will never leave 
 birthday:
   numeric: 7/14
   written: 14th of Korent
-origin: Floating Island
-voice: null
+origin: Magmus Centerhold
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Halya Jian
@@ -40,7 +43,7 @@ guild: Fiesn
 partyID: 96
 tags:
 - Half-Elf
-- Floating_Island
+- Magmus_Centerhold
 - Barbarian
 - Diplomacy
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Victor Gaelira
 ### Description
-- Half-Elf Barbarian from Floating Island
+- Half-Elf Barbarian from Magmus Centerhold
 - 1st year Diplomacy student in Fiesn
 - short curly brunette hair that's wild, Pale Blue eyes, and Dark Tan skin
 - Is Ambitious and Evil, and has Family as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

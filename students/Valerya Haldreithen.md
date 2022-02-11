@@ -14,8 +14,11 @@ bond: I will face any challenge to win the approval of my family.
 birthday:
   numeric: 4/26
   written: 26th of Moradent
-origin: Whyndiem
-voice: null
+origin: Glasscliff Garisons
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Shinare Bersa
@@ -40,7 +43,7 @@ guild: Fiesn
 partyID: 18
 tags:
 - Triton
-- Whyndiem
+- Glasscliff_Garisons
 - Druid
 - Assault
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Valerya Haldreithen
 ### Description
-- Triton Druid from Whyndiem
+- Triton Druid from Glasscliff Garisons
 - 1st year Assault student in Fiesn
 - shoulder length straight strawberry blond hair that's plain, Pale Brown eyes, and Spring Green skin
 - Is Fair and Mechanical, and has Courage as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

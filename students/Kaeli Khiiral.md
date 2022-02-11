@@ -16,7 +16,10 @@ birthday:
   numeric: 5/23
   written: 23rd of Iounent
 origin: Whyndiem
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Pinna Vanius
@@ -54,6 +57,7 @@ tags:
 - 7th year Assault student in Fiesn
 - shoulder length wavy white hair that's put up, Brown eyes, and Pale Gray skin
 - Is Winning and Meretricious, and has Reciprocity as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

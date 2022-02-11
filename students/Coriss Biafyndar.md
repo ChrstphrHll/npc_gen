@@ -15,7 +15,10 @@ birthday:
   numeric: 8/4
   written: 4th of Ravenent
 origin: Beleriand
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Alexandyr Aulauthar
@@ -51,6 +54,7 @@ tags:
 - 5th year Protection student in Fiesn
 - short wavy auburn hair that's plain, Brown eyes, and Light Tan skin
 - Is Equitable and Unmerciful, and has Personal Development as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

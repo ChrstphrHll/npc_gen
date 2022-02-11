@@ -15,8 +15,11 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 2/24
   written: 24th of Corelent
-origin: Verdain
-voice: null
+origin: Floating Island
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Lyonus Ioelena
@@ -39,7 +42,7 @@ guild: Burk
 partyID: 86
 tags:
 - Tiefling
-- Verdain
+- Floating_Island
 - Cleric
 - Protection
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Hagar Sakrattars
 ### Description
-- Tiefling Cleric from Verdain
+- Tiefling Cleric from Floating Island
 - 2nd year Protection student in Burk
 - short curly blonde hair that's plain, Blue eyes, and Pale Yellow skin
 - Is Conforming and Criminal, and has Competition as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

@@ -16,7 +16,10 @@ birthday:
   numeric: 4/22
   written: 22nd of Moradent
 origin: Black Rock
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Graisen Thalanil
@@ -54,6 +57,7 @@ tags:
 - 2nd year Assault student in Treskal
 - sleek, Amber eyes, and Dark Blue skin
 - Is Resourceful and Arrogant, and has Redemption as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

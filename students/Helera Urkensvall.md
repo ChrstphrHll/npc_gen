@@ -14,8 +14,11 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 7/27
   written: 27th of Korent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Verdain
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Aelisabeth Soliania
@@ -40,7 +43,7 @@ guild: Burk
 partyID: 9
 tags:
 - Halfling
-- Principality_of_the_Palus_Peoples
+- Verdain
 - Barbarian
 - Exploration
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Helera Urkensvall
 ### Description
-- Halfling Barbarian from Principality of the Palus Peoples
+- Halfling Barbarian from Verdain
 - 3rd year Exploration student in Burk
 - shoulder length curly blonde hair that's plain, Green eyes, and Brown skin
 - Is Sociable and Cantankerous, and has Change as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

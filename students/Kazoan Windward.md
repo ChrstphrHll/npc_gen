@@ -15,7 +15,10 @@ birthday:
   numeric: 2/4
   written: 4th of Corelent
 origin: Verdain
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Saccaros Anaharae
@@ -49,6 +52,7 @@ tags:
 - 2nd year Assault student in Treskal
 - long curly auburn hair that's plain, Pale Green eyes, and Pale Gray skin
 - Is Restrained and Vague, and has Austerity as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

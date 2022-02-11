@@ -14,8 +14,11 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 4/28
   written: 28th of Moradent
-origin: Qualnis
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Halya Jian
@@ -40,7 +43,7 @@ guild: Fiesn
 partyID: 96
 tags:
 - Human
-- Qualnis
+- Aldercrown_Empire
 - Druid
 - Diplomacy
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Goetia Mistale
 ### Description
-- Human Druid from Qualnis
+- Human Druid from Aldercrown Empire
 - 1st year Diplomacy student in Fiesn
 - shoulder length frizzy brunette hair that's braided, Hazel eyes, and Light skin
 - Is Tough and Mechanical, and has Invention as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

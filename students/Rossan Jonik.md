@@ -14,8 +14,11 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 3/31
   written: 31st of Melorent
-origin: Aldercrown Empire
-voice: null
+origin: Kordinia
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Bela Qwey
@@ -38,7 +41,7 @@ guild: Treskal
 partyID: 67
 tags:
 - Halfling
-- Aldercrown_Empire
+- Kordinia
 - Artificer
 - Exploration
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Rossan Jonik
 ### Description
-- Halfling Artificer from Aldercrown Empire
+- Halfling Artificer from Kordinia
 - 3rd year Exploration student in Treskal
 - shoulder length wavy platinum hair that's put up, Pale Blue eyes, and Fair skin
 - Is Impartial and Unaggressive, and has Might as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

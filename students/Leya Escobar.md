@@ -14,8 +14,11 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 6/25
   written: 25th of Pelent
-origin: Aldercrown Empire
-voice: null
+origin: Floating Island
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Gina Grandius
@@ -40,7 +43,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Human
-- Aldercrown_Empire
+- Floating_Island
 - Fighter
 - Assault
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Leya Escobar
 ### Description
-- Human Fighter from Aldercrown Empire
+- Human Fighter from Floating Island
 - 3rd year Assault student in Alderden
 - short straight blonde hair that's plain, Pale Gray eyes, and Dark Brown skin
 - Is Self-disciplined and Mawkish, and has Righteous as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

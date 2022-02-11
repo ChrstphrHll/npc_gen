@@ -14,8 +14,11 @@ bond: One day I will return to my guild and prove that I am the greatest artisan
 birthday:
   numeric: 1/4
   written: 4th of Avanent
-origin: Magmus Centerhold
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Lenn Schimae
@@ -40,7 +43,7 @@ guild: Treskal
 partyID: 46
 tags:
 - Dwarf
-- Magmus_Centerhold
+- Aldercrown_Empire
 - Monk
 - Assault
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Robett Grell
 ### Description
-- Dwarf Monk from Magmus Centerhold
+- Dwarf Monk from Aldercrown Empire
 - 6th year Assault student in Treskal
 - short straight dark red hair that's plain, Pale Brown eyes, and Dark Brown skin
 - Is Solitary and Impolite, and has Forgiveness as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

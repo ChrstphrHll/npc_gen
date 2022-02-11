@@ -13,8 +13,11 @@ bond: I'll always remember my first ship.
 birthday:
   numeric: 3/21
   written: 21st of Melorent
-origin: Beleriand
-voice: null
+origin: Floating Island
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Alinea Hellsturn
@@ -37,7 +40,7 @@ guild: Alderden
 partyID: 11
 tags:
 - Halfling
-- Beleriand
+- Floating_Island
 - Barbarian
 - Assault
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Jacomo Jacaranda
 ### Description
-- Halfling Barbarian from Beleriand
+- Halfling Barbarian from Floating Island
 - 5th year Assault student in Alderden
 - shoulder length straight pink hair that's braided, Pale Blue eyes, and Pale skin
 - Is Iconoclastic and Narrow, and has Personal Development as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

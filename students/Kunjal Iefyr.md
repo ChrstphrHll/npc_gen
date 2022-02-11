@@ -16,8 +16,11 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 6/6
   written: 6th of Pelent
-origin: Kordinia
-voice: null
+origin: Whyndiem
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Guliemos Nym
@@ -40,7 +43,7 @@ guild: Fiesn
 partyID: 13
 tags:
 - Halfling
-- Kordinia
+- Whyndiem
 - Cleric
 - Protection
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Kunjal Iefyr
 ### Description
-- Halfling Cleric from Kordinia
+- Halfling Cleric from Whyndiem
 - 4th year Protection student in Fiesn
 - long straight black hair that's braided, Pale Gray eyes, and Light Tan skin
 - Is Carefree and Mannerless, and has Faith as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

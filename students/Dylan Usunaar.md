@@ -13,8 +13,11 @@ bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 2/2
   written: 2nd of Corelent
-origin: Aldercrown Empire
-voice: null
+origin: Chillwild Peaks
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Delila Felaern
@@ -39,7 +42,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Half-Orc
-- Aldercrown_Empire
+- Chillwild_Peaks
 - Rouge
 - Diplomacy
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Dylan Usunaar
 ### Description
-- Half-Orc Rouge from Aldercrown Empire
+- Half-Orc Rouge from Chillwild Peaks
 - 5th year Diplomacy student in Elkenval
 - short curly platinum hair that's braided, Pale Blue eyes, and Deep Green skin
 - Is Focused and Naughty, and has Enjoyment as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

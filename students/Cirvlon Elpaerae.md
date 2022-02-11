@@ -13,8 +13,11 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 1/28
   written: 28th of Avanent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Jamye Napraeleon
@@ -37,7 +40,7 @@ guild: Alderden
 partyID: 73
 tags:
 - Tiefling
-- Principality_of_the_Palus_Peoples
+- Aldercrown_Empire
 - Druid
 - Assault
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Cirvlon Elpaerae
 ### Description
-- Tiefling Druid from Principality of the Palus Peoples
+- Tiefling Druid from Aldercrown Empire
 - 2nd year Assault student in Alderden
 - short straight strawberry blond hair that's plain, Pale Green eyes, and Pale Gray skin
 - Is Impressive and Callous, and has Logic as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

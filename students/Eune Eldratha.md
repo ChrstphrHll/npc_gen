@@ -14,7 +14,10 @@ birthday:
   numeric: 1/28
   written: 28th of Avanent
 origin: Whyndiem
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Evyn Fenton
@@ -50,6 +53,7 @@ tags:
 - 2nd year Protection student in Elkenval
 - long straight grey hair that's well kept, Violet Red eyes, and Emerald Green skin
 - Is Unreligious and Libidinous, and has Forgiveness as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

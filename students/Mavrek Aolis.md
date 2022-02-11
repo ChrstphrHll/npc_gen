@@ -14,7 +14,10 @@ birthday:
   numeric: 6/25
   written: 25th of Pelent
 origin: Draconia
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Julyo Agassi
@@ -52,6 +55,7 @@ tags:
 - 5th year Assault student in Elkenval
 - 2 curled horns, Red eyes, and gold skin
 - Is Realistic and Predatory, and has Connection as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

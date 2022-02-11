@@ -14,8 +14,11 @@ bond: I seek to preserve a sacred text that my enemies consider heretical and se
 birthday:
   numeric: 5/29
   written: 29th of Iounent
-origin: Verdain
-voice: null
+origin: Kordinia
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Abel Marsh
@@ -38,7 +41,7 @@ guild: Fiesn
 partyID: 48
 tags:
 - Halfling
-- Verdain
+- Kordinia
 - Barbarian
 - Protection
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Leonus Triktappic
 ### Description
-- Halfling Barbarian from Verdain
+- Halfling Barbarian from Kordinia
 - 5th year Protection student in Fiesn
 - long wavy violet hair that's wild, Amber eyes, and Fair skin
 - Is Extraordinary and Prejudiced, and has Redemption as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

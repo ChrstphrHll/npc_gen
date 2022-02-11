@@ -15,7 +15,10 @@ birthday:
   numeric: 5/25
   written: 25th of Iounent
 origin: Chillwild Peaks
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Levy Maendellyn
@@ -51,6 +54,7 @@ tags:
 - 2nd year Assault student in Burk
 - shoulder length frizzy white hair that's wild, Pale Brown eyes, and Light skin
 - Is Conservative and Invisible, and has Integrity as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

@@ -15,8 +15,11 @@ bond: A proud noble once gave me a horrible beating, and I will take my revenge 
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
-origin: Kordinia
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Levy Maendellyn
@@ -39,7 +42,7 @@ guild: Burk
 partyID: 36
 tags:
 - Dwarf
-- Kordinia
+- Aldercrown_Empire
 - Cleric
 - Diplomacy
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Isaias Vaalyun
 ### Description
-- Dwarf Cleric from Kordinia
+- Dwarf Cleric from Aldercrown Empire
 - 2nd year Diplomacy student in Burk
 - long wavy white hair that's plain, Pale Brown eyes, and Dark Brown skin
 - Is Discerning and Hidebound, and has Logic as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

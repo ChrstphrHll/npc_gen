@@ -14,8 +14,11 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 7/28
   written: 28th of Korent
-origin: Chillwild Peaks
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Olbern Uldreiyn
@@ -36,7 +39,7 @@ guild: Treskal
 partyID: 62
 tags:
 - Half-Orc
-- Chillwild_Peaks
+- Shadesburry_Initiative
 - Sorcerer
 - Protection
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Connovar Kaminsky
 ### Description
-- Half-Orc Sorcerer from Chillwild Peaks
+- Half-Orc Sorcerer from Shadesburry Initiative
 - 4th year Protection student in Treskal
 - shoulder length curly red hair that's plain, Brown eyes, and Pale Green skin
 - Is Helpful and Plodding, and has Creativity as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

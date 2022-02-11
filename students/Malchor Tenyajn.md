@@ -14,8 +14,11 @@ bond: I'll always remember my first ship.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
-origin: Aldercrown Empire
-voice: null
+origin: Verdain
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Santyeg Kuskyn
@@ -38,7 +41,7 @@ guild: Fiesn
 partyID: 81
 tags:
 - Genasi
-- Aldercrown_Empire
+- Verdain
 - Rouge
 - Exploration
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Malchor Tenyajn
 ### Description
-- Genasi Rouge from Aldercrown Empire
+- Genasi Rouge from Verdain
 - 1st year Exploration student in Fiesn
 - short curly brunette hair that's plain, Amber eyes, and water skin
 - Is Affable and Regimental, and has Humanity as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

@@ -14,7 +14,10 @@ birthday:
   numeric: 8/4
   written: 4th of Ravenent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Nebulon Faelyn
@@ -48,6 +51,7 @@ tags:
 - 1st year Diplomacy student in Treskal
 - long straight brunette hair that's plain, Pale Gray eyes, and Light skin
 - Is Dynamic and Obvious, and has Harmony as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

@@ -14,7 +14,10 @@ birthday:
   numeric: 1/6
   written: 6th of Avanent
 origin: Beleriand
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Volkos Halaema
@@ -48,6 +51,7 @@ tags:
 - 4th year Assault student in Alderden
 - shoulder length straight platinum hair that's plain, Hazel eyes, and Tan skin
 - Is Captivating and Unsentimental, and has Lead by example as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

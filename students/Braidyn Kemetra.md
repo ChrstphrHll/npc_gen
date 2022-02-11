@@ -13,8 +13,11 @@ bond: I am the last of my tribe, and it is up to me to ensure their names enter 
 birthday:
   numeric: 3/2
   written: 2nd of Melorent
-origin: Aldercrown Empire
-voice: null
+origin: Principality of the Palus Peoples
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Grassa Ashbluff
@@ -37,7 +40,7 @@ guild: Fiesn
 partyID: 25
 tags:
 - Dwarf
-- Aldercrown_Empire
+- Principality_of_the_Palus_Peoples
 - Monk
 - Exploration
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Braidyn Kemetra
 ### Description
-- Dwarf Monk from Aldercrown Empire
+- Dwarf Monk from Principality of the Palus Peoples
 - 7th year Exploration student in Fiesn
 - shoulder length wavy auburn hair that's plain, Pale Green eyes, and Light skin
 - Is Soft and Subjective, and has Fitness as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

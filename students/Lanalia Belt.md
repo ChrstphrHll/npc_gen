@@ -16,8 +16,11 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 7/6
   written: 6th of Korent
-origin: Beleriand
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Bela Qwey
@@ -40,7 +43,7 @@ guild: Treskal
 partyID: 67
 tags:
 - Elf
-- Beleriand
+- Aldercrown_Empire
 - Paladin
 - Diplomacy
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Lanalia Belt
 ### Description
-- Elf Paladin from Beleriand
+- Elf Paladin from Aldercrown Empire
 - 3rd year Diplomacy student in Treskal
 - shoulder length wavy lighter blonde hair that's wild, Brown eyes, and Light Tan skin
 - Is Organised and Insecure, and has Hard Work as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

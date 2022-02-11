@@ -14,8 +14,11 @@ bond: My honor is my life.
 birthday:
   numeric: 8/20
   written: 20th of Ravenent
-origin: Aldercrown Empire
-voice: null
+origin: Verdain
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Mateos Elanil
@@ -40,7 +43,7 @@ guild: Fiesn
 partyID: 60
 tags:
 - Aasimar
-- Aldercrown_Empire
+- Verdain
 - Paladin
 - Assault
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Selina Bellas
 ### Description
-- Aasimar Paladin from Aldercrown Empire
+- Aasimar Paladin from Verdain
 - 2nd year Assault student in Fiesn
 - short wavy brunette hair that's wild, Pale Gray eyes, and Light skin
 - Is Systematic and Clumsy, and has Optimism as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

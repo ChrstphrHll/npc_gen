@@ -14,8 +14,11 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
-origin: Draconia
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Surge Fayd
@@ -38,7 +41,7 @@ guild: Fiesn
 partyID: 15
 tags:
 - Dragonborn
-- Draconia
+- Aldercrown_Empire
 - Druid
 - Protection
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Delsenora Strohm
 ### Description
-- Dragonborn Druid from Draconia
+- Dragonborn Druid from Aldercrown Empire
 - 7th year Protection student in Fiesn
 - long spines, Sea Green eyes, and copper skin
 - Is Unambitious and Surprising, and has Austerity as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

@@ -14,8 +14,11 @@ bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 1/23
   written: 23rd of Avanent
-origin: Aldercrown Empire
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Ezros Laerdya
@@ -40,7 +43,7 @@ guild: Fiesn
 partyID: 18
 tags:
 - Tiefling
-- Aldercrown_Empire
+- Shadesburry_Initiative
 - Ranger
 - Exploration
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Shinare Bersa
 ### Description
-- Tiefling Ranger from Aldercrown Empire
+- Tiefling Ranger from Shadesburry Initiative
 - 1st year Exploration student in Fiesn
 - long wavy auburn hair that's plain, Spring Green eyes, and Violet Red skin
 - Is Admirable and Invisible, and has Uncaring as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

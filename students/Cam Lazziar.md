@@ -15,7 +15,10 @@ birthday:
   numeric: 3/2
   written: 2nd of Melorent
 origin: Verdain
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Jofan Elignoir
@@ -51,6 +54,7 @@ tags:
 - 7th year Protection student in Alderden
 - long curly dirty blonde hair that's plain, Hazel eyes, and Pale Blue skin
 - Is Obliging and Venal, and has Spontaneity as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

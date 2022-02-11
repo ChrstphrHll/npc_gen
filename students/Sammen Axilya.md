@@ -14,8 +14,11 @@ bond: I worked the land, I love the land, and I will protect the land.
 birthday:
   numeric: 7/13
   written: 13th of Korent
-origin: Qualnis
-voice: null
+origin: Magmus Centerhold
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Ruby Kythaela
@@ -38,7 +41,7 @@ guild: Jettenia
 partyID: 26
 tags:
 - Human
-- Qualnis
+- Magmus_Centerhold
 - Paladin
 - Diplomacy
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Sammen Axilya
 ### Description
-- Human Paladin from Qualnis
+- Human Paladin from Magmus Centerhold
 - 2nd year Diplomacy student in Jettenia
 - long curly dirty blonde hair that's plain, Pale Green eyes, and Tan skin
 - Is Dedicated and Absentminded, and has Creativity as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

@@ -16,7 +16,10 @@ birthday:
   numeric: 1/18
   written: 18th of Avanent
 origin: Chillwild Peaks
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 1
 relationships:
 - name: Caeleb Embrae
@@ -58,6 +61,7 @@ tags:
 - 2nd year Protection student in Fiesn
 - long curly lighter blonde hair that's braided, Amber eyes, and Dark Brown skin
 - Is Emotional and Troublesome, and has Connection as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 - Follower of Avandra

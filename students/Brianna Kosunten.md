@@ -13,8 +13,11 @@ bond: Should my discovery come to light, it could bring ruin to the world.
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-origin: Shadesburry Initiative
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Selina Bellas
@@ -39,7 +42,7 @@ guild: Fiesn
 partyID: 60
 tags:
 - Dwarf
-- Shadesburry_Initiative
+- Aldercrown_Empire
 - Fighter
 - Assault
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Brianna Kosunten
 ### Description
-- Dwarf Fighter from Shadesburry Initiative
+- Dwarf Fighter from Aldercrown Empire
 - 2nd year Assault student in Fiesn
 - shoulder length wavy black hair that's put up, Gray eyes, and Dark Brown skin
 - Is Secure and Sedentary, and has Security as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

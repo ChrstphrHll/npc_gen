@@ -14,8 +14,11 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 1/32
   written: 32nd of Avanent
-origin: Beleriand
-voice: null
+origin: Floating Island
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Jandar Pleufan
@@ -42,7 +45,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Aasimar
-- Beleriand
+- Floating_Island
 - Cleric
 - Protection
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Allyson Vindinglag
 ### Description
-- Aasimar Cleric from Beleriand
+- Aasimar Cleric from Floating Island
 - 1st year Protection student in Elkenval
 - long straight dirty blonde hair that's put up, Pale Gray eyes, and Dark Brown skin
 - Is Forceful and Stif, and has Reciprocity as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

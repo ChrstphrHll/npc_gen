@@ -14,8 +14,11 @@ bond: My life's work is a series of tomes related to a specific field of lore.
 birthday:
   numeric: 4/11
   written: 11th of Moradent
-origin: Beleriand
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Goshwa Khiipaera
@@ -40,7 +43,7 @@ guild: Elkenval
 partyID: 47
 tags:
 - Dwarf
-- Beleriand
+- Aldercrown_Empire
 - Sorcerer
 - Assault
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Julyo Agassi
 ### Description
-- Dwarf Sorcerer from Beleriand
+- Dwarf Sorcerer from Aldercrown Empire
 - 5th year Assault student in Elkenval
 - shoulder length curly brunette hair that's plain, Green eyes, and Dark Brown skin
 - Is Stable and Harsh, and has Peace as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

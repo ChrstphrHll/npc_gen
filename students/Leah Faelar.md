@@ -14,8 +14,11 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 4/7
   written: 7th of Moradent
-origin: Kordinia
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Branus Shadegrove
@@ -40,7 +43,7 @@ guild: Treskal
 partyID: 17
 tags:
 - Human
-- Kordinia
+- Shadesburry_Initiative
 - Bard
 - Exploration
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Leah Faelar
 ### Description
-- Human Bard from Kordinia
+- Human Bard from Shadesburry Initiative
 - 1st year Exploration student in Treskal
 - shoulder length curly red hair that's messy, Green eyes, and Light Tan skin
 - Is Intense and Assertive, and has Justice as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

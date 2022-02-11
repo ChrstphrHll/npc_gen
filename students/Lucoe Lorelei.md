@@ -14,8 +14,11 @@ bond: My life's work is a series of tomes related to a specific field of lore.
 birthday:
   numeric: 6/24
   written: 24th of Pelent
-origin: Magmus Centerhold
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Willam Ardryll
@@ -40,7 +43,7 @@ guild: Treskal
 partyID: 44
 tags:
 - Dwarf
-- Magmus_Centerhold
+- Aldercrown_Empire
 - Barbarian
 - Exploration
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Lucoe Lorelei
 ### Description
-- Dwarf Barbarian from Magmus Centerhold
+- Dwarf Barbarian from Aldercrown Empire
 - 2nd year Exploration student in Treskal
 - short frizzy auburn hair that's put up, Amber eyes, and Dark Tan skin
 - Is Modest and Contemptible, and has Creativity as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

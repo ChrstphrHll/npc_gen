@@ -13,8 +13,11 @@ bond: Someone I loved died because of a mistake I made. That will never happen a
 birthday:
   numeric: 3/26
   written: 26th of Melorent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Floating Island
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Olivus Ondabrar
@@ -35,7 +38,7 @@ guild: Fiesn
 partyID: 85
 tags:
 - Dragonborn
-- Principality_of_the_Palus_Peoples
+- Floating_Island
 - Monk
 - Exploration
 - Student
@@ -44,10 +47,11 @@ tags:
 ---
 # Nom Remington
 ### Description
-- Dragonborn Monk from Principality of the Palus Peoples
+- Dragonborn Monk from Floating Island
 - 3rd year Exploration student in Fiesn
 - long spines, Purple eyes, and copper skin
 - Is Unfathomable and Hesitant, and has Power as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

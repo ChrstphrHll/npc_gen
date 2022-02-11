@@ -15,7 +15,10 @@ birthday:
   numeric: 3/17
   written: 17th of Melorent
 origin: Whyndiem
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Cam Lazziar
@@ -51,6 +54,7 @@ tags:
 - 7th year Diplomacy student in Alderden
 - shoulder length curly dirty blonde hair that's plain, Hazel eyes, and Pale Gray skin
 - Is Modest and Snobbish, and has Pride as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

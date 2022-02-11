@@ -15,7 +15,10 @@ birthday:
   numeric: 3/5
   written: 5th of Melorent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Wulfe Fulcrux
@@ -49,6 +52,7 @@ tags:
 - 8th year Protection student in Elkenval
 - long wavy platinum hair that's braided, Pale Brown eyes, and Tan skin
 - Is Anticipative and Competitive, and has Ambition as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

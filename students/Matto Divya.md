@@ -15,7 +15,10 @@ birthday:
   numeric: 7/21
   written: 21st of Korent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Ysak Llewellenar
@@ -55,6 +58,7 @@ tags:
 - 1st year Assault student in Jettenia
 - long wavy lighter blonde hair that's well kept, Brown eyes, and Fair skin
 - Is Stern and Lackadaisical, and has Fitness as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

@@ -15,8 +15,11 @@ bond: I owe everything to my mentor- a horrible person who's probably rotting in
 birthday:
   numeric: 8/28
   written: 28th of Ravenent
-origin: Aldercrown Empire
-voice: null
+origin: Kordinia
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Efjan Andrathath
@@ -39,7 +42,7 @@ guild: Burk
 partyID: 31
 tags:
 - Human
-- Aldercrown_Empire
+- Kordinia
 - Monk
 - Assault
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Taanyth Seeker
 ### Description
-- Human Monk from Aldercrown Empire
+- Human Monk from Kordinia
 - 1st year Assault student in Burk
 - short curly brunette hair that's messy, Pale Green eyes, and Tan skin
 - Is Active and Insolent, and has Gratitude as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

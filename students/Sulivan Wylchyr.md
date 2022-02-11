@@ -14,8 +14,11 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 7/12
   written: 12th of Korent
-origin: Magmus Centerhold
-voice: null
+origin: Draconia
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Gorlas Vhoadan
@@ -36,7 +39,7 @@ guild: Elkenval
 partyID: 50
 tags:
 - Dragonborn
-- Magmus_Centerhold
+- Draconia
 - Monk
 - Exploration
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Sulivan Wylchyr
 ### Description
-- Dragonborn Monk from Magmus Centerhold
+- Dragonborn Monk from Draconia
 - 2nd year Exploration student in Elkenval
 - frills, Spring Green eyes, and blue skin
 - Is Joyful and Pure, and has Forgiveness as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

@@ -16,8 +16,11 @@ bond: I have an ancient text that holds terrible secrets that must not fall into
 birthday:
   numeric: 6/13
   written: 13th of Pelent
-origin: Verdain
-voice: null
+origin: Magmus Centerhold
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Favroe Kythaela
@@ -38,7 +41,7 @@ guild: Treskal
 partyID: 19
 tags:
 - Half-Elf
-- Verdain
+- Magmus_Centerhold
 - Artificer
 - Protection
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Verssek Nese
 ### Description
-- Half-Elf Artificer from Verdain
+- Half-Elf Artificer from Magmus Centerhold
 - 3rd year Protection student in Treskal
 - short curly auburn hair that's plain, Gray eyes, and Light skin
 - Is Gentle and Impassive, and has Logic as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

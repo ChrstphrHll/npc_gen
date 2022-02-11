@@ -13,8 +13,11 @@ bond: My town or city is my home, and I'll fight to defend it.
 birthday:
   numeric: 1/23
   written: 23rd of Avanent
-origin: Glasscliff Garisons
-voice: null
+origin: Magmus Centerhold
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Maia Ashsorrow
@@ -37,7 +40,7 @@ guild: Treskal
 partyID: 78
 tags:
 - Triton
-- Glasscliff_Garisons
+- Magmus_Centerhold
 - Paladin
 - Protection
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Hanna Arkhun
 ### Description
-- Triton Paladin from Glasscliff Garisons
+- Triton Paladin from Magmus Centerhold
 - 1st year Protection student in Treskal
 - short wavy turquoise hair that's messy, Purple eyes, and Pale Gray skin
 - Is Dependable and Enigmatic, and has Involvement as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

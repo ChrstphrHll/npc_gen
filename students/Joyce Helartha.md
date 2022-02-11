@@ -13,8 +13,11 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 2/21
   written: 21st of Corelent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Maia Ashsorrow
@@ -37,7 +40,7 @@ guild: Treskal
 partyID: 78
 tags:
 - Halfling
-- Principality_of_the_Palus_Peoples
+- Aldercrown_Empire
 - Cleric
 - Diplomacy
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Joyce Helartha
 ### Description
-- Halfling Cleric from Principality of the Palus Peoples
+- Halfling Cleric from Aldercrown Empire
 - 1st year Diplomacy student in Treskal
 - shoulder length curly grey hair that's well kept, Pale Brown eyes, and Dark Tan skin
 - Is Innovative and Abrasive, and has Compassion as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

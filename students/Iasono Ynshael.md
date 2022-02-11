@@ -15,7 +15,10 @@ birthday:
   numeric: 5/14
   written: 14th of Iounent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Matto Divya
@@ -55,6 +58,7 @@ tags:
 - 1st year Protection student in Jettenia
 - short wavy blonde hair that's wild, Amber eyes, and Brown skin
 - Is Self-sufficent and Unrealistic, and has Live and Let Live as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

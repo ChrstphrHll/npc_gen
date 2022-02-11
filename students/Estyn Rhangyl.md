@@ -16,7 +16,10 @@ birthday:
   numeric: 3/5
   written: 5th of Melorent
 origin: Draconia
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Tadita Edraele
@@ -54,6 +57,7 @@ tags:
 - 4th year Protection student in Treskal
 - 5 curled horns, Gray eyes, and blue skin
 - Is Harmonious and Talkative, and has Conformity as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

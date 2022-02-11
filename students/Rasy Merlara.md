@@ -14,8 +14,11 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 7/11
   written: 11th of Korent
-origin: Shadesburry Initiative
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Hanro Fieryat
@@ -38,7 +41,7 @@ guild: Alderden
 partyID: 16
 tags:
 - Dwarf
-- Shadesburry_Initiative
+- Aldercrown_Empire
 - Wizard
 - Exploration
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Rasy Merlara
 ### Description
-- Dwarf Wizard from Shadesburry Initiative
+- Dwarf Wizard from Aldercrown Empire
 - 1st year Exploration student in Alderden
 - shoulder length wavy blonde hair that's messy, Pale Brown eyes, and Dark Tan skin
 - Is Reflective and Ungrateful, and has Spiritualism as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

@@ -14,8 +14,11 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 3/28
   written: 28th of Melorent
-origin: Shadesburry Initiative
-voice: null
+origin: Floating Island
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Kendel Shael
@@ -38,7 +41,7 @@ guild: Alderden
 partyID: 43
 tags:
 - Human
-- Shadesburry_Initiative
+- Floating_Island
 - Paladin
 - Exploration
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Asmiak Seirye
 ### Description
-- Human Paladin from Shadesburry Initiative
+- Human Paladin from Floating Island
 - 1st year Exploration student in Alderden
 - short wavy lighter blonde hair that's well kept, Brown eyes, and Fair skin
 - Is Masculine and Impractical, and has Anti-Authority as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

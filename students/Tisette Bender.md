@@ -14,7 +14,10 @@ birthday:
   numeric: 1/23
   written: 23rd of Avanent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Brinna Muerlara
@@ -52,6 +55,7 @@ tags:
 - 1st year Assault student in Burk
 - shoulder length wavy platinum hair that's put up, Gray eyes, and Brown skin
 - Is Profound and Plain, and has Logic as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

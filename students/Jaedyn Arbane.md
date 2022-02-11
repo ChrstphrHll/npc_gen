@@ -14,8 +14,11 @@ bond: I hold no greater cause than my service to my people.
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-origin: Magmus Centerhold
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Kova Tamara
@@ -42,7 +45,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Half-Elf
-- Magmus_Centerhold
+- Aldercrown_Empire
 - Paladin
 - Exploration
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Jaedyn Arbane
 ### Description
-- Half-Elf Paladin from Magmus Centerhold
+- Half-Elf Paladin from Aldercrown Empire
 - 1st year Exploration student in Treskal
 - shoulder length straight grey hair that's messy, Amber eyes, and Dark Tan skin
 - Is Private and Picky, and has Invention as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

@@ -16,7 +16,10 @@ birthday:
   numeric: 3/22
   written: 22nd of Melorent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Astinus Sythaeryn
@@ -50,6 +53,7 @@ tags:
 - 4th year Exploration student in Fiesn
 - long wavy green hair that's well kept, Blue eyes, and Dark Tan skin
 - Is Jolly and Noncompetitive, and has Logic as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

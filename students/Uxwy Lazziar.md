@@ -14,8 +14,11 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 2/23
   written: 23rd of Corelent
-origin: Aldercrown Empire
-voice: null
+origin: Qualnis
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Abel Marsh
@@ -38,7 +41,7 @@ guild: Fiesn
 partyID: 48
 tags:
 - Human
-- Aldercrown_Empire
+- Qualnis
 - Sorcerer
 - Assault
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Uxwy Lazziar
 ### Description
-- Human Sorcerer from Aldercrown Empire
+- Human Sorcerer from Qualnis
 - 5th year Assault student in Fiesn
 - short straight auburn hair that's plain, Hazel eyes, and Fair skin
 - Is Admirable and Repugnant, and has Contentment as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

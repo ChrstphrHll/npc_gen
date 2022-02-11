@@ -15,8 +15,11 @@ bond: I idolize a hero of the old tales and measure my deeds against that person
 birthday:
   numeric: 4/16
   written: 16th of Moradent
-origin: Magmus Centerhold
-voice: null
+origin: Qualnis
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Dylan Usunaar
@@ -41,7 +44,7 @@ guild: Elkenval
 partyID: 20
 tags:
 - Human
-- Magmus_Centerhold
+- Qualnis
 - Cleric
 - Diplomacy
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Grace Festus
 ### Description
-- Human Cleric from Magmus Centerhold
+- Human Cleric from Qualnis
 - 5th year Diplomacy student in Elkenval
 - shoulder length wavy strawberry blond hair that's plain, Pale Gray eyes, and Pale skin
 - Is Anticipative and Rigid, and has Charity as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

@@ -14,8 +14,11 @@ bond: I will bring terrible wrath down on the evildoers who destroyed my homelan
 birthday:
   numeric: 3/30
   written: 30th of Melorent
-origin: Aldercrown Empire
-voice: null
+origin: Whyndiem
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Kymber Korrigash
@@ -38,7 +41,7 @@ guild: Jettenia
 partyID: 33
 tags:
 - Triton
-- Aldercrown_Empire
+- Whyndiem
 - Cleric
 - Exploration
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Vaellyn Esyae
 ### Description
-- Triton Cleric from Aldercrown Empire
+- Triton Cleric from Whyndiem
 - 2nd year Exploration student in Jettenia
 - long straight auburn hair that's well kept, Yellow eyes, and Pale Blue skin
 - Is Thrilling and Oppressed, and has Success as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

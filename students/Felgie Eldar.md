@@ -14,8 +14,11 @@ bond: Nothing is more important than the other members of my hermitage, order, o
 birthday:
   numeric: 4/12
   written: 12th of Moradent
-origin: Chillwild Peaks
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Selina Bellas
@@ -40,7 +43,7 @@ guild: Fiesn
 partyID: 60
 tags:
 - Goliath
-- Chillwild_Peaks
+- Aldercrown_Empire
 - Druid
 - Protection
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Felgie Eldar
 ### Description
-- Goliath Druid from Chillwild Peaks
+- Goliath Druid from Aldercrown Empire
 - 2nd year Protection student in Fiesn
 - shoulder length straight brunette hair that's wild, Hazel eyes, and Light Tan skin
 - Is Dreamer and Profligate, and has Spiritualism as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

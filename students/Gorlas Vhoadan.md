@@ -14,8 +14,11 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 8/4
   written: 4th of Ravenent
-origin: Aldercrown Empire
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Sulivan Wylchyr
@@ -36,7 +39,7 @@ guild: Elkenval
 partyID: 50
 tags:
 - Gnome
-- Aldercrown_Empire
+- Shadesburry_Initiative
 - Barbarian
 - Exploration
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Gorlas Vhoadan
 ### Description
-- Gnome Barbarian from Aldercrown Empire
+- Gnome Barbarian from Shadesburry Initiative
 - 2nd year Exploration student in Elkenval
 - long straight red hair that's braided, Pale Gray eyes, and Fair skin
 - Is Placid and Animated, and has Conformity as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

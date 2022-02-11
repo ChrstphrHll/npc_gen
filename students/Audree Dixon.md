@@ -15,8 +15,11 @@ bond: I'm still seeking the enlightenment I pursued in my seclusion, and it stil
 birthday:
   numeric: 3/31
   written: 31st of Melorent
-origin: Aldercrown Empire
-voice: null
+origin: Verdain
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Aryana Ahrendue
@@ -41,7 +44,7 @@ guild: Alderden
 partyID: 56
 tags:
 - Human
-- Aldercrown_Empire
+- Verdain
 - Monk
 - Assault
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Audree Dixon
 ### Description
-- Human Monk from Aldercrown Empire
+- Human Monk from Verdain
 - 1st year Assault student in Alderden
 - shoulder length curly red hair that's plain, Blue eyes, and Fair skin
 - Is Clean and Licentious, and has Commonality as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

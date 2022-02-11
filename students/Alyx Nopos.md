@@ -13,8 +13,11 @@ bond: I'm fascinated by the beauty and wonder of this new land.
 birthday:
   numeric: 8/24
   written: 24th of Ravenent
-origin: Magmus Centerhold
-voice: null
+origin: Qualnis
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Asten Alavara
@@ -35,7 +38,7 @@ guild: Fiesn
 partyID: 87
 tags:
 - Tiefling
-- Magmus_Centerhold
+- Qualnis
 - Rouge
 - Assault
 - Student
@@ -44,10 +47,11 @@ tags:
 ---
 # Alyx Nopos
 ### Description
-- Tiefling Rouge from Magmus Centerhold
+- Tiefling Rouge from Qualnis
 - 6th year Assault student in Fiesn
 - long wavy red hair that's well kept, Aqua eyes, and Sea Green skin
 - Is Maternal and Freewheeling, and has Intelligence as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

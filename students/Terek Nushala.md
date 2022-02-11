@@ -14,7 +14,10 @@ birthday:
   numeric: 3/19
   written: 19th of Melorent
 origin: Whyndiem
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Scarletta Elora
@@ -50,6 +53,7 @@ tags:
 - 2nd year Protection student in Fiesn
 - long curly platinum hair that's wild, Purple eyes, and Deep Blue skin
 - Is Circumspect and Ridiculous, and has Self-Fulfillment as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

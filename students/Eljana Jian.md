@@ -15,7 +15,10 @@ birthday:
   numeric: 4/18
   written: 18th of Moradent
 origin: Chillwild Peaks
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Asralyn Rhangyl
@@ -49,6 +52,7 @@ tags:
 - 5th year Protection student in Fiesn
 - long curly strawberry blond hair that's plain, Blue eyes, and Dark Tan skin
 - Is Challenging and Confused, and has Harmony as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

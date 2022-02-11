@@ -15,7 +15,10 @@ birthday:
   numeric: 1/1
   written: 1st of Avanent
 origin: Whyndiem
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Jareth Tanseril
@@ -51,6 +54,7 @@ tags:
 - 7th year Protection student in Jettenia
 - short straight grey hair that's wild, Violet Red eyes, and Aqua skin
 - Is Resourceful and Bland, and has Wealth as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

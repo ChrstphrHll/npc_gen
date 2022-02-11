@@ -16,7 +16,10 @@ birthday:
   numeric: 5/2
   written: 2nd of Iounent
 origin: Magmus Centerhold
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Adresin Ilbryn
@@ -54,6 +57,7 @@ tags:
 - 1st year Diplomacy student in Elkenval
 - 4 curled horns, Deep Blue eyes, and bronze skin
 - Is Trustworthy and Weak, and has Loyalty as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

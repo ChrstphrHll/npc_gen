@@ -14,7 +14,10 @@ birthday:
   numeric: 1/6
   written: 6th of Avanent
 origin: Black Rock
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Theodus Chylnoth
@@ -50,6 +53,7 @@ tags:
 - 1st year Assault student in Elkenval
 - speckled, Hazel eyes, and Red skin
 - Is Civilised and Sadistic, and has Generosity as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

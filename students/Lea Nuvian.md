@@ -14,8 +14,11 @@ bond: The workshop where I learned my trade is the most important place in the w
 birthday:
   numeric: 8/19
   written: 19th of Ravenent
-origin: Whyndiem
-voice: null
+origin: Qualnis
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Audree Dixon
@@ -40,7 +43,7 @@ guild: Alderden
 partyID: 56
 tags:
 - Triton
-- Whyndiem
+- Qualnis
 - Rouge
 - Protection
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Lea Nuvian
 ### Description
-- Triton Rouge from Whyndiem
+- Triton Rouge from Qualnis
 - 1st year Protection student in Alderden
 - short wavy dark red hair that's wild, Blue eyes, and Pale Blue skin
 - Is Ascetic and Disputatious, and has Cruelty as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

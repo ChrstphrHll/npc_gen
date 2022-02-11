@@ -15,7 +15,10 @@ birthday:
   numeric: 8/24
   written: 24th of Ravenent
 origin: Whyndiem
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Matos Mektal
@@ -55,6 +58,7 @@ tags:
 - 5th year Protection student in Jettenia
 - long straight platinum hair that's braided, Deep Blue eyes, and Emerald Green skin
 - Is Educated and False, and has Excitement as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

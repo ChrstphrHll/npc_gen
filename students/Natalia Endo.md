@@ -15,7 +15,10 @@ birthday:
   numeric: 6/5
   written: 5th of Pelent
 origin: Kordinia
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Leja Talila
@@ -49,6 +52,7 @@ tags:
 - 3rd year Exploration student in Burk
 - short wavy grey hair that's wild, Pale Brown eyes, and Fair skin
 - Is Inoffensive and Agonizing, and has Renewal as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

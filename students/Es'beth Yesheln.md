@@ -13,8 +13,11 @@ bond: My life's work is a series of tomes related to a specific field of lore.
 birthday:
   numeric: 7/3
   written: 3rd of Korent
-origin: Aldercrown Empire
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Kova Tamara
@@ -41,7 +44,7 @@ guild: Treskal
 partyID: 69
 tags:
 - Elf
-- Aldercrown_Empire
+- Beleriand
 - Monk
 - Exploration
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Es'beth Yesheln
 ### Description
-- Elf Monk from Aldercrown Empire
+- Elf Monk from Beleriand
 - 1st year Exploration student in Treskal
 - shoulder length frizzy red hair that's well kept, Pale Blue eyes, and Light skin
 - Is Stylish and Neurotic, and has Simplicity as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

@@ -16,7 +16,10 @@ birthday:
   numeric: 2/24
   written: 24th of Corelent
 origin: Verdain
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Kembley Ralnor
@@ -52,6 +55,7 @@ tags:
 - 8th year Exploration student in Jettenia
 - long curly black hair that's plain, Hazel eyes, and Pale Gray skin
 - Is Supportive and Opportunistic, and has Greed as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

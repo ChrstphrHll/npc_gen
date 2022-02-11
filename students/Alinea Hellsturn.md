@@ -15,7 +15,10 @@ birthday:
   numeric: 1/22
   written: 22nd of Avanent
 origin: Beleriand
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Tommos Morgan
@@ -51,6 +54,7 @@ tags:
 - 5th year Assault student in Alderden
 - long curly auburn hair that's plain, Brown eyes, and Tan skin
 - Is Merciful and Sloppy, and has Renewal as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

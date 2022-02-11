@@ -15,8 +15,11 @@ bond: Somewhere out there, I have a child who doesn't know me. I'm making the wo
 birthday:
   numeric: 4/10
   written: 10th of Moradent
-origin: Verdain
-voice: null
+origin: Magmus Centerhold
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Jamye Napraeleon
@@ -39,7 +42,7 @@ guild: Alderden
 partyID: 73
 tags:
 - Tiefling
-- Verdain
+- Magmus_Centerhold
 - Druid
 - Protection
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Gianna Rhistel
 ### Description
-- Tiefling Druid from Verdain
+- Tiefling Druid from Magmus Centerhold
 - 2nd year Protection student in Alderden
 - long straight blonde hair that's well kept, Gray eyes, and Purple skin
 - Is Dynamic and Shy, and has Speed as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

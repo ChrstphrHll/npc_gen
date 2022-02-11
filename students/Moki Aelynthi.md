@@ -15,8 +15,11 @@ bond: One day I will return to my guild and prove that I am the greatest artisan
 birthday:
   numeric: 3/11
   written: 11th of Melorent
-origin: Aldercrown Empire
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Ezekius Chalsarda
@@ -39,7 +42,7 @@ guild: Burk
 partyID: 29
 tags:
 - Gnome
-- Aldercrown_Empire
+- Shadesburry_Initiative
 - Druid
 - Protection
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Moki Aelynthi
 ### Description
-- Gnome Druid from Aldercrown Empire
+- Gnome Druid from Shadesburry Initiative
 - 6th year Protection student in Burk
 - long wavy dark red hair that's braided, Pale Gray eyes, and Tan skin
 - Is Open and Devious, and has Live and Let Live as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

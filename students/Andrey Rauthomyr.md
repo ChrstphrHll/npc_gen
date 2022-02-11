@@ -14,7 +14,10 @@ birthday:
   numeric: 5/6
   written: 6th of Iounent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Jandar Pleufan
@@ -54,6 +57,7 @@ tags:
 - 1st year Assault student in Elkenval
 - shoulder length straight dark red hair that's plain, Hazel eyes, and Dark Tan skin
 - Is Trusting and Unrealistic, and has Compassion as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

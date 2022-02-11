@@ -15,7 +15,10 @@ birthday:
   numeric: 5/19
   written: 19th of Iounent
 origin: Draconia
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Meira Nuvian
@@ -51,6 +54,7 @@ tags:
 - 3rd year Exploration student in Burk
 - long spines, Pale Blue eyes, and blue skin
 - Is Scrupulous and Shy, and has Logic as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

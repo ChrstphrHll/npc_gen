@@ -13,8 +13,11 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 6/11
   written: 11th of Pelent
-origin: Chillwild Peaks
-voice: null
+origin: Magmus Centerhold
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Eune Eldratha
@@ -37,7 +40,7 @@ guild: Elkenval
 partyID: 34
 tags:
 - Half-Orc
-- Chillwild_Peaks
+- Magmus_Centerhold
 - Rouge
 - Protection
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Evyn Fenton
 ### Description
-- Half-Orc Rouge from Chillwild Peaks
+- Half-Orc Rouge from Magmus Centerhold
 - 2nd year Protection student in Elkenval
 - shoulder length wavy blonde hair that's plain, Pale Blue eyes, and Pale Green skin
 - Is Well-rounded and Perverse, and has Spiritualism as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

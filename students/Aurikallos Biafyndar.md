@@ -15,7 +15,10 @@ birthday:
   numeric: 3/10
   written: 10th of Melorent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Dylan Usunaar
@@ -53,6 +56,7 @@ tags:
 - 5th year Protection student in Elkenval
 - shoulder length straight platinum hair that's put up, Gray eyes, and Pale skin
 - Is Placid and Repugnant, and has Righteous as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

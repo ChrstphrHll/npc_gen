@@ -14,8 +14,11 @@ bond: I'm still seeking the enlightenment I pursued in my seclusion, and it stil
 birthday:
   numeric: 6/17
   written: 17th of Pelent
-origin: Chillwild Peaks
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Brahm Delmuth
@@ -42,7 +45,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Goliath
-- Chillwild_Peaks
+- Beleriand
 - Druid
 - Protection
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Romen Uldreiyn
 ### Description
-- Goliath Druid from Chillwild Peaks
+- Goliath Druid from Beleriand
 - 8th year Protection student in Fiesn
 - short frizzy dark red hair that's messy, Pale Blue eyes, and Light Tan skin
 - Is Self-reliant and Superficial, and has Fitness as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

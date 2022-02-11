@@ -14,8 +14,11 @@ bond: I come from a noble family, and one day I'll reclaim my lands and title fr
 birthday:
   numeric: 4/9
   written: 9th of Moradent
-origin: Magmus Centerhold
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Surge Fayd
@@ -38,7 +41,7 @@ guild: Fiesn
 partyID: 15
 tags:
 - Genasi
-- Magmus_Centerhold
+- Aldercrown_Empire
 - Rouge
 - Assault
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Josius Iliphar
 ### Description
-- Genasi Rouge from Magmus Centerhold
+- Genasi Rouge from Aldercrown Empire
 - 7th year Assault student in Fiesn
 - short curly dirty blonde hair that's put up, Violet Red eyes, and air skin
 - Is Iconoclastic and Shallow, and has Kindness as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

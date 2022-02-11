@@ -14,8 +14,11 @@ bond: In a harbor town, I have a paramour whose eyes nearly stole me from the se
 birthday:
   numeric: 1/15
   written: 15th of Avanent
-origin: Kordinia
-voice: null
+origin: Verdain
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Shike Thalaera
@@ -40,7 +43,7 @@ guild: Burk
 partyID: 38
 tags:
 - Elf
-- Kordinia
+- Verdain
 - Bard
 - Assault
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Hodus Belt
 ### Description
-- Elf Bard from Kordinia
+- Elf Bard from Verdain
 - 1st year Assault student in Burk
 - shoulder length straight platinum hair that's well kept, Pale Gray eyes, and Brown skin
 - Is Lucky and Vindictive, and has Harmony as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

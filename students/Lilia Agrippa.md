@@ -14,8 +14,11 @@ bond: I pursue wealth to secure someone's love.
 birthday:
   numeric: 8/13
   written: 13th of Ravenent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Maarika Oncith
@@ -38,7 +41,7 @@ guild: Fiesn
 partyID: 94
 tags:
 - Tiefling
-- Principality_of_the_Palus_Peoples
+- Aldercrown_Empire
 - Barbarian
 - Assault
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Lilia Agrippa
 ### Description
-- Tiefling Barbarian from Principality of the Palus Peoples
+- Tiefling Barbarian from Aldercrown Empire
 - 3rd year Assault student in Fiesn
 - shoulder length wavy blue hair that's braided, Gray eyes, and Purple skin
 - Is Efficient and Lackadaisical, and has Appreciation as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

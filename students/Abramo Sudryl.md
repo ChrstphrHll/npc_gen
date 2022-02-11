@@ -15,7 +15,10 @@ birthday:
   numeric: 3/28
   written: 28th of Melorent
 origin: Draconia
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Aryana Velethuil
@@ -49,6 +52,7 @@ tags:
 - 4th year Protection student in Elkenval
 - 5 barbed horns, Pale Gray eyes, and black skin
 - Is Purposeful and Stern, and has Intelligence as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

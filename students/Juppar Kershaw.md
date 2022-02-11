@@ -16,8 +16,11 @@ bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, an
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
-origin: Aldercrown Empire
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Milae Ditka
@@ -40,7 +43,7 @@ guild: Jettenia
 partyID: 66
 tags:
 - Human
-- Aldercrown_Empire
+- Shadesburry_Initiative
 - Druid
 - Diplomacy
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Juppar Kershaw
 ### Description
-- Human Druid from Aldercrown Empire
+- Human Druid from Shadesburry Initiative
 - 1st year Diplomacy student in Jettenia
 - shoulder length straight grey hair that's braided, Gray eyes, and Fair skin
 - Is Playful and Fanciful, and has Charisma as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

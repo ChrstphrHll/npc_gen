@@ -15,7 +15,10 @@ birthday:
   numeric: 6/6
   written: 6th of Pelent
 origin: Whyndiem
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Noam Shields
@@ -53,6 +56,7 @@ tags:
 - 4th year Protection student in Burk
 - long straight strawberry blond hair that's well kept, Sea Green eyes, and Aqua skin
 - Is Self-sufficent and Boisterous, and has Righteous as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

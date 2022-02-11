@@ -15,7 +15,10 @@ birthday:
   numeric: 6/22
   written: 22nd of Pelent
 origin: Whyndiem
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Josius Iliphar
@@ -51,6 +54,7 @@ tags:
 - 7th year Protection student in Fiesn
 - long curly platinum hair that's plain, Orange eyes, and Aqua skin
 - Is Concerned and Busy, and has Cunning as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

@@ -15,7 +15,10 @@ birthday:
   numeric: 7/31
   written: 31st of Korent
 origin: Verdain
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Tadita Edraele
@@ -53,6 +56,7 @@ tags:
 - 4th year Diplomacy student in Treskal
 - short straight dark red hair that's wild, Green eyes, and Pale Gray skin
 - Is Devoted and Lazy, and has Finesse as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

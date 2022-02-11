@@ -14,8 +14,11 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 7/12
   written: 12th of Korent
-origin: Chillwild Peaks
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Whit Remington
@@ -36,7 +39,7 @@ guild: Burk
 partyID: 41
 tags:
 - Tiefling
-- Chillwild_Peaks
+- Aldercrown_Empire
 - Monk
 - Diplomacy
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Hazel Traeliorn
 ### Description
-- Tiefling Monk from Chillwild Peaks
+- Tiefling Monk from Aldercrown Empire
 - 1st year Diplomacy student in Burk
 - shoulder length curly auburn hair that's plain, Brown eyes, and Blue skin
 - Is Adventurous and Unctuous, and has Caring as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

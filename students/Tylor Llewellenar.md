@@ -15,7 +15,10 @@ birthday:
   numeric: 8/20
   written: 20th of Ravenent
 origin: Qualnis
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Brannos Bellas
@@ -51,6 +54,7 @@ tags:
 - 6th year Assault student in Fiesn
 - smooth brass guilded with gold, Amber eyes, and gold skin
 - Is Disciplined and Naive, and has Abundance as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

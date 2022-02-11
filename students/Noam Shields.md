@@ -15,8 +15,11 @@ bond: I sold my soul for knowledge. I hope to do great deeds and win it back.
 birthday:
   numeric: 7/13
   written: 13th of Korent
-origin: Chillwild Peaks
-voice: null
+origin: Magmus Centerhold
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Gunnar Ordayius
@@ -41,7 +44,7 @@ guild: Burk
 partyID: 59
 tags:
 - Half-Orc
-- Chillwild_Peaks
+- Magmus_Centerhold
 - Barbarian
 - Assault
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Noam Shields
 ### Description
-- Half-Orc Barbarian from Chillwild Peaks
+- Half-Orc Barbarian from Magmus Centerhold
 - 4th year Assault student in Burk
 - short wavy auburn hair that's plain, Blue eyes, and Pale Green skin
 - Is Quality and Colorless, and has Fitness as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

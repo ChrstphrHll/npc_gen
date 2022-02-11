@@ -15,7 +15,10 @@ birthday:
   numeric: 8/19
   written: 19th of Ravenent
 origin: Verdain
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Aelisabeth Soliania
@@ -53,6 +56,7 @@ tags:
 - 3rd year Protection student in Burk
 - shoulder length curly blonde hair that's put up, Pale Gray eyes, and Pale Brown skin
 - Is Naughty and Skeptical, and has Entertain as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

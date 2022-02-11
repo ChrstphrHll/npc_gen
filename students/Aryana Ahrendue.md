@@ -14,7 +14,10 @@ birthday:
   numeric: 1/30
   written: 30th of Avanent
 origin: Draconia
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Audree Dixon
@@ -52,6 +55,7 @@ tags:
 - 1st year Protection student in Alderden
 - 5 curled horns, Brown eyes, and white skin
 - Is Youthful and Money-minded, and has Connection as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

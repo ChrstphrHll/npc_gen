@@ -14,7 +14,10 @@ birthday:
   numeric: 3/20
   written: 20th of Melorent
 origin: Verdain
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Coriss Biafyndar
@@ -50,6 +53,7 @@ tags:
 - 5th year Diplomacy student in Fiesn
 - short wavy brunette hair that's put up, Pale Blue eyes, and Pale Blue skin
 - Is Communicative and Ungrateful, and has Home as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

@@ -15,7 +15,10 @@ birthday:
   numeric: 6/18
   written: 18th of Pelent
 origin: Verdain
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Murunay Illfate
@@ -51,6 +54,7 @@ tags:
 - 4th year Protection student in Burk
 - short frizzy white hair that's messy, Hazel eyes, and Pale Green skin
 - Is Political and Stupid, and has Entrepreneurial as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

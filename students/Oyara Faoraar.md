@@ -13,8 +13,11 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 7/25
   written: 25th of Korent
-origin: Kordinia
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Sybasten Simimar
@@ -35,7 +38,7 @@ guild: Elkenval
 partyID: 76
 tags:
 - Halfling
-- Kordinia
+- Aldercrown_Empire
 - Ranger
 - Protection
 - Student
@@ -44,10 +47,11 @@ tags:
 ---
 # Oyara Faoraar
 ### Description
-- Halfling Ranger from Kordinia
+- Halfling Ranger from Aldercrown Empire
 - 4th year Protection student in Elkenval
 - short wavy white hair that's put up, Blue eyes, and Pale skin
 - Is Skeptical and Steely, and has Change as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

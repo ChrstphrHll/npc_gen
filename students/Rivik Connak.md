@@ -16,7 +16,10 @@ birthday:
   numeric: 3/32
   written: 32nd of Melorent
 origin: Whyndiem
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Kessa Keller
@@ -50,6 +53,7 @@ tags:
 - 3rd year Assault student in Elkenval
 - shoulder length wavy auburn hair that's messy, Aqua eyes, and Olive skin
 - Is Hearty and Neutral, and has Humanity as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

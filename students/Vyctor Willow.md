@@ -15,7 +15,10 @@ birthday:
   numeric: 3/11
   written: 11th of Melorent
 origin: Beleriand
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Karl Cauladra
@@ -55,6 +58,7 @@ tags:
 - 6th year Assault student in Treskal
 - long curly brunette hair that's plain, Blue eyes, and Fair skin
 - Is Wise and Inhibited, and has Responsibility as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

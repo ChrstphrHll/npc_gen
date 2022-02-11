@@ -14,8 +14,11 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 3/11
   written: 11th of Melorent
-origin: Magmus Centerhold
-voice: null
+origin: Draconia
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Gina Grandius
@@ -40,7 +43,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Dragonborn
-- Magmus_Centerhold
+- Draconia
 - Druid
 - Exploration
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Ramona Saida
 ### Description
-- Dragonborn Druid from Magmus Centerhold
+- Dragonborn Druid from Draconia
 - 3rd year Exploration student in Alderden
 - 2 barbed horns, Hazel eyes, and green skin
 - Is Predictable and Evil, and has Courage as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

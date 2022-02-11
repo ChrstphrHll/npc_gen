@@ -13,8 +13,11 @@ bond: I entered seclusion because I loved someone I could not have.
 birthday:
   numeric: 5/14
   written: 14th of Iounent
-origin: Magmus Centerhold
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Romen Uldreiyn
@@ -41,7 +44,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Aasimar
-- Magmus_Centerhold
+- Beleriand
 - Fighter
 - Protection
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Tez Bialaer
 ### Description
-- Aasimar Fighter from Magmus Centerhold
+- Aasimar Fighter from Beleriand
 - 8th year Protection student in Fiesn
 - shoulder length wavy brunette hair that's wild, Gray eyes, and Pale skin
 - Is Sharing and Modern, and has Austerity as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

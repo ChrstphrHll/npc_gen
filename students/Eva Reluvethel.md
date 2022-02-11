@@ -16,7 +16,10 @@ birthday:
   numeric: 6/31
   written: 31st of Pelent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Liris Bhyrindaar
@@ -52,6 +55,7 @@ tags:
 - 2nd year Assault student in Fiesn
 - long straight auburn hair that's plain, Pale Brown eyes, and Light skin
 - Is Lucky and Restrained, and has Learning as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

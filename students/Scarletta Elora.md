@@ -15,7 +15,10 @@ birthday:
   numeric: 1/25
   written: 25th of Avanent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Terek Nushala
@@ -51,6 +54,7 @@ tags:
 - 2nd year Protection student in Fiesn
 - short curly dirty blonde hair that's braided, Hazel eyes, and Dark Tan skin
 - Is Cooperative and Devious, and has Patience as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

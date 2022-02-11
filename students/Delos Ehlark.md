@@ -14,7 +14,10 @@ birthday:
   numeric: 2/21
   written: 21st of Corelent
 origin: Draconia
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Pinna Vanius
@@ -52,6 +55,7 @@ tags:
 - 7th year Protection student in Fiesn
 - frills, Deep Blue eyes, and silver skin
 - Is Precise and Condemnatory, and has Family as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

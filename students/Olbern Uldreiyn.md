@@ -14,8 +14,11 @@ bond: I have a family, but I have no idea where they are. One day, I hope to see
 birthday:
   numeric: 6/32
   written: 32nd of Pelent
-origin: Qualnis
-voice: null
+origin: Floating Island
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Connovar Kaminsky
@@ -36,7 +39,7 @@ guild: Treskal
 partyID: 62
 tags:
 - Human
-- Qualnis
+- Floating_Island
 - Sorcerer
 - Assault
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Olbern Uldreiyn
 ### Description
-- Human Sorcerer from Qualnis
+- Human Sorcerer from Floating Island
 - 4th year Assault student in Treskal
 - short straight lighter blonde hair that's put up, Blue eyes, and Pale skin
 - Is Merciful and Stubborn, and has Leadership as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

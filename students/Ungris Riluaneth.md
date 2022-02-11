@@ -14,8 +14,11 @@ bond: Somewhere out there, I have a child who doesn't know me. I'm making the wo
 birthday:
   numeric: 8/19
   written: 19th of Ravenent
-origin: Magmus Centerhold
-voice: null
+origin: Draconia
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Gerrimar Vulkor
@@ -38,7 +41,7 @@ guild: Treskal
 partyID: 63
 tags:
 - Dragonborn
-- Magmus_Centerhold
+- Draconia
 - Cleric
 - Diplomacy
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Ungris Riluaneth
 ### Description
-- Dragonborn Cleric from Magmus Centerhold
+- Dragonborn Cleric from Draconia
 - 5th year Diplomacy student in Treskal
 - 2 curled horns, Deep Blue eyes, and red skin
 - Is Sincere and Cruel, and has Beauty as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

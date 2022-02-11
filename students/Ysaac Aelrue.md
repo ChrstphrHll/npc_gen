@@ -14,8 +14,11 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 2/30
   written: 30th of Corelent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Kordinia
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Nolyn Viska
@@ -40,7 +43,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Halfling
-- Principality_of_the_Palus_Peoples
+- Kordinia
 - Fighter
 - Exploration
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Ysaac Aelrue
 ### Description
-- Halfling Fighter from Principality of the Palus Peoples
+- Halfling Fighter from Kordinia
 - 1st year Exploration student in Treskal
 - shoulder length wavy brunette hair that's plain, Brown eyes, and Light skin
 - Is Respectful and Superstitious, and has Contentment as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

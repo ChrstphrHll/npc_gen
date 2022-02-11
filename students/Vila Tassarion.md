@@ -15,8 +15,11 @@ bond: I created a great work for someone, and then found them unworthy to receiv
 birthday:
   numeric: 3/24
   written: 24th of Melorent
-origin: Aldercrown Empire
-voice: null
+origin: Qualnis
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Julyo Agassi
@@ -41,7 +44,7 @@ guild: Elkenval
 partyID: 47
 tags:
 - Human
-- Aldercrown_Empire
+- Qualnis
 - Bard
 - Diplomacy
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Vila Tassarion
 ### Description
-- Human Bard from Aldercrown Empire
+- Human Bard from Qualnis
 - 5th year Diplomacy student in Elkenval
 - shoulder length straight lighter blonde hair that's messy, Pale Green eyes, and Pale skin
 - Is Educated and Effeminate, and has Power as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

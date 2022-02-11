@@ -15,8 +15,11 @@ bond: Ruthless pirates murdered my captain and crewmates, plundered our ship, an
 birthday:
   numeric: 3/16
   written: 16th of Melorent
-origin: Beleriand
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Eljana Jian
@@ -37,7 +40,7 @@ guild: Fiesn
 partyID: 71
 tags:
 - Elf
-- Beleriand
+- Aldercrown_Empire
 - Ranger
 - Assault
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Asralyn Rhangyl
 ### Description
-- Elf Ranger from Beleriand
+- Elf Ranger from Aldercrown Empire
 - 5th year Assault student in Fiesn
 - long wavy blonde hair that's plain, Pale Blue eyes, and Brown skin
 - Is Magnanimous and Quiet, and has Effectiveness as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

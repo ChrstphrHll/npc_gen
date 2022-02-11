@@ -105,6 +105,13 @@ class Person:
         membership = {"name": org, "type": status}
         self.organizations.append(membership)
 
+    def check_leadership(self):
+        """Returns True if person is a leader of an org"""
+        for dict in self.organizations:
+            if dict["type"] == "Leader":
+                return True
+        return False
+
     def get_md(self):
         all_lines = []
         all_lines.append(f"# {self.name}")
@@ -120,6 +127,7 @@ class Person:
         description.append(f"- {self.race} from {self.origin}")
         description.append(f"- {self.hair}, {self.eyes} eyes, and {self.skin} skin")
         description.append(f"- Is {self.trait1} and {self.trait2}, and has {self.ideal} as their ideal")
+        description.append(f"- Speaks in a {self.voice['weight']}, {self.voice['spacial']}, {self.voice['timing']} manner")
         description.append("")
         return description
 

@@ -13,8 +13,11 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 1/5
   written: 5th of Avanent
-origin: Aldercrown Empire
-voice: null
+origin: Beleriand
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Leya Escobar
@@ -39,7 +42,7 @@ guild: Alderden
 partyID: 24
 tags:
 - Tiefling
-- Aldercrown_Empire
+- Beleriand
 - Monk
 - Exploration
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Gina Grandius
 ### Description
-- Tiefling Monk from Aldercrown Empire
+- Tiefling Monk from Beleriand
 - 3rd year Exploration student in Alderden
 - long straight brunette hair that's wild, Violet Red eyes, and Yellow skin
 - Is Absentminded and Libidinous, and has Endurance as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

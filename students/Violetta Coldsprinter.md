@@ -15,7 +15,10 @@ birthday:
   numeric: 1/9
   written: 9th of Avanent
 origin: Magmus Centerhold
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Abryia Rubrae
@@ -53,6 +56,7 @@ tags:
 - 2nd year Assault student in Burk
 - shoulder length wavy violet hair that's well kept, Amber eyes, and Pale Gray skin
 - Is Original and Naughty, and has Creativity as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

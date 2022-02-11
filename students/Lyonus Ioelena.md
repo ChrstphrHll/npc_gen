@@ -14,8 +14,11 @@ bond: It is my duty to provide children to sustain my tribe.
 birthday:
   numeric: 2/18
   written: 18th of Corelent
-origin: Draconia
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Valygar Lyklor
@@ -38,7 +41,7 @@ guild: Burk
 partyID: 86
 tags:
 - Dragonborn
-- Draconia
+- Beleriand
 - Fighter
 - Assault
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Lyonus Ioelena
 ### Description
-- Dragonborn Fighter from Draconia
+- Dragonborn Fighter from Beleriand
 - 2nd year Assault student in Burk
 - frills, Yellow eyes, and silver skin
 - Is Courteous and Repressed, and has Wealth as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

@@ -14,7 +14,10 @@ birthday:
   numeric: 7/10
   written: 10th of Korent
 origin: Verdain
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Abryia Rubrae
@@ -52,6 +55,7 @@ tags:
 - 2nd year Exploration student in Burk
 - shoulder length wavy dark red hair that's messy, Pale Green eyes, and Pale Green skin
 - Is Heroic and Noncompetitive, and has Cooperation as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

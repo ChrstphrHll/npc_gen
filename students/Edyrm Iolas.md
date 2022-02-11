@@ -13,8 +13,11 @@ bond: A powerful person killed someone I love. Some day soon, I'll have my reven
 birthday:
   numeric: 6/17
   written: 17th of Pelent
-origin: Aldercrown Empire
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Jacus Kosunten
@@ -37,7 +40,7 @@ guild: Burk
 partyID: 57
 tags:
 - Half-Elf
-- Aldercrown_Empire
+- Beleriand
 - Artificer
 - Diplomacy
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Edyrm Iolas
 ### Description
-- Half-Elf Artificer from Aldercrown Empire
+- Half-Elf Artificer from Beleriand
 - 2nd year Diplomacy student in Burk
 - shoulder length curly auburn hair that's wild, Pale Gray eyes, and Light Tan skin
 - Is Seraphic and Unpolished, and has Might as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

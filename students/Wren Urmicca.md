@@ -14,8 +14,11 @@ bond: I sponsor an orphanage to keep others from enduring what I was forced to e
 birthday:
   numeric: 4/2
   written: 2nd of Moradent
-origin: Magmus Centerhold
-voice: null
+origin: Beleriand
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Harperia Winchell
@@ -36,7 +39,7 @@ guild: Elkenval
 partyID: 14
 tags:
 - Half-Orc
-- Magmus_Centerhold
+- Beleriand
 - Monk
 - Protection
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Wren Urmicca
 ### Description
-- Half-Orc Monk from Magmus Centerhold
+- Half-Orc Monk from Beleriand
 - 1st year Protection student in Elkenval
 - short curly strawberry blond hair that's plain, Gray eyes, and Deep Green skin
 - Is Venturesome and Suspicious, and has Righteous as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

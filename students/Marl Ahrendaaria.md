@@ -15,7 +15,10 @@ birthday:
   numeric: 4/27
   written: 27th of Moradent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Puorlaas Anklos
@@ -49,6 +52,7 @@ tags:
 - 2nd year Exploration student in Jettenia
 - long straight lighter blonde hair that's plain, Pale Gray eyes, and Dark Brown skin
 - Is Unpredictable and Progressive, and has People as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

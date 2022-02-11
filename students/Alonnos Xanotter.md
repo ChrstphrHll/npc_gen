@@ -16,8 +16,11 @@ bond: I entered seclusion to hide from the ones who might still be hunting me. I
 birthday:
   numeric: 6/2
   written: 2nd of Pelent
-origin: Beleriand
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Shoulree Letryal
@@ -40,7 +43,7 @@ guild: Elkenval
 partyID: 88
 tags:
 - Tiefling
-- Beleriand
+- Aldercrown_Empire
 - Sorcerer
 - Protection
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Alonnos Xanotter
 ### Description
-- Tiefling Sorcerer from Beleriand
+- Tiefling Sorcerer from Aldercrown Empire
 - 1st year Protection student in Elkenval
 - shoulder length wavy brunette hair that's wild, Spring Green eyes, and Yellow skin
 - Is Folksy and Complex, and has Cooperation as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

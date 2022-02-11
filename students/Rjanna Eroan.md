@@ -16,7 +16,10 @@ birthday:
   numeric: 8/6
   written: 6th of Ravenent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Shinare Bersa
@@ -54,6 +57,7 @@ tags:
 - 1st year Protection student in Fiesn
 - short frizzy auburn hair that's plain, Pale Brown eyes, and Pale Blue skin
 - Is Sentimental and Procrastinating, and has Stoicism as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

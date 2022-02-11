@@ -14,7 +14,10 @@ birthday:
   numeric: 6/20
   written: 20th of Pelent
 origin: Magmus Centerhold
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Kembley Ralnor
@@ -50,6 +53,7 @@ tags:
 - 8th year Assault student in Jettenia
 - shoulder length frizzy turquoise hair that's plain, Brown eyes, and Pale Gray skin
 - Is Persuasive and Timid, and has Finesse as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

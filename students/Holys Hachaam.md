@@ -16,7 +16,10 @@ birthday:
   numeric: 8/26
   written: 26th of Ravenent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Diegon Verrona
@@ -54,6 +57,7 @@ tags:
 - 1st year Assault student in Elkenval
 - short straight brunette hair that's put up, Pale Blue eyes, and Brown skin
 - Is Eloquent and Wishy-washy, and has Hard Work as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

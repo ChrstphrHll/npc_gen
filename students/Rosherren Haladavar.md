@@ -14,8 +14,11 @@ bond: I'm trying to pay off an old debt I owe to a generous benefactor.
 birthday:
   numeric: 6/31
   written: 31st of Pelent
-origin: Chillwild Peaks
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Brinna Muerlara
@@ -40,7 +43,7 @@ guild: Burk
 partyID: 95
 tags:
 - Genasi
-- Chillwild_Peaks
+- Aldercrown_Empire
 - Fighter
 - Protection
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Rosherren Haladavar
 ### Description
-- Genasi Fighter from Chillwild Peaks
+- Genasi Fighter from Aldercrown Empire
 - 1st year Protection student in Burk
 - short straight auburn hair that's messy, Pale Green eyes, and earth skin
 - Is Discerning and Artificial, and has Excitement as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

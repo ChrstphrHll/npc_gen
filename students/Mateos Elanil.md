@@ -15,7 +15,10 @@ birthday:
   numeric: 5/17
   written: 17th of Iounent
 origin: Verdain
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Selina Bellas
@@ -53,6 +56,7 @@ tags:
 - 2nd year Exploration student in Fiesn
 - shoulder length frizzy brunette hair that's plain, Amber eyes, and Dark Tan skin
 - Is Understanding and Neglectful, and has Gratitude as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

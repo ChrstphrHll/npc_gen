@@ -15,8 +15,11 @@ bond: I want to be famous, whatever it takes.
 birthday:
   numeric: 4/28
   written: 28th of Moradent
-origin: Verdain
-voice: null
+origin: Principality of the Palus Peoples
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Ysaac Aelrue
@@ -41,7 +44,7 @@ guild: Treskal
 partyID: 51
 tags:
 - Firbolg
-- Verdain
+- Principality_of_the_Palus_Peoples
 - Cleric
 - Exploration
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Dejana Keller
 ### Description
-- Firbolg Cleric from Verdain
+- Firbolg Cleric from Principality of the Palus Peoples
 - 1st year Exploration student in Treskal
 - short curly lighter blonde hair that's wild, Brown eyes, and Pale Blue skin
 - Is Zealous and Angry, and has Clarity as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

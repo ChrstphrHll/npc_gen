@@ -14,8 +14,11 @@ bond: I'm still seeking the enlightenment I pursued in my seclusion, and it stil
 birthday:
   numeric: 6/17
   written: 17th of Pelent
-origin: Aldercrown Empire
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Tadita Edraele
@@ -40,7 +43,7 @@ guild: Treskal
 partyID: 7
 tags:
 - Half-Elf
-- Aldercrown_Empire
+- Shadesburry_Initiative
 - Artificer
 - Protection
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Robbos Kalaerede
 ### Description
-- Half-Elf Artificer from Aldercrown Empire
+- Half-Elf Artificer from Shadesburry Initiative
 - 4th year Protection student in Treskal
 - shoulder length curly grey hair that's plain, Pale Green eyes, and Tan skin
 - Is Graceful and Driving, and has Spontaneity as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

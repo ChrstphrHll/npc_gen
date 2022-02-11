@@ -14,8 +14,11 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 7/20
   written: 20th of Korent
-origin: Aldercrown Empire
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Ljuk Vulkor
@@ -36,7 +39,7 @@ guild: Elkenval
 partyID: 84
 tags:
 - Dwarf
-- Aldercrown_Empire
+- Beleriand
 - Artificer
 - Diplomacy
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Kanoi Xharlion
 ### Description
-- Dwarf Artificer from Aldercrown Empire
+- Dwarf Artificer from Beleriand
 - 2nd year Diplomacy student in Elkenval
 - shoulder length wavy red hair that's plain, Pale Brown eyes, and Tan skin
 - Is Sarcastic and Odd, and has Professionalism as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

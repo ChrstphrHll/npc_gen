@@ -13,8 +13,11 @@ bond: I owe my survival to another urchin who taught me tolive on the streets.
 birthday:
   numeric: 4/4
   written: 4th of Moradent
-origin: Aldercrown Empire
-voice: null
+origin: Chillwild Peaks
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Brooka Whesker
@@ -39,7 +42,7 @@ guild: Treskal
 partyID: 45
 tags:
 - Half-Orc
-- Aldercrown_Empire
+- Chillwild_Peaks
 - Druid
 - Assault
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Hudsen Elandorr
 ### Description
-- Half-Orc Druid from Aldercrown Empire
+- Half-Orc Druid from Chillwild Peaks
 - 3rd year Assault student in Treskal
 - long wavy strawberry blond hair that's plain, Pale Blue eyes, and Green Blue skin
 - Is Cooperative and Venomous, and has Success as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

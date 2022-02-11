@@ -14,8 +14,11 @@ bond: I will bring terrible wrath down on the evildoers who destroyed my homelan
 birthday:
   numeric: 1/16
   written: 16th of Avanent
-origin: Aldercrown Empire
-voice: null
+origin: Floating Island
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Vyctor Willow
@@ -42,7 +45,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Gnome
-- Aldercrown_Empire
+- Floating_Island
 - Rouge
 - Diplomacy
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Dree Nuala
 ### Description
-- Gnome Rouge from Aldercrown Empire
+- Gnome Rouge from Floating Island
 - 6th year Diplomacy student in Treskal
 - long wavy grey hair that's messy, Amber eyes, and Brown skin
 - Is Unreligious and Big-thinking, and has Stoicism as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

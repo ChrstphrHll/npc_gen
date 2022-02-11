@@ -14,8 +14,11 @@ bond: The gods of my people are a comfort to me so far from home.
 birthday:
   numeric: 4/26
   written: 26th of Moradent
-origin: Shadesburry Initiative
-voice: null
+origin: Floating Island
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Hodus Belt
@@ -40,7 +43,7 @@ guild: Burk
 partyID: 38
 tags:
 - Gnome
-- Shadesburry_Initiative
+- Floating_Island
 - Monk
 - Assault
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Genesys Mhaenal
 ### Description
-- Gnome Monk from Shadesburry Initiative
+- Gnome Monk from Floating Island
 - 1st year Assault student in Burk
 - long curly brunette hair that's plain, Amber eyes, and Dark Brown skin
 - Is Unchanging and Indecisive, and has Prosperity as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

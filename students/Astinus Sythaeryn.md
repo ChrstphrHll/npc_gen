@@ -15,8 +15,11 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 1/2
   written: 2nd of Avanent
-origin: Qualnis
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Hudsen Aluendalee
@@ -37,7 +40,7 @@ guild: Fiesn
 partyID: 37
 tags:
 - Human
-- Qualnis
+- Aldercrown_Empire
 - Bard
 - Protection
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Astinus Sythaeryn
 ### Description
-- Human Bard from Qualnis
+- Human Bard from Aldercrown Empire
 - 4th year Protection student in Fiesn
 - long curly black hair that's messy, Pale Blue eyes, and Brown skin
 - Is Thrifty and Aimless, and has Independence as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

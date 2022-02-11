@@ -14,8 +14,11 @@ bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 3/26
   written: 26th of Melorent
-origin: Beleriand
-voice: null
+origin: Floating Island
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Yan Sorsasta
@@ -40,7 +43,7 @@ guild: Burk
 partyID: 93
 tags:
 - Halfling
-- Beleriand
+- Floating_Island
 - Monk
 - Exploration
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Abryia Rubrae
 ### Description
-- Halfling Monk from Beleriand
+- Halfling Monk from Floating Island
 - 2nd year Exploration student in Burk
 - short frizzy auburn hair that's messy, Green eyes, and Light skin
 - Is Dreamer and Scheming, and has Leadership as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

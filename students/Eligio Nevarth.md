@@ -14,7 +14,10 @@ birthday:
   numeric: 4/1
   written: 1st of Moradent
 origin: Magmus Centerhold
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Q Yulmanda
@@ -50,6 +53,7 @@ tags:
 - 2nd year Diplomacy student in Burk
 - frills, Amber eyes, and brass skin
 - Is Neat and Troublesome, and has Lead by example as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

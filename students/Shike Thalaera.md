@@ -15,7 +15,10 @@ birthday:
   numeric: 3/9
   written: 9th of Melorent
 origin: Draconia
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Hodus Belt
@@ -53,6 +56,7 @@ tags:
 - 1st year Protection student in Burk
 - frills, Deep Blue eyes, and black skin
 - Is Prudent and Mechanical, and has Fun as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

@@ -15,7 +15,10 @@ birthday:
   numeric: 7/15
   written: 15th of Korent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Efjan Andrathath
@@ -51,6 +54,7 @@ tags:
 - 1st year Assault student in Burk
 - shoulder length straight dark red hair that's well kept, Pale Brown eyes, and Dark Tan skin
 - Is Lucky and Hedonistic, and has Cruelty as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

@@ -15,8 +15,11 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 7/31
   written: 31st of Korent
-origin: Beleriand
-voice: null
+origin: Floating Island
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Noam Shields
@@ -41,7 +44,7 @@ guild: Burk
 partyID: 59
 tags:
 - Half-Elf
-- Beleriand
+- Floating_Island
 - Rouge
 - Protection
 - Student
@@ -50,10 +53,11 @@ tags:
 ---
 # Remus Manchul
 ### Description
-- Half-Elf Rouge from Beleriand
+- Half-Elf Rouge from Floating Island
 - 4th year Protection student in Burk
 - long wavy red hair that's plain, Brown eyes, and Dark Brown skin
 - Is Reserved and Strict, and has Perseverance as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

@@ -16,8 +16,11 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 3/17
   written: 17th of Melorent
-origin: Beleriand
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Yakob Lydialeera
@@ -42,7 +45,7 @@ guild: Elkenval
 partyID: 82
 tags:
 - Genasi
-- Beleriand
+- Shadesburry_Initiative
 - Paladin
 - Assault
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Wulfe Galan
 ### Description
-- Genasi Paladin from Beleriand
+- Genasi Paladin from Shadesburry Initiative
 - 1st year Assault student in Elkenval
 - short straight brunette hair that's messy, Emerald Green eyes, and fire skin
 - Is Steadfast and Mellow, and has Vengful as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

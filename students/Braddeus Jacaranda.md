@@ -15,8 +15,11 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 6/19
   written: 19th of Pelent
-origin: Kordinia
-voice: null
+origin: Verdain
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Maarika Oncith
@@ -39,7 +42,7 @@ guild: Fiesn
 partyID: 94
 tags:
 - Halfling
-- Kordinia
+- Verdain
 - Paladin
 - Diplomacy
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Braddeus Jacaranda
 ### Description
-- Halfling Paladin from Kordinia
+- Halfling Paladin from Verdain
 - 3rd year Diplomacy student in Fiesn
 - short wavy strawberry blond hair that's put up, Amber eyes, and Pale skin
 - Is Strong-willed and Pretentious, and has Appreciation as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

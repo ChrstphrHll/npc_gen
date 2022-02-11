@@ -14,8 +14,11 @@ bond: An injury to the unspoiled wilderness of my home is an injury to me.
 birthday:
   numeric: 5/10
   written: 10th of Iounent
-origin: Beleriand
-voice: null
+origin: Chillwild Peaks
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Alonnos Xanotter
@@ -38,7 +41,7 @@ guild: Elkenval
 partyID: 88
 tags:
 - Goliath
-- Beleriand
+- Chillwild_Peaks
 - Paladin
 - Exploration
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Levi Kicklighter
 ### Description
-- Goliath Paladin from Beleriand
+- Goliath Paladin from Chillwild Peaks
 - 1st year Exploration student in Elkenval
 - short straight strawberry blond hair that's plain, Pale Gray eyes, and Fair skin
 - Is Hearty and Airy, and has Compassion as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

@@ -15,7 +15,10 @@ birthday:
   numeric: 2/5
   written: 5th of Corelent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Jendrellian Webb
@@ -51,6 +54,7 @@ tags:
 - 1st year Diplomacy student in Elkenval
 - shoulder length straight red hair that's messy, Blue eyes, and Pale skin
 - Is Sweet and Wicked, and has Fun as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

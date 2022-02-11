@@ -14,7 +14,10 @@ birthday:
   numeric: 7/33
   written: 33rd of Korent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Abryia Rubrae
@@ -52,6 +55,7 @@ tags:
 - 2nd year Diplomacy student in Burk
 - shoulder length wavy grey hair that's braided, Brown eyes, and Pale skin
 - Is Adventurous and Pretentious, and has Reciprocity as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

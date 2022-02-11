@@ -15,8 +15,11 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 6/2
   written: 2nd of Pelent
-origin: Qualnis
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Jaris Amlaruil
@@ -39,7 +42,7 @@ guild: Jettenia
 partyID: 10
 tags:
 - Gnome
-- Qualnis
+- Shadesburry_Initiative
 - Artificer
 - Exploration
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Jareth Tanseril
 ### Description
-- Gnome Artificer from Qualnis
+- Gnome Artificer from Shadesburry Initiative
 - 7th year Exploration student in Jettenia
 - shoulder length straight white hair that's well kept, Blue eyes, and Light skin
 - Is Sage and Unreliable, and has Learning as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

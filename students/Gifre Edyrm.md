@@ -14,7 +14,10 @@ birthday:
   numeric: 2/22
   written: 22nd of Corelent
 origin: Magmus Centerhold
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Lenn Schimae
@@ -52,6 +55,7 @@ tags:
 - 6th year Exploration student in Treskal
 - short curly black hair that's plain, Amber eyes, and Dark Brown skin
 - Is Moralistic and Angry, and has Humane as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

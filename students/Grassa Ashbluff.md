@@ -15,8 +15,11 @@ bond: So long as I have this token from my homeland, I can face any adversity in
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
-origin: Aldercrown Empire
-voice: null
+origin: Beleriand
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Braidyn Kemetra
@@ -39,7 +42,7 @@ guild: Fiesn
 partyID: 25
 tags:
 - Dwarf
-- Aldercrown_Empire
+- Beleriand
 - Artificer
 - Protection
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Grassa Ashbluff
 ### Description
-- Dwarf Artificer from Aldercrown Empire
+- Dwarf Artificer from Beleriand
 - 7th year Protection student in Fiesn
 - long straight brunette hair that's well kept, Gray eyes, and Light skin
 - Is Thrilling and Arrogant, and has Professionalism as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

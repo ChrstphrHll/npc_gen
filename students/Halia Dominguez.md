@@ -16,8 +16,11 @@ bond: I fleeced the wrong person and must work to ensure that this individual ne
 birthday:
   numeric: 3/22
   written: 22nd of Melorent
-origin: Glasscliff Garisons
-voice: null
+origin: Whyndiem
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Jess Beebe
@@ -40,7 +43,7 @@ guild: Fiesn
 partyID: 98
 tags:
 - Triton
-- Glasscliff_Garisons
+- Whyndiem
 - Paladin
 - Protection
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Halia Dominguez
 ### Description
-- Triton Paladin from Glasscliff Garisons
+- Triton Paladin from Whyndiem
 - 3rd year Protection student in Fiesn
 - long straight dark red hair that's plain, Purple eyes, and Emerald Green skin
 - Is Earthy and Unfriendly, and has Learning as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

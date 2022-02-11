@@ -14,8 +14,11 @@ bond: I owe a debt I can never repay to the person who took pity on me.
 birthday:
   numeric: 8/12
   written: 12th of Ravenent
-origin: Beleriand
-voice: null
+origin: Kordinia
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Moki Aelynthi
@@ -38,7 +41,7 @@ guild: Burk
 partyID: 29
 tags:
 - Halfling
-- Beleriand
+- Kordinia
 - Wizard
 - Diplomacy
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Ezekius Chalsarda
 ### Description
-- Halfling Wizard from Beleriand
+- Halfling Wizard from Kordinia
 - 6th year Diplomacy student in Burk
 - long curly auburn hair that's messy, Pale Brown eyes, and Light skin
 - Is Magnanimous and Excitable, and has Cunning as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

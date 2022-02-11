@@ -13,8 +13,11 @@ bond: I've been searching my whole life for the answer to a certain question.
 birthday:
   numeric: 1/10
   written: 10th of Avanent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Verdain
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Aelisabeth Soliania
@@ -39,7 +42,7 @@ guild: Burk
 partyID: 9
 tags:
 - Firbolg
-- Principality_of_the_Palus_Peoples
+- Verdain
 - Bard
 - Exploration
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Elia Veluthil
 ### Description
-- Firbolg Bard from Principality of the Palus Peoples
+- Firbolg Bard from Verdain
 - 3rd year Exploration student in Burk
 - shoulder length straight pink hair that's braided, Pale Blue eyes, and Pale Green skin
 - Is Charming and Unhurried, and has Perseverance as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

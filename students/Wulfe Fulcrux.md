@@ -14,7 +14,10 @@ birthday:
   numeric: 5/7
   written: 7th of Iounent
 origin: Verdain
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Faliah Oluevaera
@@ -48,6 +51,7 @@ tags:
 - 8th year Assault student in Elkenval
 - shoulder length wavy strawberry blond hair that's plain, Hazel eyes, and Pale Brown skin
 - Is Courteous and Deceptive, and has Personal Development as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

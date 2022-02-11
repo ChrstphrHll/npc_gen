@@ -14,7 +14,10 @@ birthday:
   numeric: 5/1
   written: 1st of Iounent
 origin: Magmus Centerhold
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Matto Divya
@@ -54,6 +57,7 @@ tags:
 - 1st year Assault student in Jettenia
 - short spines, Violet Red eyes, and silver skin
 - Is Disciplined and Narrow-minded, and has Renewal as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

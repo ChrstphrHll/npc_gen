@@ -14,8 +14,11 @@ bond: I will become the greatest thief that ever lived.
 birthday:
   numeric: 3/32
   written: 32nd of Melorent
-origin: Magmus Centerhold
-voice: null
+origin: Qualnis
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Rivik Connak
@@ -36,7 +39,7 @@ guild: Elkenval
 partyID: 30
 tags:
 - Human
-- Magmus_Centerhold
+- Qualnis
 - Ranger
 - Assault
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Kessa Keller
 ### Description
-- Human Ranger from Magmus Centerhold
+- Human Ranger from Qualnis
 - 3rd year Assault student in Elkenval
 - long straight strawberry blond hair that's plain, Hazel eyes, and Tan skin
 - Is Enigmatic and Regretful, and has Integrity as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

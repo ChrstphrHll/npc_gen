@@ -15,7 +15,10 @@ birthday:
   numeric: 4/3
   written: 3rd of Moradent
 origin: Verdain
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Adrjia Lysanthir
@@ -55,6 +58,7 @@ tags:
 - 1st year Assault student in Treskal
 - shoulder length curly auburn hair that's braided, Green eyes, and Pale Brown skin
 - Is Dynamic and Modern, and has Competition as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

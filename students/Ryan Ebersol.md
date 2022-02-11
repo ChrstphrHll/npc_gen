@@ -13,8 +13,11 @@ bond: My isolation gave me great insight into a great evil that only I can destr
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Draconia
-voice: null
+origin: Verdain
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Pinna Vanius
@@ -39,7 +42,7 @@ guild: Fiesn
 partyID: 89
 tags:
 - Dragonborn
-- Draconia
+- Verdain
 - Sorcerer
 - Assault
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Ryan Ebersol
 ### Description
-- Dragonborn Sorcerer from Draconia
+- Dragonborn Sorcerer from Verdain
 - 7th year Assault student in Fiesn
 - 5 jagged horns, Emerald Green eyes, and green skin
 - Is Plain and Immature, and has Intuition as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

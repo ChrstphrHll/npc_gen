@@ -14,8 +14,11 @@ bond: I was cheated out of my fair share of the profits, and I want to get my du
 birthday:
   numeric: 2/3
   written: 3rd of Corelent
-origin: Beleriand
-voice: null
+origin: Shadesburry Initiative
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Vyctor Willow
@@ -42,7 +45,7 @@ guild: Treskal
 partyID: 58
 tags:
 - Gnome
-- Beleriand
+- Shadesburry_Initiative
 - Rouge
 - Protection
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Karl Cauladra
 ### Description
-- Gnome Rouge from Beleriand
+- Gnome Rouge from Shadesburry Initiative
 - 6th year Protection student in Treskal
 - shoulder length wavy auburn hair that's braided, Gray eyes, and Pale skin
 - Is Incorruptible and Self-centered, and has Teamwork as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

@@ -14,8 +14,11 @@ bond: The common folk must see me as a hero of the people.
 birthday:
   numeric: 5/26
   written: 26th of Iounent
-origin: Aldercrown Empire
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Leah Faelar
@@ -40,7 +43,7 @@ guild: Treskal
 partyID: 17
 tags:
 - Tiefling
-- Aldercrown_Empire
+- Beleriand
 - Ranger
 - Diplomacy
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Tilo Connak
 ### Description
-- Tiefling Ranger from Aldercrown Empire
+- Tiefling Ranger from Beleriand
 - 1st year Diplomacy student in Treskal
 - short straight blue hair that's messy, Pale Brown eyes, and Olive skin
 - Is Gritty and Modern, and has Humane as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

@@ -14,8 +14,11 @@ bond: Though I had no choice, I lament having to leave my loved one(s) behind. I
 birthday:
   numeric: 1/22
   written: 22nd of Avanent
-origin: Aldercrown Empire
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Romen Uldreiyn
@@ -42,7 +45,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Half-Orc
-- Aldercrown_Empire
+- Beleriand
 - Paladin
 - Exploration
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Brahm Delmuth
 ### Description
-- Half-Orc Paladin from Aldercrown Empire
+- Half-Orc Paladin from Beleriand
 - 8th year Exploration student in Fiesn
 - short frizzy green hair that's messy, Pale Blue eyes, and Pale Green skin
 - Is Exuberant and Conservative, and has Stoicism as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

@@ -15,8 +15,11 @@ bond: A proud noble once gave me a horrible beating, and I will take my revenge 
 birthday:
   numeric: 4/19
   written: 19th of Moradent
-origin: Shadesburry Initiative
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Alyx Nopos
@@ -37,7 +40,7 @@ guild: Fiesn
 partyID: 87
 tags:
 - Gnome
-- Shadesburry_Initiative
+- Aldercrown_Empire
 - Wizard
 - Diplomacy
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Asten Alavara
 ### Description
-- Gnome Wizard from Shadesburry Initiative
+- Gnome Wizard from Aldercrown Empire
 - 6th year Diplomacy student in Fiesn
 - shoulder length straight white hair that's plain, Pale Brown eyes, and Light Tan skin
 - Is Mellow and Oppressed, and has Integrity as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

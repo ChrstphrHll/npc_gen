@@ -14,8 +14,11 @@ bond: My family, clan, or tribe is the most important thing in my life, even whe
 birthday:
   numeric: 4/20
   written: 20th of Moradent
-origin: Aldercrown Empire
-voice: null
+origin: Principality of the Palus Peoples
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Romen Uldreiyn
@@ -42,7 +45,7 @@ guild: Fiesn
 partyID: 79
 tags:
 - Elf
-- Aldercrown_Empire
+- Principality_of_the_Palus_Peoples
 - Barbarian
 - Assault
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Rianna Belt
 ### Description
-- Elf Barbarian from Aldercrown Empire
+- Elf Barbarian from Principality of the Palus Peoples
 - 8th year Assault student in Fiesn
 - short straight black hair that's plain, Pale Brown eyes, and Brown skin
 - Is Thrifty and Repugnant, and has Excitement as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

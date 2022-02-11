@@ -14,8 +14,11 @@ bond: I come from a noble family, and one day I'll reclaim my lands and title fr
 birthday:
   numeric: 4/14
   written: 14th of Moradent
-origin: Verdain
-voice: null
+origin: Qualnis
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Jandar Pleufan
@@ -42,7 +45,7 @@ guild: Elkenval
 partyID: 91
 tags:
 - Human
-- Verdain
+- Qualnis
 - Druid
 - Assault
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Kimbera Alerathla
 ### Description
-- Human Druid from Verdain
+- Human Druid from Qualnis
 - 1st year Assault student in Elkenval
 - long straight black hair that's plain, Hazel eyes, and Dark Tan skin
 - Is Objective and Mannered, and has Independence as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

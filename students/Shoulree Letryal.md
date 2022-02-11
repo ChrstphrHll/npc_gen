@@ -15,8 +15,11 @@ bond: I will do anything to protect the temple where I served.
 birthday:
   numeric: 7/16
   written: 16th of Korent
-origin: Aldercrown Empire
-voice: null
+origin: Principality of the Palus Peoples
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Alonnos Xanotter
@@ -39,7 +42,7 @@ guild: Elkenval
 partyID: 88
 tags:
 - Tiefling
-- Aldercrown_Empire
+- Principality_of_the_Palus_Peoples
 - Monk
 - Diplomacy
 - Student
@@ -48,10 +51,11 @@ tags:
 ---
 # Shoulree Letryal
 ### Description
-- Tiefling Monk from Aldercrown Empire
+- Tiefling Monk from Principality of the Palus Peoples
 - 1st year Diplomacy student in Elkenval
 - long straight platinum hair that's plain, Emerald Green eyes, and Olive skin
 - Is Insistent and Solemn, and has Self-Fulfillment as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

@@ -14,7 +14,10 @@ birthday:
   numeric: 1/30
   written: 30th of Avanent
 origin: Draconia
-voice: null
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Braddeus Jacaranda
@@ -50,6 +53,7 @@ tags:
 - 3rd year Protection student in Fiesn
 - frills, Deep Blue eyes, and red skin
 - Is Tractable and Naughty, and has Community as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

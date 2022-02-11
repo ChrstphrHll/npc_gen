@@ -14,8 +14,11 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 4/8
   written: 8th of Moradent
-origin: Qualnis
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Ian Averescu
@@ -36,7 +39,7 @@ guild: Alderden
 partyID: 52
 tags:
 - Human
-- Qualnis
+- Aldercrown_Empire
 - Cleric
 - Diplomacy
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Hartwen Galaeron
 ### Description
-- Human Cleric from Qualnis
+- Human Cleric from Aldercrown Empire
 - 2nd year Diplomacy student in Alderden
 - short wavy green hair that's plain, Pale Blue eyes, and Fair skin
 - Is Plain and Childish, and has Involvement as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

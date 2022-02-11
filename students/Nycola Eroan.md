@@ -16,8 +16,11 @@ bond: One day I will return to my guild and prove that I am the greatest artisan
 birthday:
   numeric: 6/32
   written: 32nd of Pelent
-origin: Draconia
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Aniari Arlayna
@@ -40,7 +43,7 @@ guild: Elkenval
 partyID: 77
 tags:
 - Dragonborn
-- Draconia
+- Aldercrown_Empire
 - Bard
 - Protection
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Nycola Eroan
 ### Description
-- Dragonborn Bard from Draconia
+- Dragonborn Bard from Aldercrown Empire
 - 1st year Protection student in Elkenval
 - long spines, Amber eyes, and copper skin
 - Is Frank and Cruel, and has Creativity as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

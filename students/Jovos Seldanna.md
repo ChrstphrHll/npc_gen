@@ -14,8 +14,11 @@ bond: It is my duty to protect my students.
 birthday:
   numeric: 3/23
   written: 23rd of Melorent
-origin: Beleriand
-voice: null
+origin: Qualnis
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Railyn Retenia
@@ -40,7 +43,7 @@ guild: Jettenia
 partyID: 28
 tags:
 - Half-Elf
-- Beleriand
+- Qualnis
 - Paladin
 - Assault
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Jovos Seldanna
 ### Description
-- Half-Elf Paladin from Beleriand
+- Half-Elf Paladin from Qualnis
 - 3rd year Assault student in Jettenia
 - shoulder length straight dirty blonde hair that's braided, Brown eyes, and Light Tan skin
 - Is Suave and Crude, and has Peace as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

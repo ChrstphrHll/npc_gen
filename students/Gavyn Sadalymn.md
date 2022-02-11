@@ -14,8 +14,11 @@ bond: I protect those who cannot protect themselves.
 birthday:
   numeric: 4/14
   written: 14th of Moradent
-origin: Qualnis
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Kloya Kershaw
@@ -38,7 +41,7 @@ guild: Jettenia
 partyID: 97
 tags:
 - Human
-- Qualnis
+- Beleriand
 - Ranger
 - Diplomacy
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Gavyn Sadalymn
 ### Description
-- Human Ranger from Qualnis
+- Human Ranger from Beleriand
 - 5th year Diplomacy student in Jettenia
 - shoulder length wavy platinum hair that's messy, Hazel eyes, and Light Tan skin
 - Is Efficient and Retiring, and has Nature as their ideal
+- Speaks in a light, indirect, sustained manner
 
 ### Notes
 

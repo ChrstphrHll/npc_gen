@@ -36,6 +36,8 @@ class Student(Person):
         all_lines.append(f"- {sfx.suffixify_number(self.year)} year {self.track} student in {self.guild}")
         all_lines.append(f"- {self.hair}, {self.eyes} eyes, and {self.skin} skin")
         all_lines.append(f"- Is {self.trait1} and {self.trait2}, and has {self.ideal} as their ideal")
+        all_lines.append(f"- Speaks in a {self.voice['weight']}, {self.voice['spacial']}, {self.voice['timing']} manner")
+
         all_lines.append("")
 
         all_lines.extend(self.readable_notes())

@@ -13,8 +13,11 @@ bond: I would do anything for the other members of my old troupe.
 birthday:
   numeric: 4/19
   written: 19th of Moradent
-origin: Magmus Centerhold
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Kymber Korrigash
@@ -37,7 +40,7 @@ guild: Jettenia
 partyID: 33
 tags:
 - Dwarf
-- Magmus_Centerhold
+- Aldercrown_Empire
 - Paladin
 - Exploration
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Gormoth Shyrrik
 ### Description
-- Dwarf Paladin from Magmus Centerhold
+- Dwarf Paladin from Aldercrown Empire
 - 2nd year Exploration student in Jettenia
 - long straight white hair that's plain, Brown eyes, and Pale skin
 - Is Lucky and Finicky, and has Spiritualism as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

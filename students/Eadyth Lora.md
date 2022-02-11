@@ -15,7 +15,10 @@ birthday:
   numeric: 3/25
   written: 25th of Melorent
 origin: Chillwild Peaks
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Ruby Kythaela
@@ -51,6 +54,7 @@ tags:
 - 2nd year Protection student in Jettenia
 - long straight dirty blonde hair that's plain, Blue eyes, and Light skin
 - Is Feisty and Iconoclastic, and has Contentment as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

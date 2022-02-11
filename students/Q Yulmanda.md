@@ -13,8 +13,11 @@ bond: In a harbor town, I have a paramour whose eyes nearly stole me from the se
 birthday:
   numeric: 7/19
   written: 19th of Korent
-origin: Aldercrown Empire
-voice: null
+origin: Verdain
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Eligio Nevarth
@@ -37,7 +40,7 @@ guild: Burk
 partyID: 65
 tags:
 - Tiefling
-- Aldercrown_Empire
+- Verdain
 - Barbarian
 - Exploration
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Q Yulmanda
 ### Description
-- Tiefling Barbarian from Aldercrown Empire
+- Tiefling Barbarian from Verdain
 - 2nd year Exploration student in Burk
 - long curly violet hair that's plain, Gray eyes, and Dark Red skin
 - Is Appreciative and Mystical, and has Security as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

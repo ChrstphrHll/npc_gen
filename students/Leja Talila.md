@@ -15,7 +15,10 @@ birthday:
   numeric: 1/13
   written: 13th of Avanent
 origin: Beleriand
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Natalia Endo
@@ -49,6 +52,7 @@ tags:
 - 3rd year Diplomacy student in Burk
 - short curly violet hair that's plain, Hazel eyes, and Fair skin
 - Is Upright and Monstrous, and has Prosperity as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

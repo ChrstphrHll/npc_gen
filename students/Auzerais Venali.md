@@ -14,8 +14,11 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 6/19
   written: 19th of Pelent
-origin: Chillwild Peaks
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Bera Cauladra
@@ -36,7 +39,7 @@ guild: Elkenval
 partyID: 23
 tags:
 - Dwarf
-- Chillwild_Peaks
+- Aldercrown_Empire
 - Rouge
 - Exploration
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Auzerais Venali
 ### Description
-- Dwarf Rouge from Chillwild Peaks
+- Dwarf Rouge from Aldercrown Empire
 - 4th year Exploration student in Elkenval
 - long wavy brunette hair that's plain, Hazel eyes, and Dark Brown skin
 - Is Unhurried and Neurotic, and has Pessimism as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

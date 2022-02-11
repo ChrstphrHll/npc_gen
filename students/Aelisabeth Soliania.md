@@ -16,8 +16,11 @@ bond: My freedom is my most precious possession. I'll never let anyone take it f
 birthday:
   numeric: 7/30
   written: 30th of Korent
-origin: Kordinia
-voice: null
+origin: Verdain
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Elia Veluthil
@@ -42,7 +45,7 @@ guild: Burk
 partyID: 9
 tags:
 - Halfling
-- Kordinia
+- Verdain
 - Barbarian
 - Assault
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Aelisabeth Soliania
 ### Description
-- Halfling Barbarian from Kordinia
+- Halfling Barbarian from Verdain
 - 3rd year Assault student in Burk
 - long straight white hair that's plain, Hazel eyes, and Light Tan skin
 - Is Vivacious and Artificial, and has Pessimism as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

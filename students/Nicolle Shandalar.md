@@ -16,7 +16,10 @@ birthday:
   numeric: 4/3
   written: 3rd of Moradent
 origin: Whyndiem
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Wulfe Galan
@@ -54,6 +57,7 @@ tags:
 - 1st year Assault student in Elkenval
 - long wavy dirty blonde hair that's plain, Green eyes, and Sea Green skin
 - Is Upright and Opinionated, and has Contributing as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

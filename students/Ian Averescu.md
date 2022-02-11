@@ -14,7 +14,10 @@ birthday:
   numeric: 5/7
   written: 7th of Iounent
 origin: Draconia
-voice: null
+voice:
+  weight: light
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Hartwen Galaeron
@@ -48,6 +51,7 @@ tags:
 - 2nd year Assault student in Alderden
 - frills, Amber eyes, and black skin
 - Is Imaginative and Extreme, and has Loyalty as their ideal
+- Speaks in a light, indirect, sudden manner
 
 ### Notes
 

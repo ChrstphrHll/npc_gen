@@ -14,7 +14,10 @@ birthday:
   numeric: 1/21
   written: 21st of Avanent
 origin: Glasscliff Garisons
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sudden
 relevance: 0
 relationships:
 - name: Skalanis Kobayashi
@@ -52,6 +55,7 @@ tags:
 - 6th year Assault student in Jettenia
 - shoulder length wavy lighter blonde hair that's plain, Pale Brown eyes, and Aqua skin
 - Is Objective and Sensual, and has Generosity as their ideal
+- Speaks in a strong, indirect, sudden manner
 
 ### Notes
 

@@ -15,7 +15,10 @@ birthday:
   numeric: 7/23
   written: 23rd of Korent
 origin: Whyndiem
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Hazel Traeliorn
@@ -49,6 +52,7 @@ tags:
 - 1st year Protection student in Burk
 - short curly grey hair that's plain, Pale Blue eyes, and Emerald Green skin
 - Is Risk-taking and Irresponsible, and has Greed as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

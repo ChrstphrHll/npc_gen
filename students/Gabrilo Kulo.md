@@ -14,8 +14,11 @@ bond: I have an ancient text that holds terrible secrets that must not fall into
 birthday:
   numeric: 7/26
   written: 26th of Korent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Magmus Centerhold
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Mya Nelaeryn
@@ -42,7 +45,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Half-Orc
-- Principality_of_the_Palus_Peoples
+- Magmus_Centerhold
 - Cleric
 - Diplomacy
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Gabrilo Kulo
 ### Description
-- Half-Orc Cleric from Principality of the Palus Peoples
+- Half-Orc Cleric from Magmus Centerhold
 - 2nd year Diplomacy student in Elkenval
 - long wavy auburn hair that's plain, Gray eyes, and Pale Green skin
 - Is Easygoing and Profligate, and has Intelligence as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

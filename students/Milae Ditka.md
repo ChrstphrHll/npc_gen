@@ -14,8 +14,11 @@ bond: I would still lay down my life for the people I served with.
 birthday:
   numeric: 2/19
   written: 19th of Corelent
-origin: Draconia
-voice: null
+origin: Beleriand
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Juppar Kershaw
@@ -38,7 +41,7 @@ guild: Jettenia
 partyID: 66
 tags:
 - Dragonborn
-- Draconia
+- Beleriand
 - Sorcerer
 - Protection
 - Student
@@ -47,10 +50,11 @@ tags:
 ---
 # Milae Ditka
 ### Description
-- Dragonborn Sorcerer from Draconia
+- Dragonborn Sorcerer from Beleriand
 - 1st year Protection student in Jettenia
 - 2 straight horns, Violet Red eyes, and blue skin
 - Is Undemanding and Cruel, and has Self-Respect as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

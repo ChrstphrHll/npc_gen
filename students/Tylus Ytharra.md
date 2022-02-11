@@ -14,8 +14,11 @@ bond: Nothing is more important than the other members of my family.
 birthday:
   numeric: 6/32
   written: 32nd of Pelent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Kordinia
+voice:
+  weight: strong
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Gabrilo Kulo
@@ -42,7 +45,7 @@ guild: Elkenval
 partyID: 22
 tags:
 - Tiefling
-- Principality_of_the_Palus_Peoples
+- Kordinia
 - Monk
 - Diplomacy
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Tylus Ytharra
 ### Description
-- Tiefling Monk from Principality of the Palus Peoples
+- Tiefling Monk from Kordinia
 - 2nd year Diplomacy student in Elkenval
 - long straight black hair that's plain, Yellow eyes, and Pale Brown skin
 - Is Freewheeling and Conforming, and has Learning as their ideal
+- Speaks in a strong, direct, sustained manner
 
 ### Notes
 

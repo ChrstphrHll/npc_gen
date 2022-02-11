@@ -14,8 +14,11 @@ bond: I will get revenge on the evil forces that destroyed my place of business 
 birthday:
   numeric: 5/22
   written: 22nd of Iounent
-origin: Whyndiem
-voice: null
+origin: Beleriand
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Den Ualair
@@ -36,7 +39,7 @@ guild: Treskal
 partyID: 8
 tags:
 - Triton
-- Whyndiem
+- Beleriand
 - Barbarian
 - Protection
 - Student
@@ -45,10 +48,11 @@ tags:
 ---
 # Ilksal Immianthe
 ### Description
-- Triton Barbarian from Whyndiem
+- Triton Barbarian from Beleriand
 - 3rd year Protection student in Treskal
 - long curly platinum hair that's messy, Blue eyes, and Pale Green skin
 - Is Friendly and Shy, and has Spiritualism as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

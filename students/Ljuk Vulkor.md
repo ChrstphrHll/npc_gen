@@ -13,8 +13,11 @@ bond: The ship is most important- crewmates and captains come and go.
 birthday:
   numeric: 1/15
   written: 15th of Avanent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Aldercrown Empire
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Kanoi Xharlion
@@ -35,7 +38,7 @@ guild: Elkenval
 partyID: 84
 tags:
 - Dwarf
-- Principality_of_the_Palus_Peoples
+- Aldercrown_Empire
 - Sorcerer
 - Assault
 - Student
@@ -44,10 +47,11 @@ tags:
 ---
 # Ljuk Vulkor
 ### Description
-- Dwarf Sorcerer from Principality of the Palus Peoples
+- Dwarf Sorcerer from Aldercrown Empire
 - 2nd year Assault student in Elkenval
 - shoulder length frizzy white hair that's plain, Pale Green eyes, and Tan skin
 - Is Mystical and Negligent, and has Teamwork as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

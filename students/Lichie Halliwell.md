@@ -15,7 +15,10 @@ birthday:
   numeric: 4/11
   written: 11th of Moradent
 origin: Chillwild Peaks
-voice: null
+voice:
+  weight: strong
+  spacial: indirect
+  timing: sustained
 relevance: 0
 relationships:
 - name: Wulfe Galan
@@ -53,6 +56,7 @@ tags:
 - 1st year Assault student in Elkenval
 - short straight strawberry blond hair that's put up, Gray eyes, and Fair skin
 - Is Accessible and Intemperate, and has Patience as their ideal
+- Speaks in a strong, indirect, sustained manner
 
 ### Notes
 

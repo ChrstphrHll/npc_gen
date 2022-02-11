@@ -15,7 +15,10 @@ birthday:
   numeric: 5/26
   written: 26th of Iounent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sustained
 relevance: 0
 relationships:
 - name: Lyonus Ioelena
@@ -51,6 +54,7 @@ tags:
 - 2nd year Protection student in Burk
 - shoulder length curly brunette hair that's put up, Pale Blue eyes, and Pale Green skin
 - Is Invulnerable and Assertive, and has Responsibility as their ideal
+- Speaks in a light, direct, sustained manner
 
 ### Notes
 

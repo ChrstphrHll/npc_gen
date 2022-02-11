@@ -14,7 +14,10 @@ birthday:
   numeric: 8/8
   written: 8th of Ravenent
 origin: Shadesburry Initiative
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Isaias Vaalyun
@@ -50,6 +53,7 @@ tags:
 - 2nd year Assault student in Burk
 - long frizzy brunette hair that's braided, Pale Blue eyes, and Brown skin
 - Is Hospitable and Sly, and has Righteous as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

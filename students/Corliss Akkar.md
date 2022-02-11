@@ -13,8 +13,11 @@ bond: I wish my childhood sweetheart had come with me to pursue my destiny.
 birthday:
   numeric: 6/32
   written: 32nd of Pelent
-origin: Magmus Centerhold
-voice: null
+origin: Qualnis
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Lynx Galather
@@ -37,7 +40,7 @@ guild: Burk
 partyID: 72
 tags:
 - Half-Orc
-- Magmus_Centerhold
+- Qualnis
 - Rouge
 - Exploration
 - Student
@@ -46,10 +49,11 @@ tags:
 ---
 # Corliss Akkar
 ### Description
-- Half-Orc Rouge from Magmus Centerhold
+- Half-Orc Rouge from Qualnis
 - 1st year Exploration student in Burk
 - short straight brunette hair that's well kept, Hazel eyes, and Deep Green skin
 - Is Sneaky and Hidebound, and has Self-Fulfillment as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

@@ -14,7 +14,10 @@ birthday:
   numeric: 2/1
   written: 1st of Corelent
 origin: Aldercrown Empire
-voice: null
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Hanna Arkhun
@@ -50,6 +53,7 @@ tags:
 - 1st year Assault student in Treskal
 - long curly grey hair that's plain, Blue eyes, and Fair skin
 - Is Idiosyncratic and Overimaginative, and has Religion as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 

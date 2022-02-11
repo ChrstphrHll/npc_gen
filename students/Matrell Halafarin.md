@@ -14,8 +14,11 @@ bond: My loyalty to my sovereign is unwavering.
 birthday:
   numeric: 2/19
   written: 19th of Corelent
-origin: Principality of the Palus Peoples
-voice: null
+origin: Qualnis
+voice:
+  weight: strong
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Giacomo Edraele
@@ -40,7 +43,7 @@ guild: Treskal
 partyID: 3
 tags:
 - Aasimar
-- Principality_of_the_Palus_Peoples
+- Qualnis
 - Artificer
 - Assault
 - Student
@@ -49,10 +52,11 @@ tags:
 ---
 # Matrell Halafarin
 ### Description
-- Aasimar Artificer from Principality of the Palus Peoples
+- Aasimar Artificer from Qualnis
 - 2nd year Assault student in Treskal
 - long curly red hair that's well kept, Pale Gray eyes, and Dark Brown skin
 - Is Mischievous and Repentant, and has Abundance as their ideal
+- Speaks in a strong, direct, sudden manner
 
 ### Notes
 

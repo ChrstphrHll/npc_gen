@@ -14,8 +14,11 @@ bond: My instrument is my most treasured possession, and it reminds me of someon
 birthday:
   numeric: 1/25
   written: 25th of Avanent
-origin: Aldercrown Empire
-voice: null
+origin: Beleriand
+voice:
+  weight: light
+  spacial: direct
+  timing: sudden
 relevance: 0
 relationships:
 - name: Matos Mektal
@@ -42,7 +45,7 @@ guild: Jettenia
 partyID: 35
 tags:
 - Tiefling
-- Aldercrown_Empire
+- Beleriand
 - Wizard
 - Diplomacy
 - Student
@@ -51,10 +54,11 @@ tags:
 ---
 # Ivistra Stockton
 ### Description
-- Tiefling Wizard from Aldercrown Empire
+- Tiefling Wizard from Beleriand
 - 5th year Diplomacy student in Jettenia
 - shoulder length wavy dirty blonde hair that's plain, Green eyes, and Pale Yellow skin
 - Is Mellow and Single-minded, and has Exceptionalism as their ideal
+- Speaks in a light, direct, sudden manner
 
 ### Notes
 
