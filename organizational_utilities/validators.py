@@ -1,6 +1,6 @@
 import random
-from student import Student
-from person import Person
+from Student import Student
+from Person import Person
 
 def degree_of_success(degree, func):
     """Given a degree and a function, will return True degree% of the time

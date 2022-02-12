@@ -1,5 +1,5 @@
 import json, random 
-from student import Student
+from Student import Student
 
 def create_students(visualized = False):
     ##Read in list of finalized names

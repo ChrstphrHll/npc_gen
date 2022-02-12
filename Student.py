@@ -1,4 +1,4 @@
-from person import Person
+from Person import Person
 import roll_tables.specification_tables as spec_gen
 import roll_tables.stat_tables as stat_gen
 import  data.number_suffix as sfx

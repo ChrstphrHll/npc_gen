@@ -2,7 +2,7 @@ from os import listdir, getcwd
 from os.path import isfile, join
 import yaml, re
 
-from student import Student
+from Student import Student
 
 ###Returns a list of all the files in a target directory
 def get_files(relative_directory = ''):
