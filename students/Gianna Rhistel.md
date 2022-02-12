@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Cirvlon Elpaerae
   type: partymate
-organizations: []
+organizations:
+- name: Inner Circle Judges
+  type: Member
+- name: Spellweavers
+  type: Member
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Protection
 spec: Druid
@@ -43,6 +49,9 @@ partyID: 73
 tags:
 - Tiefling
 - Magmus_Centerhold
+- Inner_Circle_Judges
+- Spellweavers
+- Inventors_Initiative
 - Druid
 - Protection
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Inner Circle Judges]]: Member
+- [[Spellweavers]]: Member
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Jamye Napraeleon]]: partymate

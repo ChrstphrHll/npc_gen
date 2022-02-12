@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Aryana Velethuil
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Trenchers
+  type: Member
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Protection
 spec: Fighter
@@ -40,6 +46,9 @@ partyID: 32
 tags:
 - Dragonborn
 - Draconia
+- Cracked_Bell
+- Trenchers
+- Pious_Fellowship
 - Fighter
 - Protection
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Trenchers]]: Member
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Aryana Velethuil]]: partymate

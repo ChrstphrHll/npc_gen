@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Tilo Connak
   type: partymate
-organizations: []
+organizations:
+- name: Grason's Claw
+  type: Member
+- name: Inventors Initiative
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Artificer
@@ -46,6 +52,9 @@ partyID: 17
 tags:
 - Dragonborn
 - Draconia
+- Grason's_Claw
+- Inventors_Initiative
+- Masked_Many
 - Artificer
 - Diplomacy
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Grason's Claw]]: Member
+- [[Inventors Initiative]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Leah Faelar]]: partymate

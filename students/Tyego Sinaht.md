@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Halia Dominguez
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Splinters
+  type: Member
+- name: The Second Pillar Players
+  type: Member
 notes: []
 track: Protection
 spec: Monk
@@ -41,6 +47,9 @@ partyID: 98
 tags:
 - Elf
 - Beleriand
+- Wayfinders
+- Splinters
+- The_Second_Pillar_Players
 - Monk
 - Protection
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Splinters]]: Member
+- [[The Second Pillar Players]]: Member
 
 ### Relationships
 - [[Jess Beebe]]: partymate

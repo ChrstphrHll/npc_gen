@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Hessos Adorellan
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Member
+- name: Masked Many
+  type: Member
+- name: Mendary Practitioners
+  type: Member
 notes: []
 track: Exploration
 spec: Paladin
@@ -42,6 +48,9 @@ partyID: 43
 tags:
 - Human
 - Floating_Island
+- LOAM
+- Masked_Many
+- Mendary_Practitioners
 - Paladin
 - Exploration
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Member
+- [[Masked Many]]: Member
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Kendel Shael]]: partymate

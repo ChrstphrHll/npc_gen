@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Zylphan Molostroi
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Leader
+- name: Pious Fellowship
+  type: Leadership
+- name: Hand of Order
+  type: Member
 notes: []
 track: Assault
 spec: Barbarian
@@ -46,6 +52,9 @@ partyID: 79
 tags:
 - Elf
 - Principality_of_the_Palus_Peoples
+- Splinters
+- Pious_Fellowship
+- Hand_of_Order
 - Barbarian
 - Assault
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Leader
+- [[Pious Fellowship]]: Leadership
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Romen Uldreiyn]]: partymate

@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Whit Remington
   type: partymate
-organizations: []
+organizations:
+- name: Grason's Claw
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
+- name: Questboard Daily
+  type: Member
 notes: []
 track: Diplomacy
 spec: Monk
@@ -40,6 +46,9 @@ partyID: 41
 tags:
 - Tiefling
 - Aldercrown_Empire
+- Grason's_Claw
+- Ashari_Cultural_Group
+- Questboard_Daily
 - Monk
 - Diplomacy
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Grason's Claw]]: Member
+- [[Ashari Cultural Group]]: Member
+- [[Questboard Daily]]: Member
 
 ### Relationships
 - [[Whit Remington]]: partymate

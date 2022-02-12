@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Joyce Helartha
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Wayfinders
+  type: Member
+- name: Treskal Silkball
+  type: Member
 notes: []
 track: Assault
 spec: Rouge
@@ -41,6 +47,9 @@ partyID: 78
 tags:
 - Halfling
 - Aldercrown_Empire
+- Cracked_Bell
+- Wayfinders
+- Treskal_Silkball
 - Rouge
 - Assault
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Wayfinders]]: Member
+- [[Treskal Silkball]]: Member
 
 ### Relationships
 - [[Hanna Arkhun]]: partymate

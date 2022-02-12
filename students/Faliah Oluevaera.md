@@ -23,7 +23,9 @@ relevance: 0
 relationships:
 - name: Wulfe Fulcrux
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Leader
 notes: []
 track: Protection
 spec: Cleric
@@ -40,6 +42,7 @@ partyID: 92
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Wayfinders
 - Cleric
 - Protection
 - Student
@@ -57,6 +60,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Leader
 
 ### Relationships
 - [[Wulfe Fulcrux]]: partymate

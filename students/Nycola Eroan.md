@@ -27,7 +27,11 @@ relationships:
   type: partymate
 - name: Eliana Saevel
   type: partymate
-organizations: []
+organizations:
+- name: Spellweavers
+  type: Member
+- name: Stack Scalers
+  type: Member
 notes: []
 track: Protection
 spec: Bard
@@ -44,6 +48,8 @@ partyID: 77
 tags:
 - Dragonborn
 - Aldercrown_Empire
+- Spellweavers
+- Stack_Scalers
 - Bard
 - Protection
 - Student
@@ -61,6 +67,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Spellweavers]]: Member
+- [[Stack Scalers]]: Member
 
 ### Relationships
 - [[Aniari Arlayna]]: partymate

@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Angel Nushala
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Member
+- name: Wayfinders
+  type: Member
+- name: Aquaculture
+  type: Member
 notes: []
 track: Exploration
 spec: Bard
@@ -44,6 +50,9 @@ partyID: 17
 tags:
 - Human
 - Shadesburry_Initiative
+- LOAM
+- Wayfinders
+- Aquaculture
 - Bard
 - Exploration
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Member
+- [[Wayfinders]]: Member
+- [[Aquaculture]]: Member
 
 ### Relationships
 - [[Branus Shadegrove]]: partymate

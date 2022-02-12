@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Hanna Arkhun
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Treskal Silkball
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Diplomacy
 spec: Cleric
@@ -41,6 +47,9 @@ partyID: 78
 tags:
 - Halfling
 - Aldercrown_Empire
+- Splinters
+- Treskal_Silkball
+- Ruin_Runners
 - Cleric
 - Diplomacy
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Treskal Silkball]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Maia Ashsorrow]]: partymate

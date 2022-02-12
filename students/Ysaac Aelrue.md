@@ -27,7 +27,11 @@ relationships:
   type: partymate
 - name: Dejana Keller
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Exploration
 spec: Fighter
@@ -44,6 +48,8 @@ partyID: 51
 tags:
 - Halfling
 - Kordinia
+- Splinters
+- Hand_of_Order
 - Fighter
 - Exploration
 - Student
@@ -61,6 +67,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Nolyn Viska]]: partymate

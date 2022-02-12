@@ -24,7 +24,13 @@ relevance: 0
 relationships:
 - name: Hudsen Aluendalee
   type: partymate
-organizations: []
+organizations:
+- name: Aquaculture
+  type: Leadership
+- name: Hand of Order
+  type: Member
+- name: Spellweavers
+  type: Member
 notes: []
 track: Protection
 spec: Bard
@@ -41,6 +47,9 @@ partyID: 37
 tags:
 - Human
 - Aldercrown_Empire
+- Aquaculture
+- Hand_of_Order
+- Spellweavers
 - Bard
 - Protection
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Aquaculture]]: Leadership
+- [[Hand of Order]]: Member
+- [[Spellweavers]]: Member
 
 ### Relationships
 - [[Hudsen Aluendalee]]: partymate

@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Remus Manchul
   type: partymate
-organizations: []
+organizations:
+- name: Stack Scalers
+  type: Member
+- name: The Second Pillar Players
+  type: Leadership
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Druid
@@ -45,6 +51,9 @@ partyID: 59
 tags:
 - Human
 - Magmus_Centerhold
+- Stack_Scalers
+- The_Second_Pillar_Players
+- Masked_Many
 - Druid
 - Diplomacy
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Stack Scalers]]: Member
+- [[The Second Pillar Players]]: Leadership
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Noam Shields]]: partymate

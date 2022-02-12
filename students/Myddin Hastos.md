@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Tylus Ytharra
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Leadership
+- name: The Second Pillar Players
+  type: Member
+- name: Mendary Practitioners
+  type: Leadership
 notes: []
 track: Protection
 spec: Rouge
@@ -45,6 +51,9 @@ partyID: 22
 tags:
 - Half-Elf
 - Shadesburry_Initiative
+- Splinters
+- The_Second_Pillar_Players
+- Mendary_Practitioners
 - Rouge
 - Protection
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Leadership
+- [[The Second Pillar Players]]: Member
+- [[Mendary Practitioners]]: Leadership
 
 ### Relationships
 - [[Gabrilo Kulo]]: partymate

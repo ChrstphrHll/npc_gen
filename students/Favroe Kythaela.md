@@ -22,7 +22,13 @@ relevance: 0
 relationships:
 - name: Verssek Nese
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Trenchers
+  type: Member
+- name: Mendary Practitioners
+  type: Member
 notes: []
 track: Exploration
 spec: Ranger
@@ -39,6 +45,9 @@ partyID: 19
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Splinters
+- Trenchers
+- Mendary_Practitioners
 - Ranger
 - Exploration
 - Student
@@ -56,6 +65,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Trenchers]]: Member
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Verssek Nese]]: partymate

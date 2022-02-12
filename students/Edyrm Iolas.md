@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Shenai Inqoul
   type: partymate
-organizations: []
+organizations:
+- name: Aquaculture
+  type: Member
+- name: Forgetenders
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Diplomacy
 spec: Artificer
@@ -41,6 +47,9 @@ partyID: 57
 tags:
 - Half-Elf
 - Beleriand
+- Aquaculture
+- Forgetenders
+- Hand_of_Order
 - Artificer
 - Diplomacy
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Aquaculture]]: Member
+- [[Forgetenders]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Jacus Kosunten]]: partymate

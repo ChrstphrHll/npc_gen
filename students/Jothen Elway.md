@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Allisa Iahalae
   type: partymate
-organizations: []
+organizations:
+- name: Golemic Consortium
+  type: Member
+- name: Stack Scalers
+  type: Member
+- name: Questboard Daily
+  type: Member
 notes: []
 track: Exploration
 spec: Rouge
@@ -41,6 +47,9 @@ partyID: 2
 tags:
 - Human
 - Qualnis
+- Golemic_Consortium
+- Stack_Scalers
+- Questboard_Daily
 - Rouge
 - Exploration
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Golemic Consortium]]: Member
+- [[Stack Scalers]]: Member
+- [[Questboard Daily]]: Member
 
 ### Relationships
 - [[Aidyn Glynnii]]: partymate

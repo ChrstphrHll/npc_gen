@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Jendrellian Webb
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Member
+- name: Inventors Initiative
+  type: Member
+- name: Walltoppers
+  type: Member
 notes: []
 track: Diplomacy
 spec: Barbarian
@@ -43,6 +49,9 @@ partyID: 64
 tags:
 - Human
 - Aldercrown_Empire
+- LOAM
+- Inventors_Initiative
+- Walltoppers
 - Barbarian
 - Diplomacy
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Member
+- [[Inventors Initiative]]: Member
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Nathan Laeroth]]: partymate

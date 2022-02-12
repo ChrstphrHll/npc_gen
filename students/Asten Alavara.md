@@ -24,7 +24,13 @@ relevance: 0
 relationships:
 - name: Alyx Nopos
   type: partymate
-organizations: []
+organizations:
+- name: Forgetenders
+  type: Leadership
+- name: Spellweavers
+  type: Member
+- name: Enchantary
+  type: Member
 notes: []
 track: Diplomacy
 spec: Wizard
@@ -41,6 +47,9 @@ partyID: 87
 tags:
 - Gnome
 - Aldercrown_Empire
+- Forgetenders
+- Spellweavers
+- Enchantary
 - Wizard
 - Diplomacy
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Forgetenders]]: Leadership
+- [[Spellweavers]]: Member
+- [[Enchantary]]: Member
 
 ### Relationships
 - [[Alyx Nopos]]: partymate

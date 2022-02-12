@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Felgie Eldar
   type: partymate
-organizations: []
+organizations:
+- name: Grason's Claw
+  type: Member
+- name: Mysten Students for a Better Revendale
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Assault
 spec: Fighter
@@ -43,6 +49,9 @@ partyID: 60
 tags:
 - Dwarf
 - Aldercrown_Empire
+- Grason's_Claw
+- Mysten_Students_for_a_Better_Revendale
+- Ruin_Runners
 - Fighter
 - Assault
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Grason's Claw]]: Member
+- [[Mysten Students for a Better Revendale]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Selina Bellas]]: partymate

@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Bera Cauladra
   type: partymate
-organizations: []
+organizations:
+- name: Treskal Silkball
+  type: Member
+- name: Golemic Consortium
+  type: Member
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Exploration
 spec: Rouge
@@ -40,6 +46,9 @@ partyID: 23
 tags:
 - Dwarf
 - Aldercrown_Empire
+- Treskal_Silkball
+- Golemic_Consortium
+- Inventors_Initiative
 - Rouge
 - Exploration
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Treskal Silkball]]: Member
+- [[Golemic Consortium]]: Member
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Bera Cauladra]]: partymate

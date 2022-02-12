@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Nom Remington
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Splinters
+  type: Member
+- name: Mysten Students for a Better Revendale
+  type: Member
 notes: []
 track: Assault
 spec: Wizard
@@ -40,6 +46,9 @@ partyID: 85
 tags:
 - Halfling
 - Floating_Island
+- Cracked_Bell
+- Splinters
+- Mysten_Students_for_a_Better_Revendale
 - Wizard
 - Assault
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Splinters]]: Member
+- [[Mysten Students for a Better Revendale]]: Member
 
 ### Relationships
 - [[Nom Remington]]: partymate

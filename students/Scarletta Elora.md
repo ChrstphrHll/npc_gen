@@ -25,7 +25,11 @@ relationships:
   type: partymate
 - name: Barak Felaern
   type: partymate
-organizations: []
+organizations:
+- name: Ruin Runners
+  type: Member
+- name: Mendary Practitioners
+  type: Member
 notes: []
 track: Protection
 spec: Cleric
@@ -42,6 +46,8 @@ partyID: 27
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Ruin_Runners
+- Mendary_Practitioners
 - Cleric
 - Protection
 - Student
@@ -59,6 +65,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Ruin Runners]]: Member
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Terek Nushala]]: partymate

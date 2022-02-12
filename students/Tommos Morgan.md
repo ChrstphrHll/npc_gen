@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Jacomo Jacaranda
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Trenchers
+  type: Member
+- name: Forgetenders
+  type: Member
 notes: []
 track: Exploration
 spec: Sorcerer
@@ -41,6 +47,9 @@ partyID: 11
 tags:
 - Elf
 - Aldercrown_Empire
+- Wayfinders
+- Trenchers
+- Forgetenders
 - Sorcerer
 - Exploration
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Trenchers]]: Member
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Alinea Hellsturn]]: partymate

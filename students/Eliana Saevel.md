@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Aniari Arlayna
   type: partymate
-organizations: []
+organizations:
+- name: Grason's Claw
+  type: Member
+- name: Inner Circle Judges
+  type: Member
+- name: Enchantary
+  type: Member
 notes: []
 track: Assault
 spec: Artificer
@@ -42,6 +48,9 @@ partyID: 77
 tags:
 - Human
 - Beleriand
+- Grason's_Claw
+- Inner_Circle_Judges
+- Enchantary
 - Artificer
 - Assault
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Grason's Claw]]: Member
+- [[Inner Circle Judges]]: Member
+- [[Enchantary]]: Member
 
 ### Relationships
 - [[Nycola Eroan]]: partymate

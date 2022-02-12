@@ -22,7 +22,9 @@ relevance: 0
 relationships:
 - name: Asten Alavara
   type: partymate
-organizations: []
+organizations:
+- name: Walltoppers
+  type: Member
 notes: []
 track: Assault
 spec: Rouge
@@ -39,6 +41,7 @@ partyID: 87
 tags:
 - Tiefling
 - Qualnis
+- Walltoppers
 - Rouge
 - Assault
 - Student
@@ -56,6 +59,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Asten Alavara]]: partymate

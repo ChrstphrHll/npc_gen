@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Puorlaas Anklos
   type: partymate
-organizations: []
+organizations:
+- name: Hand of Order
+  type: Member
+- name: Inventors Initiative
+  type: Member
+- name: Questboard Daily
+  type: Member
 notes: []
 track: Exploration
 spec: Fighter
@@ -40,6 +46,9 @@ partyID: 12
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Hand_of_Order
+- Inventors_Initiative
+- Questboard_Daily
 - Fighter
 - Exploration
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Hand of Order]]: Member
+- [[Inventors Initiative]]: Member
+- [[Questboard Daily]]: Member
 
 ### Relationships
 - [[Puorlaas Anklos]]: partymate

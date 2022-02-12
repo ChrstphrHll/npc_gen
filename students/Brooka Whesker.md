@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Gabrila Retra
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Threaded Needle
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Diplomacy
 spec: Fighter
@@ -43,6 +49,9 @@ partyID: 45
 tags:
 - Half-Elf
 - Aldercrown_Empire
+- Cracked_Bell
+- Threaded_Needle
+- Hand_of_Order
 - Fighter
 - Diplomacy
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Threaded Needle]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Hudsen Elandorr]]: partymate

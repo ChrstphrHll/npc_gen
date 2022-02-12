@@ -26,7 +26,11 @@ relationships:
   type: partymate
 - name: Gifre Edyrm
   type: partymate
-organizations: []
+organizations:
+- name: Ruin Runners
+  type: Member
+- name: Walltoppers
+  type: Member
 notes: []
 track: Assault
 spec: Barbarian
@@ -43,6 +47,8 @@ partyID: 46
 tags:
 - Human
 - Qualnis
+- Ruin_Runners
+- Walltoppers
 - Barbarian
 - Assault
 - Student
@@ -60,6 +66,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Ruin Runners]]: Member
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Robett Grell]]: partymate

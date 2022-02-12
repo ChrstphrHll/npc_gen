@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Wenge Usunaar
   type: partymate
-organizations: []
+organizations:
+- name: Forgetenders
+  type: Leader
+- name: Pious Fellowship
+  type: Member
+- name: Enchantary
+  type: Member
 notes: []
 track: Assault
 spec: Artificer
@@ -41,6 +47,9 @@ partyID: 80
 tags:
 - Half-Orc
 - Magmus_Centerhold
+- Forgetenders
+- Pious_Fellowship
+- Enchantary
 - Artificer
 - Assault
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Forgetenders]]: Leader
+- [[Pious Fellowship]]: Member
+- [[Enchantary]]: Member
 
 ### Relationships
 - [[Kembley Ralnor]]: partymate

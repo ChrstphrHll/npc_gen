@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Santaegus Etter
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Leadership
+- name: Wayfinders
+  type: Leadership
+- name: Splinters
+  type: Leadership
 notes: []
 track: Exploration
 spec: Ranger
@@ -44,6 +50,9 @@ partyID: 3
 tags:
 - Dragonborn
 - Draconia
+- Cracked_Bell
+- Wayfinders
+- Splinters
 - Ranger
 - Exploration
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Leadership
+- [[Wayfinders]]: Leadership
+- [[Splinters]]: Leadership
 
 ### Relationships
 - [[Giacomo Edraele]]: partymate

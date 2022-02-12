@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Isaias Vaalyun
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Splinters
+  type: Member
+- name: Threaded Needle
+  type: Member
 notes: []
 track: Assault
 spec: Monk
@@ -42,6 +48,9 @@ partyID: 36
 tags:
 - Goliath
 - Chillwild_Peaks
+- Wayfinders
+- Splinters
+- Threaded_Needle
 - Monk
 - Assault
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Splinters]]: Member
+- [[Threaded Needle]]: Member
 
 ### Relationships
 - [[Levy Maendellyn]]: partymate

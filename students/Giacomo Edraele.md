@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Yoshen Arcaena
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Mysten Students for a Better Revendale
+  type: Leadership
+- name: Ashari Cultural Group
+  type: Member
 notes: []
 track: Diplomacy
 spec: Druid
@@ -46,6 +52,9 @@ partyID: 3
 tags:
 - Human
 - Floating_Island
+- Wayfinders
+- Mysten_Students_for_a_Better_Revendale
+- Ashari_Cultural_Group
 - Druid
 - Diplomacy
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Mysten Students for a Better Revendale]]: Leadership
+- [[Ashari Cultural Group]]: Member
 
 ### Relationships
 - [[Matrell Halafarin]]: partymate

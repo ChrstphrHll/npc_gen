@@ -23,7 +23,11 @@ relevance: 0
 relationships:
 - name: Senna Tryton
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Paladin
@@ -40,6 +44,8 @@ partyID: 49
 tags:
 - Dwarf
 - Floating_Island
+- Splinters
+- Masked_Many
 - Paladin
 - Diplomacy
 - Student
@@ -57,6 +63,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Senna Tryton]]: partymate

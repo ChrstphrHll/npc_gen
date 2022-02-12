@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Handyr Letryal
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Threaded Needle
+  type: Member
+- name: Mendary Practitioners
+  type: Member
 notes: []
 track: Protection
 spec: Druid
@@ -44,6 +50,9 @@ partyID: 96
 tags:
 - Genasi
 - Magmus_Centerhold
+- Cracked_Bell
+- Threaded_Needle
+- Mendary_Practitioners
 - Druid
 - Protection
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Threaded Needle]]: Member
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Victor Gaelira]]: partymate

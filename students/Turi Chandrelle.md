@@ -24,7 +24,11 @@ relationships:
   type: partymate
 - name: Guliemos Nym
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Protection
 spec: Rouge
@@ -41,6 +45,8 @@ partyID: 13
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Wayfinders
+- Hand_of_Order
 - Rouge
 - Protection
 - Student
@@ -58,6 +64,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Kunjal Iefyr]]: partymate

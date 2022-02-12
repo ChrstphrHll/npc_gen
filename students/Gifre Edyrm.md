@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Savanna Ildilyntra
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Wayfinders
+  type: Member
+- name: Forgetenders
+  type: Member
 notes: []
 track: Exploration
 spec: Paladin
@@ -43,6 +49,9 @@ partyID: 46
 tags:
 - Half-Elf
 - Magmus_Centerhold
+- Cracked_Bell
+- Wayfinders
+- Forgetenders
 - Paladin
 - Exploration
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Wayfinders]]: Member
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Lenn Schimae]]: partymate

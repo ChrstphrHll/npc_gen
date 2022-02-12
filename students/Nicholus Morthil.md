@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Violetta Coldsprinter
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Member
+- name: LOAM
+  type: Member
+- name: Forgetenders
+  type: Member
 notes: []
 track: Exploration
 spec: Paladin
@@ -43,6 +49,9 @@ partyID: 93
 tags:
 - Firbolg
 - Verdain
+- Half_Notes
+- LOAM
+- Forgetenders
 - Paladin
 - Exploration
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Member
+- [[LOAM]]: Member
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Abryia Rubrae]]: partymate

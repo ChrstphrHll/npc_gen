@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Olbern Uldreiyn
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: LOAM
+  type: Member
+- name: Wayfinders
+  type: Member
 notes: []
 track: Protection
 spec: Sorcerer
@@ -40,6 +46,9 @@ partyID: 62
 tags:
 - Half-Orc
 - Shadesburry_Initiative
+- Cracked_Bell
+- LOAM
+- Wayfinders
 - Sorcerer
 - Protection
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[LOAM]]: Member
+- [[Wayfinders]]: Member
 
 ### Relationships
 - [[Olbern Uldreiyn]]: partymate

@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Brithmaur Decker
   type: partymate
-organizations: []
+organizations:
+- name: Trenchers
+  type: Member
+- name: Threaded Needle
+  type: Member
+- name: Ruin Runners
+  type: Leader
 notes: []
 track: Exploration
 spec: Monk
@@ -41,6 +47,9 @@ partyID: 25
 tags:
 - Dwarf
 - Principality_of_the_Palus_Peoples
+- Trenchers
+- Threaded_Needle
+- Ruin_Runners
 - Monk
 - Exploration
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Trenchers]]: Member
+- [[Threaded Needle]]: Member
+- [[Ruin Runners]]: Leader
 
 ### Relationships
 - [[Grassa Ashbluff]]: partymate

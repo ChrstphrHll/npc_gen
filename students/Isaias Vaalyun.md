@@ -26,7 +26,11 @@ relationships:
   type: partymate
 - name: Jacoby Maeraddyth
   type: partymate
-organizations: []
+organizations:
+- name: Ruin Runners
+  type: Member
+- name: Enchantary
+  type: Member
 notes: []
 track: Diplomacy
 spec: Cleric
@@ -43,6 +47,8 @@ partyID: 36
 tags:
 - Dwarf
 - Aldercrown_Empire
+- Ruin_Runners
+- Enchantary
 - Cleric
 - Diplomacy
 - Student
@@ -60,6 +66,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Ruin Runners]]: Member
+- [[Enchantary]]: Member
 
 ### Relationships
 - [[Levy Maendellyn]]: partymate

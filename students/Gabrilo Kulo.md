@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Tylus Ytharra
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Inner Circle Judges
+  type: Member
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Diplomacy
 spec: Cleric
@@ -46,6 +52,9 @@ partyID: 22
 tags:
 - Half-Orc
 - Magmus_Centerhold
+- Wayfinders
+- Inner_Circle_Judges
+- Pious_Fellowship
 - Cleric
 - Diplomacy
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Inner Circle Judges]]: Member
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Mya Nelaeryn]]: partymate

@@ -27,7 +27,11 @@ relationships:
   type: partymate
 - name: Angel Nushala
   type: partymate
-organizations: []
+organizations:
+- name: Treskal Silkball
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Barbarian
@@ -44,6 +48,8 @@ partyID: 17
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Treskal_Silkball
+- Masked_Many
 - Barbarian
 - Diplomacy
 - Student
@@ -61,6 +67,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Treskal Silkball]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Leah Faelar]]: partymate

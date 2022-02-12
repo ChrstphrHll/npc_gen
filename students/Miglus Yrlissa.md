@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Jerrick Yarbrough
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Jettenia Silkball
+  type: Leadership
+- name: Forgetenders
+  type: Member
 notes: []
 track: Assault
 spec: Fighter
@@ -43,6 +49,9 @@ partyID: 4
 tags:
 - Triton
 - Glasscliff_Garisons
+- Wayfinders
+- Jettenia_Silkball
+- Forgetenders
 - Fighter
 - Assault
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Jettenia Silkball]]: Leadership
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Skalanis Kobayashi]]: partymate

@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Lincon Nylaathria
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Mysten Students for a Better Revendale
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Protection
 spec: Monk
@@ -42,6 +48,9 @@ partyID: 75
 tags:
 - Firbolg
 - Verdain
+- Cracked_Bell
+- Mysten_Students_for_a_Better_Revendale
+- Ruin_Runners
 - Monk
 - Protection
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Mysten Students for a Better Revendale]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Murunay Illfate]]: partymate

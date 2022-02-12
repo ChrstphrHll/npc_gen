@@ -27,7 +27,9 @@ relationships:
   type: partymate
 - name: Nicholus Morthil
   type: partymate
-organizations: []
+organizations:
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Assault
 spec: Fighter
@@ -44,6 +46,7 @@ partyID: 93
 tags:
 - Half-Orc
 - Magmus_Centerhold
+- Inventors_Initiative
 - Fighter
 - Assault
 - Student
@@ -61,6 +64,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Abryia Rubrae]]: partymate

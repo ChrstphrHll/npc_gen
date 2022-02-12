@@ -27,7 +27,9 @@ relationships:
   type: partymate
 - name: Grace Festus
   type: partymate
-organizations: []
+organizations:
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Protection
 spec: Monk
@@ -44,6 +46,7 @@ partyID: 20
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Ruin_Runners
 - Monk
 - Protection
 - Student
@@ -61,6 +64,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Dylan Usunaar]]: partymate

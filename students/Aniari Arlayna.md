@@ -25,7 +25,9 @@ relationships:
   type: partymate
 - name: Eliana Saevel
   type: partymate
-organizations: []
+organizations:
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Assault
 spec: Barbarian
@@ -42,6 +44,7 @@ partyID: 77
 tags:
 - Elf
 - Aldercrown_Empire
+- Inventors_Initiative
 - Barbarian
 - Assault
 - Student
@@ -59,6 +62,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Nycola Eroan]]: partymate

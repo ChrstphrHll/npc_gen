@@ -22,7 +22,11 @@ relevance: 0
 relationships:
 - name: Olivus Ondabrar
   type: partymate
-organizations: []
+organizations:
+- name: Burk Silkball
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
 notes: []
 track: Exploration
 spec: Monk
@@ -39,6 +43,8 @@ partyID: 85
 tags:
 - Dragonborn
 - Floating_Island
+- Burk_Silkball
+- Ashari_Cultural_Group
 - Monk
 - Exploration
 - Student
@@ -56,6 +62,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Burk Silkball]]: Member
+- [[Ashari Cultural Group]]: Member
 
 ### Relationships
 - [[Olivus Ondabrar]]: partymate

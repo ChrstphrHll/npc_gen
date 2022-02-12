@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Goetia Mistale
   type: partymate
-organizations: []
+organizations:
+- name: Aquaculture
+  type: Member
+- name: Treskal Silkball
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Diplomacy
 spec: Artificer
@@ -43,6 +49,9 @@ partyID: 96
 tags:
 - Dragonborn
 - Draconia
+- Aquaculture
+- Treskal_Silkball
+- Hand_of_Order
 - Artificer
 - Diplomacy
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Aquaculture]]: Member
+- [[Treskal Silkball]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Halya Jian]]: partymate

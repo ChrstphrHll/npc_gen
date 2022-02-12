@@ -22,7 +22,13 @@ relevance: 0
 relationships:
 - name: Kanoi Xharlion
   type: partymate
-organizations: []
+organizations:
+- name: Grason's Claw
+  type: Member
+- name: Hand of Order
+  type: Leadership
+- name: Spellweavers
+  type: Member
 notes: []
 track: Assault
 spec: Sorcerer
@@ -39,6 +45,9 @@ partyID: 84
 tags:
 - Dwarf
 - Aldercrown_Empire
+- Grason's_Claw
+- Hand_of_Order
+- Spellweavers
 - Sorcerer
 - Assault
 - Student
@@ -56,6 +65,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Grason's Claw]]: Member
+- [[Hand of Order]]: Leadership
+- [[Spellweavers]]: Member
 
 ### Relationships
 - [[Kanoi Xharlion]]: partymate

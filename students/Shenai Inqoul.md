@@ -26,7 +26,9 @@ relationships:
   type: partymate
 - name: Jacus Kosunten
   type: partymate
-organizations: []
+organizations:
+- name: Threaded Needle
+  type: Member
 notes: []
 track: Assault
 spec: Monk
@@ -43,6 +45,7 @@ partyID: 57
 tags:
 - Tiefling
 - Verdain
+- Threaded_Needle
 - Monk
 - Assault
 - Student
@@ -60,6 +63,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Threaded Needle]]: Member
 
 ### Relationships
 - [[Edyrm Iolas]]: partymate

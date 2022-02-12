@@ -27,7 +27,9 @@ relationships:
   type: partymate
 - name: Remus Manchul
   type: partymate
-organizations: []
+organizations:
+- name: Burk Silkball
+  type: Member
 notes: []
 track: Protection
 spec: Wizard
@@ -44,6 +46,7 @@ partyID: 59
 tags:
 - Triton
 - Whyndiem
+- Burk_Silkball
 - Wizard
 - Protection
 - Student
@@ -61,6 +64,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Burk Silkball]]: Member
 
 ### Relationships
 - [[Noam Shields]]: partymate

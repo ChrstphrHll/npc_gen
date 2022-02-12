@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Andrey Rauthomyr
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Alderden Silkball
+  type: Member
+- name: Golemic Consortium
+  type: Member
 notes: []
 track: Protection
 spec: Ranger
@@ -46,6 +52,9 @@ partyID: 91
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Wayfinders
+- Alderden_Silkball
+- Golemic_Consortium
 - Ranger
 - Protection
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Alderden Silkball]]: Member
+- [[Golemic Consortium]]: Member
 
 ### Relationships
 - [[Kimbera Alerathla]]: partymate

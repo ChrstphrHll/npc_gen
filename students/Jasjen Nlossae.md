@@ -24,7 +24,11 @@ relationships:
   type: partymate
 - name: Q Yulmanda
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Member
+- name: Ruin Runners
+  type: Leadership
 notes: []
 track: Diplomacy
 spec: Bard
@@ -41,6 +45,8 @@ partyID: 65
 tags:
 - Dragonborn
 - Draconia
+- LOAM
+- Ruin_Runners
 - Bard
 - Diplomacy
 - Student
@@ -58,6 +64,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Member
+- [[Ruin Runners]]: Leadership
 
 ### Relationships
 - [[Eligio Nevarth]]: partymate

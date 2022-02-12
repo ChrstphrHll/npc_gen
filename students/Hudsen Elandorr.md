@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Gabrila Retra
   type: partymate
-organizations: []
+organizations:
+- name: Treskal Silkball
+  type: Member
+- name: Ruin Runners
+  type: Member
+- name: The Second Pillar Players
+  type: Member
 notes: []
 track: Assault
 spec: Druid
@@ -43,6 +49,9 @@ partyID: 45
 tags:
 - Half-Orc
 - Chillwild_Peaks
+- Treskal_Silkball
+- Ruin_Runners
+- The_Second_Pillar_Players
 - Druid
 - Assault
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Treskal Silkball]]: Member
+- [[Ruin Runners]]: Member
+- [[The Second Pillar Players]]: Member
 
 ### Relationships
 - [[Brooka Whesker]]: partymate

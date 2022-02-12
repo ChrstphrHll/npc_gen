@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Tisette Bender
   type: partymate
-organizations: []
+organizations:
+- name: Forgetenders
+  type: Member
+- name: Questboard Daily
+  type: Member
+- name: Mendary Practitioners
+  type: Member
 notes: []
 track: Protection
 spec: Fighter
@@ -44,6 +50,9 @@ partyID: 95
 tags:
 - Genasi
 - Aldercrown_Empire
+- Forgetenders
+- Questboard_Daily
+- Mendary_Practitioners
 - Fighter
 - Protection
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Forgetenders]]: Member
+- [[Questboard Daily]]: Member
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Brinna Muerlara]]: partymate

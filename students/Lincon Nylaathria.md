@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Hazel Winters
   type: partymate
-organizations: []
+organizations:
+- name: Dragon Chess Club
+  type: Member
+- name: Threaded Needle
+  type: Member
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Assault
 spec: Barbarian
@@ -43,6 +49,9 @@ partyID: 75
 tags:
 - Aasimar
 - Aldercrown_Empire
+- Dragon_Chess_Club
+- Threaded_Needle
+- Pious_Fellowship
 - Barbarian
 - Assault
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Dragon Chess Club]]: Member
+- [[Threaded Needle]]: Member
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Murunay Illfate]]: partymate

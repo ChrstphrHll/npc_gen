@@ -27,7 +27,11 @@ relationships:
   type: partymate
 - name: Turi Chandrelle
   type: partymate
-organizations: []
+organizations:
+- name: Hand of Order
+  type: Member
+- name: Enchantary
+  type: Member
 notes: []
 track: Protection
 spec: Cleric
@@ -44,6 +48,8 @@ partyID: 13
 tags:
 - Halfling
 - Whyndiem
+- Hand_of_Order
+- Enchantary
 - Cleric
 - Protection
 - Student
@@ -61,6 +67,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Hand of Order]]: Member
+- [[Enchantary]]: Member
 
 ### Relationships
 - [[Guliemos Nym]]: partymate

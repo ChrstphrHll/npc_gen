@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Natylie Rathal
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Grason's Claw
+  type: Member
+- name: Spellweavers
+  type: Member
 notes: []
 track: Protection
 spec: Bard
@@ -41,6 +47,9 @@ partyID: 97
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Cracked_Bell
+- Grason's_Claw
+- Spellweavers
 - Bard
 - Protection
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Grason's Claw]]: Member
+- [[Spellweavers]]: Member
 
 ### Relationships
 - [[Gavyn Sadalymn]]: partymate

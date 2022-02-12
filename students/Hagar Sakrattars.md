@@ -26,7 +26,11 @@ relationships:
   type: partymate
 - name: Valygar Lyklor
   type: partymate
-organizations: []
+organizations:
+- name: Burk Silkball
+  type: Leadership
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Protection
 spec: Cleric
@@ -43,6 +47,8 @@ partyID: 86
 tags:
 - Tiefling
 - Floating_Island
+- Burk_Silkball
+- Pious_Fellowship
 - Cleric
 - Protection
 - Student
@@ -60,6 +66,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Burk Silkball]]: Leadership
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Lyonus Ioelena]]: partymate

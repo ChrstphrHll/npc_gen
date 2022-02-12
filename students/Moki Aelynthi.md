@@ -26,7 +26,11 @@ relationships:
   type: partymate
 - name: Gianesia Onvyr
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Leadership
+- name: Golemic Consortium
+  type: Leader
 notes: []
 track: Protection
 spec: Druid
@@ -43,6 +47,8 @@ partyID: 29
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Wayfinders
+- Golemic_Consortium
 - Druid
 - Protection
 - Student
@@ -60,6 +66,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Leadership
+- [[Golemic Consortium]]: Leader
 
 ### Relationships
 - [[Ezekius Chalsarda]]: partymate

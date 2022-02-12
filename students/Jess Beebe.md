@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Halia Dominguez
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Member
+- name: Pious Fellowship
+  type: Member
+- name: Enchantary
+  type: Member
 notes: []
 track: Diplomacy
 spec: Cleric
@@ -41,6 +47,9 @@ partyID: 98
 tags:
 - Firbolg
 - Aldercrown_Empire
+- Half_Notes
+- Pious_Fellowship
+- Enchantary
 - Cleric
 - Diplomacy
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Member
+- [[Pious Fellowship]]: Member
+- [[Enchantary]]: Member
 
 ### Relationships
 - [[Tyego Sinaht]]: partymate

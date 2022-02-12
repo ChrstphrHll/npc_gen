@@ -24,7 +24,13 @@ relevance: 0
 relationships:
 - name: Alys Ylyndar
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Leadership
+- name: Wayfinders
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Exploration
 spec: Paladin
@@ -41,6 +47,9 @@ partyID: 39
 tags:
 - Tiefling
 - Aldercrown_Empire
+- Half_Notes
+- Wayfinders
+- Masked_Many
 - Paladin
 - Exploration
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Leadership
+- [[Wayfinders]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Alys Ylyndar]]: partymate

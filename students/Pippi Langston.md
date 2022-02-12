@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Miglus Yrlissa
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Forgetenders
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Assault
 spec: Artificer
@@ -44,6 +50,9 @@ partyID: 4
 tags:
 - Tiefling
 - Aldercrown_Empire
+- Splinters
+- Forgetenders
+- Ruin_Runners
 - Artificer
 - Assault
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Forgetenders]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Skalanis Kobayashi]]: partymate

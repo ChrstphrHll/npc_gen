@@ -24,7 +24,13 @@ relevance: 0
 relationships:
 - name: Secarr Ashbluff
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Stack Scalers
+  type: Member
+- name: Tincture Tinkerers
+  type: Member
 notes: []
 track: Exploration
 spec: Barbarian
@@ -41,6 +47,9 @@ partyID: 1
 tags:
 - Half-Orc
 - Aldercrown_Empire
+- Splinters
+- Stack_Scalers
+- Tincture_Tinkerers
 - Barbarian
 - Exploration
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Stack Scalers]]: Member
+- [[Tincture Tinkerers]]: Member
 
 ### Relationships
 - [[Secarr Ashbluff]]: partymate

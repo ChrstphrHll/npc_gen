@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Braddeus Jacaranda
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Splinters
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Assault
 spec: Barbarian
@@ -42,6 +48,9 @@ partyID: 94
 tags:
 - Tiefling
 - Aldercrown_Empire
+- Wayfinders
+- Splinters
+- Hand_of_Order
 - Barbarian
 - Assault
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Splinters]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Maarika Oncith]]: partymate

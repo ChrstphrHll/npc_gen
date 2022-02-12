@@ -25,7 +25,9 @@ relationships:
   type: partymate
 - name: Uxwy Lazziar
   type: partymate
-organizations: []
+organizations:
+- name: Aquaculture
+  type: Member
 notes: []
 track: Protection
 spec: Barbarian
@@ -42,6 +44,7 @@ partyID: 48
 tags:
 - Halfling
 - Kordinia
+- Aquaculture
 - Barbarian
 - Protection
 - Student
@@ -59,6 +62,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Aquaculture]]: Member
 
 ### Relationships
 - [[Abel Marsh]]: partymate

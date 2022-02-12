@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Lea Nuvian
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Alderden Silkball
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Protection
 spec: Barbarian
@@ -43,6 +49,9 @@ partyID: 56
 tags:
 - Dragonborn
 - Draconia
+- Splinters
+- Alderden_Silkball
+- Masked_Many
 - Barbarian
 - Protection
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Alderden Silkball]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Audree Dixon]]: partymate

@@ -27,7 +27,11 @@ relationships:
   type: partymate
 - name: Lea Nuvian
   type: partymate
-organizations: []
+organizations:
+- name: Trenchers
+  type: Member
+- name: Threaded Needle
+  type: Member
 notes: []
 track: Assault
 spec: Sorcerer
@@ -44,6 +48,8 @@ partyID: 56
 tags:
 - Half-Elf
 - Aldercrown_Empire
+- Trenchers
+- Threaded_Needle
 - Sorcerer
 - Assault
 - Student
@@ -61,6 +67,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Trenchers]]: Member
+- [[Threaded Needle]]: Member
 
 ### Relationships
 - [[Audree Dixon]]: partymate

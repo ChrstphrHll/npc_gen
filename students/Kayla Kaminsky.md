@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Holys Hachaam
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Grason's Claw
+  type: Member
+- name: Treskal Silkball
+  type: Member
 notes: []
 track: Diplomacy
 spec: Artificer
@@ -44,6 +50,9 @@ partyID: 90
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Cracked_Bell
+- Grason's_Claw
+- Treskal_Silkball
 - Artificer
 - Diplomacy
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Grason's Claw]]: Member
+- [[Treskal Silkball]]: Member
 
 ### Relationships
 - [[Diegon Verrona]]: partymate

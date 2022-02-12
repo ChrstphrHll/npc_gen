@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Marl Ahrendaaria
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Member
+- name: Cracked Bell
+  type: Member
+- name: Spellweavers
+  type: Member
 notes: []
 track: Protection
 spec: Wizard
@@ -40,6 +46,9 @@ partyID: 12
 tags:
 - Tiefling
 - Aldercrown_Empire
+- Half_Notes
+- Cracked_Bell
+- Spellweavers
 - Wizard
 - Protection
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Member
+- [[Cracked Bell]]: Member
+- [[Spellweavers]]: Member
 
 ### Relationships
 - [[Marl Ahrendaaria]]: partymate

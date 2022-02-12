@@ -22,7 +22,9 @@ relevance: 0
 relationships:
 - name: Ilksal Immianthe
   type: partymate
-organizations: []
+organizations:
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Artificer
@@ -39,6 +41,7 @@ partyID: 8
 tags:
 - Half-Orc
 - Magmus_Centerhold
+- Masked_Many
 - Artificer
 - Diplomacy
 - Student
@@ -56,6 +59,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Ilksal Immianthe]]: partymate

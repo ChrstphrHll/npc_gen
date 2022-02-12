@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Miglus Yrlissa
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Splinters
+  type: Member
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Assault
 spec: Bard
@@ -45,6 +51,9 @@ partyID: 4
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Wayfinders
+- Splinters
+- Pious_Fellowship
 - Bard
 - Assault
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Splinters]]: Member
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Skalanis Kobayashi]]: partymate

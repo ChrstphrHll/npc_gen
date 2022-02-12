@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Kaeli Khiiral
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Splinters
+  type: Member
+- name: Grason's Claw
+  type: Leader
 notes: []
 track: Assault
 spec: Bard
@@ -44,6 +50,9 @@ partyID: 89
 tags:
 - Elf
 - Beleriand
+- Wayfinders
+- Splinters
+- Grason's_Claw
 - Bard
 - Assault
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Splinters]]: Member
+- [[Grason's Claw]]: Leader
 
 ### Relationships
 - [[Delos Ehlark]]: partymate

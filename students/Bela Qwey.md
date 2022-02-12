@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Lanalia Belt
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
+- name: Threaded Needle
+  type: Member
 notes: []
 track: Assault
 spec: Druid
@@ -41,6 +47,9 @@ partyID: 67
 tags:
 - Human
 - Qualnis
+- Splinters
+- Ashari_Cultural_Group
+- Threaded_Needle
 - Druid
 - Assault
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Ashari Cultural Group]]: Member
+- [[Threaded Needle]]: Member
 
 ### Relationships
 - [[Rossan Jonik]]: partymate

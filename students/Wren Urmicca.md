@@ -23,7 +23,9 @@ relevance: 0
 relationships:
 - name: Harperia Winchell
   type: partymate
-organizations: []
+organizations:
+- name: Hand of Order
+  type: Member
 notes: []
 track: Protection
 spec: Monk
@@ -40,6 +42,7 @@ partyID: 14
 tags:
 - Half-Orc
 - Beleriand
+- Hand_of_Order
 - Monk
 - Protection
 - Student
@@ -57,6 +60,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Harperia Winchell]]: partymate

@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Ramona Saida
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Grason's Claw
+  type: Leadership
+- name: Alderden Silkball
+  type: Member
 notes: []
 track: Diplomacy
 spec: Bard
@@ -44,6 +50,9 @@ partyID: 24
 tags:
 - Human
 - Qualnis
+- Wayfinders
+- Grason's_Claw
+- Alderden_Silkball
 - Bard
 - Diplomacy
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Grason's Claw]]: Leadership
+- [[Alderden Silkball]]: Member
 
 ### Relationships
 - [[Gina Grandius]]: partymate

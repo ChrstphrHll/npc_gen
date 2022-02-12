@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Genesys Mhaenal
   type: partymate
-organizations: []
+organizations:
+- name: Trenchers
+  type: Member
+- name: Walltoppers
+  type: Member
+- name: Mendary Practitioners
+  type: Member
 notes: []
 track: Protection
 spec: Paladin
@@ -44,6 +50,9 @@ partyID: 38
 tags:
 - Dragonborn
 - Draconia
+- Trenchers
+- Walltoppers
+- Mendary_Practitioners
 - Paladin
 - Protection
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Trenchers]]: Member
+- [[Walltoppers]]: Member
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Hodus Belt]]: partymate

@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Barak Felaern
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Member
+- name: Inventors Initiative
+  type: Member
+- name: Mendary Practitioners
+  type: Member
 notes: []
 track: Protection
 spec: Wizard
@@ -41,6 +47,9 @@ partyID: 27
 tags:
 - Triton
 - Whyndiem
+- Half_Notes
+- Inventors_Initiative
+- Mendary_Practitioners
 - Wizard
 - Protection
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Member
+- [[Inventors Initiative]]: Member
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Scarletta Elora]]: partymate

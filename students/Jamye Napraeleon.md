@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Gianna Rhistel
   type: partymate
-organizations: []
+organizations:
+- name: Trenchers
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
+- name: Threaded Needle
+  type: Member
 notes: []
 track: Assault
 spec: Wizard
@@ -42,6 +48,9 @@ partyID: 73
 tags:
 - Dragonborn
 - Magmus_Centerhold
+- Trenchers
+- Ashari_Cultural_Group
+- Threaded_Needle
 - Wizard
 - Assault
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Trenchers]]: Member
+- [[Ashari Cultural Group]]: Member
+- [[Threaded Needle]]: Member
 
 ### Relationships
 - [[Cirvlon Elpaerae]]: partymate

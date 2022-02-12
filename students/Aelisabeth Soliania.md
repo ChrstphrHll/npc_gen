@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Helera Urkensvall
   type: partymate
-organizations: []
+organizations:
+- name: Mysten Students for a Better Revendale
+  type: Member
+- name: Ruin Runners
+  type: Member
+- name: Hand of Order
+  type: Leadership
 notes: []
 track: Assault
 spec: Barbarian
@@ -46,6 +52,9 @@ partyID: 9
 tags:
 - Halfling
 - Verdain
+- Mysten_Students_for_a_Better_Revendale
+- Ruin_Runners
+- Hand_of_Order
 - Barbarian
 - Assault
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Mysten Students for a Better Revendale]]: Member
+- [[Ruin Runners]]: Member
+- [[Hand of Order]]: Leadership
 
 ### Relationships
 - [[Elia Veluthil]]: partymate

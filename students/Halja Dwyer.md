@@ -22,7 +22,13 @@ relevance: 0
 relationships:
 - name: Yathlanae Arkhun
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Splinters
+  type: Member
+- name: Alderden Silkball
+  type: Member
 notes: []
 track: Exploration
 spec: Fighter
@@ -39,6 +45,9 @@ partyID: 55
 tags:
 - Tiefling
 - Aldercrown_Empire
+- Cracked_Bell
+- Splinters
+- Alderden_Silkball
 - Fighter
 - Exploration
 - Student
@@ -56,6 +65,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Splinters]]: Member
+- [[Alderden Silkball]]: Member
 
 ### Relationships
 - [[Yathlanae Arkhun]]: partymate

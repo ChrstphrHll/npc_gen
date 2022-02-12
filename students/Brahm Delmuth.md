@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Zylphan Molostroi
   type: partymate
-organizations: []
+organizations:
+- name: Spellweavers
+  type: Leader
+- name: Stack Scalers
+  type: Member
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Exploration
 spec: Paladin
@@ -46,6 +52,9 @@ partyID: 79
 tags:
 - Half-Orc
 - Beleriand
+- Spellweavers
+- Stack_Scalers
+- Inventors_Initiative
 - Paladin
 - Exploration
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Spellweavers]]: Leader
+- [[Stack Scalers]]: Member
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Romen Uldreiyn]]: partymate

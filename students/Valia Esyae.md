@@ -22,7 +22,11 @@ relevance: 0
 relationships:
 - name: Volkos Halaema
   type: partymate
-organizations: []
+organizations:
+- name: Ruin Runners
+  type: Leadership
+- name: Walltoppers
+  type: Member
 notes: []
 track: Assault
 spec: Monk
@@ -39,6 +43,8 @@ partyID: 21
 tags:
 - Elf
 - Beleriand
+- Ruin_Runners
+- Walltoppers
 - Monk
 - Assault
 - Student
@@ -56,6 +62,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Ruin Runners]]: Leadership
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Volkos Halaema]]: partymate

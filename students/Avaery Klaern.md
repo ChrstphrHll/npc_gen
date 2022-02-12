@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Milae Ditka
   type: partymate
-organizations: []
+organizations:
+- name: Jettenia Silkball
+  type: Member
+- name: Ruin Runners
+  type: Member
+- name: Questboard Daily
+  type: Member
 notes: []
 track: Exploration
 spec: Barbarian
@@ -41,6 +47,9 @@ partyID: 66
 tags:
 - Halfling
 - Kordinia
+- Jettenia_Silkball
+- Ruin_Runners
+- Questboard_Daily
 - Barbarian
 - Exploration
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Jettenia Silkball]]: Member
+- [[Ruin Runners]]: Member
+- [[Questboard Daily]]: Member
 
 ### Relationships
 - [[Juppar Kershaw]]: partymate

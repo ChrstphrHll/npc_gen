@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Josius Iliphar
   type: partymate
-organizations: []
+organizations:
+- name: Hand of Order
+  type: Member
+- name: Tincture Tinkerers
+  type: Leader
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Protection
 spec: Druid
@@ -42,6 +48,9 @@ partyID: 15
 tags:
 - Dragonborn
 - Aldercrown_Empire
+- Hand_of_Order
+- Tincture_Tinkerers
+- Inventors_Initiative
 - Druid
 - Protection
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Hand of Order]]: Member
+- [[Tincture Tinkerers]]: Leader
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Surge Fayd]]: partymate

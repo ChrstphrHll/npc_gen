@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Averra Taleisin
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Member
+- name: Burk Silkball
+  type: Member
+- name: Threaded Needle
+  type: Member
 notes: []
 track: Assault
 spec: Monk
@@ -43,6 +49,9 @@ partyID: 31
 tags:
 - Human
 - Kordinia
+- Half_Notes
+- Burk_Silkball
+- Threaded_Needle
 - Monk
 - Assault
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Member
+- [[Burk Silkball]]: Member
+- [[Threaded Needle]]: Member
 
 ### Relationships
 - [[Efjan Andrathath]]: partymate

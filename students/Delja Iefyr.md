@@ -27,7 +27,11 @@ relationships:
   type: partymate
 - name: Genesys Mhaenal
   type: partymate
-organizations: []
+organizations:
+- name: Pious Fellowship
+  type: Member
+- name: Stack Scalers
+  type: Member
 notes: []
 track: Diplomacy
 spec: Druid
@@ -44,6 +48,8 @@ partyID: 38
 tags:
 - Half-Elf
 - Beleriand
+- Pious_Fellowship
+- Stack_Scalers
 - Druid
 - Diplomacy
 - Student
@@ -61,6 +67,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Pious Fellowship]]: Member
+- [[Stack Scalers]]: Member
 
 ### Relationships
 - [[Hodus Belt]]: partymate

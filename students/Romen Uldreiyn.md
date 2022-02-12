@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Zylphan Molostroi
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Pious Fellowship
+  type: Leader
+- name: Hand of Order
+  type: Member
 notes: []
 track: Protection
 spec: Druid
@@ -46,6 +52,9 @@ partyID: 79
 tags:
 - Goliath
 - Beleriand
+- Wayfinders
+- Pious_Fellowship
+- Hand_of_Order
 - Druid
 - Protection
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Pious Fellowship]]: Leader
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Brahm Delmuth]]: partymate

@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Lilia Agrippa
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Trenchers
+  type: Leadership
+- name: Walltoppers
+  type: Member
 notes: []
 track: Diplomacy
 spec: Paladin
@@ -43,6 +49,9 @@ partyID: 94
 tags:
 - Halfling
 - Verdain
+- Splinters
+- Trenchers
+- Walltoppers
 - Paladin
 - Diplomacy
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Trenchers]]: Leadership
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Maarika Oncith]]: partymate

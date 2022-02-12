@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Jacob Jorildyn
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Member
+- name: Inner Circle Judges
+  type: Member
+- name: Mysten Students for a Better Revendale
+  type: Member
 notes: []
 track: Diplomacy
 spec: Druid
@@ -43,6 +49,9 @@ partyID: 45
 tags:
 - Dwarf
 - Floating_Island
+- LOAM
+- Inner_Circle_Judges
+- Mysten_Students_for_a_Better_Revendale
 - Druid
 - Diplomacy
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Member
+- [[Inner Circle Judges]]: Member
+- [[Mysten Students for a Better Revendale]]: Member
 
 ### Relationships
 - [[Hudsen Elandorr]]: partymate

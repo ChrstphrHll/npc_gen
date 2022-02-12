@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Avaery Klaern
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Jettenia Silkball
+  type: Member
+- name: Threaded Needle
+  type: Member
 notes: []
 track: Diplomacy
 spec: Druid
@@ -44,6 +50,9 @@ partyID: 66
 tags:
 - Human
 - Shadesburry_Initiative
+- Wayfinders
+- Jettenia_Silkball
+- Threaded_Needle
 - Druid
 - Diplomacy
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Jettenia Silkball]]: Member
+- [[Threaded Needle]]: Member
 
 ### Relationships
 - [[Milae Ditka]]: partymate

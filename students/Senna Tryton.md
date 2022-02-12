@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Scarlotta Inqoul
   type: partymate
-organizations: []
+organizations:
+- name: Burk Silkball
+  type: Member
+- name: Inventors Initiative
+  type: Member
+- name: Questboard Daily
+  type: Member
 notes: []
 track: Exploration
 spec: Fighter
@@ -40,6 +46,9 @@ partyID: 49
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Burk_Silkball
+- Inventors_Initiative
+- Questboard_Daily
 - Fighter
 - Exploration
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Burk Silkball]]: Member
+- [[Inventors Initiative]]: Member
+- [[Questboard Daily]]: Member
 
 ### Relationships
 - [[Scarlotta Inqoul]]: partymate

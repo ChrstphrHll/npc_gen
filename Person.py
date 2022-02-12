@@ -139,7 +139,7 @@ class Person:
         for org in self.organizations:
             member_type = org["type"]
             org_name = org["name"]
-            organizations.append(f"- {member_type} of [[{org_name}]]")
+            organizations.append(f"- [[{org_name}]]: {member_type}")
         organizations.append("")
         return organizations
 

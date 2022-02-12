@@ -33,7 +33,13 @@ relationships:
   type: friends
 - name: Exilov Dokburn
   type: friends
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Spellweavers
+  type: Member
+- name: Phantasmal Reality Lab
+  type: Member
 notes:
 - plays guitar
 track: Exploration
@@ -51,6 +57,9 @@ partyID: 35
 tags:
 - Goliath
 - Chillwild_Peaks
+- Cracked_Bell
+- Spellweavers
+- Phantasmal_Reality_Lab
 - Bard
 - Exploration
 - Student
@@ -69,6 +78,9 @@ tags:
 - plays guitar
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Spellweavers]]: Member
+- [[Phantasmal Reality Lab]]: Member
 
 ### Relationships
 - [[Matos Mektal]]: partymate

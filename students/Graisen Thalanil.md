@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Lucoe Lorelei
   type: partymate
-organizations: []
+organizations:
+- name: Treskal Silkball
+  type: Leadership
+- name: Trenchers
+  type: Member
+- name: Pious Fellowship
+  type: Leadership
 notes: []
 track: Assault
 spec: Cleric
@@ -43,6 +49,9 @@ partyID: 44
 tags:
 - Half-Orc
 - Chillwild_Peaks
+- Treskal_Silkball
+- Trenchers
+- Pious_Fellowship
 - Cleric
 - Assault
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Treskal Silkball]]: Leadership
+- [[Trenchers]]: Member
+- [[Pious Fellowship]]: Leadership
 
 ### Relationships
 - [[Willam Ardryll]]: partymate

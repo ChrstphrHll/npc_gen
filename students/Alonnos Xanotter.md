@@ -27,7 +27,11 @@ relationships:
   type: partymate
 - name: Levi Kicklighter
   type: partymate
-organizations: []
+organizations:
+- name: Burk Silkball
+  type: Member
+- name: Spellweavers
+  type: Member
 notes: []
 track: Protection
 spec: Sorcerer
@@ -44,6 +48,8 @@ partyID: 88
 tags:
 - Tiefling
 - Aldercrown_Empire
+- Burk_Silkball
+- Spellweavers
 - Sorcerer
 - Protection
 - Student
@@ -61,6 +67,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Burk Silkball]]: Member
+- [[Spellweavers]]: Member
 
 ### Relationships
 - [[Shoulree Letryal]]: partymate

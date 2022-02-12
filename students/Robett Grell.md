@@ -27,7 +27,11 @@ relationships:
   type: partymate
 - name: Gifre Edyrm
   type: partymate
-organizations: []
+organizations:
+- name: Inner Circle Judges
+  type: Leader
+- name: Hand of Order
+  type: Member
 notes: []
 track: Assault
 spec: Monk
@@ -44,6 +48,8 @@ partyID: 46
 tags:
 - Dwarf
 - Aldercrown_Empire
+- Inner_Circle_Judges
+- Hand_of_Order
 - Monk
 - Assault
 - Student
@@ -61,6 +67,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Inner Circle Judges]]: Leader
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Lenn Schimae]]: partymate

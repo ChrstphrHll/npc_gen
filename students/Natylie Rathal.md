@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Gavyn Sadalymn
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Splinters
+  type: Member
+- name: Golemic Consortium
+  type: Leadership
 notes: []
 track: Assault
 spec: Barbarian
@@ -43,6 +49,9 @@ partyID: 97
 tags:
 - Elf
 - Magmus_Centerhold
+- Wayfinders
+- Splinters
+- Golemic_Consortium
 - Barbarian
 - Assault
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Splinters]]: Member
+- [[Golemic Consortium]]: Leadership
 
 ### Relationships
 - [[Kloya Kershaw]]: partymate

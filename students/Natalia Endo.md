@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Leja Talila
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Burk Silkball
+  type: Member
+- name: Trenchers
+  type: Member
 notes: []
 track: Exploration
 spec: Barbarian
@@ -40,6 +46,9 @@ partyID: 83
 tags:
 - Halfling
 - Kordinia
+- Wayfinders
+- Burk_Silkball
+- Trenchers
 - Barbarian
 - Exploration
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Burk Silkball]]: Member
+- [[Trenchers]]: Member
 
 ### Relationships
 - [[Leja Talila]]: partymate

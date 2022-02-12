@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Shoulree Letryal
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Trenchers
+  type: Member
+- name: Mysten Students for a Better Revendale
+  type: Member
 notes: []
 track: Exploration
 spec: Paladin
@@ -42,6 +48,9 @@ partyID: 88
 tags:
 - Goliath
 - Chillwild_Peaks
+- Cracked_Bell
+- Trenchers
+- Mysten_Students_for_a_Better_Revendale
 - Paladin
 - Exploration
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Trenchers]]: Member
+- [[Mysten Students for a Better Revendale]]: Member
 
 ### Relationships
 - [[Alonnos Xanotter]]: partymate

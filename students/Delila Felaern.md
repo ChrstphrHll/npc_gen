@@ -26,7 +26,11 @@ relationships:
   type: partymate
 - name: Grace Festus
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Inner Circle Judges
+  type: Member
 notes: []
 track: Diplomacy
 spec: Druid
@@ -43,6 +47,8 @@ partyID: 20
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Cracked_Bell
+- Inner_Circle_Judges
 - Druid
 - Diplomacy
 - Student
@@ -60,6 +66,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Inner Circle Judges]]: Member
 
 ### Relationships
 - [[Dylan Usunaar]]: partymate

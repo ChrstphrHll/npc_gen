@@ -24,7 +24,13 @@ relevance: 0
 relationships:
 - name: Valia Esyae
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Stack Scalers
+  type: Member
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Diplomacy
 spec: Ranger
@@ -41,6 +47,9 @@ partyID: 21
 tags:
 - Tiefling
 - Magmus_Centerhold
+- Splinters
+- Stack_Scalers
+- Inventors_Initiative
 - Ranger
 - Diplomacy
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Stack Scalers]]: Member
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Valia Esyae]]: partymate

@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Dree Nuala
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Member
+- name: Trenchers
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Protection
 spec: Cleric
@@ -46,6 +52,9 @@ partyID: 58
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Half_Notes
+- Trenchers
+- Ruin_Runners
 - Cleric
 - Protection
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Member
+- [[Trenchers]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Vyctor Willow]]: partymate

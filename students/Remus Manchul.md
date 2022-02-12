@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Saleas Rilitar
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Trenchers
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
 notes: []
 track: Protection
 spec: Rouge
@@ -45,6 +51,9 @@ partyID: 59
 tags:
 - Half-Elf
 - Floating_Island
+- Cracked_Bell
+- Trenchers
+- Ashari_Cultural_Group
 - Rouge
 - Protection
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Trenchers]]: Member
+- [[Ashari Cultural Group]]: Member
 
 ### Relationships
 - [[Noam Shields]]: partymate

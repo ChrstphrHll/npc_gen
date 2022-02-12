@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Rotheloe Samblar
   type: partymate
-organizations: []
+organizations:
+- name: Threaded Needle
+  type: Member
+- name: Pious Fellowship
+  type: Member
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Exploration
 spec: Barbarian
@@ -44,6 +50,9 @@ partyID: 9
 tags:
 - Halfling
 - Verdain
+- Threaded_Needle
+- Pious_Fellowship
+- Inventors_Initiative
 - Barbarian
 - Exploration
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Threaded Needle]]: Member
+- [[Pious Fellowship]]: Member
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Aelisabeth Soliania]]: partymate

@@ -27,7 +27,9 @@ relationships:
   type: partymate
 - name: Angel Nushala
   type: partymate
-organizations: []
+organizations:
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Ranger
@@ -44,6 +46,7 @@ partyID: 17
 tags:
 - Tiefling
 - Beleriand
+- Masked_Many
 - Ranger
 - Diplomacy
 - Student
@@ -61,6 +64,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Leah Faelar]]: partymate

@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Celaeno Amkissra
   type: partymate
-organizations: []
+organizations:
+- name: Trenchers
+  type: Member
+- name: Threaded Needle
+  type: Leader
+- name: Masked Many
+  type: Member
 notes: []
 track: Exploration
 spec: Monk
@@ -43,6 +49,9 @@ partyID: 80
 tags:
 - Firbolg
 - Verdain
+- Trenchers
+- Threaded_Needle
+- Masked_Many
 - Monk
 - Exploration
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Trenchers]]: Member
+- [[Threaded Needle]]: Leader
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Kembley Ralnor]]: partymate

@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Kaeli Khiiral
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Leadership
+- name: Mysten Students for a Better Revendale
+  type: Leader
+- name: Spellweavers
+  type: Member
 notes: []
 track: Assault
 spec: Sorcerer
@@ -43,6 +49,9 @@ partyID: 89
 tags:
 - Dragonborn
 - Verdain
+- Cracked_Bell
+- Mysten_Students_for_a_Better_Revendale
+- Spellweavers
 - Sorcerer
 - Assault
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Leadership
+- [[Mysten Students for a Better Revendale]]: Leader
+- [[Spellweavers]]: Member
 
 ### Relationships
 - [[Pinna Vanius]]: partymate

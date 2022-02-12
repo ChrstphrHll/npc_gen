@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Helera Urkensvall
   type: partymate
-organizations: []
+organizations:
+- name: Hand of Order
+  type: Leadership
+- name: Tincture Tinkerers
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Protection
 spec: Barbarian
@@ -44,6 +50,9 @@ partyID: 9
 tags:
 - Firbolg
 - Verdain
+- Hand_of_Order
+- Tincture_Tinkerers
+- Masked_Many
 - Barbarian
 - Protection
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Hand of Order]]: Leadership
+- [[Tincture Tinkerers]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Aelisabeth Soliania]]: partymate

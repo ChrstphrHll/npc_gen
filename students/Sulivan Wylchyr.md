@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Gorlas Vhoadan
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Splinters
+  type: Member
+- name: Alderden Silkball
+  type: Member
 notes: []
 track: Exploration
 spec: Monk
@@ -40,6 +46,9 @@ partyID: 50
 tags:
 - Dragonborn
 - Draconia
+- Wayfinders
+- Splinters
+- Alderden_Silkball
 - Monk
 - Exploration
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Splinters]]: Member
+- [[Alderden Silkball]]: Member
 
 ### Relationships
 - [[Gorlas Vhoadan]]: partymate

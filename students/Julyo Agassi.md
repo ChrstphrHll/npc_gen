@@ -27,7 +27,11 @@ relationships:
   type: partymate
 - name: Mavrek Aolis
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Trenchers
+  type: Member
 notes: []
 track: Assault
 spec: Sorcerer
@@ -44,6 +48,8 @@ partyID: 47
 tags:
 - Dwarf
 - Aldercrown_Empire
+- Splinters
+- Trenchers
 - Sorcerer
 - Assault
 - Student
@@ -61,6 +67,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Trenchers]]: Member
 
 ### Relationships
 - [[Goshwa Khiipaera]]: partymate

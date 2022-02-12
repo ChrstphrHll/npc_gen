@@ -26,7 +26,11 @@ relationships:
   type: partymate
 - name: Valerya Haldreithen
   type: partymate
-organizations: []
+organizations:
+- name: Pious Fellowship
+  type: Member
+- name: Phantasmal Reality Lab
+  type: Member
 notes: []
 track: Exploration
 spec: Cleric
@@ -43,6 +47,8 @@ partyID: 18
 tags:
 - Elf
 - Beleriand
+- Pious_Fellowship
+- Phantasmal_Reality_Lab
 - Cleric
 - Exploration
 - Student
@@ -60,6 +66,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Pious Fellowship]]: Member
+- [[Phantasmal Reality Lab]]: Member
 
 ### Relationships
 - [[Shinare Bersa]]: partymate

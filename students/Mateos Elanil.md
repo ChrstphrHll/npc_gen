@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Felgie Eldar
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Mysten Students for a Better Revendale
+  type: Leadership
+- name: Tincture Tinkerers
+  type: Member
 notes: []
 track: Exploration
 spec: Rouge
@@ -44,6 +50,9 @@ partyID: 60
 tags:
 - Halfling
 - Verdain
+- Wayfinders
+- Mysten_Students_for_a_Better_Revendale
+- Tincture_Tinkerers
 - Rouge
 - Exploration
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Mysten Students for a Better Revendale]]: Leadership
+- [[Tincture Tinkerers]]: Member
 
 ### Relationships
 - [[Selina Bellas]]: partymate

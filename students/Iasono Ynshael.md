@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Garan Mirthal
   type: partymate
-organizations: []
+organizations:
+- name: Ashari Cultural Group
+  type: Member
+- name: Hand of Order
+  type: Member
+- name: Tincture Tinkerers
+  type: Member
 notes: []
 track: Protection
 spec: Druid
@@ -46,6 +52,9 @@ partyID: 68
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Ashari_Cultural_Group
+- Hand_of_Order
+- Tincture_Tinkerers
 - Druid
 - Protection
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Ashari Cultural Group]]: Member
+- [[Hand of Order]]: Member
+- [[Tincture Tinkerers]]: Member
 
 ### Relationships
 - [[Matto Divya]]: partymate

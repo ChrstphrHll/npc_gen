@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Jasjen Nlossae
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Splinters
+  type: Member
+- name: Forgetenders
+  type: Member
 notes: []
 track: Exploration
 spec: Barbarian
@@ -41,6 +47,9 @@ partyID: 65
 tags:
 - Tiefling
 - Verdain
+- Wayfinders
+- Splinters
+- Forgetenders
 - Barbarian
 - Exploration
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Splinters]]: Member
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Eligio Nevarth]]: partymate

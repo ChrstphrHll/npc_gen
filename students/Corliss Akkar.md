@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Aenglo Dyffros
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: LOAM
+  type: Member
+- name: Tincture Tinkerers
+  type: Member
 notes: []
 track: Exploration
 spec: Rouge
@@ -41,6 +47,9 @@ partyID: 72
 tags:
 - Half-Orc
 - Qualnis
+- Cracked_Bell
+- LOAM
+- Tincture_Tinkerers
 - Rouge
 - Exploration
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[LOAM]]: Member
+- [[Tincture Tinkerers]]: Member
 
 ### Relationships
 - [[Lynx Galather]]: partymate

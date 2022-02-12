@@ -23,7 +23,11 @@ relevance: 0
 relationships:
 - name: Ian Averescu
   type: partymate
-organizations: []
+organizations:
+- name: Enchantary
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Cleric
@@ -40,6 +44,8 @@ partyID: 52
 tags:
 - Human
 - Aldercrown_Empire
+- Enchantary
+- Masked_Many
 - Cleric
 - Diplomacy
 - Student
@@ -57,6 +63,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Enchantary]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Ian Averescu]]: partymate

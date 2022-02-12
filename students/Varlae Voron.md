@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Theriss Deularla
   type: partymate
-organizations: []
+organizations:
+- name: Threaded Needle
+  type: Leadership
+- name: Pious Fellowship
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Exploration
 spec: Wizard
@@ -46,6 +52,9 @@ partyID: 58
 tags:
 - Half-Orc
 - Verdain
+- Threaded_Needle
+- Pious_Fellowship
+- Hand_of_Order
 - Wizard
 - Exploration
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Threaded Needle]]: Leadership
+- [[Pious Fellowship]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Vyctor Willow]]: partymate

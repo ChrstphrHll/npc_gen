@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Alkindus Llamryl
   type: partymate
-organizations: []
+organizations:
+- name: Alderden Silkball
+  type: Member
+- name: Threaded Needle
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Protection
 spec: Rouge
@@ -44,6 +50,9 @@ partyID: 56
 tags:
 - Triton
 - Qualnis
+- Alderden_Silkball
+- Threaded_Needle
+- Ruin_Runners
 - Rouge
 - Protection
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Alderden Silkball]]: Member
+- [[Threaded Needle]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Audree Dixon]]: partymate

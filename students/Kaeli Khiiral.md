@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Ryan Ebersol
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Leadership
+- name: Enchantary
+  type: Leadership
+- name: Phantasmal Reality Lab
+  type: Leader
 notes: []
 track: Assault
 spec: Wizard
@@ -45,6 +51,9 @@ partyID: 89
 tags:
 - Triton
 - Whyndiem
+- Splinters
+- Enchantary
+- Phantasmal_Reality_Lab
 - Wizard
 - Assault
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Leadership
+- [[Enchantary]]: Leadership
+- [[Phantasmal Reality Lab]]: Leader
 
 ### Relationships
 - [[Pinna Vanius]]: partymate

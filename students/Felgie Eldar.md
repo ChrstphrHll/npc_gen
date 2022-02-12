@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Brianna Kosunten
   type: partymate
-organizations: []
+organizations:
+- name: Grason's Claw
+  type: Member
+- name: Mysten Students for a Better Revendale
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Protection
 spec: Druid
@@ -44,6 +50,9 @@ partyID: 60
 tags:
 - Goliath
 - Aldercrown_Empire
+- Grason's_Claw
+- Mysten_Students_for_a_Better_Revendale
+- Hand_of_Order
 - Druid
 - Protection
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Grason's Claw]]: Member
+- [[Mysten Students for a Better Revendale]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Selina Bellas]]: partymate

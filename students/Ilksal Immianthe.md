@@ -23,7 +23,11 @@ relevance: 0
 relationships:
 - name: Den Ualair
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Trenchers
+  type: Member
 notes: []
 track: Protection
 spec: Barbarian
@@ -40,6 +44,8 @@ partyID: 8
 tags:
 - Triton
 - Beleriand
+- Splinters
+- Trenchers
 - Barbarian
 - Protection
 - Student
@@ -57,6 +63,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Trenchers]]: Member
 
 ### Relationships
 - [[Den Ualair]]: partymate

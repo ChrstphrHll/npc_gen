@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Evyn Fenton
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Leadership
+- name: Ruin Runners
+  type: Member
+- name: Enchantary
+  type: Member
 notes: []
 track: Assault
 spec: Wizard
@@ -43,6 +49,9 @@ partyID: 34
 tags:
 - Elf
 - Aldercrown_Empire
+- Splinters
+- Ruin_Runners
+- Enchantary
 - Wizard
 - Assault
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Leadership
+- [[Ruin Runners]]: Member
+- [[Enchantary]]: Member
 
 ### Relationships
 - [[Eune Eldratha]]: partymate

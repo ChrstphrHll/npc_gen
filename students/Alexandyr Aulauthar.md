@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Adamos Taehr
   type: partymate
-organizations: []
+organizations:
+- name: Aquaculture
+  type: Member
+- name: Inner Circle Judges
+  type: Leadership
+- name: Stack Scalers
+  type: Member
 notes: []
 track: Diplomacy
 spec: Wizard
@@ -41,6 +47,9 @@ partyID: 53
 tags:
 - Firbolg
 - Verdain
+- Aquaculture
+- Inner_Circle_Judges
+- Stack_Scalers
 - Wizard
 - Diplomacy
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Aquaculture]]: Member
+- [[Inner Circle Judges]]: Leadership
+- [[Stack Scalers]]: Member
 
 ### Relationships
 - [[Coriss Biafyndar]]: partymate

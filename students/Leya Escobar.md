@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Hanna Estelar
   type: partymate
-organizations: []
+organizations:
+- name: Threaded Needle
+  type: Leadership
+- name: Ruin Runners
+  type: Leadership
+- name: Stack Scalers
+  type: Member
 notes: []
 track: Assault
 spec: Fighter
@@ -44,6 +50,9 @@ partyID: 24
 tags:
 - Human
 - Floating_Island
+- Threaded_Needle
+- Ruin_Runners
+- Stack_Scalers
 - Fighter
 - Assault
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Threaded Needle]]: Leadership
+- [[Ruin Runners]]: Leadership
+- [[Stack Scalers]]: Member
 
 ### Relationships
 - [[Gina Grandius]]: partymate

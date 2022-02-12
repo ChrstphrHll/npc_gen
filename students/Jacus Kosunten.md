@@ -25,7 +25,9 @@ relationships:
   type: partymate
 - name: Shenai Inqoul
   type: partymate
-organizations: []
+organizations:
+- name: Burk Silkball
+  type: Member
 notes: []
 track: Exploration
 spec: Monk
@@ -42,6 +44,7 @@ partyID: 57
 tags:
 - Human
 - Qualnis
+- Burk_Silkball
 - Monk
 - Exploration
 - Student
@@ -59,6 +62,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Burk Silkball]]: Member
 
 ### Relationships
 - [[Edyrm Iolas]]: partymate

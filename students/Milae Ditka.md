@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Avaery Klaern
   type: partymate
-organizations: []
+organizations:
+- name: Dragon Chess Club
+  type: Member
+- name: Pious Fellowship
+  type: Member
+- name: Golemic Consortium
+  type: Member
 notes: []
 track: Protection
 spec: Sorcerer
@@ -42,6 +48,9 @@ partyID: 66
 tags:
 - Dragonborn
 - Beleriand
+- Dragon_Chess_Club
+- Pious_Fellowship
+- Golemic_Consortium
 - Sorcerer
 - Protection
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Dragon Chess Club]]: Member
+- [[Pious Fellowship]]: Member
+- [[Golemic Consortium]]: Member
 
 ### Relationships
 - [[Juppar Kershaw]]: partymate

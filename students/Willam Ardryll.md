@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Lucoe Lorelei
   type: partymate
-organizations: []
+organizations:
+- name: Mysten Students for a Better Revendale
+  type: Member
+- name: Ruin Runners
+  type: Member
+- name: Masked Many
+  type: Leadership
 notes: []
 track: Assault
 spec: Wizard
@@ -45,6 +51,9 @@ partyID: 44
 tags:
 - Kenku
 - Black_Rock
+- Mysten_Students_for_a_Better_Revendale
+- Ruin_Runners
+- Masked_Many
 - Wizard
 - Assault
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Mysten Students for a Better Revendale]]: Member
+- [[Ruin Runners]]: Member
+- [[Masked Many]]: Leadership
 
 ### Relationships
 - [[Graisen Thalanil]]: partymate

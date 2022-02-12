@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Gianesia Onvyr
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Threaded Needle
+  type: Member
+- name: Spellweavers
+  type: Member
 notes: []
 track: Diplomacy
 spec: Wizard
@@ -42,6 +48,9 @@ partyID: 29
 tags:
 - Halfling
 - Kordinia
+- Wayfinders
+- Threaded_Needle
+- Spellweavers
 - Wizard
 - Diplomacy
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Threaded Needle]]: Member
+- [[Spellweavers]]: Member
 
 ### Relationships
 - [[Moki Aelynthi]]: partymate

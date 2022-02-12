@@ -22,7 +22,11 @@ relevance: 0
 relationships:
 - name: Hartwen Galaeron
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Forgetenders
+  type: Member
 notes: []
 track: Assault
 spec: Sorcerer
@@ -39,6 +43,8 @@ partyID: 52
 tags:
 - Dragonborn
 - Draconia
+- Splinters
+- Forgetenders
 - Sorcerer
 - Assault
 - Student
@@ -56,6 +62,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Hartwen Galaeron]]: partymate

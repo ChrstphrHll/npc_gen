@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Rjanna Eroan
   type: partymate
-organizations: []
+organizations:
+- name: Aquaculture
+  type: Member
+- name: Treskal Silkball
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
 notes: []
 track: Assault
 spec: Druid
@@ -44,6 +50,9 @@ partyID: 18
 tags:
 - Triton
 - Glasscliff_Garisons
+- Aquaculture
+- Treskal_Silkball
+- Ashari_Cultural_Group
 - Druid
 - Assault
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Aquaculture]]: Member
+- [[Treskal Silkball]]: Member
+- [[Ashari Cultural Group]]: Member
 
 ### Relationships
 - [[Shinare Bersa]]: partymate

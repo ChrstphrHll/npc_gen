@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Dejana Keller
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Treskal Silkball
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Exploration
 spec: Ranger
@@ -45,6 +51,9 @@ partyID: 51
 tags:
 - Elf
 - Beleriand
+- Wayfinders
+- Treskal_Silkball
+- Ruin_Runners
 - Ranger
 - Exploration
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Treskal Silkball]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Ysaac Aelrue]]: partymate

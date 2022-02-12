@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Lichie Halliwell
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Grason's Claw
+  type: Member
+- name: Inner Circle Judges
+  type: Member
 notes: []
 track: Assault
 spec: Cleric
@@ -45,6 +51,9 @@ partyID: 82
 tags:
 - Triton
 - Whyndiem
+- Splinters
+- Grason's_Claw
+- Inner_Circle_Judges
 - Cleric
 - Assault
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Grason's Claw]]: Member
+- [[Inner Circle Judges]]: Member
 
 ### Relationships
 - [[Wulfe Galan]]: partymate

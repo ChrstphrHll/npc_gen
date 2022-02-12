@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Kayla Kaminsky
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Splinters
+  type: Member
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Assault
 spec: Rouge
@@ -45,6 +51,9 @@ partyID: 90
 tags:
 - Half-Elf
 - Aldercrown_Empire
+- Cracked_Bell
+- Splinters
+- Inventors_Initiative
 - Rouge
 - Assault
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Splinters]]: Member
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Diegon Verrona]]: partymate

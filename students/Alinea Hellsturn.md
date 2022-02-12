@@ -25,7 +25,11 @@ relationships:
   type: partymate
 - name: Jacomo Jacaranda
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: The Second Pillar Players
+  type: Member
 notes: []
 track: Assault
 spec: Ranger
@@ -42,6 +46,8 @@ partyID: 11
 tags:
 - Elf
 - Beleriand
+- Splinters
+- The_Second_Pillar_Players
 - Ranger
 - Assault
 - Student
@@ -59,6 +65,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[The Second Pillar Players]]: Member
 
 ### Relationships
 - [[Tommos Morgan]]: partymate

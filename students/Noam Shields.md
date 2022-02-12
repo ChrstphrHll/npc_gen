@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Remus Manchul
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Burk Silkball
+  type: Member
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Assault
 spec: Barbarian
@@ -45,6 +51,9 @@ partyID: 59
 tags:
 - Half-Orc
 - Magmus_Centerhold
+- Splinters
+- Burk_Silkball
+- Inventors_Initiative
 - Barbarian
 - Assault
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Burk Silkball]]: Member
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Gunnar Ordayius]]: partymate

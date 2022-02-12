@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Roman Erolith
   type: partymate
-organizations: []
+organizations:
+- name: Grason's Claw
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
+- name: Inventors Initiative
+  type: Leadership
 notes: []
 track: Assault
 spec: Ranger
@@ -41,6 +47,9 @@ partyID: 5
 tags:
 - Half-Elf
 - Kordinia
+- Grason's_Claw
+- Ashari_Cultural_Group
+- Inventors_Initiative
 - Ranger
 - Assault
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Grason's Claw]]: Member
+- [[Ashari Cultural Group]]: Member
+- [[Inventors Initiative]]: Leadership
 
 ### Relationships
 - [[Thongar Fairchild]]: partymate

@@ -25,7 +25,9 @@ relationships:
   type: partymate
 - name: Hagar Sakrattars
   type: partymate
-organizations: []
+organizations:
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Assault
 spec: Fighter
@@ -42,6 +44,7 @@ partyID: 86
 tags:
 - Dragonborn
 - Beleriand
+- Ruin_Runners
 - Fighter
 - Assault
 - Student
@@ -59,6 +62,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Valygar Lyklor]]: partymate

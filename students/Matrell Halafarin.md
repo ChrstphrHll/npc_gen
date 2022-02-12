@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Yoshen Arcaena
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Trenchers
+  type: Member
+- name: Golemic Consortium
+  type: Member
 notes: []
 track: Assault
 spec: Artificer
@@ -44,6 +50,9 @@ partyID: 3
 tags:
 - Aasimar
 - Qualnis
+- Wayfinders
+- Trenchers
+- Golemic_Consortium
 - Artificer
 - Assault
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Trenchers]]: Member
+- [[Golemic Consortium]]: Member
 
 ### Relationships
 - [[Giacomo Edraele]]: partymate

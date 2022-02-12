@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Halja Dwyer
   type: partymate
-organizations: []
+organizations:
+- name: Threaded Needle
+  type: Member
+- name: Spellweavers
+  type: Member
+- name: Golemic Consortium
+  type: Member
 notes: []
 track: Diplomacy
 spec: Sorcerer
@@ -40,6 +46,9 @@ partyID: 55
 tags:
 - Half-Elf
 - Beleriand
+- Threaded_Needle
+- Spellweavers
+- Golemic_Consortium
 - Sorcerer
 - Diplomacy
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Threaded Needle]]: Member
+- [[Spellweavers]]: Member
+- [[Golemic Consortium]]: Member
 
 ### Relationships
 - [[Halja Dwyer]]: partymate

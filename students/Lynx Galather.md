@@ -25,7 +25,11 @@ relationships:
   type: partymate
 - name: Aenglo Dyffros
   type: partymate
-organizations: []
+organizations:
+- name: Threaded Needle
+  type: Member
+- name: Phantasmal Reality Lab
+  type: Member
 notes: []
 track: Exploration
 spec: Monk
@@ -42,6 +46,8 @@ partyID: 72
 tags:
 - Human
 - Floating_Island
+- Threaded_Needle
+- Phantasmal_Reality_Lab
 - Monk
 - Exploration
 - Student
@@ -59,6 +65,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Threaded Needle]]: Member
+- [[Phantasmal Reality Lab]]: Member
 
 ### Relationships
 - [[Corliss Akkar]]: partymate

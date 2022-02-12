@@ -29,7 +29,9 @@ relationships:
   type: partymate
 - name: Theriss Deularla
   type: partymate
-organizations: []
+organizations:
+- name: Aquaculture
+  type: Leader
 notes: []
 track: Protection
 spec: Rouge
@@ -46,6 +48,7 @@ partyID: 58
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Aquaculture
 - Rouge
 - Protection
 - Student
@@ -63,6 +66,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Aquaculture]]: Leader
 
 ### Relationships
 - [[Vyctor Willow]]: partymate

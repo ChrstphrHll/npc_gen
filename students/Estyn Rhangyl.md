@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Robbos Kalaerede
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Grason's Claw
+  type: Leadership
+- name: Masked Many
+  type: Member
 notes: []
 track: Protection
 spec: Artificer
@@ -45,6 +51,9 @@ partyID: 7
 tags:
 - Dragonborn
 - Draconia
+- Wayfinders
+- Grason's_Claw
+- Masked_Many
 - Artificer
 - Protection
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Grason's Claw]]: Leadership
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Tadita Edraele]]: partymate

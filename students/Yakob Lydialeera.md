@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Lichie Halliwell
   type: partymate
-organizations: []
+organizations:
+- name: Threaded Needle
+  type: Member
+- name: Ruin Runners
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Protection
 spec: Fighter
@@ -43,6 +49,9 @@ partyID: 82
 tags:
 - Dragonborn
 - Draconia
+- Threaded_Needle
+- Ruin_Runners
+- Hand_of_Order
 - Fighter
 - Protection
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Threaded Needle]]: Member
+- [[Ruin Runners]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Wulfe Galan]]: partymate

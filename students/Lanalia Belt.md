@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Rossan Jonik
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Wayfinders
+  type: Member
+- name: Splinters
+  type: Member
 notes: []
 track: Diplomacy
 spec: Paladin
@@ -44,6 +50,9 @@ partyID: 67
 tags:
 - Elf
 - Aldercrown_Empire
+- Cracked_Bell
+- Wayfinders
+- Splinters
 - Paladin
 - Diplomacy
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Wayfinders]]: Member
+- [[Splinters]]: Member
 
 ### Relationships
 - [[Bela Qwey]]: partymate

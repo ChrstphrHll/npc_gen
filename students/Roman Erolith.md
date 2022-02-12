@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Thongar Fairchild
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Leadership
+- name: Splinters
+  type: Member
+- name: Threaded Needle
+  type: Member
 notes: []
 track: Exploration
 spec: Monk
@@ -42,6 +48,9 @@ partyID: 5
 tags:
 - Dragonborn
 - Draconia
+- LOAM
+- Splinters
+- Threaded_Needle
 - Monk
 - Exploration
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Leadership
+- [[Splinters]]: Member
+- [[Threaded Needle]]: Member
 
 ### Relationships
 - [[Meira Nuvian]]: partymate

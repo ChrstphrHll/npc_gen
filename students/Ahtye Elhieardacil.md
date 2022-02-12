@@ -24,7 +24,11 @@ relationships:
   type: partymate
 - name: Malchor Tenyajn
   type: partymate
-organizations: []
+organizations:
+- name: Golemic Consortium
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Druid
@@ -41,6 +45,8 @@ partyID: 81
 tags:
 - Elf
 - Beleriand
+- Golemic_Consortium
+- Masked_Many
 - Druid
 - Diplomacy
 - Student
@@ -58,6 +64,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Golemic Consortium]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Santyeg Kuskyn]]: partymate

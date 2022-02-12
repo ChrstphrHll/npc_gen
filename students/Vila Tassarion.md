@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Mavrek Aolis
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Leadership
+- name: Ruin Runners
+  type: Member
+- name: Enchantary
+  type: Member
 notes: []
 track: Diplomacy
 spec: Bard
@@ -45,6 +51,9 @@ partyID: 47
 tags:
 - Human
 - Qualnis
+- Wayfinders
+- Ruin_Runners
+- Enchantary
 - Bard
 - Diplomacy
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Leadership
+- [[Ruin Runners]]: Member
+- [[Enchantary]]: Member
 
 ### Relationships
 - [[Julyo Agassi]]: partymate

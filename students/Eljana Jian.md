@@ -23,7 +23,9 @@ relevance: 0
 relationships:
 - name: Asralyn Rhangyl
   type: partymate
-organizations: []
+organizations:
+- name: Mendary Practitioners
+  type: Leader
 notes: []
 track: Protection
 spec: Fighter
@@ -40,6 +42,7 @@ partyID: 71
 tags:
 - Goliath
 - Chillwild_Peaks
+- Mendary_Practitioners
 - Fighter
 - Protection
 - Student
@@ -57,6 +60,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Mendary Practitioners]]: Leader
 
 ### Relationships
 - [[Asralyn Rhangyl]]: partymate

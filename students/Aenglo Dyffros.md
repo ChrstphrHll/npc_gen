@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Corliss Akkar
   type: partymate
-organizations: []
+organizations:
+- name: Enchantary
+  type: Member
+- name: Walltoppers
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Cleric
@@ -41,6 +47,9 @@ partyID: 72
 tags:
 - Elf
 - Beleriand
+- Enchantary
+- Walltoppers
+- Masked_Many
 - Cleric
 - Diplomacy
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Enchantary]]: Member
+- [[Walltoppers]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Lynx Galather]]: partymate

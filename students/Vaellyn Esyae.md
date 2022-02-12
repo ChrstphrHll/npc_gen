@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Gormoth Shyrrik
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Leadership
+- name: Jettenia Silkball
+  type: Member
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Exploration
 spec: Cleric
@@ -42,6 +48,9 @@ partyID: 33
 tags:
 - Triton
 - Whyndiem
+- Cracked_Bell
+- Jettenia_Silkball
+- Inventors_Initiative
 - Cleric
 - Exploration
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Leadership
+- [[Jettenia Silkball]]: Member
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Kymber Korrigash]]: partymate

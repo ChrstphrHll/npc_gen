@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Jaxon Brindarry
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Hand of Order
+  type: Member
+- name: The Second Pillar Players
+  type: Member
 notes: []
 track: Assault
 spec: Druid
@@ -44,6 +50,9 @@ partyID: 28
 tags:
 - Dragonborn
 - Draconia
+- Cracked_Bell
+- Hand_of_Order
+- The_Second_Pillar_Players
 - Druid
 - Assault
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Hand of Order]]: Member
+- [[The Second Pillar Players]]: Member
 
 ### Relationships
 - [[Railyn Retenia]]: partymate

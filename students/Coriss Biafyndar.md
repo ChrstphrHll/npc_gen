@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Adamos Taehr
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Protection
 spec: Druid
@@ -42,6 +48,9 @@ partyID: 53
 tags:
 - Elf
 - Beleriand
+- Wayfinders
+- Ashari_Cultural_Group
+- Ruin_Runners
 - Druid
 - Protection
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Ashari Cultural Group]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Alexandyr Aulauthar]]: partymate

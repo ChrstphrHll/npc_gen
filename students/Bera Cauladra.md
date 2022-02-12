@@ -24,7 +24,13 @@ relevance: 0
 relationships:
 - name: Auzerais Venali
   type: partymate
-organizations: []
+organizations:
+- name: Threaded Needle
+  type: Member
+- name: Stack Scalers
+  type: Leadership
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Diplomacy
 spec: Cleric
@@ -41,6 +47,9 @@ partyID: 23
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Threaded_Needle
+- Stack_Scalers
+- Inventors_Initiative
 - Cleric
 - Diplomacy
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Threaded Needle]]: Member
+- [[Stack Scalers]]: Leadership
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Auzerais Venali]]: partymate

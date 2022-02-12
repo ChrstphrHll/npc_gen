@@ -24,7 +24,11 @@ relationships:
   type: partymate
 - name: Velmona Elway
   type: partymate
-organizations: []
+organizations:
+- name: Golemic Consortium
+  type: Member
+- name: Walltoppers
+  type: Member
 notes: []
 track: Assault
 spec: Artificer
@@ -41,6 +45,8 @@ partyID: 40
 tags:
 - Human
 - Beleriand
+- Golemic_Consortium
+- Walltoppers
 - Artificer
 - Assault
 - Student
@@ -58,6 +64,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Golemic Consortium]]: Member
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Theodus Chylnoth]]: partymate

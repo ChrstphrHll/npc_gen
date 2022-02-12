@@ -24,7 +24,9 @@ relationships:
   type: partymate
 - name: Tommos Morgan
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Member
 notes: []
 track: Assault
 spec: Barbarian
@@ -41,6 +43,7 @@ partyID: 11
 tags:
 - Halfling
 - Floating_Island
+- Half_Notes
 - Barbarian
 - Assault
 - Student
@@ -58,6 +61,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Member
 
 ### Relationships
 - [[Alinea Hellsturn]]: partymate

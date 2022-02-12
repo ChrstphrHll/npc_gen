@@ -23,7 +23,11 @@ relevance: 0
 relationships:
 - name: Sulivan Wylchyr
   type: partymate
-organizations: []
+organizations:
+- name: Jettenia Silkball
+  type: Member
+- name: Questboard Daily
+  type: Member
 notes: []
 track: Exploration
 spec: Barbarian
@@ -40,6 +44,8 @@ partyID: 50
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Jettenia_Silkball
+- Questboard_Daily
 - Barbarian
 - Exploration
 - Student
@@ -57,6 +63,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Jettenia Silkball]]: Member
+- [[Questboard Daily]]: Member
 
 ### Relationships
 - [[Sulivan Wylchyr]]: partymate

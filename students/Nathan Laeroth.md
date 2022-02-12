@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Pike Tethir
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Member
+- name: Threaded Needle
+  type: Member
+- name: Golemic Consortium
+  type: Member
 notes: []
 track: Diplomacy
 spec: Artificer
@@ -42,6 +48,9 @@ partyID: 64
 tags:
 - Gnome
 - Shadesburry_Initiative
+- LOAM
+- Threaded_Needle
+- Golemic_Consortium
 - Artificer
 - Diplomacy
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Member
+- [[Threaded Needle]]: Member
+- [[Golemic Consortium]]: Member
 
 ### Relationships
 - [[Jendrellian Webb]]: partymate

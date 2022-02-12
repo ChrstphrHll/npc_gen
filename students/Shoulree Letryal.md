@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Levi Kicklighter
   type: partymate
-organizations: []
+organizations:
+- name: Inner Circle Judges
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Diplomacy
 spec: Monk
@@ -43,6 +49,9 @@ partyID: 88
 tags:
 - Tiefling
 - Principality_of_the_Palus_Peoples
+- Inner_Circle_Judges
+- Ashari_Cultural_Group
+- Pious_Fellowship
 - Monk
 - Diplomacy
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Inner Circle Judges]]: Member
+- [[Ashari Cultural Group]]: Member
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Alonnos Xanotter]]: partymate

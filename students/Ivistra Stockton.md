@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Yorala Tiatha
   type: partymate
-organizations: []
+organizations:
+- name: Dragon Chess Club
+  type: Member
+- name: Spellweavers
+  type: Member
+- name: Inventors Initiative
+  type: Leader
 notes: []
 track: Diplomacy
 spec: Wizard
@@ -46,6 +52,9 @@ partyID: 35
 tags:
 - Tiefling
 - Beleriand
+- Dragon_Chess_Club
+- Spellweavers
+- Inventors_Initiative
 - Wizard
 - Diplomacy
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Dragon Chess Club]]: Member
+- [[Spellweavers]]: Member
+- [[Inventors Initiative]]: Leader
 
 ### Relationships
 - [[Matos Mektal]]: partymate

@@ -28,7 +28,9 @@ relationships:
   type: partymate
 - name: Tylus Ytharra
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Leadership
 notes: []
 track: Protection
 spec: Artificer
@@ -45,6 +47,7 @@ partyID: 22
 tags:
 - Half-Orc
 - Aldercrown_Empire
+- Wayfinders
 - Artificer
 - Protection
 - Student
@@ -62,6 +65,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Leadership
 
 ### Relationships
 - [[Gabrilo Kulo]]: partymate

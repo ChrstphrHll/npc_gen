@@ -25,7 +25,9 @@ relationships:
   type: partymate
 - name: Jothen Elway
   type: partymate
-organizations: []
+organizations:
+- name: Spellweavers
+  type: Member
 notes: []
 track: Protection
 spec: Sorcerer
@@ -42,6 +44,7 @@ partyID: 2
 tags:
 - Half-Elf
 - Aldercrown_Empire
+- Spellweavers
 - Sorcerer
 - Protection
 - Student
@@ -59,6 +62,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Spellweavers]]: Member
 
 ### Relationships
 - [[Aidyn Glynnii]]: partymate

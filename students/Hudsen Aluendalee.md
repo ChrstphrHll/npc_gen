@@ -24,7 +24,13 @@ relevance: 0
 relationships:
 - name: Astinus Sythaeryn
   type: partymate
-organizations: []
+organizations:
+- name: Mysten Students for a Better Revendale
+  type: Member
+- name: Hand of Order
+  type: Member
+- name: Spellweavers
+  type: Member
 notes: []
 track: Exploration
 spec: Wizard
@@ -41,6 +47,9 @@ partyID: 37
 tags:
 - Half-Elf
 - Aldercrown_Empire
+- Mysten_Students_for_a_Better_Revendale
+- Hand_of_Order
+- Spellweavers
 - Wizard
 - Exploration
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Mysten Students for a Better Revendale]]: Member
+- [[Hand of Order]]: Member
+- [[Spellweavers]]: Member
 
 ### Relationships
 - [[Astinus Sythaeryn]]: partymate

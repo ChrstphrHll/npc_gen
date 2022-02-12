@@ -25,7 +25,9 @@ relationships:
   type: partymate
 - name: Scarletta Elora
   type: partymate
-organizations: []
+organizations:
+- name: Mendary Practitioners
+  type: Member
 notes: []
 track: Protection
 spec: Monk
@@ -42,6 +44,7 @@ partyID: 27
 tags:
 - Kenku
 - Black_Rock
+- Mendary_Practitioners
 - Monk
 - Protection
 - Student
@@ -59,6 +62,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Terek Nushala]]: partymate

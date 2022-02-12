@@ -27,7 +27,9 @@ relationships:
   type: partymate
 - name: Valerya Haldreithen
   type: partymate
-organizations: []
+organizations:
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Exploration
 spec: Ranger
@@ -44,6 +46,7 @@ partyID: 18
 tags:
 - Tiefling
 - Shadesburry_Initiative
+- Inventors_Initiative
 - Ranger
 - Exploration
 - Student
@@ -61,6 +64,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Ezros Laerdya]]: partymate

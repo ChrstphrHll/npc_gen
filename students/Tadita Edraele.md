@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Robbos Kalaerede
   type: partymate
-organizations: []
+organizations:
+- name: Treskal Silkball
+  type: Member
+- name: Pious Fellowship
+  type: Leadership
+- name: Masked Many
+  type: Member
 notes: []
 track: Assault
 spec: Paladin
@@ -46,6 +52,9 @@ partyID: 7
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Treskal_Silkball
+- Pious_Fellowship
+- Masked_Many
 - Paladin
 - Assault
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Treskal Silkball]]: Member
+- [[Pious Fellowship]]: Leadership
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Estyn Rhangyl]]: partymate

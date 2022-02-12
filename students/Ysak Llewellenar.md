@@ -28,7 +28,11 @@ relationships:
   type: partymate
 - name: Iasono Ynshael
   type: partymate
-organizations: []
+organizations:
+- name: Questboard Daily
+  type: Member
+- name: Walltoppers
+  type: Member
 notes: []
 track: Assault
 spec: Paladin
@@ -45,6 +49,8 @@ partyID: 68
 tags:
 - Dragonborn
 - Magmus_Centerhold
+- Questboard_Daily
+- Walltoppers
 - Paladin
 - Assault
 - Student
@@ -62,6 +68,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Questboard Daily]]: Member
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Matto Divya]]: partymate

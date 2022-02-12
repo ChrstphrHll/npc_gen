@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Braidyn Kemetra
   type: partymate
-organizations: []
+organizations:
+- name: Hand of Order
+  type: Member
+- name: Masked Many
+  type: Leader
+- name: Mendary Practitioners
+  type: Member
 notes: []
 track: Diplomacy
 spec: Druid
@@ -42,6 +48,9 @@ partyID: 25
 tags:
 - Half-Orc
 - Magmus_Centerhold
+- Hand_of_Order
+- Masked_Many
+- Mendary_Practitioners
 - Druid
 - Diplomacy
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Hand of Order]]: Member
+- [[Masked Many]]: Leader
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Grassa Ashbluff]]: partymate

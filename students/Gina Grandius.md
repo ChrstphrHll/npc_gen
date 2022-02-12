@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Hanna Estelar
   type: partymate
-organizations: []
+organizations:
+- name: Grason's Claw
+  type: Member
+- name: Alderden Silkball
+  type: Member
+- name: Ashari Cultural Group
+  type: Leadership
 notes: []
 track: Exploration
 spec: Monk
@@ -43,6 +49,9 @@ partyID: 24
 tags:
 - Tiefling
 - Beleriand
+- Grason's_Claw
+- Alderden_Silkball
+- Ashari_Cultural_Group
 - Monk
 - Exploration
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Grason's Claw]]: Member
+- [[Alderden Silkball]]: Member
+- [[Ashari Cultural Group]]: Leadership
 
 ### Relationships
 - [[Leya Escobar]]: partymate

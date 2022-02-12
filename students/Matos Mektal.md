@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Ivistra Stockton
   type: partymate
-organizations: []
+organizations:
+- name: Jettenia Silkball
+  type: Member
+- name: Trenchers
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Barbarian
@@ -46,6 +52,9 @@ partyID: 35
 tags:
 - Kenku
 - Shadesburry_Initiative
+- Jettenia_Silkball
+- Trenchers
+- Masked_Many
 - Barbarian
 - Diplomacy
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Jettenia Silkball]]: Member
+- [[Trenchers]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Adros Tolthe]]: partymate

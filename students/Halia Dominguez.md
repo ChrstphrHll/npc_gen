@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Tyego Sinaht
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: LOAM
+  type: Member
+- name: Wayfinders
+  type: Member
 notes: []
 track: Protection
 spec: Paladin
@@ -44,6 +50,9 @@ partyID: 98
 tags:
 - Triton
 - Whyndiem
+- Cracked_Bell
+- LOAM
+- Wayfinders
 - Paladin
 - Protection
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[LOAM]]: Member
+- [[Wayfinders]]: Member
 
 ### Relationships
 - [[Jess Beebe]]: partymate

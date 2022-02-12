@@ -24,7 +24,9 @@ relevance: 0
 relationships:
 - name: Eljana Jian
   type: partymate
-organizations: []
+organizations:
+- name: Forgetenders
+  type: Member
 notes: []
 track: Assault
 spec: Ranger
@@ -41,6 +43,7 @@ partyID: 71
 tags:
 - Elf
 - Aldercrown_Empire
+- Forgetenders
 - Ranger
 - Assault
 - Student
@@ -58,6 +61,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Eljana Jian]]: partymate

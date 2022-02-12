@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Saccaros Anaharae
   type: partymate
-organizations: []
+organizations:
+- name: Treskal Silkball
+  type: Member
+- name: Inventors Initiative
+  type: Member
+- name: Mendary Practitioners
+  type: Member
 notes: []
 track: Assault
 spec: Ranger
@@ -40,6 +46,9 @@ partyID: 70
 tags:
 - Firbolg
 - Verdain
+- Treskal_Silkball
+- Inventors_Initiative
+- Mendary_Practitioners
 - Ranger
 - Assault
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Treskal Silkball]]: Member
+- [[Inventors Initiative]]: Member
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Saccaros Anaharae]]: partymate

@@ -31,7 +31,11 @@ relationships:
   type: partymate
 - name: Andrey Rauthomyr
   type: partymate
-organizations: []
+organizations:
+- name: Jettenia Silkball
+  type: Member
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Exploration
 spec: Paladin
@@ -48,6 +52,8 @@ partyID: 91
 tags:
 - Warforged
 - Shadesburry_Initiative
+- Jettenia_Silkball
+- Pious_Fellowship
 - Paladin
 - Exploration
 - Student
@@ -65,6 +71,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Jettenia Silkball]]: Member
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Jandar Pleufan]]: partymate

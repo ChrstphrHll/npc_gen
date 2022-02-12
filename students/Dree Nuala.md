@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Theriss Deularla
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Forgetenders
+  type: Leadership
+- name: Walltoppers
+  type: Member
 notes: []
 track: Diplomacy
 spec: Rouge
@@ -46,6 +52,9 @@ partyID: 58
 tags:
 - Gnome
 - Floating_Island
+- Cracked_Bell
+- Forgetenders
+- Walltoppers
 - Rouge
 - Diplomacy
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Forgetenders]]: Leadership
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Vyctor Willow]]: partymate

@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Gifre Edyrm
   type: partymate
-organizations: []
+organizations:
+- name: Threaded Needle
+  type: Member
+- name: Pious Fellowship
+  type: Member
+- name: Stack Scalers
+  type: Member
 notes: []
 track: Diplomacy
 spec: Cleric
@@ -45,6 +51,9 @@ partyID: 46
 tags:
 - Halfling
 - Aldercrown_Empire
+- Threaded_Needle
+- Pious_Fellowship
+- Stack_Scalers
 - Cleric
 - Diplomacy
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Threaded Needle]]: Member
+- [[Pious Fellowship]]: Member
+- [[Stack Scalers]]: Member
 
 ### Relationships
 - [[Lenn Schimae]]: partymate

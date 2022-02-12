@@ -27,7 +27,11 @@ relationships:
   type: partymate
 - name: Hanna Estelar
   type: partymate
-organizations: []
+organizations:
+- name: Alderden Silkball
+  type: Member
+- name: Inventors Initiative
+  type: Leadership
 notes: []
 track: Exploration
 spec: Druid
@@ -44,6 +48,8 @@ partyID: 24
 tags:
 - Dragonborn
 - Draconia
+- Alderden_Silkball
+- Inventors_Initiative
 - Druid
 - Exploration
 - Student
@@ -61,6 +67,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Alderden Silkball]]: Member
+- [[Inventors Initiative]]: Leadership
 
 ### Relationships
 - [[Gina Grandius]]: partymate

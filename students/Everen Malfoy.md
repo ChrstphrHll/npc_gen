@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Taewen Llamryl
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Tincture Tinkerers
+  type: Member
+- name: Questboard Daily
+  type: Leadership
 notes: []
 track: Exploration
 spec: Fighter
@@ -41,6 +47,9 @@ partyID: 61
 tags:
 - Halfling
 - Aldercrown_Empire
+- Wayfinders
+- Tincture_Tinkerers
+- Questboard_Daily
 - Fighter
 - Exploration
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Tincture Tinkerers]]: Member
+- [[Questboard Daily]]: Leadership
 
 ### Relationships
 - [[Iaen Dannyd]]: partymate

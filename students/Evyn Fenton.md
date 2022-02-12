@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Tezani Morthil
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Ruin Runners
+  type: Member
+- name: Tincture Tinkerers
+  type: Member
 notes: []
 track: Protection
 spec: Rouge
@@ -41,6 +47,9 @@ partyID: 34
 tags:
 - Half-Orc
 - Magmus_Centerhold
+- Wayfinders
+- Ruin_Runners
+- Tincture_Tinkerers
 - Rouge
 - Protection
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Ruin Runners]]: Member
+- [[Tincture Tinkerers]]: Member
 
 ### Relationships
 - [[Eune Eldratha]]: partymate

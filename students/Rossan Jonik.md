@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Lanalia Belt
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Member
+- name: Aquaculture
+  type: Member
+- name: Threaded Needle
+  type: Member
 notes: []
 track: Exploration
 spec: Artificer
@@ -42,6 +48,9 @@ partyID: 67
 tags:
 - Halfling
 - Kordinia
+- LOAM
+- Aquaculture
+- Threaded_Needle
 - Artificer
 - Exploration
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Member
+- [[Aquaculture]]: Member
+- [[Threaded Needle]]: Member
 
 ### Relationships
 - [[Bela Qwey]]: partymate

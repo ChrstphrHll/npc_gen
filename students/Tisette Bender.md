@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Rosherren Haladavar
   type: partymate
-organizations: []
+organizations:
+- name: Burk Silkball
+  type: Member
+- name: Hand of Order
+  type: Member
+- name: Spellweavers
+  type: Member
 notes: []
 track: Assault
 spec: Paladin
@@ -43,6 +49,9 @@ partyID: 95
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Burk_Silkball
+- Hand_of_Order
+- Spellweavers
 - Paladin
 - Assault
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Burk Silkball]]: Member
+- [[Hand of Order]]: Member
+- [[Spellweavers]]: Member
 
 ### Relationships
 - [[Brinna Muerlara]]: partymate

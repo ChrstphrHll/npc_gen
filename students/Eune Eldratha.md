@@ -24,7 +24,11 @@ relationships:
   type: partymate
 - name: Tezani Morthil
   type: partymate
-organizations: []
+organizations:
+- name: Stack Scalers
+  type: Member
+- name: Walltoppers
+  type: Leadership
 notes: []
 track: Protection
 spec: Druid
@@ -41,6 +45,8 @@ partyID: 34
 tags:
 - Triton
 - Whyndiem
+- Stack_Scalers
+- Walltoppers
 - Druid
 - Protection
 - Student
@@ -58,6 +64,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Stack Scalers]]: Member
+- [[Walltoppers]]: Leadership
 
 ### Relationships
 - [[Evyn Fenton]]: partymate

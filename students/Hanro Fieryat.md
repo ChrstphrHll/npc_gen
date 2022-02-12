@@ -25,7 +25,11 @@ relationships:
   type: partymate
 - name: Jamie Kesefehon
   type: partymate
-organizations: []
+organizations:
+- name: Aquaculture
+  type: Member
+- name: Forgetenders
+  type: Member
 notes: []
 track: Exploration
 spec: Paladin
@@ -42,6 +46,8 @@ partyID: 16
 tags:
 - Triton
 - Glasscliff_Garisons
+- Aquaculture
+- Forgetenders
 - Paladin
 - Exploration
 - Student
@@ -59,6 +65,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Aquaculture]]: Member
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Rasy Merlara]]: partymate

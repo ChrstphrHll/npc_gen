@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Myddin Hastos
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Threaded Needle
+  type: Member
+- name: The Second Pillar Players
+  type: Member
 notes: []
 track: Diplomacy
 spec: Monk
@@ -46,6 +52,9 @@ partyID: 22
 tags:
 - Tiefling
 - Kordinia
+- Splinters
+- Threaded_Needle
+- The_Second_Pillar_Players
 - Monk
 - Diplomacy
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Threaded Needle]]: Member
+- [[The Second Pillar Players]]: Member
 
 ### Relationships
 - [[Gabrilo Kulo]]: partymate

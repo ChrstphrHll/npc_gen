@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Jaxon Brindarry
   type: partymate
-organizations: []
+organizations:
+- name: Jettenia Silkball
+  type: Member
+- name: Threaded Needle
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Assault
 spec: Ranger
@@ -44,6 +50,9 @@ partyID: 28
 tags:
 - Half-Orc
 - Magmus_Centerhold
+- Jettenia_Silkball
+- Threaded_Needle
+- Ruin_Runners
 - Ranger
 - Assault
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Jettenia Silkball]]: Member
+- [[Threaded Needle]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Cartyr Tamsin]]: partymate

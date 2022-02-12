@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Delsenora Strohm
   type: partymate
-organizations: []
+organizations:
+- name: Grason's Claw
+  type: Member
+- name: Alderden Silkball
+  type: Leader
+- name: Hand of Order
+  type: Member
 notes: []
 track: Protection
 spec: Monk
@@ -42,6 +48,9 @@ partyID: 15
 tags:
 - Triton
 - Whyndiem
+- Grason's_Claw
+- Alderden_Silkball
+- Hand_of_Order
 - Monk
 - Protection
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Grason's Claw]]: Member
+- [[Alderden Silkball]]: Leader
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Josius Iliphar]]: partymate

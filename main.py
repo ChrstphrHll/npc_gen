@@ -1,5 +1,5 @@
-from Person import Person
-from Student import Student
+from person import Person
+from student import Student
 import student_body as sb_gen
 import organizational_utilities.roster_utilities as ru
 import relational_functions.connect_party as cp

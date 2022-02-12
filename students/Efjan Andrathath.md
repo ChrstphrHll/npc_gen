@@ -25,7 +25,11 @@ relationships:
   type: partymate
 - name: Averra Taleisin
   type: partymate
-organizations: []
+organizations:
+- name: Forgetenders
+  type: Member
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Protection
 spec: Druid
@@ -42,6 +46,8 @@ partyID: 31
 tags:
 - Gnome
 - Aldercrown_Empire
+- Forgetenders
+- Inventors_Initiative
 - Druid
 - Protection
 - Student
@@ -59,6 +65,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Forgetenders]]: Member
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Taanyth Seeker]]: partymate

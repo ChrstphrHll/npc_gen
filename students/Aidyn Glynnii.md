@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Allisa Iahalae
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Member
+- name: Cracked Bell
+  type: Member
+- name: Splinters
+  type: Member
 notes: []
 track: Exploration
 spec: Monk
@@ -42,6 +48,9 @@ partyID: 2
 tags:
 - Half-Orc
 - Magmus_Centerhold
+- Half_Notes
+- Cracked_Bell
+- Splinters
 - Monk
 - Exploration
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Member
+- [[Cracked Bell]]: Member
+- [[Splinters]]: Member
 
 ### Relationships
 - [[Jothen Elway]]: partymate

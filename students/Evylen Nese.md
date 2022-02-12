@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Jaedyn Arbane
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Member
+- name: Mysten Students for a Better Revendale
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Protection
 spec: Rouge
@@ -45,6 +51,9 @@ partyID: 69
 tags:
 - Gnome
 - Shadesburry_Initiative
+- LOAM
+- Mysten_Students_for_a_Better_Revendale
+- Hand_of_Order
 - Rouge
 - Protection
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Member
+- [[Mysten Students for a Better Revendale]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Kova Tamara]]: partymate

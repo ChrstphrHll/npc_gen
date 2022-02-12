@@ -22,7 +22,13 @@ relevance: 0
 relationships:
 - name: Kazoan Windward
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: The Second Pillar Players
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Ranger
@@ -39,6 +45,9 @@ partyID: 70
 tags:
 - Tiefling
 - Aldercrown_Empire
+- Wayfinders
+- The_Second_Pillar_Players
+- Masked_Many
 - Ranger
 - Diplomacy
 - Student
@@ -56,6 +65,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[The Second Pillar Players]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Kazoan Windward]]: partymate

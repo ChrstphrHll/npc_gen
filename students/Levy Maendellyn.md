@@ -24,7 +24,11 @@ relationships:
   type: partymate
 - name: Jacoby Maeraddyth
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Burk Silkball
+  type: Member
 notes: []
 track: Assault
 spec: Fighter
@@ -41,6 +45,8 @@ partyID: 36
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Wayfinders
+- Burk_Silkball
 - Fighter
 - Assault
 - Student
@@ -58,6 +64,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Burk Silkball]]: Member
 
 ### Relationships
 - [[Isaias Vaalyun]]: partymate

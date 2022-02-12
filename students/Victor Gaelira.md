@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Handyr Letryal
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Member
+- name: Cracked Bell
+  type: Member
+- name: Grason's Claw
+  type: Member
 notes: []
 track: Diplomacy
 spec: Barbarian
@@ -44,6 +50,9 @@ partyID: 96
 tags:
 - Half-Elf
 - Magmus_Centerhold
+- Half_Notes
+- Cracked_Bell
+- Grason's_Claw
 - Barbarian
 - Diplomacy
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Member
+- [[Cracked Bell]]: Member
+- [[Grason's Claw]]: Member
 
 ### Relationships
 - [[Halya Jian]]: partymate

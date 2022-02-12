@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Coriss Biafyndar
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Ruin Runners
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Fighter
@@ -41,6 +47,9 @@ partyID: 53
 tags:
 - Elf
 - Beleriand
+- Wayfinders
+- Ruin_Runners
+- Masked_Many
 - Fighter
 - Diplomacy
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Ruin Runners]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Alexandyr Aulauthar]]: partymate

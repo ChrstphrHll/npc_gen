@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Nicolle Shandalar
   type: partymate
-organizations: []
+organizations:
+- name: Mysten Students for a Better Revendale
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
+- name: Mendary Practitioners
+  type: Member
 notes: []
 track: Assault
 spec: Druid
@@ -44,6 +50,9 @@ partyID: 82
 tags:
 - Goliath
 - Chillwild_Peaks
+- Mysten_Students_for_a_Better_Revendale
+- Ashari_Cultural_Group
+- Mendary_Practitioners
 - Druid
 - Assault
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Mysten Students for a Better Revendale]]: Member
+- [[Ashari Cultural Group]]: Member
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Wulfe Galan]]: partymate

@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Vaellyn Esyae
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Forgetenders
+  type: Member
+- name: Phantasmal Reality Lab
+  type: Member
 notes: []
 track: Exploration
 spec: Paladin
@@ -41,6 +47,9 @@ partyID: 33
 tags:
 - Dwarf
 - Aldercrown_Empire
+- Wayfinders
+- Forgetenders
+- Phantasmal_Reality_Lab
 - Paladin
 - Exploration
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Forgetenders]]: Member
+- [[Phantasmal Reality Lab]]: Member
 
 ### Relationships
 - [[Kymber Korrigash]]: partymate

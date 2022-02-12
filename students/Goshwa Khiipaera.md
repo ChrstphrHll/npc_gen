@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Mavrek Aolis
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Grason's Claw
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Exploration
 spec: Fighter
@@ -45,6 +51,9 @@ partyID: 47
 tags:
 - Firbolg
 - Verdain
+- Splinters
+- Grason's_Claw
+- Ruin_Runners
 - Fighter
 - Exploration
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Grason's Claw]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Julyo Agassi]]: partymate

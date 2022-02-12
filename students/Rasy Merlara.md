@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Jamie Kesefehon
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: LOAM
+  type: Member
+- name: Wayfinders
+  type: Member
 notes: []
 track: Exploration
 spec: Wizard
@@ -42,6 +48,9 @@ partyID: 16
 tags:
 - Dwarf
 - Aldercrown_Empire
+- Cracked_Bell
+- LOAM
+- Wayfinders
 - Wizard
 - Exploration
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[LOAM]]: Member
+- [[Wayfinders]]: Member
 
 ### Relationships
 - [[Hanro Fieryat]]: partymate

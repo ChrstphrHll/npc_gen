@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Holys Hachaam
   type: partymate
-organizations: []
+organizations:
+- name: Grason's Claw
+  type: Member
+- name: Forgetenders
+  type: Member
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Exploration
 spec: Paladin
@@ -44,6 +50,9 @@ partyID: 90
 tags:
 - Genasi
 - Principality_of_the_Palus_Peoples
+- Grason's_Claw
+- Forgetenders
+- Pious_Fellowship
 - Paladin
 - Exploration
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Grason's Claw]]: Member
+- [[Forgetenders]]: Member
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Diegon Verrona]]: partymate

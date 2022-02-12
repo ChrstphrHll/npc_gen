@@ -29,7 +29,9 @@ relationships:
   type: partymate
 - name: Andrey Rauthomyr
   type: partymate
-organizations: []
+organizations:
+- name: Hand of Order
+  type: Member
 notes: []
 track: Protection
 spec: Cleric
@@ -46,6 +48,7 @@ partyID: 91
 tags:
 - Aasimar
 - Floating_Island
+- Hand_of_Order
 - Cleric
 - Protection
 - Student
@@ -63,6 +66,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Jandar Pleufan]]: partymate

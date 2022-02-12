@@ -28,7 +28,9 @@ relationships:
   type: partymate
 - name: Lea Nuvian
   type: partymate
-organizations: []
+organizations:
+- name: Ashari Cultural Group
+  type: Member
 notes: []
 track: Assault
 spec: Monk
@@ -45,6 +47,7 @@ partyID: 56
 tags:
 - Human
 - Verdain
+- Ashari_Cultural_Group
 - Monk
 - Assault
 - Student
@@ -62,6 +65,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Ashari Cultural Group]]: Member
 
 ### Relationships
 - [[Aryana Ahrendue]]: partymate

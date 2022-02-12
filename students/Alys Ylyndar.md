@@ -24,7 +24,11 @@ relevance: 0
 relationships:
 - name: Brynn Opalul
   type: partymate
-organizations: []
+organizations:
+- name: Questboard Daily
+  type: Member
+- name: Walltoppers
+  type: Member
 notes: []
 track: Diplomacy
 spec: Monk
@@ -41,6 +45,8 @@ partyID: 39
 tags:
 - Human
 - Qualnis
+- Questboard_Daily
+- Walltoppers
 - Monk
 - Diplomacy
 - Student
@@ -58,6 +64,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Questboard Daily]]: Member
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Brynn Opalul]]: partymate

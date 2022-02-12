@@ -26,7 +26,11 @@ relationships:
   type: partymate
 - name: Athyn Urddusk
   type: partymate
-organizations: []
+organizations:
+- name: Mysten Students for a Better Revendale
+  type: Member
+- name: Threaded Needle
+  type: Member
 notes: []
 track: Assault
 spec: Monk
@@ -43,6 +47,8 @@ partyID: 40
 tags:
 - Half-Elf
 - Aldercrown_Empire
+- Mysten_Students_for_a_Better_Revendale
+- Threaded_Needle
 - Monk
 - Assault
 - Student
@@ -60,6 +66,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Mysten Students for a Better Revendale]]: Member
+- [[Threaded Needle]]: Member
 
 ### Relationships
 - [[Velmona Elway]]: partymate

@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Rasy Merlara
   type: partymate
-organizations: []
+organizations:
+- name: Ruin Runners
+  type: Member
+- name: Spellweavers
+  type: Member
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Diplomacy
 spec: Sorcerer
@@ -41,6 +47,9 @@ partyID: 16
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Ruin_Runners
+- Spellweavers
+- Inventors_Initiative
 - Sorcerer
 - Diplomacy
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Ruin Runners]]: Member
+- [[Spellweavers]]: Member
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Hanro Fieryat]]: partymate

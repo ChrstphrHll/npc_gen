@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Kaeli Khiiral
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Splinters
+  type: Member
+- name: Treskal Silkball
+  type: Leader
 notes: []
 track: Protection
 spec: Ranger
@@ -43,6 +49,9 @@ partyID: 89
 tags:
 - Dragonborn
 - Draconia
+- Cracked_Bell
+- Splinters
+- Treskal_Silkball
 - Ranger
 - Protection
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Splinters]]: Member
+- [[Treskal Silkball]]: Leader
 
 ### Relationships
 - [[Pinna Vanius]]: partymate

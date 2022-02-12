@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Jaris Amlaruil
   type: partymate
-organizations: []
+organizations:
+- name: Mysten Students for a Better Revendale
+  type: Member
+- name: Spellweavers
+  type: Member
+- name: Stack Scalers
+  type: Leader
 notes: []
 track: Assault
 spec: Sorcerer
@@ -41,6 +47,9 @@ partyID: 10
 tags:
 - Tiefling
 - Aldercrown_Empire
+- Mysten_Students_for_a_Better_Revendale
+- Spellweavers
+- Stack_Scalers
 - Sorcerer
 - Assault
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Mysten Students for a Better Revendale]]: Member
+- [[Spellweavers]]: Member
+- [[Stack Scalers]]: Leader
 
 ### Relationships
 - [[Jareth Tanseril]]: partymate

@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Vaervenshalice Eloen
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Pious Fellowship
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Exploration
 spec: Cleric
@@ -45,6 +51,9 @@ partyID: 51
 tags:
 - Firbolg
 - Principality_of_the_Palus_Peoples
+- Wayfinders
+- Pious_Fellowship
+- Ruin_Runners
 - Cleric
 - Exploration
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Pious Fellowship]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Ysaac Aelrue]]: partymate

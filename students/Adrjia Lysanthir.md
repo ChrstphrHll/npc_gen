@@ -30,7 +30,13 @@ relationships:
   type: partymate
 - name: Evylen Nese
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Hand of Order
+  type: Member
+- name: Walltoppers
+  type: Member
 notes: []
 track: Assault
 spec: Ranger
@@ -47,6 +53,9 @@ partyID: 69
 tags:
 - Triton
 - Whyndiem
+- Splinters
+- Hand_of_Order
+- Walltoppers
 - Ranger
 - Assault
 - Student
@@ -64,6 +73,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Hand of Order]]: Member
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Kova Tamara]]: partymate

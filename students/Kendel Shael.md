@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Asmiak Seirye
   type: partymate
-organizations: []
+organizations:
+- name: Dragon Chess Club
+  type: Member
+- name: Inventors Initiative
+  type: Member
+- name: Walltoppers
+  type: Member
 notes: []
 track: Exploration
 spec: Rouge
@@ -42,6 +48,9 @@ partyID: 43
 tags:
 - Firbolg
 - Shadesburry_Initiative
+- Dragon_Chess_Club
+- Inventors_Initiative
+- Walltoppers
 - Rouge
 - Exploration
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Dragon Chess Club]]: Member
+- [[Inventors Initiative]]: Member
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Hessos Adorellan]]: partymate

@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Lincon Nylaathria
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Splinters
+  type: Member
+- name: Spellweavers
+  type: Member
 notes: []
 track: Exploration
 spec: Ranger
@@ -42,6 +48,9 @@ partyID: 75
 tags:
 - Elf
 - Aldercrown_Empire
+- Cracked_Bell
+- Splinters
+- Spellweavers
 - Ranger
 - Exploration
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Splinters]]: Member
+- [[Spellweavers]]: Member
 
 ### Relationships
 - [[Hazel Winters]]: partymate

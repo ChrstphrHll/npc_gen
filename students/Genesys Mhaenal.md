@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Delja Iefyr
   type: partymate
-organizations: []
+organizations:
+- name: Mysten Students for a Better Revendale
+  type: Member
+- name: Hand of Order
+  type: Member
+- name: Stack Scalers
+  type: Member
 notes: []
 track: Assault
 spec: Monk
@@ -44,6 +50,9 @@ partyID: 38
 tags:
 - Gnome
 - Floating_Island
+- Mysten_Students_for_a_Better_Revendale
+- Hand_of_Order
+- Stack_Scalers
 - Monk
 - Assault
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Mysten Students for a Better Revendale]]: Member
+- [[Hand of Order]]: Member
+- [[Stack Scalers]]: Member
 
 ### Relationships
 - [[Hodus Belt]]: partymate

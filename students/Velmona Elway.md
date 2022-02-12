@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Athyn Urddusk
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Treskal Silkball
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
 notes: []
 track: Assault
 spec: Monk
@@ -41,6 +47,9 @@ partyID: 40
 tags:
 - Kenku
 - Black_Rock
+- Wayfinders
+- Treskal_Silkball
+- Ashari_Cultural_Group
 - Monk
 - Assault
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Treskal Silkball]]: Member
+- [[Ashari Cultural Group]]: Member
 
 ### Relationships
 - [[Theodus Chylnoth]]: partymate

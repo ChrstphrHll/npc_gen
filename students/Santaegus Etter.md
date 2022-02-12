@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Yoshen Arcaena
   type: partymate
-organizations: []
+organizations:
+- name: Spellweavers
+  type: Member
+- name: The Second Pillar Players
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Exploration
 spec: Bard
@@ -43,6 +49,9 @@ partyID: 3
 tags:
 - Firbolg
 - Chillwild_Peaks
+- Spellweavers
+- The_Second_Pillar_Players
+- Masked_Many
 - Bard
 - Exploration
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Spellweavers]]: Member
+- [[The Second Pillar Players]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Giacomo Edraele]]: partymate

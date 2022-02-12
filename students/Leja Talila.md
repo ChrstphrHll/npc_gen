@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Natalia Endo
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Spellweavers
+  type: Leadership
+- name: Enchantary
+  type: Member
 notes: []
 track: Diplomacy
 spec: Sorcerer
@@ -40,6 +46,9 @@ partyID: 83
 tags:
 - Elf
 - Beleriand
+- Cracked_Bell
+- Spellweavers
+- Enchantary
 - Sorcerer
 - Diplomacy
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Spellweavers]]: Leadership
+- [[Enchantary]]: Member
 
 ### Relationships
 - [[Natalia Endo]]: partymate

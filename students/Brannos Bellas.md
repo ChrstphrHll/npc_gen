@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Ragnar Illitran
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Member
+- name: Alderden Silkball
+  type: Leadership
+- name: Trenchers
+  type: Leadership
 notes: []
 track: Protection
 spec: Barbarian
@@ -41,6 +47,9 @@ partyID: 42
 tags:
 - Human
 - Floating_Island
+- Half_Notes
+- Alderden_Silkball
+- Trenchers
 - Barbarian
 - Protection
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Member
+- [[Alderden Silkball]]: Leadership
+- [[Trenchers]]: Leadership
 
 ### Relationships
 - [[Tylor Llewellenar]]: partymate

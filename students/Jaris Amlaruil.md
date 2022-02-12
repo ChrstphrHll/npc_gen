@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Aksel Strohm
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Jettenia Silkball
+  type: Leader
+- name: Dragon Chess Club
+  type: Member
 notes: []
 track: Protection
 spec: Fighter
@@ -42,6 +48,9 @@ partyID: 10
 tags:
 - Triton
 - Whyndiem
+- Splinters
+- Jettenia_Silkball
+- Dragon_Chess_Club
 - Fighter
 - Protection
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Jettenia Silkball]]: Leader
+- [[Dragon Chess Club]]: Member
 
 ### Relationships
 - [[Jareth Tanseril]]: partymate

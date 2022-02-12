@@ -29,7 +29,9 @@ relationships:
   type: partymate
 - name: Iasono Ynshael
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
 notes: []
 track: Assault
 spec: Ranger
@@ -46,6 +48,7 @@ partyID: 68
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Splinters
 - Ranger
 - Assault
 - Student
@@ -63,6 +66,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
 
 ### Relationships
 - [[Ysak Llewellenar]]: partymate

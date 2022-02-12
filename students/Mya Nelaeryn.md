@@ -28,7 +28,9 @@ relationships:
   type: partymate
 - name: Tylus Ytharra
   type: partymate
-organizations: []
+organizations:
+- name: The Second Pillar Players
+  type: Member
 notes: []
 track: Protection
 spec: Barbarian
@@ -45,6 +47,7 @@ partyID: 22
 tags:
 - Human
 - Aldercrown_Empire
+- The_Second_Pillar_Players
 - Barbarian
 - Protection
 - Student
@@ -62,6 +65,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[The Second Pillar Players]]: Member
 
 ### Relationships
 - [[Gabrilo Kulo]]: partymate

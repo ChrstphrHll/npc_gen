@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Thenol Shialaevar
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Inner Circle Judges
+  type: Member
+- name: Burk Silkball
+  type: Leader
 notes: []
 track: Exploration
 spec: Barbarian
@@ -40,6 +46,9 @@ partyID: 1
 tags:
 - Dragonborn
 - Draconia
+- Wayfinders
+- Inner_Circle_Judges
+- Burk_Silkball
 - Barbarian
 - Exploration
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Inner Circle Judges]]: Member
+- [[Burk Silkball]]: Leader
 
 ### Relationships
 - [[Thenol Shialaevar]]: partymate

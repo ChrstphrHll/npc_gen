@@ -27,7 +27,9 @@ relationships:
   type: partymate
 - name: Genesys Mhaenal
   type: partymate
-organizations: []
+organizations:
+- name: Stack Scalers
+  type: Member
 notes: []
 track: Assault
 spec: Bard
@@ -44,6 +46,7 @@ partyID: 38
 tags:
 - Elf
 - Verdain
+- Stack_Scalers
 - Bard
 - Assault
 - Student
@@ -61,6 +64,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Stack Scalers]]: Member
 
 ### Relationships
 - [[Shike Thalaera]]: partymate

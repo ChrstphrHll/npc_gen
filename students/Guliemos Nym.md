@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Turi Chandrelle
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Leadership
+- name: Grason's Claw
+  type: Member
+- name: Mysten Students for a Better Revendale
+  type: Member
 notes: []
 track: Diplomacy
 spec: Fighter
@@ -43,6 +49,9 @@ partyID: 13
 tags:
 - Half-Elf
 - Beleriand
+- LOAM
+- Grason's_Claw
+- Mysten_Students_for_a_Better_Revendale
 - Fighter
 - Diplomacy
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Leadership
+- [[Grason's Claw]]: Member
+- [[Mysten Students for a Better Revendale]]: Member
 
 ### Relationships
 - [[Kunjal Iefyr]]: partymate

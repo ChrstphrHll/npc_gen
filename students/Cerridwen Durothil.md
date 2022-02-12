@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Ungris Riluaneth
   type: partymate
-organizations: []
+organizations:
+- name: Spellweavers
+  type: Member
+- name: Walltoppers
+  type: Member
+- name: Phantasmal Reality Lab
+  type: Member
 notes: []
 track: Exploration
 spec: Ranger
@@ -43,6 +49,9 @@ partyID: 63
 tags:
 - Half-Elf
 - Shadesburry_Initiative
+- Spellweavers
+- Walltoppers
+- Phantasmal_Reality_Lab
 - Ranger
 - Exploration
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Spellweavers]]: Member
+- [[Walltoppers]]: Member
+- [[Phantasmal Reality Lab]]: Member
 
 ### Relationships
 - [[Gerrimar Vulkor]]: partymate

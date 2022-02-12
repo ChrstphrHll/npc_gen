@@ -23,7 +23,9 @@ relevance: 0
 relationships:
 - name: Rivik Connak
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
 notes: []
 track: Assault
 spec: Ranger
@@ -40,6 +42,7 @@ partyID: 30
 tags:
 - Human
 - Qualnis
+- Splinters
 - Ranger
 - Assault
 - Student
@@ -57,6 +60,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
 
 ### Relationships
 - [[Rivik Connak]]: partymate

@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Theriss Deularla
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Enchantary
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Assault
 spec: Bard
@@ -46,6 +52,9 @@ partyID: 58
 tags:
 - Elf
 - Beleriand
+- Splinters
+- Enchantary
+- Masked_Many
 - Bard
 - Assault
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Enchantary]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Karl Cauladra]]: partymate

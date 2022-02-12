@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Ezekius Chalsarda
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Splinters
+  type: Member
+- name: Trenchers
+  type: Member
 notes: []
 track: Protection
 spec: Monk
@@ -41,6 +47,9 @@ partyID: 29
 tags:
 - Dwarf
 - Aldercrown_Empire
+- Wayfinders
+- Splinters
+- Trenchers
 - Monk
 - Protection
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Splinters]]: Member
+- [[Trenchers]]: Member
 
 ### Relationships
 - [[Moki Aelynthi]]: partymate

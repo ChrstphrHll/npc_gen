@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Oyara Faoraar
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Trenchers
+  type: Member
+- name: Spellweavers
+  type: Member
 notes: []
 track: Diplomacy
 spec: Sorcerer
@@ -40,6 +46,9 @@ partyID: 76
 tags:
 - Dragonborn
 - Draconia
+- Wayfinders
+- Trenchers
+- Spellweavers
 - Sorcerer
 - Diplomacy
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Trenchers]]: Member
+- [[Spellweavers]]: Member
 
 ### Relationships
 - [[Oyara Faoraar]]: partymate

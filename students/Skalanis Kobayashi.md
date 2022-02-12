@@ -26,7 +26,11 @@ relationships:
   type: partymate
 - name: Miglus Yrlissa
   type: partymate
-organizations: []
+organizations:
+- name: Dragon Chess Club
+  type: Leader
+- name: Forgetenders
+  type: Leadership
 notes: []
 track: Exploration
 spec: Druid
@@ -43,6 +47,8 @@ partyID: 4
 tags:
 - Halfling
 - Aldercrown_Empire
+- Dragon_Chess_Club
+- Forgetenders
 - Druid
 - Exploration
 - Student
@@ -60,6 +66,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Dragon Chess Club]]: Leader
+- [[Forgetenders]]: Leadership
 
 ### Relationships
 - [[Pippi Langston]]: partymate

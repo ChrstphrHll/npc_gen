@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Evylen Nese
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Exploration
 spec: Monk
@@ -45,6 +51,9 @@ partyID: 69
 tags:
 - Elf
 - Beleriand
+- Wayfinders
+- Ashari_Cultural_Group
+- Ruin_Runners
 - Monk
 - Exploration
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Ashari Cultural Group]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Kova Tamara]]: partymate

@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Hagar Sakrattars
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
+- name: Threaded Needle
+  type: Member
 notes: []
 track: Protection
 spec: Cleric
@@ -42,6 +48,9 @@ partyID: 86
 tags:
 - Firbolg
 - Aldercrown_Empire
+- Wayfinders
+- Ashari_Cultural_Group
+- Threaded_Needle
 - Cleric
 - Protection
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Ashari Cultural Group]]: Member
+- [[Threaded Needle]]: Member
 
 ### Relationships
 - [[Lyonus Ioelena]]: partymate

@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Vila Tassarion
   type: partymate
-organizations: []
+organizations:
+- name: Alderden Silkball
+  type: Member
+- name: Threaded Needle
+  type: Member
+- name: Spellweavers
+  type: Leadership
 notes: []
 track: Assault
 spec: Sorcerer
@@ -43,6 +49,9 @@ partyID: 47
 tags:
 - Dragonborn
 - Draconia
+- Alderden_Silkball
+- Threaded_Needle
+- Spellweavers
 - Sorcerer
 - Assault
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Alderden Silkball]]: Member
+- [[Threaded Needle]]: Member
+- [[Spellweavers]]: Leadership
 
 ### Relationships
 - [[Julyo Agassi]]: partymate

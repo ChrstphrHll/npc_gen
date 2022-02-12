@@ -25,7 +25,9 @@ relationships:
   type: partymate
 - name: Taanyth Seeker
   type: partymate
-organizations: []
+organizations:
+- name: Forgetenders
+  type: Member
 notes: []
 track: Assault
 spec: Druid
@@ -42,6 +44,7 @@ partyID: 31
 tags:
 - Elf
 - Aldercrown_Empire
+- Forgetenders
 - Druid
 - Assault
 - Student
@@ -59,6 +62,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Efjan Andrathath]]: partymate

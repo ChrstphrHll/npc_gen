@@ -27,7 +27,11 @@ relationships:
   type: partymate
 - name: Lucoe Lorelei
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Diplomacy
 spec: Monk
@@ -44,6 +48,8 @@ partyID: 44
 tags:
 - Human
 - Aldercrown_Empire
+- Wayfinders
+- Pious_Fellowship
 - Monk
 - Diplomacy
 - Student
@@ -61,6 +67,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Willam Ardryll]]: partymate

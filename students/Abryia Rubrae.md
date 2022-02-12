@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Nicholus Morthil
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Member
+- name: Pious Fellowship
+  type: Member
+- name: Questboard Daily
+  type: Member
 notes: []
 track: Exploration
 spec: Monk
@@ -44,6 +50,9 @@ partyID: 93
 tags:
 - Halfling
 - Floating_Island
+- LOAM
+- Pious_Fellowship
+- Questboard_Daily
 - Monk
 - Exploration
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Member
+- [[Pious Fellowship]]: Member
+- [[Questboard Daily]]: Member
 
 ### Relationships
 - [[Yan Sorsasta]]: partymate

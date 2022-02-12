@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Jasjen Nlossae
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Forgetenders
+  type: Member
+- name: The Second Pillar Players
+  type: Member
 notes: []
 track: Diplomacy
 spec: Ranger
@@ -41,6 +47,9 @@ partyID: 65
 tags:
 - Dragonborn
 - Magmus_Centerhold
+- Splinters
+- Forgetenders
+- The_Second_Pillar_Players
 - Ranger
 - Diplomacy
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Forgetenders]]: Member
+- [[The Second Pillar Players]]: Member
 
 ### Relationships
 - [[Q Yulmanda]]: partymate

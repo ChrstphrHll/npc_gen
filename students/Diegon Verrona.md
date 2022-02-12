@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Holys Hachaam
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Alderden Silkball
+  type: Member
+- name: The Second Pillar Players
+  type: Member
 notes: []
 track: Diplomacy
 spec: Rouge
@@ -45,6 +51,9 @@ partyID: 90
 tags:
 - Dragonborn
 - Magmus_Centerhold
+- Cracked_Bell
+- Alderden_Silkball
+- The_Second_Pillar_Players
 - Rouge
 - Diplomacy
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Alderden Silkball]]: Member
+- [[The Second Pillar Players]]: Member
 
 ### Relationships
 - [[Adresin Ilbryn]]: partymate

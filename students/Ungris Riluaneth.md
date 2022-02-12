@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Cerridwen Durothil
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Leader
+- name: Inner Circle Judges
+  type: Member
+- name: Walltoppers
+  type: Member
 notes: []
 track: Diplomacy
 spec: Cleric
@@ -42,6 +48,9 @@ partyID: 63
 tags:
 - Dragonborn
 - Draconia
+- LOAM
+- Inner_Circle_Judges
+- Walltoppers
 - Cleric
 - Diplomacy
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Leader
+- [[Inner Circle Judges]]: Member
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Gerrimar Vulkor]]: partymate

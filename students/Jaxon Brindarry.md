@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Jovos Seldanna
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Member
+- name: Ruin Runners
+  type: Member
+- name: Golemic Consortium
+  type: Member
 notes: []
 track: Assault
 spec: Artificer
@@ -44,6 +50,9 @@ partyID: 28
 tags:
 - Elf
 - Kordinia
+- Half_Notes
+- Ruin_Runners
+- Golemic_Consortium
 - Artificer
 - Assault
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Member
+- [[Ruin Runners]]: Member
+- [[Golemic Consortium]]: Member
 
 ### Relationships
 - [[Railyn Retenia]]: partymate

@@ -22,7 +22,11 @@ relevance: 0
 relationships:
 - name: Sybasten Simimar
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Mendary Practitioners
+  type: Member
 notes: []
 track: Protection
 spec: Ranger
@@ -39,6 +43,8 @@ partyID: 76
 tags:
 - Halfling
 - Aldercrown_Empire
+- Cracked_Bell
+- Mendary_Practitioners
 - Ranger
 - Protection
 - Student
@@ -56,6 +62,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Sybasten Simimar]]: partymate

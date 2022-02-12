@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Rei Mardeiym
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Leadership
+- name: Alderden Silkball
+  type: Member
+- name: Mysten Students for a Better Revendale
+  type: Member
 notes: []
 track: Diplomacy
 spec: Ranger
@@ -42,6 +48,9 @@ partyID: 6
 tags:
 - Triton
 - Whyndiem
+- Wayfinders
+- Alderden_Silkball
+- Mysten_Students_for_a_Better_Revendale
 - Ranger
 - Diplomacy
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Leadership
+- [[Alderden Silkball]]: Member
+- [[Mysten Students for a Better Revendale]]: Member
 
 ### Relationships
 - [[Cam Lazziar]]: partymate

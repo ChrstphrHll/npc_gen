@@ -22,7 +22,9 @@ relevance: 0
 relationships:
 - name: Nebulon Faelyn
   type: partymate
-organizations: []
+organizations:
+- name: Stack Scalers
+  type: Member
 notes: []
 track: Diplomacy
 spec: Paladin
@@ -39,6 +41,7 @@ partyID: 74
 tags:
 - Dwarf
 - Aldercrown_Empire
+- Stack_Scalers
 - Paladin
 - Diplomacy
 - Student
@@ -56,6 +59,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Stack Scalers]]: Member
 
 ### Relationships
 - [[Nebulon Faelyn]]: partymate

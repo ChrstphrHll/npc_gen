@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Ungris Riluaneth
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Forgetenders
+  type: Member
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Exploration
 spec: Cleric
@@ -44,6 +50,9 @@ partyID: 63
 tags:
 - Firbolg
 - Verdain
+- Wayfinders
+- Forgetenders
+- Pious_Fellowship
 - Cleric
 - Exploration
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Forgetenders]]: Member
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Cerridwen Durothil]]: partymate

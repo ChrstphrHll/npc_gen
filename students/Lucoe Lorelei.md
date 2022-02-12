@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Themistoklea Nevarth
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Grason's Claw
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Exploration
 spec: Barbarian
@@ -44,6 +50,9 @@ partyID: 44
 tags:
 - Dwarf
 - Aldercrown_Empire
+- Cracked_Bell
+- Grason's_Claw
+- Hand_of_Order
 - Barbarian
 - Exploration
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Grason's Claw]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Willam Ardryll]]: partymate

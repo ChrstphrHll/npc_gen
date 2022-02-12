@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Natylie Rathal
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Ruin Runners
+  type: Member
+- name: Questboard Daily
+  type: Member
 notes: []
 track: Diplomacy
 spec: Ranger
@@ -42,6 +48,9 @@ partyID: 97
 tags:
 - Human
 - Beleriand
+- Wayfinders
+- Ruin_Runners
+- Questboard_Daily
 - Ranger
 - Diplomacy
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Ruin Runners]]: Member
+- [[Questboard Daily]]: Member
 
 ### Relationships
 - [[Kloya Kershaw]]: partymate

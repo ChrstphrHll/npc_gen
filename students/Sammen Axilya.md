@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Eadyth Lora
   type: partymate
-organizations: []
+organizations:
+- name: Forgetenders
+  type: Member
+- name: Ruin Runners
+  type: Member
+- name: Stack Scalers
+  type: Member
 notes: []
 track: Diplomacy
 spec: Paladin
@@ -42,6 +48,9 @@ partyID: 26
 tags:
 - Human
 - Magmus_Centerhold
+- Forgetenders
+- Ruin_Runners
+- Stack_Scalers
 - Paladin
 - Diplomacy
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Forgetenders]]: Member
+- [[Ruin Runners]]: Member
+- [[Stack Scalers]]: Member
 
 ### Relationships
 - [[Ruby Kythaela]]: partymate

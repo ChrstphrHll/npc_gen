@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Gianna Rhistel
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Ashari Cultural Group
+  type: Member
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Assault
 spec: Druid
@@ -41,6 +47,9 @@ partyID: 73
 tags:
 - Tiefling
 - Aldercrown_Empire
+- Wayfinders
+- Ashari_Cultural_Group
+- Inventors_Initiative
 - Druid
 - Assault
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Ashari Cultural Group]]: Member
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Jamye Napraeleon]]: partymate

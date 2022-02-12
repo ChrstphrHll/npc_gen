@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Valerya Haldreithen
   type: partymate
-organizations: []
+organizations:
+- name: Alderden Silkball
+  type: Member
+- name: Forgetenders
+  type: Member
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Protection
 spec: Paladin
@@ -45,6 +51,9 @@ partyID: 18
 tags:
 - Tiefling
 - Aldercrown_Empire
+- Alderden_Silkball
+- Forgetenders
+- Pious_Fellowship
 - Paladin
 - Protection
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Alderden Silkball]]: Member
+- [[Forgetenders]]: Member
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Shinare Bersa]]: partymate

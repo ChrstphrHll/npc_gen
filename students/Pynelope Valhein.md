@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Tisette Bender
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Wayfinders
+  type: Member
+- name: Grason's Claw
+  type: Member
 notes: []
 track: Exploration
 spec: Rouge
@@ -43,6 +49,9 @@ partyID: 95
 tags:
 - Dragonborn
 - Magmus_Centerhold
+- Cracked_Bell
+- Wayfinders
+- Grason's_Claw
 - Rouge
 - Exploration
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Wayfinders]]: Member
+- [[Grason's Claw]]: Member
 
 ### Relationships
 - [[Brinna Muerlara]]: partymate

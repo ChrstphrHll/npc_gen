@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Hazel Traeliorn
   type: partymate
-organizations: []
+organizations:
+- name: Pious Fellowship
+  type: Member
+- name: Golemic Consortium
+  type: Member
+- name: The Second Pillar Players
+  type: Member
 notes: []
 track: Protection
 spec: Wizard
@@ -40,6 +46,9 @@ partyID: 41
 tags:
 - Triton
 - Whyndiem
+- Pious_Fellowship
+- Golemic_Consortium
+- The_Second_Pillar_Players
 - Wizard
 - Protection
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Pious Fellowship]]: Member
+- [[Golemic Consortium]]: Member
+- [[The Second Pillar Players]]: Member
 
 ### Relationships
 - [[Hazel Traeliorn]]: partymate

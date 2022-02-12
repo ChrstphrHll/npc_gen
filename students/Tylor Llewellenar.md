@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Ragnar Illitran
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Leadership
+- name: Splinters
+  type: Member
+- name: Mysten Students for a Better Revendale
+  type: Member
 notes: []
 track: Assault
 spec: Sorcerer
@@ -42,6 +48,9 @@ partyID: 42
 tags:
 - Warforged
 - Qualnis
+- Cracked_Bell
+- Splinters
+- Mysten_Students_for_a_Better_Revendale
 - Sorcerer
 - Assault
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Leadership
+- [[Splinters]]: Member
+- [[Mysten Students for a Better Revendale]]: Member
 
 ### Relationships
 - [[Brannos Bellas]]: partymate

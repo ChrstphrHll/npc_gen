@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Tez Bialaer
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Leader
+- name: Forgetenders
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Rouge
@@ -46,6 +52,9 @@ partyID: 79
 tags:
 - Firbolg
 - Verdain
+- Cracked_Bell
+- Forgetenders
+- Masked_Many
 - Rouge
 - Diplomacy
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Leader
+- [[Forgetenders]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Romen Uldreiyn]]: partymate

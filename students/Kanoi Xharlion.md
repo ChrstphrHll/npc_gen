@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Ljuk Vulkor
   type: partymate
-organizations: []
+organizations:
+- name: Ruin Runners
+  type: Member
+- name: Walltoppers
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Artificer
@@ -40,6 +46,9 @@ partyID: 84
 tags:
 - Dwarf
 - Beleriand
+- Ruin_Runners
+- Walltoppers
+- Masked_Many
 - Artificer
 - Diplomacy
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Ruin Runners]]: Member
+- [[Walltoppers]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Ljuk Vulkor]]: partymate

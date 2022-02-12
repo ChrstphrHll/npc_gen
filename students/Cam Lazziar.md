@@ -25,7 +25,11 @@ relationships:
   type: partymate
 - name: Rei Mardeiym
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Leader
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Protection
 spec: Bard
@@ -42,6 +46,8 @@ partyID: 6
 tags:
 - Firbolg
 - Verdain
+- Half_Notes
+- Pious_Fellowship
 - Bard
 - Protection
 - Student
@@ -59,6 +65,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Leader
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Jofan Elignoir]]: partymate

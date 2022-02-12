@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Melcyn Taeral
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Member
+- name: Hand of Order
+  type: Member
+- name: Enchantary
+  type: Member
 notes: []
 track: Protection
 spec: Artificer
@@ -44,6 +50,9 @@ partyID: 7
 tags:
 - Half-Elf
 - Shadesburry_Initiative
+- Half_Notes
+- Hand_of_Order
+- Enchantary
 - Artificer
 - Protection
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Member
+- [[Hand of Order]]: Member
+- [[Enchantary]]: Member
 
 ### Relationships
 - [[Tadita Edraele]]: partymate

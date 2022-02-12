@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Joyce Helartha
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Wayfinders
+  type: Member
+- name: Splinters
+  type: Member
 notes: []
 track: Protection
 spec: Paladin
@@ -41,6 +47,9 @@ partyID: 78
 tags:
 - Triton
 - Magmus_Centerhold
+- Cracked_Bell
+- Wayfinders
+- Splinters
 - Paladin
 - Protection
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Wayfinders]]: Member
+- [[Splinters]]: Member
 
 ### Relationships
 - [[Maia Ashsorrow]]: partymate

@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Aurikallos Biafyndar
   type: partymate
-organizations: []
+organizations:
+- name: Pious Fellowship
+  type: Member
+- name: Enchantary
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Cleric
@@ -45,6 +51,9 @@ partyID: 20
 tags:
 - Human
 - Qualnis
+- Pious_Fellowship
+- Enchantary
+- Masked_Many
 - Cleric
 - Diplomacy
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Pious Fellowship]]: Member
+- [[Enchantary]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Dylan Usunaar]]: partymate

@@ -29,7 +29,9 @@ relationships:
   type: partymate
 - name: Evylen Nese
   type: partymate
-organizations: []
+organizations:
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Exploration
 spec: Paladin
@@ -46,6 +48,7 @@ partyID: 69
 tags:
 - Half-Elf
 - Aldercrown_Empire
+- Inventors_Initiative
 - Paladin
 - Exploration
 - Student
@@ -63,6 +66,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Kova Tamara]]: partymate

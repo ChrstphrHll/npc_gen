@@ -25,7 +25,9 @@ relevance: 0
 relationships:
 - name: Favroe Kythaela
   type: partymate
-organizations: []
+organizations:
+- name: Forgetenders
+  type: Member
 notes: []
 track: Protection
 spec: Artificer
@@ -42,6 +44,7 @@ partyID: 19
 tags:
 - Half-Elf
 - Magmus_Centerhold
+- Forgetenders
 - Artificer
 - Protection
 - Student
@@ -59,6 +62,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Favroe Kythaela]]: partymate

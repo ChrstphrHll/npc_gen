@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Zylphan Molostroi
   type: partymate
-organizations: []
+organizations:
+- name: Hand of Order
+  type: Leader
+- name: Walltoppers
+  type: Leader
+- name: Mendary Practitioners
+  type: Member
 notes: []
 track: Protection
 spec: Fighter
@@ -45,6 +51,9 @@ partyID: 79
 tags:
 - Aasimar
 - Beleriand
+- Hand_of_Order
+- Walltoppers
+- Mendary_Practitioners
 - Fighter
 - Protection
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Hand of Order]]: Leader
+- [[Walltoppers]]: Leader
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Romen Uldreiyn]]: partymate

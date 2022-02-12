@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Handyr Letryal
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Dragon Chess Club
+  type: Member
+- name: The Second Pillar Players
+  type: Member
 notes: []
 track: Diplomacy
 spec: Druid
@@ -44,6 +50,9 @@ partyID: 96
 tags:
 - Human
 - Aldercrown_Empire
+- Wayfinders
+- Dragon_Chess_Club
+- The_Second_Pillar_Players
 - Druid
 - Diplomacy
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Dragon Chess Club]]: Member
+- [[The Second Pillar Players]]: Member
 
 ### Relationships
 - [[Halya Jian]]: partymate

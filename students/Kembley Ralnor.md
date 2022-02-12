@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Wenge Usunaar
   type: partymate
-organizations: []
+organizations:
+- name: Trenchers
+  type: Leader
+- name: Golemic Consortium
+  type: Member
+- name: Inventors Initiative
+  type: Member
 notes: []
 track: Protection
 spec: Sorcerer
@@ -42,6 +48,9 @@ partyID: 80
 tags:
 - Half-Orc
 - Beleriand
+- Trenchers
+- Golemic_Consortium
+- Inventors_Initiative
 - Sorcerer
 - Protection
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Trenchers]]: Leader
+- [[Golemic Consortium]]: Member
+- [[Inventors Initiative]]: Member
 
 ### Relationships
 - [[Celaeno Amkissra]]: partymate

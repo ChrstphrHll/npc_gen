@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Eva Reluvethel
   type: partymate
-organizations: []
+organizations:
+- name: Trenchers
+  type: Member
+- name: Inventors Initiative
+  type: Member
+- name: The Second Pillar Players
+  type: Member
 notes: []
 track: Assault
 spec: Bard
@@ -42,6 +48,9 @@ partyID: 54
 tags:
 - Tiefling
 - Aldercrown_Empire
+- Trenchers
+- Inventors_Initiative
+- The_Second_Pillar_Players
 - Bard
 - Assault
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Trenchers]]: Member
+- [[Inventors Initiative]]: Member
+- [[The Second Pillar Players]]: Member
 
 ### Relationships
 - [[Liris Bhyrindaar]]: partymate

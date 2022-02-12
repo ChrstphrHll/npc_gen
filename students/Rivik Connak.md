@@ -24,7 +24,11 @@ relevance: 0
 relationships:
 - name: Kessa Keller
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Forgetenders
+  type: Member
 notes: []
 track: Assault
 spec: Monk
@@ -41,6 +45,8 @@ partyID: 30
 tags:
 - Triton
 - Whyndiem
+- Splinters
+- Forgetenders
 - Monk
 - Assault
 - Student
@@ -58,6 +64,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Kessa Keller]]: partymate

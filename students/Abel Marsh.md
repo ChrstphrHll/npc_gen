@@ -24,7 +24,13 @@ relationships:
   type: partymate
 - name: Leonus Triktappic
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Forgetenders
+  type: Member
+- name: Hand of Order
+  type: Member
 notes:
 - the best char
 track: Exploration
@@ -42,6 +48,9 @@ partyID: 48
 tags:
 - Warforged
 - Shadesburry_Initiative
+- Splinters
+- Forgetenders
+- Hand_of_Order
 - Paladin
 - Exploration
 - Student
@@ -60,6 +69,9 @@ tags:
 - the best char
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Forgetenders]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Uxwy Lazziar]]: partymate

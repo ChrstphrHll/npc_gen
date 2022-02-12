@@ -26,7 +26,11 @@ relationships:
   type: partymate
 - name: Brithmaur Decker
   type: partymate
-organizations: []
+organizations:
+- name: Forgetenders
+  type: Member
+- name: Enchantary
+  type: Leader
 notes: []
 track: Protection
 spec: Artificer
@@ -43,6 +47,8 @@ partyID: 25
 tags:
 - Dwarf
 - Beleriand
+- Forgetenders
+- Enchantary
 - Artificer
 - Protection
 - Student
@@ -60,6 +66,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Forgetenders]]: Member
+- [[Enchantary]]: Leader
 
 ### Relationships
 - [[Braidyn Kemetra]]: partymate

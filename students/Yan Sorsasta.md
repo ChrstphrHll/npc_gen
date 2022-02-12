@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Nicholus Morthil
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Leadership
+- name: Questboard Daily
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Barbarian
@@ -43,6 +49,9 @@ partyID: 93
 tags:
 - Dwarf
 - Aldercrown_Empire
+- Splinters
+- Questboard_Daily
+- Masked_Many
 - Barbarian
 - Diplomacy
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Leadership
+- [[Questboard Daily]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Abryia Rubrae]]: partymate

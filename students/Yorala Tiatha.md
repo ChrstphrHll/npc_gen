@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Ivistra Stockton
   type: partymate
-organizations: []
+organizations:
+- name: Jettenia Silkball
+  type: Member
+- name: Ashari Cultural Group
+  type: Leader
+- name: Spellweavers
+  type: Member
 notes: []
 track: Protection
 spec: Monk
@@ -46,6 +52,9 @@ partyID: 35
 tags:
 - Triton
 - Whyndiem
+- Jettenia_Silkball
+- Ashari_Cultural_Group
+- Spellweavers
 - Monk
 - Protection
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Jettenia Silkball]]: Member
+- [[Ashari Cultural Group]]: Leader
+- [[Spellweavers]]: Member
 
 ### Relationships
 - [[Matos Mektal]]: partymate

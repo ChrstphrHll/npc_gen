@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Ahtye Elhieardacil
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Member
+- name: Burk Silkball
+  type: Member
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Exploration
 spec: Rouge
@@ -42,6 +48,9 @@ partyID: 81
 tags:
 - Genasi
 - Verdain
+- LOAM
+- Burk_Silkball
+- Pious_Fellowship
 - Rouge
 - Exploration
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Member
+- [[Burk Silkball]]: Member
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Santyeg Kuskyn]]: partymate

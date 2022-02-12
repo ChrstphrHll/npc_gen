@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Delsenora Strohm
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Jettenia Silkball
+  type: Member
+- name: Stack Scalers
+  type: Member
 notes: []
 track: Assault
 spec: Rouge
@@ -42,6 +48,9 @@ partyID: 15
 tags:
 - Genasi
 - Aldercrown_Empire
+- Cracked_Bell
+- Jettenia_Silkball
+- Stack_Scalers
 - Rouge
 - Assault
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Jettenia Silkball]]: Member
+- [[Stack Scalers]]: Member
 
 ### Relationships
 - [[Surge Fayd]]: partymate

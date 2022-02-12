@@ -29,7 +29,11 @@ relationships:
   type: partymate
 - name: Lichie Halliwell
   type: partymate
-organizations: []
+organizations:
+- name: Forgetenders
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Assault
 spec: Paladin
@@ -46,6 +50,8 @@ partyID: 82
 tags:
 - Genasi
 - Shadesburry_Initiative
+- Forgetenders
+- Hand_of_Order
 - Paladin
 - Assault
 - Student
@@ -63,6 +69,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Forgetenders]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Yakob Lydialeera]]: partymate

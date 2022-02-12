@@ -29,7 +29,9 @@ relationships:
   type: partymate
 - name: Andrey Rauthomyr
   type: partymate
-organizations: []
+organizations:
+- name: Walltoppers
+  type: Member
 notes: []
 track: Assault
 spec: Druid
@@ -46,6 +48,7 @@ partyID: 91
 tags:
 - Human
 - Qualnis
+- Walltoppers
 - Druid
 - Assault
 - Student
@@ -63,6 +66,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Jandar Pleufan]]: partymate

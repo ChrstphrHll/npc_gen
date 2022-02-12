@@ -25,7 +25,11 @@ relationships:
   type: partymate
 - name: Roman Erolith
   type: partymate
-organizations: []
+organizations:
+- name: Enchantary
+  type: Member
+- name: Masked Many
+  type: Leadership
 notes: []
 track: Diplomacy
 spec: Cleric
@@ -42,6 +46,8 @@ partyID: 5
 tags:
 - Human
 - Qualnis
+- Enchantary
+- Masked_Many
 - Cleric
 - Diplomacy
 - Student
@@ -59,6 +65,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Enchantary]]: Member
+- [[Masked Many]]: Leadership
 
 ### Relationships
 - [[Meira Nuvian]]: partymate

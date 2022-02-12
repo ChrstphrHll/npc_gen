@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Robbos Kalaerede
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Spellweavers
+  type: Member
+- name: Enchantary
+  type: Member
 notes: []
 track: Diplomacy
 spec: Sorcerer
@@ -44,6 +50,9 @@ partyID: 7
 tags:
 - Firbolg
 - Verdain
+- Cracked_Bell
+- Spellweavers
+- Enchantary
 - Sorcerer
 - Diplomacy
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Spellweavers]]: Member
+- [[Enchantary]]: Member
 
 ### Relationships
 - [[Tadita Edraele]]: partymate

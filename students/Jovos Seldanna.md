@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Jaxon Brindarry
   type: partymate
-organizations: []
+organizations:
+- name: Forgetenders
+  type: Member
+- name: Pious Fellowship
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Assault
 spec: Paladin
@@ -44,6 +50,9 @@ partyID: 28
 tags:
 - Half-Elf
 - Qualnis
+- Forgetenders
+- Pious_Fellowship
+- Hand_of_Order
 - Paladin
 - Assault
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Forgetenders]]: Member
+- [[Pious Fellowship]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Railyn Retenia]]: partymate

@@ -30,7 +30,9 @@ relationships:
   type: friends
 - name: Exilov Dokburn
   type: friends
-organizations: []
+organizations:
+- name: Mendary Practitioners
+  type: Member
 notes:
 - Follower of Avandra
 - Steals things she thinks are more useful to her than others
@@ -49,6 +51,7 @@ partyID: 54
 tags:
 - Goliath
 - Chillwild_Peaks
+- Mendary_Practitioners
 - Paladin
 - Protection
 - Student
@@ -68,6 +71,7 @@ tags:
 - Steals things she thinks are more useful to her than others
 
 ### Organizations
+- [[Mendary Practitioners]]: Member
 
 ### Relationships
 - [[Caeleb Embrae]]: partymate

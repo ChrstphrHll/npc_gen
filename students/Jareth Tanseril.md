@@ -26,7 +26,9 @@ relationships:
   type: partymate
 - name: Aksel Strohm
   type: partymate
-organizations: []
+organizations:
+- name: The Second Pillar Players
+  type: Leader
 notes: []
 track: Exploration
 spec: Artificer
@@ -43,6 +45,7 @@ partyID: 10
 tags:
 - Gnome
 - Shadesburry_Initiative
+- The_Second_Pillar_Players
 - Artificer
 - Exploration
 - Student
@@ -60,6 +63,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[The Second Pillar Players]]: Leader
 
 ### Relationships
 - [[Jaris Amlaruil]]: partymate

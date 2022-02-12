@@ -26,7 +26,9 @@ relationships:
   type: partymate
 - name: Jofan Elignoir
   type: partymate
-organizations: []
+organizations:
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Protection
 spec: Sorcerer
@@ -43,6 +45,7 @@ partyID: 6
 tags:
 - Firbolg
 - Floating_Island
+- Pious_Fellowship
 - Sorcerer
 - Protection
 - Student
@@ -60,6 +63,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Cam Lazziar]]: partymate

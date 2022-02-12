@@ -25,7 +25,13 @@ relationships:
   type: partymate
 - name: Sammen Axilya
   type: partymate
-organizations: []
+organizations:
+- name: Grason's Claw
+  type: Member
+- name: Trenchers
+  type: Member
+- name: Threaded Needle
+  type: Leadership
 notes: []
 track: Protection
 spec: Fighter
@@ -42,6 +48,9 @@ partyID: 26
 tags:
 - Triton
 - Whyndiem
+- Grason's_Claw
+- Trenchers
+- Threaded_Needle
 - Fighter
 - Protection
 - Student
@@ -59,6 +68,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Grason's Claw]]: Member
+- [[Trenchers]]: Member
+- [[Threaded Needle]]: Leadership
 
 ### Relationships
 - [[Eadyth Lora]]: partymate

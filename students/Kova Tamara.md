@@ -29,7 +29,11 @@ relationships:
   type: partymate
 - name: Evylen Nese
   type: partymate
-organizations: []
+organizations:
+- name: Treskal Silkball
+  type: Member
+- name: Threaded Needle
+  type: Member
 notes: []
 track: Assault
 spec: Fighter
@@ -46,6 +50,8 @@ partyID: 69
 tags:
 - Firbolg
 - Verdain
+- Treskal_Silkball
+- Threaded_Needle
 - Fighter
 - Assault
 - Student
@@ -63,6 +69,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Treskal Silkball]]: Member
+- [[Threaded Needle]]: Member
 
 ### Relationships
 - [[Adrjia Lysanthir]]: partymate

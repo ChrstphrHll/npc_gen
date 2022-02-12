@@ -28,7 +28,13 @@ relationships:
   type: partymate
 - name: Emilanus Shields
   type: partymate
-organizations: []
+organizations:
+- name: Half Notes
+  type: Member
+- name: Forgetenders
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Assault
 spec: Artificer
@@ -45,6 +51,9 @@ partyID: 91
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Half_Notes
+- Forgetenders
+- Ruin_Runners
 - Artificer
 - Assault
 - Student
@@ -62,6 +71,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Half Notes]]: Member
+- [[Forgetenders]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Jandar Pleufan]]: partymate

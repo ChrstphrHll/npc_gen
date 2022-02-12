@@ -26,7 +26,11 @@ relationships:
   type: partymate
 - name: Caeleb Embrae
   type: partymate
-organizations: []
+organizations:
+- name: Grason's Claw
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Assault
 spec: Wizard
@@ -43,6 +47,8 @@ partyID: 54
 tags:
 - Human
 - Aldercrown_Empire
+- Grason's_Claw
+- Ruin_Runners
 - Wizard
 - Assault
 - Student
@@ -60,6 +66,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Grason's Claw]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Liris Bhyrindaar]]: partymate

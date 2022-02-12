@@ -24,7 +24,11 @@ relevance: 0
 relationships:
 - name: Wren Urmicca
   type: partymate
-organizations: []
+organizations:
+- name: Burk Silkball
+  type: Member
+- name: Forgetenders
+  type: Member
 notes: []
 track: Protection
 spec: Barbarian
@@ -41,6 +45,8 @@ partyID: 14
 tags:
 - Human
 - Beleriand
+- Burk_Silkball
+- Forgetenders
 - Barbarian
 - Protection
 - Student
@@ -58,6 +64,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Burk Silkball]]: Member
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Wren Urmicca]]: partymate

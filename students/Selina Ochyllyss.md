@@ -29,7 +29,13 @@ relationships:
   type: partymate
 - name: Ivistra Stockton
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Inner Circle Judges
+  type: Member
+- name: Jettenia Silkball
+  type: Member
 notes: []
 track: Exploration
 spec: Monk
@@ -46,6 +52,9 @@ partyID: 35
 tags:
 - Dwarf
 - Qualnis
+- Splinters
+- Inner_Circle_Judges
+- Jettenia_Silkball
 - Monk
 - Exploration
 - Student
@@ -63,6 +72,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Inner Circle Judges]]: Member
+- [[Jettenia Silkball]]: Member
 
 ### Relationships
 - [[Matos Mektal]]: partymate

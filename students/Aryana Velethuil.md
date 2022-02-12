@@ -24,7 +24,13 @@ relevance: 0
 relationships:
 - name: Abramo Sudryl
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Threaded Needle
+  type: Member
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Wizard
@@ -41,6 +47,9 @@ partyID: 32
 tags:
 - Kenku
 - Aldercrown_Empire
+- Cracked_Bell
+- Threaded_Needle
+- Masked_Many
 - Wizard
 - Diplomacy
 - Student
@@ -58,6 +67,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Threaded Needle]]: Member
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Abramo Sudryl]]: partymate

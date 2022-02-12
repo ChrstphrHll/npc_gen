@@ -30,7 +30,13 @@ relationships:
   type: partymate
 - name: Iasono Ynshael
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
+- name: Grason's Claw
+  type: Member
+- name: Hand of Order
+  type: Member
 notes: []
 track: Protection
 spec: Cleric
@@ -47,6 +53,9 @@ partyID: 68
 tags:
 - Goliath
 - Chillwild_Peaks
+- Wayfinders
+- Grason's_Claw
+- Hand_of_Order
 - Cleric
 - Protection
 - Student
@@ -64,6 +73,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
+- [[Grason's Claw]]: Member
+- [[Hand of Order]]: Member
 
 ### Relationships
 - [[Matto Divya]]: partymate

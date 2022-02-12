@@ -24,7 +24,9 @@ relationships:
   type: partymate
 - name: Lilia Agrippa
   type: partymate
-organizations: []
+organizations:
+- name: Wayfinders
+  type: Member
 notes: []
 track: Protection
 spec: Artificer
@@ -41,6 +43,7 @@ partyID: 94
 tags:
 - Dragonborn
 - Draconia
+- Wayfinders
 - Artificer
 - Protection
 - Student
@@ -58,6 +61,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Wayfinders]]: Member
 
 ### Relationships
 - [[Braddeus Jacaranda]]: partymate

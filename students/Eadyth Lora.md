@@ -25,7 +25,9 @@ relationships:
   type: partymate
 - name: Sammen Axilya
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
 notes: []
 track: Protection
 spec: Rouge
@@ -42,6 +44,7 @@ partyID: 26
 tags:
 - Goliath
 - Chillwild_Peaks
+- Cracked_Bell
 - Rouge
 - Protection
 - Student
@@ -59,6 +62,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
 
 ### Relationships
 - [[Ruby Kythaela]]: partymate

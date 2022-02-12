@@ -25,7 +25,11 @@ relationships:
   type: partymate
 - name: Tylor Llewellenar
   type: partymate
-organizations: []
+organizations:
+- name: Questboard Daily
+  type: Leader
+- name: Masked Many
+  type: Member
 notes: []
 track: Diplomacy
 spec: Artificer
@@ -42,6 +46,8 @@ partyID: 42
 tags:
 - Halfling
 - Beleriand
+- Questboard_Daily
+- Masked_Many
 - Artificer
 - Diplomacy
 - Student
@@ -59,6 +65,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Questboard Daily]]: Leader
+- [[Masked Many]]: Member
 
 ### Relationships
 - [[Brannos Bellas]]: partymate

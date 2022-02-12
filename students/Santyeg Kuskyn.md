@@ -26,7 +26,11 @@ relationships:
   type: partymate
 - name: Ahtye Elhieardacil
   type: partymate
-organizations: []
+organizations:
+- name: Splinters
+  type: Member
+- name: Forgetenders
+  type: Member
 notes: []
 track: Assault
 spec: Rouge
@@ -43,6 +47,8 @@ partyID: 81
 tags:
 - Elf
 - Beleriand
+- Splinters
+- Forgetenders
 - Rouge
 - Assault
 - Student
@@ -60,6 +66,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Splinters]]: Member
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Malchor Tenyajn]]: partymate

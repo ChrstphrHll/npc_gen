@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Tisette Bender
   type: partymate
-organizations: []
+organizations:
+- name: Aquaculture
+  type: Member
+- name: Burk Silkball
+  type: Member
+- name: Pious Fellowship
+  type: Member
 notes: []
 track: Exploration
 spec: Barbarian
@@ -43,6 +49,9 @@ partyID: 95
 tags:
 - Halfling
 - Verdain
+- Aquaculture
+- Burk_Silkball
+- Pious_Fellowship
 - Barbarian
 - Exploration
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Aquaculture]]: Member
+- [[Burk Silkball]]: Member
+- [[Pious Fellowship]]: Member
 
 ### Relationships
 - [[Pynelope Valhein]]: partymate

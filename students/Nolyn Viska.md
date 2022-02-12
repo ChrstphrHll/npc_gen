@@ -27,7 +27,11 @@ relationships:
   type: partymate
 - name: Dejana Keller
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Exploration
 spec: Wizard
@@ -44,6 +48,8 @@ partyID: 51
 tags:
 - Elf
 - Beleriand
+- LOAM
+- Ruin_Runners
 - Wizard
 - Exploration
 - Student
@@ -61,6 +67,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Ysaac Aelrue]]: partymate

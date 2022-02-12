@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Helera Urkensvall
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
+- name: Enchantary
+  type: Member
+- name: Tincture Tinkerers
+  type: Member
 notes: []
 track: Exploration
 spec: Bard
@@ -43,6 +49,9 @@ partyID: 9
 tags:
 - Firbolg
 - Verdain
+- Cracked_Bell
+- Enchantary
+- Tincture_Tinkerers
 - Bard
 - Exploration
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
+- [[Enchantary]]: Member
+- [[Tincture Tinkerers]]: Member
 
 ### Relationships
 - [[Aelisabeth Soliania]]: partymate

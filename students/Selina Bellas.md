@@ -27,7 +27,13 @@ relationships:
   type: partymate
 - name: Felgie Eldar
   type: partymate
-organizations: []
+organizations:
+- name: Jettenia Silkball
+  type: Member
+- name: Trenchers
+  type: Member
+- name: Threaded Needle
+  type: Member
 notes: []
 track: Assault
 spec: Paladin
@@ -44,6 +50,9 @@ partyID: 60
 tags:
 - Aasimar
 - Verdain
+- Jettenia_Silkball
+- Trenchers
+- Threaded_Needle
 - Paladin
 - Assault
 - Student
@@ -61,6 +70,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Jettenia Silkball]]: Member
+- [[Trenchers]]: Member
+- [[Threaded Needle]]: Member
 
 ### Relationships
 - [[Mateos Elanil]]: partymate

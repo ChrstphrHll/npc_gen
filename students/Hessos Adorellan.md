@@ -25,7 +25,11 @@ relationships:
   type: partymate
 - name: Asmiak Seirye
   type: partymate
-organizations: []
+organizations:
+- name: The Second Pillar Players
+  type: Member
+- name: Questboard Daily
+  type: Member
 notes: []
 track: Exploration
 spec: Wizard
@@ -42,6 +46,8 @@ partyID: 43
 tags:
 - Gnome
 - Shadesburry_Initiative
+- The_Second_Pillar_Players
+- Questboard_Daily
 - Wizard
 - Exploration
 - Student
@@ -59,6 +65,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[The Second Pillar Players]]: Member
+- [[Questboard Daily]]: Member
 
 ### Relationships
 - [[Kendel Shael]]: partymate

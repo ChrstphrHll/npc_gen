@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Gabrila Retra
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Member
+- name: Aquaculture
+  type: Member
+- name: Inner Circle Judges
+  type: Member
 notes: []
 track: Diplomacy
 spec: Cleric
@@ -43,6 +49,9 @@ partyID: 45
 tags:
 - Dragonborn
 - Draconia
+- LOAM
+- Aquaculture
+- Inner_Circle_Judges
 - Cleric
 - Diplomacy
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Member
+- [[Aquaculture]]: Member
+- [[Inner Circle Judges]]: Member
 
 ### Relationships
 - [[Hudsen Elandorr]]: partymate

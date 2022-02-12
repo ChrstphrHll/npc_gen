@@ -22,7 +22,11 @@ relevance: 0
 relationships:
 - name: Faliah Oluevaera
   type: partymate
-organizations: []
+organizations:
+- name: Spellweavers
+  type: Member
+- name: Walltoppers
+  type: Member
 notes: []
 track: Assault
 spec: Wizard
@@ -39,6 +43,8 @@ partyID: 92
 tags:
 - Firbolg
 - Verdain
+- Spellweavers
+- Walltoppers
 - Wizard
 - Assault
 - Student
@@ -56,6 +62,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Spellweavers]]: Member
+- [[Walltoppers]]: Member
 
 ### Relationships
 - [[Faliah Oluevaera]]: partymate

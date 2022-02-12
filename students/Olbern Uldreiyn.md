@@ -23,7 +23,13 @@ relevance: 0
 relationships:
 - name: Connovar Kaminsky
   type: partymate
-organizations: []
+organizations:
+- name: Mysten Students for a Better Revendale
+  type: Member
+- name: Ruin Runners
+  type: Member
+- name: Stack Scalers
+  type: Member
 notes: []
 track: Assault
 spec: Sorcerer
@@ -40,6 +46,9 @@ partyID: 62
 tags:
 - Human
 - Floating_Island
+- Mysten_Students_for_a_Better_Revendale
+- Ruin_Runners
+- Stack_Scalers
 - Sorcerer
 - Assault
 - Student
@@ -57,6 +66,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Mysten Students for a Better Revendale]]: Member
+- [[Ruin Runners]]: Member
+- [[Stack Scalers]]: Member
 
 ### Relationships
 - [[Connovar Kaminsky]]: partymate

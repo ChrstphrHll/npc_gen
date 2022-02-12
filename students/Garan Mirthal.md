@@ -31,7 +31,13 @@ relationships:
   type: partymate
 - name: Iasono Ynshael
   type: partymate
-organizations: []
+organizations:
+- name: LOAM
+  type: Member
+- name: Jettenia Silkball
+  type: Member
+- name: Mysten Students for a Better Revendale
+  type: Member
 notes: []
 track: Exploration
 spec: Ranger
@@ -48,6 +54,9 @@ partyID: 68
 tags:
 - Halfling
 - Floating_Island
+- LOAM
+- Jettenia_Silkball
+- Mysten_Students_for_a_Better_Revendale
 - Ranger
 - Exploration
 - Student
@@ -65,6 +74,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[LOAM]]: Member
+- [[Jettenia Silkball]]: Member
+- [[Mysten Students for a Better Revendale]]: Member
 
 ### Relationships
 - [[Matto Divya]]: partymate

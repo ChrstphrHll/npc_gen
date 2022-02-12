@@ -26,7 +26,11 @@ relationships:
   type: partymate
 - name: Iaen Dannyd
   type: partymate
-organizations: []
+organizations:
+- name: Jettenia Silkball
+  type: Member
+- name: Forgetenders
+  type: Member
 notes: []
 track: Assault
 spec: Artificer
@@ -43,6 +47,8 @@ partyID: 61
 tags:
 - Human
 - Aldercrown_Empire
+- Jettenia_Silkball
+- Forgetenders
 - Artificer
 - Assault
 - Student
@@ -60,6 +66,8 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Jettenia Silkball]]: Member
+- [[Forgetenders]]: Member
 
 ### Relationships
 - [[Everen Malfoy]]: partymate

@@ -24,7 +24,9 @@ relevance: 0
 relationships:
 - name: Iamus Aneirin
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
 notes: []
 track: Assault
 spec: Ranger
@@ -41,6 +43,7 @@ partyID: 74
 tags:
 - Gnome
 - Shadesburry_Initiative
+- Cracked_Bell
 - Ranger
 - Assault
 - Student
@@ -58,6 +61,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
 
 ### Relationships
 - [[Iamus Aneirin]]: partymate

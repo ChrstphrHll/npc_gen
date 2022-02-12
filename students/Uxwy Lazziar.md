@@ -25,7 +25,9 @@ relationships:
   type: partymate
 - name: Leonus Triktappic
   type: partymate
-organizations: []
+organizations:
+- name: Cracked Bell
+  type: Member
 notes: []
 track: Assault
 spec: Sorcerer
@@ -42,6 +44,7 @@ partyID: 48
 tags:
 - Human
 - Qualnis
+- Cracked_Bell
 - Sorcerer
 - Assault
 - Student
@@ -59,6 +62,7 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Cracked Bell]]: Member
 
 ### Relationships
 - [[Abel Marsh]]: partymate

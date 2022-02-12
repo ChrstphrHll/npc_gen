@@ -26,7 +26,13 @@ relationships:
   type: partymate
 - name: Grace Festus
   type: partymate
-organizations: []
+organizations:
+- name: Alderden Silkball
+  type: Member
+- name: Pious Fellowship
+  type: Member
+- name: Ruin Runners
+  type: Member
 notes: []
 track: Diplomacy
 spec: Rouge
@@ -43,6 +49,9 @@ partyID: 20
 tags:
 - Half-Orc
 - Chillwild_Peaks
+- Alderden_Silkball
+- Pious_Fellowship
+- Ruin_Runners
 - Rouge
 - Diplomacy
 - Student
@@ -60,6 +69,9 @@ tags:
 ### Notes
 
 ### Organizations
+- [[Alderden Silkball]]: Member
+- [[Pious Fellowship]]: Member
+- [[Ruin Runners]]: Member
 
 ### Relationships
 - [[Delila Felaern]]: partymate
